@@ -1,5 +1,6 @@
 services:
   web:
+    container_name: alphina-web-1
     image: nginx:alpine
     volumes:
       - ./:/usr/share/nginx/html:ro
@@ -7,12 +8,6 @@ services:
     restart: unless-stopped
     networks:
       - proxy
-    labels:
-      - "traefik.enable=true"
-      - "traefik.http.routers.alfina.rule=Host(`alphina.net`) || Host(`www.alphina.net`)"
-      - "traefik.http.routers.alfina.entrypoints=websecure"
-      - "traefik.http.routers.alfina.tls.certresolver=letsencrypt"
-      - "traefik.http.services.alfina.loadbalancer.server.port=80"
 
 networks:
   proxy:
