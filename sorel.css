@@ -1,0 +1,16 @@
+/* Sorel — dark, sacred, candlelight */
+:root {
+  --cream: #eae6e1;
+  --warm: #d4cdc4;
+  --ink: #1e1c19;
+  --muted: #5e5850;
+  --accent: #8b6f47;
+  --accent-faint: rgba(139, 111, 71, 0.1);
+  --accent-mid: rgba(139, 111, 71, 0.15);
+  --sage: #4a4238;
+  --deep: #0f0e0c;
+  --deep-text: #d4cdc4;
+  --smoke: #7a7068;
+  --header-gradient-end: #c8bfb3;
+  --portrait-bg: linear-gradient(135deg, #d4cdc4 0%, #b8ae9f 50%, #eae6e1 100%);
+}
