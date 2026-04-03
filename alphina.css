@@ -1,0 +1,10 @@
+/* Alphina — warm, botanical, gold */
+:root {
+  --accent: #b8860b;
+  --accent-faint: rgba(184, 134, 11, 0.1);
+  --accent-mid: rgba(184, 134, 11, 0.15);
+  --header-gradient-end: #f0e6d8;
+  --deep: #1a1714;
+  --deep-text: #f0e6d8;
+  --portrait-bg: linear-gradient(135deg, #f0e6d8 0%, #e8ddd0 50%, #faf6f1 100%);
+}

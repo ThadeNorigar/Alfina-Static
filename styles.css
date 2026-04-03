@@ -2,15 +2,21 @@
 
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
+/* Defaults — overridden by per-character CSS */
 :root {
   --cream: #faf6f1;
   --warm: #f0e6d8;
   --ink: #2c2420;
   --muted: #7a6e63;
   --accent: #b8860b;
+  --accent-faint: var(--accent-faint);
+  --accent-mid: rgba(184, 134, 11, 0.15);
   --sage: #7a8c6a;
   --deep: #1a1714;
+  --deep-text: #f0e6d8;
   --smoke: #9e958b;
+  --header-gradient-end: #f0e6d8;
+  --portrait-bg: linear-gradient(135deg, #f0e6d8 0%, #e8ddd0 50%, #faf6f1 100%);
 }
 
 body {
@@ -84,7 +90,7 @@ header {
   text-align: center;
   padding: 2rem;
   position: relative;
-  background: linear-gradient(180deg, var(--cream) 0%, var(--warm) 100%);
+  background: linear-gradient(180deg, var(--cream) 0%, var(--header-gradient-end) 100%);
 }
 
 .ornament {
@@ -168,8 +174,8 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, var(--warm) 0%, #e8ddd0 50%, var(--cream) 100%);
-  border: 1px solid rgba(184, 134, 11, 0.15);
+  background: var(--portrait-bg);
+  border: 1px solid var(--accent-mid);
   position: relative;
   overflow: hidden;
 }
@@ -246,15 +252,17 @@ p {
 .interest {
   padding: 1.5rem;
   background: rgba(255,255,255,0.5);
-  border: 1px solid rgba(184, 134, 11, 0.1);
+  border: 1px solid var(--accent-faint);
   border-radius: 8px;
   text-align: center;
 }
 
 .interest-icon {
-  font-size: 1.8rem;
-  margin-bottom: 0.8rem;
+  width: 32px;
+  height: 32px;
+  margin: 0 auto 0.8rem;
   display: block;
+  color: var(--accent);
 }
 
 .interest-label {
@@ -274,8 +282,8 @@ p {
 }
 
 .dark-band h2 { color: var(--accent); }
-.dark-band p { color: var(--warm); opacity: 0.85; }
-.dark-band .quote { color: var(--warm); opacity: 0.9; }
+.dark-band p { color: var(--deep-text); opacity: 0.85; }
+.dark-band .quote { color: var(--deep-text); opacity: 0.9; }
 
 /* --- PRINCIPLES --- */
 .principles {
@@ -288,7 +296,7 @@ p {
 .principles li {
   font-size: 1.05rem;
   line-height: 1.85;
-  color: var(--warm);
+  color: var(--deep-text);
   opacity: 0.85;
   margin-bottom: 1rem;
   padding-left: 1.5rem;
@@ -348,7 +356,7 @@ p {
 /* --- LETTER --- */
 .letter {
   background: rgba(255,255,255,0.6);
-  border: 1px solid rgba(184, 134, 11, 0.12);
+  border: 1px solid var(--accent-faint);
   border-radius: 4px;
   padding: 2.5rem 2rem;
   font-family: 'Cormorant Garamond', serif;
@@ -382,7 +390,7 @@ p {
 footer {
   text-align: center;
   padding: 3rem 2rem;
-  border-top: 1px solid rgba(184, 134, 11, 0.1);
+  border-top: 1px solid var(--accent-faint);
 }
 
 footer p {

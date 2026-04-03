@@ -1,0 +1,16 @@
+/* Vesper — cool, mechanical, precise */
+:root {
+  --cream: #f2f0ed;
+  --warm: #e5e0d8;
+  --ink: #2a2725;
+  --muted: #6e6862;
+  --accent: #8a7e72;
+  --accent-faint: rgba(138, 126, 114, 0.1);
+  --accent-mid: rgba(138, 126, 114, 0.15);
+  --sage: #5a524a;
+  --deep: #1c1a18;
+  --deep-text: #e5e0d8;
+  --smoke: #8a8279;
+  --header-gradient-end: #e5e0d8;
+  --portrait-bg: linear-gradient(135deg, #e5e0d8 0%, #d8d2ca 50%, #f2f0ed 100%);
+}
