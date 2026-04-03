@@ -16,7 +16,7 @@ Dieser hier wächst auf dem einundfünfzigsten Breitengrad. In einem botanischen
 
 Ich lese den Namen und meine Fingerspitzen kribbeln.
 
-Stärker als bei der Efeutute. Ein Summen das in den Knochen meiner Hände anfängt und sich ausbreitet, durch die Handgelenke, die Unterarme, bis in die Ellbogen, und es hört nicht auf, es wächst, als hätte jemand eine Tür geöffnet die lange geschlossen war und was dahinter stand drängt jetzt heraus, nicht auf einmal, aber stetig, und die Teetasse neben dem Brief vibriert. Ich spüre es in den Fingern die das Papier halten, eine Vibration die vom Brief kommt oder von mir oder von dem Namen auf dem Papier, und ich lese ihn noch einmal.
+Stärker als bei der Efeutute. Ein Summen das in den Knochen meiner Hände anfängt und sich ausbreitet, durch die Handgelenke, die Unterarme, bis in die Ellbogen, und es hört nicht auf, es wächst, als hätte jemand eine Tür geöffnet die lange geschlossen war und was dahinter stand drängt jetzt heraus, nicht auf einmal, aber stetig, und die Teetasse neben dem Brief — kalt, seit Stunden, vergessen — vibriert. Ich spüre es in den Fingern die das Papier halten, eine Vibration die vom Brief kommt oder von mir oder von dem Namen auf dem Papier, und ich lese ihn noch einmal.
 
 Vael.
 
@@ -26,7 +26,7 @@ Der Farn am Fenster dreht sich.
 
 Ruckartig. Alle fünf Wedel. In Richtung des Briefs.
 
-Ich stehe auf und der Stuhl fällt um, hinter mir, das Holz schlägt auf die Dielen, auf die Stelle die knarrt, und das Knarren vermischt sich mit dem Geräusch des Stuhls, und ich kümmere mich nicht darum. Ich trete zurück, zwei Schritte, drei, und mein Rücken berührt die Wand, den kalten Putz, und der Farn dreht sich weiter. Auf mich zu. Die Wedel schwenken durch die Luft, lautlos, und richten sich auf mich aus, alle fünf, und das Mondlicht fällt auf ihre Oberfläche und sie glänzen, feucht und lebendig.
+Ich stehe auf und der Stuhl fällt um, hinter mir, das Holz schlägt auf die Dielen, auf die Stelle die knarrt, und das Knarren vermischt sich mit dem Geräusch des Stuhls, und ich kümmere mich nicht darum. Ich trete zurück, zwei Schritte, drei, und mein Rücken berührt die Wand, den kalten Putz, und der Farn dreht sich weiter. Auf mich zu. Die Wedel schwenken durch die Luft, lautlos, und richten sich auf mich aus, alle fünf, und das letzte Abendlicht fällt auf ihre Oberfläche und sie glänzen, feucht und lebendig.
 
 Ich trete nach links. Der Farn folgt. Nach rechts. Er folgt. Zehnmal teste ich es, mit der Präzision einer Frau die seit dreißig Jahren Pflanzen beobachtet und die weiß was Phototropismus ist und was Thigmotropismus und was Zufall.
 

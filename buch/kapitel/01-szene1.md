@@ -28,7 +28,7 @@ Das war der Moment, in dem ich aufgehört habe, mir einzureden, dass Pflanzen ni
 
 Ich lege meine Hand auf seine Erde. Die Erde unter meinen Fingern ist warm.
 
-Warm wie Haut. Ich drücke die Finger tiefer, bis zum ersten Knöchel, und die Wärme umschließt sie, feucht und weich. Die Heizung ist aus. Das Fenster ist offen. Es ist März, und die Luft trägt die Kälte des Grauen Meeres, das dreihundert Kilometer nördlich liegt und dessen Atem man in Velde manchmal spürt, an klaren Nächten, wenn der Wind dreht. Die Leute an der Grauküste nennen diesen Wind Vaeler Atem, hat mir einmal ein Kahnschiffer erzählt, ein alter Mann mit Händen wie Leder, der sagte, der Wind komme von einer Stadt am Meer, die auf etwas sitze, das nicht schlafen will. Ich habe gelacht. Er hat nicht gelacht.
+Warm wie Haut. Ich drücke die Finger tiefer, bis zum ersten Knöchel, und die Wärme umschließt sie, feucht und weich. Die Heizung ist aus. Das Fenster ist offen. Es ist März, und die Luft trägt die Kälte des Grauen Meeres, das dreihundert Kilometer nördlich liegt und dessen Atem man in Velde manchmal spürt, wenn der Wind aus Nordwest kommt. Heute Nacht kommt er aus Nordwest. Die Leute an der Grauküste nennen diesen Wind Vaeler Atem, hat mir einmal ein Kahnschiffer erzählt, ein alter Mann mit Händen wie Leder, der sagte, der Wind komme von einer Stadt am Meer, die auf etwas sitze, das nicht schlafen will. Ich habe gelacht. Er hat nicht gelacht.
 
 Es gibt keinen Grund, warum die Erde warm sein sollte.
 
@@ -60,7 +60,7 @@ Die Schublade in der Küche klemmt seit sieben Monaten. Laris hat sie repariert,
 
 Jetzt liege ich in meinem schmalen Bett und die Erde im Topf ist warm und mein Puls steigt. Achtundachtzig. Neunzig. Meine Hände werden feucht. Mein Atem —
 
-Die Kanäle fließen schwarz und gleichgültig vier Stockwerke unter mir. Auf dem Dach der Druckerei zeigt die Hand nach Norden. Im Bücherregal steht ein Roman, den ich nie gelesen habe. In neunundvierzig Töpfen ist die Erde warm.
+Die Kanäle fließen schwarz und gleichgültig vier Stockwerke unter mir. Auf dem Dach der Druckerei zeigt die Hand nach Norden. Im Bücherregal steht ein Roman, den ich nie gelesen habe. Im Topf neben mir ist die Erde warm.
 
 Dreiundneunzig.
 

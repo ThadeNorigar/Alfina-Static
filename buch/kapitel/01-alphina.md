@@ -30,7 +30,7 @@ Das war der Moment, in dem ich aufgehört habe, mir einzureden, dass Pflanzen ni
 
 Ich lege meine Hand auf seine Erde. Die Erde unter meinen Fingern ist warm.
 
-Warm wie Haut. Ich drücke die Finger tiefer, bis zum ersten Knöchel, und die Wärme umschließt sie, feucht und weich. Die Heizung ist aus. Das Fenster ist offen. Es ist März, und die Luft trägt die Kälte des Grauen Meeres, das dreihundert Kilometer nördlich liegt und dessen Atem man in Velde manchmal spürt, an klaren Nächten, wenn der Wind dreht. Die Leute an der Grauküste nennen diesen Wind Vaeler Atem, hat mir einmal ein Kahnschiffer erzählt, ein alter Mann mit Händen wie Leder, der sagte, der Wind komme von einer Stadt am Meer, die auf etwas sitze, das nicht schlafen will. Ich habe gelacht. Er hat nicht gelacht.
+Warm wie Haut. Ich drücke die Finger tiefer, bis zum ersten Knöchel, und die Wärme umschließt sie, feucht und weich. Die Heizung ist aus. Das Fenster ist offen. Es ist März, und die Luft trägt die Kälte des Grauen Meeres, das dreihundert Kilometer nördlich liegt und dessen Atem man in Velde manchmal spürt, wenn der Wind aus Nordwest kommt. Heute Nacht kommt er aus Nordwest. Die Leute an der Grauküste nennen diesen Wind Vaeler Atem, hat mir einmal ein Kahnschiffer erzählt, ein alter Mann mit Händen wie Leder, der sagte, der Wind komme von einer Stadt am Meer, die auf etwas sitze, das nicht schlafen will. Ich habe gelacht. Er hat nicht gelacht.
 
 Es gibt keinen Grund, warum die Erde warm sein sollte.
 
@@ -62,7 +62,7 @@ Die Schublade in der Küche klemmt seit sieben Monaten. Laris hat sie repariert,
 
 Jetzt liege ich in meinem schmalen Bett und die Erde im Topf ist warm und mein Puls steigt. Achtundachtzig. Neunzig. Meine Hände werden feucht. Mein Atem —
 
-Die Kanäle fließen schwarz und gleichgültig vier Stockwerke unter mir. Auf dem Dach der Druckerei zeigt die Hand nach Norden. Im Bücherregal steht ein Roman, den ich nie gelesen habe. In neunundvierzig Töpfen ist die Erde warm.
+Die Kanäle fließen schwarz und gleichgültig vier Stockwerke unter mir. Auf dem Dach der Druckerei zeigt die Hand nach Norden. Im Bücherregal steht ein Roman, den ich nie gelesen habe. Im Topf neben mir ist die Erde warm.
 
 Dreiundneunzig.
 
@@ -154,7 +154,7 @@ Dieser hier wächst auf dem einundfünfzigsten Breitengrad. In einem botanischen
 
 Ich lese den Namen und meine Fingerspitzen kribbeln.
 
-Stärker als bei der Efeutute. Ein Summen das in den Knochen meiner Hände anfängt und sich ausbreitet, durch die Handgelenke, die Unterarme, bis in die Ellbogen, und es hört nicht auf, es wächst, als hätte jemand eine Tür geöffnet die lange geschlossen war und was dahinter stand drängt jetzt heraus, nicht auf einmal, aber stetig, und die Teetasse neben dem Brief vibriert. Ich spüre es in den Fingern die das Papier halten, eine Vibration die vom Brief kommt oder von mir oder von dem Namen auf dem Papier, und ich lese ihn noch einmal.
+Stärker als bei der Efeutute. Ein Summen das in den Knochen meiner Hände anfängt und sich ausbreitet, durch die Handgelenke, die Unterarme, bis in die Ellbogen, und es hört nicht auf, es wächst, als hätte jemand eine Tür geöffnet die lange geschlossen war und was dahinter stand drängt jetzt heraus, nicht auf einmal, aber stetig, und die Teetasse neben dem Brief — kalt, seit Stunden, vergessen — vibriert. Ich spüre es in den Fingern die das Papier halten, eine Vibration die vom Brief kommt oder von mir oder von dem Namen auf dem Papier, und ich lese ihn noch einmal.
 
 Vael.
 
@@ -164,7 +164,7 @@ Der Farn am Fenster dreht sich.
 
 Ruckartig. Alle fünf Wedel. In Richtung des Briefs.
 
-Ich stehe auf und der Stuhl fällt um, hinter mir, das Holz schlägt auf die Dielen, auf die Stelle die knarrt, und das Knarren vermischt sich mit dem Geräusch des Stuhls, und ich kümmere mich nicht darum. Ich trete zurück, zwei Schritte, drei, und mein Rücken berührt die Wand, den kalten Putz, und der Farn dreht sich weiter. Auf mich zu. Die Wedel schwenken durch die Luft, lautlos, und richten sich auf mich aus, alle fünf, und das Mondlicht fällt auf ihre Oberfläche und sie glänzen, feucht und lebendig.
+Ich stehe auf und der Stuhl fällt um, hinter mir, das Holz schlägt auf die Dielen, auf die Stelle die knarrt, und das Knarren vermischt sich mit dem Geräusch des Stuhls, und ich kümmere mich nicht darum. Ich trete zurück, zwei Schritte, drei, und mein Rücken berührt die Wand, den kalten Putz, und der Farn dreht sich weiter. Auf mich zu. Die Wedel schwenken durch die Luft, lautlos, und richten sich auf mich aus, alle fünf, und das letzte Abendlicht fällt auf ihre Oberfläche und sie glänzen, feucht und lebendig.
 
 Ich trete nach links. Der Farn folgt. Nach rechts. Er folgt. Zehnmal teste ich es, mit der Präzision einer Frau die seit dreißig Jahren Pflanzen beobachtet und die weiß was Phototropismus ist und was Thigmotropismus und was Zufall.
 
