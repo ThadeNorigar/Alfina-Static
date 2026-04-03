@@ -158,7 +158,7 @@ Stärker als bei der Efeutute. Ein Summen das in den Knochen meiner Hände anfä
 
 Vael.
 
-Ich war nie an der Grauküste. Kenne niemanden dort. Aber das Kribbeln wird zu einem Pochen, warm und schwer, unter dem Brustbein. Der Kahnschiffer hat gesagt, der Wind komme von einer Stadt die auf etwas sitzt, das nicht schlafen will. Vael. Vael an der Grauküste, wo Purpurstein ins Meer ragt und der Nebel einen Namen hat. Ich kenne diese Stadt nicht und mein Körper erkennt sie trotzdem, als hätte ein Teil von mir dort gewartet, bevor ich wusste, dass der Ort existiert.
+Ich war nie an der Grauküste. Kenne niemanden dort. Aber das Kribbeln wird zu einem Pochen, warm und schwer, unter dem Brustbein. Der Kahnschiffer hat gesagt, der Wind komme von einer Stadt die auf etwas sitzt, das nicht schlafen will. Vael. Ich kenne diese Stadt nicht. Ich weiß nichts über sie, außer dass ein Farn dort wächst, der nicht wachsen dürfte. Und trotzdem erkennt mein Körper den Namen, als hätte ein Teil von mir dort gewartet, bevor ich wusste, dass der Ort existiert.
 
 Der Farn am Fenster dreht sich.
 
@@ -200,6 +200,6 @@ Unten, im Flur, die Monstera des Hausmeisters. Ich gehe an ihr vorbei. Kein Krib
 
 Drei Tage bis Vael.
 
-Ich weiß nicht warum ich fahre. Ich weiß nur, dass die Erde warm war. Und dass der Farn mich kennt. Und dass irgendwo, vierhundert Kilometer nördlich, in einer Stadt aus Purpurstein und Nebel, eine Pflanze wächst, die nicht wachsen dürfte. In einem Garten, der im Jahr des großen Feuers gegründet wurde.
+Ich weiß nicht warum ich fahre. Ich weiß nur, dass die Erde warm war. Und dass der Farn mich kennt. Und dass irgendwo, vierhundert Kilometer nördlich, an einer Küste die ich nie gesehen habe, eine Pflanze wächst, die nicht wachsen dürfte. In einem Garten, der im Jahr des großen Feuers gegründet wurde.
 
 Das muss reichen.
