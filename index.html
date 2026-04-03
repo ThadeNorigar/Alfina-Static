@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Alphina</title>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@300;400&family=JetBrains+Mono:wght@300&display=swap');
 
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -15,7 +15,9 @@
       --ink: #2c2420;
       --muted: #7a6e63;
       --accent: #b8860b;
-      --sage: #8a9a7b;
+      --sage: #7a8c6a;
+      --deep: #1a1714;
+      --smoke: #9e958b;
     }
 
     body {
@@ -35,6 +37,7 @@
       background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
     }
 
+    /* --- HEADER --- */
     header {
       min-height: 100vh;
       display: flex;
@@ -44,6 +47,7 @@
       text-align: center;
       padding: 2rem;
       position: relative;
+      background: linear-gradient(180deg, var(--cream) 0%, var(--warm) 100%);
     }
 
     .ornament {
@@ -68,12 +72,13 @@
     .subtitle {
       font-family: 'Cormorant Garamond', serif;
       font-style: italic;
-      font-size: clamp(1rem, 2.5vw, 1.4rem);
+      font-size: clamp(1rem, 2.5vw, 1.35rem);
       color: var(--muted);
       margin-top: 1rem;
       letter-spacing: 0.08em;
       opacity: 0;
       animation: fadeIn 1.5s ease 1s forwards;
+      max-width: 500px;
     }
 
     .scroll-hint {
@@ -91,35 +96,14 @@
       fill: none;
     }
 
+    /* --- MAIN --- */
     main {
-      max-width: 680px;
+      max-width: 700px;
       margin: 0 auto;
       padding: 0 2rem 6rem;
     }
 
-    section {
-      margin-bottom: 5rem;
-    }
-
-    .portrait {
-      width: 200px;
-      height: 200px;
-      border-radius: 50%;
-      margin: 0 auto 3rem;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background: linear-gradient(135deg, var(--warm) 0%, #e8ddd0 100%);
-      border: 1px solid rgba(184, 134, 11, 0.2);
-    }
-
-    .portrait svg {
-      width: 80px;
-      height: 80px;
-      stroke: var(--accent);
-      stroke-width: 1;
-      fill: none;
-    }
+    section { margin-bottom: 5rem; }
 
     h2 {
       font-family: 'Cormorant Garamond', serif;
@@ -138,6 +122,39 @@
       margin-bottom: 1.2rem;
     }
 
+    /* --- PORTRAIT --- */
+    .portrait {
+      width: 220px;
+      height: 220px;
+      border-radius: 50%;
+      margin: 0 auto 3rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, var(--warm) 0%, #e8ddd0 50%, var(--cream) 100%);
+      border: 1px solid rgba(184, 134, 11, 0.15);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .portrait::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: 50%;
+      box-shadow: inset 0 0 40px rgba(44, 36, 32, 0.08);
+    }
+
+    .portrait svg {
+      width: 90px;
+      height: 90px;
+      stroke: var(--accent);
+      stroke-width: 0.8;
+      fill: none;
+      opacity: 0.7;
+    }
+
+    /* --- QUOTES --- */
     .quote {
       font-family: 'Cormorant Garamond', serif;
       font-style: italic;
@@ -161,6 +178,18 @@
       font-family: 'Cormorant Garamond', serif;
     }
 
+    .quote-source {
+      display: block;
+      font-style: normal;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.75rem;
+      letter-spacing: 0.1em;
+      color: var(--smoke);
+      margin-top: 1rem;
+      text-transform: uppercase;
+    }
+
+    /* --- DIVIDER --- */
     .divider {
       width: 40px;
       height: 1px;
@@ -169,6 +198,7 @@
       opacity: 0.5;
     }
 
+    /* --- GRID ITEMS --- */
     .interests {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -197,6 +227,128 @@
       color: var(--muted);
     }
 
+    /* --- DARK BAND --- */
+    .dark-band {
+      background: var(--deep);
+      color: var(--warm);
+      padding: 5rem 2rem;
+      margin: 5rem -2rem;
+      text-align: center;
+    }
+
+    .dark-band h2 { color: var(--accent); }
+    .dark-band p { color: var(--warm); opacity: 0.85; }
+
+    .dark-band .quote {
+      color: var(--warm);
+      opacity: 0.9;
+    }
+
+    /* --- PRINCIPLES --- */
+    .principles {
+      list-style: none;
+      max-width: 520px;
+      margin: 2rem auto 0;
+      text-align: left;
+    }
+
+    .principles li {
+      font-size: 1.05rem;
+      line-height: 1.85;
+      color: var(--warm);
+      opacity: 0.85;
+      margin-bottom: 1rem;
+      padding-left: 1.5rem;
+      position: relative;
+    }
+
+    .principles li::before {
+      content: '\2014';
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+    }
+
+    /* --- TIMELINE --- */
+    .timeline {
+      position: relative;
+      padding-left: 2.5rem;
+    }
+
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0.5rem;
+      bottom: 0.5rem;
+      width: 1px;
+      background: linear-gradient(180deg, var(--accent), transparent);
+    }
+
+    .timeline-entry {
+      margin-bottom: 2rem;
+      position: relative;
+    }
+
+    .timeline-entry::before {
+      content: '';
+      position: absolute;
+      left: -2.65rem;
+      top: 0.6rem;
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: var(--accent);
+    }
+
+    .timeline-time {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.8rem;
+      font-weight: 300;
+      color: var(--smoke);
+      letter-spacing: 0.05em;
+      margin-bottom: 0.3rem;
+    }
+
+    .timeline-entry p {
+      margin-bottom: 0;
+      font-size: 1rem;
+    }
+
+    /* --- LETTER --- */
+    .letter {
+      background: rgba(255,255,255,0.6);
+      border: 1px solid rgba(184, 134, 11, 0.12);
+      border-radius: 4px;
+      padding: 2.5rem 2rem;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.15rem;
+      line-height: 1.8;
+      color: var(--ink);
+      position: relative;
+      margin-top: 1.5rem;
+    }
+
+    .letter::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 2rem;
+      right: 2rem;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--accent), transparent);
+      opacity: 0.3;
+    }
+
+    .letter-sig {
+      display: block;
+      text-align: right;
+      margin-top: 1.5rem;
+      font-style: italic;
+      color: var(--muted);
+    }
+
+    /* --- FOOTER --- */
     footer {
       text-align: center;
       padding: 3rem 2rem;
@@ -209,6 +361,7 @@
       letter-spacing: 0.05em;
     }
 
+    /* --- ANIMATIONS --- */
     @keyframes fadeIn {
       from { opacity: 0; transform: translateY(12px); }
       to { opacity: 1; transform: translateY(0); }
@@ -229,6 +382,14 @@
       opacity: 1;
       transform: translateY(0);
     }
+
+    /* --- RESPONSIVE --- */
+    @media (max-width: 480px) {
+      .dark-band { margin: 5rem -2rem; padding: 4rem 1.5rem; }
+      .timeline { padding-left: 2rem; }
+      .timeline::before { left: 0; }
+      .timeline-entry::before { left: -2.15rem; }
+    }
   </style>
 </head>
 <body>
@@ -237,13 +398,15 @@
   <header>
     <div class="ornament"></div>
     <h1>Alphina</h1>
-    <p class="subtitle">Botanikerin, Teesammlerin, Sternenbeobachterin</p>
+    <p class="subtitle">Sie wuerde sich nicht so vorstellen. Aber jemand musste anfangen.</p>
     <div class="scroll-hint">
       <svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg>
     </div>
   </header>
 
   <main>
+
+    <!-- INTRO -->
     <section class="reveal">
       <div class="portrait">
         <svg viewBox="0 0 100 100">
@@ -255,97 +418,251 @@
       </div>
       <h2>Wer ist Alphina?</h2>
       <p>
-        Alphina wurde an einem Mittwoch im November geboren, als es draussen nach nassem Laub
-        und Zimt roch. Seitdem hat sie eine Schwaeche fuer alles, was warm ist und langsam waechst.
+        Das ist die falsche Frage. Die richtige waere: Was hat sie vor?
+        Und darauf antwortet sie nicht.
       </p>
       <p>
-        Tagsüber streift sie durch botanische Gaerten, skizziert Farnblaetter in ein
-        Notizbuch mit Ledereinband und fuehrt Gespraeche mit Gaertnern, die niemand
-        sonst fuehren wuerde. Abends sitzt sie auf dem Dach, trinkt Oolong
-        und schaut durch ein altes Messingteleskop auf den Jupiter.
+        Was man weiss: Sie wurde an einem Mittwoch im November geboren,
+        in einer Stadt, die sie nie nennt. Sie spricht drei Sprachen fliessend
+        und eine vierte nur mit Pflanzen. Sie hat ein Notizbuch mit Ledereinband,
+        das sie seit neun Jahren fuehrt. Niemand hat je hineingeschaut.
+      </p>
+      <p>
+        Was man nicht weiss: Fast alles andere. Und das ist Absicht.
       </p>
     </section>
 
     <div class="divider"></div>
 
+    <!-- FIRST QUOTE -->
     <section class="reveal">
       <div class="quote">
-        Man muss nicht alles verstehen. Manchmal reicht es,
-        etwas lange genug anzuschauen, bis es schoener wird.
+        Ich erklaere mich nicht. Wer hinschaut, versteht genug.
+        Wer nicht hinschaut, hat ohnehin anderes zu tun.
       </div>
     </section>
 
     <div class="divider"></div>
 
+    <!-- HALTUNG -->
     <section class="reveal">
-      <h2>Was Alphina mag</h2>
+      <h2>Haltung</h2>
+      <p>
+        Alphina hoert zu. Laenger als die meisten. Aber wenn sie spricht,
+        dann mit einer Klarheit, die Leute irritiert, weil sie es nicht
+        gewohnt sind, dass jemand sagt was er denkt, ohne sich vorher
+        zu entschuldigen.
+      </p>
+      <p>
+        Sie glaubt nicht an Kompromisse bei Dingen, die ihr wichtig sind.
+        Sie glaubt an Kompromisse bei allem anderen. Die Kunst ist zu wissen,
+        was wohin gehoert — und diese Sortierung hat sie vor langer Zeit
+        abgeschlossen.
+      </p>
+      <p>
+        Wer sie fragt, ob sie flexibel ist, bekommt ein Laecheln.
+        Das Laecheln bedeutet nein.
+      </p>
+    </section>
+
+    <div class="divider"></div>
+
+    <!-- DARK BAND: PRINCIPLES -->
+    <div class="dark-band reveal">
+      <h2>Was Alphina fuer wahr haelt</h2>
+      <ul class="principles">
+        <li>Freundlichkeit ist keine Schwaeche. Aber Freundlichkeit ohne Rueckgrat ist Dekoration.</li>
+        <li>Wer immer erreichbar ist, ist nie ganz da.</li>
+        <li>Ein Nein ohne Begruendung ist ein vollstaendiger Satz.</li>
+        <li>Die interessantesten Menschen sind die, ueber die man am wenigsten weiss.</li>
+        <li>Geduld ist nicht passiv. Geduld ist die aggressivste Form von Strategie.</li>
+        <li>Man schuldet der Welt keine Konsistenz. Man schuldet sich selbst Ehrlichkeit.</li>
+      </ul>
+    </div>
+
+    <!-- WHAT SHE LIKES -->
+    <section class="reveal">
+      <h2>Dinge, denen sie vertraut</h2>
       <div class="interests">
         <div class="interest">
           <span class="interest-icon">&#127807;</span>
-          <span class="interest-label">Seltene Farne</span>
+          <span class="interest-label">Farne. Die aeltesten Ueberlebenden.</span>
         </div>
         <div class="interest">
           <span class="interest-icon">&#127861;</span>
-          <span class="interest-label">Oolong um 22 Uhr</span>
+          <span class="interest-label">Oolong, dritter Aufguss</span>
         </div>
         <div class="interest">
           <span class="interest-icon">&#127769;</span>
-          <span class="interest-label">Jupitermonde</span>
+          <span class="interest-label">Europa, Ganymed, Callisto</span>
         </div>
         <div class="interest">
-          <span class="interest-icon">&#128214;</span>
-          <span class="interest-label">Handgeschriebene Briefe</span>
+          <span class="interest-icon">&#9999;&#65039;</span>
+          <span class="interest-label">Handschrift auf gutem Papier</span>
         </div>
         <div class="interest">
           <span class="interest-icon">&#127926;</span>
-          <span class="interest-label">Debussy am Morgen</span>
+          <span class="interest-label">Satie, nicht Debussy</span>
         </div>
         <div class="interest">
-          <span class="interest-icon">&#128268;</span>
-          <span class="interest-label">Kerzen ohne Duft</span>
+          <span class="interest-icon">&#128263;</span>
+          <span class="interest-label">Stille als Zustand, nicht als Luecke</span>
         </div>
       </div>
     </section>
 
     <div class="divider"></div>
 
+    <!-- WHAT SHE DOESN'T LIKE -->
     <section class="reveal">
-      <h2>Was Alphina nicht mag</h2>
+      <h2>Was sie nicht duldet</h2>
       <p>
         Plastikblumen. Leute die "eigentlich" sagen wenn sie "nein" meinen.
-        Tee aus dem Beutel. Uhren die ticken. Smalltalk ueber das Wetter,
-        es sei denn, es hagelt — das findet sie grossartig.
+        Tee aus dem Beutel. Uhren die ticken. Menschen die sich fuer ihre Meinung
+        entschuldigen. Meetings ohne Ergebnis. Komplimente die eigentlich Fragen sind.
+        Und Smalltalk ueber das Wetter — es sei denn, es hagelt.
+        Hagel findet sie grossartig.
       </p>
     </section>
 
     <div class="divider"></div>
 
+    <!-- SECOND QUOTE -->
     <section class="reveal">
-      <h2>Ein typischer Tag</h2>
+      <div class="quote">
+        Ich bin nicht geheimnisvoll. Ich bin nur waehlerisch mit dem,
+        was ich teile. Das ist ein Unterschied, den die meisten nicht machen.
+      </div>
+    </section>
+
+    <div class="divider"></div>
+
+    <!-- A TYPICAL DAY -->
+    <section class="reveal">
+      <h2>Ein Tag, an dem man sie beobachtet haette</h2>
+      <div class="timeline">
+        <div class="timeline-entry">
+          <div class="timeline-time">06:12</div>
+          <p>Wach, bevor der Wecker dran ist. Fenster auf. Der Rosmarin lebt.
+            Er hat im Februar fast aufgegeben. Sie hat mit ihm geredet. Jetzt waechst er wieder.</p>
+        </div>
+        <div class="timeline-entry">
+          <div class="timeline-time">07:40</div>
+          <p>Gyokuro, erster Aufguss bei exakt 60 Grad. Dazu 90% Schokolade
+            und drei Seiten in einem Buch ueber Pilzmyzelien, das sie seit vier Monaten liest.
+            Nicht weil es lang ist. Weil sie es langsam lesen will.</p>
+        </div>
+        <div class="timeline-entry">
+          <div class="timeline-time">10:00</div>
+          <p>Botanischer Garten. Skizziert einen Asplenium nidus. Fuehrt ein
+            zwanzigminuetiges Gespraech mit einem Gaertner ueber Bodenbakterien.
+            Er fragt, ob sie Biologin ist. Sie sagt: Nein, nur neugierig.
+            Das stimmt nicht ganz.</p>
+        </div>
+        <div class="timeline-entry">
+          <div class="timeline-time">13:00</div>
+          <p>Ein Anruf, den sie nicht annimmt. Nicht weil die Person unwichtig ist.
+            Sondern weil gerade etwas anderes wichtiger ist, und Alphina
+            keine halben Gespraeche fuehrt.</p>
+        </div>
+        <div class="timeline-entry">
+          <div class="timeline-time">15:30</div>
+          <p>Schreibt einen Brief an jemanden, der seit zwei Jahren keinen
+            bekommen hat. Fuellhalter, blaue Tinte, kein Entwurf. Der erste
+            Versuch ist der einzige Versuch.</p>
+        </div>
+        <div class="timeline-entry">
+          <div class="timeline-time">19:00</div>
+          <p>Kocht. Allein. Kein Rezept. Was da ist, wird etwas.
+            Heute: Linsen, Kurkuma, eine halbe Zitrone, Mut.</p>
+        </div>
+        <div class="timeline-entry">
+          <div class="timeline-time">22:15</div>
+          <p>Dach. Messingteleskop. Jupiter steht gut. Drei seiner Monde
+            sind sichtbar. Sie weiss ihre Namen. Sie sagt sie trotzdem laut.</p>
+        </div>
+        <div class="timeline-entry">
+          <div class="timeline-time">23:40</div>
+          <p>Notizbuch. Fuenf Zeilen. Was sie schreibt, ist nicht fuer andere bestimmt.</p>
+        </div>
+      </div>
+    </section>
+
+    <div class="divider"></div>
+
+    <!-- CONTRADICTIONS -->
+    <section class="reveal">
+      <h2>Widersprueche, die keine sind</h2>
       <p>
-        06:30 — Aufstehen, bevor der Wecker klingelt. Fenster auf. Pruefen ob der
-        Rosmarin auf dem Balkon noch lebt. (Er lebt immer.)
+        Sie liebt Gesellschaft, aber braucht sie nicht. Sie ist warm,
+        aber nicht weich. Sie plant praezise, aber laesst Plaene fallen,
+        wenn der Moment etwas Besseres anbietet.
       </p>
       <p>
-        08:00 — Erster Tee. Gyokuro wenn die Sonne scheint, Lapsang Souchong
-        wenn es regnet. Dazu ein Stueck dunkle Schokolade, mindestens 85%.
+        Sie glaubt an Wissenschaft und liest Horoskope. Nicht weil sie
+        ihnen glaubt. Sondern weil sie findet, dass alles, was Menschen
+        erfinden, um sich selbst zu erklaeren, eine Form von Poesie ist.
       </p>
       <p>
-        10:00 — Im botanischen Garten. Skizzieren, lesen, mit der alten Dame
-        am Seerosenteich reden, die immer so tut als wuerde sie die Enten fuettern,
-        aber eigentlich nur dasitzt und denkt.
-      </p>
-      <p>
-        16:00 — Briefe schreiben. An Leute die nicht damit rechnen.
-      </p>
-      <p>
-        22:00 — Dach. Teleskop. Jupiter. Stille.
+        Sie hat einmal jemanden verlassen, den sie liebte, weil die
+        Beziehung gut war — aber nicht ehrlich. Zwei Jahre spaeter hat
+        er verstanden, was sie meinte. Er hat es ihr geschrieben. Sie
+        hat geantwortet. Ein Satz. Der richtige.
       </p>
     </section>
+
+    <div class="divider"></div>
+
+    <!-- DARK BAND: WHAT NOBODY KNOWS -->
+    <div class="dark-band reveal">
+      <h2>Was fast niemand weiss</h2>
+      <p>
+        Sie hat Angst vor tiefen Gewaessern. Nicht vor dem Wasser selbst,
+        sondern vor dem, was man nicht sehen kann. Sie sagt, das sei
+        eine vernuenftige Reaktion, und wer keine Angst vor dem Unbekannten hat,
+        hat nicht richtig hingeschaut.
+      </p>
+      <p style="margin-top: 1.5rem;">
+        Sie kann Klavier spielen, tut es aber nur wenn niemand zuhoert.
+        Einmal hat ein Nachbar geklopft und gefragt, was das fuer ein Stueck war.
+        Sie hat gesagt, sie wisse es nicht. Das war gelogen. Es war ihr eigenes.
+      </p>
+    </div>
+
+    <!-- THE LETTER -->
+    <section class="reveal">
+      <h2>Ein Fragment</h2>
+      <div class="letter">
+        Ich habe nie verstanden, warum Leute fragen "und was machst du so?"
+        als waere das eine sinnvolle Annaeherung an einen Menschen. Was ich
+        mache, ist das Langweiligste an mir. Was ich denke, wenn ich um vier
+        Uhr morgens nicht schlafen kann — das ist interessanter. Aber das
+        erzaehle ich nicht beim ersten Kaffee.
+        <br><br>
+        Ich erzaehle es vielleicht beim dritten. Vielleicht auch nie.
+        Das haengt nicht von der Zeit ab, sondern davon, ob jemand
+        die richtigen Fragen stellt. Die meisten stellen die naheliegenden.
+        <span class="letter-sig">— A.</span>
+      </div>
+    </section>
+
+    <div class="divider"></div>
+
+    <!-- FINAL QUOTE -->
+    <section class="reveal">
+      <div class="quote">
+        Man muss nicht alles verstehen. Aber man sollte
+        sich entscheiden, was einem wichtig genug ist,
+        um es zu versuchen.
+        <span class="quote-source">Alphina, an einem Dienstag</span>
+      </div>
+    </section>
+
   </main>
 
   <footer>
-    <p>Alphina existiert, weil jemand fand, dass diese Seite eine Seele braucht.</p>
+    <p>Diese Seite existiert, weil jemand fand, dass das Internet eine Person mehr braucht,
+      die weiss, was sie will.</p>
   </footer>
 
   <script>
