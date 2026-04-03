@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Die Schwelle — Kapitel 2</title>
+  <link rel="stylesheet" href="../../styles.css">
+  <style>
+    :root {
+      --cream: #f5f0e8;
+      --warm: #ebe4d8;
+      --ink: #1e1c19;
+      --muted: #6b6259;
+      --accent: #6b3a3a;
+      --accent-faint: rgba(107, 58, 58, 0.06);
+      --deep: #0f0e0c;
+      --smoke: #8a8279;
+      --page-shadow: rgba(30, 28, 25, 0.08);
+      --paper: #f8f4ee;
+      --paper-edge: #e8e0d4;
+    }
+
+    body {
+      background: var(--deep);
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      min-height: 100vh;
+      padding: 2rem 1rem;
+    }
+
+    nav { display: none; }
+
+    .book {
+      position: relative;
+      width: 100%;
+      max-width: 700px;
+      background: var(--paper);
+      box-shadow:
+        0 0 0 1px var(--paper-edge),
+        -4px 0 8px var(--page-shadow),
+        4px 0 8px var(--page-shadow),
+        0 12px 40px rgba(0,0,0,0.3);
+      border-radius: 2px 6px 6px 2px;
+      overflow: hidden;
+    }
+
+    .book::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 3px;
+      background: linear-gradient(180deg, var(--paper-edge) 0%, #c8bfb0 50%, var(--paper-edge) 100%);
+      z-index: 10;
+    }
+
+    .book::after {
+      content: '';
+      position: absolute;
+      right: 0;
+      top: 4px;
+      bottom: 4px;
+      width: 8px;
+      background: repeating-linear-gradient(
+        180deg,
+        var(--paper) 0px,
+        var(--paper-edge) 1px,
+        var(--paper) 2px
+      );
+      border-radius: 0 2px 2px 0;
+      z-index: 5;
+    }
+
+    .chapter-header {
+      padding: 5rem 3rem 3rem;
+      text-align: center;
+      border-bottom: 1px solid var(--accent-faint);
+    }
+
+    .chapter-number {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.8rem;
+      letter-spacing: 0.35em;
+      text-transform: uppercase;
+      color: var(--smoke);
+      margin-bottom: 1rem;
+    }
+
+    .chapter-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(1.8rem, 5vw, 2.8rem);
+      font-weight: 400;
+      letter-spacing: 0.15em;
+      color: var(--ink);
+    }
+
+    .chapter-ornament {
+      margin-top: 1.5rem;
+      color: var(--accent);
+      font-size: 1.2rem;
+      letter-spacing: 0.5em;
+      opacity: 0.4;
+    }
+
+    .prose {
+      padding: 2.5rem 3rem 3rem;
+      padding-left: 3.5rem;
+    }
+
+    .prose p {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.15rem;
+      line-height: 2;
+      color: var(--ink);
+      margin-bottom: 0;
+      text-indent: 1.5rem;
+    }
+
+    .prose p + p { margin-top: 0; }
+    .prose p:first-child { text-indent: 0; }
+
+    .prose p.scene-break {
+      text-indent: 0;
+      text-align: center;
+      margin: 2.5rem 0;
+      color: var(--accent);
+      font-size: 0.85rem;
+      letter-spacing: 0.6em;
+      opacity: 0.5;
+    }
+
+    .prose p.opening {
+      text-indent: 0;
+      font-size: 1.3rem;
+      line-height: 2;
+    }
+
+    .prose p.opening::first-letter {
+      font-size: 3.5rem;
+      float: left;
+      line-height: 0.8;
+      padding-right: 0.15em;
+      padding-top: 0.1em;
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 600;
+      color: var(--accent);
+    }
+
+    .prose em { font-style: italic; }
+
+    .prose p.dialog {
+      text-indent: 0;
+      margin-top: 0.3rem;
+    }
+
+    .page-nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 2rem 3rem 2.5rem;
+      border-top: 1px solid var(--accent-faint);
+    }
+
+    .page-nav a {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.85rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      text-decoration: none;
+      color: var(--smoke);
+      transition: color 0.3s;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.8rem 1.2rem;
+      border-radius: 3px;
+    }
+
+    .page-nav a:hover { color: var(--ink); }
+
+    .page-nav .disabled {
+      opacity: 0.2;
+      pointer-events: none;
+    }
+
+    .page-nav .page-info {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.8rem;
+      color: var(--smoke);
+      letter-spacing: 0.1em;
+    }
+
+    .page-nav .arrow { font-size: 1.1rem; line-height: 1; }
+
+    .book-footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.75rem;
+      color: var(--smoke);
+      letter-spacing: 0.1em;
+      opacity: 0.5;
+    }
+
+    .book.turning-forward { animation: turnForward 0.6s ease-in-out; }
+    .book.turning-back { animation: turnBack 0.6s ease-in-out; }
+
+    @keyframes turnForward {
+      0% { transform: perspective(1200px) rotateY(0deg); }
+      30% { transform: perspective(1200px) rotateY(-3deg); box-shadow: -4px 0 8px var(--page-shadow), 4px 0 8px var(--page-shadow), 0 12px 40px rgba(0,0,0,0.3), 15px 0 30px rgba(0,0,0,0.15); }
+      100% { transform: perspective(1200px) rotateY(0deg); opacity: 0; }
+    }
+
+    @keyframes turnBack {
+      0% { transform: perspective(1200px) rotateY(0deg); }
+      30% { transform: perspective(1200px) rotateY(3deg); box-shadow: -4px 0 8px var(--page-shadow), 4px 0 8px var(--page-shadow), 0 12px 40px rgba(0,0,0,0.3), -15px 0 30px rgba(0,0,0,0.15); }
+      100% { transform: perspective(1200px) rotateY(0deg); opacity: 0; }
+    }
+
+    .book.enter { animation: pageEnter 0.4s ease-out; }
+
+    @keyframes pageEnter {
+      from { opacity: 0; transform: perspective(1200px) rotateY(2deg); }
+      to { opacity: 1; transform: perspective(1200px) rotateY(0deg); }
+    }
+
+    @media (max-width: 600px) {
+      body { padding: 0.5rem; }
+      .chapter-header { padding: 3rem 1.5rem 2rem; }
+      .prose { padding: 1.5rem; padding-left: 2rem; }
+      .page-nav { padding: 1.5rem; }
+      .prose p { font-size: 1.05rem; line-height: 1.9; }
+    }
+  </style>
+</head>
+<body>
+  <div class="grain"></div>
+
+  <div class="book enter" id="book">
+    <div class="chapter-header">
+      <div class="chapter-number">Kapitel Zwei</div>
+      <h1 class="chapter-title">Sorel</h1>
+      <div class="chapter-ornament">— · —</div>
+    </div>
+
+    <div class="prose" id="chapter"></div>
+
+    <div class="page-nav">
+      <a href="/lesen/1/" onclick="turnPage(event, 'back', '/lesen/1/')"><span class="arrow">&larr;</span> Zurück</a>
+      <span class="page-info">2 / 2</span>
+      <span class="disabled">Weiter <span class="arrow">&rarr;</span></span>
+    </div>
+
+    <div class="book-footer">
+      Unveröffentlichtes Manuskript · Alle Rechte vorbehalten
+    </div>
+  </div>
+
+  <script>
+    function turnPage(e, direction, url) {
+      e.preventDefault();
+      const book = document.getElementById('book');
+      book.classList.remove('enter');
+      book.classList.add(direction === 'forward' ? 'turning-forward' : 'turning-back');
+      setTimeout(() => { window.location.href = url; }, 500);
+    }
+
+    fetch('/buch/kapitel/02-sorel.md')
+      .then(r => r.text())
+      .then(md => {
+        const lines = md.split('\n');
+        const container = document.getElementById('chapter');
+        let html = '';
+        let isFirst = true;
+        let skipTitle = true;
+
+        for (let i = 0; i < lines.length; i++) {
+          const line = lines[i].trim();
+          if (skipTitle && line.startsWith('# ')) { skipTitle = false; continue; }
+          if (line === '') continue;
+          if (line === '---') {
+            html += '<p class="scene-break">&middot; &middot; &middot;</p>';
+            isFirst = true;
+            continue;
+          }
+          if (line.startsWith('#')) continue;
+
+          let processed = line.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+          const isDialog = line.startsWith('"') || line.startsWith('„') || line.startsWith('«');
+
+          if (isFirst) {
+            html += '<p class="opening">' + processed + '</p>';
+            isFirst = false;
+          } else if (isDialog) {
+            html += '<p class="dialog">' + processed + '</p>';
+          } else {
+            html += '<p>' + processed + '</p>';
+          }
+        }
+
+        container.innerHTML = html;
+      });
+  </script>
+</body>
+</html>
