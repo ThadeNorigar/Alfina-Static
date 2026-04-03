@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Die Schwelle</title>
+  <link rel="stylesheet" href="../styles.css">
+  <style>
+    :root {
+      --cream: #f0ece5;
+      --warm: #ddd5c8;
+      --ink: #1a1816;
+      --muted: #6b6259;
+      --accent: #8b6f47;
+      --accent-faint: rgba(139, 111, 71, 0.1);
+      --accent-mid: rgba(139, 111, 71, 0.12);
+      --deep: #0f0e0c;
+      --deep-text: #ddd5c8;
+      --smoke: #7a7068;
+      --header-gradient-end: #c8bfb3;
+    }
+
+    header {
+      background: linear-gradient(180deg, var(--cream) 0%, var(--ink) 100%);
+      min-height: 100vh;
+    }
+
+    header h1 {
+      font-size: clamp(2.5rem, 8vw, 5rem);
+      letter-spacing: 0.2em;
+    }
+
+    .subtitle {
+      max-width: 600px;
+      font-size: clamp(0.95rem, 2vw, 1.15rem);
+      line-height: 1.7;
+      color: var(--smoke);
+    }
+
+    .blurb {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 0 2rem;
+    }
+
+    .blurb p {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.2rem;
+      line-height: 2;
+      color: var(--ink);
+      margin-bottom: 1.8rem;
+    }
+
+    .blurb p.first {
+      font-size: 1.35rem;
+    }
+
+    .blurb p.last {
+      font-style: italic;
+      color: var(--muted);
+      text-align: center;
+      margin-top: 3rem;
+    }
+
+    .genre-tag {
+      text-align: center;
+      margin-bottom: 4rem;
+    }
+
+    .genre-tag span {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.75rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--smoke);
+      border: 1px solid var(--accent-faint);
+      padding: 0.4rem 1rem;
+      border-radius: 2px;
+    }
+
+    .coming {
+      text-align: center;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1rem;
+      letter-spacing: 0.15em;
+      color: var(--accent);
+      text-transform: uppercase;
+      margin-top: 4rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="grain"></div>
+
+  <nav>
+    <a href="/">Alphina</a>
+    <a href="/vesper">Vesper</a>
+    <a href="/maren">Maren</a>
+    <a href="/sorel">Sorel</a>
+    <a href="/die-schwelle" class="active">Das Buch</a>
+  </nav>
+
+  <header>
+    <div class="ornament"></div>
+    <h1>Die Schwelle</h1>
+    <p class="subtitle">Dark Romance. Vier Fremde. Eine Stadt, die sich erinnert.</p>
+    <div class="scroll-hint">
+      <svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg>
+    </div>
+  </header>
+
+  <main>
+
+    <div class="genre-tag reveal">
+      <span>Dark Romantasy</span>
+    </div>
+
+    <section class="blurb reveal">
+      <p class="first">
+        Halvern ist eine Stadt, in der der Nebel einen Namen hat
+        und die Uhren falsch gehen. Eine Stadt aus Backstein und
+        schwarzem Stein, gebaut auf Tunneln, die aelter sind als
+        alles, was Menschen je gegraben haben.
+      </p>
+
+      <p>
+        Vier Menschen kommen in diese Stadt. Keiner kennt die anderen.
+        Eine Botanikerin, die Pflanzen beim Wachsen zusieht — und
+        die Pflanzen sehen zurueck. Ein Uhrmacher, der eine Uhr
+        reparieren soll, die nicht kaputt ist. Eine Bootsbauerin,
+        die ein Erbe antritt, das mehr will als nur geoeffnet zu werden.
+        Ein Mann, der vergessene Bilder aus der Dunkelheit holt —
+        und auf einem davon sein eigenes Gesicht findet.
+      </p>
+
+      <p>
+        Sie begegnen sich zufaellig. Ein Blick im Garten. Eine
+        Kollision in einem Cafe. Ein Name, der zweimal faellt.
+        Kleine Gravitationen, die groesser werden.
+      </p>
+
+      <p>
+        Denn Halvern erinnert sich. An vier Menschen, die vor
+        vierhundert Jahren kamen und etwas oeffneten, das
+        nicht haette geoeffnet werden duerfen. Eine von ihnen
+        kam nicht zurueck.
+      </p>
+
+      <p>
+        Jetzt oeffnet es sich wieder.
+      </p>
+
+      <p>
+        Und einer von ihnen wird bleiben muessen.
+      </p>
+
+      <p class="last">
+        Die Schwelle zeigt dir nicht, was du sehen willst.
+        Sie zeigt dir, was du bist.
+      </p>
+    </section>
+
+    <div class="divider"></div>
+
+    <section class="reveal">
+      <p class="coming">In Arbeit</p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>Vier Frequenzen. Eine Stadt. Keine Zurueck.</p>
+  </footer>
+
+  <script>
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) entry.target.classList.add('visible');
+      });
+    }, { threshold: 0.15 });
+    document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+  </script>
+</body>
+</html>
