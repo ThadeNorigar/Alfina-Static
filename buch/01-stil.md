@@ -14,7 +14,7 @@ Alphinas Kapitel sind in der **Ich-Perspektive.** Praesens. Kein anderer POV bek
 
 ```
 Ich rieche den Garten, bevor ich ihn sehe. Das ist normal — der botanische 
-Garten von Sevren riecht nach feuchter Erde und Kalkstein und etwas, das 
+Garten von Vael riecht nach feuchter Erde und Kalkstein und etwas, das 
 ich nicht einordnen kann, etwas Gruenes, das tiefer geht als Chlorophyll. 
 Es riecht wie der Moment, bevor ein Gewitter anfaengt, nur ohne Gewitter. 
 Seit drei Tagen riecht es so. Seit ich hier bin.
@@ -195,7 +195,7 @@ Ich waehlte die vierte.
 "Asplenium scolopendrium. Er waechst hier auf dem einundfuenfzigsten 
 Breitengrad, was nicht moeglich ist."
 
-"Und dafuer faehrst du von Brüssel nach Sevren."
+"Und dafuer faehrst du von Brüssel nach Vael."
 
 "Ja."
 

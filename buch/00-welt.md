@@ -1,4 +1,4 @@
-# Die Welt von Sevren
+# Die Welt von Vael
 
 ## Grundprinzip
 
@@ -19,7 +19,7 @@ Ein Kontinent, grob vergleichbar mit Europa in Groesse und klimatischer Bandbrei
 ### Regionen und Kulturen
 
 **Die Graukueste** (Norden/Nordwesten)
-Felsige Kueste am Grauen Meer. Nebel, Wind, kurze Sommer. Hafenstaedte aus dunkelrotem Purpurstein und schwarzem Basalt. Seefahrer, Fischer, Bootsbauer. Pragmatische, schweigsame Menschen. Sevren liegt hier. Die Graukueste hat eine Tradition muendlicher Geschichten — alte Erzaehlungen von "den Vier" und "der Schwelle", die niemand ernst nimmt. Kindergeschichten. Seemannsgarn.
+Felsige Kueste am Grauen Meer. Nebel, Wind, kurze Sommer. Hafenstaedte aus dunkelrotem Purpurstein und schwarzem Basalt. Seefahrer, Fischer, Bootsbauer. Pragmatische, schweigsame Menschen. Vael liegt hier. Die Graukueste hat eine Tradition muendlicher Geschichten — alte Erzaehlungen von "den Vier" und "der Schwelle", die niemand ernst nimmt. Kindergeschichten. Seemannsgarn.
 
 **Die Tidelaender** (Westen)
 Flaches Marschland, durchzogen von Kanaelen und Deichen. Landwirtschaft, Handel, Buerokratie. Die groessten Staedte Thalassiens liegen hier. Alphina kommt von hier — aus **Velde**, einer dichten, grauen Handelsstadt mit Giebelhaeusern und Kanaelen, in der alles effizient und nichts warm ist. Velde ist das Bruessel dieser Welt: international, frankophones Aequivalent, vielsprachig, politisches Zentrum.
@@ -35,15 +35,15 @@ Stadtstaaten ohne Zugehoerigkeit zu einer Region. Sorel kommt aus **Nachtholm**,
 
 ---
 
-## Sevren
+## Vael
 
 ### Geografie
 
-Sevren liegt an der Graukueste, dort wo eine Halbinsel ins Graue Meer ragt und eine Bucht bildet, die bei Sturmflut fast zur Insel wird. Ein Fluss namens **Grauwe** muendet hier — langsam, trueb, voller Sediment. Die Einheimischen sagen, die Grauwe fliesst manchmal rueckwaerts. Das stimmt. Niemand weiss warum.
+Vael liegt an der Graukueste, dort wo eine Halbinsel ins Graue Meer ragt und eine Bucht bildet, die bei Sturmflut fast zur Insel wird. Ein Fluss namens **Grauwe** muendet hier — langsam, trueb, voller Sediment. Die Einheimischen sagen, die Grauwe fliesst manchmal rueckwaerts. Das stimmt. Niemand weiss warum.
 
 - **Einwohner:** ca. 70.000
 - **Gegruendet:** Offiziell vor 800 Jahren als Handelsstadt. Inoffiziell aelter. Die Tunnel unter der Stadt sind aelter als alles, was die Handelsgilde je gebaut hat.
-- **Klima:** Graukuesten-Wetter. Grau, feucht, Wind. 190 Nebeltage im Jahr. Der Nebel hat einen Namen: **Sevrener Atem.** Er kommt ploetzlich und loest sich ebenso auf.
+- **Klima:** Graukuesten-Wetter. Grau, feucht, Wind. 190 Nebeltage im Jahr. Der Nebel hat einen Namen: **Vaeler Atem.** Er kommt ploetzlich und loest sich ebenso auf.
 
 ### Die Stadt — drei Schichten
 
@@ -68,7 +68,7 @@ Bootsbauwerft am Fischereihafen. Gehoerte Klaus Brandt, gestorben, hinterlassen 
 Altes Speichergebaeude am Hafen. Im Keller: Sorels Dunkelkammer. Er hat das Gebaeude auf einem Film gesehen, der Jahrzehnte alt sein muesste — mit einem Licht im Kellerfenster.
 
 **Das Archiv**
-Im Keller des Rathauses. Gehuetet von **Esther Voss**, Archivarin, die einzige Person in Sevren, die die Geschichte der Schwelle kennt. In ihrem Tresor liegt ein Manuskript von vor 400 Jahren. Auf dem Einband: vier ineinander verschlungene Kreise.
+Im Keller des Rathauses. Gehuetet von **Esther Voss**, Archivarin, die einzige Person in Vael, die die Geschichte der Schwelle kennt. In ihrem Tresor liegt ein Manuskript von vor 400 Jahren. Auf dem Einband: vier ineinander verschlungene Kreise.
 
 ---
 
@@ -98,7 +98,7 @@ Kellerwohnung in der Schluchtstadt. Halb Wohnung, halb Dunkelkammer. Lebt fast o
 
 ## Zeitgeschichte — Die Schicht von vor 400 Jahren
 
-Sevren, 400 Jahre vor der Handlung. Vier Menschen kamen in die Stadt:
+Vael, 400 Jahre vor der Handlung. Vier Menschen kamen in die Stadt:
 
 - **Elke van der Holt** — Botanikerin. Alphinas Pendant.
 - **Johann Breke** — Uhrmacher. Vespers Pendant.
@@ -115,7 +115,7 @@ Sie fanden die Tunnel. Oeffneten die Schwelle. Das Manuskript ist an der entsche
 
 1. **Resonanz ist Wahrnehmung, nicht Kraft.** Die vier veraendern die Welt nicht — ihre Aufmerksamkeit verstaerkt was da ist.
 2. **Naehe verstaerkt den Effekt.** Allein: subtil. Zu zweit: merkwuerdig. Zu dritt: die Stadt reagiert. Alle vier: die Schwelle oeffnet sich.
-3. **Die Schwelle ist ein Ort.** Physisch, unter Sevren. Immer da. Oeffnet sich nur bei vier Frequenzen gleichzeitig.
+3. **Die Schwelle ist ein Ort.** Physisch, unter Vael. Immer da. Oeffnet sich nur bei vier Frequenzen gleichzeitig.
 4. **Hinter der Schwelle liegt Wahrheit.** Wer hindurchgeht, sieht sich selbst — ungefiltert. 1623 hat Elke erkannt, dass die Schwelle nur geschlossen werden kann, wenn jemand bleibt. Sie blieb.
 5. **Magie ist nie sicher.** Bis Akt 3 kann alles Zufall sein. Erst in Akt 4 wird es unbestreitbar.
 6. **Emotionale Intensitaet verstaerkt alles.** Sex, Trauer, Wut — in diesen Momenten blitzt die Resonanz am staerksten.
@@ -128,6 +128,6 @@ An der Schwelle begreift Alphina als Erste, was noetig ist. Einer muss bleiben. 
 
 Die Frau, die nie jemanden reingelassen hat, deren ganzes Leben Kontrolle war — ihre letzte Handlung ist totale Hingabe. Sie ENTSCHEIDET zu bleiben. Das ist keine Opferrolle. Das ist Souveraenitaet.
 
-Die letzten 50 Seiten: Aus Sorels Perspektive. Sevren danach. Die Pflanzen im botanischen Garten bluehen drei Wochen. Dann hoeren sie auf. In Alphinas Wohnung in Velde finden sie das Notizbuch. Letzte Seite: *"Ich habe nie verstanden, dass Loslassen nicht das Gegenteil von Kontrolle ist. Es ist ihre hoechste Form."*
+Die letzten 50 Seiten: Aus Sorels Perspektive. Vael danach. Die Pflanzen im botanischen Garten bluehen drei Wochen. Dann hoeren sie auf. In Alphinas Wohnung in Velde finden sie das Notizbuch. Letzte Seite: *"Ich habe nie verstanden, dass Loslassen nicht das Gegenteil von Kontrolle ist. Es ist ihre hoechste Form."*
 
 Sorel entwickelt Wochen spaeter eine Platte, die er an der Schwelle dabei hatte. Ein einziges Bild. Alphina, von hinten, in einem Raum aus Licht. Sie dreht sich nicht um. Ihre Hand ist ausgestreckt.
