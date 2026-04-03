@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alfina</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400&display=swap');
+
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --cream: #faf6f1;
+      --warm: #f0e6d8;
+      --ink: #2c2420;
+      --muted: #7a6e63;
+      --accent: #b8860b;
+      --sage: #8a9a7b;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      font-weight: 300;
+      background: var(--cream);
+      color: var(--ink);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    .grain {
+      position: fixed;
+      inset: 0;
+      opacity: 0.03;
+      pointer-events: none;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+    }
+
+    header {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 2rem;
+      position: relative;
+    }
+
+    .ornament {
+      width: 60px;
+      height: 1px;
+      background: var(--accent);
+      margin-bottom: 2rem;
+      opacity: 0;
+      animation: fadeIn 1.5s ease 0.3s forwards;
+    }
+
+    h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 400;
+      font-size: clamp(3.5rem, 10vw, 7rem);
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      opacity: 0;
+      animation: fadeIn 1.5s ease 0.6s forwards;
+    }
+
+    .subtitle {
+      font-family: 'Cormorant Garamond', serif;
+      font-style: italic;
+      font-size: clamp(1rem, 2.5vw, 1.4rem);
+      color: var(--muted);
+      margin-top: 1rem;
+      letter-spacing: 0.08em;
+      opacity: 0;
+      animation: fadeIn 1.5s ease 1s forwards;
+    }
+
+    .scroll-hint {
+      position: absolute;
+      bottom: 3rem;
+      opacity: 0;
+      animation: fadeIn 1.5s ease 1.8s forwards, float 3s ease-in-out infinite 2s;
+    }
+
+    .scroll-hint svg {
+      width: 24px;
+      height: 24px;
+      stroke: var(--muted);
+      stroke-width: 1.5;
+      fill: none;
+    }
+
+    main {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 0 2rem 6rem;
+    }
+
+    section {
+      margin-bottom: 5rem;
+    }
+
+    .portrait {
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      margin: 0 auto 3rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, var(--warm) 0%, #e8ddd0 100%);
+      border: 1px solid rgba(184, 134, 11, 0.2);
+    }
+
+    .portrait svg {
+      width: 80px;
+      height: 80px;
+      stroke: var(--accent);
+      stroke-width: 1;
+      fill: none;
+    }
+
+    h2 {
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 400;
+      font-size: 1.1rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 1.5rem;
+    }
+
+    p {
+      font-size: 1.05rem;
+      line-height: 1.85;
+      color: var(--ink);
+      margin-bottom: 1.2rem;
+    }
+
+    .quote {
+      font-family: 'Cormorant Garamond', serif;
+      font-style: italic;
+      font-size: 1.5rem;
+      line-height: 1.6;
+      text-align: center;
+      color: var(--muted);
+      padding: 3rem 1rem;
+      position: relative;
+    }
+
+    .quote::before {
+      content: '\201C';
+      font-size: 4rem;
+      color: var(--accent);
+      opacity: 0.4;
+      position: absolute;
+      top: 0.5rem;
+      left: 50%;
+      transform: translateX(-50%);
+      font-family: 'Cormorant Garamond', serif;
+    }
+
+    .divider {
+      width: 40px;
+      height: 1px;
+      background: var(--accent);
+      margin: 4rem auto;
+      opacity: 0.5;
+    }
+
+    .interests {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    .interest {
+      padding: 1.5rem;
+      background: rgba(255,255,255,0.5);
+      border: 1px solid rgba(184, 134, 11, 0.1);
+      border-radius: 8px;
+      text-align: center;
+    }
+
+    .interest-icon {
+      font-size: 1.8rem;
+      margin-bottom: 0.8rem;
+      display: block;
+    }
+
+    .interest-label {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1rem;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+    }
+
+    footer {
+      text-align: center;
+      padding: 3rem 2rem;
+      border-top: 1px solid rgba(184, 134, 11, 0.1);
+    }
+
+    footer p {
+      font-size: 0.85rem;
+      color: var(--muted);
+      letter-spacing: 0.05em;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(8px); }
+    }
+
+    .reveal {
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 0.8s ease, transform 0.8s ease;
+    }
+
+    .reveal.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  </style>
+</head>
+<body>
+  <div class="grain"></div>
+
+  <header>
+    <div class="ornament"></div>
+    <h1>Alfina</h1>
+    <p class="subtitle">Botanikerin, Teesammlerin, Sternenbeobachterin</p>
+    <div class="scroll-hint">
+      <svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg>
+    </div>
+  </header>
+
+  <main>
+    <section class="reveal">
+      <div class="portrait">
+        <svg viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="45"/>
+          <path d="M30 65 Q35 45 50 35 Q65 45 70 65"/>
+          <circle cx="50" cy="28" r="12"/>
+          <path d="M20 80 Q35 70 50 68 Q65 70 80 80"/>
+        </svg>
+      </div>
+      <h2>Wer ist Alfina?</h2>
+      <p>
+        Alfina wurde an einem Mittwoch im November geboren, als es draussen nach nassem Laub
+        und Zimt roch. Seitdem hat sie eine Schwaeche fuer alles, was warm ist und langsam waechst.
+      </p>
+      <p>
+        Tagsüber streift sie durch botanische Gaerten, skizziert Farnblaetter in ein
+        Notizbuch mit Ledereinband und fuehrt Gespraeche mit Gaertnern, die niemand
+        sonst fuehren wuerde. Abends sitzt sie auf dem Dach, trinkt Oolong
+        und schaut durch ein altes Messingteleskop auf den Jupiter.
+      </p>
+    </section>
+
+    <div class="divider"></div>
+
+    <section class="reveal">
+      <div class="quote">
+        Man muss nicht alles verstehen. Manchmal reicht es,
+        etwas lange genug anzuschauen, bis es schoener wird.
+      </div>
+    </section>
+
+    <div class="divider"></div>
+
+    <section class="reveal">
+      <h2>Was Alfina mag</h2>
+      <div class="interests">
+        <div class="interest">
+          <span class="interest-icon">&#127807;</span>
+          <span class="interest-label">Seltene Farne</span>
+        </div>
+        <div class="interest">
+          <span class="interest-icon">&#127861;</span>
+          <span class="interest-label">Oolong um 22 Uhr</span>
+        </div>
+        <div class="interest">
+          <span class="interest-icon">&#127769;</span>
+          <span class="interest-label">Jupitermonde</span>
+        </div>
+        <div class="interest">
+          <span class="interest-icon">&#128214;</span>
+          <span class="interest-label">Handgeschriebene Briefe</span>
+        </div>
+        <div class="interest">
+          <span class="interest-icon">&#127926;</span>
+          <span class="interest-label">Debussy am Morgen</span>
+        </div>
+        <div class="interest">
+          <span class="interest-icon">&#128268;</span>
+          <span class="interest-label">Kerzen ohne Duft</span>
+        </div>
+      </div>
+    </section>
+
+    <div class="divider"></div>
+
+    <section class="reveal">
+      <h2>Was Alfina nicht mag</h2>
+      <p>
+        Plastikblumen. Leute die "eigentlich" sagen wenn sie "nein" meinen.
+        Tee aus dem Beutel. Uhren die ticken. Smalltalk ueber das Wetter,
+        es sei denn, es hagelt — das findet sie grossartig.
+      </p>
+    </section>
+
+    <div class="divider"></div>
+
+    <section class="reveal">
+      <h2>Ein typischer Tag</h2>
+      <p>
+        06:30 — Aufstehen, bevor der Wecker klingelt. Fenster auf. Pruefen ob der
+        Rosmarin auf dem Balkon noch lebt. (Er lebt immer.)
+      </p>
+      <p>
+        08:00 — Erster Tee. Gyokuro wenn die Sonne scheint, Lapsang Souchong
+        wenn es regnet. Dazu ein Stueck dunkle Schokolade, mindestens 85%.
+      </p>
+      <p>
+        10:00 — Im botanischen Garten. Skizzieren, lesen, mit der alten Dame
+        am Seerosenteich reden, die immer so tut als wuerde sie die Enten fuettern,
+        aber eigentlich nur dasitzt und denkt.
+      </p>
+      <p>
+        16:00 — Briefe schreiben. An Leute die nicht damit rechnen.
+      </p>
+      <p>
+        22:00 — Dach. Teleskop. Jupiter. Stille.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Alfina existiert, weil jemand fand, dass diese Seite eine Seele braucht.</p>
+  </footer>
+
+  <script>
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+        }
+      });
+    }, { threshold: 0.15 });
+
+    document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+  </script>
+</body>
+</html>
