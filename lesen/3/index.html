@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="noindex, nofollow">
-  <title>Die Schwelle — Kapitel 1</title>
+  <title>Die Schwelle — Kapitel 3</title>
   <link rel="stylesheet" href="../../styles.css">
   <style>
     :root {
@@ -32,7 +32,6 @@
 
     nav { display: none; }
 
-    /* --- BOOK CONTAINER --- */
     .book {
       position: relative;
       width: 100%;
@@ -47,7 +46,6 @@
       overflow: hidden;
     }
 
-    /* spine edge */
     .book::before {
       content: '';
       position: absolute;
@@ -59,7 +57,6 @@
       z-index: 10;
     }
 
-    /* page edges (right side) */
     .book::after {
       content: '';
       position: absolute;
@@ -77,7 +74,6 @@
       z-index: 5;
     }
 
-    /* --- CHAPTER HEADER --- */
     .chapter-header {
       padding: 5rem 3rem 3rem;
       text-align: center;
@@ -109,10 +105,9 @@
       opacity: 0.4;
     }
 
-    /* --- PROSE --- */
     .prose {
       padding: 2.5rem 3rem 3rem;
-      padding-left: 3.5rem; /* offset for spine */
+      padding-left: 3.5rem;
     }
 
     .prose p {
@@ -154,25 +149,19 @@
       color: var(--accent);
     }
 
-    /* italic passages */
-    .prose em {
-      font-style: italic;
-    }
+    .prose em { font-style: italic; }
 
-    /* dialog lines */
     .prose p.dialog {
       text-indent: 0;
       margin-top: 0.3rem;
     }
 
-    /* --- PAGE NAVIGATION --- */
     .page-nav {
       display: flex;
       justify-content: space-between;
       align-items: center;
       padding: 2rem 3rem 2.5rem;
       border-top: 1px solid var(--accent-faint);
-      position: relative;
     }
 
     .page-nav a {
@@ -204,12 +193,8 @@
       letter-spacing: 0.1em;
     }
 
-    .page-nav .arrow {
-      font-size: 1.1rem;
-      line-height: 1;
-    }
+    .page-nav .arrow { font-size: 1.1rem; line-height: 1; }
 
-    /* --- FOOTER --- */
     .book-footer {
       text-align: center;
       padding: 1.5rem;
@@ -220,14 +205,8 @@
       opacity: 0.5;
     }
 
-    /* --- PAGE TURN ANIMATION --- */
-    .book.turning-forward {
-      animation: turnForward 0.6s ease-in-out;
-    }
-
-    .book.turning-back {
-      animation: turnBack 0.6s ease-in-out;
-    }
+    .book.turning-forward { animation: turnForward 0.6s ease-in-out; }
+    .book.turning-back { animation: turnBack 0.6s ease-in-out; }
 
     @keyframes turnForward {
       0% { transform: perspective(1200px) rotateY(0deg); }
@@ -241,16 +220,13 @@
       100% { transform: perspective(1200px) rotateY(0deg); opacity: 0; }
     }
 
-    .book.enter {
-      animation: pageEnter 0.4s ease-out;
-    }
+    .book.enter { animation: pageEnter 0.4s ease-out; }
 
     @keyframes pageEnter {
       from { opacity: 0; transform: perspective(1200px) rotateY(2deg); }
       to { opacity: 1; transform: perspective(1200px) rotateY(0deg); }
     }
 
-    /* --- RESPONSIVE --- */
     @media (max-width: 600px) {
       body { padding: 0.5rem; }
       .chapter-header { padding: 3rem 1.5rem 2rem; }
@@ -265,17 +241,17 @@
 
   <div class="book enter" id="book">
     <div class="chapter-header">
-      <div class="chapter-number">Kapitel Eins</div>
-      <h1 class="chapter-title">Alphina</h1>
+      <div class="chapter-number">Kapitel Drei</div>
+      <h1 class="chapter-title">Vesper</h1>
       <div class="chapter-ornament">— · —</div>
     </div>
 
     <div class="prose" id="chapter"></div>
 
     <div class="page-nav">
-      <span class="disabled"><span class="arrow">&larr;</span> Zurück</span>
-      <span class="page-info">1 / 3</span>
-      <a href="/lesen/2/" id="next-link" onclick="turnPage(event, 'forward', '/lesen/2/')">Weiter <span class="arrow">&rarr;</span></a>
+      <a href="/lesen/2/" onclick="turnPage(event, 'back', '/lesen/2/')"><span class="arrow">&larr;</span> Zurück</a>
+      <span class="page-info">3 / 3</span>
+      <span class="disabled">Weiter <span class="arrow">&rarr;</span></span>
     </div>
 
     <div class="book-footer">
@@ -292,8 +268,7 @@
       setTimeout(() => { window.location.href = url; }, 500);
     }
 
-    // Parse markdown
-    fetch('/buch/kapitel/01-alphina.md')
+    fetch('/buch/kapitel/03-vesper.md')
       .then(r => r.text())
       .then(md => {
         const lines = md.split('\n');
@@ -313,10 +288,7 @@
           }
           if (line.startsWith('#')) continue;
 
-          // Handle inline italics *text*
           let processed = line.replace(/\*([^*]+)\*/g, '<em>$1</em>');
-
-          // Dialog detection
           const isDialog = line.startsWith('"') || line.startsWith('„') || line.startsWith('«');
 
           if (isFirst) {
