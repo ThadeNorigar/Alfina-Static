@@ -17,23 +17,33 @@ Erstelle `buch/kapitel/XX-entwurf.md` mit:
 - 2-4 Szenen mit Beats
 - Tschechow-Waffen die geladen werden
 - Referenzen zu früheren Kapiteln
-- Wortziel pro Szene (~1.200-1.600)
+- Wortziel pro Szene (~1.200-1.600), Gesamtziel: 4.000-4.500 Wörter
 
 Dann: Council auf den Entwurf (`/council buch/kapitel/XX-entwurf.md`)
 
 ## Phase 2: Szene für Szene
 
-Für jede Szene:
+**GATE: Keine nächste Szene ohne abgeschlossenen Council + Fixes der aktuellen.**
+
+Für jede Szene, einzeln, der Reihe nach:
 1. Schreibe die Szene in `buch/kapitel/XX-szeneN.md`
-2. `wc -w` prüfen
-3. Council: Erzähldichte, Logik, Stilmuster
+2. `wc -w` prüfen (Ziel: 1.200-1.600 pro Szene)
+3. **Council auf diese Szene** — Erzähldichte, Logik, Stilmuster, Stilbudget-Zählung
 4. Fixes einarbeiten
-5. Logik-Checkliste durchgehen
+5. Erst dann: nächste Szene
 
 ## Phase 3: Zusammenbauen
 
 1. Alle Szenen in `buch/kapitel/XX-FIGUR.md` zusammensetzen
-2. `wc -w` Gesamtkapitel (Ziel: 3.500-5.000)
+2. `wc -w` Gesamtkapitel — **Minimum 4.000 Wörter.** Unter 4.000 → zurück und verdichten.
+3. **Logik-Checkliste (manuell, jeden Punkt einzeln):**
+   - Tageszeit? (konsistent über alle Szenen)
+   - Wetter? (Jahreszeit, Temperatur)
+   - Ort? (Figur verlässt nie den Raum ohne Grund)
+   - Wissen der Figur? (weiß nur was sie wissen kann)
+   - Puls/Körper? (nie Emotionen benannt, immer gezeigt)
+   - Referenzen zu früheren Kapiteln?
+   - Technologie? (frühes 19. Jhd, kein Strom)
 
 ## Phase 3.5: Automatische Prüfung
 
