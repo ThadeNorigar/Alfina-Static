@@ -254,6 +254,12 @@ Klaus Brandts Lehrling. Dreißig, ruhige Hände. Arbeitet an der Werft weiter, o
 ### Doktor Halvard — Stadtarzt
 Behandelt die Fischer die vom Wasser krank werden. Seit dem Nebel häufiger. Rationalist — alles hat eine Erklärung. Bis es keine mehr hat. Vesper trinkt mit ihm. Halvard behandelt Verbrennungen die keine Hitzequelle haben, Frostbeulen im Sommer, Knochenbrüche ohne Sturz.
 
+### Talven — Gilden-Lehrling (Buch 2-3, Moragh)
+Dreiundzwanzig. Beschwörer-Lehrling, mittleres Reservoir. Charming, hilfsbereit, lustig. Elkes Kontakt in der Gilden-Stadt. Wird zum Freund der Helden. Aber: er sieht Alphinas kostenlose Macht und will sie. Lernt vom Antagonisten Resonanz zu ERNTEN — nicht aus den Thalassiern, sondern aus dem was sie hinterlassen. Verteilt sie an alle. Wird zum Helden in Moragh. Beschleunigt den Schwund. Bereut. Bezahlt mit seinem Körper (milchige Augen, zitternde Hände).
+
+### Nyr — Maschinisten-Pilotin (Buch 2-3, Moragh)
+Dreißig. Druck-Resonanz. Pilotiert Resonanz-Rüstung (Exoskelett, verstärkt hundertfach). Beste Pilotin — nicht die Stärkste, die Schmerzresistenteste. Beginnt Beziehung mit Vesper. Starke Persönlichkeit, direkt, physisch. Wechselt mit Vesper die Seite als sie sieht was die Maschinisten wirklich sind.
+
 ---
 
 ## Die Fraktionen in Moragh

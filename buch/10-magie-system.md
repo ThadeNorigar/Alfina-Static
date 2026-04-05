@@ -2,9 +2,21 @@
 
 ## Grundprinzip
 
-Magie ist subtil. Stück für Stück. Die Leserin zweifelt bis Akt III, ob es überhaupt Magie ist.
+**Buch 1 (King):** Subtil. Die Leserin zweifelt bis Akt III. Moos in Fugen. Der Tee der sich kräuselt. Könnte Zufall sein.
 
-**Kein Anime.** Keine Ranken aus Handflächen. Keine Gewächshäuser in Sekunden. Moos in Fugen. Ein Farn im Riss. Der Tee der sich kräuselt. Die Uhr die steht.
+**Buch 2 (King → Yarros):** Moragh. Magie wird LAUT. Die Thalassier entdecken was sie können — und es kostet sie NICHTS. Das ist nicht subtil. Das ist Macht. Die Zurückhaltung ist psychologisch, nicht physisch.
+
+**Buch 3 (Yarros):** Volle Kraft. Action, Konsequenzen, dramatische Magie. Die Thalassier sind Naturgewalten. Die Bremse ist nicht der Körper — die Bremse ist was Moragh aushält.
+
+## DIE KERNREGEL
+
+**Resonanz-Begabte aus Thalassien zahlen KEINEN persönlichen Preis.** Keine Erschöpfung. Kein Nasenbluten. Kein Hunger. NICHTS. Sie heben die Hand und der Wald wächst und sie fühlen sich gut dabei. DAS ist was sie so bedrohlich macht. DAS ist warum jede Fraktion sie will.
+
+**Moragh zahlt den Preis.** Jeder Wald den Alphina wachsen lässt, zieht Energie aus der Welt. Der Boden wird weicher. Die Reservoire schrumpfen. Die Moragh-Menschen spüren es — ihre eigene Magie wird schwächer. Nicht sofort. Über Wochen. Messbar.
+
+**Moragh-Geborene zahlen mit dem Körper.** Wie immer. Erschöpfung, Hunger, Schmerz. Das Reservoir ist endlich.
+
+**Nach Wiedervereinigung (Buch 3, Finale):** Alle zahlen. Fair. Gleich.
 
 ---
 
@@ -19,16 +31,18 @@ Magie ist subtil. Stück für Stück. Die Leserin zweifelt bis Akt III, ob es ü
 - Nachts, Hand auf dem Boden: Morgens ein Moos-Fleck an der Stelle. Hätte gestern schon da sein können.
 - Dunkelkammer (Sex mit Sorel): Danach feuchte Stellen an der Kellerwand. Am nächsten Morgen: Moos in den Fugen. Kleine Farne in Rissen im Putz. Sorel wischt es weg. Es kommt wieder.
 
-**Buch 2 — "Das ist kein Zufall mehr"**
-- Wo sie schläft, wächst Gras. Jeden Morgen. Ein Büschel.
-- Ein Setzling wo sie geweint hat. Dünn, kniehoch. In einer Woche.
-- Nach Sorels Tod: Der Setzling wird zum Baum. In einer Nacht. DER Moment wo es kippt.
-- Ende Buch 2: Ein Hain. Bäume, mannshoch. "Euer Wald wächst seit zwei Tagen."
+**Buch 2 — Yarros-Shift. Es kostet sie NICHTS.**
+- Wo sie schläft, wächst Gras. Jeden Morgen. Ein Büschel. Sie fühlt sich ausgeruht.
+- Ein Setzling wo sie geweint hat. Dünn, kniehoch. In einer Woche. Sie hat es nicht bemerkt.
+- Nach Sorels Tod: Der Setzling wird zum Baum. In einer Nacht. Sie wacht auf, der Baum steht da, und sie fühlt NICHTS — keinen Preis, keine Müdigkeit. Das erschreckt sie mehr als der Baum.
+- Sie hebt die Hand und ein zweiter Baum wächst. Einfach so. Wie Atmen.
+- Ende Buch 2: Ein Hain. Bäume, mannshoch. Die Gilden sehen es von den Türmen. Alphina steht mittendrin, unverletzt, nicht mal außer Atem. DAS ist was ihnen Angst macht.
 
-**Buch 3 — "Naturgewalt, aber aus dem Boden"**
-- Wälder in Stunden. Aber nicht aus ihren Händen — aus dem Boden. Sie ist Auslöser, nicht Quelle.
-- Dunkelste Anwendung: Sie schläft. Wurzeln ihres Hains kriechen durch ein Dorf. Über Tage. Wie Efeu. Unaufhaltbar. Sie wacht auf, das Dorf ist ruiniert. Sie hat es nicht gewollt.
-- Kostet (nach Wiedervereinigung): Erschöpfung, Hunger, Schwindel. Wie jeder in der neuen Welt.
+**Buch 3 — Volle Yarros. Naturgewalt ohne Bremse.**
+- Wälder in Stunden. Sie will es und es passiert. Kein persönlicher Preis.
+- Dunkelste Anwendung: Sie SCHLÄFT und die Wurzeln kriechen durch ein Dorf. Über Tage. Unaufhaltbar. Moragh zahlt — der Boden unter dem nächsten Dorf wird weicher.
+- Die psychologische Bremse: Sie SIEHT was es Moragh kostet. Und muss trotzdem. Die Zurückhaltung ist moralisch, nicht physisch.
+- Erst nach Wiedervereinigung: Dann kostet es SIE. Erschöpfung, Hunger. Wie alle.
 
 ### Vesper / Muster-Zeit
 
@@ -38,16 +52,18 @@ Magie ist subtil. Stück für Stück. Die Leserin zweifelt bis Akt III, ob es ü
 - Hand auf Standuhr: sie steht. Hand weg: 4:33. Defekt den er auslöst? Oder?
 - Manuskript-Nacht: Er sieht zwei Handschriften in der Tinte. Nicht Expertise — Muster-Sinn.
 
-**Buch 2 — "Ich sehe zu viel"**
-- Vorhersagen von Abläufen. "Er greift links an." Warum? "Sein rechtes Bein ist steif." Analyse oder Magie?
-- Hand auf Metallgeländer: Stelle darunter ein Grad kälter. Über Stunden.
-- Hand auf Holztür: Stelle wird grau. Über Stunden. Abends: zehn Jahre älter als der Rest. Holzwurm-Löcher.
-- Eine Kette. Er hält sie. Denkt an den Rost. Kette wird spröde. Über Minuten. Er zieht. Sie bricht. Sein Zahnfleisch blutet.
+**Buch 2 — Yarros. Es kostet ihn NICHTS.**
+- Er sagt voraus wo der Angriff kommt. Drei Sekunden vorher. Er SIEHT das Muster.
+- Hand auf Metallgeländer: Das Metall wird spröde. Über Minuten. Er fühlt sich gut.
+- Holztür: Die Stelle altert zehn Jahre. Über eine Stunde. Er hat nicht geschwitzt.
+- Eine Kette. Denkt an den Rost. Kette bricht. Kein Preis für ihn. Der Boden unter ihm: einen Millimeter weicher.
 
-**Buch 3 — Altern als Werkzeug, nie als Waffe gegen Menschen**
-- Gezielt: Schloss, Kette, Scharnier. Minuten. Kosten: Kopfschmerzen, Nasenbluten.
-- Pflanze welken lassen: Über eine Stunde. Fühlt den gesamten Lebenszyklus. Danach: zwei Tage flach.
-- Menschen altern: NEIN. Versucht es einmal, in Panik. Angreifer spürt nichts. Vesper kollabiert. Organismus zu komplex. Geht nicht. Nie.
+**Buch 3 — Volle Yarros. Zeit als Waffe.**
+- Schloss, Kette, Scharnier: Sekunden. Mühelos. Kein persönlicher Preis.
+- Pflanze: Er denkt es und sie stirbt. Spürt den ganzen Lebenszyklus in einem Atemzug.
+- Dämon altern: Hundert Jahre in Sekunden. Fleisch wird grau, Augen blind. Funktioniert. Kostet ihn NICHTS physisch. Aber: er sieht was er getan hat. Das kostet ihn den Schlaf.
+- Menschen: MÖGLICH. Er wählt es nicht. Die Grenze ist moralisch, nicht physisch.
+- Vesper + KI (2250): Er sieht die Muster der KI. Die KI sieht seine. Ergänzung.
 
 ### Maren / Wasser
 
@@ -56,16 +72,17 @@ Magie ist subtil. Stück für Stück. Die Leserin zweifelt bis Akt III, ob es ü
 - Am Hafen: Wasseroberfläche wird glatt genau wo sie steht. Wie eine Hand über Tischtuch. Könnte Wind sein.
 - Tee mit Vesper: Tee kräuselt sich im Rhythmus ihres Atems. Er sieht es. Sagt nichts.
 
-**Buch 2 — "Das Wasser hört mir zu"**
-- Fluss in Moragh: Hebt die Hand. Fluss zögert. Nicht stoppt — zögert.
-- Eine Handvoll Wasser in der Luft halten. Für Sekunden. Es fällt zurück.
-- Regen um sie herum fällt langsamer. Im Umkreis von einem Meter.
-- Blut: Schneidet sich. Blut auf Holz. Denkt "zurück." Blut kriecht. Millimeter. Stoppt. Erzählt niemandem.
+**Buch 2 — Yarros. Wasser GEHORCHT.**
+- Fluss in Moragh: Hebt die Hand. Der Fluss STOPPT. Nicht zögert — stoppt. Dann fließt er wohin sie will. Es kostet sie nichts. Ihr Herz schlägt nicht schneller.
+- Wasser in der Luft: Sie hält es dort. Solange sie will. Formt es. Ein Schild, eine Faust, eine Wand.
+- Regen: Sie steht im Regen. Alles um sie herum: nass. Sie: trocken. Die Tropfen weichen aus.
+- Blut: Schnitt am Boot. Blut tropft. Sie denkt "zurück." Das Blut kriecht auf dem Holz. Zentimeter. Sie könnte mehr. Sie tut es nicht. Noch nicht.
 
-**Buch 3 — Stärker, nie "Wasser gehorcht"**
-- Strömungen umlenken. Wie gegen eine Tür stemmen.
-- Heilung: Hand auf Wunde. Schwellung geht zurück. Langsam. Wie Schwamm auswringen. Danach: Migräne.
-- Flutwelle: Versucht es. Wasser steigt zehn, zwanzig, dreißig Zentimeter. Nase blutet. Lässt los. Keine Flutwellen.
+**Buch 3 — Volle Yarros. Wasser als Waffe, Werkzeug, Medizin.**
+- Strömungen umlenken: mühelos. Ein Fluss fließt wohin sie zeigt.
+- Heilung: Hand auf Wunde. Wasser im Gewebe reagiert. Schwellung geht zurück, Blut stoppt. Kostet sie nichts — aber sie muss den Patienten FÜHLEN. Emotional, nicht physisch.
+- Flutwelle: JA. Sie kann es. Wasser steigt, Meter, nicht Zentimeter. Kein persönlicher Preis. Moragh-Preis: die Reservoire in der Region schrumpfen messbar.
+- Blut: Fremdes Blut außerhalb des Körpers kontrollieren — ja. IM Körper eines Lebenden — die moralische Grenze. Sie KÖNNTE. Sie wählt es nicht.
 
 ### Runa / Feuer-Hitze
 
@@ -74,15 +91,16 @@ Magie ist subtil. Stück für Stück. Die Leserin zweifelt bis Akt III, ob es ü
 - Fasst Alphinas Arm. "Deine Hände brennen." — "Ich war am Ofen."
 - Glas Wasser in ihrer Hand wird warm. In Minuten. Körperwärme?
 
-**Buch 2 — "Das ist nicht Körperwärme"**
-- Stein in ihrer Hand wird heiß. Brandblase — von INNEN gekommen.
-- Metall in ihrer Nähe wird biegsam. Nicht flüssig — wie warmes Wachs.
-- Metallgitter: greift zu, konzentriert sich. Glüht kirschrot an den Griffstellen. Über dreißig Sekunden. Loch. Ihre Hände verbrannt.
+**Buch 2 — Yarros. Feuer ohne Preis.**
+- Stein in ihrer Hand wird heiß. Glühend. IHRE Haut: unversehrt. Die Hitze kommt aus ihr aber verletzt sie nicht. Das schockiert die Moragh-Menschen mehr als alles andere.
+- Metall in ihrer Nähe wird biegsam. Sie formt es mit den Händen wie Ton.
+- Metallgitter: greift zu. Glüht kirschrot. Schmilzt. Ihre Finger sind warm, nicht verbrannt. Kein Preis.
+- Kälte: Sie kann Hitze ENTZIEHEN. Einen Raum kühlen. Wärme in sich aufnehmen. Fühlt sich an wie ein warmes Bad von innen.
 
-**Buch 3 — Brücke zwischen Welten**
-- Kontrollierte Hitze. Gezielt schmelzen. Metall formen.
-- Kälte? Hitze entziehen = ja, aber langsam. Einen Raum um fünf Grad kühlen. Über Minuten.
-- Hybrid-Maschinen: Versteht Moragh-Technik UND thalassische Elektrik. Baut Brücken.
+**Buch 3 — Brücke zwischen Welten.**
+- Schmiedet Metall mit bloßen Händen. Ohne Werkzeug, ohne Ofen.
+- Hybrid-Maschinen: Versteht Moragh-Magie-Technik UND thalassische Elektrik. Baut was keine Seite allein kann.
+- Waffe: Sie berührt eine Rüstung und das Metall wird weich. Die Rüstung fällt zusammen. Der Pilot darin — unverletzt, aber nackt.
 
 ### Iven / Elektrizität
 
@@ -135,9 +153,10 @@ Selten. Kosten ALLE drei massiv. Max 2-3 Mal in der ganzen Trilogie.
 ## Harte Regeln
 
 1. **Magie kommt aus der Umgebung, nicht aus dem Körper.** Alphina wachsen keine Pflanzen aus den Händen. Der BODEN reagiert auf sie.
-2. **Jede Eskalation braucht einen emotionalen Auslöser.** Trauer, Angst, Sex, Wut. Nicht "ich will jetzt einen Baum."
-3. **Jede Eskalation braucht eine Szene vorher in der es NICHT funktioniert hat.**
-4. **Der Preis ist physisch und graduell.** Buch 1: nichts spürbar. Buch 2: Nasenbluten, Erschöpfung. Buch 3: permanente Schäden.
-5. **Moragh zahlt den versteckten Preis** (bis Wiedervereinigung). Danach zahlt jeder selbst.
-6. **Keine Gotmodi.** Maren macht keine Flutwellen. Vesper altert keine Menschen. Iven kontrolliert keine Computer.
-7. **Kombinationen kosten mehr als die Summe der Teile.** Und jemand zahlt immer mehr als der andere.
+2. **Thalassier zahlen KEINEN persönlichen Preis.** Kein Nasenbluten, kein Hunger, keine Erschöpfung. NICHTS. Das ist der Punkt. Das ist was sie bedrohlich macht.
+3. **Moragh zahlt.** Jede Resonanz-Nutzung schwächt die Welt. Messbar. Über Wochen.
+4. **Moragh-Geborene (Iven, Nyr, Talven, alle Gilden/Binder/Maschinisten) zahlen mit dem Körper.** Wie immer. Das Reservoir ist endlich.
+5. **Die Grenze der Thalassier ist MORALISCH, nicht physisch.** Sie KÖNNEN alles. Sie WÄHLEN nicht alles zu tun. Die Zurückhaltung kommt aus dem Wissen was es Moragh kostet.
+6. **Buch 1 = King (subtil).** Buch 2 = King → Yarros (Übergang). Buch 3 = Yarros (volle Kraft, Action, Konsequenzen).
+7. **Kombinationen: Thalassier untereinander = kein Preis.** Thalassier + Moragh-Geborene = der Moragh-Geborene zahlt seinen Anteil.
+8. **Nach Wiedervereinigung: ALLE zahlen.** Fair. Gleich. Keine Ausnahmen.
