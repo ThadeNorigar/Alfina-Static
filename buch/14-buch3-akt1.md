@@ -38,9 +38,9 @@ Maren sitzt in einem weißen Raum und eine Wissenschaftlerin stellt Fragen. "Wie
 Marens Gedanken: Thies. Tot. Seit Generationen. Jara. Tot. Finn. Tot. Alle die sie kannte. Die Werft ist ein Denkmal. Das Wasser das sie gerufen hat, fließt immer noch falsch herum. Sensoren messen es. Niemand versteht warum.
 
 ### Kap. 44 — Vesper (S. 58–74, ~4.000 Wörter)
-*Die Esse. Der Krieg verändert sich.*
+*Die Thar. Der Krieg verändert sich.*
 
-Vesper bei den Esse. Seit dem Ende von Buch 2 — er hat die Seite gewechselt, Daten geliefert, Laufwerke optimiert. Nyr neben ihm, Schulter an Schulter über Karten gebeugt. Der Krieg gegen die Binder ist härter geworden. Die Laufwerke sind besser, aber die Piloten sterben schneller. Junge Frauen und Männer, zwanzig, fünfundzwanzig, ausgehöhlt nach einem Jahr.
+Vesper bei der Thar. Seit dem Ende von Buch 2 — er hat die Seite gewechselt, Daten geliefert, Laufwerke optimiert. Nyr neben ihm, Schulter an Schulter über Karten gebeugt. Der Krieg gegen die Binder ist härter geworden. Die Laufwerke sind besser, aber die Piloten sterben schneller. Junge Frauen und Männer, zwanzig, fünfundzwanzig, ausgehöhlt nach einem Jahr.
 
 Vesper sieht die Muster in den Daten: der Reservoir-Schwund beschleunigt sich. Nicht nur wo die Thalassier sind — überall. Moragh verliert Magie. Schneller als seine Hochrechnungen vorausgesagt haben. Irgendwas nimmt mehr als es sollte.
 
@@ -100,7 +100,7 @@ Der Laptop auf dem Tisch — sein Bildschirm flackert als Iven vorbeigeht. Buchs
 ### Kap. 48 — Vesper (S. 154–170, ~4.000 Wörter)
 *Die Zahlen stimmen nicht.*
 
-Vesper bei den Esse, mit den neuen Daten. Die Thalassien-Ingenieure haben Messgeräte mitgebracht — Sensoren die Moragh-Magie quantifizieren können. Die Zahlen sind schlimmer als Vespers Hochrechnungen. Der Reservoir-Schwund: nicht linear, exponentiell. Irgendwas hat den Verfall beschleunigt.
+Vesper bei der Thar, mit den neuen Daten. Die Thalassien-Ingenieure haben Messgeräte mitgebracht — Sensoren die Moragh-Magie quantifizieren können. Die Zahlen sind schlimmer als Vespers Hochrechnungen. Der Reservoir-Schwund: nicht linear, exponentiell. Irgendwas hat den Verfall beschleunigt.
 
 Vesper rechnet rückwärts. Der Knick in der Kurve — vor etwa drei Moragh-Monaten. Als Talven angefangen hat zu ernten. Vesper weiß das nicht. Noch nicht. Aber das Muster ist da: lokaler Schwund im Gilden-Gebiet, konzentriert um Alphinas Hain. Resonanz-Entnahme. Systematisch. Nicht natürlich.
 

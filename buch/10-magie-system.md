@@ -112,7 +112,7 @@ DAS ist der Konflikt. Nicht ein versteckter Preis — die UNGERECHTIGKEIT selbst
 
 **Buch 2 — "Warum kribbelt alles?"**
 - Berührt Metall, es knistert. Statisch. Im Sommer.
-- Esse-Presse summt anders wenn er daneben steht.
+- Thar-Presse summt anders wenn er daneben steht.
 - Kann nachts nicht schlafen. Quarz-Kristalle in Wänden vibrieren. Nur er hört es.
 
 **Buch 3 — Thalassien-Technik trifft auf ihn**

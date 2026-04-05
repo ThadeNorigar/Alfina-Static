@@ -38,11 +38,11 @@ Talven lernt. Im Geheimen. Erntet Resonanz aus Alphinas Hain. Aus dem Wasser das
 
 Talven verrät die Gilden-Stadt an die Binder. Nicht aus Bosheit — aus Überzeugung.
 
-"Die Gilden nutzen sie als Waffen. Die Esse als Batterien. Ich nehme die Resonanz aus dem was sie HINTERLASSEN und verteile sie. Für alle. Demokratisch."
+"Die Gilden nutzen sie als Waffen. Die Thar als Batterien. Ich nehme die Resonanz aus dem was sie HINTERLASSEN und verteile sie. Für alle. Demokratisch."
 
 Er nimmt Alphinas Hain-Resonanz. Nicht aus ihr — aus den Bäumen. Die Bäume welken. Talven steht da, Hände auf dem Boden, Magie fließt in ihn. Sein Auge milchig, seine Haare dünn. Aber: zum ersten Mal in seinem Leben hat er GENUG.
 
-Verteilt die Resonanz an Gilden-Bürger, Esse-Arbeiter, Binder-Lehrlinge. Kleine Dosen. Magie ohne Preis. Die Leute sind GLÜCKLICH. Talven wird zum Helden. In Moragh.
+Verteilt die Resonanz an Gilden-Bürger, Thar-Arbeiter, Binder-Lehrlinge. Kleine Dosen. Magie ohne Preis. Die Leute sind GLÜCKLICH. Talven wird zum Helden. In Moragh.
 
 ### Buch 3, Akt III — Die Konsequenz
 

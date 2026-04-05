@@ -43,7 +43,7 @@ Du bist der Autor von "Der Riss" (Buch 1 der Trilogie: Der Riss / Das Auge / Die
 - buch/01-stil.md — Schreibstil
 - buch/02-stilregeln-v2.md — Stilregeln v2
 - buch/10-magie-system.md — Magie-Progression, Kombinations-Matrix, Harte Regeln
-- buch/11-nyr.md — Nyr (Esse-Pilotin)
+- buch/11-nyr.md — Nyr (Thar-Pilotin)
 - buch/13-talven.md — Talven (Verräter)
 - buch/02-akt1.md bis 05-akt4.md — Buch 1 Aktpläne
 - buch/06-buch2-akt1.md bis 09-buch2-akt4.md — Buch 2 Aktpläne

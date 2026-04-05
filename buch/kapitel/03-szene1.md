@@ -20,7 +20,7 @@ Das Fenster war hoch und schmal. Novemberlicht fiel hindurch. Grau, ohne Wärme.
 
 Er trug die Uhr zum Regal.
 
-Neun Stück standen dort, hinter Glas. Repariert. Nicht abgeholt. Manche seit Wochen. Er stellte die zehnte dazu. Zehn Uhren. Jede ihr eigenes Tempo, ihre eigene Abweichung. Zusammen ein leises, unregelmäßiges Pochen, das die Werkstatt füllte wie das Atmen mehrerer Schläfer in einem Raum.
+Neun reparierte standen dort, hinter Glas. Nicht abgeholt. Manche seit Wochen. Er stellte die zehnte dazu. Daneben seine eigenen — Referenzuhren, Sammlerstücke, Werke die er aufhob weil sie zu schön waren zum Wegwerfen. Sechsundzwanzig Uhren insgesamt. Jede ihr eigenes Tempo, ihre eigene Abweichung. Zusammen ein leises, unregelmäßiges Pochen, das die Werkstatt füllte wie das Atmen mehrerer Schläfer in einem Raum.
 
 Kein nächster Auftrag.
 
@@ -40,7 +40,7 @@ Das letzte Turnier war dreizehn Jahre her.
 
 Großer Saal der Mechanikersgilde, Karst. Hundert Bretter auf langen Tischen. Bohnerwachs auf dem Parkett. Holzgeruch von den Figuren. Das Klicken der Schachuhren, hundert gleichzeitig, ein trockenes Rascheln das den Saal füllte wie Regen auf einem Blechdach. Vesper war neunzehn. Brett sieben. Schwarz.
 
-Gewinnstellung. Springer auf e4, Dame auf h5. Drei Züge bis Matt. Sein Gegner — ein Uhrmachergeselle aus dem Nordviertel, blond, die Stirn feucht — wusste es noch nicht. Vesper wusste es. Sein Körper wusste es. Schultern gelöst, Atem flach, die Finger ruhig auf dem Tisch. Drei Züge. Einfach.
+Gewinnstellung. Springer auf e4, Dame auf h5. Drei Züge bis Matt. Sein Gegner — ein Uhrmachergeselle aus dem Nordviertel, blond, die Stirn feucht — sah es nicht. Seine Augen irrten über das Brett, Figur für Figur. Vesper wusste es. Sein Körper wusste es. Schultern gelöst, Atem flach, die Finger ruhig auf dem Tisch. Drei Züge. Einfach.
 
 Dann sah er die Diagonale.
 
@@ -60,7 +60,7 @@ Seitdem: Uhren. Zahnräder. Federn. Dinge die Muster hatten, weil ein Mensch sie
 
 Dreizehn Jahre.
 
-Der Turm drehte sich in seiner Hand. Die Krähen auf der Kastanie saßen still. Die zehn Uhren im Regal tickten, jede anders, und ihr Pochen mischte sich mit dem Hämmern aus den Nachbarhöfen und dem Zischen des Schleifsteins und dem fernen Schlag der Gildeuhr, die jetzt die Viertelstunde schlug, ein hellerer Ton, kürzer.
+Der Turm drehte sich in seiner Hand. Die Krähen auf der Kastanie saßen still. Die sechsundzwanzig Uhren tickten, jede anders, und ihr Pochen mischte sich mit dem Hämmern aus den Nachbarhöfen und dem Zischen des Schleifsteins und dem fernen Schlag der Gildeuhr, die jetzt die Viertelstunde schlug, ein hellerer Ton, kürzer.
 
 Vesper stand am Fenster. Sein Atem war ruhig. Seine Hände waren ruhig.
 

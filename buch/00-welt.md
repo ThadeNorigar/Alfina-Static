@@ -140,12 +140,12 @@ Moragh hat **Reservoir-Quellen** — magische Brunnen, endlich, an Geografie geb
 
 Der Krieg dauert **vier Moragh-Jahre** (= ~1600 Thalassien-Jahre). Drei Seiten.
 
-**Der Grund:** Die Esse expandiert um neue Reservoir-Quellen zu erschließen. Ihre Maschinen fressen Magie schneller als natürliche Quellen sich regenerieren. Die Gilden-Städte, die auf den reichsten Quellen sitzen, wehren sich. Die Binder — Ausgestoßene aus allen Fraktionen, in den Grenzlanden — greifen aus Opportunismus an, binden Dämonen und plündern erschöpfte Gebiete.
+**Der Grund:** Die Thar expandiert um neue Reservoir-Quellen zu erschließen. Ihre Maschinen fressen Magie schneller als natürliche Quellen sich regenerieren. Die Gilden-Städte, die auf den reichsten Quellen sitzen, wehren sich. Die Binder — Ausgestoßene aus allen Fraktionen, in den Grenzlanden — greifen aus Opportunismus an, binden Dämonen und plündern erschöpfte Gebiete.
 
-**Die Fronten:** Hunderte Kilometer umkämpftes Land. Kein klarer Sieger, aber die Esse gewinnt langsam — technische Überlegenheit frisst Gilden-Verteidigung auf.
+**Die Fronten:** Hunderte Kilometer umkämpftes Land. Kein klarer Sieger, aber die Thar gewinnt langsam — technische Überlegenheit frisst Gilden-Verteidigung auf.
 
 - Die **Gilden** verteidigen ihre Städte mit koordinierter Beschwörung — Erdriesen, Flutwellen, lebende Mauern. Kostet Reservoire. Die Beschwörer erschöpfen sich, brauchen Tage zur Erholung.
-- Die **Esse** rückt mit Laufwerken vor — Magitech-Walker, 8-12 Meter hoch, aus Moragh-Stahl. 3-Mann-Besatzung: Pilot (Druck), Schütze (Feuer/Hitze), Navigator (Muster). Reservoir-Kern als Batterie, 6-8 Stunden Einsatz. Waffen: Hitzestrahlen, Druckwellen, geschmolzene Metallprojektile. Technisch überlegen, logistisch teuer.
+- Die **Thar** rückt mit Laufwerken vor — Magitech-Walker, 8-12 Meter hoch, aus Moragh-Stahl. 3-Mann-Besatzung: Pilot (Druck), Schütze (Feuer/Hitze), Navigator (Muster). Reservoir-Kern als Batterie, 6-8 Stunden Einsatz. Waffen: Hitzestrahlen, Druckwellen, geschmolzene Metallprojektile. Technisch überlegen, logistisch teuer.
 - Die **Binder** operieren als Guerilla-Stoßtrupps aus den Grenzlanden — gebundene Dämonen als Waffe, schnell, brutal, mobil.
 
 **Die Reservoir-Quellen sind erschöpft WEGEN DEM KRIEG.** Vier Jahre militärische Magie auf allen Seiten haben die Quellen schneller geleert als sie sich regenerieren. Die Fraktionen behaupten die Thalassier seien schuld — bequemer Sündenbock, einfache Erklärung. Vespers Daten zeigen: der Schwund war schon vor Ankunft der Fünf da.
@@ -260,7 +260,7 @@ Vesper dominiert durch Geduld. Maren unterwirft sich als Akt des Mutes. Er nimmt
 Betreibt die Druckerei in der Oberstadt. Heißes Metall, Bleilettern, Schmelztiegel. Intellektuell, direkt, lacht zu laut für Vael. Alphina kauft Papier bei ihr — daraus werden Gespräche, daraus Freundschaft. Runa hat eine Nase für Geheimnisse und kein Talent die Finger davon zu lassen. Hände immer warm, Metall schmilzt unter ihren Fingern leichter als es sollte. **Schwache, unerkannte Resonanz: Feuer/Hitze.** Hält es für Handwerksgeschick.
 
 **Buch 1:** Nebencharakter. Druckt Flugblätter über die Risse. Stellt unbequeme Fragen. Folgt den Vier in die Tunnel, geht durch das Tor bevor es schließt.
-**Buch 2:** Alphinas Affäre in Moragh. Einziger Mensch ohne bewusste Magie in einer Welt die aus Magie besteht. Ihre Feuer-Resonanz macht sie für die Esse interessant.
+**Buch 2:** Alphinas Affäre in Moragh. Einziger Mensch ohne bewusste Magie in einer Welt die aus Magie besteht. Ihre Feuer-Resonanz macht sie für die Thar interessant.
 
 ### Finn Tade — Fischer
 Alt, schweigsam, Gesicht wie Treibholz. Fischt seit fünfzig Jahren auf der Grauwe. Sieht Dinge auf dem Wasser — Strömungen die falsch laufen, Stellen wo die Grauwe steht. "War schon immer so." Redet mit Maren, weil sie vom Wasser kommt. Redet nicht über das was er sieht. Zeigt es. Bringt tote Fische die nach Metall stinken.
@@ -277,8 +277,8 @@ Behandelt die Fischer die vom Wasser krank werden. Seit dem Nebel häufiger. Rat
 ### Talven — Gilden-Lehrling (Buch 2-3, Moragh)
 Dreiundzwanzig. Beschwörer-Lehrling, mittleres Reservoir. Charming, hilfsbereit, lustig. Elkes Kontakt in der Gilden-Stadt. Wird zum Freund der Helden. Aber: er sieht Alphinas kostenlose Macht und will sie. Lernt von Varen Resonanz zu ERNTEN — nicht aus den Thalassiern, sondern aus dem was sie hinterlassen. Verteilt sie an alle. Wird zum Helden in Moragh. Beschleunigt den Schwund. Bereut. Bezahlt mit seinem Körper (milchige Augen, zitternde Hände).
 
-### Nyr — Esse-Pilotin (Buch 2-3, Moragh)
-Dreißig. Druck-Resonanz. Pilotiert ein Esse-Laufwerk (Magitech Walker, 8-12m, 3-Mann-Besatzung). Beste Pilotin — die Ausdauerndste, wie eine Elitesportlerin. Piloten sind Elitesoldaten, respektiert, gut bezahlt. Beginnt Beziehung mit Vesper. Starke Persönlichkeit, direkt, physisch. Wechselt die Seite als die Esse planen, Resonanz-Begabte PERMANENT an Maschinen anzuschließen. Vesper wechselt NUR weil sie wechselt — ohne Nyr wäre er geblieben.
+### Nyr — Thar-Pilotin (Buch 2-3, Moragh)
+Dreißig. Druck-Resonanz. Pilotiert ein Thar-Laufwerk (Magitech Walker, 8-12m, 3-Mann-Besatzung). Beste Pilotin — die Ausdauerndste, wie eine Elitesportlerin. Piloten sind Elitesoldaten, respektiert, gut bezahlt. Beginnt Beziehung mit Vesper. Starke Persönlichkeit, direkt, physisch. Wechselt die Seite als die Thar planen, Resonanz-Begabte PERMANENT an Maschinen anzuschließen. Vesper wechselt NUR weil sie wechselt — ohne Nyr wäre er geblieben.
 
 ---
 
@@ -290,15 +290,15 @@ Traditionelle Magie. Wesen rufen im Gleichgewicht — rufen und zurückschicken.
 ### Die Binder
 Magie als Macht. Wesen BINDEN statt rufen. Dämonen als Armee. Eine Fraktion die aus den Gilden ausgestoßen wurde, geführt von einzelnen mächtigen Beschwörern. Operieren aus den Grenzlanden — Guerilla, Stoßtrupps, gebundene Dämonen. Varen war bei ihnen, ist aber auch von den Bindern ausgestoßen. Die Binder-Fraktion als Ganzes ist größer und gefährlicher als er allein. Wollen die Resonanz-Begabten **studieren und replizieren** — kostenlose Magie.
 
-### Die Esse
+### Das Konglomerat der Thar (kurz: die Thar)
 Magie als Ingenieurwesen. Keine Wesen — reine Kraft. Menschen die **Druck, Metall, Feuer** manipulieren. Ihre Magie fließt durch Maschinen: Pressen, Schmieden, Öfen die mit Magie statt Kohle laufen. Ihre Stadt ist laut, heiß, voller Rauch. Verachten die Beschwörer ("Wer Wesen braucht, versteht die Materie nicht"). Misstrauen den Gilden. Expandieren aggressiv um neue Reservoir-Quellen zu erschließen — DAS ist der Hauptgrund für den Krieg.
 
-**Esse-Laufwerke (Magitech Walker):** 8-12 Meter hoch, aus Moragh-Stahl. 3-Mann-Besatzung: Pilot (Druck), Schütze (Feuer/Hitze), Navigator (Muster). Reservoir-Kern als Batterie, 6-8 Stunden Einsatz. Waffen: Hitzestrahlen, Druckwellen, geschmolzene Metallprojektile. Die stärkste Waffe im Krieg. Nyr pilotiert eines.
+**Thar-Laufwerke (Magitech Walker):** 8-12 Meter hoch, aus Moragh-Stahl. 3-Mann-Besatzung: Pilot (Druck), Schütze (Feuer/Hitze), Navigator (Muster). Reservoir-Kern als Batterie, 6-8 Stunden Einsatz. Waffen: Hitzestrahlen, Druckwellen, geschmolzene Metallprojektile. Die stärkste Waffe im Krieg. Nyr pilotiert eines.
 
 Wollen die Resonanz-Begabten nicht studieren. Wollen sie **EINSETZEN.** Als lebende Energiequellen. Kostenlose Magie = endlose Kraft. Ein Resonanz-Begabter an einer Maschine = eine Maschine die nie stoppt.
 
 ### Das Dreieck in Buch 2
-Gilden, Binder, Esse. Jeder will die Drei. Elke misstraut allen dreien. Die Frage ist nicht "Wer ist gut?" — die Frage ist "Wer ist am wenigsten gefährlich?"
+Gilden, Binder, Thar. Jeder will die Drei. Elke misstraut allen dreien. Die Frage ist nicht "Wer ist gut?" — die Frage ist "Wer ist am wenigsten gefährlich?"
 
 ---
 
@@ -308,7 +308,7 @@ Gilden, Binder, Esse. Jeder will die Drei. Elke misstraut allen dreien. Die Frag
 
 **Name: Varen.** Moragh-geboren. Groß, muskulös, graue Schläfen, schwarzes Haar. Augen: tiefes Purpur. Attraktiv. Charmant — nicht gespielt, echt. Das macht ihn gefährlicher.
 
-**Unabhängig. Aus ALLEN Fraktionen ausgestoßen.** Forscher, kein Soldat. War bei den Gilden — zu radikal. War bei den Bindern — zu eigenständig. War bei der Esse — zu philosophisch. Keine Fraktion will ihn. Alle fürchten ihn. Er handelt auf eigene Faust, mit einem Handvoll Deserteuren die ihm folgen.
+**Unabhängig. Aus ALLEN Fraktionen ausgestoßen.** Forscher, kein Soldat. War bei den Gilden — zu radikal. War bei den Bindern — zu eigenständig. War bei der Thar — zu philosophisch. Keine Fraktion will ihn. Alle fürchten ihn. Er handelt auf eigene Faust, mit einem Handvoll Deserteuren die ihm folgen.
 
 **Mächtig. GUT GENÄHRT. In Form.** Nicht ausgemergelt, nicht am Ende. Das Tor zu öffnen hat ihn Monate gekostet, aber er hat sich ERHOLT. Großes Reservoir, jahrelange Erfahrung. Seine Magie kostet ihn (er ist Moragh-geboren) — Müdigkeit nach dem Kampf, ja. Aber er hat Reserven.
 
@@ -358,7 +358,7 @@ Alphinas Explosion: Stille. Dann alles. Wurzeln reißen durch Stein. Ranken peit
 **Buch 2:** Erholt. Stärker als zuvor. Forscht weiter. Lehrt Talven die Resonanz-Ernte. Bietet Alphina einen Deal an — Information gegen Information. Kein Kampf, kein Sieg.
 **Buch 3:** Hilft beim Bau der Naht-Maschine — sein Wissen über die Verbindung der Welten ist entscheidend. Stirbt webend — Fäden statt Ketten. Erlösung. Sein letztes Muster wird Teil der Naht.
 
-**Er ist nicht der Endgegner.** Er ist ein Forscher mit dem richtigen Ziel und den falschen Methoden. Hinter ihm stehen die Binder, die Esse, die Gilden. Moragh ist komplizierter als ein Mann mit einem Plan.
+**Er ist nicht der Endgegner.** Er ist ein Forscher mit dem richtigen Ziel und den falschen Methoden. Hinter ihm stehen die Binder, die Thar, die Gilden. Moragh ist komplizierter als ein Mann mit einem Plan.
 
 ### Vael heilt WEIL das Tor geschlossen ist
 
@@ -422,11 +422,11 @@ Varen schließt das Tor um die Fünf zu fangen — kein Lecken mehr, keine Morag
 
 Fünf Menschen aus einer Welt ohne Magie, in einer Welt im Krieg. Das Tor ist zu. Sorel stirbt in der ersten Stunde. Die vier Überlebenden — Alphina, Vesper, Maren, Runa — fliehen. Elke findet sie. Führt sie durch Moragh.
 
-Drei Fraktionen wollen sie: Die Gilden als Waffe, die Binder zum Studium, die Esse als Energiequelle. Elke misstraut allen dreien.
+Drei Fraktionen wollen sie: Die Gilden als Waffe, die Binder zum Studium, die Thar als Energiequelle. Elke misstraut allen dreien.
 
 Alphina trauert um Sorel. Ihre Macht wächst — unkontrolliert, erschreckend. Runa wird Gegengewicht: kein Resonanz-Bewusstsein, keine Magie-Erfahrung, nur Verstand und warme Hände. Aus Freundschaft wird mehr. Alphina lässt sich fallen — anders als bei Sorel. Nicht Kontrolle gegen Souveränität. Sondern zwei Menschen die beide nicht wissen was sie tun.
 
-Die Esse entdecken Runas Feuer-Resonanz. Wollen sie. Runa muss wählen.
+Die Thar entdecken Runas Feuer-Resonanz. Wollen sie. Runa muss wählen.
 
 **Die Frage von Buch 2:** Was passiert mit Menschen die unbegrenzte Macht haben — in einer Welt in der Macht einen Preis hat? Moragh zerfällt nicht wegen der Thalassier — es zerfällt wegen des Krieges, wegen Übernutzung durch die eigenen Fraktionen. Die Ungerechtigkeit der kostenlosen Resonanz IST der Konflikt. Kein versteckter Preis.
 

@@ -150,7 +150,7 @@ Vier Abschnitte, vier Enden. Keines vollständig geschlossen.
 
 **Maren** (S. 800–830): In Vael. Alt, grau, die Haare weiß. Nicht vierhundert Jahre alt — sie hat gelebt, Moragh-Zeit und Thalassien-Zeit, aber ihr Körper hat seinen eigenen Rhythmus gefunden. Sie steht am Hafen. Metallschiffe. Glasfassaden. Die Grauwe schmeckt nach Salz und nach etwas Neuem — Magie, die jetzt überall ist, die jetzt überall kostet. Vesper neben ihr. Grau, still, die Uhren an seinem Handgelenk laufen richtig. 4:33 ist Null.
 
-"Bereust du es?" fragt Maren. Vesper: "Welchen Teil?" Maren: "Die Esse. Nyr. Dass du uns verkauft hast." Vesper, lange Stille: "Jeden Tag. Und ich würde es wieder tun." Maren schlägt ihm nicht ins Gesicht. Diesmal nicht. Sie nimmt seine Hand. Das Wasser an ihren Füßen ist warm. Nicht Moragh-warm, nicht Thalassien-kalt. Etwas dazwischen.
+"Bereust du es?" fragt Maren. Vesper: "Welchen Teil?" Maren: "Die Thar. Nyr. Dass du uns verkauft hast." Vesper, lange Stille: "Jeden Tag. Und ich würde es wieder tun." Maren schlägt ihm nicht ins Gesicht. Diesmal nicht. Sie nimmt seine Hand. Das Wasser an ihren Füßen ist warm. Nicht Moragh-warm, nicht Thalassien-kalt. Etwas dazwischen.
 
 **Vesper** (S. 830–850): Im Schwellenforschungsinstitut — jetzt das Institut für Vereinigte Physik. Monitore, Daten, Muster. Aber andere Muster. Keine Spiralen mehr — lineare Projektionen, berechenbare Physik, Magie als messbare Kraft. Vesper berät. Nicht als Seher — als Analytiker. Die Zeitlinien sind weg. Die Muster sind einfacher.
 
@@ -188,7 +188,7 @@ Die Schwelle atmet.
 | Runas Messing-Type (Buch 1) | Kap 80 — Die Hybrid-Presse. Alphinas Worte in einer Kiste unter der Presse |
 | Elkes weicher Stein (Buch 2) | Kap 80 — Der Stein spricht wieder. Leise. Talven fühlt es |
 | Talvens Hunger (Buch 2, Akt II) | Kap 80 — "Ich verstehe warum ich es getan habe. Und das ist schlimmer" |
-| Esse-Laufwerk (Nyr) | Kap 80 — Im Museum. Keine Piloten nötig. Nyr lacht |
+| Thar-Laufwerk (Nyr) | Kap 80 — Im Museum. Keine Piloten nötig. Nyr lacht |
 | Das Pochen unter Vael (Buch 1) | Epilog — Immer noch da. Die Schwelle atmet |
 | Ivens Generator-Berührung (Buch 3 Akt I) | Kap 75 — Iven speist die Maschine. Nasenbluten. Moragh-geboren. Er zahlt |
 | "Liebe die nur nimmt ist keine Liebe" | Kap 80 — Elkes Brief. Unter Runas Presse. Ungedruckt. Noch |

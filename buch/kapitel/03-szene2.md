@@ -80,11 +80,11 @@ Der Blick veränderte sich. Das Lächeln war weg. Die Beiläufigkeit war weg. Wa
 
 Drei Sekunden. Vier. Das Kaminfeuer knackte. Der Schlosser lachte. Eine Bierflasche klirrte auf den Steinboden und jemand fluchte.
 
-Vesper hielt den Blick. Er kannte Blicke. Dreizehn Jahre am Schachbrett hatten ihn gelehrt Blicke zu lesen — die Panik des Verlierers, die Arroganz des Gewinners, den leeren Blick des Mannes der aufgegeben hatte bevor die Partie vorbei war. Der Blick dieses Mannes war keiner davon. Dieser Mann wusste die Antwort. Er wartete darauf, ob Vesper die richtige Frage stellte.
+Vesper hielt den Blick. Er kannte Blicke. Das Schachbrett hatte ihn gelehrt Blicke zu lesen — die Panik des Verlierers, die Arroganz des Gewinners, den leeren Blick des Mannes der aufgegeben hatte bevor die Partie vorbei war. Der Blick dieses Mannes war keiner davon. Dieser Mann wusste die Antwort. Er wartete darauf, ob Vesper die richtige Frage stellte.
 
 "Nein", sagte der Mann. Leise. "Es gibt keinen Fehler."
 
-Dann schaute er weg. Bestellte Bier. Das Gespräch driftete — Wetter, Straßen, Kutschpreise im November. Beiläufig, gelöst, als hätte die Standuhr ihn nie interessiert. Er erzählte von der Grauküste, vom Nebel der von See kam und den sie Vaeler Atem nannten, von einer Halbinsel die auf drei Seiten Wasser hatte. Seine Stimme war warm. Sein Lachen kam leicht.
+Dann schaute er weg. Bestellte Bier. Das Gespräch driftete — Wetter, Straßen, Kutschpreise im November. Beiläufig, gelöst, als hätte die Standuhr ihn nie interessiert. Er erzählte von der Grauküste, vom Nebel der von See kam und den sie Vaeler Atem nannten. Vier Tage mit der Kutsche, sagte er. Halbinsel, drei Seiten Wasser. Seine Stimme war warm. Sein Lachen kam leicht.
 
 Vesper hörte zu. Seine Hände lagen auf dem Tisch. Ruhig. In seinem Kopf lief die Zahl, wie ein Pendel das nicht aufhörte.
 

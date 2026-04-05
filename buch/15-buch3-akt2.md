@@ -2,7 +2,7 @@
 
 ## Struktur
 
-Talven wird zum Moragh-Helden. Resonanz für alle — demokratisch, gerecht, kostenlos (für die Empfänger). Die Gilden-Stadt blüht, die Lehrlinge feiern, der Krieg wendet sich. Parallel: Vesper sieht die Zahlen. Der Schwund beschleunigt sich exponentiell. Alphinas Hain stirbt. Nyr zeigt Vesper die Wahrheit über die Esse. Die Binder nutzen Talvens Verrat. Maren pendelt zwischen den Welten — Thalassien liefert Technik, Moragh liefert Daten. Iven lernt mit der Technik umzugehen.
+Talven wird zum Moragh-Helden. Resonanz für alle — demokratisch, gerecht, kostenlos (für die Empfänger). Die Gilden-Stadt blüht, die Lehrlinge feiern, der Krieg wendet sich. Parallel: Vesper sieht die Zahlen. Der Schwund beschleunigt sich exponentiell. Alphinas Hain stirbt. Nyr zeigt Vesper die Wahrheit über die Thar. Die Binder nutzen Talvens Verrat. Maren pendelt zwischen den Welten — Thalassien liefert Technik, Moragh liefert Daten. Iven lernt mit der Technik umzugehen.
 
 **Kernkonflikt:** Talven hat Recht UND Unrecht gleichzeitig. Resonanz für alle IST gerecht. Aber die Ernte tötet die Welt. Die Leserin soll zerrissen sein.
 
@@ -35,7 +35,7 @@ Die Thalassien-Sensoren bestätigen: lokalisierte Entnahme. Systematisch. Über 
 ### Kap. 53 — Vesper (S. 238–254, ~4.000 Wörter)
 *Das Muster. Der Name.*
 
-Vesper bei den Esse, über den Daten der Thalassien-Sensoren. Er sieht das Muster: die Entnahme korreliert mit der Verteilung. Jemand erntet und verteilt. Nicht die Gilden — die würden es institutionell tun. Nicht die Binder — die würden es anders nutzen. Eine Einzelperson. Ein Lehrling mit mittlerem Reservoir der plötzlich Magie verschenkt.
+Vesper bei der Thar, über den Daten der Thalassien-Sensoren. Er sieht das Muster: die Entnahme korreliert mit der Verteilung. Jemand erntet und verteilt. Nicht die Gilden — die würden es institutionell tun. Nicht die Binder — die würden es anders nutzen. Eine Einzelperson. Ein Lehrling mit mittlerem Reservoir der plötzlich Magie verschenkt.
 
 Vesper: "Talven."
 
@@ -66,7 +66,7 @@ Elke setzt sich hin. Zum ersten Mal seit dem Durchgang fühlt sie sich alt. Nich
 
 Talven trifft die Binder. Nicht Varen — die Binder-Armee. Ein Hauptmann, pragmatisch, ohne Varens verdrehte Moral. Das Angebot: die Gilden-Stadt. Verteidigungspläne, Wachrhythmen, die dünne Stelle im lebenden Mauerwerk. Im Gegenzug: die Binder lassen die Resonanz-Empfänger in Ruhe. Talvens Leute. Die Hunderte denen er Magie geschenkt hat.
 
-Talven steht im Dunkel und sein Gesicht — unter der Brille, hinter dem Lächeln — ist das Gesicht eines Menschen der glaubt, das Richtige zu tun. "Die Gilden nutzen die Thalassier als Waffen. Die Esse als Batterien. Ich nehme die Resonanz aus dem was sie HINTERLASSEN und verteile sie. Für alle. Demokratisch."
+Talven steht im Dunkel und sein Gesicht — unter der Brille, hinter dem Lächeln — ist das Gesicht eines Menschen der glaubt, das Richtige zu tun. "Die Gilden nutzen die Thalassier als Waffen. Die Thar als Batterien. Ich nehme die Resonanz aus dem was sie HINTERLASSEN und verteile sie. Für alle. Demokratisch."
 
 Er gibt den Bindern die Pläne.
 
@@ -84,18 +84,18 @@ Runa neben ihr, Hände glühend. Metall schmilzt, formt Barrikaden. Elke im Gart
 ### Kap. 57 — Vesper + Nyr (S. 320–340, ~5.000 Wörter)
 *Nyr sieht die Wahrheit.*
 
-Thalassische Technik erreicht die Esse. Die Ingenieure zeigen: Laufwerke können von außen gespeist werden. Kein Reservoir, keine toten Piloten. Ein Generator, ein Kabel, ein Adapter. Nyr steht vor ihrem Laufwerk — der Maschine die sie tausend Stunden pilotiert hat, das sie ausgehöhlt hat, das ihr Nasenbluten und Blindheit gekostet hat — und sieht den Ingenieur ein Kabel anschließen.
+Thalassische Technik erreicht die Thar. Die Ingenieure zeigen: Laufwerke können von außen gespeist werden. Kein Reservoir, keine toten Piloten. Ein Generator, ein Kabel, ein Adapter. Nyr steht vor ihrem Laufwerk — der Maschine die sie tausend Stunden pilotiert hat, das sie ausgehöhlt hat, das ihr Nasenbluten und Blindheit gekostet hat — und sieht den Ingenieur ein Kabel anschließen.
 
 Das Laufwerk summt. Volle Leistung. Kein Pilot nötig.
 
-Nyr greift nach der Werkbank. Ihre Hände — die Narben an den Unterarmen, die Muskelkrämpfe, die Kopfschmerzen die nie ganz weggehen. Alles unnötig. Die Esse haben sie verbraucht wie eine Batterie, weil es BILLIGER war als Technologie.
+Nyr greift nach der Werkbank. Ihre Hände — die Narben an den Unterarmen, die Muskelkrämpfe, die Kopfschmerzen die nie ganz weggehen. Alles unnötig. Die Thar haben sie verbraucht wie eine Batterie, weil es BILLIGER war als Technologie.
 
 "Du hattest Unrecht," sagt sie zu Kael. Kael schweigt. Nyr nimmt ihr Laufwerk. Vesper nimmt die Daten. Sie gehen.
 
 ### Kap. 58 — Runa (S. 340–356, ~4.000 Wörter)
 *Die Presse druckt die Wahrheit.*
 
-Runa an ihrer Presse. Die thalassische Presse in Moragh-Metall, die sie aus der Esse-Stadt mitgenommen hat. Sie druckt Talvens Daten — Vespers Analyse, die Sensormessungen, den Reservoir-Schwund. Auf Moragh-Papier, in drei Sprachen: Gilden-Schrift, Esse-Code, Binder-Runen.
+Runa an ihrer Presse. Die thalassische Presse in Moragh-Metall, die sie aus der Thar-Stadt mitgenommen hat. Sie druckt Talvens Daten — Vespers Analyse, die Sensormessungen, den Reservoir-Schwund. Auf Moragh-Papier, in drei Sprachen: Gilden-Schrift, Thar-Code, Binder-Runen.
 
 Titel: "Wer zahlt für kostenlose Magie?"
 
@@ -130,7 +130,7 @@ Alphina hat keine Antwort. Weil er Recht hat. Es IST ungerecht. Und es IST falsc
 ### Kap. 60 — Alle (S. 386–400, ~3.500 Wörter)
 *Vesper und Nyr kommen zurück.*
 
-Vesper und Nyr verlassen die Esse. Kommen zur Gilden-Stadt — oder was davon übrig ist nach dem Binder-Angriff. Vesper hat Daten, Nyr hat ihr Laufwerk, modifiziert.
+Vesper und Nyr verlassen die Thar. Kommen zur Gilden-Stadt — oder was davon übrig ist nach dem Binder-Angriff. Vesper hat Daten, Nyr hat ihr Laufwerk, modifiziert.
 
 Maren steht am Tor. Vesper sieht sie. Öffnet den Mund.
 
@@ -138,7 +138,7 @@ Maren schlägt ihm ins Gesicht. Wasser explodiert im Raum — Gläser, Krüge, d
 
 Nyr steht hinter ihm. Breit, ruhig, die Narben an den Unterarmen sichtbar. Maren sieht sie an. Maren sieht alles.
 
-Vesper: "Ich bringe Daten. Moragh hat Jahrzehnte verloren. Talven erntet Resonanz und verteilt sie. Die Esse-Laufwerke können extern gespeist werden. Und Thalassien hat Technik geschickt die alles verändert."
+Vesper: "Ich bringe Daten. Moragh hat Jahrzehnte verloren. Talven erntet Resonanz und verteilt sie. Die Thar-Laufwerke können extern gespeist werden. Und Thalassien hat Technik geschickt die alles verändert."
 
 Stille. Runa: "Setzt euch. Es gibt Tee."
 

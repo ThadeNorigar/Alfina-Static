@@ -20,7 +20,7 @@ Das Fenster war hoch und schmal. Novemberlicht fiel hindurch. Grau, ohne Wärme.
 
 Er trug die Uhr zum Regal.
 
-Neun Stück standen dort, hinter Glas. Repariert. Nicht abgeholt. Manche seit Wochen. Er stellte die zehnte dazu. Zehn Uhren. Jede ihr eigenes Tempo, ihre eigene Abweichung. Zusammen ein leises, unregelmäßiges Pochen, das die Werkstatt füllte wie das Atmen mehrerer Schläfer in einem Raum.
+Neun reparierte standen dort, hinter Glas. Nicht abgeholt. Manche seit Wochen. Er stellte die zehnte dazu. Daneben seine eigenen — Referenzuhren, Sammlerstücke, Werke die er aufhob weil sie zu schön waren zum Wegwerfen. Sechsundzwanzig Uhren insgesamt. Jede ihr eigenes Tempo, ihre eigene Abweichung. Zusammen ein leises, unregelmäßiges Pochen, das die Werkstatt füllte wie das Atmen mehrerer Schläfer in einem Raum.
 
 Kein nächster Auftrag.
 
@@ -40,7 +40,7 @@ Das letzte Turnier war dreizehn Jahre her.
 
 Großer Saal der Mechanikersgilde, Karst. Hundert Bretter auf langen Tischen. Bohnerwachs auf dem Parkett. Holzgeruch von den Figuren. Das Klicken der Schachuhren, hundert gleichzeitig, ein trockenes Rascheln das den Saal füllte wie Regen auf einem Blechdach. Vesper war neunzehn. Brett sieben. Schwarz.
 
-Gewinnstellung. Springer auf e4, Dame auf h5. Drei Züge bis Matt. Sein Gegner — ein Uhrmachergeselle aus dem Nordviertel, blond, die Stirn feucht — wusste es noch nicht. Vesper wusste es. Sein Körper wusste es. Schultern gelöst, Atem flach, die Finger ruhig auf dem Tisch. Drei Züge. Einfach.
+Gewinnstellung. Springer auf e4, Dame auf h5. Drei Züge bis Matt. Sein Gegner — ein Uhrmachergeselle aus dem Nordviertel, blond, die Stirn feucht — sah es nicht. Seine Augen irrten über das Brett, Figur für Figur. Vesper wusste es. Sein Körper wusste es. Schultern gelöst, Atem flach, die Finger ruhig auf dem Tisch. Drei Züge. Einfach.
 
 Dann sah er die Diagonale.
 
@@ -60,7 +60,7 @@ Seitdem: Uhren. Zahnräder. Federn. Dinge die Muster hatten, weil ein Mensch sie
 
 Dreizehn Jahre.
 
-Der Turm drehte sich in seiner Hand. Die Krähen auf der Kastanie saßen still. Die zehn Uhren im Regal tickten, jede anders, und ihr Pochen mischte sich mit dem Hämmern aus den Nachbarhöfen und dem Zischen des Schleifsteins und dem fernen Schlag der Gildeuhr, die jetzt die Viertelstunde schlug, ein hellerer Ton, kürzer.
+Der Turm drehte sich in seiner Hand. Die Krähen auf der Kastanie saßen still. Die sechsundzwanzig Uhren tickten, jede anders, und ihr Pochen mischte sich mit dem Hämmern aus den Nachbarhöfen und dem Zischen des Schleifsteins und dem fernen Schlag der Gildeuhr, die jetzt die Viertelstunde schlug, ein hellerer Ton, kürzer.
 
 Vesper stand am Fenster. Sein Atem war ruhig. Seine Hände waren ruhig.
 
@@ -80,9 +80,7 @@ An den Nebentischen lief das übliche Gespräch. Federstahlpreise. Gildepolitik.
 
 Der Mann kam durch die Tür, als die Gildeuhr sieben schlug.
 
-Groß. Das war das Erste. Größer als die meisten Männer in Karst. Er duckte sich unter dem Türbalken, und die Bewegung war geübt, als täte er das oft, als wäre die Welt für ihn eine Handbreit zu niedrig. Schmale Schultern für seine Größe. Reisemantel, dunkel, nass vom Novemberregen. Er schüttelte ihn nicht ab.
-
-Er setzte sich an Vespers Tisch. Der einzige mit einem freien Platz.
+Groß. Das war das Erste. Größer als die meisten Männer in Karst. Er duckte sich unter dem Türbalken, und die Bewegung war geübt, als täte er das oft, als wäre die Welt für ihn eine Handbreit zu niedrig. Schmale Schultern für seine Größe. Reisemantel, dunkel, nass vom Novemberregen. Er schüttelte ihn nicht ab. Setzte sich an Vespers Tisch — der einzige mit einem freien Platz — und bestellte Bier, ohne die Karte zu lesen.
 
 "Reisender?", fragte Vesper.
 
@@ -152,11 +150,11 @@ Der Blick veränderte sich. Das Lächeln war weg. Die Beiläufigkeit war weg. Wa
 
 Drei Sekunden. Vier. Das Kaminfeuer knackte. Der Schlosser lachte. Eine Bierflasche klirrte auf den Steinboden und jemand fluchte.
 
-Vesper hielt den Blick. Er kannte Blicke. Dreizehn Jahre am Schachbrett hatten ihn gelehrt Blicke zu lesen — die Panik des Verlierers, die Arroganz des Gewinners, den leeren Blick des Mannes der aufgegeben hatte bevor die Partie vorbei war. Der Blick dieses Mannes war keiner davon. Dieser Mann wusste die Antwort. Er wartete darauf, ob Vesper die richtige Frage stellte.
+Vesper hielt den Blick. Er kannte Blicke. Das Schachbrett hatte ihn gelehrt Blicke zu lesen — die Panik des Verlierers, die Arroganz des Gewinners, den leeren Blick des Mannes der aufgegeben hatte bevor die Partie vorbei war. Der Blick dieses Mannes war keiner davon. Dieser Mann wusste die Antwort. Er wartete darauf, ob Vesper die richtige Frage stellte.
 
 "Nein", sagte der Mann. Leise. "Es gibt keinen Fehler."
 
-Dann schaute er weg. Bestellte Bier. Das Gespräch driftete — Wetter, Straßen, Kutschpreise im November. Beiläufig, gelöst, als hätte die Standuhr ihn nie interessiert. Er erzählte von der Grauküste, vom Nebel der von See kam und den sie Vaeler Atem nannten, von einer Halbinsel die auf drei Seiten Wasser hatte. Seine Stimme war warm. Sein Lachen kam leicht.
+Dann schaute er weg. Bestellte Bier. Das Gespräch driftete — Wetter, Straßen, Kutschpreise im November. Beiläufig, gelöst, als hätte die Standuhr ihn nie interessiert. Er erzählte von der Grauküste, vom Nebel der von See kam und den sie Vaeler Atem nannten. Vier Tage mit der Kutsche, sagte er. Halbinsel, drei Seiten Wasser. Seine Stimme war warm. Sein Lachen kam leicht.
 
 Vesper hörte zu. Seine Hände lagen auf dem Tisch. Ruhig. In seinem Kopf lief die Zahl, wie ein Pendel das nicht aufhörte.
 
@@ -184,7 +182,7 @@ Vesper ging nach Hause. Drei Straßen, sechs Minuten. Der Turm in seiner Tasche.
 
 Er schlief nicht.
 
-Das Bett war schmal. Die Decke rau, Wolle, sie roch nach ihm — nach Öl und Messing und dem Staub der Werkstatt, der sich in alles fraß. Der Schlafraum war dunkel. Kein Mond, kein Licht von der Gasse. Karst war still. Die Werkstätten geschlossen, die Hämmer ruhig, der Schleifstein stumm. Nur das Ticken. Aus dem Nebenraum, gedämpft durch die Wand. Die zehn Uhren im Regal. Zehn verschiedene Tempi.
+Das Bett war schmal. Die Decke rau, Wolle, sie roch nach ihm — nach Öl und Messing und dem Staub der Werkstatt, der sich in alles fraß. Der Schlafraum war dunkel. Kein Mond, kein Licht von der Gasse. Karst war still. Die Werkstätten geschlossen, die Hämmer ruhig, der Schleifstein stumm. Nur das Ticken. Aus dem Nebenraum, gedämpft durch die Wand. Die sechsundzwanzig Uhren in der Werkstatt — zehn reparierte auf dem Regal, der Rest seine eigenen, Referenzuhren, Sammlerstücke, Werke die er aufhob weil sie zu schön waren zum Wegwerfen. Sechsundzwanzig verschiedene Tempi, sechsundzwanzig verschiedene Stimmen.
 
 Vesper lag auf dem Rücken. Die Augen offen. Der Turm in der rechten Hand. Die Finger bewegten sich — Daumen, Zeigefinger, Mittelfinger. Das Holz warm von seiner Haut.
 
@@ -194,62 +192,94 @@ Die Zahl stand in seinem Kopf. Nicht als Gedanke — als Gegenstand. Sie hatte F
 
 273.
 
-Er zerlegte. Das war was er tat — zerlegen, prüfen, verstehen. Drei mal sieben mal dreizehn. Drei Primfaktoren. Kein Vielfaches einer Pendelschwingung. Kein Zahnverhältnis das in der Uhrmechanik vorkam. Er kannte jede gängige Schwingungszahl der letzten dreihundert Jahre Uhrbaugeschichte. Bücher, Tabellen, Erfahrung. 273 passte in keine.
+Er zerlegte. Das war was er tat — zerlegen, prüfen, verstehen. Drei mal sieben mal dreizehn. Drei Primfaktoren. Kein Vielfaches einer Pendelschwingung. Kein Zahnverhältnis das in der Uhrmechanik vorkam. Er kannte jede gängige Schwingungszahl der letzten dreihundert Jahre Uhrbaugeschichte. 273 passte in keine.
 
 Es gab Möglichkeiten die er noch nicht geprüft hatte. Magnetismus — ein Eisenerzvorkommen unter dem Haus, das das Pendel beeinflusste. Möglich, aber Magnetismus erzeugte keine konstante Abweichung. Mikrovibrationen — der Mann hatte gesagt, das Haus stehe auf Purpurstein, massiv. Materialermüdung im Pendeldraht — nach hundertfünfzig Jahren denkbar, aber progressiv, nicht konstant.
 
-Jede Erklärung führte zum selben Punkt. Der Versatz war zu konstant. Zu präzise. Kein physikalischer Prozess erzeugte dieselbe Abweichung, jeden Tag, auf die Sekunde. Physik schwankte. Physik hatte Toleranzen.
+Jede Erklärung führte zum selben Punkt. Der Versatz war zu konstant. Zu präzise. Physik schwankte. Physik hatte Toleranzen.
 
 4:33 hatte keine Toleranz.
 
 Der Turm drehte sich schneller.
 
-Vesper setzte sich auf. Schwang die Beine über die Bettkante. Der Boden war kalt unter seinen nackten Füßen. Stein. Die Kälte kroch durch die Sohlen, in die Knöchel. Er saß auf der Bettkante, im Dunkeln, die Hände auf den Knien. Die Luft war kalt genug für Atem, den er nicht sehen konnte.
-
-Die zehn Uhren tickten.
-
 Er dachte an den Mann. An die marineblauen Augen. An den Blick, der gemessen hatte. An die Hände ohne Hornhaut. An die Stimme die sagte: "Es gibt keinen Fehler." Und an die Art wie er es gesagt hatte — leise, langsam, als wäre der Satz nicht eine Antwort, sondern eine Tür die er aufhielt.
 
 Es gibt keinen Fehler.
 
-Der Turm lag still in seiner Hand.
+Die Uhren tickten.
 
-Vesper stand auf. Ging in die Werkstatt. Dunkel. Die Uhren tickten, lauter hier, zehn Stimmen ohne Chor. Er zündete die Lampe nicht an. Stand barfuß auf dem kalten Boden und ließ seine Augen sich anpassen. Die Werkbank, ein Schatten. Das Regal, ein Schatten. Die Uhren, zehn kleine Gesichter hinter Glas.
+Vesper hielt den Atem an.
 
-Auf dem Regal, neben den Uhren, das Schachbrett. Er konnte es nicht sehen. Er wusste trotzdem wo die Figuren standen. Jede einzelne. Die drei Bauern auf der Diagonale — d4, e5, f6. Drei Jahre, unberührt. In einer Stellung die niemand geplant hatte.
+Etwas hatte sich verändert. Im Ticken. Das Durcheinander der sechsundzwanzig Stimmen, das er kannte wie seinen eigenen Puls — es war anders. Zwei der Uhren liefen im selben Takt. Er hörte es sofort. Zwei von sechsundzwanzig, und das allein war falsch, weil keine zwei seiner Uhren jemals synchron liefen. Verschiedene Werke. Verschiedene Hersteller. Verschiedene Alter. Unmöglich.
 
-Damals hatte er aufgehört. Brett zugeklappt. Uhren repariert. Sechs Jahre erklärbare Muster.
+Drei.
 
-Jetzt stand eine Zahl in seinem Kopf. In einer Stadt die er nicht kannte. In einer Uhr die keinen Fehler hatte. Und ein Mann mit marineblauen Augen hatte sie dort hingelegt, beiläufig, zwischen zwei Schlucken Bier, als wüsste er genau was die Zahl in Vespers Kopf anrichten würde.
+Vier.
 
-Er konnte Remis anbieten. Die Zahl ignorieren. Morgen Gaists Uhr herausgeben. Auf den nächsten Auftrag warten, der kommen würde, irgendwann. Die zehn Uhren ticken lassen. Den Turm drehen. Nicht hinsehen.
+Das Ticken änderte sich. Langsam, wie ein Chor der eine Tonart findet. Eine fünfte Uhr fiel in den Takt. Eine sechste. Vesper setzte sich auf. Das Bettzeug raschelte. Sein Herz schlug in seinem Hals. Sieben. Acht. Das Ticken wurde dichter. Die einzelnen Stimmen verschwanden, verschmolzen, und an ihre Stelle trat ein Rhythmus, ein einziger, gleichmäßiger Puls, der lauter wurde mit jeder Uhr die einfiel.
 
-Sechs Jahre lang hatte das funktioniert.
+Zehn. Fünfzehn.
 
-Der Turm lag still.
+Vesper stand auf. Der Boden war kalt unter seinen Füßen. Er stand in der Dunkelheit des Schlafraums und das Ticken kam durch die Wand, nicht mehr gedämpft, nicht mehr leise. Es wuchs. Zwanzig Uhren im selben Takt. Dreiundzwanzig. Das Geräusch war kein Ticken mehr. Es war ein Schlag. Ein dumpfes, vibrierendes **TICK** das durch den Boden ging, durch seine Fußsohlen, durch seine Knochen.
 
-Vesper ging in den Schlafraum. Öffnete den Schrank. Der Koffer stand dort — Leder, klein, die Schnallen aus Messing, stumpf vom Liegen. Er hatte ihn seit zwei Jahren nicht benutzt. Daneben: drei Hemden, gefaltet, identisch. Eine Hose. Rasiermesser. Seife.
+**TICK.**
 
-Er packte. Die Hände arbeiteten schnell. Hemden, Hose, Rasiermesser. Werkzeugrolle — Pinzetten, Schraubendreher, Lupe, Ölfläschchen. Den Samtbeutel mit den Zahnrädern. Dreiunddreißig Stück, gesammelt über Jahre. Er kannte jedes einzelne — Größe, Zähne, Übersetzung. Dreiunddreißig erklärbare Dinge.
+**TICK.**
+
+**TICK.**
+
+Sechsundzwanzig Uhren. Alle. Im selben Takt. Der Raum vibrierte. Die Wand vibrierte. Vesper spürte es in den Zähnen. Im Brustkorb. Das Ticken war ein Dröhnen, rhythmisch, gleichmäßig, als hätte jemand sechsundzwanzig Herzen zusammengelegt und sie gezwungen im selben Rhythmus zu schlagen.
+
+Er presste die Hände auf die Ohren. Es half nicht. Der Klang kam nicht durch die Luft. Er kam durch den Boden, durch die Wände, durch den Stein.
+
+**TICK.**
+
+**TICK.**
+
+Seine Beine bewegten sich. Zur Tür. Zur Werkstatt. Er riss die Tür auf und das Dröhnen traf ihn, voll, ungedämpft, sechsundzwanzig Uhren die schlugen wie eine einzige, und die Werkstatt war dunkel und der Klang füllte sie und Vesper stand in der Tür und seine Hände zitterten und der Turm fiel aus seiner Hand, auf den Boden, ein kleines Geräusch das im Dröhnen verschwand.
+
+Stille.
+
+Abrupt. Total. Als hätte jemand einen Schalter umgelegt. Kein Ticken. Kein Dröhnen. Kein Nachschwingen. Die Werkstatt war still. Stiller als sie je gewesen war, stiller als Vesper sie in sechs Jahren gehört hatte. Die Stille eines Raums in dem sechsundzwanzig Uhren gleichzeitig aufgehört hatten zu atmen.
+
+Vesper stand in der Tür. Barfuß. Sein Atem ging schnell. Flach. Seine Hände hingen an seinen Seiten. Der Turm lag irgendwo auf dem Boden. Er konnte nichts sehen.
+
+Er tastete nach dem Streichholz. Auf der Werkbank, neben den Pinzetten, Position drei. Er traf. Die Finger zitterten. Einmal, zweimal. Das Streichholz fing. Schwefellicht, gelb, zuckend.
+
+Die Uhren standen.
+
+Alle. Sechsundzwanzig Zifferblätter, und der Schwefellicht tanzte über sie, eins nach dem anderen, und Vesper ging am Regal entlang und schaute und sein Atem ging flach und seine Hand zitterte und das Streichholz brannte herunter und er zündete ein zweites an und schaute weiter.
+
+4:33.
+
+Jede Uhr zeigte 4:33. Jede einzelne. Die Taschenuhr die er heute repariert hatte. Die Standuhr im Flur. Die kleine Reiseuhr in der Vitrine. Die Kuckucksuhr ohne Kuckuck. Die Seemannsuhr mit dem Messinggehäuse. Sechsundzwanzig Uhren. Sechsundzwanzig Zifferblätter. Sechsundzwanzig Mal 4:33. Die Zeiger standen still. Alle. Als hätte die Zeit selbst angehalten, an genau dieser Stelle, an genau dieser Zahl.
+
+Das Streichholz brannte an seinen Fingern. Er ließ es fallen. Dunkelheit.
+
+Vesper stand in seiner Werkstatt. Barfuß auf kaltem Stein. Die Luft roch nach Schwefel und nach Messing und nach Öl. Und nach Stille. Nach der Stille von sechsundzwanzig toten Uhren.
+
+Er hob den Turm auf. Das Holz war kalt. Zum ersten Mal seit dreizehn Jahren war das Holz kalt.
+
+Er ging in den Schlafraum. Öffnete den Schrank. Der Koffer stand dort — Leder, klein, die Schnallen aus Messing, stumpf vom Liegen. Daneben: drei Hemden, gefaltet, identisch. Eine Hose. Rasiermesser. Seife.
+
+Er packte. Die Hände zitterten nicht mehr. Sie arbeiteten. Hemden, Hose, Rasiermesser. Werkzeugrolle — Pinzetten, Schraubendreher, Lupe, Ölfläschchen. Den Samtbeutel mit den Zahnrädern. Dreiunddreißig erklärbare Dinge.
 
 Drei Minuten. Die Schnallen klickten.
 
-Er stellte den Koffer an die Tür. Zog den Mantel an. Schwer, dunkel. Die Taschen tief. Der Turm glitt hinein, links, wo er immer lag.
+Er stellte den Koffer an die Tür. Zog den Mantel an. Schwer, dunkel. Der Turm glitt in die Tasche, links, wo er immer lag. Kalt.
 
-Die Werkstatt im Dunkeln. Die zehn Uhren tickten. Der Koffer an der Tür. Das Schachbrett auf dem Regal, unsichtbar. Die Werkbank, leer.
-
-Vesper stand in der Tür. Hinter ihm die Werkstatt, in der er sechs Jahre lang Muster repariert hatte, die einen Grund hatten. Vor ihm die Gasse, nass, und dahinter eine Kutsche nach Norden und dahinter eine Stadt am Meer und dahinter eine Uhr, die 273 Sekunden pro Tag verlor, ohne Grund.
+Die Werkstatt war still. Sechsundzwanzig Uhren zeigten 4:33 und keine von ihnen bewegte sich. Er würde sie nicht aufziehen. Nicht jetzt. Vielleicht nie.
 
 Er drehte sich nicht um.
 
 Draußen war Karst still und kalt. Die Laternen brannten auf dem Gildenplatz, gelb auf nassem Stein. Novemberluft — Rauch, Frost, der ferne Geruch von Metall, der nie ganz verschwand. Sein Atem war weiß.
 
-Er schloss die Tür. Der Schlüssel drehte sich im Schloss. Ein sauberes Klicken. Ein Mechanismus der funktionierte.
+Er schloss die Tür. Der Schlüssel drehte sich im Schloss. Ein sauberes Klicken. Der einzige Mechanismus der noch funktionierte.
 
-Vesper ging. Richtung Poststation. Die Morgenkutsche nach Norden fuhr um sechs. Vier Tage bis zur Grauküste. Vier Tage, weil ein Mann ihm eine Zahl in den Kopf gelegt hatte, die nicht verschwand.
+Vesper ging. Richtung Poststation. Die Morgenkutsche nach Norden fuhr um sechs. Vier Tage bis zur Grauküste. Vier Tage, weil sechsundzwanzig Uhren gleichzeitig stehengeblieben waren und alle dasselbe zeigten.
 
-273.
+4:33.
 
-Seine Schritte hallten auf dem Pflaster. Gleichmäßig. Präzise. Der Turm lag in seiner Tasche. Die Uhren in seiner Werkstatt tickten hinter ihm, zehn verschiedene Tempi, und mit jedem Schritt wurden sie leiser, bis sie verschwanden.
+Seine Schritte hallten auf dem Pflaster. Gleichmäßig. Der Turm lag in seiner Tasche. Kalt. Hinter ihm die Werkstatt, still. Keine zehn verschiedenen Tempi. Keine Stimmen. Nur Stille und sechsundzwanzig Zifferblätter die in die Dunkelheit starrten.
 
 Dann war nur noch die Nacht und sein Atem und die Zahl.

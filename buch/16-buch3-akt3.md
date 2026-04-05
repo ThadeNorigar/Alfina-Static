@@ -119,7 +119,7 @@ Vesper neben ihr. "Bereust du es?" Nyr: "Die Schmerzen? Nein. Die waren meine. I
 ### Kap. 69 — Alphina (S. 566–586, ~5.000 Wörter)
 *Der Plan.*
 
-Alle zusammen. Nicht wie in Buch 2 — damals fünf Thalassier in einer fremden Welt. Jetzt: Thalassier, Moragh-Geborene, Ingenieure, Gilden-Älteste, eine Esse-Pilotin, ein blinder Lehrling. In Elkes Garten. Auf dem Stein der leiser geworden ist.
+Alle zusammen. Nicht wie in Buch 2 — damals fünf Thalassier in einer fremden Welt. Jetzt: Thalassier, Moragh-Geborene, Ingenieure, Gilden-Älteste, eine Thar-Pilotin, ein blinder Lehrling. In Elkes Garten. Auf dem Stein der leiser geworden ist.
 
 Die Naht-Maschine. Vesper erklärt die Theorie — die Welten waren eine, die Naht kann geheilt werden. Maren erklärt den Kanal — der Wasserweg als Fundament. Die Ingenieure erklären die Technik — Generator, Verstärker, Kanalisierung. Iven sitzt daneben und der Generator summt lauter wenn er nickt.
 

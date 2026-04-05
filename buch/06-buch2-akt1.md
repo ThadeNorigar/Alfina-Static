@@ -103,10 +103,10 @@ Endet mit: Die Älteste bietet Schutz, Nahrung, Unterkunft. Greift Alphinas Hand
 | Detail | Akt I | Feuert in |
 |--------|-------|-----------|
 | Alphinas Schlaf-Hain | Kap 5 — Wald wächst im Schlaf | Akt II — Ein Dorf wird im Schlaf überwuchert |
-| Runas Messing-Type | Kap 9 — Formt Lettern aus der Hand | Akt III — Die Esse erkennen ihren Wert |
+| Runas Messing-Type | Kap 9 — Formt Lettern aus der Hand | Akt III — Die Thar erkennen ihren Wert |
 | Elkes Garten (beide Welten) | Kap 7 — Pflanzen aus Thalassien und Moragh | Akt IV — Elkes Stein wird weicher. Moragh zahlt |
 | "Das kostet dich nichts, oder?" | Kap 7 — Elkes Frage | Akt III — Vesper entdeckt: Moragh zahlt den Preis |
 | Maren spürt das geschlossene Tor | Kap 8 — Durch das Wasser | Akt IV — Maren findet einen Weg zurück. Durch das Wasser, nicht durch das Tor |
 | 4:33 in Moraghs Struktur | Kap 6 — Vesper erkennt die Frequenz in den Monden | Akt III — 4:33 ist die Frequenz der Anomalie. Resonanz ohne Preis schwingt in 4:33 |
-| "Hier bist du mehr" | Kap 9 — Elke zu Runa | Akt III — Runa geht zu den Esse. Weil sie dort AM MEISTEN ist |
+| "Hier bist du mehr" | Kap 9 — Elke zu Runa | Akt III — Runa geht zur Thar. Weil sie dort AM MEISTEN ist |
 | Die Älteste greift Alphinas Hand | Kap 10 — Sofort, besitzergreifend | Akt II — Die Gilden wollen Gegenleistung. Kämpft für uns |
