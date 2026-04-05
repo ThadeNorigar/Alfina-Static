@@ -73,7 +73,7 @@ Wenn das Tor sich öffnet, werden die Lecks stärker. Nebel dreimal die Woche. D
 
 **Das Lichthaus** — Speichergebäude am Hafen. Sorels Dunkelkammer im Keller.
 
-**Das Archiv** — Im Rathauskeller. Gehütet von **Esther Voss**, Archivarin, unterstützt von ihrer Nichte **Jara Voss**. Enthält ein Manuskript — teilweise echt (geschrieben von Johann, Lene, Kaspar 1623), teilweise gefälscht (vom Antagonisten überschrieben und ergänzt).
+**Das Archiv** — Im Rathauskeller. Gehütet von **Esther Voss**, Archivarin, unterstützt von ihrer Nichte **Jara Voss**. Enthält ein Manuskript — teilweise echt (geschrieben von Johann, Lene, Kaspar 1623), teilweise gefälscht (von Varen überschrieben und ergänzt).
 
 **Die Druckerei Kvist** — Oberstadt, nahe am Marktplatz. Betrieben von **Runa Kvist**. Heißes Metall, Bleilettern, Druckerschwärze. Runa druckt alles — Handelsregister, Flugblätter, gelegentlich Fachzeitschriften.
 
@@ -95,7 +95,7 @@ Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das V
 
 Das offene Tor strahlt aus. Magie-Lecks, die in Thalassien wie Anomalien wirken — und die Menschen mit Resonanz anziehen. Resonanz ist ein Sinn, den die meisten Thalassier nicht haben. Die wenigen, die ihn haben, spüren das offene Tor wie einen Magneten.
 
-**Keine orchestrierten Köder.** Das Tor zieht an — subtil, über Monate. Alphinas Pflanzen zeigen nach Norden. Sorel findet zufällig eine Glasplatte aus Vael. Vesper hört in einem Gasthaus von einer Uhr die falsch geht. Maren erbt eine Werft. Jeder kommt aus eigenem Antrieb, gezogen von etwas das sie nicht benennen können. Der Antagonist hat das Tor geöffnet und das Manuskript platziert — aber die Vier hat er nicht gerufen. Das Tor hat sie gerufen.
+**Keine orchestrierten Köder.** Das Tor zieht an — subtil, über Monate. Alphinas Pflanzen zeigen nach Norden. Sorel findet zufällig eine Glasplatte aus Vael. Vesper hört in einem Gasthaus von einer Uhr die falsch geht. Maren erbt eine Werft. Jeder kommt aus eigenem Antrieb, gezogen von etwas das sie nicht benennen können. Varen hat das Tor geöffnet und das Manuskript platziert — aber die Vier hat er nicht gerufen. Das Tor hat sie gerufen.
 
 ---
 
@@ -196,7 +196,7 @@ Dann, dreizehn Jahre später: Platte 7. Sein Gesicht. In Vael. *"Vael, Lichthaus
 
 **Sorels Kern:** Ein Mann der vor sich selbst wegläuft. Der in der Dunkelheit lebt, weil er Angst hat vor dem was er sieht. Der trotzdem nicht aufhören kann, Bilder zu entwickeln.
 
-**Sorel stirbt** in Moragh. Bei der ersten Begegnung mit dem Antagonisten. Nicht heroisch. Er steht am falschen Ort. Seine Resonanz löst sich aus ihm, und sein Körper hält es nicht aus.
+**Sorel stirbt** in Moragh. Bei der ersten Begegnung mit Varen. Nicht zufällig — er stellt sich zwischen Varen und Alphina. "Nimm die Hand weg." Varens Bindung trifft ihn mit voller Kraft. Seine Resonanz reißt aus ihm, und sein Körper hält es nicht aus. Entscheidung, nicht Pech.
 
 ### Vesper — aus Karst (Innenlande)
 
@@ -259,7 +259,7 @@ Klaus Brandts Lehrling. Dreißig, ruhige Hände. Arbeitet an der Werft weiter, o
 Behandelt die Fischer die vom Wasser krank werden. Seit dem Nebel häufiger. Rationalist — alles hat eine Erklärung. Bis es keine mehr hat. Vesper trinkt mit ihm. Halvard behandelt Verbrennungen die keine Hitzequelle haben, Frostbeulen im Sommer, Knochenbrüche ohne Sturz.
 
 ### Talven — Gilden-Lehrling (Buch 2-3, Moragh)
-Dreiundzwanzig. Beschwörer-Lehrling, mittleres Reservoir. Charming, hilfsbereit, lustig. Elkes Kontakt in der Gilden-Stadt. Wird zum Freund der Helden. Aber: er sieht Alphinas kostenlose Macht und will sie. Lernt vom Antagonisten Resonanz zu ERNTEN — nicht aus den Thalassiern, sondern aus dem was sie hinterlassen. Verteilt sie an alle. Wird zum Helden in Moragh. Beschleunigt den Schwund. Bereut. Bezahlt mit seinem Körper (milchige Augen, zitternde Hände).
+Dreiundzwanzig. Beschwörer-Lehrling, mittleres Reservoir. Charming, hilfsbereit, lustig. Elkes Kontakt in der Gilden-Stadt. Wird zum Freund der Helden. Aber: er sieht Alphinas kostenlose Macht und will sie. Lernt von Varen Resonanz zu ERNTEN — nicht aus den Thalassiern, sondern aus dem was sie hinterlassen. Verteilt sie an alle. Wird zum Helden in Moragh. Beschleunigt den Schwund. Bereut. Bezahlt mit seinem Körper (milchige Augen, zitternde Hände).
 
 ### Nyr — Maschinisten-Pilotin (Buch 2-3, Moragh)
 Dreißig. Druck-Resonanz. Pilotiert Resonanz-Rüstung (Magitech Armor, FF-Stil — cool, nicht zerstörerisch). Beste Pilotin — die Ausdauerndste, wie eine Elitesportlerin. Piloten sind Elitesoldaten, respektiert, gut bezahlt. Beginnt Beziehung mit Vesper. Starke Persönlichkeit, direkt, physisch. Wechselt die Seite als die Maschinisten planen, Resonanz-Begabte PERMANENT an Maschinen anzuschließen. Vesper wechselt NUR weil sie wechselt — ohne Nyr wäre er geblieben.
@@ -272,7 +272,7 @@ Dreißig. Druck-Resonanz. Pilotiert Resonanz-Rüstung (Magitech Armor, FF-Stil �
 Traditionelle Magie. Wesen rufen im Gleichgewicht — rufen und zurückschicken. Schulen, Meister, Lehrlinge. Die "zivilisierte" Seite. Mächtig, organisiert, bürokratisch. Wollen die Resonanz-Begabten als **Verbündete und Waffen** gegen die Binder.
 
 ### Die Binder
-Magie als Macht. Wesen BINDEN statt rufen. Dämonen als Armee. Eine Fraktion die aus den Gilden ausgestoßen wurde, geführt von einzelnen mächtigen Beschwörern. Der Antagonist ist einer von ihnen — nicht DER Anführer, sondern ein Deserteur der auf eigene Faust handelt. Die Binder-Fraktion als Ganzes ist größer und gefährlicher als er allein. Wollen die Resonanz-Begabten **studieren und replizieren** — kostenlose Magie.
+Magie als Macht. Wesen BINDEN statt rufen. Dämonen als Armee. Eine Fraktion die aus den Gilden ausgestoßen wurde, geführt von einzelnen mächtigen Beschwörern. Varen ist einer von ihnen — nicht DER Anführer, sondern ein Deserteur der auf eigene Faust handelt. Die Binder-Fraktion als Ganzes ist größer und gefährlicher als er allein. Wollen die Resonanz-Begabten **studieren und replizieren** — kostenlose Magie.
 
 ### Die Maschinisten
 Magie als Ingenieurwesen. Keine Wesen — reine Kraft. Menschen die **Druck, Metall, Feuer** manipulieren. Ihre Magie fließt durch Maschinen: Pressen, Schmieden, Öfen die mit Magie statt Kohle laufen. Ihre Stadt ist laut, heiß, voller Rauch. Verachten die Beschwörer ("Wer Wesen braucht, versteht die Materie nicht"). Misstrauen den Gilden.
@@ -284,27 +284,51 @@ Gilden, Binder, Maschinisten. Jeder will die Drei. Elke misstraut allen dreien. 
 
 ---
 
-## Der Antagonist (der Binder am Tor)
+## Varen — der Binder am Tor
 
 ### Wer er ist
 
-Ein Beschwörer aus Moragh. Mächtig — aber **erschöpft.** Er hat das Tor geöffnet, und das allein hat ihn fast getötet. Er liegt in einem Raum hinter dem Tor, ausgemergelt, gehalten von gebundenen Wesen die ihn am Leben halten. Er ist EIN Binder, nicht DER Binder. Er handelt auf eigene Faust — desertiert von der Binder-Fraktion, weil er glaubt die Lösung gefunden zu haben.
+**Name: Varen.** Moragh-geboren. Groß, muskulös, graue Schläfen, schwarzes Haar. Augen: tiefes Purpur. Attraktiv. Charmant — nicht gespielt, echt. Das macht ihn gefährlicher.
+
+Binder-Deserteur. Handelt auf eigene Faust — desertiert von der Binder-Fraktion, weil er glaubt die Lösung gefunden zu haben. Er ist EIN Binder, nicht DER Binder.
+
+**Mächtig. GUT GENÄHRT. In Form.** Nicht ausgemergelt, nicht am Ende. Das Tor zu öffnen hat ihn Monate gekostet, aber er hat sich ERHOLT. Großes Reservoir, jahrelange Erfahrung. Seine Magie kostet ihn (er ist Moragh-geboren) — Müdigkeit nach dem Kampf, ja. Aber er hat Reserven.
+
+**Spricht Thalassisch** — flüssig, mit Akzent. Hat Elke vor 6 Moragh-Monaten getroffen, ihre Sprache gelernt, ein Jahr durch den Riss geforscht. Kennt die Namen der Fünf (die Dämonen haben berichtet).
 
 ### Was er sucht
 
-**Kostenlose Magie.** Resonanz von Thalassiern. Magie ohne Preis. Wenn er versteht WARUM, kann er den Krieg gewinnen. Nicht für die Binder — für sich.
+**Kostenlose Magie.** Resonanz von Thalassiern. Magie ohne Preis. Will die Resonanz-Begabten STUDIEREN — nicht töten. Fixieren, lebend, intakt. Wenn er versteht WARUM ihre Resonanz nichts kostet, kann er den Krieg gewinnen. Nicht für die Binder — für sich.
 
 ### Sein Plan
 
-Er hat das Tor geöffnet (das allein hat ihn Monate Erholung gekostet). Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen von 1623 mit falschen Anweisungen ergänzt: "Geht durch. Schließt es von innen." Er hat Dämonen durch das leckende Tor geschickt. Aber die Vier hat er NICHT gerufen. Das Tor zieht Resonanz-Begabte an, von allein. Er wartet nur.
+Er hat das Tor geöffnet (das allein hat ihn Monate Erholung gekostet — danach hat er sich vollständig erholt). Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen von 1623 mit falschen Anweisungen ergänzt: "Geht durch. Schließt es von innen." Er hat Dämonen durch das leckende Tor geschickt. Aber die Vier hat er NICHT gerufen. Das Tor zieht Resonanz-Begabte an, von allein. Er wartet nur.
 
 **Die Falle:** Die Vier gehen freiwillig durch. Er schließt das Tor hinter ihnen. Sie sitzen fest.
 
-### Die erste Begegnung
+### Die erste Begegnung (Kap 35)
 
-Ruhig. Höflich. **Müde — sichtbar erschöpft, eingefallen, Haut wie Papier.** Er begrüßt sie beim Namen (die Dämonen haben berichtet). Greift an — ohne Warnung. Will sie FIXIEREN. Sorel steht am falschen Ort. Die Resonanz wird aus ihm gerissen. Sorels Körper hält es nicht aus.
+Varen tritt aus dem Schatten. Groß, muskulös, graue Schläfen, purpurne Augen. Spricht Thalassisch — flüssig, mit Akzent. Kennt ihre Namen. Charmant. Höflich. Er riecht gut — warmer Stein, etwas Süßes.
 
-**Der Antagonist kollabiert.** Der Angriff kostet ihn alles. Er hat EINEN Schuss. Sorel war der Schuss. Jetzt liegt er am Boden, seine gebundenen Dämonen tragen ihn weg. Die Drei fliehen — nicht weil sie einen Ausweg finden, sondern weil der Antagonist keine Kraft mehr hat sie zu halten.
+Er geht auf Alphina zu. Fasziniert. Legt die Hand an ihr Kinn. Sie kann sich nicht bewegen — Bindungsmagie hält sie. Sanft. Er dreht ihren Kopf. Schaut in ihre Augen. Riecht an ihrem Haar. Finger an ihrem Hals, am Puls. "Deine Resonanz. Ich habe sie durch den Riss gespürt. Über vierhundert Jahre."
+
+Die Szene ist nicht sexuell gemeint (er will STUDIEREN), aber sie FÜHLT sich sexuell an. Alphinas Körper reagiert — nicht weil sie will, sondern Schock. Die Leserin hat Angst dass er sie missbraucht. Er tut es nicht — aber die Grenze ist so dünn dass man nicht sicher sein kann.
+
+### Sorels Tod (Kap 36)
+
+Sorel bewegt sich. Instinkt. Geht zwischen Varen und Alphina. "Nimm die Hand weg." Varen dreht sich. Die Bindung trifft Sorel — volle Kraft. Sorels Resonanz reißt aus ihm. Bilder explodieren. Sein Körper fällt.
+
+**Sorel stirbt weil er Alphina vor Varens Berührung schützt.** Nicht Zufall — Entscheidung.
+
+Alphinas Explosion: Stille. Dann alles. Wurzeln reißen durch Stein. Ranken peitschen. Dornen groß wie Finger. Tunnel wird Dschungel. Varen wird zurückgedrückt — Wand aus Vegetation. Die eigenen Leute verletzt: Maren (Dornen in Wade), Vesper (Wurzel trifft Schulter), Runa (Brombeeren, Schnitte). Auf Sorels Körper: kleine weiße Blumen.
+
+**Varen zieht sich TAKTISCH zurück.** Nicht besiegt — hat unterschätzt wie viel Magie er braucht. Er kommt wieder. In Buch 2. Stärker. Besser vorbereitet.
+
+### Varens Rolle in der Trilogie
+
+**Buch 1:** Das Tor. Die Berührung. Sorels Tod. Rückzug.
+**Buch 2:** Kehrt zurück. Fängt jemanden (Maren? Runa?). Hält sie gefangen. Nah. Studiert sie. Die Leserin hat WIEDER Angst. Die Erotik/Bedrohung-Dynamik eskaliert.
+**Buch 3:** Stirbt webend — Fäden statt Ketten. Bei der Wiedervereinigung der Welten.
 
 **Er ist nicht der Endgegner.** Er ist der Türöffner. Hinter ihm stehen die Binder, die Maschinisten, die Gilden. Moragh ist komplizierter als ein Mann mit einem Plan.
 
@@ -318,7 +342,7 @@ Bildhauerin. Aus dem Süden, Binnenmeerküste. Tochter eines Steinmetzmeisters, 
 
 Elke ging durch das Tor. Die anderen drei (Johann, Lene, Kaspar) hatten Angst und blieben. Elke nicht. Sie ging durch und lebt seitdem in Moragh. 400 Thalassien-Jahre, aber nur Wochen/Monate in Moragh-Zeit. Sie spricht die Sprache. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
 
-**In Buch 2:** Elke wird die Führerin der Vier (Alphina, Vesper, Maren, Runa). Sie kennt Moragh. Sie kennt die Sprache. Sie misstraut beiden Seiten — dem Antagonisten UND den Städten.
+**In Buch 2:** Elke wird die Führerin der Vier (Alphina, Vesper, Maren, Runa). Sie kennt Moragh. Sie kennt die Sprache. Sie misstraut beiden Seiten — Varen UND den Städten.
 
 ---
 
@@ -330,7 +354,7 @@ Vier Menschen kamen nach Vael:
 - **Lene Brandt** — Schiffbauerin. Marens Pendant.
 - **Kaspar Holm** — Maler. Sorels Pendant.
 
-Das Tor war offen. Der Antagonist hatte es geöffnet, zum ersten Mal. Er suchte Resonanz-Begabte. Elke ging durch. Die anderen drei schlossen das Tor — von der Thalassien-Seite. Die Dämonen, die schon durch waren, verbrannten Vael. Das große Feuer. Die drei schrieben auf was passiert war. Der Antagonist platzierte sein eigenes "Manuskript" daneben, für das nächste Mal.
+Das Tor war offen. Varen hatte es geöffnet, zum ersten Mal. Er suchte Resonanz-Begabte. Elke ging durch. Die anderen drei schlossen das Tor — von der Thalassien-Seite. Die Dämonen, die schon durch waren, verbrannten Vael. Das große Feuer. Die drei schrieben auf was passiert war. Varen platzierte sein eigenes "Manuskript" daneben, für das nächste Mal.
 
 **Die 1623-Interludien (9 Stück):**
 

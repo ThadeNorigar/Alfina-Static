@@ -2,7 +2,7 @@
 
 ## Struktur
 
-Die Wahrheit liegt auf dem Tisch: Resonanz zerstört Moragh. Jede Fraktion reagiert anders — die Gilden wollen die Resonanz trotzdem nutzen (der Krieg frisst mehr als die Resonanz), die Binder wollen sie replizieren (kontrollierter Verbrauch), die Maschinisten wollen sie kanalisieren (ein Mensch an einer Maschine, endloser Ausstoß). Alphina steht im Zentrum. Runa muss sich aus den Maschinisten lösen. Maren findet den Wasserweg. Vesper sieht die Struktur der Zukunft und kann nicht wegschauen. Der Antagonist bietet einen Deal. Offenes Ende — keine Erlösung, aber eine Entscheidung.
+Die Wahrheit liegt auf dem Tisch: Resonanz zerstört Moragh. Jede Fraktion reagiert anders — die Gilden wollen die Resonanz trotzdem nutzen (der Krieg frisst mehr als die Resonanz), die Binder wollen sie replizieren (kontrollierter Verbrauch), die Maschinisten wollen sie kanalisieren (ein Mensch an einer Maschine, endloser Ausstoß). Alphina steht im Zentrum. Runa muss sich aus den Maschinisten lösen. Maren findet den Wasserweg. Vesper sieht die Struktur der Zukunft und kann nicht wegschauen. Varen bietet einen Deal. Offenes Ende — keine Erlösung, aber eine Entscheidung.
 
 ## Kapitelplan
 
@@ -13,7 +13,7 @@ Alphina und Vesper vor dem Gilden-Rat. Zwanzig Älteste, lebende Wände, ein Rau
 
 Die Älteste — dieselbe die Alphinas Hand gegriffen hat — schweigt lange. Dann: "Wie lange?" Vesper: "Wenn Alphina bleibt und wächst wie bisher — Jahrzehnte, vielleicht. Wenn alle vier bleiben — schneller." Stille. "Aber wenn wir den Krieg verlieren, ist es egal."
 
-Die Gilden entscheiden: Resonanz nutzen. Den Krieg gewinnen. Moragh später reparieren. Alphina hört das Wort "nutzen" und denkt an Sorel. An den Antagonisten der dasselbe wollte.
+Die Gilden entscheiden: Resonanz nutzen. Den Krieg gewinnen. Moragh später reparieren. Alphina hört das Wort "nutzen" und denkt an Sorel. An Varen der dasselbe wollte.
 
 ### Kap. 32 — Runa (S. 624–644, ~5.000 Wörter)
 *Die Wahrheit über die Maschinisten.*
@@ -52,15 +52,15 @@ Elke kehrt in ihren Garten zurück. Allein, nach dem Gilden-Rat. Legt die Hände
 Elke gräbt. Unter dem Garten: eine Höhle, die es vorher nicht gab. Der Boden hat nachgegeben. Nicht durch Erosion — durch Entnahme. Sie hat genommen. Wochen lang. Ohne es zu merken. Ohne Preis. Der Preis liegt unter ihren Füßen.
 
 ### Kap. 35 — Alphina (S. 692–716, ~6.000 Wörter)
-*Der Deal des Antagonisten.*
+*Varens Deal.*
 
-Der Antagonist schickt einen Boten — ein gebundenes Wesen, klein, unterwürfig, mit einer Nachricht in verdrehtem Thalassisch. "Treffen. Neutral. Allein." Elke übersetzt. Alphina geht. Nicht allein — Vesper hinter ihr, unsichtbar, drei Züge voraus.
+Varen schickt einen Boten — ein gebundenes Wesen, klein, unterwürfig, mit einer Nachricht in verdrehtem Thalassisch. "Treffen. Neutral. Allein." Elke übersetzt. Alphina geht. Nicht allein — Vesper hinter ihr, unsichtbar, drei Züge voraus.
 
-Der Antagonist: aufrecht, aber kaum. Dünner als bei der ersten Begegnung. Die Haut transparenter. Er hat Sorels Resonanz studiert — die Resonanz die er aus ihm gerissen hat. "Ich verstehe jetzt. Teilweise. Eure Resonanz verbraucht Moragh. Wie ein Parasit. Nicht bösartig — strukturell. Ihr gehört nicht hierher, und die Welt verbrennt sich an euch."
+Varen: aufrecht, aber kaum. Dünner als bei der ersten Begegnung. Die Haut transparenter. Er hat Sorels Resonanz studiert — die Resonanz die er aus ihm gerissen hat. "Ich verstehe jetzt. Teilweise. Eure Resonanz verbraucht Moragh. Wie ein Parasit. Nicht bösartig — strukturell. Ihr gehört nicht hierher, und die Welt verbrennt sich an euch."
 
 Sein Angebot: Information gegen Information. Er weiß wie Resonanz funktioniert — warum sie kostenlos ist für den Träger, warum Moragh zahlt. Im Gegenzug: Alphina zeigt ihm ihre Resonanz. Kontrolliert. Messbar. Er will nicht angreifen. Er will begreifen.
 
-Alphina: "Du hast Sorel getötet." Der Antagonist: "Ja. Dafür gibt es keine Entschuldigung. Nur eine Erklärung: ich hatte einen Versuch. Einen. Und ich habe ihn verschwendet an den Falschen." Stille. "Du bist die Richtige. Und du weißt es."
+Alphina: "Du hast Sorel getötet." Varen: "Ja. Dafür gibt es keine Entschuldigung. Nur eine Erklärung: ich hatte einen Versuch. Einen. Und ich habe ihn verschwendet an den Falschen." Stille. "Du bist die Richtige. Und du weißt es."
 
 ### Kap. 36 — Runa (S. 716–736, ~5.000 Wörter)
 *Flucht aus der Maschinisten-Stadt.*
@@ -78,7 +78,7 @@ Alle zusammen. Elkes Garten — der Garten auf dem porösen Stein, dem sterbende
 
 Die Fakten: Resonanz zerstört Moragh. Langsam, aber sicher. Bleiben heißt die Welt auszehren. Gehen — wohin? Das Tor ist zu. Marens Wasserweg ist schmal, fragil, und kostet Moragh Reservoir. Es gibt keinen Weg der nichts kostet.
 
-Der Antagonist hat erklärt warum: Thalassier in Moragh sind ein Leck. Ihre Resonanz zieht Magie aus der Welt wie ein Riss im Gefäß. Nicht weil sie böse sind — weil sie nicht hierhergehören. Die Struktur der Welten erlaubt keine kostenlosen Geschenke.
+Varen hat erklärt warum: Thalassier in Moragh sind ein Leck. Ihre Resonanz zieht Magie aus der Welt wie ein Riss im Gefäß. Nicht weil sie böse sind — weil sie nicht hierhergehören. Die Struktur der Welten erlaubt keine kostenlosen Geschenke.
 
 Alphinas Frage — die einzige die zählt: "Kann ich bleiben und weniger nehmen?"
 
@@ -147,6 +147,6 @@ Letzte Zeile: Zwei Monde am Himmel. Die Luft schmeckt nach etwas das sie jetzt k
 | Kaels leerer Stuhl (Akt III) | Kap 36 — Runa zerstört ihn. Wählt sich selbst |
 | 4:33 in Moraghs Struktur (Akt I) | Kap 38 — Die Frequenz der Anomalie. Die dünne Zeitlinie schwingt in 4:33 |
 | Vespers Zeitlinien (Akt III) | Kap 33/38 — Die eine Linie die beides erlaubt. Dünn, fragil, möglich |
-| Der Antagonist als Forscher (Akt III) | Kap 35 — Sein Deal. Information gegen Information. Kein Kampf, kein Sieg |
+| Varen als Forscher (Akt III) | Kap 35 — Sein Deal. Information gegen Information. Kein Kampf, kein Sieg |
 | "Hier bist du mehr" (Akt I) | Kap 40 — Runa ist am meisten sie selbst: Druckerin. Nicht Quelle, nicht Waffe |
 | Alphina bindet sich die Hände (Akt III) | Kap 39 — Sie bindet sich nicht mehr. Sie wählt. Offene Hände auf offener Erde |

@@ -2,7 +2,7 @@
 
 ## Struktur
 
-Die Frage kippt: von "Wer will uns?" zu "Was kosten wir?" Runa geht zu den Maschinisten — freiwillig, weil sie bieten was die Gilden nicht bieten: Verständnis für ihr Feuer. Alphina muss sie finden. Vesper entdeckt die Wahrheit: Resonanz hat einen Preis, den Moragh zahlt. Der Antagonist erholt sich. Die Binder werden zum Faktor. Maren spürt durch das Wasser einen Weg zwischen den Welten — nicht das Tor, sondern die Ströme selbst.
+Die Frage kippt: von "Wer will uns?" zu "Was kosten wir?" Runa geht zu den Maschinisten — freiwillig, weil sie bieten was die Gilden nicht bieten: Verständnis für ihr Feuer. Alphina muss sie finden. Vesper entdeckt die Wahrheit: Resonanz hat einen Preis, den Moragh zahlt. Varen erholt sich. Die Binder werden zum Faktor. Maren spürt durch das Wasser einen Weg zwischen den Welten — nicht das Tor, sondern die Ströme selbst.
 
 ## Kapitelplan
 
@@ -62,22 +62,22 @@ Vesper legt Alphina die Zahlen vor. Nüchtern, in kurzen Sätzen. Reservoirschwu
 Alphinas Frage: "Kann ich aufhören?" Vesper: "Kannst du aufhören zu atmen?"
 
 ### Kap. 27 — Vesper (S. 524–540, ~4.000 Wörter)
-*Der Antagonist. Teilweise erholt.*
+*Varen. Teilweise erholt.*
 
 Ein Gerücht in der Gilden-Stadt: der Binder am Tor bewegt sich wieder. Nicht stark — seine Dämonen tragen ihn noch. Aber er spricht. Er sammelt. Drei Binder haben sich ihm angeschlossen, Deserteure wie er. Er sucht nicht die Fünf — er sucht die Daten. Wie funktioniert Resonanz? Warum kostet sie nichts? Kann man sie replizieren?
 
-Vesper analysiert: der Antagonist ist nicht der Feind. Er ist ein Forscher mit der Moral eines Chirurgen. Er hat Sorel getötet um zu verstehen, nicht um zu zerstören. Das macht ihn gefährlicher.
+Vesper analysiert: Varen ist nicht der Feind. Er ist ein Forscher mit der Moral eines Chirurgen. Er hat Sorel getötet um zu verstehen, nicht um zu zerstören. Das macht ihn gefährlicher.
 
 ### Kap. 27b — Talven (S. 540–554, ~3.500 Wörter)
 *Nachts. Allein. Zum Tor.*
 
 Talven hat Vespers Vortrag über den Reservoir-Schwund gehört. Stand im Hintergrund — Lehrling, unsichtbar, die Tasse in der Hand die er für den Gilden-Meister gebracht hat. Hat jedes Wort mitgenommen.
 
-Nachts verlässt er die Stadt. Kennt die Wege, die Wachen, die Lücken im lebenden Mauerwerk. Drei Stunden zu Fuß. Der Binder am Tor — der Antagonist — sitzt auf einem Stein, dünn wie Papier, seine Dämonen wie Schatten um ihn. Er sieht Talven kommen und wartet.
+Nachts verlässt er die Stadt. Kennt die Wege, die Wachen, die Lücken im lebenden Mauerwerk. Drei Stunden zu Fuß. Der Binder am Tor — Varen — sitzt auf einem Stein, dünn wie Papier, seine Dämonen wie Schatten um ihn. Er sieht Talven kommen und wartet.
 
-Talven: "Ich bin Lehrling. Mittleres Reservoir. In zehn Jahren bin ich aufgebraucht." Der Antagonist schweigt. Talven: "Die Thalassierin wächst einen Hain im Schlaf und es kostet sie NICHTS. Ich will wissen warum."
+Talven: "Ich bin Lehrling. Mittleres Reservoir. In zehn Jahren bin ich aufgebraucht." Varen schweigt. Talven: "Die Thalassierin wächst einen Hain im Schlaf und es kostet sie NICHTS. Ich will wissen warum."
 
-Der Antagonist mustert ihn. Dann: "Ich kann dir zeigen wie man Resonanz ERNTET. Nicht aus einem Thalassier — aus dem was sie hinterlassen. Aus dem Boden, den Pflanzen, dem Wasser das sie berührt haben."
+Varen mustert ihn. Dann: "Ich kann dir zeigen wie man Resonanz ERNTET. Nicht aus einem Thalassier — aus dem was sie hinterlassen. Aus dem Boden, den Pflanzen, dem Wasser das sie berührt haben."
 
 Talven setzt sich. Die erste Lektion dauert bis zum Morgengrauen. Talven geht zurück. Bringt den Gilden-Gelehrten Frühstück. Lächelt.
 
@@ -98,7 +98,7 @@ Elke, Monate nach Ankunft. Eine Reise zur Maschinisten-Stadt, als Gilden-Beobach
 ### Kap. 28b — Talven (S. 558–568, ~2.500 Wörter)
 *Der Hain. Die Ernte. Der Preis.*
 
-Talven schleicht in Alphinas Schlaf-Hain. Nacht, drei Wochen nach der ersten Lektion. Er kniet zwischen den Wurzeln. Hände auf den Boden — die Technik die der Antagonist gezeigt hat. Fühlen. Nicht das eigene Reservoir — das FREMDE. Die Resonanz die Alphina hinterlassen hat, in den Wurzeln, im Moos, im Boden selbst.
+Talven schleicht in Alphinas Schlaf-Hain. Nacht, drei Wochen nach der ersten Lektion. Er kniet zwischen den Wurzeln. Hände auf den Boden — die Technik die Varen gezeigt hat. Fühlen. Nicht das eigene Reservoir — das FREMDE. Die Resonanz die Alphina hinterlassen hat, in den Wurzeln, im Moos, im Boden selbst.
 
 Er zieht. Langsam. Die Magie fließt — anders als eigene Resonanz. Kälter. Dichter. Sein Reservoir füllt sich über den gewohnten Rand hinaus. Zum ersten Mal in seinem Leben hat er GENUG. Mehr als genug.
 
@@ -140,8 +140,8 @@ Was zwischen ihnen liegt: nicht gelöst. Alphinas Kontrolle greift nicht. Runas 
 | "Kannst du aufhören zu atmen?" | Kap 26 — Vespers Frage | Akt IV — Alphina findet die Antwort: nicht aufhören. Anders atmen |
 | Elkes weicher Stein | Kap 29 — "Jedes Jahr" | Akt IV — Elkes Beweis vor dem Gilden-Rat. Resonanz zerstört Moragh |
 | Kael hat Pläne für Runa | Kap 30 — Ein Ofen der nie erlischt | Akt IV — Runa entdeckt die Wahrheit: die Maschinisten wollen sie anschließen |
-| Der Antagonist als Forscher | Kap 27 — Er sucht Daten, nicht Macht | Akt IV — Er bietet einen Deal an. Information gegen Information |
-| Talven beim Antagonisten | Kap 27b — Erste Lektion, nachts | Buch 3 — Er hat gelernt zu ernten. Verteilt Resonanz an alle. Wird zum Helden |
+| Varen als Forscher | Kap 27 — Er sucht Daten, nicht Macht | Akt IV — Er bietet einen Deal an. Information gegen Information |
+| Talven bei Varen | Kap 27b — Erste Lektion, nachts | Buch 3 — Er hat gelernt zu ernten. Verteilt Resonanz an alle. Wird zum Helden |
 | Talvens milchiges Auge | Kap 28b — Wolke in der Iris | Buch 3 — Beide Augen. Hände zittern. Resonanz-Ernte zerstört den Ernter |
 | Talvens Haare auf dem Kissen | Kap 28b — Er lügt sich an | Buch 3 — Haarausfall wird sichtbar. Der Preis schreibt sich in den Körper |
 | Alphina bindet sich die Hände | Kap 29 — Stoff als Erinnerung | Akt IV — In der letzten Szene bindet sie sich nicht mehr. Sie wählt |

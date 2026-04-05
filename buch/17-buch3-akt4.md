@@ -24,7 +24,7 @@ Talven an der Maschine. Blind — beide Augen milchig, er sieht Licht und Schatt
 
 Talven legt die Hände auf die Kanäle der Maschine. Fühlt: der Resonanz-Fluss, warm, grün — Alphinas Signatur. Kalt, salzig — Marens. Heiß, metallisch — Runas. Und darunter: Moragh selbst, müde, erschöpft, aber da.
 
-Er kalibriert. Korrigiert den Fluss. Dreht an Ventilen die keine Ventile sind — Resonanz-Schleusen, geformt aus dem Muster das der Antagonist hinterlassen hat. Weber-Muster. Fäden statt Ketten.
+Er kalibriert. Korrigiert den Fluss. Dreht an Ventilen die keine Ventile sind — Resonanz-Schleusen, geformt aus dem Muster das Varen hinterlassen hat. Weber-Muster. Fäden statt Ketten.
 
 Er arbeitet schweigend. Niemand dankt ihm. Er erwartet es nicht.
 
@@ -107,7 +107,7 @@ Maren steht im Fluss, Wasser bis zur Brust, und fühlt: beide Welten. Gleichzeit
 ### Kap. 78 — Vesper (S. 752–768, ~4.000 Wörter)
 *Die letzte Zeitlinie.*
 
-Vesper sieht eine Zukunft. Eine. Die Spirale löst sich auf — lineare Zeit, in einer Welt. Keine Schichten mehr, keine Überlappungen. Die Uhren laufen richtig. 4:33 — die Anomalie, die Frequenz des Antagonisten, die Schwingung der Naht — verschwindet. Null Abweichung.
+Vesper sieht eine Zukunft. Eine. Die Spirale löst sich auf — lineare Zeit, in einer Welt. Keine Schichten mehr, keine Überlappungen. Die Uhren laufen richtig. 4:33 — die Anomalie, Varens Frequenz, die Schwingung der Naht — verschwindet. Null Abweichung.
 
 Er nimmt die Hände von den Büchern. Zum letzten Mal. Die Bücher sind Bücher — Tinte auf Papier, keine Magie mehr in den Seiten. Die Bibliothek: ein Archiv. Die Zeit: eine Linie. Vesper — der Mann der Muster sieht — sieht zum ersten Mal eine Zukunft ohne Muster. Ohne Spiralen. Ohne Vorhersage.
 

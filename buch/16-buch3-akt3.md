@@ -2,7 +2,7 @@
 
 ## Struktur
 
-Doppelter Schwund. Talvens Ernte hat Moragh Jahrzehnte gekostet — die Verteilung hat es verschlimmert. Vesper sieht die Zahlen und zum ersten Mal hat der Mann der drei Züge voraus denkt keine Lösung. Elke stirbt. Talven sieht was er angerichtet hat. Der Antagonist stirbt — webend, nicht bindend, Erlösung. Nyr und Vesper wechseln endgültig die Seite. Alphina begreift: die Symbiose reicht nicht. Die Welten müssen EINE werden. Die Naht-Maschine wird geplant.
+Doppelter Schwund. Talvens Ernte hat Moragh Jahrzehnte gekostet — die Verteilung hat es verschlimmert. Vesper sieht die Zahlen und zum ersten Mal hat der Mann der drei Züge voraus denkt keine Lösung. Elke stirbt. Talven sieht was er angerichtet hat. Varen stirbt — webend, nicht bindend, Erlösung. Nyr und Vesper wechseln endgültig die Seite. Alphina begreift: die Symbiose reicht nicht. Die Welten müssen EINE werden. Die Naht-Maschine wird geplant.
 
 **Ton:** Das dunkelste Drittel. Verlust, Schuld, Konsequenz. Aber nicht hoffnungslos — die Lösung zeichnet sich ab, am Rand, wie Vespers dünne Zeitlinie.
 
@@ -85,10 +85,10 @@ Der Boden nimmt die Resonanz. Nicht gierig — langsam, vorsichtig, wie ein Tier
 
 Am Morgen: ein Grashalm. Im toten Hain. Einer. Talven sieht ihn nicht — seine Augen sind zu schlecht. Alphina sieht ihn. Sagt nichts.
 
-### Kap. 67 — Der Antagonist (S. 518–536, ~4.500 Wörter)
+### Kap. 67 — Varen (S. 518–536, ~4.500 Wörter)
 *Der Weber.*
 
-Der Antagonist am Tor. Sterbend — nicht schnell, sondern wie ein Stoff der ausfranst. Seine Dämonen halten ihn zusammen, buchstäblich. Alphina kommt zu ihm. Nicht als Feind — als letzte Gesprächspartnerin.
+Varen am Tor. Sterbend — nicht schnell, sondern wie ein Stoff der ausfranst. Seine Dämonen halten ihn zusammen, buchstäblich. Alphina kommt zu ihm. Nicht als Feind — als letzte Gesprächspartnerin.
 
 "Die Welten waren eine," sagt er. "Die Spaltung war ein Sicherheitsmechanismus. Magie wuchs unkontrolliert — die alten Völker trennten die Welten. Tor als Narbe. Resonanz als Spannung an der Naht." Er hustet. "Eure Resonanz — die der Thalassier — ist die Energie der VERBINDUNG. Deshalb kostet sie euch nichts. Ihr SEID die Naht. Eure Körper erinnern sich an die eine Welt."
 
@@ -146,7 +146,7 @@ Alphina im Garten. Nacht. Hände auf dem Boden. Ein Farn wächst — langsam, au
 |--------|---------|-----------|
 | Elkes Brief über die Presse | Kap I13 — Runa hängt ihn auf | Akt IV — Runa liest ihn vor. Beim Abschied |
 | Ein Grashalm im toten Hain | Kap 66 — Talven sieht ihn nicht | Akt IV — Der Hain wächst nach. Langsam. Ohne Talven. Ohne Alphina |
-| Der Antagonist webt | Kap 67 — Fäden statt Ketten | Akt IV — Die Naht-Maschine nutzt sein Muster. Weber, nicht Binder |
+| Varen webt | Kap 67 — Fäden statt Ketten | Akt IV — Die Naht-Maschine nutzt sein Muster. Weber, nicht Binder |
 | Ivens Diagramm auf dem Laptop | Kap 68 — "Der Computer hat das gemacht" | Akt IV — Iven steuert die Maschine. Interface zwischen Magie und Technik |
 | Talven hilft — "Nicht Vergebung. Arbeit." | Kap 69 — Am Rand, blind, zitternd | Akt IV — Talven kalibriert die Resonanz-Kanäle. Nicht als Held — als Büßer |
 | Vespers dünne Zeitlinie — klarer | Kap 70 — Die Naht braucht einen Katalysator | Akt IV — Alphina wird die Naht. Jeder Wald stirbt. Sie auch |

@@ -33,7 +33,7 @@ Antwort: Thalassien und Moragh waren EINE Welt. Gespalten vor Jahrtausenden — 
 - **Sorel:** Buch 1 (Resonanz rausgerissen)
 - **Elke:** Buch 3 (Reservoir leer, Stein antwortet nicht mehr)
 - **Alphina:** Buch 3, Finale (Resonanz fließt in die Naht-Maschine, jeder Wald den sie je wachsen ließ stirbt mit ihr)
-- **Der Antagonist (Binder):** Buch 3 (stirbt webend, nicht bindend — Erlösung)
+- **Varen (Binder):** Buch 3 (stirbt webend, nicht bindend — Erlösung)
 
 ## Ende (semi-happy)
 

@@ -26,11 +26,11 @@ Aber: kleine Momente. Er steht neben Alphina wenn sie den Hain wachsen lässt. S
 
 ### Buch 2, Akt III — Der Bruch (intern)
 
-Vesper entdeckt den Reservoir-Schwund. Talven hört zu — als Lehrling, unsichtbar im Raum. Und denkt: *Die Lösung ist nicht sie einzusperren. Die Lösung ist die Resonanz zu NEHMEN. Wie der Antagonist es mit Sorel getan hat. Nur kontrollierter.*
+Vesper entdeckt den Reservoir-Schwund. Talven hört zu — als Lehrling, unsichtbar im Raum. Und denkt: *Die Lösung ist nicht sie einzusperren. Die Lösung ist die Resonanz zu NEHMEN. Wie Varen es mit Sorel getan hat. Nur kontrollierter.*
 
-Er sucht den Antagonisten. Allein. Nachts. Halb erholt, gebrochen, klar.
+Er sucht Varen. Allein. Nachts. Halb erholt, gebrochen, klar.
 
-"Ich kann dir zeigen wie man Resonanz ERNTET," sagt der Antagonist. "Nicht aus einem Thalassier — aus dem was sie hinterlassen. Aus dem Boden, den Pflanzen, dem Wasser das sie berührt haben."
+"Ich kann dir zeigen wie man Resonanz ERNTET," sagt Varen. "Nicht aus einem Thalassier — aus dem was sie hinterlassen. Aus dem Boden, den Pflanzen, dem Wasser das sie berührt haben."
 
 Talven lernt. Im Geheimen. Erntet Resonanz aus Alphinas Hain. Aus dem Wasser das Maren bewegt hat. Sein Reservoir füllt sich — mit fremder Magie. Sein Körper bezahlt trotzdem: Haarausfall, ein Auge wird milchig. Geerntete Resonanz kostet MEHR als natürliche.
 

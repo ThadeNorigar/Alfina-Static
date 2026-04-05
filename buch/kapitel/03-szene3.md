@@ -1,93 +1,57 @@
-Drei Briefe. Zwei Rechnungen und ein Umschlag ohne Absender.
+# Kapitel 3, Szene 3 — 273 Sekunden
 
-Die Rechnungen: Federstahl von Haller, dreizehn Gulden. Schleifscheiben von der Kooperative, sieben Gulden fünfzig. Vesper legte sie auf den Stapel links. Bezahlen, Montag. Er öffnete sie nicht, weil er wusste was drin war. Die Beträge stimmten. Sie stimmten immer.
+Er schlief nicht.
 
-Der dritte Umschlag.
+Das Bett war schmal. Die Decke rau, Wolle, sie roch nach ihm — nach Öl und Messing und dem Staub der in alles kroch. Der Schlafraum war dunkel. Kein Mond. Karst war still. Die Werkstätten geschlossen, die Hämmer ruhig, der Schleifstein stumm. Nur das Ticken aus dem Nebenraum. Die zehn Uhren im Regal, gedämpft durch die Wand. Zehn verschiedene Tempi.
 
-Schweres Papier. In Karst war Papier dünn, praktisch, beschichtet gegen die Feuchtigkeit der Werkstätten. Dieses hier war dick und weich und hatte eine Farbe, die Vesper am ehesten als alt bezeichnen würde. Nicht vergilbt. Alt auf eine Art, die absichtlich war. Ein Siegel im Wachs — dunkelrot, ein Kreis mit einem vertikalen Strich, den er nicht kannte. Kein Absender. Keine Briefmarke. Jemand hatte den Brief nicht geschickt. Jemand hatte ihn gebracht.
+Vesper lag auf dem Rücken. Die Augen offen. Der Turm in der rechten Hand, die Finger bewegten sich langsam, Daumen, Zeigefinger, Mittelfinger, das Holz glatt und warm.
 
-Vesper brach das Siegel. Das Wachs splitterte unter seinem Daumen, trocken und spröde, und die Splitter fielen auf die Kommode und er ließ sie liegen, was nicht seine Art war. Er ließ nie etwas liegen.
+273.
 
-Handschrift. Klein, gleichmäßig, mit einer Neigung nach rechts die auf einen Rechtshänder deutete, der schnell schrieb. Kein Name. Keine Anrede.
+Die Zahl stand in seinem Kopf. Nicht als Gedanke. Als Gegenstand. Sie hatte Form und Gewicht und sie saß dort, hinter seiner Stirn, und ließ sich nicht bewegen. Er versuchte es. Dachte an die Aufzugsfeder. An Gaists Taschenuhr. An die Feder, den dritten Bogen, die Diagnose in drei Sekunden. Normale Dinge. Erklärbare Dinge.
 
-*An den Uhrmacher Vesper Koltz, Karst.*
+273.
 
-*In Vael, an der Grauküste, steht ein Haus am Grauwe-Ufer — das Tidemoor-Haus. Im Salon des ersten Stockwerks steht eine Standuhr, Mahagoni, Messingwerk, erbaut vor hundertfünfzig Jahren von einem Uhrmacher, dessen Name nicht überliefert ist. Das Werk wurde dreimal geprüft, von drei verschiedenen Meistern. Es ist mechanisch einwandfrei.*
+Drei mal sieben mal dreizehn. Er zerlegte die Zahl, weil Zerlegen das war was er tat. Drei Primfaktoren. Kein Vielfaches einer Pendelschwingung. Kein Verhältnis das in der Uhrmechanik vorkam. Er kannte jede gängige Schwingungszahl, jede Übersetzung, jedes Zahnverhältnis der letzten dreihundert Jahre Uhrbaugeschichte. 273 passte in keines.
 
-*Die Uhr verliert vier Minuten und dreiunddreißig Sekunden pro Tag. Exakt. Jeden Tag. Seit vier Monaten.*
+Wenn der Fehler nicht mechanisch war — was dann?
 
-*Das Honorar beträgt dreihundert Gulden, zahlbar bei Ankunft, unabhängig vom Ergebnis.*
+Der Turm drehte sich schneller.
 
-*Reisekosten werden erstattet.*
+Er setzte sich auf. Schwang die Beine über die Bettkante. Der Boden war kalt unter seinen Füßen, Stein, und die Kälte kroch durch die Sohlen. Er saß auf der Bettkante, im Dunkeln, die Hände auf den Knien. Der Turm zwischen Daumen und Zeigefinger der rechten Hand.
 
-Keine Unterschrift.
+Es gab Möglichkeiten die er nicht geprüft hatte. Magnetismus — ein Eisenerzvorkommen unter dem Haus, das das Pendel beeinflusste. Möglich. Aber Magnetismus erzeugte keine konstante Abweichung. Erdbeben, Mikrovibrationen — der Mann hatte gesagt, das Haus stehe auf Purpurstein. Massiv. Keine Vibrationen. Materialermüdung im Pendeldraht — nach hundertfünfzig Jahren denkbar, aber das wäre progressiv, nicht konstant.
 
-Vesper legte den Brief auf die Kommode. Trank den Rest des staubigen Wassers. Stellte das Glas ab.
+Jede Erklärung führte zum selben Punkt: der Versatz war zu konstant. Zu präzise. Kein physikalischer Prozess erzeugte dieselbe Abweichung, jeden Tag, auf die Sekunde. Physik schwankte. Physik hatte Toleranzen. 4:33 hatte keine Toleranz.
 
-Vier Minuten und dreiunddreißig Sekunden.
+Also kein physikalischer Prozess.
 
-Er ging zurück in die Werkstatt. Die Taschenuhr tickte. Er setzte sich an die Werkbank, den Brief in der Hand, und las ihn nochmal. Und nochmal. Beim dritten Mal legte er ihn flach auf die Werkbank und strich die Knicke glatt, mit der Handfläche, langsam, als wäre der Brief ein Mechanismus den er verstehen musste.
+Vesper stand auf. Ging in die Werkstatt. Dunkel. Die Uhren tickten. Er zündete die Lampe nicht an. Stand im Dunkeln, barfuß auf dem kalten Boden, und die zehn Uhren tickten um ihn herum, jede ihr eigenes Tempo, und sein Atem war in der Luft, weiß, kurz, November.
 
-Vier Minuten und dreiunddreißig Sekunden. Zweihundertdreiundsiebzig Sekunden. Pro Tag. Exakt.
+Auf dem Regal stand das Schachbrett. Er konnte es nicht sehen. Er wusste trotzdem wo die Figuren standen. Jede einzelne. Die drei Bauern auf der Diagonale — d4, e5, f6. Drei Jahre, unberührt. In einer Stellung die niemand geplant hatte.
 
-Das war kein mechanischer Fehler.
+Damals hatte er aufgehört. Hatte Remis angeboten, das Brett zugeklappt, Uhren repariert. Sechs Jahre erklärbare Muster. Sechs Jahre Sicherheit.
 
-Vesper kannte mechanische Fehler. Verschlissene Federn, verbogene Zahnräder, tote Punkte in der Hemmung — sie alle erzeugten Drift. Unregelmäßig. Progressiv. Nie konstant. Kein mechanischer Defekt erzeugte denselben Versatz, jeden Tag, auf die Sekunde.
+Jetzt stand eine Zahl in seinem Kopf. 273. In einer Stadt die er nicht kannte. In einer Uhr die keinen Fehler hatte.
 
-Das war ein Muster.
+Er konnte Remis anbieten. Konnte die Zahl ignorieren, morgen Gaists Uhr herausgeben, auf den nächsten Auftrag warten. Konnte die zehn Uhren ticken lassen und die Werkbank sauberwischen und den Turm in der Tasche drehen und nicht hinsehen. Sechs Jahre lang hatte das funktioniert.
 
-Zweihundertdreiundsiebzig Sekunden waren vier Minuten und dreiunddreißig Sekunden. Zweihundertdreiundsiebzig war eine Primzahl. Vesper wusste das, weil er Zahlen so kannte wie andere Leute Gesichter — auf den ersten Blick, ohne nachzudenken. Primzahlen tauchten nicht in mechanischen Fehlern auf. Mechanische Fehler erzeugten Vielfache, Brüche, Verhältnisse — Zahlen die sich teilen ließen, die aus dem Zusammenspiel von Zahnrädern kamen, aus dem Produkt von Zähne-mal-Übersetzung-mal-Federweg. Eine Primzahl war unteilbar. Eine Primzahl kam von nirgendwo.
+Der Turm lag still in seiner Hand.
 
-Sein Magen zog sich zusammen. Klein. Hart.
+Vesper ging in den Schlafraum. Öffnete den Schrank. Der Koffer stand dort, Leder, die Schnallen aus Messing. Daneben drei Hemden, gefaltet. Eine Hose. Rasiermesser. Seife.
 
-Dreihundert Gulden. Er verdiente fünfzig im Monat, in guten Monaten. Dreihundert Gulden waren sechs Monate. Sechs Monate ohne Aufträge, ohne Rechnungen, ohne das Zählen am Monatsende. Das Honorar war absurd. Absurd hoch für eine Standuhr. Wer bezahlte dreihundert Gulden für eine Reparatur?
+Er packte. Hemden, Hose, Rasiermesser. Werkzeugrolle — Pinzetten, Schraubendreher, Lupe, Ölfläschchen, Zahnräder in einem Samtbeutel. Er kannte jedes Stück. Die Hände arbeiteten schnell, ohne Zögern, jedes Teil an seinen Platz. Drei Minuten. Die Schnallen klickten.
 
-Jemand, der wusste, dass es keine Reparatur war.
+Er stellte den Koffer an die Tür. Zog den Mantel an. Dunkel, schwer. Die Taschen tief genug für den Turm.
 
-Er las den Brief ein viertes Mal. *Mechanisch einwandfrei.* Drei Meister hatten das bestätigt. Und trotzdem: 4:33, jeden Tag. Vesper dachte an die Bauerndiagonale. An die Partie gegen sich selbst. An die einundzwanzig Züge und die Stellung, die er nicht geplant hatte.
+Die Werkstatt im Dunkeln. Die zehn Uhren tickten. Der Koffer an der Tür. Das Schachbrett auf dem Regal, unsichtbar. Die Werkbank, leer.
 
-Muster, die nicht erklärbar waren.
+Vesper stand in der Tür. Drehte sich nicht um.
 
-Der Brief kam von jemandem, der seinen Namen kannte. Vesper Koltz — den Namen hatte er in der Gilde registriert, und in den Turnierakten, und auf dem Schild an der Werkstatt. Jeder in Karst konnte ihn finden. Aber jemand an der Grauküste? Vael — er wusste nichts über Vael. Hafenstadt, Grauküste, nördlich. Das war alles.
+Draußen war Karst still. Die Laternen brannten auf dem Gildenplatz, gelb, und ihr Licht lag auf dem nassen Kopfsteinpflaster. Novemberluft — Rauch, Frost, der ferne Geruch von Metall der nie ganz verschwand. Sein Atem war weiß.
 
-Er legte den Brief auf die Werkbank. Neben die Taschenuhr, die tickte. Der Brief lag dort, zwischen den Werkzeugen, und er gehörte nicht dorthin, und Vesper ließ ihn dort liegen. Das Papier roch nach etwas. Er beugte sich vor. Salz. Das Papier roch nach Salz, schwach, als hätte es in der Nähe des Meeres gelegen. Die Grauküste. Er war nie an der Küste gewesen. Karst lag in den Innenlanden, umgeben von Hügeln und Wäldern und Werkstätten, und das Meer war eine Abstraktion, ein Wort ohne Gewicht.
+Er ging. Richtung Poststation. Die Morgenkutsche nach Norden fuhr um sechs. Vier Tage bis zur Grauküste. Vier Tage für eine Uhr die kein Uhrmacher reparieren konnte, in einer Stadt die er nicht kannte, weil ein Mann mit marineblauen Augen und zu sauberen Händen ihm eine Zahl in den Kopf gelegt hatte, die nicht verschwand.
 
-Er stand auf. Ging zum Fenster. Die Gasse war leer. Gegenüber schloss der Messerschmied seinen Laden, die Rollade quietschte, Metall auf Metall, und der Mann verschwand um die Ecke und die Gasse war still. Vesper legte die Stirn gegen das Glas. Es war kühl. Der Atem beschlug die Scheibe und er zog eine Linie mit dem Finger, gerade, von oben nach unten, und die Linie war gerade, weil Vespers Linien immer gerade waren, und er wischte sie weg.
+273.
 
-Er kam zurück zum Brief. Las ihn ein fünftes Mal. *Unabhängig vom Ergebnis.* Jemand bezahlte dreihundert Gulden, egal ob er die Uhr reparierte. Jemand wollte nicht die Reparatur. Jemand wollte ihn. In Vael. Bei einer Uhr die ein Muster hatte, das kein Uhrmacher erklären konnte.
-
-Er hätte den Brief zerreißen können. Auf den Stapel legen, links, zu den Rechnungen, vergessen. Sechs Jahre hatte er keine Muster gesehen. Sechs Jahre Zahnräder und Federn und das saubere Ticken. Es hatte gereicht. Es hätte weiter reichen können.
-
-Aber die Zahl stand in seinem Kopf. Zweihundertdreiundsiebzig. Unteilbar. Unerklärlich. Und so lange sie dort stand, würde sie nicht verschwinden.
-
-Er ging in den hinteren Raum. Öffnete den Schrank. Im Schrank stand der Koffer. Leder, klein, die Schnallen aus Messing. Er hatte ihn seit zwei Jahren nicht benutzt. Daneben ein Stapel gefalteter Hemden, drei, identisch, und eine Hose, und ein Paar Schuhe, die Sohlen dünn.
-
-Vesper packte. Drei Hemden, die Hose, die Schuhe. Werkzeugrolle — Pinzetten, Schraubendreher, Lupe, Ölfläschchen, eine Handvoll Federn und Zahnräder in einem Samtbeutel. Rasiermesser. Seife.
-
-Er hielt inne. Der Samtbeutel in der Hand. Die Zahnräder darin klimperten leise gegeneinander, Messing auf Messing, ein kleines, helles Geräusch. Er kannte jedes einzelne Zahnrad in dem Beutel — die Größe, die Anzahl der Zähne, das Übersetzungsverhältnis. Dreiunddreißig Stück. Er hatte sie über Jahre gesammelt, aus kaputten Werken, aus Nachlässen, von Händlern auf dem Gildenmarkt. Jedes erklärbar. Jedes berechenbar. Er nahm eines heraus und hielt es zwischen Daumen und Zeigefinger. Kupfer, vierzehn Zähne, Durchmesser acht Millimeter. Ein kleines, perfektes Ding, das tat was es sollte.
-
-Die Uhr in Vael tat das nicht. Hundertfünfzig Jahre Mechanik, drei Meister, kein Fehler. Und trotzdem: 4:33.
-
-Er legte das Zahnrad zurück. Schloss den Samtbeutel. Schloss den Koffer.
-
-Drei Minuten.
-
-Die Schnallen klickten. Er trug den Koffer in die Werkstatt und stellte ihn neben die Tür.
-
-Dann setzte er sich an die Werkbank und schrieb die Antwort. Kurz. Sein Name, das Datum, ein Satz: *Ankunft in zehn Tagen.* Er faltete das Papier, steckte es in einen Umschlag, schrieb die Adresse ab — *Tidemoor-Haus, Vael, Grauküste* — und legte ihn auf den Koffer.
-
-Die Taschenuhr tickte. Die Gildeuhr schlug fünf. Über den Dächern von Karst zogen Wolken nach Norden.
-
-Die Werkstatt wurde dunkel, langsam, das Nachmittagslicht zog sich aus dem Fenster zurück und die Schatten krochen über die Werkbank und über die Werkzeuge und über den Brief, der dort lag, das salzige Papier, und Vesper stand nicht auf um die Lampe anzuzünden. Er saß in der wachsenden Dämmerung und hörte die Taschenuhr ticken und die Geräusche von Karst, die sich veränderten — die Werkstätten schlossen, das Hämmern hörte auf, das Schleifen verstummte, und stattdessen kamen die Abendgeräusche, Stimmen auf der Straße, eine Tür die klappte, das Rollen einer Kutsche über Kopfsteinpflaster, fern. Die Luft wurde kühler. Der Geruch von Maschinenöl blieb.
-
-Er dachte an die Uhr in Vael. Mahagoni, Messingwerk, hundertfünfzig Jahre alt. Mechanisch einwandfrei. Er stellte sie sich vor — ein Pendel, das schwang, Zahnräder die griffen, und trotzdem, jeden Tag, zweihundertdreiundsiebzig Sekunden Verlust. Als würde die Uhr etwas zählen, das nicht die Zeit war. Als hätte sie eine zweite Aufgabe, die niemand kannte.
-
-Auf dem Regal stand das Schachbrett. Im Dunkeln konnte er die Figuren nicht sehen. Er wusste trotzdem wo sie standen. Jede einzelne. Schwarzer Springer auf g4. Weißer Läufer auf c3. Die drei Bauern auf der Diagonale, d4, e5, f6, die dort standen, seit drei Jahren, unberührt, in einer Stellung die niemand geplant hatte.
-
-Und jetzt eine Uhr, die 4:33 verlor. Eine Primzahl. In einem Uhrwerk, das einwandfrei war.
-
-Zwei Muster. Sechs Jahre auseinander. Beide unerklärlich.
-
-Vier Minuten und dreiunddreißig Sekunden. Zweihundertdreiundsiebzig. Unteilbar.
-
-Vesper saß in seiner Werkstatt, die Hände auf der Werkbank, der Koffer an der Tür, und dachte an Muster, die keinen Grund hatten. Oder einen Grund, den er nicht sehen konnte. Was dasselbe war. Und schlimmer.
+Seine Schritte hallten auf dem Pflaster. Der Turm lag in seiner Tasche. Still. Die Uhren in seiner Werkstatt tickten hinter ihm, zehn verschiedene Tempi, und Vesper ging, und mit jedem Schritt wurde das Ticken leiser, bis es verschwand, und dann war nur noch die Nacht und sein Atem und das Pflaster unter seinen Schuhen und die Zahl in seinem Kopf.

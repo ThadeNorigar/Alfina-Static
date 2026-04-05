@@ -64,7 +64,7 @@ Elke setzt sich hin. Zum ersten Mal seit dem Durchgang fühlt sie sich alt. Nich
 ### Kap. 55 — Talven (S. 282–300, ~4.500 Wörter)
 *Der Verrat.*
 
-Talven trifft die Binder. Nicht den Antagonisten — die Binder-Armee. Ein Hauptmann, pragmatisch, ohne die verdrehte Moral des Antagonisten. Das Angebot: die Gilden-Stadt. Verteidigungspläne, Wachrhythmen, die dünne Stelle im lebenden Mauerwerk. Im Gegenzug: die Binder lassen die Resonanz-Empfänger in Ruhe. Talvens Leute. Die Hunderte denen er Magie geschenkt hat.
+Talven trifft die Binder. Nicht Varen — die Binder-Armee. Ein Hauptmann, pragmatisch, ohne Varens verdrehte Moral. Das Angebot: die Gilden-Stadt. Verteidigungspläne, Wachrhythmen, die dünne Stelle im lebenden Mauerwerk. Im Gegenzug: die Binder lassen die Resonanz-Empfänger in Ruhe. Talvens Leute. Die Hunderte denen er Magie geschenkt hat.
 
 Talven steht im Dunkel und sein Gesicht — unter der Brille, hinter dem Lächeln — ist das Gesicht eines Menschen der glaubt, das Richtige zu tun. "Die Gilden nutzen die Thalassier als Waffen. Die Maschinisten als Batterien. Ich nehme die Resonanz aus dem was sie HINTERLASSEN und verteile sie. Für alle. Demokratisch."
 
@@ -104,13 +104,13 @@ Talven sieht die Druckbögen. Sein Gesicht — nicht Angst. Nicht Wut. Verachtun
 Talven geht. Runa druckt weiter.
 
 ### Interludium XII (~S. 362, ~2.000 Wörter)
-*Der Antagonist. Der Schüler.*
+*Varen. Der Schüler.*
 
-Der Antagonist in seiner Höhle am Tor. Dünner als je zuvor. Die Haut transparent — man sieht die Adern, die Knochen, die Dämonen die in ihm wohnen. Er hat Talven unterrichtet. Drei Monate. Und jetzt sieht er was der Junge damit gemacht hat.
+Varen in seiner Höhle am Tor. Dünner als je zuvor. Die Haut transparent — man sieht die Adern, die Knochen, die Dämonen die in ihm wohnen. Er hat Talven unterrichtet. Drei Monate. Und jetzt sieht er was der Junge damit gemacht hat.
 
 "Ich habe ihm gezeigt wie man erntet. Nicht wie man verteilt." Stille. "Verteilung ist Verschwendung. Resonanz in einem fremden Reservoir zerfällt. Der Zerfall frisst Moragh. Er hat es nicht verstanden."
 
-Er hätte es verhindern können. Hat er nicht. Weil Talven sein Experiment ist — ein Moragh-Geborener mit geernteter Resonanz. Die Daten, die der Antagonist braucht, um die Naht zwischen den Welten zu verstehen.
+Er hätte es verhindern können. Hat er nicht. Weil Talven sein Experiment ist — ein Moragh-Geborener mit geernteter Resonanz. Die Daten, die Varen braucht, um die Naht zwischen den Welten zu verstehen.
 
 "Ich habe wieder den Falschen gewählt." Er sieht auf seine Hände. Transparent. "Nein. Ich habe den Richtigen gewählt. Der Richtige macht die falschen Dinge. Wie immer."
 
@@ -154,7 +154,7 @@ Stille. Runa: "Setzt euch. Es gibt Tee."
 | Rüstung extern gespeist | Kap 57 — Kein Pilot nötig | Akt IV — Nyrs Rüstung an der Naht-Maschine. Extern gespeist, endlos |
 | Ivens Generator-Beziehung | Kap 54 — Jedes Umblättern flackert | Akt IV — Iven speist die Naht-Maschine. Generator + Junge = Brücke |
 | "Wer zahlt für kostenlose Magie?" | Kap 58 — Runas Druckbogen | Akt III — Alle wissen es. Talvens Heldentum zerbricht |
-| Antagonist: "wieder den Falschen" | I12 — Parallele zu Sorel | Akt III — Der Antagonist stirbt webend, nicht bindend. Erlösung |
+| Varen: "wieder den Falschen" | I12 — Parallele zu Sorel | Akt III — Varen stirbt webend, nicht bindend. Erlösung |
 | Nyr steht hinter Vesper | Kap 60 — Maren sieht sie | Akt III/IV — Maren akzeptiert. Nicht verzeiht. Akzeptiert |
 | Talvens Brille ab | Kap 59 — Milchige Augen sichtbar | Akt III — Blindheit. Zitternde Hände. Der Preis der Ernte |
 | Elkes Stein wird LEISER | I11 — Nicht weicher, leiser | Akt III — Elke stirbt. Der Stein schweigt |

@@ -114,6 +114,6 @@ Eingebettet: der Binder-Spion wird enttarnt. Vesper hat gewartet, drei Züge vor
 | Elkes Stein wird weicher | I4 — Der Basalt unter dem Garten | Akt IV — Elkes Beweis. Resonanz ist nicht kostenlos. Moragh zahlt |
 | Binder-Information ist draußen | Kap 17/20 — Vier Resonanz-Begabte, kostenlos | Akt III — Alle drei Fraktionen wissen Bescheid. Der Preis steigt |
 | Runa in der Gilden-Schmiede | Kap 14 — Sie formt ohne Ofen | Akt III — Die Maschinisten bieten ihr mehr: nicht Handwerk, sondern Industrie |
-| Talvens HUNGER beim Hain | Kap 15/19 — Sein Gesicht wenn Alphina wächst | Akt III — Er sucht den Antagonisten. Lernt Resonanz-Ernte |
-| Talven kennt die Bibliothek | Kap 12 — Zeigt Vesper die Karten | Akt III — Er kennt auch die Geheimnisse. Weiß wo der Antagonist ist |
+| Talvens HUNGER beim Hain | Kap 15/19 — Sein Gesicht wenn Alphina wächst | Akt III — Er sucht Varen. Lernt Resonanz-Ernte |
+| Talven kennt die Bibliothek | Kap 12 — Zeigt Vesper die Karten | Akt III — Er kennt auch die Geheimnisse. Weiß wo Varen ist |
 | Talven kocht Frühstück | Kap 19 — Der Freund den alle mögen | Buch 3 — Der Verräter den alle mochten. Schmerzhafter |

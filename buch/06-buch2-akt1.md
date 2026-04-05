@@ -2,21 +2,21 @@
 
 ## Struktur
 
-Fünf Menschen in einer Welt die nicht ihre ist. Sorel stirbt in der ersten Stunde. Die verbleibenden Vier — Alphina, Vesper, Maren, Runa — fliehen blind, werden von Elke gefunden. Akt I ist Überleben, Trauer, Begreifen. Die Perspektiven etablieren sich: Alphina dominant (Trauer als Naturgewalt), Maren (will zurück, das Tor ist zu), Vesper (analysiert, kartografiert, versteht zu schnell), Runa (fremd, überfordert, ohne Magie in einer Welt aus Magie). Die Gilden-Stadt als erster sicherer Hafen — aber Sicherheit hat einen Preis.
+Buch 2 beginnt bei Elke. Sorel ist tot (Buch 1, Akt IV). Alphinas Ausbruch hat alle verletzt. Varen hat sich zurückgezogen. Die Vier — Alphina, Vesper, Maren, Runa — sind in Elkes Garten, einer fremden Welt, mit einer Frau die ihre Sprache spricht. Akt I ist Trauer, Begreifen, Lernen. Die Perspektiven etablieren sich: Alphina dominant (Trauer als unkontrolliertes Wachstum), Maren (will zurück, das Tor ist zu), Vesper (analysiert, kartografiert, versteht zu schnell), Runa (fremd, überfordert, schwache Feuer-Resonanz die hier zum ersten Mal sichtbar wird). Die Gilden-Stadt als erster Kontakt mit Moragh-Zivilisation — aber Zivilisation hat einen Preis.
 
 ## Kapitelplan
 
 ### Kap. 1 — Alphina (S. 1–22, ~5.500 Wörter)
-*Moragh. Die erste Stunde. Sorel.*
+*Elkes Garten. Die erste Nacht nach Sorel.*
 
-Direkt nach dem Durchgang. Der Tunnel auf der Moragh-Seite: Arbeitstische, Beschriftungen, warmer Stein. Der Antagonist wartet. Höflich, müde, eingefallen. Er greift an. Sorel steht am falschen Ort. Die Resonanz wird aus ihm gerissen — sein Körper krümmt sich, seine Augen werden leer, er fällt. Alphina schreit nicht. Die Farne am Tunneleingang explodieren — Ranken schießen durch Basalt, Moos kriecht über die Wände, Wurzeln brechen den Boden auf. Der Antagonist kollabiert. Dämonen tragen ihn weg. Die Vier fliehen. Sorels Körper bleibt.
+Elkes Garten. Pflanzen aus beiden Welten, Stein den sie geformt hat. Alphina sitzt am Boden, die Knie angezogen. Sorel ist tot. Gestern. Oder vor einer Stunde — die Zeit in Moragh fühlt sich anders an. Elke hat ihnen Decken gegeben, Wasser, Brot das nach Stein schmeckt. Alphina isst nicht. Die Trauer kommt nicht als Gefühl — als Wachstum. Im Schlaf bricht der Boden um sie herum auf. Gras, Farne, Moos. Ein Kreis von zehn Metern. Am Morgen: ein Hain. Die anderen starren. Alphina steht in der Mitte, barfuß. Sie hat nichts getan. Ihr Körper hat getrauert.
 
-Alphinas Ich-Stimme: gebrochen, präzise, brutal ehrlich. Kein Pathos. Fakten. Sein Gesicht. Seine Hand die noch warm ist. Die Luft die nach etwas schmeckt das sie nicht kennt.
+Eingebettet: Sorel. Fragmente. Seine Hand in ihrer. Die Dunkelkammer. "Darf ich?" Jetzt sieht sie ihn überall, und er ist nirgends. Und ihre Hände — die anderen haben Schnitte, Prellungen, Dornen-Narben. Von IHREM Ausbruch. Alphina hat sie verletzt, nicht Varen.
 
 ### Kap. 2 — Vesper (S. 22–38, ~4.000 Wörter)
-*Flucht. Orientierung. Zwei Monde.*
+*Die Struktur von Moragh.*
 
-Vesper übernimmt. Fünf Menschen, kein Plan, keine Sprache, keine Karte. Der Tunnel führt nach oben. Moragh: zwei Monde am Himmel, Farben die zu satt sind, Luft die zu dick ist. Ein Wald aus Bäumen die nicht wachsen sondern stehen wie Säulen — schwarz, glatt, warm. Vespers Analyse: Himmelsrichtung an den Monden. Temperatur. Geologie. Er denkt in Zügen. Vier Figuren auf dem Brett, eine weniger als vor einer Stunde.
+Vesper kartografiert. Elkes Garten als Ausgangspunkt. Die Bäume stehen in Spiralen, die Flüsse folgen Fibonacci, die zwei Monde kreisen in einem Verhältnis das er kennt — 4:33. Sein Muster-Sinn explodiert: er sieht die Struktur von allem. Moragh: zwei Monde am Himmel, Farben die zu satt sind, Luft die zu dick ist. Die Sonne — kein Feuerball, ein dunkler Kern mit gleißendem Ring. Er starrt. Sein Uhrmacher-Verstand sagt: das ist kein Stern. Das ist etwas anderes.
 
 Runa hinter ihnen — atemlos, versteinert, stumm. Sie hätte nicht hier sein sollen.
 
@@ -49,7 +49,7 @@ Eingebettet: Sorel. Fragmente. Seine Hand in ihrer. Die Dunkelkammer. "Die Kamer
 ### Kap. 6 — Vesper (S. 102–118, ~4.000 Wörter)
 *Die Struktur von Moragh.*
 
-Vesper kartografiert. Drei Tage Fußmarsch, Muster überall: die Bäume stehen in Spiralen, die Flüsse folgen Fibonacci, die zwei Monde kreisen in einem Verhältnis das er kennt — 4:33. Die Frequenz des Antagonisten. Oder die Frequenz von Moragh selbst. Sein Sinn explodiert: er sieht die Struktur von allem. Zeitlinien, Muster, Überlagerungen. Er sieht wo sie waren, wo sie sein werden. Es macht ihm Angst.
+Vesper kartografiert. Drei Tage Fußmarsch, Muster überall: die Bäume stehen in Spiralen, die Flüsse folgen Fibonacci, die zwei Monde kreisen in einem Verhältnis das er kennt — 4:33. Varens Frequenz. Oder die Frequenz von Moragh selbst. Sein Sinn explodiert: er sieht die Struktur von allem. Zeitlinien, Muster, Überlagerungen. Er sieht wo sie waren, wo sie sein werden. Es macht ihm Angst.
 
 Am dritten Tag: Spuren. Behauener Stein. Ein Weg der nicht gewachsen ist. Jemand lebt hier.
 
