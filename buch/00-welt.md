@@ -69,11 +69,13 @@ Wenn das Tor sich öffnet, werden die Lecks stärker. Nebel dreimal die Woche. D
 
 **Das Tidemoor-Haus** — Herrenhaus am Grauwe-Ufer. Standuhr die 4:33 pro Tag verliert. Mechanisch perfekt.
 
-**Die Werft Brandt** — Klaus Brandt, tot. Hinterlassen an Maren. Halbfertiges Boot. Versiegelter Umschlag.
+**Die Werft Brandt** — Klaus Brandt, tot (natürliche Ursachen, alt, allein). Hinterlassen an Maren — nur die Werft und das halbfertige Boot. Kein Umschlag, keine Karte, keine Warnung. Maren entdeckt die Tunnel selbst.
 
 **Das Lichthaus** — Speichergebäude am Hafen. Sorels Dunkelkammer im Keller.
 
-**Das Archiv** — Im Rathauskeller. Gehütet von **Esther Voss**, Archivarin. Enthält ein Manuskript — angeblich 400 Jahre alt. In Wahrheit vom Antagonisten platziert.
+**Das Archiv** — Im Rathauskeller. Gehütet von **Esther Voss**, Archivarin, unterstützt von ihrer Nichte **Jara Voss**. Enthält ein Manuskript — teilweise echt (geschrieben von Johann, Lene, Kaspar 1623), teilweise gefälscht (vom Antagonisten überschrieben und ergänzt).
+
+**Die Druckerei Kvist** — Oberstadt, nahe am Marktplatz. Betrieben von **Runa Kvist**. Heißes Metall, Bleilettern, Druckerschwärze. Runa druckt alles — Handelsregister, Flugblätter, gelegentlich Fachzeitschriften.
 
 ---
 
@@ -93,7 +95,7 @@ Die Zeit läuft unterschiedlich. Was in Thalassien 400 Jahre sind, sind in Morag
 
 Das offene Tor strahlt aus. Magie-Lecks, die in Thalassien wie Anomalien wirken — und die Menschen mit Resonanz anziehen. Resonanz ist ein Sinn, den die meisten Thalassier nicht haben. Die wenigen, die ihn haben, spüren das offene Tor wie einen Magneten.
 
-Der Antagonist hat das Tor so manipuliert, dass es gezielt die Stärksten anzieht. Die Briefe, die Platten, die Aufträge — alles orchestriert, über das Tor geschickt, platziert in Thalassien, als Köder.
+**Keine orchestrierten Köder.** Das Tor zieht an — subtil, über Monate. Alphinas Pflanzen zeigen nach Norden. Sorel findet zufällig eine Glasplatte aus Vael. Vesper hört von einer unmöglichen Uhr. Maren erbt eine Werft. Jeder kommt aus eigenem Antrieb, gezogen von etwas das sie nicht benennen können. Der Antagonist hat das Tor geöffnet und das Manuskript platziert — aber die Vier hat er nicht gerufen. Das Tor hat sie gerufen.
 
 ---
 
@@ -128,11 +130,11 @@ Jeder Mensch in Moragh hat ein Reservoir — wie Ausdauer. Trainierbar, aber end
 
 ### Moragh im Krieg
 
-Seit Jahrzehnten Krieg. Die Städte gegen den Antagonisten. Er hat gelernt, Wesen zu binden statt zu rufen. Seine Armee aus gebundenen Dämonen gegen die Gilden der Städte. Er verliert — langsam, aber er verliert. Die Städte haben sich verbündet. Und er sucht einen Ausweg.
+Drei Seiten. Die **Gilden** (Tradition, Beschwörung im Gleichgewicht) gegen die **Binder** (gebundene Dämonen als Armee) gegen die **Maschinisten** (Magie als Industrie, Druck/Metall/Feuer). Kein klarer Sieger. Die Gilden sind stärker organisiert, die Binder brutaler, die Maschinisten technisch überlegen. Alle drei erschöpfen sich. Magie kostet — der Krieg frisst Reservoire auf. Die Suche nach einer Lösung (billigere Magie, stärkere Reservoire, neue Quellen) treibt alle drei an.
 
 ### Was Moragh über Thalassien weiß
 
-Sie wissen dass das Tor existiert. Sie wissen dass dahinter eine Welt ohne Magie liegt. Sie nennen die Thalassier **"die Tauben"** — die, die nicht hören können. Manche bedauern sie. Manche verachten sie. Manche fürchten sie — denn die Tauben, wenn sie durchkommen, haben eine Resonanz die in Moragh zur Naturgewalt wird. Und sie kostet nichts.
+Sie wissen dass das Tor existiert. Sie wissen dass dahinter eine Welt ohne Magie liegt. Sie nennen die Thalassier **"die Tauben"** — die, die nicht hören können. Manche bedauern sie. Manche verachten sie. Manche fürchten sie — denn die Tauben, wenn sie durchkommen, haben eine Resonanz die in Moragh zur Naturgewalt wird. Und sie kostet nichts. Alle drei Fraktionen wissen das. Alle drei wollen es nutzen.
 
 ---
 
@@ -149,7 +151,7 @@ In Moragh: eine Naturgewalt. Alphina hebt die Hand und ein Wald wächst. In Minu
 
 **Und es kostet nichts.** Keine Erschöpfung. Kein Preis. In einer Welt, in der jede Magie den Körper zerstört, ist das ein Wunder. Und eine Bedrohung.
 
-### Die fünf Resonanzen
+### Die sechs Resonanzen
 
 | Person | Resonanz | In Thalassien | In Moragh |
 |--------|----------|---------------|-----------|
@@ -158,6 +160,7 @@ In Moragh: eine Naturgewalt. Alphina hebt die Hand und ein Wald wächst. In Minu
 | Vesper | Muster/Zeit | Uhr verliert 4:33, Bauerndiagonale | Sieht die Struktur von allem, liest Zeit |
 | Maren | Wasser | Gezeiten reagieren, Meer antwortet | Wasser gehorcht, formt sich, trägt |
 | Elke | Erde/Stein | Pochen im Boden, warme Erde | Stein formen, Tunnel finden, Beben spüren |
+| Runa | Feuer/Hitze | Metall schmilzt leichter, Hände immer warm | Feuer kontrollieren, Metall formen, Schmelzen |
 
 ---
 
@@ -201,7 +204,7 @@ Hat auf dem Brett Muster gesehen, die kein Mensch dort hingelegt hat. Dieselbe B
 
 Keine feste Adresse. Drei Leben hinter sich. Alles passt in einen Seesack. Fließt. Bleibt nie.
 
-Erbt Klaus Brandts Werft in Vael. Halbfertiges Boot. Versiegelter Umschlag: *"30 Tage warten."* Ein toter Mann verlangt von einer Frau, die nie bleibt, dass sie wartet.
+Erbt Klaus Brandts Werft in Vael. Fünf Jahre Briefwechsel — über Holz, das Meer, Handwerk. Nie ein Treffen. Jetzt ist er tot und sie erbt alles: die Werft, das halbfertige Boot, die Werkzeuge. Kein Brief, keine Warnung. Nur ein Boot das drei Viertel fertig ist und eine Frau die nie bleibt.
 
 ---
 
@@ -231,27 +234,69 @@ Vesper dominiert durch Geduld. Maren unterwirft sich als Akt des Mutes. Er nimmt
 
 ---
 
-## Der Antagonist
+## Nebencharaktere in Vael
+
+### Runa Kvist — Druckerin
+Betreibt die Druckerei in der Oberstadt. Heißes Metall, Bleilettern, Schmelztiegel. Intellektuell, direkt, lacht zu laut für Vael. Alphina kauft Papier bei ihr — daraus werden Gespräche, daraus Freundschaft. Runa hat eine Nase für Geheimnisse und kein Talent die Finger davon zu lassen. Hände immer warm, Metall schmilzt unter ihren Fingern leichter als es sollte. **Schwache, unerkannte Resonanz: Feuer/Hitze.** Hält es für Handwerksgeschick.
+
+**Buch 1:** Nebencharakter. Druckt Flugblätter über die Risse. Stellt unbequeme Fragen. Folgt den Vier in die Tunnel, geht durch das Tor bevor es schließt.
+**Buch 2:** Alphinas Affäre in Moragh. Einziger Mensch ohne bewusste Magie in einer Welt die aus Magie besteht. Ihre Feuer-Resonanz macht sie für die Maschinisten interessant.
+
+### Finn Tade — Fischer
+Alt, schweigsam, Gesicht wie Treibholz. Fischt seit fünfzig Jahren auf der Grauwe. Sieht Dinge auf dem Wasser — Strömungen die falsch laufen, Stellen wo die Grauwe steht. "War schon immer so." Redet mit Maren, weil sie vom Wasser kommt. Redet nicht über das was er sieht. Zeigt es. Bringt tote Fische die nach Metall stinken.
+
+### Jara Voss — Archiv-Gehilfin
+Esther Voss' Nichte. Zwanzig, still, ordnet Dokumente. Sieht alles, sagt wenig. Sie findet das Manuskript — nicht Esther. Hat es gelesen, bevor sie es weitergibt. Weiß mehr als sie sagt.
+
+### Thies Brandt — Bootsbauer-Geselle
+Klaus Brandts Lehrling. Dreißig, ruhige Hände. Arbeitet an der Werft weiter, obwohl Klaus tot ist. Zeigt Maren die Werft, erklärt das Boot. Weiß NICHT von den Tunneln. Aber weiß, dass Klaus nachts in den Keller ging. "Hat nie gesagt warum."
+
+### Doktor Halvard — Stadtarzt
+Behandelt die Fischer die vom Wasser krank werden. Seit dem Nebel häufiger. Rationalist — alles hat eine Erklärung. Bis es keine mehr hat. Vesper trinkt mit ihm. Halvard behandelt Verbrennungen die keine Hitzequelle haben, Frostbeulen im Sommer, Knochenbrüche ohne Sturz.
+
+---
+
+## Die Fraktionen in Moragh
+
+### Die Gilden (Städte)
+Traditionelle Magie. Wesen rufen im Gleichgewicht — rufen und zurückschicken. Schulen, Meister, Lehrlinge. Die "zivilisierte" Seite. Mächtig, organisiert, bürokratisch. Wollen die Resonanz-Begabten als **Verbündete und Waffen** gegen die Binder.
+
+### Die Binder
+Magie als Macht. Wesen BINDEN statt rufen. Dämonen als Armee. Eine Fraktion die aus den Gilden ausgestoßen wurde, geführt von einzelnen mächtigen Beschwörern. Der Antagonist ist einer von ihnen — nicht DER Anführer, sondern ein Deserteur der auf eigene Faust handelt. Die Binder-Fraktion als Ganzes ist größer und gefährlicher als er allein. Wollen die Resonanz-Begabten **studieren und replizieren** — kostenlose Magie.
+
+### Die Maschinisten
+Magie als Ingenieurwesen. Keine Wesen — reine Kraft. Menschen die **Druck, Metall, Feuer** manipulieren. Ihre Magie fließt durch Maschinen: Pressen, Schmieden, Öfen die mit Magie statt Kohle laufen. Ihre Stadt ist laut, heiß, voller Rauch. Verachten die Beschwörer ("Wer Wesen braucht, versteht die Materie nicht"). Misstrauen den Gilden.
+
+Wollen die Resonanz-Begabten nicht studieren. Wollen sie **EINSETZEN.** Als lebende Energiequellen. Kostenlose Magie = endlose Kraft. Ein Resonanz-Begabter an einer Maschine = eine Maschine die nie stoppt.
+
+### Das Dreieck in Buch 2
+Gilden, Binder, Maschinisten. Jeder will die Drei. Elke misstraut allen dreien. Die Frage ist nicht "Wer ist gut?" — die Frage ist "Wer ist am wenigsten gefährlich?"
+
+---
+
+## Der Antagonist (der Binder am Tor)
 
 ### Wer er ist
 
-Ein Beschwörer aus Moragh. Mächtig. Er hat gelernt, Wesen zu BINDEN statt zu RUFEN. Seine Armee aus gebundenen Dämonen führt Krieg gegen die Städte von Moragh. Er verliert — langsam.
+Ein Beschwörer aus Moragh. Mächtig — aber **erschöpft.** Er hat das Tor geöffnet, und das allein hat ihn fast getötet. Er liegt in einem Raum hinter dem Tor, ausgemergelt, gehalten von gebundenen Wesen die ihn am Leben halten. Er ist EIN Binder, nicht DER Binder. Er handelt auf eigene Faust — desertiert von der Binder-Fraktion, weil er glaubt die Lösung gefunden zu haben.
 
 ### Was er sucht
 
-**Kostenlose Magie.** Er hat entdeckt, dass Menschen aus Thalassien Resonanz haben — Magie die nichts kostet. Kein Körperpreis. Kein Reservoir. Unbegrenzt. Wenn er versteht WARUM, kann er es replizieren. Dann ist er unerschöpflich. Dann gewinnt er den Krieg.
+**Kostenlose Magie.** Resonanz von Thalassiern. Magie ohne Preis. Wenn er versteht WARUM, kann er den Krieg gewinnen. Nicht für die Binder — für sich.
 
 ### Sein Plan
 
-Er öffnet das Tor. Manipuliert es, damit es Resonanz-Begabte anzieht. Schickt Dämonen als Sucher nach Vael. Platziert Köder: den Brief an die Botanische Gesellschaft, Sorels Glasplatte, Vespers Auftragsbrief, Klaus Brandts arrangiertes Erbe. Platziert das gefälschte Manuskript im Archiv von Vael — so geschrieben, dass die Vier glauben, sie müssten freiwillig durch das Tor gehen um Vael zu retten.
+Er hat das Tor geöffnet (das allein hat ihn Monate Erholung gekostet). Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen von 1623 mit falschen Anweisungen ergänzt: "Geht durch. Schließt es von innen." Er hat Dämonen durch das leckende Tor geschickt. Aber die Vier hat er NICHT gerufen. Das Tor zieht Resonanz-Begabte an, von allein. Er wartet nur.
 
-**Die Falle:** Die Vier denken sie opfern sich. In Wahrheit liefern sie sich ihm. Das Tor schließt sich hinter ihnen — nicht weil sie es schließen, sondern weil ER es schließt. Sie sitzen in Moragh fest.
+**Die Falle:** Die Vier gehen freiwillig durch. Er schließt das Tor hinter ihnen. Sie sitzen fest.
 
 ### Die erste Begegnung
 
-Ruhig. Höflich. Müde. Er begrüßt sie beim Namen. Dann greift er an — ohne Warnung, ohne Monolog. Er will sie nicht töten. Er will sie FIXIEREN. Lebend. Intakt. Ihre Resonanz studieren.
+Ruhig. Höflich. **Müde — sichtbar erschöpft, eingefallen, Haut wie Papier.** Er begrüßt sie beim Namen (die Dämonen haben berichtet). Greift an — ohne Warnung. Will sie FIXIEREN. Sorel steht am falschen Ort. Die Resonanz wird aus ihm gerissen. Sorels Körper hält es nicht aus.
 
-**Sorel stirbt.** Am falschen Ort. Seine Resonanz löst sich aus ihm. Der Körper hält es nicht aus. Vesper findet die Lücke — die Drei fliehen. Schwer verletzt. In einer fremden Welt. Ohne Weg zurück.
+**Der Antagonist kollabiert.** Der Angriff kostet ihn alles. Er hat EINEN Schuss. Sorel war der Schuss. Jetzt liegt er am Boden, seine gebundenen Dämonen tragen ihn weg. Die Drei fliehen — nicht weil sie einen Ausweg finden, sondern weil der Antagonist keine Kraft mehr hat sie zu halten.
+
+**Er ist nicht der Endgegner.** Er ist der Türöffner. Hinter ihm stehen die Binder, die Maschinisten, die Gilden. Moragh ist komplizierter als ein Mann mit einem Plan.
 
 ---
 
@@ -295,25 +340,29 @@ Das Tor war offen. Der Antagonist hatte es geöffnet, zum ersten Mal. Er suchte 
 
 ## Szenario — Ende Buch 1
 
-An der Schwelle begreifen die Vier, was sie tun müssen — oder was sie GLAUBEN tun zu müssen. Das gefälschte Manuskript sagt: Geht durch, schließt das Tor von innen, rettet Vael. Sie halten es für ein Opfer.
+An der Schwelle begreifen die Vier, was sie tun müssen — oder was sie GLAUBEN tun zu müssen. Das überschriebene Manuskript sagt: Geht durch, schließt das Tor von innen, rettet Vael. Sie halten es für ein Opfer.
 
 Alphina sagt: "Wir gehen. Alle vier."
 
-Sie gehen durch. Das Tor schließt sich. Hinter ihnen. Nicht von ihnen — von IHM. Die Falle schnappt zu.
+Sie gehen durch. **Runa folgt** — unbemerkt, durch die Tunnel, schlüpft durch bevor das Tor schließt. Fünf Menschen in Moragh, nicht vier. Das Tor schließt sich. Hinter ihnen. Nicht von ihnen — von IHM. Die Falle schnappt zu.
 
-Vael wird still. Der Nebel lichtet sich. Die Grauwe fließt vorwärts. Die Pflanzen stehen still. Esther Voss steht in den Tunneln, allein, vor einem Tor das Stein ist und das sich nicht mehr öffnet.
+Vael wird still. Der Nebel lichtet sich. Die Grauwe fließt vorwärts. Die Pflanzen stehen still. Esther Voss steht in den Tunneln, allein, vor einem Tor das Stein ist und das sich nicht mehr öffnet. Thies Brandt an der Werft, Finn Tade auf dem Wasser, Jara Voss im Archiv. Vael heilt.
 
-**Letzte Seite Buch 1:** Alphina steht auf der anderen Seite. Eine fremde Welt. Zwei Monde am Himmel. Sorel neben ihr, Vesper, Maren. Die Luft schmeckt nach etwas das sie nicht kennt. Und am Ende des Tunnels, im Schatten, wartet jemand.
+**Letzte Seite Buch 1:** Alphina steht auf der anderen Seite. Eine fremde Welt. Zwei Monde am Himmel. Sorel neben ihr, Vesper, Maren. Und hinter ihnen, atemlos, Runa. Die Luft schmeckt nach etwas das sie nicht kennt. Und am Ende des Tunnels, im Schatten, wartet jemand.
 
 ---
 
 ## Buch 2 — Moragh (Übersicht)
 
-Vier Menschen aus einer Welt ohne Magie, in einer Welt im Krieg. Das Tor ist zu. Sorel stirbt in der ersten Stunde. Die drei Überlebenden — Alphina, Vesper, Maren — fliehen. Elke findet sie. Führt sie in die Städte.
+Fünf Menschen aus einer Welt ohne Magie, in einer Welt im Krieg. Das Tor ist zu. Sorel stirbt in der ersten Stunde. Die vier Überlebenden — Alphina, Vesper, Maren, Runa — fliehen. Elke findet sie. Führt sie durch Moragh.
 
-Sie sind mächtig — ihre Resonanz kostet nichts. Das macht sie zur Zielscheibe: der Antagonist will sie studieren, die Städte wollen sie als Waffe. Elke misstraut allen.
+Drei Fraktionen wollen sie: Die Gilden als Waffe, die Binder zum Studium, die Maschinisten als Energiequelle. Elke misstraut allen dreien.
 
-Sorel stirbt. Alphina bleibt in Moragh. Vesper und Maren kämpfen. Und die Frage: Was passiert mit Menschen, die unbegrenzte Macht haben — in einer Welt, in der Macht einen Preis hat?
+Alphina trauert um Sorel. Ihre Macht wächst — unkontrolliert, erschreckend. Runa wird Gegengewicht: kein Resonanz-Bewusstsein, keine Magie-Erfahrung, nur Verstand und warme Hände. Aus Freundschaft wird mehr. Alphina lässt sich fallen — anders als bei Sorel. Nicht Kontrolle gegen Souveränität. Sondern zwei Menschen die beide nicht wissen was sie tun.
+
+Die Maschinisten entdecken Runas Feuer-Resonanz. Wollen sie. Runa muss wählen.
+
+**Die Frage von Buch 2:** Was passiert mit Menschen die unbegrenzte Macht haben — in einer Welt in der Macht einen Preis hat? Und: Ist die Resonanz wirklich kostenlos? Oder zahlt Moragh den Preis?
 
 ---
 
