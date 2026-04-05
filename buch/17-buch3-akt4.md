@@ -70,7 +70,7 @@ Maren im Wasser. Hält den Kanal offen. Ihr Gesicht — konzentriert, ruhig, das
 
 Iven am Generator. Hände auf Metall. Der Generator heult. Sein Nasenbluten: konstant jetzt. Ein Tuch am Kragen. Er lächelt trotzdem — siebzehn und der Generator singt für ihn.
 
-Nyr im Laufwerk. Zehn Meter, Moragh-Stahl wie Knochen, extern gespeist. Sie schützt die Maschine — Binder-Reste, Gilden-Zweifler, alle die Angst haben vor dem was kommt. Das Laufwerk summt. Nyr darin: schmerzfrei. Zum ersten Mal die volle Kraft ohne den Preis.
+Nyr in ihrer Bestie. Zehn Meter, Moragh-Stahl wie Knochen, extern gespeist. Sie schützt die Maschine — Binder-Reste, Gilden-Zweifler, alle die Angst haben vor dem was kommt. Die Bestie summt. Nyr darin: schmerzfrei. Zum ersten Mal die volle Kraft ohne den Preis.
 
 Talven an den Kanälen. Blind, zitternd, die Hände auf den Schleusen. Er fühlt den Fluss. Korrigiert. Flüstert Richtungen an die Maschine — nicht Befehle, Bitten. Weber-Muster. Fäden statt Ketten.
 
@@ -154,7 +154,7 @@ Vier Abschnitte, vier Enden. Keines vollständig geschlossen.
 
 **Vesper** (S. 830–850): Im Schwellenforschungsinstitut — jetzt das Institut für Vereinigte Physik. Monitore, Daten, Muster. Aber andere Muster. Keine Spiralen mehr — lineare Projektionen, berechenbare Physik, Magie als messbare Kraft. Vesper berät. Nicht als Seher — als Analytiker. Die Zeitlinien sind weg. Die Muster sind einfacher.
 
-Nyr kommt. Breit, ruhig, die Narben an den Unterarmen verblasst. Ihr Laufwerk steht in einem Museum neben Sorels Glasplatten. "Die Pilotin und der Fotograf," steht auf dem Schild. Nyr lacht. Presst Vesper an die Wand. Luft wird dünn — Magie, die jetzt KOSTET. Nasenbluten, Schwindel. "Lass das," sagt Vesper. Nyr: "Nein."
+Nyr kommt. Breit, ruhig, die Narben an den Unterarmen verblasst. Ihre Bestie steht in einem Museum neben Sorels Glasplatten. "Die Pilotin und der Fotograf," steht auf dem Schild. Nyr lacht. Presst Vesper an die Wand. Luft wird dünn — Magie, die jetzt KOSTET. Nasenbluten, Schwindel. "Lass das," sagt Vesper. Nyr: "Nein."
 
 **Runa** (S. 850–878): In der Werkstatt. Die Presse — die thalassische Presse in Moragh-Metall — steht in einer Halle. Runa baut. Nicht eine Presse — eine Hybrid-Maschine. Thalassien-Elektronik, Moragh-Resonanz, zusammen. Die erste Druckmaschine die mit Magie UND Strom funktioniert. Allein. Alphina ist tot.
 
@@ -188,7 +188,7 @@ Die Schwelle atmet.
 | Runas Messing-Type (Buch 1) | Kap 80 — Die Hybrid-Presse. Alphinas Worte in einer Kiste unter der Presse |
 | Elkes weicher Stein (Buch 2) | Kap 80 — Der Stein spricht wieder. Leise. Talven fühlt es |
 | Talvens Hunger (Buch 2, Akt II) | Kap 80 — "Ich verstehe warum ich es getan habe. Und das ist schlimmer" |
-| Thar-Laufwerk (Nyr) | Kap 80 — Im Museum. Keine Piloten nötig. Nyr lacht |
+| Thar-Bestie (Nyr) | Kap 80 — Im Museum. Keine Piloten nötig. Nyr lacht |
 | Das Pochen unter Vael (Buch 1) | Epilog — Immer noch da. Die Schwelle atmet |
 | Ivens Generator-Berührung (Buch 3 Akt I) | Kap 75 — Iven speist die Maschine. Nasenbluten. Moragh-geboren. Er zahlt |
 | "Liebe die nur nimmt ist keine Liebe" | Kap 80 — Elkes Brief. Unter Runas Presse. Ungedruckt. Noch |

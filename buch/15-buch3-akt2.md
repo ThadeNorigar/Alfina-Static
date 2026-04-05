@@ -84,13 +84,13 @@ Runa neben ihr, Hände glühend. Metall schmilzt, formt Barrikaden. Elke im Gart
 ### Kap. 57 — Vesper + Nyr (S. 320–340, ~5.000 Wörter)
 *Nyr sieht die Wahrheit.*
 
-Thalassische Technik erreicht die Thar. Die Ingenieure zeigen: Laufwerke können von außen gespeist werden. Kein Reservoir, keine toten Piloten. Ein Generator, ein Kabel, ein Adapter. Nyr steht vor ihrem Laufwerk — der Maschine die sie tausend Stunden pilotiert hat, das sie ausgehöhlt hat, das ihr Nasenbluten und Blindheit gekostet hat — und sieht den Ingenieur ein Kabel anschließen.
+Thalassische Technik erreicht die Thar. Die Ingenieure zeigen: Magitech-Bestien können von außen gespeist werden. Kein Reservoir, keine toten Piloten. Ein Generator, ein Kabel, ein Adapter. Nyr steht vor ihrer Bestie — der Maschine die sie tausend Stunden pilotiert hat, das sie ausgehöhlt hat, das ihr Nasenbluten und Blindheit gekostet hat — und sieht den Ingenieur ein Kabel anschließen.
 
-Das Laufwerk summt. Volle Leistung. Kein Pilot nötig.
+Die Bestie summt. Volle Leistung. Kein Pilot nötig.
 
 Nyr greift nach der Werkbank. Ihre Hände — die Narben an den Unterarmen, die Muskelkrämpfe, die Kopfschmerzen die nie ganz weggehen. Alles unnötig. Die Thar haben sie verbraucht wie eine Batterie, weil es BILLIGER war als Technologie.
 
-"Du hattest Unrecht," sagt sie zu Kael. Kael schweigt. Nyr nimmt ihr Laufwerk. Vesper nimmt die Daten. Sie gehen.
+"Du hattest Unrecht," sagt sie zu Kael. Kael schweigt. Nyr nimmt ihre Bestie. Vesper nimmt die Daten. Sie gehen.
 
 ### Kap. 58 — Runa (S. 340–356, ~4.000 Wörter)
 *Die Presse druckt die Wahrheit.*
@@ -130,7 +130,7 @@ Alphina hat keine Antwort. Weil er Recht hat. Es IST ungerecht. Und es IST falsc
 ### Kap. 60 — Alle (S. 386–400, ~3.500 Wörter)
 *Vesper und Nyr kommen zurück.*
 
-Vesper und Nyr verlassen die Thar. Kommen zur Gilden-Stadt — oder was davon übrig ist nach dem Binder-Angriff. Vesper hat Daten, Nyr hat ihr Laufwerk, modifiziert.
+Vesper und Nyr verlassen die Thar. Kommen zur Gilden-Stadt — oder was davon übrig ist nach dem Binder-Angriff. Vesper hat Daten, Nyr hat ihre Bestie, modifiziert.
 
 Maren steht am Tor. Vesper sieht sie. Öffnet den Mund.
 
@@ -138,7 +138,7 @@ Maren schlägt ihm ins Gesicht. Wasser explodiert im Raum — Gläser, Krüge, d
 
 Nyr steht hinter ihm. Breit, ruhig, die Narben an den Unterarmen sichtbar. Maren sieht sie an. Maren sieht alles.
 
-Vesper: "Ich bringe Daten. Moragh hat Jahrzehnte verloren. Talven erntet Resonanz und verteilt sie. Die Thar-Laufwerke können extern gespeist werden. Und Thalassien hat Technik geschickt die alles verändert."
+Vesper: "Ich bringe Daten. Moragh hat Jahrzehnte verloren. Talven erntet Resonanz und verteilt sie. Die Thar-Bestien können extern gespeist werden. Und Thalassien hat Technik geschickt die alles verändert."
 
 Stille. Runa: "Setzt euch. Es gibt Tee."
 
@@ -151,7 +151,7 @@ Stille. Runa: "Setzt euch. Es gibt Tee."
 | Talven auf der Kiste — "Resonanz für alle" | Kap 51 — Der Moragh-Held | Akt III — Talven sieht den Preis. Hört auf. Gibt zurück |
 | Der tote Hain | Kap 52 — Staub, kein Moos | Akt IV — Alphinas letzte Resonanz fließt in die Naht. Jeder Wald stirbt |
 | "Jahrzehnte verloren" | Kap 53 — Vespers Rechnung | Akt III — Der doppelte Schwund. Moragh hat weniger Zeit als gedacht |
-| Laufwerk extern gespeist | Kap 57 — Kein Pilot nötig | Akt IV — Nyrs Laufwerk an der Naht-Maschine. Extern gespeist, endlos |
+| Bestie extern gespeist | Kap 57 — Kein Pilot nötig | Akt IV — Nyrs Bestie an der Naht-Maschine. Extern gespeist, endlos |
 | Ivens Generator-Beziehung | Kap 54 — Jedes Umblättern flackert | Akt IV — Iven speist die Naht-Maschine. Generator + Junge = Brücke |
 | "Wer zahlt für kostenlose Magie?" | Kap 58 — Runas Druckbogen | Akt III — Alle wissen es. Talvens Heldentum zerbricht |
 | Varen: "wieder den Falschen" | I12 — Parallele zu Sorel | Akt III — Varen stirbt webend, nicht bindend. Erlösung |

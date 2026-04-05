@@ -1,25 +1,22 @@
-# Nyr — Thar-Pilotin
+# Nyr — Thar-Reiterin
 
 ## Figur
 
-**Nyr.** Moragh-geboren, Konglomerat der Thar. Dreißig. Breite Schultern, kurzes Haar, Narben an den Unterarmen vom heißen Metall. Spricht wenig, und wenn, dann wie Befehle. Nicht unfreundlich — effizient.
+**Nyr.** Moragh-geboren, Konglomerat der Thar. Dreißig. Breite Schultern, kurzes Haar, Narben an den Unterarmen vom heißen Metall. Spricht wenig, und wenn, dann wie Befehle. Nicht unfreundlich — effizient. Schwarze Rüstung, geschlossener Helm. Wenn sie den Helm abnimmt: dunkle Augen, ein Gesicht das härter ist als es sein müsste.
 
-**Resonanz: Druck.** Reiner Druck. Luft zusammenpressen, Metall verbiegen, auf kurze Distanz Knochen brechen ohne Berührung. Normale Nutzung kostet sie: Müdigkeit, Muskelkater, Hunger. Wie nach hartem Training. Nach einem Kampftag: erschöpft, schläft zwölf Stunden, isst für drei. Morgens wieder fit.
+**Resonanz: Druck.** Reiner Druck. Luft zusammenpressen, Metall verbiegen, auf kurze Distanz Knochen brechen ohne Berührung. Normale Nutzung: Müdigkeit, Muskelkater, Hunger. Morgens wieder fit.
 
-## Das Thar-Laufwerk (Magitech Walker)
+## Kessler — Nyrs Bestie
 
-**8-12 Meter hoch, aus Moragh-Stahl.** Kein Todesgerät — ein Werkzeug. 3-Mann-Besatzung: Pilot (Druck), Schütze (Feuer/Hitze), Navigator (Muster). Reservoir-Kern als Batterie, 6-8 Stunden Einsatz. Waffen: Hitzestrahlen, Druckwellen, geschmolzene Metallprojektile. Der Pilot kanalisiert Resonanz in die Maschine, die Maschine verstärkt hundertfach. Es ist anstrengend — wie Schwerstarbeit, nicht wie Folter.
+**Ein Ramm.** 40 Tonnen, gepanzert wie ein Kataphrakt. Gestalt: Bulle/Stier aus Moragh-Stahl, gewachsen nicht geschmiedet. Glühende rote Augen. Dampf aus den Nüstern. Muskeln aus Metall, Gelenke die sich bewegen, Klauen die den Boden aufreißen. Reservoir-Kern im Brustkorb, 6-8 Stunden Einsatz.
 
-**Nyrs Laufwerk:**
-- 10 Meter hoch. Moragh-Stahl, Metall das aussieht wie Knochen — nicht geschmiedet, gewachsen (Thar-Technik).
-- Druck-Verstärker: 5m ohne Laufwerk → 500m im Laufwerk.
-- Standard-Einsatz: 6-8 Stunden mit voller Besatzung. Nyr als Pilotin kann 8 Stunden durchhalten. Sie ist die Ausdauerndste. Wie eine Elitesportlerin.
-- Sound: Das Laufwerk summt. Tief. Wie eine Orgel aus Metall. Der Boden bebt bei jedem Schritt.
-- Design: Elegant, funktional, beeindruckend. Piloten sind respektiert, nicht bemitleidet.
+Nyr kanalisiert Druck in Kessler — die Bestie beschleunigt wie eine Lokomotive. Der Boden bebt. Alles was im Weg steht wird überrollt. Wenn Nyr absitzt: verschwitzt, hungrig, müde. Morgens wieder fit. Nyr nennt ihre Bestie beim Namen. Kessler ist kein Werkzeug. Kessler ist ihr Partner.
 
-**Piloten der Thar** sind Elitesoldaten. Gut bezahlt, gut versorgt, respektiert. Es ist ein harter Job — wie Jetpilot oder Tiefseeschweißer. Anstrengend, ja. Gefährlich im Kampf, ja. Aber ein BERUF, kein Opfer.
+**Reiter der Thar** = Elite. ~500 in der ganzen Armee. Schwarze Rüstung, geschlossene Helme. Ein Beruf, kein Opfer. Absolute Gleichberechtigung — seit Generationen.
 
-**ERST wenn die Thar den Plan fassen, Resonanz-Begabte als permanente Energiequellen einzusetzen** (Buch 3, nach Ankunft thalassischer Technik), überqueren sie die Linie. Der Unterschied: ein Pilot der 3 Stunden arbeitet und dann schläft vs. ein Resonanz-Begabter der 24/7 an eine Maschine angeschlossen wird. DAS ist die Grenze die Nyr erkennt.
+Für alle Bestien-Typen (Lohe, Ramm, Zacker, Grund, Feger, Fluter): siehe `buch/18-thar-magitech.md`.
+
+**ERST wenn die Thar planen, Resonanz-Begabte permanent an Bestien-Kerne anzuschließen** (Buch 3), überqueren sie die Linie. Nicht Schichtarbeit — Dauerbetrieb. DAS ist die Grenze die Nyr erkennt.
 
 ## Der Subplot: Nyr + Vesper
 
@@ -35,19 +32,19 @@
 
 ### Buch 2 — Erste Begegnung
 
-Die Thar schicken Nyr als Emissärin. Im Laufwerk. Boden bebt, Pflanzen weichen zurück, Vespers Uhren vibrieren. Sie steigt aus. Kleiner als erwartet. Sieht Vesper an, nicht Alphina.
+Die Thar schicken Nyr als Emissärin. In ihrer Magitech-Bestie. Boden bebt, Pflanzen weichen zurück, Vespers Uhren vibrieren. Sie steigt aus. Kleiner als erwartet. Sieht Vesper an, nicht Alphina.
 
 "Du bist der der Muster sieht." Keine Frage.
 
 ### Buch 2, Akt III — Vesper geht mit
 
-Nicht Gefangennahme — Wahl. Nyr zeigt ihm die Thar-Stadt: Pressen, Öfen, Laufwerke. Effizienz. Ordnung. Piloten die nach der Schicht gemeinsam essen, die ihre Laufwerke pflegen wie Handwerker ihre Werkzeuge. Vesper — der Muster liebt und Chaos hasst — sieht etwas das er versteht. Das er WILL.
+Nicht Gefangennahme — Wahl. Nyr zeigt ihm die Thar-Stadt: Pressen, Öfen, Magitech-Bestien. Effizienz. Ordnung. Piloten die nach der Schicht gemeinsam essen, die ihre Bestien pflegen wie Handwerker ihre Werkzeuge. Vesper — der Muster liebt und Chaos hasst — sieht etwas das er versteht. Das er WILL.
 
 Nyr zeigt ihm Daten: Moraghs Reservoir-Schwund. "Eure Resonanz zerstört unsere Welt. Wir wollen euch nutzen — kontrolliert, in Maschinen kanalisiert, dosiert."
 
 Vesper sieht die Logik. Bleibt.
 
-Nachts: Nyr ohne Laufwerk. Presst ihn an die Metallwand. Luft wird dünn. Er greift nach ihren Handgelenken (Reflex — Maren). Sie lacht. Presst seine Hände über seinen Kopf. Mit Druck, nicht Händen.
+Nachts: Nyr ohne Bestie. Presst ihn an die Metallwand. Luft wird dünn. Er greift nach ihren Handgelenken (Reflex — Maren). Sie lacht. Presst seine Hände über seinen Kopf. Mit Druck, nicht Händen.
 
 ### Buch 2, Ende — Der Verrat
 
@@ -57,7 +54,7 @@ Maren erfährt es. "Du hast uns verkauft." — "Ich habe gerechnet." — "Das is
 
 ### Buch 3 — Die Schlüsselszene: Nyr wechselt die Seite
 
-**Kontext:** Thalassische Technik kommt. Die Thar-Führung sieht die Möglichkeit: Resonanz-Begabte permanent an Maschinen anschließen. 24/7. Nicht Schichtarbeit — Dauerbetrieb. Ein ganz anderer Plan als die normalen Laufwerk-Einsätze.
+**Kontext:** Thalassische Technik kommt. Die Thar-Führung sieht die Möglichkeit: Resonanz-Begabte permanent an Maschinen anschließen. 24/7. Nicht Schichtarbeit — Dauerbetrieb. Ein ganz anderer Plan als die normalen Bestien-Einsätze.
 
 Nyr findet den Bauplan. Metallklemmen an Stühlen. Infusionsleitungen. Eine Halle mit zwanzig Plätzen. Für Thalassier-Hände. Permanent. Sie kennt den Unterschied: IHRE Arbeit — hart, freiwillig, respektiert. DAS — Gefangenschaft.
 
@@ -81,7 +78,7 @@ Sie schlägt auf den Tisch. Der Luftdruck im Raum steigt. Vespers Ohren knacken.
 
 Vesper: "Die Rechnung —"
 
-"FICK die Rechnung." Nyrs Stimme. Leise. Gefährlicher als Schreien. "Ich bin Pilotin. Ich steige freiwillig ins Laufwerk. Ich steige freiwillig wieder aus. Das hier —" sie tippt auf den Bauplan — "ist kein Cockpit. Das ist ein Käfig."
+"FICK die Rechnung." Nyrs Stimme. Leise. Gefährlicher als Schreien. "Ich bin Pilotin. Ich steige freiwillig in meine Bestie. Ich steige freiwillig wieder aus. Das hier —" sie tippt auf den Bauplan — "ist kein Cockpit. Das ist ein Käfig."
 
 Vesper schweigt. Rechnet. Die Muster sagen: sie hat Recht. Die Effizienz sagt: er auch. Beides stimmt. Beides gleichzeitig.
 
@@ -89,7 +86,7 @@ Vesper schweigt. Rechnet. Die Muster sagen: sie hat Recht. Die Effizienz sagt: e
 
 Vesper sitzt still. Denkt. Fünf Sekunden. Zehn. Fünfzehn.
 
-Ohne Nyr: er bleibt. Die Thar brauchen ihn. Die Logik stimmt. Er optimiert Laufwerke, rettet Moragh, die Rechnung geht auf. Er hat einen Platz. Er hat einen Zweck. Er hat Recht.
+Ohne Nyr: er bleibt. Die Thar brauchen ihn. Die Logik stimmt. Er optimiert Bestien, rettet Moragh, die Rechnung geht auf. Er hat einen Platz. Er hat einen Zweck. Er hat Recht.
 
 Mit Nyr: er verrät die Thar. Gibt alles auf was er gebaut hat. Kehrt zu Menschen zurück die er verraten hat. Maren wird ihm ins Gesicht schlagen. Alphina wird schweigen, was schlimmer ist. Er hat keinen Plan. Zum ersten Mal in seinem Leben hat er keinen Plan.
 
@@ -99,19 +96,19 @@ Er steht auf.
 
 ### Buch 3, Rückkehr
 
-Vesper und Nyr kommen mit Laufwerk (modifiziert) und Daten (Thar-Schwachstellen). Vesper kehrt zu den anderen zurück.
+Vesper und Nyr kommen mit Bestie (modifiziert) und Daten (Thar-Schwachstellen). Vesper kehrt zu den anderen zurück.
 
 Maren schlägt ihm ins Gesicht. Das Wasser im Raum explodiert — Vasen, Gläser, Kondenswasser. Alles fliegt. Vesper steht still. Nimmt es.
 
-Nyr steht hinter ihm. Breit, narbig, Laufwerk summt leise im Standby. Maren sieht sie an. Versteht sofort warum er zurückgekommen ist. Und das es nicht wegen der Rechnung war.
+Nyr steht hinter ihm. Breit, narbig, Bestie summt leise im Standby. Maren sieht sie an. Versteht sofort warum er zurückgekommen ist. Und das es nicht wegen der Rechnung war.
 
 ## Kampfszenen
 
-**Nyr im Laufwerk:** Elegant, mächtig. Beschwörer ruft Steinwesen. Nyr presst die Luft drumherum — gezielt, kontrolliert. Stein knackt. Bröckelt. Sie hat noch Stunden. Sie ist nicht am Limit. Sie lächelt.
+**Nyr auf Kessler:** Elegant, mächtig. Beschwörer ruft Steinwesen. Nyr presst die Luft drumherum — gezielt, kontrolliert. Stein knackt. Bröckelt. Sie hat noch Stunden. Sie ist nicht am Limit. Sie lächelt.
 
-**Nyr + Vesper (kombiniert):** Er sieht das Angriffsmuster. Flüstert Koordinaten. Sie dreht das Laufwerk, presst Luft in den Angriffsvektor. Schach + Hammer. Kein Wort zu viel.
+**Nyr + Vesper (kombiniert):** Er sieht das Angriffsmuster. Flüstert Koordinaten. Sie dreht ihre Bestie Kessler, presst Luft in den Angriffsvektor. Schach + Hammer. Kein Wort zu viel.
 
-**Nyr ohne Laufwerk:** Kurze Distanz, gefährlich. Presst Luft aus Lungen. Drei Sekunden. Gegner kollabiert. Sie danach: außer Atem, wie nach einem Sprint. Braucht eine Minute.
+**Nyr ohne Bestie:** Kurze Distanz, gefährlich. Presst Luft aus Lungen. Drei Sekunden. Gegner kollabiert. Sie danach: außer Atem, wie nach einem Sprint. Braucht eine Minute.
 
 **Nyr + Runa:** Feuer + Druck = Metall das sich formt. Brücken, Werkzeuge, Waffen. In Minuten statt Tagen. Handwerk auf Steroiden.
 

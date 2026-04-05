@@ -106,7 +106,7 @@ DAS ist der Konflikt. Nicht ein versteckter Preis — die UNGERECHTIGKEIT selbst
 **Buch 3 — Brücke zwischen Welten.**
 - Schmiedet Metall mit bloßen Händen. Ohne Werkzeug, ohne Ofen.
 - Hybrid-Maschinen: Versteht Moragh-Magie-Technik UND thalassische Elektrik. Baut was keine Seite allein kann.
-- Waffe: Sie berührt ein Laufwerk und das Metall wird weich. Das Laufwerk fällt zusammen. Der Pilot darin — unverletzt, aber nackt.
+- Waffe: Sie berührt eine Magitech-Bestie und das Metall wird weich. Die Bestie fällt zusammen. Der Pilot darin — unverletzt, aber nackt.
 
 ### Iven / Elektrizität
 

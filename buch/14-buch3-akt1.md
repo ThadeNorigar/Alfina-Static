@@ -40,7 +40,7 @@ Marens Gedanken: Thies. Tot. Seit Generationen. Jara. Tot. Finn. Tot. Alle die s
 ### Kap. 44 — Vesper (S. 58–74, ~4.000 Wörter)
 *Die Thar. Der Krieg verändert sich.*
 
-Vesper bei der Thar. Seit dem Ende von Buch 2 — er hat die Seite gewechselt, Daten geliefert, Laufwerke optimiert. Nyr neben ihm, Schulter an Schulter über Karten gebeugt. Der Krieg gegen die Binder ist härter geworden. Die Laufwerke sind besser, aber die Piloten sterben schneller. Junge Frauen und Männer, zwanzig, fünfundzwanzig, ausgehöhlt nach einem Jahr.
+Vesper bei der Thar. Seit dem Ende von Buch 2 — er hat die Seite gewechselt, Daten geliefert, Magitech-Bestien optimiert. Nyr neben ihm, Schulter an Schulter über Karten gebeugt. Der Krieg gegen die Binder ist härter geworden. Die Bestien sind besser, aber die Piloten sterben schneller. Junge Frauen und Männer, zwanzig, fünfundzwanzig, ausgehöhlt nach einem Jahr.
 
 Vesper sieht die Muster in den Daten: der Reservoir-Schwund beschleunigt sich. Nicht nur wo die Thalassier sind — überall. Moragh verliert Magie. Schneller als seine Hochrechnungen vorausgesagt haben. Irgendwas nimmt mehr als es sollte.
 

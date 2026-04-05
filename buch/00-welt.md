@@ -126,7 +126,7 @@ Erst bei exzessivem Übergebrauch ohne Erholung:
 - Nasenbluten, Kopfschmerzen, Zittern
 - Chronisch: Altern, Organschäden, Tod
 
-Jeder Mensch in Moragh hat ein Reservoir — wie Ausdauer. Trainierbar, füllt sich durch Ruhe wieder auf. Ein Pilot der 3 Stunden im Laufwerk arbeitet, schläft danach und ist morgens wieder fit.
+Jeder Mensch in Moragh hat ein Reservoir — wie Ausdauer. Trainierbar, füllt sich durch Ruhe wieder auf. Ein Pilot der 3 Stunden in einer Magitech-Bestie arbeitet, schläft danach und ist morgens wieder fit.
 
 **Beschwörer** arbeiten mit Wesen aus der Erde, dem Wasser, der Luft. Im Gleichgewicht — rufen und zurückschicken. Alltag: eine Marktfrau ruft eine Steinhand die einen Korb trägt. Ein Mann pfeift und Wasser formt ein Boot. Ein Kind lacht und Lichter tanzen.
 
@@ -145,7 +145,7 @@ Der Krieg dauert **vier Moragh-Jahre** (= ~1600 Thalassien-Jahre). Drei Seiten.
 **Die Fronten:** Hunderte Kilometer umkämpftes Land. Kein klarer Sieger, aber die Thar gewinnt langsam — technische Überlegenheit frisst Gilden-Verteidigung auf.
 
 - Die **Gilden** verteidigen ihre Städte mit koordinierter Beschwörung — Erdriesen, Flutwellen, lebende Mauern. Kostet Reservoire. Die Beschwörer erschöpfen sich, brauchen Tage zur Erholung.
-- Die **Thar** rückt mit Laufwerken vor — Magitech-Walker, 8-12 Meter hoch, aus Moragh-Stahl. 3-Mann-Besatzung: Pilot (Druck), Schütze (Feuer/Hitze), Navigator (Muster). Reservoir-Kern als Batterie, 6-8 Stunden Einsatz. Waffen: Hitzestrahlen, Druckwellen, geschmolzene Metallprojektile. Technisch überlegen, logistisch teuer.
+- Die **Thar** rücken mit Magitech-Bestien vor — Fabelwesen aus Magie und Metall, raubtierähnlich, glühende Augen, Klauen. Ein Reiter pro Bestie. Je nach Resonanz andere Gestalt: **Lohen** (Feuer-Panther, Flammenwerfer-Maul), **Ramme** (Dampf-Bullen, 40 Tonnen, gepanzert wie Kataphrakte), **Zacker** (Elektrik-Wölfe, Blitzstöße, Kampfläufer), **Gründe** (Stein-Schildkröten, Belagerung), **Feger** (Wind-Falken, 30m-Sprünge), **Fluter** (Wasser-Schlangen, amphibisch). Die Reiter sind die Elite: schwarze Rüstung, geschlossene Helme, ~500 in der ganzen Armee. Dahinter: Infanterie mit Druck-Gewehren und Hitze-Klingen. Durchorganisiert, diszipliniert, skrupellos. Absolute Gleichberechtigung — seit Generationen. Siehe `buch/18-thar-magitech.md` für Details.
 - Die **Binder** operieren als Guerilla-Stoßtrupps aus den Grenzlanden — gebundene Dämonen als Waffe, schnell, brutal, mobil.
 
 **Die Reservoir-Quellen sind erschöpft WEGEN DEM KRIEG.** Vier Jahre militärische Magie auf allen Seiten haben die Quellen schneller geleert als sie sich regenerieren. Die Fraktionen behaupten die Thalassier seien schuld — bequemer Sündenbock, einfache Erklärung. Vespers Daten zeigen: der Schwund war schon vor Ankunft der Fünf da.
@@ -278,7 +278,7 @@ Behandelt die Fischer die vom Wasser krank werden. Seit dem Nebel häufiger. Rat
 Dreiundzwanzig. Beschwörer-Lehrling, mittleres Reservoir. Charming, hilfsbereit, lustig. Elkes Kontakt in der Gilden-Stadt. Wird zum Freund der Helden. Aber: er sieht Alphinas kostenlose Macht und will sie. Lernt von Varen Resonanz zu ERNTEN — nicht aus den Thalassiern, sondern aus dem was sie hinterlassen. Verteilt sie an alle. Wird zum Helden in Moragh. Beschleunigt den Schwund. Bereut. Bezahlt mit seinem Körper (milchige Augen, zitternde Hände).
 
 ### Nyr — Thar-Pilotin (Buch 2-3, Moragh)
-Dreißig. Druck-Resonanz. Pilotiert ein Thar-Laufwerk (Magitech Walker, 8-12m, 3-Mann-Besatzung). Beste Pilotin — die Ausdauerndste, wie eine Elitesportlerin. Piloten sind Elitesoldaten, respektiert, gut bezahlt. Beginnt Beziehung mit Vesper. Starke Persönlichkeit, direkt, physisch. Wechselt die Seite als die Thar planen, Resonanz-Begabte PERMANENT an Maschinen anzuschließen. Vesper wechselt NUR weil sie wechselt — ohne Nyr wäre er geblieben.
+Dreißig. Druck-Resonanz. Pilotiert eine Thar-Bestie (Magitech Walker, 8-12m, 3-Mann-Besatzung). Beste Pilotin — die Ausdauerndste, wie eine Elitesportlerin. Piloten sind Elitesoldaten, respektiert, gut bezahlt. Beginnt Beziehung mit Vesper. Starke Persönlichkeit, direkt, physisch. Wechselt die Seite als die Thar planen, Resonanz-Begabte PERMANENT an Maschinen anzuschließen. Vesper wechselt NUR weil sie wechselt — ohne Nyr wäre er geblieben.
 
 ---
 
@@ -293,7 +293,7 @@ Magie als Macht. Wesen BINDEN statt rufen. Dämonen als Armee. Eine Fraktion die
 ### Das Konglomerat der Thar (kurz: die Thar)
 Magie als Ingenieurwesen. Keine Wesen — reine Kraft. Menschen die **Druck, Metall, Feuer** manipulieren. Ihre Magie fließt durch Maschinen: Pressen, Schmieden, Öfen die mit Magie statt Kohle laufen. Ihre Stadt ist laut, heiß, voller Rauch. Verachten die Beschwörer ("Wer Wesen braucht, versteht die Materie nicht"). Misstrauen den Gilden. Expandieren aggressiv um neue Reservoir-Quellen zu erschließen — DAS ist der Hauptgrund für den Krieg.
 
-**Thar-Laufwerke (Magitech Walker):** 8-12 Meter hoch, aus Moragh-Stahl. 3-Mann-Besatzung: Pilot (Druck), Schütze (Feuer/Hitze), Navigator (Muster). Reservoir-Kern als Batterie, 6-8 Stunden Einsatz. Waffen: Hitzestrahlen, Druckwellen, geschmolzene Metallprojektile. Die stärkste Waffe im Krieg. Nyr pilotiert eines.
+**Thar-Bestien (Magitech Walker):** 8-12 Meter hoch, aus Moragh-Stahl. 3-Mann-Besatzung: Pilot (Druck), Schütze (Feuer/Hitze), Navigator (Muster). Reservoir-Kern als Batterie, 6-8 Stunden Einsatz. Waffen: Hitzestrahlen, Druckwellen, geschmolzene Metallprojektile. Die stärkste Waffe im Krieg. Nyr pilotiert eine.
 
 Wollen die Resonanz-Begabten nicht studieren. Wollen sie **EINSETZEN.** Als lebende Energiequellen. Kostenlose Magie = endlose Kraft. Ein Resonanz-Begabter an einer Maschine = eine Maschine die nie stoppt.
 
