@@ -155,7 +155,12 @@ Selten. Kosten ALLE drei massiv. Max 2-3 Mal in der ganzen Trilogie.
 1. **Magie kommt aus der Umgebung, nicht aus dem Körper.** Alphina wachsen keine Pflanzen aus den Händen. Der BODEN reagiert auf sie.
 2. **Thalassier zahlen KEINEN persönlichen Preis.** Kein Nasenbluten, kein Hunger, keine Erschöpfung. NICHTS. Das ist der Punkt. Das ist was sie bedrohlich macht.
 3. **Moragh zahlt.** Jede Resonanz-Nutzung schwächt die Welt. Messbar. Über Wochen.
-4. **Moragh-Geborene (Iven, Nyr, Talven, alle Gilden/Binder/Maschinisten) zahlen mit dem Körper.** Wie immer. Das Reservoir ist endlich.
+4. **Moragh-Geborene zahlen mit dem Körper — aber wie bei Sport, nicht wie bei Folter.**
+   - Normale Nutzung: Müdigkeit, Muskelkater, Hunger. Schlafen, essen, fertig.
+   - Schwere Nutzung (Kampf, große Beschwörung): Erschöpfung wie nach einem Marathon. Tage Erholung.
+   - Exzessiver Übergebrauch ohne Erholung: ERST DANN Nasenbluten, Kopfschmerzen, Zittern.
+   - Weit über die Grenze, chronisch: Altern, Organschäden, Tod.
+   - Das Reservoir füllt sich durch Ruhe auf. Wie Ausdauer. Trainierbar.
 5. **Die Grenze der Thalassier ist MORALISCH, nicht physisch.** Sie KÖNNEN alles. Sie WÄHLEN nicht alles zu tun. Die Zurückhaltung kommt aus dem Wissen was es Moragh kostet.
 6. **Buch 1 = King (subtil).** Buch 2 = King → Yarros (Übergang). Buch 3 = Yarros (volle Kraft, Action, Konsequenzen).
 7. **Kombinationen: Thalassier untereinander = kein Preis.** Thalassier + Moragh-Geborene = der Moragh-Geborene zahlt seinen Anteil.

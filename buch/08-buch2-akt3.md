@@ -68,6 +68,21 @@ Ein Gerücht in der Gilden-Stadt: der Binder am Tor bewegt sich wieder. Nicht st
 
 Vesper analysiert: der Antagonist ist nicht der Feind. Er ist ein Forscher mit der Moral eines Chirurgen. Er hat Sorel getötet um zu verstehen, nicht um zu zerstören. Das macht ihn gefährlicher.
 
+### Kap. 27b — Talven (S. 540–554, ~3.500 Wörter)
+*Nachts. Allein. Zum Tor.*
+
+Talven hat Vespers Vortrag über den Reservoir-Schwund gehört. Stand im Hintergrund — Lehrling, unsichtbar, die Tasse in der Hand die er für den Gilden-Meister gebracht hat. Hat jedes Wort mitgenommen.
+
+Nachts verlässt er die Stadt. Kennt die Wege, die Wachen, die Lücken im lebenden Mauerwerk. Drei Stunden zu Fuß. Der Binder am Tor — der Antagonist — sitzt auf einem Stein, dünn wie Papier, seine Dämonen wie Schatten um ihn. Er sieht Talven kommen und wartet.
+
+Talven: "Ich bin Lehrling. Mittleres Reservoir. In zehn Jahren bin ich aufgebraucht." Der Antagonist schweigt. Talven: "Die Thalassierin wächst einen Hain im Schlaf und es kostet sie NICHTS. Ich will wissen warum."
+
+Der Antagonist mustert ihn. Dann: "Ich kann dir zeigen wie man Resonanz ERNTET. Nicht aus einem Thalassier — aus dem was sie hinterlassen. Aus dem Boden, den Pflanzen, dem Wasser das sie berührt haben."
+
+Talven setzt sich. Die erste Lektion dauert bis zum Morgengrauen. Talven geht zurück. Bringt den Gilden-Gelehrten Frühstück. Lächelt.
+
+Eingebettet: sein Reservoir — ein dumpfes Pochen hinter den Augen, nie genug, nie satt. Seit er denken kann. Die anderen Lehrlinge haben größere. Die Meister haben riesige. Talven hat "mittel." In Moragh ist "mittel" ein Todesurteil für Ambitionen. Man wird nie mehr als ein Steinchen-Schweber. Und jetzt steht eine Frau aus einer anderen Welt neben ihm und lässt Wälder wachsen und gähnt dabei.
+
 ### Kap. 28 — Maren (S. 540–558, ~4.500 Wörter)
 *Durchbruch und Preis.*
 
@@ -79,6 +94,21 @@ Maren liegt auf dem Rücken, keuchend. Nicht erschöpft — Resonanz kostet nich
 *Elke besucht die Maschinisten. Die lebenden Energiequellen.*
 
 Elke, Monate nach Ankunft. Eine Reise zur Maschinisten-Stadt, als Gilden-Beobachterin. Sie sieht die Maschinen — beeindruckend, gewaltig, endlos. Und sie sieht die Quellen: Beschwörer, angeschlossen an Maschinen, die ihre Reservoire leeren. Freiwillig. Bezahlt. Erschöpft. Manche sterben jung. Elke fragt Kael: "Was passiert wenn ein Reservoir leer ist?" Kael: "Dann ruht man sich aus." Elke: "Und wenn es nicht zurückkommt?" Kaels Schweigen ist die Antwort.
+
+### Kap. 28b — Talven (S. 558–568, ~2.500 Wörter)
+*Der Hain. Die Ernte. Der Preis.*
+
+Talven schleicht in Alphinas Schlaf-Hain. Nacht, drei Wochen nach der ersten Lektion. Er kniet zwischen den Wurzeln. Hände auf den Boden — die Technik die der Antagonist gezeigt hat. Fühlen. Nicht das eigene Reservoir — das FREMDE. Die Resonanz die Alphina hinterlassen hat, in den Wurzeln, im Moos, im Boden selbst.
+
+Er zieht. Langsam. Die Magie fließt — anders als eigene Resonanz. Kälter. Dichter. Sein Reservoir füllt sich über den gewohnten Rand hinaus. Zum ersten Mal in seinem Leben hat er GENUG. Mehr als genug.
+
+Er steht auf. Die Welt ist klarer. Schärfer. Seine Hände zittern nicht mehr.
+
+Aber: am nächsten Morgen — ein Büschel Haare auf dem Kissen. Nicht viel. Genug um es zu bemerken. Er fegt es weg. Denkt: Stress. Schlafmangel. Lügt sich an.
+
+Drei Nächte später: sein linkes Auge. Im Spiegel — die Iris, die sonst dunkelbraun ist, hat einen milchigen Fleck. Klein. Am Rand. Wie eine Wolke die ins Auge zieht. Geerntete Resonanz kostet MEHR als natürliche. Sein Körper bezahlt was Alphina nie bezahlen muss.
+
+Talven zieht die Kapuze tiefer. Geht Frühstück holen. Bringt Maren Brot vom Markt.
 
 ### Kap. 29 — Alphina (S. 568–588, ~5.000 Wörter)
 *Runa finden.*
@@ -111,4 +141,7 @@ Was zwischen ihnen liegt: nicht gelöst. Alphinas Kontrolle greift nicht. Runas 
 | Elkes weicher Stein | Kap 29 — "Jedes Jahr" | Akt IV — Elkes Beweis vor dem Gilden-Rat. Resonanz zerstört Moragh |
 | Kael hat Pläne für Runa | Kap 30 — Ein Ofen der nie erlischt | Akt IV — Runa entdeckt die Wahrheit: die Maschinisten wollen sie anschließen |
 | Der Antagonist als Forscher | Kap 27 — Er sucht Daten, nicht Macht | Akt IV — Er bietet einen Deal an. Information gegen Information |
+| Talven beim Antagonisten | Kap 27b — Erste Lektion, nachts | Buch 3 — Er hat gelernt zu ernten. Verteilt Resonanz an alle. Wird zum Helden |
+| Talvens milchiges Auge | Kap 28b — Wolke in der Iris | Buch 3 — Beide Augen. Hände zittern. Resonanz-Ernte zerstört den Ernter |
+| Talvens Haare auf dem Kissen | Kap 28b — Er lügt sich an | Buch 3 — Haarausfall wird sichtbar. Der Preis schreibt sich in den Körper |
 | Alphina bindet sich die Hände | Kap 29 — Stoff als Erinnerung | Akt IV — In der letzten Szene bindet sie sich nicht mehr. Sie wählt |

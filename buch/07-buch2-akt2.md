@@ -20,6 +20,8 @@ Vesper in der Gilden-Bibliothek. Bücher die er nicht lesen kann — aber die Mu
 
 Ein Gilden-Gelehrter beobachtet ihn. Fasst sich an die Brust. "Wie machst du das?" Vesper: "Was?" Der Gelehrte: "Du liest die Zeit. Ohne Reservoir. Ohne Preis."
 
+Eingebettet: Ein junger Lehrling bringt Vesper Tee und einen Stapel Karten, die er nicht bestellt hat. **Talven.** Dreiundzwanzig, schmal, ein Lachen das zu groß ist für sein Gesicht. "Elke hat gesagt du brauchst die Reservoirkarten aus dem Südarchiv. Stimmt das?" Vesper nickt. Talven kennt die Bibliothek wie seine Taschen — zeigt Vesper die richtigen Regale, übersetzt Beschriftungen, erklärt die Ordnung. Hilfsbereit. Schnell. Der Typ der Probleme löst bevor man sie ausspricht.
+
 ### Kap. 13 — Maren (S. 234–250, ~4.000 Wörter)
 *Der Fluss der bergauf fließt.*
 
@@ -45,6 +47,8 @@ Elkes erste Wochen in der Gilden-Stadt. Die Meisterin die ihre Resonanz studiere
 Die Älteste bittet zum Gespräch. Formell, höflich, ein Raum mit lebenden Wänden (die Wände atmen, wachsen, reagieren auf Stimmung). Die Gilden bieten alles: Schutz, Status, Wissen, ein Zuhause. Im Gegenzug: kämpft für uns. Die Binder rücken vor. Drei Städte verloren im letzten Monat. Die Gilden-Beschwörer sind erschöpft — ihre Reservoire leer, ihre Körper verbraucht. Alphina, die einen Wald wachsen lassen kann ohne müde zu werden, ist nicht Hilfe. Sie ist Rettung.
 
 Alphinas Gedanken: Sorel ist tot weil jemand ihre Resonanz wollte. Und jetzt will der nächste.
+
+Eingebettet: Talven übersetzt. Steht neben der Ältesten, flüstert Alphina die Nuancen zu die sie im Gilden-Dialekt noch nicht versteht. Hilfsbereit, unauffällig, die perfekte Brücke. Als Alphina aufsteht und den Raum verlässt — draußen im Gang: die Wände haben Moos angesetzt seit sie den Raum betreten hat. Zehn Minuten, Moos auf Stein. Talven steht daneben, sieht es, sein Gesicht — einen Moment lang, bevor er lächelt. Nicht Ehrfurcht. Nicht Angst. HUNGER. Die Augen eines Menschen der zusieht wie jemand anderes atmet und dafür alles bekommt was er sich wünscht. Alphina sieht es nicht. Sie geht weiter. Talven lächelt schon wieder.
 
 ### Kap. 16 — Alphina + Runa (S. 294–314, ~5.000 Wörter)
 *Nacht. Gespräch. Anfang.*
@@ -78,6 +82,10 @@ Die Dorfbewohner evakuieren. Nicht vor den Bindern. Vor ihr.
 
 Alphinas Gedanken: Sorels Tod hat etwas geöffnet. Die Trauer wächst. Buchstäblich.
 
+Eingebettet: Talven ist mitgekommen. Am Morgen, als alle den Schlaf-Wald anstarren, steht er am Rand und berührt eine der Ranken. Konzentriert sich. Sein Reservoir — mittelmäßig, ein Beschwörer-Lehrling — reicht für ein schwebendes Steinchen. Die Kopfschmerzen kommen nach dreißig Sekunden. Er lässt los. Reibt sich die Schläfen. Sieht den Hain, der eine Nacht alt ist und aussieht wie hundert Jahre. Kostenlos. Im Schlaf.
+
+Talven kocht Frühstück für alle. Bringt Alphina Tee. Lächelt. Sein Lachen ist zu groß für sein Gesicht und jeder mag ihn dafür.
+
 ### Interludium IV (~S. 375, ~2.000 Wörter)
 *Elke legt den Garten an. Der Stein wird weicher.*
 
@@ -106,3 +114,6 @@ Eingebettet: der Binder-Spion wird enttarnt. Vesper hat gewartet, drei Züge vor
 | Elkes Stein wird weicher | I4 — Der Basalt unter dem Garten | Akt IV — Elkes Beweis. Resonanz ist nicht kostenlos. Moragh zahlt |
 | Binder-Information ist draußen | Kap 17/20 — Vier Resonanz-Begabte, kostenlos | Akt III — Alle drei Fraktionen wissen Bescheid. Der Preis steigt |
 | Runa in der Gilden-Schmiede | Kap 14 — Sie formt ohne Ofen | Akt III — Die Maschinisten bieten ihr mehr: nicht Handwerk, sondern Industrie |
+| Talvens HUNGER beim Hain | Kap 15/19 — Sein Gesicht wenn Alphina wächst | Akt III — Er sucht den Antagonisten. Lernt Resonanz-Ernte |
+| Talven kennt die Bibliothek | Kap 12 — Zeigt Vesper die Karten | Akt III — Er kennt auch die Geheimnisse. Weiß wo der Antagonist ist |
+| Talven kocht Frühstück | Kap 19 — Der Freund den alle mögen | Buch 3 — Der Verräter den alle mochten. Schmerzhafter |

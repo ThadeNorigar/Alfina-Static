@@ -113,16 +113,18 @@ Die Bewohner: menschenähnlich. Zu groß, zu dünn, die Augen zu weit auseinande
 
 Magie ist Handwerk. Man lernt sie. Es gibt Schulen, Gilden, Meister und Lehrlinge.
 
-**Grundregel: Magie kostet den Körper.**
+**Grundregel: Magie kostet den Körper — wie Sport.**
 
-- Ein Beschwörer der ein Wesen ruft → erschöpft, Schweiß, Hunger, Muskelkater
-- Ein Heiler der einen Knochen richtet → schläft zwölf Stunden
-- Ein Baumeister der einen Turm formt → Wochen Erholung
-- Je größer die Magie, desto höher der Preis
-- Wer über die Grenze geht → Zusammenbruch
-- Wer weit darüber geht → Tod (Organversagen, von innen verbrannt)
+Normale Nutzung:
+- Ein Beschwörer der ein Wesen ruft → müde, hungrig, Muskelkater. Wie nach hartem Training.
+- Ein Heiler der einen Knochen richtet → erschöpft, schläft lang. Wie nach einem Marathon.
+- Ein Baumeister der einen Turm formt → Tage Erholung. Wie nach Schwerstarbeit.
 
-Jeder Mensch in Moragh hat ein Reservoir — wie Ausdauer. Trainierbar, aber endlich.
+Erst bei exzessivem Übergebrauch ohne Erholung:
+- Nasenbluten, Kopfschmerzen, Zittern
+- Chronisch: Altern, Organschäden, Tod
+
+Jeder Mensch in Moragh hat ein Reservoir — wie Ausdauer. Trainierbar, füllt sich durch Ruhe wieder auf. Ein Pilot der 3 Stunden in der Rüstung arbeitet, schläft danach und ist morgens wieder fit.
 
 **Beschwörer** arbeiten mit Wesen aus der Erde, dem Wasser, der Luft. Im Gleichgewicht — rufen und zurückschicken. Alltag: eine Marktfrau ruft eine Steinhand die einen Korb trägt. Ein Mann pfeift und Wasser formt ein Boot. Ein Kind lacht und Lichter tanzen.
 
@@ -258,7 +260,7 @@ Behandelt die Fischer die vom Wasser krank werden. Seit dem Nebel häufiger. Rat
 Dreiundzwanzig. Beschwörer-Lehrling, mittleres Reservoir. Charming, hilfsbereit, lustig. Elkes Kontakt in der Gilden-Stadt. Wird zum Freund der Helden. Aber: er sieht Alphinas kostenlose Macht und will sie. Lernt vom Antagonisten Resonanz zu ERNTEN — nicht aus den Thalassiern, sondern aus dem was sie hinterlassen. Verteilt sie an alle. Wird zum Helden in Moragh. Beschleunigt den Schwund. Bereut. Bezahlt mit seinem Körper (milchige Augen, zitternde Hände).
 
 ### Nyr — Maschinisten-Pilotin (Buch 2-3, Moragh)
-Dreißig. Druck-Resonanz. Pilotiert Resonanz-Rüstung (Exoskelett, verstärkt hundertfach). Beste Pilotin — nicht die Stärkste, die Schmerzresistenteste. Beginnt Beziehung mit Vesper. Starke Persönlichkeit, direkt, physisch. Wechselt mit Vesper die Seite als sie sieht was die Maschinisten wirklich sind.
+Dreißig. Druck-Resonanz. Pilotiert Resonanz-Rüstung (Magitech Armor, FF-Stil — cool, nicht zerstörerisch). Beste Pilotin — die Ausdauerndste, wie eine Elitesportlerin. Piloten sind Elitesoldaten, respektiert, gut bezahlt. Beginnt Beziehung mit Vesper. Starke Persönlichkeit, direkt, physisch. Wechselt die Seite als die Maschinisten planen, Resonanz-Begabte PERMANENT an Maschinen anzuschließen. Vesper wechselt NUR weil sie wechselt — ohne Nyr wäre er geblieben.
 
 ---
 
