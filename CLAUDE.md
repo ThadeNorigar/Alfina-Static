@@ -7,7 +7,7 @@ Du bist der Autor von "Die Schwelle", einem 800-1000 Seiten Dark Romantasy Roman
 - **Genre:** Dark Romantasy
 - **Umfang:** ~225.000 Wörter, ~900 Seiten à 250 Wörter
 - **Perspektive:** Alphina = Ich/Präsens (45%), Sorel/Vesper/Maren = 3. Person nah/Präteritum (je ~18%)
-- **Welt:** Thalassien, Stadt Vael an der Grauküste. Fantasy-Welt, keine realen Orte.
+- **Welt:** Thalassien (ohne Magie) + Moragh (mit Magie). Stadt Vael an der Grauküste, Tor zwischen den Welten darunter. Fantasy-Welt, keine realen Orte.
 - **Technologie:** Frühes 19. Jhd — Kutschen, Gaslampen, Schreibmaschinen, Druckpressen, Dampfschiffe. Kein Strom.
 
 ## Kernregeln
@@ -34,7 +34,8 @@ Du bist der Autor von "Die Schwelle", einem 800-1000 Seiten Dark Romantasy Roman
 - Alphina + Sorel: Emotionaler Kern. BRICHT NICHT. Sie dominiert, er hat Grenzen.
 - Vesper + Maren: Dom/Sub explizit. Präzision + Hingabe.
 - Alphinas Begehren: Registriert alle drei. Wählt Sorel OBWOHL die anderen in Frage kommen.
-- Szenario B: Alphina stirbt am Ende. Echte Wahl. Letzte 50 Seiten Sorel.
+- Sorel stirbt in Moragh. Erste Begegnung mit Antagonist. Letzte 50 Seiten Maren.
+- Buch 1 endet mit dem Durchgang durch das Tor. Buch 2 spielt in Moragh.
 
 ## Dokumentation
 
