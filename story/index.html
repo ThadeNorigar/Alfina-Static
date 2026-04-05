@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Die Schwelle — Trilogie</title>
+  <link rel="stylesheet" href="../styles.css">
+  <style>
+    :root {
+      --cream: #f5f0e8; --ink: #1e1c19; --muted: #6b6259;
+      --accent: #6b3a3a; --deep: #0f0e0c; --smoke: #8a8279;
+      --paper: #f8f4ee; --paper-edge: #e8e0d4;
+    }
+    body { background: var(--deep); display: flex; justify-content: center; padding: 2rem 1rem; }
+    nav { display: none; }
+    .book-wrap { width: 100%; max-width: 720px; }
+    .book-card {
+      background: var(--paper);
+      border-radius: 2px 6px 6px 2px;
+      box-shadow: 0 0 0 1px var(--paper-edge), 0 12px 40px rgba(0,0,0,0.3);
+      margin-bottom: 2rem; overflow: hidden; position: relative;
+    }
+    .book-card::before {
+      content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+      background: linear-gradient(180deg, var(--paper-edge) 0%, #c8bfb0 50%, var(--paper-edge) 100%);
+    }
+    .card-header {
+      padding: 2.5rem 3rem 1.5rem; border-bottom: 1px solid rgba(107,58,58,0.06);
+    }
+    .card-header .num {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.7rem;
+      letter-spacing: 0.35em; text-transform: uppercase; color: var(--smoke);
+    }
+    .card-header h2 {
+      font-family: 'Cormorant Garamond', serif; font-size: 1.8rem;
+      font-weight: 400; letter-spacing: 0.08em; color: var(--ink); margin-top: 0.5rem;
+    }
+    .card-header .sub {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.95rem;
+      color: var(--muted); font-style: italic; margin-top: 0.3rem;
+    }
+    .card-body { padding: 1.5rem 3rem 1.5rem 3.5rem; }
+    .card-body p {
+      font-family: 'Cormorant Garamond', serif; font-size: 1.05rem;
+      line-height: 1.85; color: var(--ink); margin-bottom: 0.7rem;
+    }
+    .card-body p em { font-style: italic; }
+    .card-footer {
+      padding: 1rem 3rem 1.5rem; border-top: 1px solid rgba(107,58,58,0.06);
+      text-align: right;
+    }
+    .card-footer a {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.85rem;
+      letter-spacing: 0.12em; text-transform: uppercase; text-decoration: none;
+      color: var(--smoke); transition: color 0.3s; padding: 0.5rem 0;
+    }
+    .card-footer a:hover { color: var(--ink); }
+    .page-title {
+      text-align: center; padding: 1rem 0 2rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.7rem;
+      letter-spacing: 0.4em; text-transform: uppercase; color: var(--smoke);
+    }
+    @media (max-width: 600px) {
+      .card-header, .card-body, .card-footer { padding-left: 1.5rem; padding-right: 1.5rem; }
+      .card-body { padding-left: 2rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="grain"></div>
+  <div class="book-wrap">
+    <div class="page-title">Die Schwelle — Trilogie</div>
+
+    <div class="book-card">
+      <div class="card-header">
+        <div class="num">Buch I</div>
+        <h2>Die Schwelle</h2>
+        <div class="sub">Thalassien · Vael · Das Tor</div>
+      </div>
+      <div class="card-body">
+        <p>Vier Fremde kommen nach Vael, eine Hafenstadt an der Grauküste, wo der Nebel nach Stein riecht und die Grauwe manchmal rückwärts fließt. Alphina, Botanikerin, folgt einer Fußnote über einen unmöglichen Farn. Sorel, Fotograf, findet sein eigenes Gesicht auf einer Glasplatte aus Vael. Vesper, Uhrmacher, hört von einer Uhr die exakt 4:33 pro Tag verliert. Maren, Schiffbauerin, erbt eine Werft mit einem halbfertigen Boot.</p>
+        <p>Sie wissen nichts voneinander. Aber unter Vael liegt ein Tunnelsystem aus schwarzem Basalt, und am tiefsten Punkt ein Tor zwischen zwei Welten. Das Tor leckt. Magie sickert durch. Die Pflanzen wachsen, die Uhren laufen falsch, Bilder zeigen Dinge die nicht da sind, das Wasser gehorcht.</p>
+        <p>Die Vier finden sich, finden einander, finden das Tor. Ein Manuskript im Archiv — teilweise echt, teilweise gefälscht — sagt ihnen: geht durch, schließt es von innen, rettet Vael. Sie gehen. Das Tor schließt sich hinter ihnen. Nicht von ihnen — von einem Beschwörer auf der anderen Seite. Die Falle.</p>
+        <p>Runa, eine Druckerin die zu viel gesehen hat, folgt ihnen durch. Fünf Menschen in Moragh. Der Beschwörer greift an. Sorel stirbt. Der Beschwörer kollabiert. Die Vier fliehen in eine fremde Welt.</p>
+        <p><em>Letzte 50 Seiten: Maren in Vael. Das Meer wird normal. Die Gezeiten stimmen. Das Boot wartet. Maren nimmt den Hobel und arbeitet.</em></p>
+      </div>
+      <div class="card-footer">
+        <a href="buch1.html">Kapitel &rarr;</a>
+      </div>
+    </div>
+
+    <div class="book-card">
+      <div class="card-header">
+        <div class="num">Buch II</div>
+        <h2>Moragh</h2>
+        <div class="sub">Die Fraktionen · Der Preis · Die Wahl</div>
+      </div>
+      <div class="card-body">
+        <p>Sorel ist tot. Alphina, Vesper, Maren und Runa stehen in einer Welt mit zwei Monden, satterer Luft, und Magie die den Körper kostet. Ihre Resonanz kostet nichts — und das macht sie zur wertvollsten Ressource in einem Krieg zwischen drei Fraktionen: die Gilden (traditionelle Beschwörer), die Binder (Dämonen-Armee), die Maschinisten (Magie-betriebene Maschinen, Resonanz-Rüstungen).</p>
+        <p>Elke van der Holt — eine Bildhauerin die vor 400 Thalassien-Jahren durchging — findet sie. Führt sie in die Gilden-Stadt. Talven, ein junger Gilden-Lehrling, wird ihr Freund. Nyr, Pilotin einer Magitech-Rüstung, kommt als Emissärin der Maschinisten.</p>
+        <p>Alphina trauert um Sorel. Ihre Macht wächst — Wälder im Schlaf. Runa wird Gegengewicht: keine Magie-Erfahrung, warme Hände, direkte Worte. Aus Freundschaft wird mehr. Vesper geht mit Nyr zu den Maschinisten — ihre Logik überzeugt ihn. Er verrät die Position der anderen. Maren: "Du hast uns verkauft."</p>
+        <p>Vesper entdeckt die Wahrheit: Resonanz ist nicht kostenlos. Moragh selbst zahlt den Preis. Die Welt wird schwächer. Talven sieht Alphinas kostenlose Macht und will sie — lernt vom Antagonisten, Resonanz aus der Umgebung zu ernten. Im Geheimen.</p>
+        <p><em>Das Buch endet mit einer Frage: Was passiert mit Menschen die unbegrenzte Macht haben — in einer Welt in der Macht einen Preis hat?</em></p>
+      </div>
+      <div class="card-footer">
+        <a href="buch2.html">Kapitel &rarr;</a>
+      </div>
+    </div>
+
+    <div class="book-card">
+      <div class="card-header">
+        <div class="num">Buch III</div>
+        <h2>Die Naht</h2>
+        <div class="sub">Zwei Welten · ~2250 · Wiedervereinigung</div>
+      </div>
+      <div class="card-body">
+        <p>Maren öffnet den Wasserweg — einen Pfad durch das Wasser zwischen den Welten. Sie kehrt nach Thalassien zurück. Aber Thalassien ist nicht mehr das Thalassien der Gaslampen. Jahrhunderte sind vergangen. Vael hat Glasfassaden, elektrisches Licht, Fahrzeuge ohne Pferde. Sorels Glasplatten sind in einem Museum. "Die Vier von Vael" ist ein Forschungsgegenstand. Am botanischen Garten: Sensoren, Denkmalschutz. Die Farne wachsen immer noch.</p>
+        <p>Thalassien schickt ein Forscherteam nach Moragh. Iven — ein Moragh-Junge mit Elektrizitäts-Resonanz — berührt einen Generator. Die Maschine läuft. Ohne Brennstoff. Die Maschinisten sehen 2250-Technik und begreifen: ihre Pressen und Öfen sind Steinzeit.</p>
+        <p>Talven verteilt geerntete Resonanz an das Volk. Magie für alle, kostenlos. Er wird zum Helden. Aber die geerntete Resonanz beschleunigt den Verfall. Elke stirbt — ihr Stein antwortet nicht mehr. Talven sieht was er angerichtet hat. Gibt die Resonanz zurück. Bezahlt mit seinem Körper.</p>
+        <p>Nyr findet den Bauplan: die Maschinisten wollen Resonanz-Begabte permanent an Maschinen anschließen. Sie geht. Vesper geht mit ihr — nicht wegen der Rechnung. Wegen ihr.</p>
+        <p>Vesper entschlüsselt die Wahrheit: Die Welten waren einmal eine. Das Tor ist die Narbe. Wiedervereinigung ist möglich — mit einer Maschine aus Moragh-Magie und Thalassien-Technik. Der Preis: Alphinas Resonanz. Alles. Sie stirbt. Jeder Wald den sie je wachsen ließ stirbt mit ihr. Die Welten werden eine.</p>
+        <p><em>Letzte Seite: Der botanische Garten von Vael. Ein Kind berührt den kalten Stein. Ein Farn schiebt sich durch einen Riss. Klein, grün, zitternd. Es kostet etwas — ein Schwindeln, müde Beine. Die Welt ist ganz.</em></p>
+      </div>
+      <div class="card-footer">
+        <a href="buch3.html">Kapitel &rarr;</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
