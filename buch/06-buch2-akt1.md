@@ -82,7 +82,7 @@ Elkes erste Begegnung mit der Gilden-Stadt. Die Meisterin die ihr die Sprache be
 ### Kap. 10 — Alphina (S. 178–200, ~5.500 Wörter)
 *Die Gilden-Stadt. Willkommen.*
 
-Elke führt die Fünf in die nächste Gilden-Stadt. Zwei Tage Marsch. Die Stadt: Türme die gewachsen sind, Straßen die sich verändern, Brücken über Flüsse die bergauf fließen. Die Bewohner: zu groß, zu dünn, Augen zu weit auseinander. Staunen, Flüstern, Finger die zeigen. Die Gilden-Älteste empfängt sie — freundlich, organisiert, sofort interessiert. "Resonanz-Begabte. Vier. Aus Thalassien." Ihre Augen glänzen. Nicht Gier — etwas Schlimmeres: Hoffnung.
+Elke führt die Fünf in die nächste Gilden-Stadt. Zwei Tage Marsch. Die Stadt: Türme die gewachsen sind, Straßen die sich verändern, Brücken über Flüsse die bergauf fließen. Die Bewohner: größer als Thalassier, feingliedrig, dunkle Haare, helle Haut, Augen in Farben die es in Thalassien nicht gibt — Purpur, Weinrot, Schwarz. Staunen, Flüstern, Finger die zeigen. Die Gilden-Älteste empfängt sie — freundlich, organisiert, sofort interessiert. "Resonanz-Begabte. Vier. Aus Thalassien." Ihre Augen glänzen. Nicht Gier — etwas Schlimmeres: Hoffnung.
 
 Alphinas Hain hat sich herumgesprochen. Ein Wald, gewachsen in einer Nacht, ohne Preis. In einer Welt im Krieg bedeutet das: Waffe.
 

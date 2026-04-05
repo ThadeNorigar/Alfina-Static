@@ -62,7 +62,7 @@ Eine Berührung — Runas Hand auf Alphinas Arm, kurz, zum Punkt machen. Alphina
 ### Kap. 17 — Vesper (S. 314–330, ~4.000 Wörter)
 *Der Binder-Spion.*
 
-Vesper sieht das Muster. Ein Gilden-Gelehrter der Fragen stellt die kein Gelehrter stellen würde — nach Reservoirkapazität, nach der genauen Art von Alphinas Resonanz, nach dem Mechanismus. Vesper folgt ihm. Nachts, durch die Straßen die sich verschieben. Der Gelehrte trifft jemanden am Stadtrand — eine Gestalt, zu dünn, mit gebundenen Wesen die wie Schatten an ihr haften. Ein Binder. Der Spion liefert Informationen. Vesper beobachtet. Zählt die Züge.
+Vesper sieht das Muster. Ein Gilden-Gelehrter der Fragen stellt die kein Gelehrter stellen würde — nach Reservoirkapazität, nach der genauen Art von Alphinas Resonanz, nach dem Mechanismus. Vesper folgt ihm. Nachts, durch die Straßen die sich verschieben. Der Gelehrte trifft jemanden am Stadtrand — eine Gestalt, feingliedrig, purpurne Augen, mit gebundenen Wesen die wie Schatten an ihr haften. Ein Binder. Der Spion liefert Informationen. Vesper beobachtet. Zählt die Züge.
 
 Entscheidung: sofort melden oder warten und mehr erfahren. Vesper wartet. Drei Züge voraus denken.
 

@@ -10,13 +10,17 @@
 
 ## DIE KERNREGEL
 
-**Resonanz-Begabte aus Thalassien zahlen KEINEN persönlichen Preis.** Keine Erschöpfung. Kein Nasenbluten. Kein Hunger. NICHTS. Sie heben die Hand und der Wald wächst und sie fühlen sich gut dabei. DAS ist was sie so bedrohlich macht. DAS ist warum jede Fraktion sie will.
+**Resonanz-Begabte aus Thalassien zahlen KEINEN Preis. Keinen. Punkt.**
 
-**Moragh zahlt den Preis.** Jeder Wald den Alphina wachsen lässt, zieht Energie aus der Welt. Der Boden wird weicher. Die Reservoire schrumpfen. Die Moragh-Menschen spüren es — ihre eigene Magie wird schwächer. Nicht sofort. Über Wochen. Messbar.
+Keine Erschöpfung. Kein Nasenbluten. Kein Hunger. Kein versteckter Preis. Kein "aber eigentlich doch." NICHTS. Sie heben die Hand und der Wald wächst und sie fühlen sich gut dabei.
 
-**Moragh-Geborene zahlen mit dem Körper.** Wie immer. Erschöpfung, Hunger, Schmerz. Das Reservoir ist endlich.
+DAS ist der Konflikt. Nicht ein versteckter Preis — die UNGERECHTIGKEIT selbst. Jeder Moragh-Mensch bezahlt für jeden Zauber mit seinem Körper. Die Thalassier nicht. Das ist nicht fair. Es war nie fair. Es muss nicht fair sein.
 
-**Nach Wiedervereinigung (Buch 3, Finale):** Alle zahlen. Fair. Gleich.
+**Moragh zerfällt — aber nicht wegen der Thalassier.** Moragh zerfällt wegen dem KRIEG. Generationen von Magie-Übernutzung durch die eigenen Fraktionen. Die Reservoire sind erschöpft. Die Welt ist müde — von IHREN EIGENEN Leuten. Die Resonanz-Begabten sind kein Gift. Sie sind eine potenzielle Lösung — oder eine Waffe.
+
+**Moragh-Geborene zahlen mit dem Körper.** Wie Sport. Müdigkeit, Muskelkater, Hunger. Erst bei Übergebrauch: Nasenbluten etc. Das Reservoir füllt sich durch Ruhe.
+
+**Nach Wiedervereinigung (Buch 3, Finale):** Magie existiert überall. Kostet überall. Für alle. Auch für die ehemaligen Thalassier.
 
 ---
 
