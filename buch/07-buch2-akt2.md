@@ -1,8 +1,12 @@
 # Buch 2 — Akt II — Die Fraktionen (Seite 200–400, ~50.000 Wörter, 10 Kapitel + 2 Interludien)
 
+## Alphinas Kontroll-Status: LERNEND
+
+In Akt II beginnt Alphina ihre Resonanz zu verstehen. Tagsüber kann sie manchmal bewusst steuern — ein Baum auf Befehl, eine kontrollierte Vorführung. Aber die Schlaf-Haine bleiben UNBEWUSST. Das Dorf-Desaster (Kap 19) passiert im Schlaf. Die Unterscheidung ist zentral: was sie tagsüber tut, beginnt sie zu kontrollieren. Was nachts passiert, entzieht sich ihr völlig. Die Trauer wächst weiter, im Schlaf, ohne Bremse.
+
 ## Struktur
 
-Die Fünf leben in der Gilden-Stadt. Schutz, Ordnung, Sprache lernen — aber jeder Tag macht klarer: die Gilden wollen etwas zurück. Die politische Landschaft entfaltet sich: Gilden (Tradition), Binder (Dämonen-Armee), Maschinisten (Magie als Industrie). Jede Fraktion will die Resonanz-Begabten. Die Beziehungen verschieben sich: Alphina und Runa finden zueinander — tastend, unsicher, ohne Spielregeln. Vesper taucht in die Zeitstrukturen von Moragh ein. Maren findet Wasser das sie versteht. Alphinas Macht wächst unkontrolliert.
+Die Fünf leben in der Gilden-Stadt. Schutz, Ordnung, Sprache lernen — aber jeder Tag macht klarer: die Gilden wollen etwas zurück. Die politische Landschaft entfaltet sich: Gilden (Tradition), Binder (Dämonen-Armee), Maschinisten (Magie als Industrie). Jede Fraktion will die Resonanz-Begabten. Die Beziehungen verschieben sich: Alphina und Runa finden zueinander — tastend, unsicher, ohne Spielregeln. Vesper taucht in die Zeitstrukturen von Moragh ein. Maren findet Wasser das sie versteht. Alphinas Macht wächst — tagsüber zunehmend kontrolliert, nachts weiterhin unkontrolliert.
 
 ## Kapitelplan
 
@@ -44,7 +48,7 @@ Elkes erste Wochen in der Gilden-Stadt. Die Meisterin die ihre Resonanz studiere
 ### Kap. 15 — Alphina (S. 274–294, ~5.000 Wörter)
 *Das Angebot der Gilden.*
 
-Die Älteste bittet zum Gespräch. Formell, höflich, ein Raum mit lebenden Wänden (die Wände atmen, wachsen, reagieren auf Stimmung). Die Gilden bieten alles: Schutz, Status, Wissen, ein Zuhause. Im Gegenzug: kämpft für uns. Die Binder rücken vor. Drei Städte verloren im letzten Monat. Die Gilden-Beschwörer sind erschöpft — ihre Reservoire leer, ihre Körper verbraucht. Alphina, die einen Wald wachsen lassen kann ohne müde zu werden, ist nicht Hilfe. Sie ist Rettung.
+Die Älteste bittet zum Gespräch. Formell, höflich, ein Raum mit lebenden Wänden (die Wände atmen, wachsen, reagieren auf Stimmung). Die Gilden bieten alles: Schutz, Status, Wissen, ein Zuhause. Im Gegenzug: kämpft für uns. Die Binder rücken vor. Drei Städte verloren im letzten Monat. Die Gilden-Beschwörer sind erschöpft — ihre Reservoire leer, ihre Körper verbraucht. Alphina, die einen Wald wachsen lassen kann ohne müde zu werden, ist nicht Hilfe. Sie ist Rettung. Aber Alphina kann ihre Resonanz noch nicht gezielt einsetzen — tagsüber reagieren Pflanzen auf sie, aber bewusste Kontrolle hat sie erst in Ansätzen. Sie BEGINNT zu verstehen, kann manchmal einen Baum wachsen lassen wenn sie sich konzentriert. Aber verlässlich? Nein. Noch nicht.
 
 Alphinas Gedanken: Sorel ist tot weil jemand ihre Resonanz wollte. Und jetzt will der nächste.
 
@@ -76,11 +80,11 @@ Maren beobachtet alles vom Fluss aus. Das Wasser erzählt ihr Dinge — Ströme 
 ### Kap. 19 — Alphina (S. 346–368, ~5.500 Wörter)
 *Das Dorf. Der Schlaf-Wald.*
 
-Die Gruppe besucht ein Gilden-Dorf, drei Stunden von der Stadt. Vorführung: die Älteste will Alphinas Resonanz zeigen. Alphina pflanzt — ein Baum, kontrolliert, in zehn Minuten. Die Dorfbewohner schweigen. Dann Applaus, dann Ehrfurcht, dann Angst. Nachts, im Gasthaus: Alphina schläft. Am Morgen ist das halbe Dorf überwuchert. Farne durch Fenster, Moos über Dächer, Ranken die Türen blockieren. Kein Schaden — aber die Botschaft: Alphina kontrolliert sich nicht.
+Die Gruppe besucht ein Gilden-Dorf, drei Stunden von der Stadt. Vorführung: die Älteste will Alphinas Resonanz zeigen. Alphina pflanzt — ein Baum, bewusst konzentriert, in zehn Minuten. Tagsüber kann sie es jetzt manchmal steuern. Die Dorfbewohner schweigen. Dann Applaus, dann Ehrfurcht, dann Angst. Nachts, im Gasthaus: Alphina schläft. Am Morgen ist das halbe Dorf überwuchert. Farne durch Fenster, Moos über Dächer, Ranken die Türen blockieren. Kein Schaden — aber die Botschaft: was Alphina TAGSÜBER beginnt zu kontrollieren, entzieht sich ihr NACHTS völlig. Die Schlaf-Haine sind unbewusst. Die Trauer wächst im Schlaf weiter, ohne Bremse.
 
 Die Dorfbewohner evakuieren. Nicht vor den Bindern. Vor ihr.
 
-Alphinas Gedanken: Sorels Tod hat etwas geöffnet. Die Trauer wächst. Buchstäblich.
+Alphinas Gedanken: Sorels Tod hat etwas geöffnet. Tagsüber kann sie es manchmal halten. Nachts bricht es durch.
 
 Eingebettet: Talven ist mitgekommen. Am Morgen, als alle den Schlaf-Wald anstarren, steht er am Rand und berührt eine der Ranken. Konzentriert sich. Sein Reservoir — mittelmäßig, ein Beschwörer-Lehrling — reicht für ein schwebendes Steinchen. Die Kopfschmerzen kommen nach dreißig Sekunden. Er lässt los. Reibt sich die Schläfen. Sieht den Hain, der eine Nacht alt ist und aussieht wie hundert Jahre. Kostenlos. Im Schlaf.
 
@@ -108,7 +112,7 @@ Eingebettet: der Binder-Spion wird enttarnt. Vesper hat gewartet, drei Züge vor
 |--------|--------|-----------|
 | Maren schmeckt Salz am stillen Punkt | Kap 13 — Thalassisches Wasser sickert durch | Akt IV — Der Wasserweg zwischen den Welten. Maren findet den Rückweg |
 | Der Maschinisten-Emissär erkennt Runa | Kap 18 — Sein Blick verändert sich | Akt III — Die Maschinisten kommen gezielt für Runa |
-| Alphinas Schlaf-Wald im Dorf | Kap 19 — Unkontrolliert, im Schlaf | Akt III — Vesper fragt: Wenn Alphina wächst und es nichts kostet — wer zahlt? |
+| Alphinas Schlaf-Wald im Dorf | Kap 19 — UNBEWUSST im Schlaf, obwohl sie tagsüber lernt zu steuern | Akt III — Die Schlaf-Haine bleiben immer unbewusst. Tagsüber: Kontrolle. Nachts: keine |
 | Vesper sieht die Zeitnaht | Kap 12 — An manchen Stellen ist die Zeit dünn | Akt IV — Vesper manipuliert die Zeit. Einmal. Der Preis ist hoch |
 | "Bei Runa ist die Welt still" | Kap 20 — Keine Magie beim Kuss | Akt III — Die Stille hat einen Grund. Runas Resonanz absorbiert Alphinas. Gegenpol |
 | Elkes Stein wird weicher | I4 — Der Basalt unter dem Garten | Akt IV — Elkes Beweis. Resonanz ist nicht kostenlos. Moragh zahlt |

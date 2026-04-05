@@ -28,11 +28,11 @@ Aber: kleine Momente. Er steht neben Alphina wenn sie den Hain wachsen lässt. S
 
 Vesper entdeckt den Reservoir-Schwund. Talven hört zu — als Lehrling, unsichtbar im Raum. Und denkt: *Die Lösung ist nicht sie einzusperren. Die Lösung ist die Resonanz zu NEHMEN. Wie Varen es mit Sorel getan hat. Nur kontrollierter.*
 
-Er sucht Varen. Allein. Nachts. Halb erholt, gebrochen, klar.
+Er sucht Varen. Allein. Nachts. Varen ist erholt, kraftvoll, interessiert — er WILL Talven helfen, weil Talven nützlich ist.
 
 "Ich kann dir zeigen wie man Resonanz ERNTET," sagt Varen. "Nicht aus einem Thalassier — aus dem was sie hinterlassen. Aus dem Boden, den Pflanzen, dem Wasser das sie berührt haben."
 
-Talven lernt. Im Geheimen. Erntet Resonanz aus Alphinas Hain. Aus dem Wasser das Maren bewegt hat. Sein Reservoir füllt sich — mit fremder Magie. Sein Körper bezahlt trotzdem: Haarausfall, ein Auge wird milchig. Geerntete Resonanz kostet MEHR als natürliche.
+Talven lernt. Im Geheimen. Erntet Resonanz aus Alphinas Hain. Aus dem Wasser das Maren bewegt hat. Sein Reservoir füllt sich — mit FREMDER Magie, die nicht zu ihm passt. Wie ein transplantiertes Organ das abgestoßen wird. Sein Körper reagiert: Haarausfall, ein Auge wird milchig. Das ist keine normale Magie-Erschöpfung. Normale Magie kostet Müdigkeit wie Sport — man ruht sich aus und ist wieder da. Resonanz-Ernte ist etwas anderes: eine Abstoßungsreaktion. Der Körper erkennt die fremde Resonanz und wehrt sich. Permanenter Schaden, der sich nicht erholt.
 
 ### Buch 3, Akt I-II — Der Verrat
 
@@ -64,4 +64,4 @@ Hilft beim Bau der Naht-Maschine. Nicht als Held — als jemand der etwas wieder
 2. **Sein Verrat ist moralisch ambivalent.** "Resonanz für alle" klingt GUT.
 3. **Er spiegelt Alphina.** Sie hat Macht ohne sie zu wollen. Er will Macht ohne sie zu haben.
 4. **Er verrät Freunde.** Das macht es schmerzhafter als Feinde zu verraten.
-5. **Sein Preis ist sichtbar.** Milchige Augen, dünne Haare, zitternde Hände. Resonanz-Ernte zerstört den Ernter. Er bezahlt was Alphina nie bezahlen muss.
+5. **Sein Preis ist sichtbar.** Milchige Augen, dünne Haare, zitternde Hände. Resonanz-Ernte ist keine normale Magie — es ist eine Abstoßungsreaktion. Fremde Magie in einem Körper der sie nicht erkennt. Wie ein Organ das nicht passt. Er bezahlt was Alphina nie bezahlen muss, und der Preis ist PERMANENT.

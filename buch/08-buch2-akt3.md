@@ -1,8 +1,12 @@
 # Buch 2 — Akt III — Der Preis (Seite 400–600, ~50.000 Wörter, 10 Kapitel + 2 Interludien)
 
+## Alphinas Kontroll-Status: BEWUSST
+
+In Akt III hat Alphina volle bewusste Kontrolle über ihre Resonanz. Tagsüber kann sie gezielt Wälder wachsen lassen, Pflanzen als Werkzeug einsetzen, kontrolliert Ranken lenken. Aber: die Schlaf-Haine bleiben IMMER unbewusst. Auch mit voller Tageskontrolle wächst nachts die Trauer weiter, unkontrolliert, ohne Bremse. Diese Spaltung — bewusste Macht am Tag, unbewusste Trauer in der Nacht — ist der Kern ihres Konflikts in Akt III.
+
 ## Struktur
 
-Die Frage kippt: von "Wer will uns?" zu "Was kosten wir?" Runa geht zu den Maschinisten — freiwillig, weil sie bieten was die Gilden nicht bieten: Verständnis für ihr Feuer. Alphina muss sie finden. Vesper entdeckt die Wahrheit: Resonanz hat einen Preis, den Moragh zahlt. Varen erholt sich. Die Binder werden zum Faktor. Maren spürt durch das Wasser einen Weg zwischen den Welten — nicht das Tor, sondern die Ströme selbst.
+Die Frage kippt: von "Wer will uns?" zu "Was kosten wir?" Runa geht zu den Maschinisten — freiwillig, weil sie bieten was die Gilden nicht bieten: Verständnis für ihr Feuer. Alphina muss sie finden. Vesper entdeckt die Wahrheit über den Reservoir-Schwund. Varen ist erholt und stärker als zuvor. Die Binder werden zum Faktor. Maren spürt durch das Wasser einen Weg zwischen den Welten — nicht das Tor, sondern die Ströme selbst.
 
 ## Kapitelplan
 
@@ -25,11 +29,11 @@ Der Garten um Alphina wächst. Zehn Meter, zwanzig, dreißig. Bäume brechen dur
 ### Kap. 23 — Vesper (S. 438–456, ~4.500 Wörter)
 *Die Anomalie.*
 
-Vesper hat die Karten studiert. Reservoirkarten der Gilden — Jahrzehnte von Daten, Magiefluss, Kapazitäten. Er sieht das Muster: überall wo die Fünf gewesen sind, sinkt das Reservoir der Umgebung. Nicht viel. Nicht schnell. Aber messbar. Alphinas Schlaf-Hain: das Reservoir im Radius von hundert Metern ist um sieben Prozent gesunken. Das Dorf das sie überwuchert hat: zwölf Prozent. Elkes Garten, nach Wochen: drei Prozent.
+Vesper hat die Karten studiert. Reservoirkarten der Gilden — Jahrzehnte von Daten, Magiefluss, Kapazitäten. Er sieht das Muster: die Reservoire sinken. ÜBERALL. Nicht nur wo die Fünf gewesen sind — in jeder Gilden-Stadt, an jeder Front, in jedem Maschinisten-Werk. Sieben Prozent hier. Zwölf Prozent dort. Drei bei Elkes Garten, aber auch drei in Regionen die kein Thalassier je betreten hat. Der Schwund ist gleichmäßig, flächendeckend. Nicht konzentriert um die Resonanz-Begabten.
 
-Resonanz kostet nichts. Aber Moragh zahlt. Die Welt selbst verliert Magie wo die Thalassier sie nutzen. Wie ein Brunnen der nicht leer wird — aber der Boden unter dem Brunnen senkt sich.
+Der Krieg frisst Moragh auf. Generationen von Übernutzung — Gilden-Beschwörer, Binder-Armeen, Maschinisten-Pressen. Die Reservoire sind erschöpft von den EIGENEN Leuten. Die Fraktionen BEHAUPTEN es liegt an den Thalassiern — bequemer Sündenbock, einfache Erklärung. Aber Vespers Daten zeigen: der Schwund war schon vor ihrer Ankunft da. Die Thalassier haben ihn nicht verursacht. Der Krieg hat ihn verursacht.
 
-Vesper rechnet. Hochgerechnet auf Jahre. Auf Jahrzehnte. Die Zahl ist hässlich.
+Vesper rechnet. Hochgerechnet auf Jahre. Auf Jahrzehnte. Die Zahl ist hässlich — mit oder ohne die Fünf.
 
 ### Kap. 24 — Maren (S. 456–472, ~4.000 Wörter)
 *Wasserströme zwischen den Welten.*
@@ -55,25 +59,25 @@ Aber: die Arbeiter. Erschöpft. Ausgehöhlt. Manche so verbraucht dass sie taume
 ### Kap. 26 — Alphina (S. 502–524, ~5.500 Wörter)
 *Vespers Wahrheit.*
 
-Vesper legt Alphina die Zahlen vor. Nüchtern, in kurzen Sätzen. Reservoirschwund. Sieben Prozent. Zwölf. Drei bei Elke, nach Wochen. "Du wächst. Moragh schrumpft." Alphinas Reaktion: Leugnung, dann Stille. Die Pflanzen um sie herum — ihr Hain, ihr Garten, ihre Farne — alles gewachsen aus Moragh selbst. Alles auf Kosten der Welt.
+Vesper legt Alphina die Zahlen vor. Nüchtern, in kurzen Sätzen. Reservoirschwund. Sieben Prozent hier. Zwölf dort. Drei bei Elke. Aber auch drei in Regionen wo kein Thalassier je war. "Moragh schrumpft. Aber nicht wegen dir. Wegen dem Krieg. Die Fraktionen geben uns die Schuld — weil es einfacher ist als zuzugeben, dass sie ihre eigene Welt aufgefressen haben."
 
-"Und die anderen?" Vesper: "Maren weniger. Wasser fließt zwischen den Welten — sie nimmt weniger, weil sie teilt. Ich — ich sehe nur. Sehen nimmt wenig." Pause. "Runa wissen wir nicht. Sie ist weg."
+Alphinas Reaktion: Erleichterung, dann Stille. Dann die nächste Frage: "Aber wir machen es nicht BESSER, oder?" Vesper: "Nein. Wir sind ein Tropfen im Ozean. Aber die Gilden brauchen keinen Ozean — sie brauchen einen Sündenbock."
 
-Alphinas Frage: "Kann ich aufhören?" Vesper: "Kannst du aufhören zu atmen?"
+Alphinas Frage: "Was können wir tun?" Vesper: "Die Wahrheit verbreiten. Die Daten zeigen dass der Schwund überall gleich ist. Nicht konzentriert um uns."
 
 ### Kap. 27 — Vesper (S. 524–540, ~4.000 Wörter)
 *Varen. Teilweise erholt.*
 
-Ein Gerücht in der Gilden-Stadt: der Binder am Tor bewegt sich wieder. Nicht stark — seine Dämonen tragen ihn noch. Aber er spricht. Er sammelt. Drei Binder haben sich ihm angeschlossen, Deserteure wie er. Er sucht nicht die Fünf — er sucht die Daten. Wie funktioniert Resonanz? Warum kostet sie nichts? Kann man sie replizieren?
+Ein Gerücht in der Gilden-Stadt: der Binder am Tor ist zurück. Erholt. Kräftig. Graue Schläfen, purpurne Augen, gut gekleidet — ein Mann der aus dem taktischen Rückzug gelernt hat. Drei Binder haben sich ihm angeschlossen, Deserteure wie er. Er sucht nicht die Fünf — er sucht die Daten. Wie funktioniert Resonanz? Warum kostet sie nichts? Kann man sie replizieren?
 
-Vesper analysiert: Varen ist nicht der Feind. Er ist ein Forscher mit der Moral eines Chirurgen. Er hat Sorel getötet um zu verstehen, nicht um zu zerstören. Das macht ihn gefährlicher.
+Vesper analysiert: Varen ist nicht der Feind. Er ist ein Forscher mit der Moral eines Chirurgen, stärker als vor dem Rückzug, weil er Zeit hatte zu denken. Er hat Sorel getötet um zu verstehen, nicht um zu zerstören. Das macht ihn gefährlicher.
 
 ### Kap. 27b — Talven (S. 540–554, ~3.500 Wörter)
 *Nachts. Allein. Zum Tor.*
 
 Talven hat Vespers Vortrag über den Reservoir-Schwund gehört. Stand im Hintergrund — Lehrling, unsichtbar, die Tasse in der Hand die er für den Gilden-Meister gebracht hat. Hat jedes Wort mitgenommen.
 
-Nachts verlässt er die Stadt. Kennt die Wege, die Wachen, die Lücken im lebenden Mauerwerk. Drei Stunden zu Fuß. Der Binder am Tor — Varen — sitzt auf einem Stein, dünn wie Papier, seine Dämonen wie Schatten um ihn. Er sieht Talven kommen und wartet.
+Nachts verlässt er die Stadt. Kennt die Wege, die Wachen, die Lücken im lebenden Mauerwerk. Drei Stunden zu Fuß. Der Binder am Tor — Varen — sitzt in einem behelfsmäßigen Raum, gut gekleidet, ein aufgeschlagenes Buch auf dem Schoß. Graue Schläfen, purpurne Augen, aufmerksam. Er sieht Talven kommen und wartet — interessiert, nicht gebrochen.
 
 Talven: "Ich bin Lehrling. Mittleres Reservoir. In zehn Jahren bin ich aufgebraucht." Varen schweigt. Talven: "Die Thalassierin wächst einen Hain im Schlaf und es kostet sie NICHTS. Ich will wissen warum."
 
@@ -106,7 +110,7 @@ Er steht auf. Die Welt ist klarer. Schärfer. Seine Hände zittern nicht mehr.
 
 Aber: am nächsten Morgen — ein Büschel Haare auf dem Kissen. Nicht viel. Genug um es zu bemerken. Er fegt es weg. Denkt: Stress. Schlafmangel. Lügt sich an.
 
-Drei Nächte später: sein linkes Auge. Im Spiegel — die Iris, die sonst dunkelbraun ist, hat einen milchigen Fleck. Klein. Am Rand. Wie eine Wolke die ins Auge zieht. Geerntete Resonanz kostet MEHR als natürliche. Sein Körper bezahlt was Alphina nie bezahlen muss.
+Drei Nächte später: sein linkes Auge. Im Spiegel — die Iris, die sonst dunkelbraun ist, hat einen milchigen Fleck. Klein. Am Rand. Wie eine Wolke die ins Auge zieht. Das ist keine normale Magie-Erschöpfung — die fühlt sich an wie Sport, geht vorbei nach einer Nacht Schlaf. Das hier ist eine Abstoßungsreaktion. Fremde Resonanz in einem Körper der sie nicht erkennt. Wie ein transplantiertes Organ. Der Schaden ist permanent. Sein Körper wehrt sich gegen die Magie die nicht seine ist.
 
 Talven zieht die Kapuze tiefer. Geht Frühstück holen. Bringt Maren Brot vom Markt.
 
@@ -115,7 +119,7 @@ Talven zieht die Kapuze tiefer. Geht Frühstück holen. Bringt Maren Brot vom Ma
 
 Alphina geht. Nicht weil die Gilden es erlauben — weil die Pflanzen ihr den Weg zeigen. Jede Pflanze in Moragh dreht sich nach ihr, und die Richtung zeigt nach Südwesten: die Maschinisten-Stadt. Elke begleitet sie. Vesper bleibt — er braucht die Bibliothek, die Karten, die Zeit. Maren bleibt — sie braucht den Fluss.
 
-Unterwegs: das Land verändert sich. Von Gilden-Ordnung zu Wildnis zu Maschinisten-Rauch. Alphina kontrolliert sich — keine Haine im Schlaf, keine Wälder aus Wut. Sie bindet sich Hände mit Stoff, als Erinnerung. Es hilft nicht. Die Pflanzen wachsen trotzdem, nur langsamer.
+Unterwegs: das Land verändert sich. Von Gilden-Ordnung zu Wildnis zu Maschinisten-Rauch. Tagsüber hat Alphina volle Kontrolle — sie lenkt Pflanzen bewusst, lässt Ranken den Weg markieren, nutzt ihre Resonanz als Werkzeug. Sie bindet sich nachts die Hände mit Stoff, als Erinnerung. Es hilft nicht. Die Schlaf-Haine wachsen trotzdem — kleiner als in Akt I, aber da. Die unbewusste Trauer lässt sich nicht binden. Tagsüber: Kontrolle. Nachts: keine.
 
 Elke: "Ich bin seit Wochen hier. Meine Resonanz kostet mich nichts. Aber der Stein unter meinem Garten wird weicher. Jedes Jahr — jede Woche, in Moragh-Zeit." Stille. "Ich nehme ihm etwas. Dem Stein. Ich weiß nicht was."
 
@@ -134,7 +138,7 @@ Was zwischen ihnen liegt: nicht gelöst. Alphinas Kontrolle greift nicht. Runas 
 
 | Detail | Akt III | Feuert in |
 |--------|---------|-----------|
-| Vespers Reservoirkarten | Kap 23 — Sieben Prozent, zwölf, drei | Akt IV — Die Hochrechnung. Alphina muss wählen: Macht oder Moragh |
+| Vespers Reservoirkarten | Kap 23 — Schwund ist überall gleich, nicht konzentriert um Thalassier | Akt IV — Die Wahrheit: der Krieg hat Moragh zerstört, nicht die Resonanz-Begabten |
 | Marens Riss am stillen Punkt | Kap 28 — Drei Sekunden Vael | Akt IV — Maren öffnet den Wasserweg. Der Preis ist hoch für Moragh |
 | Runas Presse in Moragh-Metall | Kap 30 — Sie baut eine thalassische Presse | Akt IV — Die Presse druckt auf Moragh-Papier. Information als Waffe |
 | "Kannst du aufhören zu atmen?" | Kap 26 — Vespers Frage | Akt IV — Alphina findet die Antwort: nicht aufhören. Anders atmen |

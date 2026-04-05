@@ -1,15 +1,23 @@
 # Buch 2 — Akt I — Fremde Welt (Seite 1–200, ~50.000 Wörter, 10 Kapitel + 2 Interludien)
 
+## Alphinas Kontroll-Progression
+
+**Akt I = UNBEWUSST.** Alphina kann ihre Resonanz nicht kontrollieren. Sie passiert im Schlaf, durch Trauer, durch Emotion. Die Schlaf-Haine sind rein unbewusst. Tagsüber reagieren die Pflanzen auf sie, aber sie steuert nichts aktiv.
+
+**Akt II = LERNEND.** Sie beginnt zu verstehen. Kann manchmal bewusst steuern — ein Baum hier, eine Ranke dort. Aber die Schlaf-Haine bleiben unkontrolliert. Tagsüber: wachsende Kontrolle. Nachts: keine.
+
+**Akt III = BEWUSST.** Kann gezielt Wälder wachsen lassen, Pflanzen als Werkzeug einsetzen. Tagsüber volle Kontrolle. Aber: die Schlaf-Haine bleiben IMMER unbewusst — auch in Akt III, auch in Akt IV. Nachts hat sie keine Kontrolle. Das ist der Kern: bewusst kann sie alles. Unbewusst wächst die Trauer weiter.
+
 ## Struktur
 
-Buch 2 beginnt bei Elke. Sorel ist tot (Buch 1, Akt IV). Alphinas Ausbruch hat alle verletzt. Varen hat sich zurückgezogen. Die Vier — Alphina, Vesper, Maren, Runa — sind in Elkes Garten, einer fremden Welt, mit einer Frau die ihre Sprache spricht. Akt I ist Trauer, Begreifen, Lernen. Die Perspektiven etablieren sich: Alphina dominant (Trauer als unkontrolliertes Wachstum), Maren (will zurück, das Tor ist zu), Vesper (analysiert, kartografiert, versteht zu schnell), Runa (fremd, überfordert, schwache Feuer-Resonanz die hier zum ersten Mal sichtbar wird). Die Gilden-Stadt als erster Kontakt mit Moragh-Zivilisation — aber Zivilisation hat einen Preis.
+Buch 2 beginnt bei Elke. Sorel ist tot (Buch 1, Akt IV). Alphinas Ausbruch hat alle verletzt. Varen hat sich zurückgezogen. Die Vier — Alphina, Vesper, Maren, Runa — sind in Elkes Garten, einer fremden Welt, mit einer Frau die ihre Sprache spricht. Akt I ist Trauer, Begreifen, Lernen. Alphinas Resonanz ist in diesem Akt VOLLSTÄNDIG UNBEWUSST — sie passiert im Schlaf, durch Trauer, ohne jeden willentlichen Einfluss. Die Perspektiven etablieren sich: Alphina dominant (Trauer als unkontrolliertes Wachstum), Maren (will zurück, das Tor ist zu), Vesper (analysiert, kartografiert, versteht zu schnell), Runa (fremd, überfordert, schwache Feuer-Resonanz die hier zum ersten Mal sichtbar wird). Die Gilden-Stadt als erster Kontakt mit Moragh-Zivilisation — aber Zivilisation hat einen Preis.
 
 ## Kapitelplan
 
 ### Kap. 1 — Alphina (S. 1–22, ~5.500 Wörter)
 *Elkes Garten. Die erste Nacht nach Sorel.*
 
-Elkes Garten. Pflanzen aus beiden Welten, Stein den sie geformt hat. Alphina sitzt am Boden, die Knie angezogen. Sorel ist tot. Gestern. Oder vor einer Stunde — die Zeit in Moragh fühlt sich anders an. Elke hat ihnen Decken gegeben, Wasser, Brot das nach Stein schmeckt. Alphina isst nicht. Die Trauer kommt nicht als Gefühl — als Wachstum. Im Schlaf bricht der Boden um sie herum auf. Gras, Farne, Moos. Ein Kreis von zehn Metern. Am Morgen: ein Hain. Die anderen starren. Alphina steht in der Mitte, barfuß. Sie hat nichts getan. Ihr Körper hat getrauert.
+Elkes Garten. Pflanzen aus beiden Welten, Stein den sie geformt hat. Alphina sitzt am Boden, die Knie angezogen. Sorel ist tot. Gestern. Oder vor einer Stunde — die Zeit in Moragh fühlt sich anders an. Elke hat ihnen Decken gegeben, Wasser, Brot das nach Stein schmeckt. Alphina isst nicht. Die Trauer kommt nicht als Gefühl — als Wachstum. Im Schlaf bricht der Boden um sie herum auf. Gras, Farne, Moos. Ein Kreis von zehn Metern. Am Morgen: ein Hain. Die anderen starren. Alphina steht in der Mitte, barfuß. Sie hat nichts getan. Nichts GEWOLLT. Ihr Körper hat getrauert. UNBEWUSST. Sie weiß nicht wie es passiert ist, kann es nicht wiederholen, kann es nicht stoppen.
 
 Eingebettet: Sorel. Fragmente. Seine Hand in ihrer. Die Dunkelkammer. "Darf ich?" Jetzt sieht sie ihn überall, und er ist nirgends. Und ihre Hände — die anderen haben Schnitte, Prellungen, Dornen-Narben. Von IHREM Ausbruch. Alphina hat sie verletzt, nicht Varen.
 
@@ -42,7 +50,7 @@ Elkes Perspektive, 3. Person, Präteritum. Wochen nach ihrem Durchgang (400 Thal
 ### Kap. 5 — Alphina (S. 82–102, ~5.000 Wörter)
 *Trauer als Wald.*
 
-Erste Nacht. Alphina schläft nicht. Sitzt am Feuer (Vesper hat es gemacht, mit Moragh-Holz das anders brennt — bläulich, geruchlos). Die Trauer kommt. Nicht als Gefühl — als Wachstum. Im Schlaf: der Boden um sie herum bricht auf. Gras, Farne, Moos, Ranken. Ein Kreis von zehn Metern. Am Morgen: ein Hain. Die anderen starren. Alphina steht in der Mitte, barfuß, die Erde warm unter ihren Füßen. Sie hat nichts getan. Ihr Körper hat getrauert.
+Erste Nacht. Alphina schläft nicht — oder glaubt es. Sitzt am Feuer (Vesper hat es gemacht, mit Moragh-Holz das anders brennt — bläulich, geruchlos). Die Trauer kommt. Nicht als Gefühl — als Wachstum. Irgendwann muss sie eingenickt sein: der Boden um sie herum ist aufgebrochen. Gras, Farne, Moos, Ranken. Ein Kreis von zehn Metern. Am Morgen: ein Hain. Die anderen starren. Alphina steht in der Mitte, barfuß, die Erde warm unter ihren Füßen. Sie hat nichts getan. Nichts gewollt. Ihr Körper hat im Schlaf getrauert — UNBEWUSST, ohne jeden willentlichen Einfluss.
 
 Eingebettet: Sorel. Fragmente. Seine Hand in ihrer. Die Dunkelkammer. "Die Kamera sieht Dinge die nicht da sind." Jetzt sieht sie ihn überall, und er ist nirgends.
 

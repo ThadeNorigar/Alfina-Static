@@ -2,56 +2,72 @@
 
 Er schlief nicht.
 
-Das Bett war schmal. Die Decke rau, Wolle, sie roch nach ihm — nach Öl und Messing und dem Staub der in alles kroch. Der Schlafraum war dunkel. Kein Mond. Karst war still. Die Werkstätten geschlossen, die Hämmer ruhig, der Schleifstein stumm. Nur das Ticken aus dem Nebenraum. Die zehn Uhren im Regal, gedämpft durch die Wand. Zehn verschiedene Tempi.
+Das Bett war schmal. Die Decke rau, Wolle, sie roch nach ihm — nach Öl und Messing und dem Staub der Werkstatt, der sich in alles fraß. Der Schlafraum war dunkel. Kein Mond, kein Licht von der Gasse. Karst war still. Die Werkstätten geschlossen, die Hämmer ruhig, der Schleifstein stumm. Nur das Ticken. Aus dem Nebenraum, gedämpft durch die Wand. Die zehn Uhren im Regal. Zehn verschiedene Tempi.
 
-Vesper lag auf dem Rücken. Die Augen offen. Der Turm in der rechten Hand, die Finger bewegten sich langsam, Daumen, Zeigefinger, Mittelfinger, das Holz glatt und warm.
-
-273.
-
-Die Zahl stand in seinem Kopf. Nicht als Gedanke. Als Gegenstand. Sie hatte Form und Gewicht und sie saß dort, hinter seiner Stirn, und ließ sich nicht bewegen. Er versuchte es. Dachte an die Aufzugsfeder. An Gaists Taschenuhr. An die Feder, den dritten Bogen, die Diagnose in drei Sekunden. Normale Dinge. Erklärbare Dinge.
+Vesper lag auf dem Rücken. Die Augen offen. Der Turm in der rechten Hand. Die Finger bewegten sich — Daumen, Zeigefinger, Mittelfinger. Das Holz warm von seiner Haut.
 
 273.
 
-Drei mal sieben mal dreizehn. Er zerlegte die Zahl, weil Zerlegen das war was er tat. Drei Primfaktoren. Kein Vielfaches einer Pendelschwingung. Kein Verhältnis das in der Uhrmechanik vorkam. Er kannte jede gängige Schwingungszahl, jede Übersetzung, jedes Zahnverhältnis der letzten dreihundert Jahre Uhrbaugeschichte. 273 passte in keines.
+Die Zahl stand in seinem Kopf. Nicht als Gedanke — als Gegenstand. Sie hatte Form und Gewicht. Sie saß hinter seiner Stirn und ließ sich nicht bewegen. Er versuchte es. Dachte an Gaists Taschenuhr. An die Feder, den dritten Bogen. An das Ticken das zurückkam. Normale Dinge. Erklärbare Dinge.
 
-Wenn der Fehler nicht mechanisch war — was dann?
+273.
+
+Er zerlegte. Das war was er tat — zerlegen, prüfen, verstehen. Drei mal sieben mal dreizehn. Drei Primfaktoren. Kein Vielfaches einer Pendelschwingung. Kein Zahnverhältnis das in der Uhrmechanik vorkam. Er kannte jede gängige Schwingungszahl der letzten dreihundert Jahre Uhrbaugeschichte. Bücher, Tabellen, Erfahrung. 273 passte in keine.
+
+Es gab Möglichkeiten die er noch nicht geprüft hatte. Magnetismus — ein Eisenerzvorkommen unter dem Haus, das das Pendel beeinflusste. Möglich, aber Magnetismus erzeugte keine konstante Abweichung. Mikrovibrationen — der Mann hatte gesagt, das Haus stehe auf Purpurstein, massiv. Materialermüdung im Pendeldraht — nach hundertfünfzig Jahren denkbar, aber progressiv, nicht konstant.
+
+Jede Erklärung führte zum selben Punkt. Der Versatz war zu konstant. Zu präzise. Kein physikalischer Prozess erzeugte dieselbe Abweichung, jeden Tag, auf die Sekunde. Physik schwankte. Physik hatte Toleranzen.
+
+4:33 hatte keine Toleranz.
 
 Der Turm drehte sich schneller.
 
-Er setzte sich auf. Schwang die Beine über die Bettkante. Der Boden war kalt unter seinen Füßen, Stein, und die Kälte kroch durch die Sohlen. Er saß auf der Bettkante, im Dunkeln, die Hände auf den Knien. Der Turm zwischen Daumen und Zeigefinger der rechten Hand.
+Vesper setzte sich auf. Schwang die Beine über die Bettkante. Der Boden war kalt unter seinen nackten Füßen. Stein. Die Kälte kroch durch die Sohlen, in die Knöchel. Er saß auf der Bettkante, im Dunkeln, die Hände auf den Knien. Die Luft war kalt genug für Atem, den er nicht sehen konnte.
 
-Es gab Möglichkeiten die er nicht geprüft hatte. Magnetismus — ein Eisenerzvorkommen unter dem Haus, das das Pendel beeinflusste. Möglich. Aber Magnetismus erzeugte keine konstante Abweichung. Erdbeben, Mikrovibrationen — der Mann hatte gesagt, das Haus stehe auf Purpurstein. Massiv. Keine Vibrationen. Materialermüdung im Pendeldraht — nach hundertfünfzig Jahren denkbar, aber das wäre progressiv, nicht konstant.
+Die zehn Uhren tickten.
 
-Jede Erklärung führte zum selben Punkt: der Versatz war zu konstant. Zu präzise. Kein physikalischer Prozess erzeugte dieselbe Abweichung, jeden Tag, auf die Sekunde. Physik schwankte. Physik hatte Toleranzen. 4:33 hatte keine Toleranz.
+Er dachte an den Mann. An die marineblauen Augen. An den Blick, der gemessen hatte. An die Hände ohne Hornhaut. An die Stimme die sagte: "Es gibt keinen Fehler." Und an die Art wie er es gesagt hatte — leise, langsam, als wäre der Satz nicht eine Antwort, sondern eine Tür die er aufhielt.
 
-Also kein physikalischer Prozess.
-
-Vesper stand auf. Ging in die Werkstatt. Dunkel. Die Uhren tickten. Er zündete die Lampe nicht an. Stand im Dunkeln, barfuß auf dem kalten Boden, und die zehn Uhren tickten um ihn herum, jede ihr eigenes Tempo, und sein Atem war in der Luft, weiß, kurz, November.
-
-Auf dem Regal stand das Schachbrett. Er konnte es nicht sehen. Er wusste trotzdem wo die Figuren standen. Jede einzelne. Die drei Bauern auf der Diagonale — d4, e5, f6. Drei Jahre, unberührt. In einer Stellung die niemand geplant hatte.
-
-Damals hatte er aufgehört. Hatte Remis angeboten, das Brett zugeklappt, Uhren repariert. Sechs Jahre erklärbare Muster. Sechs Jahre Sicherheit.
-
-Jetzt stand eine Zahl in seinem Kopf. 273. In einer Stadt die er nicht kannte. In einer Uhr die keinen Fehler hatte.
-
-Er konnte Remis anbieten. Konnte die Zahl ignorieren, morgen Gaists Uhr herausgeben, auf den nächsten Auftrag warten. Konnte die zehn Uhren ticken lassen und die Werkbank sauberwischen und den Turm in der Tasche drehen und nicht hinsehen. Sechs Jahre lang hatte das funktioniert.
+Es gibt keinen Fehler.
 
 Der Turm lag still in seiner Hand.
 
-Vesper ging in den Schlafraum. Öffnete den Schrank. Der Koffer stand dort, Leder, die Schnallen aus Messing. Daneben drei Hemden, gefaltet. Eine Hose. Rasiermesser. Seife.
+Vesper stand auf. Ging in die Werkstatt. Dunkel. Die Uhren tickten, lauter hier, zehn Stimmen ohne Chor. Er zündete die Lampe nicht an. Stand barfuß auf dem kalten Boden und ließ seine Augen sich anpassen. Die Werkbank, ein Schatten. Das Regal, ein Schatten. Die Uhren, zehn kleine Gesichter hinter Glas.
 
-Er packte. Hemden, Hose, Rasiermesser. Werkzeugrolle — Pinzetten, Schraubendreher, Lupe, Ölfläschchen, Zahnräder in einem Samtbeutel. Er kannte jedes Stück. Die Hände arbeiteten schnell, ohne Zögern, jedes Teil an seinen Platz. Drei Minuten. Die Schnallen klickten.
+Auf dem Regal, neben den Uhren, das Schachbrett. Er konnte es nicht sehen. Er wusste trotzdem wo die Figuren standen. Jede einzelne. Die drei Bauern auf der Diagonale — d4, e5, f6. Drei Jahre, unberührt. In einer Stellung die niemand geplant hatte.
 
-Er stellte den Koffer an die Tür. Zog den Mantel an. Dunkel, schwer. Die Taschen tief genug für den Turm.
+Damals hatte er aufgehört. Brett zugeklappt. Uhren repariert. Sechs Jahre erklärbare Muster.
+
+Jetzt stand eine Zahl in seinem Kopf. In einer Stadt die er nicht kannte. In einer Uhr die keinen Fehler hatte. Und ein Mann mit marineblauen Augen hatte sie dort hingelegt, beiläufig, zwischen zwei Schlucken Bier, als wüsste er genau was die Zahl in Vespers Kopf anrichten würde.
+
+Er konnte Remis anbieten. Die Zahl ignorieren. Morgen Gaists Uhr herausgeben. Auf den nächsten Auftrag warten, der kommen würde, irgendwann. Die zehn Uhren ticken lassen. Den Turm drehen. Nicht hinsehen.
+
+Sechs Jahre lang hatte das funktioniert.
+
+Der Turm lag still.
+
+Vesper ging in den Schlafraum. Öffnete den Schrank. Der Koffer stand dort — Leder, klein, die Schnallen aus Messing, stumpf vom Liegen. Er hatte ihn seit zwei Jahren nicht benutzt. Daneben: drei Hemden, gefaltet, identisch. Eine Hose. Rasiermesser. Seife.
+
+Er packte. Die Hände arbeiteten schnell. Hemden, Hose, Rasiermesser. Werkzeugrolle — Pinzetten, Schraubendreher, Lupe, Ölfläschchen. Den Samtbeutel mit den Zahnrädern. Dreiunddreißig Stück, gesammelt über Jahre. Er kannte jedes einzelne — Größe, Zähne, Übersetzung. Dreiunddreißig erklärbare Dinge.
+
+Drei Minuten. Die Schnallen klickten.
+
+Er stellte den Koffer an die Tür. Zog den Mantel an. Schwer, dunkel. Die Taschen tief. Der Turm glitt hinein, links, wo er immer lag.
 
 Die Werkstatt im Dunkeln. Die zehn Uhren tickten. Der Koffer an der Tür. Das Schachbrett auf dem Regal, unsichtbar. Die Werkbank, leer.
 
-Vesper stand in der Tür. Drehte sich nicht um.
+Vesper stand in der Tür. Hinter ihm die Werkstatt, in der er sechs Jahre lang Muster repariert hatte, die einen Grund hatten. Vor ihm die Gasse, nass, und dahinter eine Kutsche nach Norden und dahinter eine Stadt am Meer und dahinter eine Uhr, die 273 Sekunden pro Tag verlor, ohne Grund.
 
-Draußen war Karst still. Die Laternen brannten auf dem Gildenplatz, gelb, und ihr Licht lag auf dem nassen Kopfsteinpflaster. Novemberluft — Rauch, Frost, der ferne Geruch von Metall der nie ganz verschwand. Sein Atem war weiß.
+Er drehte sich nicht um.
 
-Er ging. Richtung Poststation. Die Morgenkutsche nach Norden fuhr um sechs. Vier Tage bis zur Grauküste. Vier Tage für eine Uhr die kein Uhrmacher reparieren konnte, in einer Stadt die er nicht kannte, weil ein Mann mit marineblauen Augen und zu sauberen Händen ihm eine Zahl in den Kopf gelegt hatte, die nicht verschwand.
+Draußen war Karst still und kalt. Die Laternen brannten auf dem Gildenplatz, gelb auf nassem Stein. Novemberluft — Rauch, Frost, der ferne Geruch von Metall, der nie ganz verschwand. Sein Atem war weiß.
+
+Er schloss die Tür. Der Schlüssel drehte sich im Schloss. Ein sauberes Klicken. Ein Mechanismus der funktionierte.
+
+Vesper ging. Richtung Poststation. Die Morgenkutsche nach Norden fuhr um sechs. Vier Tage bis zur Grauküste. Vier Tage, weil ein Mann ihm eine Zahl in den Kopf gelegt hatte, die nicht verschwand.
 
 273.
 
-Seine Schritte hallten auf dem Pflaster. Der Turm lag in seiner Tasche. Still. Die Uhren in seiner Werkstatt tickten hinter ihm, zehn verschiedene Tempi, und Vesper ging, und mit jedem Schritt wurde das Ticken leiser, bis es verschwand, und dann war nur noch die Nacht und sein Atem und das Pflaster unter seinen Schuhen und die Zahl in seinem Kopf.
+Seine Schritte hallten auf dem Pflaster. Gleichmäßig. Präzise. Der Turm lag in seiner Tasche. Die Uhren in seiner Werkstatt tickten hinter ihm, zehn verschiedene Tempi, und mit jedem Schritt wurden sie leiser, bis sie verschwanden.
+
+Dann war nur noch die Nacht und sein Atem und die Zahl.

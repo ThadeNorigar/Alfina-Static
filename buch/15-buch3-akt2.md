@@ -106,13 +106,13 @@ Talven geht. Runa druckt weiter.
 ### Interludium XII (~S. 362, ~2.000 Wörter)
 *Varen. Der Schüler.*
 
-Varen in seiner Höhle am Tor. Dünner als je zuvor. Die Haut transparent — man sieht die Adern, die Knochen, die Dämonen die in ihm wohnen. Er hat Talven unterrichtet. Drei Monate. Und jetzt sieht er was der Junge damit gemacht hat.
+Varen in seinem Quartier am Tor. Erholt, gut gekleidet, ein Buch in der Hand. Graue Schläfen, purpurne Augen, das Gesicht eines Mannes der nachgedacht hat und zu einem Schluss gekommen ist. Er hat Talven unterrichtet. Drei Monate. Und jetzt sieht er was der Junge damit gemacht hat.
 
 "Ich habe ihm gezeigt wie man erntet. Nicht wie man verteilt." Stille. "Verteilung ist Verschwendung. Resonanz in einem fremden Reservoir zerfällt. Der Zerfall frisst Moragh. Er hat es nicht verstanden."
 
 Er hätte es verhindern können. Hat er nicht. Weil Talven sein Experiment ist — ein Moragh-Geborener mit geernteter Resonanz. Die Daten, die Varen braucht, um die Naht zwischen den Welten zu verstehen.
 
-"Ich habe wieder den Falschen gewählt." Er sieht auf seine Hände. Transparent. "Nein. Ich habe den Richtigen gewählt. Der Richtige macht die falschen Dinge. Wie immer."
+"Ich habe wieder den Falschen gewählt." Er sieht auf seine Hände — kräftig, gepflegt. "Nein. Ich habe den Richtigen gewählt. Der Richtige macht die falschen Dinge. Wie immer."
 
 ### Kap. 59 — Alphina (S. 366–386, ~5.000 Wörter)
 *Talven. Die Konfrontation.*

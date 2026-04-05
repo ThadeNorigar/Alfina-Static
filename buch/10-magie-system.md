@@ -16,9 +16,11 @@ Keine Erschöpfung. Kein Nasenbluten. Kein Hunger. Kein versteckter Preis. Kein 
 
 DAS ist der Konflikt. Nicht ein versteckter Preis — die UNGERECHTIGKEIT selbst. Jeder Moragh-Mensch bezahlt für jeden Zauber mit seinem Körper. Die Thalassier nicht. Das ist nicht fair. Es war nie fair. Es muss nicht fair sein.
 
-**Moragh zerfällt — aber nicht wegen der Thalassier.** Moragh zerfällt wegen dem KRIEG. Generationen von Magie-Übernutzung durch die eigenen Fraktionen. Die Reservoire sind erschöpft. Die Welt ist müde — von IHREN EIGENEN Leuten. Die Resonanz-Begabten sind kein Gift. Sie sind eine potenzielle Lösung — oder eine Waffe.
+**Moragh zerfällt — aber nicht wegen der Thalassier.** Moragh zerfällt wegen dem KRIEG. Generationen von Magie-Übernutzung durch die eigenen Fraktionen. Die Reservoire sind erschöpft. Die Welt ist müde — von IHREN EIGENEN Leuten. Die Resonanz-Begabten sind kein Gift. Sie sind eine potenzielle Lösung — oder eine Waffe. **Vespers Daten zeigen: der Schwund ist ÜBERALL gleich — nicht konzentriert um die Thalassier.** Die Fraktionen behaupten das Gegenteil, weil sie einen Sündenbock brauchen.
 
 **Moragh-Geborene zahlen mit dem Körper.** Wie Sport. Müdigkeit, Muskelkater, Hunger. Erst bei Übergebrauch: Nasenbluten etc. Das Reservoir füllt sich durch Ruhe.
+
+**Resonanz-ERNTE ist KEINE normale Magie.** Resonanz-Ernte (Binder-Technik, von Varen entwickelt) ist eine perverse, unnatürliche Methode. Der Ernter füllt sein Reservoir mit FREMDER Magie die nicht zu ihm passt — wie ein transplantiertes Organ das abgestoßen wird. Der Körper erkennt die fremde Resonanz und reagiert mit Abstoßung: Haarausfall, milchige Augen, Zittern, beschleunigtes Altern. Das ist kein normaler Magie-Preis. Das ist eine Autoimmunreaktion. Normale Moragh-Magie = Müdigkeit wie nach Sport, erholt sich durch Ruhe. Resonanz-Ernte = permanenter Schaden, der sich nicht erholt.
 
 **Nach Wiedervereinigung (Buch 3, Finale):** Magie existiert überall. Kostet überall. Für alle. Auch für die ehemaligen Thalassier.
 
@@ -158,7 +160,7 @@ Selten. Kosten ALLE drei massiv. Max 2-3 Mal in der ganzen Trilogie.
 
 1. **Magie kommt aus der Umgebung, nicht aus dem Körper.** Alphina wachsen keine Pflanzen aus den Händen. Der BODEN reagiert auf sie.
 2. **Thalassier zahlen KEINEN persönlichen Preis.** Kein Nasenbluten, kein Hunger, keine Erschöpfung. NICHTS. Das ist der Punkt. Das ist was sie bedrohlich macht.
-3. **Moragh zahlt.** Jede Resonanz-Nutzung schwächt die Welt. Messbar. Über Wochen.
+3. **Moragh zahlt — aber hauptsächlich für den KRIEG.** Der Reservoir-Schwund ist flächendeckend und durch Generationen von Übernutzung der eigenen Fraktionen verursacht. Die Thalassier sind ein Tropfen im Ozean, kein Parasit. Die Fraktionen nutzen sie als Sündenbock.
 4. **Moragh-Geborene zahlen mit dem Körper — aber wie bei Sport, nicht wie bei Folter.**
    - Normale Nutzung: Müdigkeit, Muskelkater, Hunger. Schlafen, essen, fertig.
    - Schwere Nutzung (Kampf, große Beschwörung): Erschöpfung wie nach einem Marathon. Tage Erholung.

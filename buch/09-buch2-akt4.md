@@ -9,9 +9,9 @@ Die Wahrheit liegt auf dem Tisch: Resonanz zerstört Moragh. Jede Fraktion reagi
 ### Kap. 31 — Alphina (S. 600–624, ~6.000 Wörter)
 *Vor dem Gilden-Rat. Die Wahrheit.*
 
-Alphina und Vesper vor dem Gilden-Rat. Zwanzig Älteste, lebende Wände, ein Raum der auf Stimmung reagiert (die Wände ziehen sich zusammen als Vesper spricht). Vesper legt die Daten vor: Reservoirkarten, Schwundwerte, Hochrechnungen. Elke steht daneben, die Hand auf dem Stein der Ratsmauer. "Fühlt," sagt sie. Die Ältesten fühlen. Der Stein unter Elkes Hand: weicher als er sein sollte. Seit Wochen. Seit Elke.
+Alphina und Vesper vor dem Gilden-Rat. Zwanzig Älteste, lebende Wände, ein Raum der auf Stimmung reagiert (die Wände ziehen sich zusammen als Vesper spricht). Vesper legt die Daten vor: Reservoirkarten, Schwundwerte, Hochrechnungen. Die zentrale Erkenntnis: der Schwund ist ÜBERALL gleich. Nicht konzentriert um die Thalassier. Nicht verursacht durch Resonanz-Begabte. Verursacht durch den Krieg. Durch Generationen von Übernutzung. Elke steht daneben, die Hand auf dem Stein der Ratsmauer. "Fühlt," sagt sie. Die Ältesten fühlen. Der Stein unter Elkes Hand: weicher als er sein sollte. Seit Wochen. Aber auch der Stein unter dem Ratsgebäude ist weicher — dort wo kein Thalassier je war.
 
-Die Älteste — dieselbe die Alphinas Hand gegriffen hat — schweigt lange. Dann: "Wie lange?" Vesper: "Wenn Alphina bleibt und wächst wie bisher — Jahrzehnte, vielleicht. Wenn alle vier bleiben — schneller." Stille. "Aber wenn wir den Krieg verlieren, ist es egal."
+Die Älteste — dieselbe die Alphinas Hand gegriffen hat — schweigt lange. Dann: "Wie lange?" Vesper: "Der Krieg frisst Moragh auf. Ob wir bleiben oder gehen ändert die Rechnung kaum." Die Älteste will das nicht hören. Einfacher, den Thalassiern die Schuld zu geben. "Aber wenn wir den Krieg verlieren, ist es egal."
 
 Die Gilden entscheiden: Resonanz nutzen. Den Krieg gewinnen. Moragh später reparieren. Alphina hört das Wort "nutzen" und denkt an Sorel. An Varen der dasselbe wollte.
 
@@ -56,7 +56,7 @@ Elke gräbt. Unter dem Garten: eine Höhle, die es vorher nicht gab. Der Boden h
 
 Varen schickt einen Boten — ein gebundenes Wesen, klein, unterwürfig, mit einer Nachricht in verdrehtem Thalassisch. "Treffen. Neutral. Allein." Elke übersetzt. Alphina geht. Nicht allein — Vesper hinter ihr, unsichtbar, drei Züge voraus.
 
-Varen: aufrecht, aber kaum. Dünner als bei der ersten Begegnung. Die Haut transparenter. Er hat Sorels Resonanz studiert — die Resonanz die er aus ihm gerissen hat. "Ich verstehe jetzt. Teilweise. Eure Resonanz verbraucht Moragh. Wie ein Parasit. Nicht bösartig — strukturell. Ihr gehört nicht hierher, und die Welt verbrennt sich an euch."
+Varen: aufrecht, charmant, erholt. Breiter als bei der ersten Begegnung — er hat gegessen, geschlafen, nachgedacht. Graue Schläfen, purpurne Augen die mustern ohne zu blinzeln. Er hat Sorels Resonanz studiert — die Resonanz die er aus ihm gerissen hat. "Ich verstehe jetzt. Teilweise. Eure Resonanz verbraucht Moragh. Wie ein Parasit. Nicht bösartig — strukturell. Ihr gehört nicht hierher, und die Welt verbrennt sich an euch." — Varens Behauptung. Alphina hört zu. Vespers Daten sagen etwas anderes: der Schwund ist überall gleich, nicht konzentriert um die Thalassier. Varen WILL glauben, dass die Thalassier schuld sind. Es passt in sein Weltbild. Aber die Zahlen widersprechen ihm.
 
 Sein Angebot: Information gegen Information. Er weiß wie Resonanz funktioniert — warum sie kostenlos ist für den Träger, warum Moragh zahlt. Im Gegenzug: Alphina zeigt ihm ihre Resonanz. Kontrolliert. Messbar. Er will nicht angreifen. Er will begreifen.
 
@@ -76,20 +76,18 @@ Runa nimmt die Presse mit. Die thalassische Presse in Moragh-Metall. Sie wiegt s
 
 Alle zusammen. Elkes Garten — der Garten auf dem porösen Stein, dem sterbenden Fundament. Vesper legt die Daten vor. Maren berichtet vom Wasserweg. Runa erzählt von den Maschinisten. Elke zeigt den Boden. Alphina hört zu.
 
-Die Fakten: Resonanz zerstört Moragh. Langsam, aber sicher. Bleiben heißt die Welt auszehren. Gehen — wohin? Das Tor ist zu. Marens Wasserweg ist schmal, fragil, und kostet Moragh Reservoir. Es gibt keinen Weg der nichts kostet.
+Die Fakten: Moragh stirbt. Aber nicht wegen der Thalassier — wegen dem Krieg. Generationen von Übernutzung durch die eigenen Fraktionen. Vespers Daten zeigen den Schwund überall, gleichmäßig, flächendeckend. Die Fraktionen geben den Thalassiern die Schuld, weil es einfacher ist. Varen BEHAUPTET dasselbe — Thalassier als Leck, als Parasit. Aber Vespers Zahlen widerlegen ihn: der Schwund war schon da, lange bevor die Fünf durchgegangen sind. Gehen löst das Problem nicht. Bleiben verschlimmert es nicht.
 
-Varen hat erklärt warum: Thalassier in Moragh sind ein Leck. Ihre Resonanz zieht Magie aus der Welt wie ein Riss im Gefäß. Nicht weil sie böse sind — weil sie nicht hierhergehören. Die Struktur der Welten erlaubt keine kostenlosen Geschenke.
-
-Alphinas Frage — die einzige die zählt: "Kann ich bleiben und weniger nehmen?"
+Alphinas Frage — die einzige die zählt: "Was können wir tun, das hilft?"
 
 ### Kap. 38 — Vesper (S. 762–780, ~4.500 Wörter)
 *Die eine Zeitlinie die er fast übersehen hat.*
 
 Vesper in der Bibliothek. Letzte Nacht. Er sucht die Zeitlinie die beides erlaubt — Alphina und Moragh. Er hat sie nicht gesehen. Aber er hat auch nicht alles gesehen. Die Zeit in Moragh spiralt. Manche Spiralen sind verdeckt.
 
-Er drückt tiefer. Sieht weiter. Dort — am Rand, fast unsichtbar: eine Linie in der Alphina bleibt, aber ihre Resonanz sich verändert. Nicht verschwindet — transformiert. Von Parasit zu Symbiose. Wie Elkes Garten: Pflanzen aus beiden Welten, die zusammen wachsen. Nicht kostenlos — aber im Gleichgewicht.
+Er drückt tiefer. Sieht weiter. Dort — am Rand, fast unsichtbar: eine Linie in der die Thalassier bleiben und ihre Resonanz Teil von Moragh wird. Nicht Fremdkörper — Symbiose. Wie Elkes Garten: Pflanzen aus beiden Welten, die zusammen wachsen. Im Gleichgewicht.
 
-Was es braucht: Alphina müsste aufhören zu NEHMEN und anfangen zu GEBEN. Ihre Resonanz nicht als Werkzeug — als Austausch. Wachsen lassen, und dafür etwas zurückgeben. Was, kann Vesper nicht sehen. Die Zeitlinie ist dünn. Fragil. Wie Marens Wasserweg.
+Was es braucht: nicht weniger nehmen — aktiv GEBEN. Alphinas Resonanz nicht als Werkzeug, sondern als Austausch. Wachsen lassen, und Moragh gleichzeitig stärken statt schwächen. Die Thalassier als Heilung für den Kriegsschaden, nicht als weiterer Schaden. Was, kann Vesper nicht sehen. Die Zeitlinie ist dünn. Fragil. Wie Marens Wasserweg.
 
 ### Interludium VIII (~S. 790, ~2.000 Wörter)
 *Elke schreibt. An Johann, an Lene, an Kaspar. Briefe die nie ankommen.*
@@ -111,9 +109,9 @@ Sie könnte bleiben und aufhören. Sich binden. Keine Resonanz. Moragh heilen la
 
 Oder: Vespers Zeitlinie. Bleiben und ANDERS wachsen. Nicht nehmen — geben. Ihre Pflanzen nicht AUS Moragh ziehen, sondern MIT Moragh wachsen lassen. Sie weiß nicht wie. Niemand weiß wie. Aber die dünne Linie existiert.
 
-Alphina wählt. Nicht laut. Nicht heroisch. Sie kniet im Wald, die Hände auf dem weichen Boden, und statt zu ziehen — drückt sie. Gibt zurück. Kraft, Resonanz, etwas das sie nicht benennen kann. Die Erde unter ihren Händen wird fester. Ein Zentimeter. Zwei. Es kostet sie etwas — zum ersten Mal. Nicht Erschöpfung. Etwas anderes. Eine Begrenzung. Ein Ende der Endlosigkeit.
+Alphina wählt. Nicht laut. Nicht heroisch. Sie kniet im Wald, die Hände auf dem weichen Boden, und statt zu ziehen — drückt sie. Gibt zurück. Kraft, Resonanz, etwas das sie nicht benennen kann. Die Erde unter ihren Händen wird fester. Ein Zentimeter. Zwei. Es kostet sie nichts. Kein Preis. Kein Schmerz. Das ist der Punkt — sie KÖNNTE endlos nehmen, und sie WÄHLT zurückzugeben. Nicht weil ihr Körper es verlangt, sondern weil sie gesehen hat was ihre Macht dem Boden antut. Die Entscheidung ist moralisch. Das Ende der Endlosigkeit ist eine Grenze die sie sich selbst setzt.
 
-Die Pflanzen um sie herum wachsen langsamer. Aber sie wachsen.
+Die Pflanzen um sie herum wachsen langsamer. Weil sie es so will. Nicht weil sie muss.
 
 ### Kap. 40 — Alle (S. 850–900, ~12.500 Wörter)
 *Offene Enden. Letzte Seiten.*
@@ -126,7 +124,7 @@ Vier Abschnitte, vier Enden, keines geschlossen.
 
 **Runa** (S. 878–890): Runa an ihrer Presse. In Elkes Garten, unter freiem Himmel. Sie druckt — auf Moragh-Papier, in Thalassien-Schrift. Was sie druckt: die Wahrheit. Reservoirkarten. Vespers Daten. Die Kosten der Resonanz. Für alle drei Fraktionen. Kael hat gesagt: "Du kommst zurück." Runa druckt die Wahrheit, damit sie nicht zurück muss. Damit alle wissen. Damit niemand mehr sagen kann, er hätte es nicht gewusst. Die Druckerin als Waffe — nicht Feuer, nicht Metall. Information.
 
-**Alphina** (S. 890–900): Alphina im Garten. Elkes Garten, jetzt auch ihrer. Der Boden ist fester als gestern. Nicht viel. Aber messbar. Sie kniet, Hände auf der Erde. Geben statt nehmen. Es kostet sie. Jeden Tag ein bisschen mehr. Jeden Tag ein bisschen weniger endlos.
+**Alphina** (S. 890–900): Alphina im Garten. Elkes Garten, jetzt auch ihrer. Der Boden ist fester als gestern. Nicht viel. Aber messbar. Sie kniet, Hände auf der Erde. Geben statt nehmen. Es kostet sie nichts — physisch. Der Preis ist die Entscheidung selbst. Jeden Tag wählt sie zurückzuhalten, obwohl ihr Körper mehr könnte. Jeden Tag die Wahl, nicht die Erschöpfung.
 
 Runa neben ihr, Hände in den Taschen, warm. "Funktioniert es?" Alphina: "Ich weiß nicht." Runa: "Probierst du es trotzdem?" Alphina hebt die Hand. Ein Farn wächst. Langsam. Aus dem Stein. Der Stein gibt nach — und wird nicht weicher.
 
@@ -138,7 +136,7 @@ Letzte Zeile: Zwei Monde am Himmel. Die Luft schmeckt nach etwas das sie jetzt k
 
 | Detail aus Akt I/II/III | Feuert in Akt IV |
 |------------------------|------------------|
-| "Das kostet dich nichts, oder?" (Akt I) | Kap 39 — Jetzt kostet es. Alphina gibt zurück |
+| "Das kostet dich nichts, oder?" (Akt I) | Kap 39 — Es kostet sie immer noch nichts. Aber sie WÄHLT zurückzugeben |
 | Alphinas Schlaf-Hain (Akt I) | Kap 39 — Der Wald steht auf porösem Boden. Der Preis war immer da |
 | Maren schmeckt Salz (Akt II) | Kap 34/40 — Der Wasserweg. Salz als Brücke zwischen den Welten |
 | Runas Messing-Type (Akt I) | Kap 40 — Die Presse. Information als Waffe. Die Druckerin druckt |
@@ -149,4 +147,4 @@ Letzte Zeile: Zwei Monde am Himmel. Die Luft schmeckt nach etwas das sie jetzt k
 | Vespers Zeitlinien (Akt III) | Kap 33/38 — Die eine Linie die beides erlaubt. Dünn, fragil, möglich |
 | Varen als Forscher (Akt III) | Kap 35 — Sein Deal. Information gegen Information. Kein Kampf, kein Sieg |
 | "Hier bist du mehr" (Akt I) | Kap 40 — Runa ist am meisten sie selbst: Druckerin. Nicht Quelle, nicht Waffe |
-| Alphina bindet sich die Hände (Akt III) | Kap 39 — Sie bindet sich nicht mehr. Sie wählt. Offene Hände auf offener Erde |
+| Alphina bindet sich die Hände (Akt III) | Kap 39 — Sie bindet sich nicht mehr. Sie wählt. Offene Hände, offene Erde, moralische Grenze statt physischer |
