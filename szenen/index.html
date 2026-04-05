@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Die Schwelle — Szenen</title>
+  <link rel="stylesheet" href="../styles.css">
+  <style>
+    :root {
+      --cream: #f5f0e8;
+      --warm: #ebe4d8;
+      --ink: #1e1c19;
+      --muted: #6b6259;
+      --accent: #6b3a3a;
+      --accent-faint: rgba(107, 58, 58, 0.06);
+      --deep: #0f0e0c;
+      --smoke: #8a8279;
+      --paper: #f8f4ee;
+      --paper-edge: #e8e0d4;
+    }
+
+    body {
+      background: var(--deep);
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      min-height: 100vh;
+      padding: 2rem 1rem;
+    }
+
+    nav { display: none; }
+
+    .book {
+      position: relative;
+      width: 100%;
+      max-width: 700px;
+      background: var(--paper);
+      box-shadow:
+        0 0 0 1px var(--paper-edge),
+        -4px 0 8px rgba(30,28,25,0.08),
+        4px 0 8px rgba(30,28,25,0.08),
+        0 12px 40px rgba(0,0,0,0.3);
+      border-radius: 2px 6px 6px 2px;
+      overflow: hidden;
+    }
+
+    .book::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 0; bottom: 0;
+      width: 3px;
+      background: linear-gradient(180deg, var(--paper-edge) 0%, #c8bfb0 50%, var(--paper-edge) 100%);
+      z-index: 10;
+    }
+
+    .scene-header {
+      padding: 4rem 3rem 2rem;
+      text-align: center;
+      border-bottom: 1px solid var(--accent-faint);
+    }
+
+    .scene-id {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.75rem;
+      letter-spacing: 0.35em;
+      text-transform: uppercase;
+      color: var(--smoke);
+      margin-bottom: 0.8rem;
+    }
+
+    .scene-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(1.4rem, 4vw, 2rem);
+      font-weight: 400;
+      letter-spacing: 0.1em;
+      color: var(--ink);
+      line-height: 1.4;
+    }
+
+    .prose {
+      padding: 2rem 3rem 2rem 3.5rem;
+    }
+
+    .prose p {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.1rem;
+      line-height: 1.9;
+      color: var(--ink);
+      margin-bottom: 0.8rem;
+    }
+
+    .prose em { font-style: italic; }
+
+    .page-nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.5rem 3rem 2rem;
+      border-top: 1px solid var(--accent-faint);
+    }
+
+    .page-nav a, .page-nav span {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.85rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      text-decoration: none;
+      color: var(--smoke);
+      transition: color 0.3s;
+      padding: 0.6rem 1rem;
+    }
+
+    .page-nav a:hover { color: var(--ink); }
+    .page-nav .disabled { opacity: 0.2; pointer-events: none; }
+    .page-nav .page-info { font-size: 0.75rem; color: var(--smoke); letter-spacing: 0.1em; }
+
+    .book-footer {
+      text-align: center;
+      padding: 1rem;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.7rem;
+      color: var(--smoke);
+      opacity: 0.4;
+    }
+
+    .book.enter { animation: pageEnter 0.4s ease-out; }
+    @keyframes pageEnter {
+      from { opacity: 0; transform: perspective(1200px) rotateY(2deg); }
+      to { opacity: 1; transform: perspective(1200px) rotateY(0deg); }
+    }
+
+    @media (max-width: 600px) {
+      body { padding: 0.5rem; }
+      .scene-header { padding: 2.5rem 1.5rem 1.5rem; }
+      .prose { padding: 1.5rem; padding-left: 2rem; }
+      .page-nav { padding: 1rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="grain"></div>
+
+  <div class="book enter" id="book">
+    <div class="scene-header">
+      <div class="scene-id" id="scene-id"></div>
+      <h1 class="scene-title" id="scene-title"></h1>
+    </div>
+
+    <div class="prose" id="scene-content"></div>
+
+    <div class="page-nav">
+      <a href="#" id="prev-link" class="disabled">&larr; Zurück</a>
+      <span class="page-info" id="page-info"></span>
+      <a href="#" id="next-link" class="disabled">Weiter &rarr;</a>
+    </div>
+
+    <div class="book-footer">
+      Szenen-Definitionen · Akt I
+    </div>
+  </div>
+
+  <script>
+    const scenes = [
+      '01-01','01-02','01-03',
+      '02-01','02-02','02-03',
+      '03-01','03-02','03-03',
+      '04-01','04-02','04-03',
+      'I1-01','I1-02',
+      '05-01','05-02',
+      '06-01','06-02',
+      '07-01','07-02',
+      '08-01','08-02',
+      'I2-01',
+      '09-01','09-02',
+      '10-01',
+      '11-01','11-02'
+    ];
+
+    const params = new URLSearchParams(window.location.search);
+    const current = params.get('s') || scenes[0];
+    const idx = scenes.indexOf(current);
+
+    if (idx === -1) {
+      document.getElementById('scene-title').textContent = 'Szene nicht gefunden';
+      document.getElementById('scene-content').innerHTML = '<p>Unbekannte Szene: ' + current + '</p>';
+    } else {
+      // Nav
+      const prevLink = document.getElementById('prev-link');
+      const nextLink = document.getElementById('next-link');
+      const pageInfo = document.getElementById('page-info');
+
+      pageInfo.textContent = (idx + 1) + ' / ' + scenes.length;
+
+      if (idx > 0) {
+        prevLink.href = '?s=' + scenes[idx - 1];
+        prevLink.classList.remove('disabled');
+      }
+      if (idx < scenes.length - 1) {
+        nextLink.href = '?s=' + scenes[idx + 1];
+        nextLink.classList.remove('disabled');
+      }
+
+      // Keyboard nav
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'ArrowLeft' && idx > 0) window.location.href = '?s=' + scenes[idx - 1];
+        if (e.key === 'ArrowRight' && idx < scenes.length - 1) window.location.href = '?s=' + scenes[idx + 1];
+      });
+
+      // Load content
+      fetch('/buch/szenen/' + current + '.md')
+        .then(r => r.text())
+        .then(md => {
+          const lines = md.split('\n');
+          const container = document.getElementById('scene-content');
+          const sceneId = document.getElementById('scene-id');
+          const sceneTitle = document.getElementById('scene-title');
+          let html = '';
+
+          for (let i = 0; i < lines.length; i++) {
+            const line = lines[i].trim();
+            if (line === '') continue;
+
+            // Title line
+            if (line.startsWith('# ')) {
+              const parts = line.substring(2).split(' — ');
+              sceneId.textContent = parts[0] || '';
+              sceneTitle.textContent = parts[1] || parts[0];
+              continue;
+            }
+
+            // Italic passages
+            let processed = line.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+            html += '<p>' + processed + '</p>';
+          }
+
+          container.innerHTML = html;
+        });
+    }
+  </script>
+</body>
+</html>
