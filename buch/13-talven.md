@@ -28,7 +28,7 @@ Aber: kleine Momente. Er steht neben Alphina wenn sie den Hain wachsen lässt. S
 
 Vesper entdeckt den Reservoir-Schwund. Talven hört zu — als Lehrling, unsichtbar im Raum. Und denkt: *Die Lösung ist nicht sie einzusperren. Die Lösung ist die Resonanz zu NEHMEN. Wie Varen es mit Sorel getan hat. Nur kontrollierter.*
 
-Er sucht Varen. Allein. Nachts. Varen ist erholt, kraftvoll, interessiert — er WILL Talven helfen, weil Talven nützlich ist.
+Er sucht Varen. Allein. Nachts. Varen ist erholt, kraftvoll, gut genährt, in Form — ein Forscher, kein gebrochener Mann. Er WILL Talven helfen, weil Talven nützlich ist.
 
 "Ich kann dir zeigen wie man Resonanz ERNTET," sagt Varen. "Nicht aus einem Thalassier — aus dem was sie hinterlassen. Aus dem Boden, den Pflanzen, dem Wasser das sie berührt haben."
 
@@ -38,11 +38,11 @@ Talven lernt. Im Geheimen. Erntet Resonanz aus Alphinas Hain. Aus dem Wasser das
 
 Talven verrät die Gilden-Stadt an die Binder. Nicht aus Bosheit — aus Überzeugung.
 
-"Die Gilden nutzen sie als Waffen. Die Maschinisten als Batterien. Ich nehme die Resonanz aus dem was sie HINTERLASSEN und verteile sie. Für alle. Demokratisch."
+"Die Gilden nutzen sie als Waffen. Die Esse als Batterien. Ich nehme die Resonanz aus dem was sie HINTERLASSEN und verteile sie. Für alle. Demokratisch."
 
 Er nimmt Alphinas Hain-Resonanz. Nicht aus ihr — aus den Bäumen. Die Bäume welken. Talven steht da, Hände auf dem Boden, Magie fließt in ihn. Sein Auge milchig, seine Haare dünn. Aber: zum ersten Mal in seinem Leben hat er GENUG.
 
-Verteilt die Resonanz an Gilden-Bürger, Maschinisten-Arbeiter, Binder-Lehrlinge. Kleine Dosen. Magie ohne Preis. Die Leute sind GLÜCKLICH. Talven wird zum Helden. In Moragh.
+Verteilt die Resonanz an Gilden-Bürger, Esse-Arbeiter, Binder-Lehrlinge. Kleine Dosen. Magie ohne Preis. Die Leute sind GLÜCKLICH. Talven wird zum Helden. In Moragh.
 
 ### Buch 3, Akt III — Die Konsequenz
 

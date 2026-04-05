@@ -6,14 +6,14 @@ In Akt III hat Alphina volle bewusste Kontrolle über ihre Resonanz. Tagsüber k
 
 ## Struktur
 
-Die Frage kippt: von "Wer will uns?" zu "Was kosten wir?" Runa geht zu den Maschinisten — freiwillig, weil sie bieten was die Gilden nicht bieten: Verständnis für ihr Feuer. Alphina muss sie finden. Vesper entdeckt die Wahrheit über den Reservoir-Schwund. Varen ist erholt und stärker als zuvor. Die Binder werden zum Faktor. Maren spürt durch das Wasser einen Weg zwischen den Welten — nicht das Tor, sondern die Ströme selbst.
+Die Frage kippt: von "Wer will uns?" zu "Was kosten wir?" Runa geht zu den Esse — freiwillig, weil sie bieten was die Gilden nicht bieten: Verständnis für ihr Feuer. Alphina muss sie finden. Vesper entdeckt die Wahrheit über den Reservoir-Schwund. Varen ist erholt und stärker als zuvor. Die Binder werden zum Faktor. Maren spürt durch das Wasser einen Weg zwischen den Welten — nicht das Tor, sondern die Ströme selbst.
 
 ## Kapitelplan
 
 ### Kap. 21 — Runa (S. 400–416, ~4.000 Wörter)
 *Das Angebot.*
 
-Der Maschinisten-Emissär kehrt zurück. Nicht in die Stadt — er wartet am Fluss, außerhalb der Gilden-Grenzen. Runa trifft ihn allein. Er spricht langsam, in verdrehtem Thalassisch das er für sie geübt hat. Das Angebot: komm zu uns. Nicht als Gast — als Gleiche. Die Maschinisten verstehen Feuer, Druck, Metall. Ihre Schmiede, ihre Pressen, ihre Öfen. "Die Gilden beschwören Geister. Wir formen die Welt. Wie du."
+Der Esse-Emissär kehrt zurück. Nicht in die Stadt — er wartet am Fluss, außerhalb der Gilden-Grenzen. Runa trifft ihn allein. Er spricht langsam, in verdrehtem Thalassisch das er für sie geübt hat. Das Angebot: komm zu uns. Nicht als Gast — als Gleiche. Die Esse verstehen Feuer, Druck, Metall. Ihre Schmiede, ihre Pressen, ihre Öfen. "Die Gilden beschwören Geister. Wir formen die Welt. Wie du."
 
 Runa denkt an Alphina. An den Kuss. An die Stille danach. An die Gilden die sie anstarren wie ein Werkzeug das noch nicht funktioniert. An den Schmied der taumelt nach einer Stunde, während sie Stunden formen kann ohne müde zu werden.
 
@@ -29,9 +29,9 @@ Der Garten um Alphina wächst. Zehn Meter, zwanzig, dreißig. Bäume brechen dur
 ### Kap. 23 — Vesper (S. 438–456, ~4.500 Wörter)
 *Die Anomalie.*
 
-Vesper hat die Karten studiert. Reservoirkarten der Gilden — Jahrzehnte von Daten, Magiefluss, Kapazitäten. Er sieht das Muster: die Reservoire sinken. ÜBERALL. Nicht nur wo die Fünf gewesen sind — in jeder Gilden-Stadt, an jeder Front, in jedem Maschinisten-Werk. Sieben Prozent hier. Zwölf Prozent dort. Drei bei Elkes Garten, aber auch drei in Regionen die kein Thalassier je betreten hat. Der Schwund ist gleichmäßig, flächendeckend. Nicht konzentriert um die Resonanz-Begabten.
+Vesper hat die Karten studiert. Reservoirkarten der Gilden — Jahrzehnte von Daten, Magiefluss, Kapazitäten. Er sieht das Muster: die Reservoire sinken. ÜBERALL. Nicht nur wo die Fünf gewesen sind — in jeder Gilden-Stadt, an jeder Front, in jedem Esse-Werk. Sieben Prozent hier. Zwölf Prozent dort. Drei bei Elkes Garten, aber auch drei in Regionen die kein Thalassier je betreten hat. Der Schwund ist gleichmäßig, flächendeckend. Nicht konzentriert um die Resonanz-Begabten.
 
-Der Krieg frisst Moragh auf. Generationen von Übernutzung — Gilden-Beschwörer, Binder-Armeen, Maschinisten-Pressen. Die Reservoire sind erschöpft von den EIGENEN Leuten. Die Fraktionen BEHAUPTEN es liegt an den Thalassiern — bequemer Sündenbock, einfache Erklärung. Aber Vespers Daten zeigen: der Schwund war schon vor ihrer Ankunft da. Die Thalassier haben ihn nicht verursacht. Der Krieg hat ihn verursacht.
+Der Krieg frisst Moragh auf. Generationen von Übernutzung — Gilden-Beschwörer, Binder-Armeen, Esse-Pressen. Die Reservoire sind erschöpft von den EIGENEN Leuten. Die Fraktionen BEHAUPTEN es liegt an den Thalassiern — bequemer Sündenbock, einfache Erklärung. Aber Vespers Daten zeigen: der Schwund war schon vor ihrer Ankunft da. Die Thalassier haben ihn nicht verursacht. Der Krieg hat ihn verursacht.
 
 Vesper rechnet. Hochgerechnet auf Jahre. Auf Jahrzehnte. Die Zahl ist hässlich — mit oder ohne die Fünf.
 
@@ -48,7 +48,7 @@ Maren spürt Vael. Die Grauwe. Das Salzwasser des Grauen Meers. Einen Moment lan
 Elke, Wochen nach ihrer Ankunft. Die Gilden-Stadt wird angegriffen — nicht die Stadt selbst, ein Außenposten. Gebundene Wesen, verdreht, in Ketten die aus Magie bestehen. Elke sieht zum ersten Mal was Binder tun: ein Wesen das schreit, nicht aus Wut, aus Schmerz. Es ist gefesselt und schlägt um sich. Die Gilden-Beschwörer rufen Gegenwesen, erschöpfen sich, taumeln. Der Angriff dauert eine Stunde. Drei Tote. Der Gilden-Meister der Elke eingeladen hat, blutet aus der Nase. "So geht das. Seit Jahren."
 
 ### Kap. 25 — Runa (S. 484–502, ~4.500 Wörter)
-*Die Maschinisten-Stadt.*
+*Die Esse-Stadt.*
 
 Runas Ankunft. Die Stadt: Rauch, Metall, Hitze. Türme aus Stahl die mit Magie zusammengehalten werden. Pressen die ohne Dampf arbeiten — reine Kraft, kanalisiert durch Maschinen. Der Lärm ist vertraut: es klingt wie ihre Druckerei, nur tausendmal lauter. Der Emissär (sein Name: Kael) führt sie durch die Werkstätten. Schmiede die Eisen formen, Drucker die mit Magie-Tinte arbeiten, Ingenieure die Brücken aus einem Guss bauen.
 
@@ -66,18 +66,18 @@ Alphinas Reaktion: Erleichterung, dann Stille. Dann die nächste Frage: "Aber wi
 Alphinas Frage: "Was können wir tun?" Vesper: "Die Wahrheit verbreiten. Die Daten zeigen dass der Schwund überall gleich ist. Nicht konzentriert um uns."
 
 ### Kap. 27 — Vesper (S. 524–540, ~4.000 Wörter)
-*Varen. Teilweise erholt.*
+*Varen. Erholt und forschend.*
 
-Ein Gerücht in der Gilden-Stadt: der Binder am Tor ist zurück. Erholt. Kräftig. Graue Schläfen, purpurne Augen, gut gekleidet — ein Mann der aus dem taktischen Rückzug gelernt hat. Drei Binder haben sich ihm angeschlossen, Deserteure wie er. Er sucht nicht die Fünf — er sucht die Daten. Wie funktioniert Resonanz? Warum kostet sie nichts? Kann man sie replizieren?
+Ein Gerücht in der Gilden-Stadt: der Forscher am Tor ist zurück. Erholt. Kräftig. Groß, muskulös, graue Schläfen, purpurne Augen, gut gekleidet — ein Mann der aus dem taktischen Rückzug gelernt hat. Aus allen Fraktionen ausgestoßen, eine Handvoll Deserteure um sich. Er sucht nicht die Fünf — er sucht die Daten. Wie funktioniert Resonanz? Warum kostet sie nichts? Was ist die Verbindung zwischen den Welten?
 
-Vesper analysiert: Varen ist nicht der Feind. Er ist ein Forscher mit der Moral eines Chirurgen, stärker als vor dem Rückzug, weil er Zeit hatte zu denken. Er hat Sorel getötet um zu verstehen, nicht um zu zerstören. Das macht ihn gefährlicher.
+Vesper analysiert: Varen ist nicht der Feind. Er ist ein Forscher mit dem richtigen Ziel und den falschen Methoden. Stärker als vor dem Rückzug, gut genährt, in Form, weil er Zeit hatte sich zu erholen und nachzudenken. Er hat Sorel nicht absichtlich getötet — hat es aber in Kauf genommen. Das macht ihn gefährlicher.
 
 ### Kap. 27b — Talven (S. 540–554, ~3.500 Wörter)
 *Nachts. Allein. Zum Tor.*
 
 Talven hat Vespers Vortrag über den Reservoir-Schwund gehört. Stand im Hintergrund — Lehrling, unsichtbar, die Tasse in der Hand die er für den Gilden-Meister gebracht hat. Hat jedes Wort mitgenommen.
 
-Nachts verlässt er die Stadt. Kennt die Wege, die Wachen, die Lücken im lebenden Mauerwerk. Drei Stunden zu Fuß. Der Binder am Tor — Varen — sitzt in einem behelfsmäßigen Raum, gut gekleidet, ein aufgeschlagenes Buch auf dem Schoß. Graue Schläfen, purpurne Augen, aufmerksam. Er sieht Talven kommen und wartet — interessiert, nicht gebrochen.
+Nachts verlässt er die Stadt. Kennt die Wege, die Wachen, die Lücken im lebenden Mauerwerk. Drei Stunden zu Fuß. Der Forscher am Tor — Varen — sitzt in einem behelfsmäßigen Raum, gut gekleidet, ein aufgeschlagenes Buch auf dem Schoß. Groß, muskulös, gut genährt, in Form. Graue Schläfen, purpurne Augen, aufmerksam. Er sieht Talven kommen und wartet — interessiert, kraftvoll.
 
 Talven: "Ich bin Lehrling. Mittleres Reservoir. In zehn Jahren bin ich aufgebraucht." Varen schweigt. Talven: "Die Thalassierin wächst einen Hain im Schlaf und es kostet sie NICHTS. Ich will wissen warum."
 
@@ -95,9 +95,9 @@ Maren experimentiert am stillen Punkt. Drückt härter, tiefer, mit allem was si
 Maren liegt auf dem Rücken, keuchend. Nicht erschöpft — Resonanz kostet nichts. Aber ihr Körper zittert trotzdem. Der Riss hat etwas getan: am stillen Punkt ist das Wasser jetzt trüb. Schlammig. Als hätte jemand den Boden aufgewühlt. Das Reservoir unter dem Fluss: gesunken. Deutlich. Maren hat das Wasser benutzt, und Moragh hat gezahlt.
 
 ### Interludium VI (~S. 565, ~2.000 Wörter)
-*Elke besucht die Maschinisten. Die lebenden Energiequellen.*
+*Elke besucht die Esse. Die lebenden Energiequellen.*
 
-Elke, Monate nach Ankunft. Eine Reise zur Maschinisten-Stadt, als Gilden-Beobachterin. Sie sieht die Maschinen — beeindruckend, gewaltig, endlos. Und sie sieht die Quellen: Beschwörer, angeschlossen an Maschinen, die ihre Reservoire leeren. Freiwillig. Bezahlt. Erschöpft. Manche sterben jung. Elke fragt Kael: "Was passiert wenn ein Reservoir leer ist?" Kael: "Dann ruht man sich aus." Elke: "Und wenn es nicht zurückkommt?" Kaels Schweigen ist die Antwort.
+Elke, Monate nach Ankunft. Eine Reise zur Esse-Stadt, als Gilden-Beobachterin. Sie sieht die Maschinen — beeindruckend, gewaltig, endlos. Und sie sieht die Quellen: Beschwörer, angeschlossen an Maschinen, die ihre Reservoire leeren. Freiwillig. Bezahlt. Erschöpft. Manche sterben jung. Elke fragt Kael: "Was passiert wenn ein Reservoir leer ist?" Kael: "Dann ruht man sich aus." Elke: "Und wenn es nicht zurückkommt?" Kaels Schweigen ist die Antwort.
 
 ### Kap. 28b — Talven (S. 558–568, ~2.500 Wörter)
 *Der Hain. Die Ernte. Der Preis.*
@@ -117,20 +117,20 @@ Talven zieht die Kapuze tiefer. Geht Frühstück holen. Bringt Maren Brot vom Ma
 ### Kap. 29 — Alphina (S. 568–588, ~5.000 Wörter)
 *Runa finden.*
 
-Alphina geht. Nicht weil die Gilden es erlauben — weil die Pflanzen ihr den Weg zeigen. Jede Pflanze in Moragh dreht sich nach ihr, und die Richtung zeigt nach Südwesten: die Maschinisten-Stadt. Elke begleitet sie. Vesper bleibt — er braucht die Bibliothek, die Karten, die Zeit. Maren bleibt — sie braucht den Fluss.
+Alphina geht. Nicht weil die Gilden es erlauben — weil die Pflanzen ihr den Weg zeigen. Jede Pflanze in Moragh dreht sich nach ihr, und die Richtung zeigt nach Südwesten: die Esse-Stadt. Elke begleitet sie. Vesper bleibt — er braucht die Bibliothek, die Karten, die Zeit. Maren bleibt — sie braucht den Fluss.
 
-Unterwegs: das Land verändert sich. Von Gilden-Ordnung zu Wildnis zu Maschinisten-Rauch. Tagsüber hat Alphina volle Kontrolle — sie lenkt Pflanzen bewusst, lässt Ranken den Weg markieren, nutzt ihre Resonanz als Werkzeug. Sie bindet sich nachts die Hände mit Stoff, als Erinnerung. Es hilft nicht. Die Schlaf-Haine wachsen trotzdem — kleiner als in Akt I, aber da. Die unbewusste Trauer lässt sich nicht binden. Tagsüber: Kontrolle. Nachts: keine.
+Unterwegs: das Land verändert sich. Von Gilden-Ordnung zu Wildnis zu Esse-Rauch. Tagsüber hat Alphina volle Kontrolle — sie lenkt Pflanzen bewusst, lässt Ranken den Weg markieren, nutzt ihre Resonanz als Werkzeug. Sie bindet sich nachts die Hände mit Stoff, als Erinnerung. Es hilft nicht. Die Schlaf-Haine wachsen trotzdem — kleiner als in Akt I, aber da. Die unbewusste Trauer lässt sich nicht binden. Tagsüber: Kontrolle. Nachts: keine.
 
 Elke: "Ich bin seit Wochen hier. Meine Resonanz kostet mich nichts. Aber der Stein unter meinem Garten wird weicher. Jedes Jahr — jede Woche, in Moragh-Zeit." Stille. "Ich nehme ihm etwas. Dem Stein. Ich weiß nicht was."
 
 ### Kap. 30 — Alphina + Runa (S. 588–600, ~3.000 Wörter)
-*Die Maschinisten-Stadt. Wiedersehen.*
+*Die Esse-Stadt. Wiedersehen.*
 
 Alphina und Elke erreichen die Stadt. Rauch, Metall, Hitze. Kael empfängt sie — neutral, professionell. Runa ist in der Werkstatt. Alphina findet sie: Hände in geschmolzenem Metall, buchstäblich. Sie formt eine Druckerpresse — eine echte Presse, nach Thalassien-Bauart, in Moragh-Metall. Ihre Augen: wacher als je zuvor.
 
 "Du bist gekommen." Alphina: "Ja." Runa: "Du kannst mich nicht mitnehmen." Alphina: "Ich weiß."
 
-Was zwischen ihnen liegt: nicht gelöst. Alphinas Kontrolle greift nicht. Runas Entscheidung steht. Aber: die Maschinisten haben Runa getestet. Ihre Feuer-Resonanz — endlos. Kein Preis. Ein Ofen der nie erlischt. Kael hat Pläne. Runa weiß es nicht. Oder tut so.
+Was zwischen ihnen liegt: nicht gelöst. Alphinas Kontrolle greift nicht. Runas Entscheidung steht. Aber: die Esse haben Runa getestet. Ihre Feuer-Resonanz — endlos. Kein Preis. Ein Ofen der nie erlischt. Kael hat Pläne. Runa weiß es nicht. Oder tut so.
 
 ---
 
@@ -143,7 +143,7 @@ Was zwischen ihnen liegt: nicht gelöst. Alphinas Kontrolle greift nicht. Runas 
 | Runas Presse in Moragh-Metall | Kap 30 — Sie baut eine thalassische Presse | Akt IV — Die Presse druckt auf Moragh-Papier. Information als Waffe |
 | "Kannst du aufhören zu atmen?" | Kap 26 — Vespers Frage | Akt IV — Alphina findet die Antwort: nicht aufhören. Anders atmen |
 | Elkes weicher Stein | Kap 29 — "Jedes Jahr" | Akt IV — Elkes Beweis vor dem Gilden-Rat. Resonanz zerstört Moragh |
-| Kael hat Pläne für Runa | Kap 30 — Ein Ofen der nie erlischt | Akt IV — Runa entdeckt die Wahrheit: die Maschinisten wollen sie anschließen |
+| Kael hat Pläne für Runa | Kap 30 — Ein Ofen der nie erlischt | Akt IV — Runa entdeckt die Wahrheit: die Esse wollen sie anschließen |
 | Varen als Forscher | Kap 27 — Er sucht Daten, nicht Macht | Akt IV — Er bietet einen Deal an. Information gegen Information |
 | Talven bei Varen | Kap 27b — Erste Lektion, nachts | Buch 3 — Er hat gelernt zu ernten. Verteilt Resonanz an alle. Wird zum Helden |
 | Talvens milchiges Auge | Kap 28b — Wolke in der Iris | Buch 3 — Beide Augen. Hände zittern. Resonanz-Ernte zerstört den Ernter |

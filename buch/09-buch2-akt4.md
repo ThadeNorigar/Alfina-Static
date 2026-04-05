@@ -2,7 +2,7 @@
 
 ## Struktur
 
-Die Wahrheit liegt auf dem Tisch: Resonanz zerstört Moragh. Jede Fraktion reagiert anders — die Gilden wollen die Resonanz trotzdem nutzen (der Krieg frisst mehr als die Resonanz), die Binder wollen sie replizieren (kontrollierter Verbrauch), die Maschinisten wollen sie kanalisieren (ein Mensch an einer Maschine, endloser Ausstoß). Alphina steht im Zentrum. Runa muss sich aus den Maschinisten lösen. Maren findet den Wasserweg. Vesper sieht die Struktur der Zukunft und kann nicht wegschauen. Varen bietet einen Deal. Offenes Ende — keine Erlösung, aber eine Entscheidung.
+Die Wahrheit liegt auf dem Tisch: Resonanz zerstört Moragh. Jede Fraktion reagiert anders — die Gilden wollen die Resonanz trotzdem nutzen (der Krieg frisst mehr als die Resonanz), die Binder wollen sie replizieren (kontrollierter Verbrauch), die Esse wollen sie kanalisieren (ein Mensch an einer Maschine, endloser Ausstoß). Alphina steht im Zentrum. Runa muss sich aus den Esse lösen. Maren findet den Wasserweg. Vesper sieht die Struktur der Zukunft und kann nicht wegschauen. Varen bietet einen Deal. Offenes Ende — keine Erlösung, aber eine Entscheidung.
 
 ## Kapitelplan
 
@@ -16,7 +16,7 @@ Die Älteste — dieselbe die Alphinas Hand gegriffen hat — schweigt lange. Da
 Die Gilden entscheiden: Resonanz nutzen. Den Krieg gewinnen. Moragh später reparieren. Alphina hört das Wort "nutzen" und denkt an Sorel. An Varen der dasselbe wollte.
 
 ### Kap. 32 — Runa (S. 624–644, ~5.000 Wörter)
-*Die Wahrheit über die Maschinisten.*
+*Die Wahrheit über die Esse.*
 
 Runa in der Werkstatt. Kael bringt sie tiefer — unter die Stadt, wo die großen Maschinen stehen. Pressen so groß wie Häuser. Öfen die glühen ohne Brennstoff. Und an jeder Maschine: ein Mensch. Angeschlossen. Hände auf Metall, Augen geschlossen, Schweiß auf der Stirn. Reservoir-Quellen. Freiwillig, sagt Kael. Bezahlt.
 
@@ -56,14 +56,14 @@ Elke gräbt. Unter dem Garten: eine Höhle, die es vorher nicht gab. Der Boden h
 
 Varen schickt einen Boten — ein gebundenes Wesen, klein, unterwürfig, mit einer Nachricht in verdrehtem Thalassisch. "Treffen. Neutral. Allein." Elke übersetzt. Alphina geht. Nicht allein — Vesper hinter ihr, unsichtbar, drei Züge voraus.
 
-Varen: aufrecht, charmant, erholt. Breiter als bei der ersten Begegnung — er hat gegessen, geschlafen, nachgedacht. Graue Schläfen, purpurne Augen die mustern ohne zu blinzeln. Er hat Sorels Resonanz studiert — die Resonanz die er aus ihm gerissen hat. "Ich verstehe jetzt. Teilweise. Eure Resonanz verbraucht Moragh. Wie ein Parasit. Nicht bösartig — strukturell. Ihr gehört nicht hierher, und die Welt verbrennt sich an euch." — Varens Behauptung. Alphina hört zu. Vespers Daten sagen etwas anderes: der Schwund ist überall gleich, nicht konzentriert um die Thalassier. Varen WILL glauben, dass die Thalassier schuld sind. Es passt in sein Weltbild. Aber die Zahlen widersprechen ihm.
+Varen: aufrecht, charmant, erholt. Groß, muskulös, gut genährt, in Form — breiter als bei der ersten Begegnung. Graue Schläfen, purpurne Augen die mustern ohne zu blinzeln. Aus allen Fraktionen ausgestoßen, ein Forscher mit einer Handvoll Deserteure. Er hat Sorels Resonanz studiert — die Resonanz die er aus ihm gerissen hat. Er hat die Wahrheit entdeckt: "Die Welten waren einmal eine. Das Tor ist die Narbe. Eure Resonanz ist der Beweis — die Energie der Verbindung." Sein Ziel: WIEDERVEREINIGUNG. Richtiges Ziel, falsche Methode.
 
-Sein Angebot: Information gegen Information. Er weiß wie Resonanz funktioniert — warum sie kostenlos ist für den Träger, warum Moragh zahlt. Im Gegenzug: Alphina zeigt ihm ihre Resonanz. Kontrolliert. Messbar. Er will nicht angreifen. Er will begreifen.
+Sein Angebot: Information gegen Information. Er weiß wie Resonanz funktioniert — warum sie kostenlos ist für den Träger, warum die Welten zusammengehören. Im Gegenzug: Alphina zeigt ihm ihre Resonanz. Kontrolliert. Messbar. Er will nicht angreifen. Er will begreifen.
 
-Alphina: "Du hast Sorel getötet." Varen: "Ja. Dafür gibt es keine Entschuldigung. Nur eine Erklärung: ich hatte einen Versuch. Einen. Und ich habe ihn verschwendet an den Falschen." Stille. "Du bist die Richtige. Und du weißt es."
+Alphina: "Du hast Sorel getötet." Varen: "Nicht absichtlich. Aber ich habe es in Kauf genommen. Dafür gibt es keine Entschuldigung. Nur eine Erklärung: ich hatte einen Versuch. Einen. Und ich habe ihn verschwendet an den Falschen." Stille. "Du bist die Richtige. Und du weißt es."
 
 ### Kap. 36 — Runa (S. 716–736, ~5.000 Wörter)
-*Flucht aus der Maschinisten-Stadt.*
+*Flucht aus der Esse-Stadt.*
 
 Runa zerstört den Stuhl. Nachts, allein, mit ihren Händen. Das Metall schmilzt, die Klemmen verbiegen sich, der Stuhl wird Schlacke. Kael findet sie am Morgen. Nicht wütend — enttäuscht. "Du hättest die Welt verändern können." Runa: "Ihr wolltet mich an eine Maschine klemmen." Kael: "Freiwillig. Bezahlt. Acht Stunden." Runa: "Und dann? Zehn? Zwölf? Bis ich blute?"
 
@@ -74,7 +74,7 @@ Runa nimmt die Presse mit. Die thalassische Presse in Moragh-Metall. Sie wiegt s
 ### Kap. 37 — Alphina (S. 736–762, ~6.500 Wörter)
 *Die Entscheidung beginnt.*
 
-Alle zusammen. Elkes Garten — der Garten auf dem porösen Stein, dem sterbenden Fundament. Vesper legt die Daten vor. Maren berichtet vom Wasserweg. Runa erzählt von den Maschinisten. Elke zeigt den Boden. Alphina hört zu.
+Alle zusammen. Elkes Garten — der Garten auf dem porösen Stein, dem sterbenden Fundament. Vesper legt die Daten vor. Maren berichtet vom Wasserweg. Runa erzählt von den Esse. Elke zeigt den Boden. Alphina hört zu.
 
 Die Fakten: Moragh stirbt. Aber nicht wegen der Thalassier — wegen dem Krieg. Generationen von Übernutzung durch die eigenen Fraktionen. Vespers Daten zeigen den Schwund überall, gleichmäßig, flächendeckend. Die Fraktionen geben den Thalassiern die Schuld, weil es einfacher ist. Varen BEHAUPTET dasselbe — Thalassier als Leck, als Parasit. Aber Vespers Zahlen widerlegen ihn: der Schwund war schon da, lange bevor die Fünf durchgegangen sind. Gehen löst das Problem nicht. Bleiben verschlimmert es nicht.
 

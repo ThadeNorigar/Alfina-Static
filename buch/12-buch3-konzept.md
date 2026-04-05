@@ -26,14 +26,14 @@ Die gesamte Trilogie auf Moragh-Seite = ~1 Jahr. Auf Thalassien-Seite = ~400 Jah
 
 **Warum kostet Resonanz nichts?**
 
-Antwort: Thalassien und Moragh waren EINE Welt. Gespalten vor Jahrtausenden — Sicherheitsmechanismus, als Magie unkontrolliert wuchs. Das Tor ist die Narbe. Resonanz ist die Spannung an der Naht. Kostet nichts weil sie die Energie der Verbindung nutzt — aber die Verbindung franst aus.
+Antwort (Varen hat sie entdeckt): Thalassien und Moragh waren EINE Welt. Gespalten vor Jahrtausenden — Sicherheitsmechanismus, als Magie unkontrolliert wuchs. Das Tor ist die Narbe. Resonanz ist die Spannung an der Naht. Kostet nichts weil sie die Energie der Verbindung nutzt — aber die Verbindung franst aus. Varens Motiv ist WIEDERVEREINIGUNG — richtiges Ziel, falsche Methode. Er hat das Tor geöffnet um Resonanz-Begabte nach Moragh zu bringen, weil sie der Schlüssel sind.
 
 ## Wer stirbt
 
 - **Sorel:** Buch 1 (Resonanz rausgerissen)
 - **Elke:** Buch 3 (Reservoir leer, Stein antwortet nicht mehr)
 - **Alphina:** Buch 3, Finale (Resonanz fließt in die Naht-Maschine, jeder Wald den sie je wachsen ließ stirbt mit ihr)
-- **Varen (Binder):** Buch 3 (stirbt webend, nicht bindend — Erlösung)
+- **Varen (Forscher):** Buch 3 (hilft beim Bau der Naht-Maschine, stirbt webend, nicht bindend — Erlösung)
 
 ## Ende (semi-happy)
 
@@ -42,5 +42,5 @@ Die Welten werden eine. Magie existiert überall, kostet überall. Keine kostenl
 - **Runa:** Baut die erste Hybrid-Druckerpresse. Allein. Alphina ist tot.
 - **Vesper:** In Vael, bei Maren. Schuldig. Leiser als früher.
 - **Iven:** Erster Ingenieur der Magie und Elektrizität versteht.
-- **Nyr:** In der neuen Welt. Rüstung steht still — keine Piloten mehr nötig.
+- **Nyr:** In der neuen Welt. Laufwerk steht still — keine Piloten mehr nötig.
 - **Letzte Seite:** Kind im botanischen Garten. Berührt Farn. Farn dreht sich. Kostet ein Schwindeln. Die Welt ist ganz.

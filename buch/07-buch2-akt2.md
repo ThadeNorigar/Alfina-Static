@@ -6,7 +6,7 @@ In Akt II beginnt Alphina ihre Resonanz zu verstehen. Tagsüber kann sie manchma
 
 ## Struktur
 
-Die Fünf leben in der Gilden-Stadt. Schutz, Ordnung, Sprache lernen — aber jeder Tag macht klarer: die Gilden wollen etwas zurück. Die politische Landschaft entfaltet sich: Gilden (Tradition), Binder (Dämonen-Armee), Maschinisten (Magie als Industrie). Jede Fraktion will die Resonanz-Begabten. Die Beziehungen verschieben sich: Alphina und Runa finden zueinander — tastend, unsicher, ohne Spielregeln. Vesper taucht in die Zeitstrukturen von Moragh ein. Maren findet Wasser das sie versteht. Alphinas Macht wächst — tagsüber zunehmend kontrolliert, nachts weiterhin unkontrolliert.
+Die Fünf leben in der Gilden-Stadt. Schutz, Ordnung, Sprache lernen — aber jeder Tag macht klarer: die Gilden wollen etwas zurück. Die politische Landschaft entfaltet sich: Gilden (Tradition), Binder (Dämonen-Armee), Esse (Magie als Industrie). Jede Fraktion will die Resonanz-Begabten. Die Beziehungen verschieben sich: Alphina und Runa finden zueinander — tastend, unsicher, ohne Spielregeln. Vesper taucht in die Zeitstrukturen von Moragh ein. Maren findet Wasser das sie versteht. Alphinas Macht wächst — tagsüber zunehmend kontrolliert, nachts weiterhin unkontrolliert.
 
 ## Kapitelplan
 
@@ -38,7 +38,7 @@ Maren legt die Hand ins Wasser. Es ist kalt — thalassisch kalt, Grauküsten-ka
 
 Runa findet die Gilden-Schmiede. Kein Feuer — die Schmiede hier formen Metall durch Magie. Hände auf Eisen, Konzentration, Schweiß. Es kostet sie: der Schmied taumelt nach einer Stunde, isst, schläft. Runa beobachtet. Legt die Hand auf einen Eisenbarren. Er wird warm. Der Schmied starrt. Runa: "In meiner Welt mache ich das mit einem Ofen." Der Schmied: "Du brauchst keinen Ofen."
 
-Abends: ein Gespräch mit Elke. "Die Maschinisten — sie arbeiten wie ich. Druck, Metall, Feuer. Die Gilden beschwören Wesen. Die Maschinisten formen Materie." Elke: "Die Maschinisten formen Menschen. Vergiss das nicht."
+Abends: ein Gespräch mit Elke. "Die Esse — sie arbeiten wie ich. Druck, Metall, Feuer. Die Gilden beschwören Wesen. Die Esse formen Materie." Elke: "Die Esse formen Menschen. Vergiss das nicht."
 
 ### Interludium III (~S. 270, ~2.000 Wörter)
 *Elke und die Gilden-Meisterin. Das Angebot.*
@@ -71,9 +71,9 @@ Vesper sieht das Muster. Ein Gilden-Gelehrter der Fragen stellt die kein Gelehrt
 Entscheidung: sofort melden oder warten und mehr erfahren. Vesper wartet. Drei Züge voraus denken.
 
 ### Kap. 18 — Maren (S. 330–346, ~4.000 Wörter)
-*Der Maschinisten-Emissär.*
+*Der Esse-Emissär.*
 
-Ein Fremder in der Stadt. Anders als die Gilden-Bewohner — Hände verbrannt, Metallstaub in den Augen, ein Geruch nach heißem Eisen. Maschinist. Er kommt mit einer Botschaft: Handelsangebot, neutraler Boden, Waffenruhe für einen Austausch. Die Älteste empfängt ihn kühl. Der Emissär sieht Runa — ihre warmen Hände, den Metallglanz an ihren Fingern. Sein Blick verändert sich. Nicht Gier. Erkennung.
+Ein Fremder in der Stadt. Anders als die Gilden-Bewohner — Hände verbrannt, Metallstaub in den Augen, ein Geruch nach heißem Eisen. Esse. Er kommt mit einer Botschaft: Handelsangebot, neutraler Boden, Waffenruhe für einen Austausch. Die Älteste empfängt ihn kühl. Der Emissär sieht Runa — ihre warmen Hände, den Metallglanz an ihren Fingern. Sein Blick verändert sich. Nicht Gier. Erkennung.
 
 Maren beobachtet alles vom Fluss aus. Das Wasser erzählt ihr Dinge — Ströme die sich verändern wenn der Emissär spricht, Wirbel die entstehen wo er steht. Sie traut ihm nicht. Aber sie traut den Gilden auch nicht.
 
@@ -111,13 +111,13 @@ Eingebettet: der Binder-Spion wird enttarnt. Vesper hat gewartet, drei Züge vor
 | Detail | Akt II | Feuert in |
 |--------|--------|-----------|
 | Maren schmeckt Salz am stillen Punkt | Kap 13 — Thalassisches Wasser sickert durch | Akt IV — Der Wasserweg zwischen den Welten. Maren findet den Rückweg |
-| Der Maschinisten-Emissär erkennt Runa | Kap 18 — Sein Blick verändert sich | Akt III — Die Maschinisten kommen gezielt für Runa |
+| Der Esse-Emissär erkennt Runa | Kap 18 — Sein Blick verändert sich | Akt III — Die Esse kommen gezielt für Runa |
 | Alphinas Schlaf-Wald im Dorf | Kap 19 — UNBEWUSST im Schlaf, obwohl sie tagsüber lernt zu steuern | Akt III — Die Schlaf-Haine bleiben immer unbewusst. Tagsüber: Kontrolle. Nachts: keine |
 | Vesper sieht die Zeitnaht | Kap 12 — An manchen Stellen ist die Zeit dünn | Akt IV — Vesper manipuliert die Zeit. Einmal. Der Preis ist hoch |
 | "Bei Runa ist die Welt still" | Kap 20 — Keine Magie beim Kuss | Akt III — Die Stille hat einen Grund. Runas Resonanz absorbiert Alphinas. Gegenpol |
 | Elkes Stein wird weicher | I4 — Der Basalt unter dem Garten | Akt IV — Elkes Beweis. Resonanz ist nicht kostenlos. Moragh zahlt |
 | Binder-Information ist draußen | Kap 17/20 — Vier Resonanz-Begabte, kostenlos | Akt III — Alle drei Fraktionen wissen Bescheid. Der Preis steigt |
-| Runa in der Gilden-Schmiede | Kap 14 — Sie formt ohne Ofen | Akt III — Die Maschinisten bieten ihr mehr: nicht Handwerk, sondern Industrie |
+| Runa in der Gilden-Schmiede | Kap 14 — Sie formt ohne Ofen | Akt III — Die Esse bieten ihr mehr: nicht Handwerk, sondern Industrie |
 | Talvens HUNGER beim Hain | Kap 15/19 — Sein Gesicht wenn Alphina wächst | Akt III — Er sucht Varen. Lernt Resonanz-Ernte |
 | Talven kennt die Bibliothek | Kap 12 — Zeigt Vesper die Karten | Akt III — Er kennt auch die Geheimnisse. Weiß wo Varen ist |
 | Talven kocht Frühstück | Kap 19 — Der Freund den alle mögen | Buch 3 — Der Verräter den alle mochten. Schmerzhafter |

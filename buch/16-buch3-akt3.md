@@ -108,9 +108,9 @@ Dafür braucht es eine Maschine. Moragh-Magie kanalisiert durch Thalassien-Techn
 Iven berührt den Laptop. Der Bildschirm zeigt ein Diagramm, das er nicht gezeichnet hat. Maren starrt. "Hast du das gemacht?" Iven: "Ich glaube, der Computer hat das gemacht. Weil ich daneben stand."
 
 ### Interludium XIV (~S. 562, ~2.000 Wörter)
-*Nyr. Die Rüstung steht still.*
+*Nyr. Das Laufwerk steht still.*
 
-Nyr in der Werkstatt. Ihre Rüstung — drei Meter, Metall wie Knochen — steht in der Ecke. Extern gespeist jetzt. Kein Pilot nötig. Die Rüstung summt, leise, wie eine Erinnerung an Schmerz.
+Nyr in der Werkstatt. Ihr Laufwerk — zehn Meter, Moragh-Stahl wie Knochen — steht in der Ecke. Extern gespeist jetzt. Kein Pilot nötig. Das Laufwerk summt, leise, wie eine Erinnerung an Schmerz.
 
 Nyr berührt das Metall. Kalt. Zum ersten Mal seit Jahren — kein Nasenbluten, keine Kopfschmerzen, keine Muskelkrämpfe. Ihr Körper: zum ersten Mal seit Jahren schmerzfrei. Der Schmerz war nie nötig.
 
@@ -119,7 +119,7 @@ Vesper neben ihr. "Bereust du es?" Nyr: "Die Schmerzen? Nein. Die waren meine. I
 ### Kap. 69 — Alphina (S. 566–586, ~5.000 Wörter)
 *Der Plan.*
 
-Alle zusammen. Nicht wie in Buch 2 — damals fünf Thalassier in einer fremden Welt. Jetzt: Thalassier, Moragh-Geborene, Ingenieure, Gilden-Älteste, eine Maschinisten-Pilotin, ein blinder Lehrling. In Elkes Garten. Auf dem Stein der leiser geworden ist.
+Alle zusammen. Nicht wie in Buch 2 — damals fünf Thalassier in einer fremden Welt. Jetzt: Thalassier, Moragh-Geborene, Ingenieure, Gilden-Älteste, eine Esse-Pilotin, ein blinder Lehrling. In Elkes Garten. Auf dem Stein der leiser geworden ist.
 
 Die Naht-Maschine. Vesper erklärt die Theorie — die Welten waren eine, die Naht kann geheilt werden. Maren erklärt den Kanal — der Wasserweg als Fundament. Die Ingenieure erklären die Technik — Generator, Verstärker, Kanalisierung. Iven sitzt daneben und der Generator summt lauter wenn er nickt.
 
@@ -150,5 +150,5 @@ Alphina im Garten. Nacht. Hände auf dem Boden. Ein Farn wächst — langsam, au
 | Ivens Diagramm auf dem Laptop | Kap 68 — "Der Computer hat das gemacht" | Akt IV — Iven steuert die Maschine. Interface zwischen Magie und Technik |
 | Talven hilft — "Nicht Vergebung. Arbeit." | Kap 69 — Am Rand, blind, zitternd | Akt IV — Talven kalibriert die Resonanz-Kanäle. Nicht als Held — als Büßer |
 | Vespers dünne Zeitlinie — klarer | Kap 70 — Die Naht braucht einen Katalysator | Akt IV — Alphina wird die Naht. Jeder Wald stirbt. Sie auch |
-| Rüstung steht still | I14 — Extern gespeist | Akt IV — Nyr trägt die Rüstung ein letztes Mal. Schützt die Maschine |
+| Laufwerk steht still | I14 — Extern gespeist | Akt IV — Nyr pilotiert das Laufwerk ein letztes Mal. Schützt die Maschine |
 | "Liebe die nur nimmt ist keine Liebe" | I13 — Elkes Brief | Akt IV — Alphina gibt alles. Liebe die nur gibt |
