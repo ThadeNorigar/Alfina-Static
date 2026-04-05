@@ -2,17 +2,18 @@
 
 ## Konsistente Zeitrechnung
 
-**Ratio:** ~1 Moragh-Monat ≈ 50–100 Thalassien-Jahre. Variabel, aber immer vorwärts.
+**Ratio:** 1 Moragh-Jahr = 400 Thalassien-Jahre. Stabil.
 
 | Moragh-Zeit | Thalassien-Zeit | Tech-Level |
 |---|---|---|
 | Buch 1 (Tage) | ~1820 | Gaslampen, Kutschen, Glasplatten |
-| Buch 2, Anfang (Wochen) | ~1900 | Elektrizität beginnt, Telegraphen |
-| Buch 2, Ende (Monate) | ~1960 | Radio, Automobile, Telefon |
-| Buch 3, Anfang | ~2050 | Fusion, KI, Biotech |
-| Buch 3, Ende | ~2250 | Quantencomputer, Raumfahrt, Neural-Interfaces |
+| Buch 2 (~4 Monate) | ~1950 | Elektrizität, Radio, Automobile |
+| Buch 3, Anfang (~8 Monate) | ~2100 | Fusion, KI, Biotech |
+| Buch 3, Ende (~12 Monate) | ~2220 | Quantencomputer, Raumfahrt |
 
-**Zeit ist nicht rückdrehbar.** Wenn Maren durch den Wasserweg zurückkehrt, ist Vael Jahrhunderte älter. Thies Brandt ist seit hundert Jahren tot. Jara Voss ist seit hundert Jahren tot. Sorels Glasplatten sind in einem Museum. "Die Vier von Vael" ist eine Legende, dann ein Forschungsgegenstand.
+Die gesamte Trilogie auf Moragh-Seite = ~1 Jahr. Auf Thalassien-Seite = ~400 Jahre.
+
+**Zeit ist nicht rückdrehbar.** Wenn Maren durch den Wasserweg zurückkehrt, ist Vael Jahrhunderte älter. Alle Nebencharaktere aus Buch 1 sind seit Generationen tot. Sorels Glasplatten sind in einem Museum. "Die Vier von Vael" ist eine Legende, dann ein Forschungsgegenstand.
 
 ## Thalassien in 2050-2250
 

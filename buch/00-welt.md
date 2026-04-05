@@ -89,7 +89,7 @@ Zwei Pfeiler aus schwarzem Basalt, ein Bogen, Zeichen die niemand in Thalassien 
 
 Das Tor wird von der Moragh-Seite kontrolliert. Es kann geöffnet und geschlossen werden — durch Magie, durch einen Beschwörer der mächtig genug ist. Wenn es offen ist, kann man durchgehen. In beide Richtungen.
 
-Die Zeit läuft unterschiedlich. Was in Thalassien 400 Jahre sind, sind in Moragh Wochen, vielleicht Monate. Das Zeitverhältnis ist nicht konstant.
+Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. Elke ging vor ~200 Thalassien-Jahren durch = vor ~6 Moragh-Monaten. Die gesamte Trilogie auf Moragh-Seite dauert ~1 Jahr.
 
 ### Warum es Resonanz-Begabte anzieht
 
@@ -103,7 +103,9 @@ Das offene Tor strahlt aus. Magie-Lecks, die in Thalassien wie Anomalien wirken 
 
 ### Überblick
 
-Eine Welt mit eigener Sonne, eigenem Himmel, zwei Monden. Berge, Meere, Wälder, Steppen. Die Farben sind satter als in Thalassien, die Luft dichter. Tiere sind anders — größer, seltsamer, manche intelligent.
+Eine Welt mit eigenem Himmel, zwei Monden — und einer Sonne die keine ist. Am Moragh-Himmel steht ein dunkler Kern, umgeben von einem gleißenden Ring aus Licht: eine Akkretionsscheibe. Kein Feuerball wie in Thalassien — ein Auge. Dunkel in der Mitte, blendend am Rand. Das Licht ist anders: bläulicher, violetter, die Schatten weicher (Ringquelle statt Punktquelle, mehrfache Halbschatten). Die Farben in Moragh sind satter weil das Lichtspektrum anders ist. Die Luft ist dichter. Tiere sind anders — größer, seltsamer, manche intelligent.
+
+Die Moragh-Menschen nennen es einfach "die Sonne." Sie wissen nicht was es ist. In Buch 3, wenn Thalassien-Wissenschaftler durchkommen, erkennen SIE es: ein Schwarzes Loch. Die Wissenschaftler sind verstört. Die Moragh-Menschen verstehen nicht warum.
 
 Die Zivilisation ist alt. Städte aus Material das aussieht wie Stein und sich anfühlt wie Holz und warm ist. Türme die nicht gebaut sondern gewachsen sind. Straßen die sich verändern. Brücken über Flüsse die bergauf fließen.
 
@@ -132,7 +134,7 @@ Jeder Mensch in Moragh hat ein Reservoir — wie Ausdauer. Trainierbar, füllt s
 
 ### Moragh im Krieg
 
-Drei Seiten. Die **Gilden** (Tradition, Beschwörung im Gleichgewicht) gegen die **Binder** (gebundene Dämonen als Armee) gegen die **Maschinisten** (Magie als Industrie, Druck/Metall/Feuer). Kein klarer Sieger. Die Gilden sind stärker organisiert, die Binder brutaler, die Maschinisten technisch überlegen. Alle drei erschöpfen sich. Magie kostet — der Krieg frisst Reservoire auf. Die Suche nach einer Lösung (billigere Magie, stärkere Reservoire, neue Quellen) treibt alle drei an.
+Der Krieg dauert **vier Moragh-Jahre** (= ~1600 Thalassien-Jahre). Drei Seiten. Die **Gilden** (Tradition, Beschwörung im Gleichgewicht) gegen die **Binder** (gebundene Dämonen als Armee) gegen die **Maschinisten** (Magie als Industrie, Druck/Metall/Feuer). Kein klarer Sieger. Die Gilden sind stärker organisiert, die Binder brutaler, die Maschinisten technisch überlegen. Alle drei sind erschöpft. Vier Jahre Krieg fressen Reservoire auf. Die Suche nach einer Lösung — billigere Magie, stärkere Reservoire, neue Quellen — treibt alle drei an. Alle drei versuchen, die Resonanz-Begabten auf ihre Seite zu ziehen: mit Ehrlichkeit, mit List, mit Heimtücke.
 
 ### Was Moragh über Thalassien weiß
 
