@@ -523,9 +523,11 @@ Bildhauerin. Aus dem Süden, Binnenmeerküste. Tochter eines Steinmetzmeisters, 
 
 **Resonanz: Erde/Stein.** Spürt was unter der Oberfläche liegt. Wasser, Hohlräume, Adern im Gestein. Hält es für Handwerks-Instinkt — sie "hört" den Stein, seine Maserung, seine Schwächen. In Moragh: Stein formen ohne Werkzeug. Hand auf Basalt, und der Basalt gibt nach.
 
-Elke ging durch das Tor. Die anderen drei (Johann, Lene, Kaspar) hatten Angst und blieben. Elke nicht. Sie ging durch und lebt seitdem in Moragh. 400 Thalassien-Jahre, aber nur Wochen/Monate in Moragh-Zeit. Sie spricht die Sprache. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
+Elke ging durch das Portal. Die anderen drei (Johann, Lene, Kaspar) hatten Angst und blieben. Elke nicht. Sie ging durch und lebt seitdem in Moragh. 400 Thalassien-Jahre, aber nur ~1 Jahr in Moragh-Zeit. Sie spricht Moragh. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
 
-**In Buch 2:** Elke wird die Führerin der Vier (Alphina, Vesper, Maren, Runa). Sie kennt Moragh. Sie kennt die Sprache. Sie misstraut beiden Seiten — Varen UND den Städten.
+**Elkes Thalassisch ist von 1623.** Als die Vier (aus ~1820) sie treffen, klingt ihre Sprache falsch — alte Wörter, ausgestorbene Höflichkeitsformen, verschobene Grammatik. Sie sagt "Fuhre" statt "Kutsche", fragt nach dem "Druckstock" statt der Druckpresse. Die Vier verstehen sie — aber es hakt. Elke merkt es auch: ihre Wörter treffen nicht. Sie kennt keine Gaslampen, keine Dampfschiffe, keine Schreibmaschinen. 200 Jahre Thalassien-Geschichte sind an ihr vorbeigegangen. **Der Leser soll ahnen dass die Zeitdilatation größer ist als jeder denkt.** Vesper setzt es später zusammen.
+
+**In Buch 2:** Elke wird die Führerin der Vier (Alphina, Vesper, Maren, Runa). Sie kennt Moragh. Sie kennt die Sprache. Sie misstraut allen Fraktionen — Orath, Velmar UND der Thar.
 
 ---
 
