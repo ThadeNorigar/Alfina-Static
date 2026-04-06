@@ -340,7 +340,7 @@ Dreißig. Druck-Resonanz. Pilotiert eine Thar-Bestie (Magitech Walker, 8-12m, 3-
 
 **Orath** ist die größte und älteste Stadt, Zentrum eines Städtebunds. Demokratie, Wahlrecht (eingeschränkt durch Gildenmitgliedschaft), Gilden als Berufsverbände UND politische Machtblöcke. Jede Bund-Stadt autonom: eigene Armee, eigene Gilden, eigene Politik.
 
-**Magie-Philosophie:** Traditionell. Vahren (magische Wesen) rufen im Gleichgewicht — rufen und zurückschicken. Schulen, Meister, Lehrlinge. Die "zivilisierte" Seite.
+**Magie-Philosophie:** Traditionell. Schemen (magische Wesen) rufen im Gleichgewicht — rufen und zurückschicken. Schulen, Meister, Lehrlinge. Die "zivilisierte" Seite.
 
 **Der Bund ist ein Verteidigungsbündnis.** Wer beitritt hat sich entschieden: Krieg, nicht Verhandlung. Aber jede Stadt will die eigenen Truppen schonen und die der anderen verheizen. Jede Stadt will Kriegsbeute — eroberte Quellen, Handelsrouten, Einfluss. Strategie-Streit: Orath will frontalen Gegenangriff, kleinere Städte wollen reine Verteidigung.
 
@@ -366,37 +366,43 @@ Wollen die Resonanz-Begabten als **Verbündete und Waffen** gegen die Thar.
 
 **Die Gebrannten** (~20%): Krieger. Kampfmagie — Feuer, Frost, Druck (Schockwellen, Implosionen), starke Schwerkraftmanipulation (Gegner in den Boden drücken oder 30m hochheben), Vibration (Mauern schütteln, Rüstungen zerbröseln), Blendung (Licht/absolute Dunkelheit), Sporenhauch (Giftsporen, Halluzinationen), Knochenklang (eigenen Körper 3 Minuten verhärten, danach Kollaps), Magnetismus (Metallwaffen im Umkreis anziehen/abstoßen). Besser gestellt als Former, aber immer noch Untertanen.
 
-**Die Rufer** (~10%): Herrscher. Beschwörungsmagie — sie rufen Vahren und BINDEN sie. Religion und Herrschaft sind eins. Die Priester sind die stärksten Rufer. Geburtsrecht. Ein Geschirteter (Nicht-Rufer) kann niemals aufsteigen.
+**Die Rufer** (~10%): Herrscher. Beschwörungsmagie — sie rufen Schemen und BINDEN sie. Religion und Herrschaft sind eins. Die Priester sind die stärksten Rufer. Geburtsrecht. Ein Geschirteter (Nicht-Rufer) kann niemals aufsteigen.
 
-**Religion der Rufer:** Die Vahren WOLLEN gebunden werden. Es ist ihre Bestimmung, Form anzunehmen und zu dienen. Die Bindung ist ein Geschenk, kein Käfig. (Das glauben sie wirklich.) Der Hohepriester ist der Herrscher.
+**Religion der Rufer:** Die Schemen WOLLEN gebunden werden. Es ist ihre Bestimmung, Form anzunehmen und zu dienen. Die Bindung ist ein Geschenk, kein Käfig. (Das glauben sie wirklich.) Der Hohepriester ist der Herrscher.
 
-**Velmars Vahren-Armee:** Wenige Soldaten, aber hunderttausende gebundene Vahren. Ein einzelner starker Rufer bindet Dutzende. Die Elite bindet Hunderte. Deshalb hält sich Velmar trotz geringer Bevölkerung.
+**Velmars Schemen-Armee:** Wenige Soldaten, aber hunderttausende gebundene Schemen. Ein einzelner starker Rufer bindet Dutzende. Die Elite bindet Hunderte. Deshalb hält sich Velmar trotz geringer Bevölkerung.
 
-Wollen die Resonanz-Begabten **als Lockangebot und politisches Werkzeug** — bieten Diener-Vahren als Gastgeschenk an.
+Wollen die Resonanz-Begabten **als Lockangebot und politisches Werkzeug** — bieten Diener-Schemen als Gastgeschenk an.
 
-### Vahren — die gerufenen Wesen
+### Schemen — die gerufenen Wesen
 
-**Nicht "Dämonen."** Vahren (Singular: Vahr) ist das Moragh-Wort. Thalassier übersetzen es als "Dämonen" weil es das Nächste ist was sie kennen. Aber es stimmt nicht.
+**Nicht "Dämonen."** Thalassier übersetzen es als "Dämonen" weil es das Nächste ist was sie kennen. Aber Schemen sind keine Dämonen. Sie sind etwas das es in Thalassien nicht gibt.
 
-Vahren sind Wesen aus Moraghs Tiefe — formlos, alt, mit eigener Natur. Keine menschliche Psychologie. Manche WOLLEN Form. Die materielle Welt ist für sie ein Rausch — Sinne die sie sonst nicht haben. Die Funken drängen sich förmlich auf. Andere (die Großen, die Alten) kommen ungern.
+**Was sie sind:** Wesen aus Moraghs Tiefe. Nicht ganz da. Sie sehen humanoid aus — aber nur weil sie so beschworen wurden. Ihre natürliche Form ist formlos, unklar, schimmernd. Ein Schem in humanider Form hat Haut die sich warm anfühlt, aber raucht, verschwimmt an den Rändern. Wie etwas das man aus dem Augenwinkel sieht und das verschwindet wenn man direkt hinschaut — nur verschwindet es nicht.
 
-**Gilden-Praxis (Orath):** Rufen, arbeiten, zurückschicken. Gleichgewicht. Respekt.
-**Velmar-Praxis:** Rufen, binden, behalten. Eigentum. Die Bindung verformt sie nach dem Willen des Rufers — humanoid, bestialisch, abstrakt.
+**Intelligenz:** Unklar. Humanoide Schemen können Befehle hören und befolgen. Sie haben Gefühlsregungen — Neugier, Unbehagen, etwas das wie Freude aussieht. Aber sie sprechen nicht. Nie. Sie beobachten alles. Ihre Augen — schwarz, komplett, keine Iris — folgen allem was sich bewegt. Man weiß nicht ob sie denken oder nur reagieren. Ob sie leiden oder nur funktionieren. Diese Unklarheit ist BEABSICHTIGT durch den Autor — das Buch beantwortet es nicht.
 
-| Typ | Größe | Rufer nötig | Anwendung |
+**Beschworen vs. Gebunden:**
+- **Beschworen** (Orath-Praxis): Rufen, arbeiten, zurückschicken. Der Schem kommt, tut was verlangt, geht. Stirbt der Beschwörer: der Schem verschwindet SOFORT. Kein Problem.
+- **Gebunden** (Velmar-Praxis): Rufen, binden, behalten. Der Schem bleibt — Tage, Wochen, Jahre. Geformt nach dem Willen des Binders. **Stirbt der Binder: der Schem bleibt. Zeigt freien Willen.** Das ist nicht per se böse — kann nett sein, kann fatal sein, kann umspringen. Sehr impulsgetrieben. Ein gebundener Diener-Schem dessen Binder im Kampf stirbt könnte die Kinder des Binders beschützen. Oder er könnte alles in Reichweite zerstören. Oder beides nacheinander. Unberechenbar. Das macht verwaiste Schemen zum gefährlichsten Element auf jedem Schlachtfeld.
+
+**Formen:**
+
+| Typ | Größe/Form | Beschwörer nötig | Beschreibung |
 |---|---|---|---|
-| **Funken** | Faustgroß, leuchtend | 1 (jedes Kind) | Lampen, Wegbeleuchtung, Spielzeug |
-| **Helfer** | Katzengroß, tierisch | 1 | Botendienste, Späharbeit, Haushalt |
-| **Diener** | Menschengroß, humanoid | 1 (stark) | Arbeit, Kampf, Leibwache, Gesellschaft |
-| **Wächter** | 3-5m, bestialisch | 2-3 | Torwachen, Patrouillen, Grenzschutz |
-| **Kolosse** | 10-20m, formlos-massiv | 5-10 | Belagerung, Frontdurchbruch |
-| **Schrecken** | 30m+, kaum kontrollierbar | 10+ gleichzeitig | Massenvernichtung. Richtung Feind geschickt, richten Schaden an bis sie sterben. Unkontrollierbar nach Loslassen. Rufer die einen Schrecken halten altern um Jahre in Minuten |
+| **Funken** | Faustgroß, leuchtend | 1 (jedes Kind) | Lampen, Wegbeleuchtung. Drängen sich auf — sie WOLLEN leuchten |
+| **Helfer** | Katzengroß, tierisch | 1 | Botendienste, Späharbeit. Rauchen leicht an den Rändern |
+| **Diener** | Menschengroß, humanoid | 1 (stark) | Arbeit, Kampf, Leibwache, Gesellschaft. Haut warm, verschwimmt. Augen schwarz. Gehorchen, beobachten, schweigen |
+| **Wächter** | 3-5m, bestialisch | 2-3 | Torwachen, Patrouillen. Chimärenartig — was dem Beschwörer einfällt |
+| **Schrecken** | 3-4 Mann hoch, Bestien | 5-10+ gleichzeitig | Chimären, massiv, was auch immer der Beschwörer sich vorstellt. Werden Richtung Feind geschickt, richten Schaden an bis sie sterben oder die Beschwörer sterben. Beschwörer die einen Schrecken halten altern um Jahre in Minuten |
+
+**Die Gefahr verwaister Schemen:** Wenn ein Binder in Velmar stirbt, bleiben alle seine gebundenen Schemen. Mit freiem Willen. Impulsgetrieben. Das kann eine Nachbarschaft retten — oder auslöschen. Velmar hat deshalb "Jäger" — spezialisierte Gebrannte die verwaiste Schemen vernichten bevor sie Schaden anrichten. Manchmal zu spät.
 
 ### Das Konglomerat der Thar (kurz: die Thar)
 
 **Zusammenschluss von Städten.** Demokratie abgeschafft, durch Firmen-/Organisationsstruktur ersetzt. Jede Thar-Stadt ist wie eine Abteilung im Konzern. Ein Thar-General muss keinen Rat fragen — er hat Befehlsgewalt. Deshalb gewinnen die Thar: nicht weil sie stärker sind, sondern weil sie schneller entscheiden.
 
-**Magie-Philosophie:** Magie als Ingenieurwesen. Keine Vahren — reine Elementarkraft. Menschen die **Druck, Metall, Feuer** manipulieren. Ihre Magie fließt durch Maschinen: Pressen, Schmieden, Öfen die mit Magie statt Kohle laufen. Verachten die Beschwörer ("Wer Wesen braucht, versteht die Materie nicht").
+**Magie-Philosophie:** Magie als Ingenieurwesen. Keine Schemen — reine Elementarkraft. Menschen die **Druck, Metall, Feuer** manipulieren. Ihre Magie fließt durch Maschinen: Pressen, Schmieden, Öfen die mit Magie statt Kohle laufen. Verachten die Beschwörer ("Wer Wesen braucht, versteht die Materie nicht").
 
 **Das Leylinien-Netzwerk:** Die Thar HABEN die Reservoir-Quellen bereits über Leylinien gekoppelt — ein funktionierendes Energienetzwerk. Wohlstand für alle. Konglomeratsdenken: Magie demokratisieren, nicht horten. Rational, progressiv, nachvollziehbar. **Das Problem:** Je mehr Quellen im Netzwerk, desto verheerender eine Kettenreaktion durch Fernüberladung. Varen hat die Überladung versehentlich entdeckt und drei Quellen zerstört. Die Thar wissen das nicht. Das Netzwerk ist eine Bombe die noch keiner gezündet hat. Varen kann sie nicht warnen ohne sich als Verursacher des Krieges zu verraten.
 
@@ -414,9 +420,9 @@ Einzelne Städte die weder im Bund noch bei der Thar sind. Ähnlich Velmar — e
 
 | Fraktion | Dieselbe Magie, andere Nutzung |
 |---|---|
-| **Bund von Orath** | Gleichgewicht. Vahren rufen UND zurückschicken. Schulen, Meister, Disziplin. Magie als Handwerk mit Ethik |
+| **Bund von Orath** | Gleichgewicht. Schemen rufen UND zurückschicken. Schulen, Meister, Disziplin. Magie als Handwerk mit Ethik |
 | **Konglomerat der Thar** | Effizienz. Magie durch Maschinen kanalisieren. Leylinien-Netzwerk. Magie als Ingenieurwesen |
-| **Velmar** | Herrschaft. Magie bestimmt die Kaste. Vahren als Besitz. Bindung als göttliches Recht |
+| **Velmar** | Herrschaft. Magie bestimmt die Kaste. Schemen als Besitz. Bindung als göttliches Recht |
 
 ### Das Dreieck in Buch 2
 Orath, Velmar, Thar. Jeder will die Resonanz-Begabten. Elke misstraut allen dreien. Die Frage ist nicht "Wer ist gut?" — die Frage ist "Wer ist am wenigsten gefährlich?"
