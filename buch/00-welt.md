@@ -332,23 +332,94 @@ Dreißig. Druck-Resonanz. Pilotiert eine Thar-Bestie (Magitech Walker, 8-12m, 3-
 
 ## Die Fraktionen in Moragh
 
-### Die Gilden (Städte)
-Traditionelle Magie. Wesen rufen im Gleichgewicht — rufen und zurückschicken. Schulen, Meister, Lehrlinge. Die "zivilisierte" Seite. Mächtig, organisiert, bürokratisch. Wollen die Resonanz-Begabten als **Verbündete und Waffen** gegen die Binder.
+### Politische Struktur
 
-### Die Binder
-Magie als Macht. Wesen BINDEN statt rufen. Dämonen als Armee. Eine Fraktion die aus den Gilden ausgestoßen wurde, geführt von einzelnen mächtigen Beschwörern. Operieren aus den Grenzlanden — Guerilla, Stoßtrupps, gebundene Dämonen. Varen war bei ihnen, ist aber auch von den Bindern ausgestoßen. Die Binder-Fraktion als Ganzes ist größer und gefährlicher als er allein. Wollen die Resonanz-Begabten **studieren und replizieren** — kostenlose Magie.
+**Ganz Moragh sind Städte.** Jede Stadt sitzt auf einer Reservoir-Quelle. Kein Staat hat Grenzen im europäischen Sinn — es gibt Städte, ihr Umland, und die Zugehörigkeit zu einem Bündnis. Ein Hochplateau, Europa-groß, endlich. Die Quellen bestimmen alles.
+
+### Der Bund von Orath
+
+**Orath** ist die größte und älteste Stadt, Zentrum eines Städtebunds. Demokratie, Wahlrecht (eingeschränkt durch Gildenmitgliedschaft), Gilden als Berufsverbände UND politische Machtblöcke. Jede Bund-Stadt autonom: eigene Armee, eigene Gilden, eigene Politik.
+
+**Magie-Philosophie:** Traditionell. Vahren (magische Wesen) rufen im Gleichgewicht — rufen und zurückschicken. Schulen, Meister, Lehrlinge. Die "zivilisierte" Seite.
+
+**Der Bund ist ein Verteidigungsbündnis.** Wer beitritt hat sich entschieden: Krieg, nicht Verhandlung. Aber jede Stadt will die eigenen Truppen schonen und die der anderen verheizen. Jede Stadt will Kriegsbeute — eroberte Quellen, Handelsrouten, Einfluss. Strategie-Streit: Orath will frontalen Gegenangriff, kleinere Städte wollen reine Verteidigung.
+
+**Korruption:** Nicht ob gekämpft wird, sondern WIE. Aufträge an eigene Gilden, Versorgungslieferungen über befreundete Händler, Generäle die eigene Stadtviertel bevorzugen. Gildenmeister die Quellen-Zugang an Freunde verkaufen. Ratssitze die offiziell gewählt, praktisch dynastisch sind.
+
+**Wahlfreiheit:** Echt. Pressefreiheit, Redefreiheit, Versammlungsfreiheit. Auf dem Papier perfekt. In der Praxis: wer die falsche Gilde kritisiert, bekommt keine Aufträge mehr. Keine Gewalt — nur Hunger.
+
+**Warum der Bund den Krieg verliert:** Nicht weil er schwächer ist — der Bund HAT mehr Menschen, mehr Quellen, mehr Erfahrung. Er verliert weil zwanzig Städte zwanzig Meinungen haben. Jede Stadt bezahlt ihre eigene Armee, koordiniert schlecht. Die Thar hat EINE Kommandokette. Der Bund hat Ausschüsse.
+
+**Bevölkerung:** ~8-10 Millionen. Das Kernland des Plateaus. Die reichsten Quellen, die ältesten Städte. Die Zivilisation von Moragh.
+
+Wollen die Resonanz-Begabten als **Verbündete und Waffen** gegen die Thar.
+
+### Velmar
+
+**Eine Stadt mit 5 angebundenen Städten.** Eigenständig — nicht im Bund, nicht bei der Thar. Wird von der Thar angegriffen, wehrt sich. Zu stolz für den Bund (Kastensystem verträgt sich nicht mit Orath-Demokratie). Zu eigenständig für die Thar (Firmenstruktur verträgt sich nicht mit dem Kastensystem).
+
+**Bevölkerung:** ~2 Millionen. Randgebiet des Plateaus. Steilklippen auf einer Seite (Meer — Donnern der Gezeiten hörbar), Kriegsfront auf den anderen. Karg, windig.
+
+**Kastensystem — drei Kasten:**
+
+**Die Former** (~70%): Arbeiter/Handwerker. Praktische Magie — leichte Schwerkraftmanipulation, Stein- und Metallformen, Holzbiegen, Wasserführen, Wärmehalten. Größte Kaste. Keine politischen Rechte. Kaste wird bei Geburt zugewiesen, nicht nach Begabung getestet. Ein Former-Kind mit Kampfmagie bleibt Former. Das System unterdrückt Talent.
+
+**Die Gebrannten** (~20%): Krieger. Kampfmagie — Feuer, Frost, Druck (Schockwellen, Implosionen), starke Schwerkraftmanipulation (Gegner in den Boden drücken oder 30m hochheben), Vibration (Mauern schütteln, Rüstungen zerbröseln), Blendung (Licht/absolute Dunkelheit), Sporenhauch (Giftsporen, Halluzinationen), Knochenklang (eigenen Körper 3 Minuten verhärten, danach Kollaps), Magnetismus (Metallwaffen im Umkreis anziehen/abstoßen). Besser gestellt als Former, aber immer noch Untertanen.
+
+**Die Rufer** (~10%): Herrscher. Beschwörungsmagie — sie rufen Vahren und BINDEN sie. Religion und Herrschaft sind eins. Die Priester sind die stärksten Rufer. Geburtsrecht. Ein Geschirteter (Nicht-Rufer) kann niemals aufsteigen.
+
+**Religion der Rufer:** Die Vahren WOLLEN gebunden werden. Es ist ihre Bestimmung, Form anzunehmen und zu dienen. Die Bindung ist ein Geschenk, kein Käfig. (Das glauben sie wirklich.) Der Hohepriester ist der Herrscher.
+
+**Velmars Vahren-Armee:** Wenige Soldaten, aber hunderttausende gebundene Vahren. Ein einzelner starker Rufer bindet Dutzende. Die Elite bindet Hunderte. Deshalb hält sich Velmar trotz geringer Bevölkerung.
+
+Wollen die Resonanz-Begabten **als Lockangebot und politisches Werkzeug** — bieten Diener-Vahren als Gastgeschenk an.
+
+### Vahren — die gerufenen Wesen
+
+**Nicht "Dämonen."** Vahren (Singular: Vahr) ist das Moragh-Wort. Thalassier übersetzen es als "Dämonen" weil es das Nächste ist was sie kennen. Aber es stimmt nicht.
+
+Vahren sind Wesen aus Moraghs Tiefe — formlos, alt, mit eigener Natur. Keine menschliche Psychologie. Manche WOLLEN Form. Die materielle Welt ist für sie ein Rausch — Sinne die sie sonst nicht haben. Die Funken drängen sich förmlich auf. Andere (die Großen, die Alten) kommen ungern.
+
+**Gilden-Praxis (Orath):** Rufen, arbeiten, zurückschicken. Gleichgewicht. Respekt.
+**Velmar-Praxis:** Rufen, binden, behalten. Eigentum. Die Bindung verformt sie nach dem Willen des Rufers — humanoid, bestialisch, abstrakt.
+
+| Typ | Größe | Rufer nötig | Anwendung |
+|---|---|---|---|
+| **Funken** | Faustgroß, leuchtend | 1 (jedes Kind) | Lampen, Wegbeleuchtung, Spielzeug |
+| **Helfer** | Katzengroß, tierisch | 1 | Botendienste, Späharbeit, Haushalt |
+| **Diener** | Menschengroß, humanoid | 1 (stark) | Arbeit, Kampf, Leibwache, Gesellschaft |
+| **Wächter** | 3-5m, bestialisch | 2-3 | Torwachen, Patrouillen, Grenzschutz |
+| **Kolosse** | 10-20m, formlos-massiv | 5-10 | Belagerung, Frontdurchbruch |
+| **Schrecken** | 30m+, kaum kontrollierbar | 10+ gleichzeitig | Massenvernichtung. Richtung Feind geschickt, richten Schaden an bis sie sterben. Unkontrollierbar nach Loslassen. Rufer die einen Schrecken halten altern um Jahre in Minuten |
 
 ### Das Konglomerat der Thar (kurz: die Thar)
-Magie als Ingenieurwesen. Keine Wesen — reine Kraft. Menschen die **Druck, Metall, Feuer** manipulieren. Ihre Magie fließt durch Maschinen: Pressen, Schmieden, Öfen die mit Magie statt Kohle laufen. Ihre Stadt ist laut, heiß, voller Rauch. Verachten die Beschwörer ("Wer Wesen braucht, versteht die Materie nicht"). Misstrauen den Gilden. Expandieren aggressiv um neue Reservoir-Quellen zu erschließen.
 
-**Das Leylinien-Netzwerk:** Die Thar HABEN die Reservoir-Quellen bereits über Leylinien gekoppelt — ein funktionierendes Energienetzwerk. Die Kopplung funktioniert. Wohlstand für alle. Konglomeratsdenken: Magie demokratisieren, nicht horten. Die Idee ist rational, progressiv, nachvollziehbar. **Das Problem:** Je mehr Quellen im Netzwerk hängen, desto verheerender eine Kettenreaktion durch Fernüberladung. Varen hat die Überladung versehentlich entdeckt und drei Quellen zerstört. Die Thar wissen das nicht. Aber irgendwann wird jemand im Netzwerk dasselbe entdecken — und dann ist es eine WAFFE. Eine einzige Überladung im vernetzten System könnte ALLE verbundenen Quellen gleichzeitig zerstören. Varen kann sie nicht warnen ohne sich als Verursacher des Krieges zu verraten.
+**Zusammenschluss von Städten.** Demokratie abgeschafft, durch Firmen-/Organisationsstruktur ersetzt. Jede Thar-Stadt ist wie eine Abteilung im Konzern. Ein Thar-General muss keinen Rat fragen — er hat Befehlsgewalt. Deshalb gewinnen die Thar: nicht weil sie stärker sind, sondern weil sie schneller entscheiden.
+
+**Magie-Philosophie:** Magie als Ingenieurwesen. Keine Vahren — reine Elementarkraft. Menschen die **Druck, Metall, Feuer** manipulieren. Ihre Magie fließt durch Maschinen: Pressen, Schmieden, Öfen die mit Magie statt Kohle laufen. Verachten die Beschwörer ("Wer Wesen braucht, versteht die Materie nicht").
+
+**Das Leylinien-Netzwerk:** Die Thar HABEN die Reservoir-Quellen bereits über Leylinien gekoppelt — ein funktionierendes Energienetzwerk. Wohlstand für alle. Konglomeratsdenken: Magie demokratisieren, nicht horten. Rational, progressiv, nachvollziehbar. **Das Problem:** Je mehr Quellen im Netzwerk, desto verheerender eine Kettenreaktion durch Fernüberladung. Varen hat die Überladung versehentlich entdeckt und drei Quellen zerstört. Die Thar wissen das nicht. Das Netzwerk ist eine Bombe die noch keiner gezündet hat. Varen kann sie nicht warnen ohne sich als Verursacher des Krieges zu verraten.
 
 **Thar-Bestien (Magitech Walker):** 8-12 Meter hoch, aus Moragh-Stahl. 3-Mann-Besatzung: Pilot (Druck), Schütze (Feuer/Hitze), Navigator (Muster). Reservoir-Kern als Batterie, 6-8 Stunden Einsatz. Waffen: Hitzestrahlen, Druckwellen, geschmolzene Metallprojektile. Die stärkste Waffe im Krieg. Nyr pilotiert eine.
 
 Wollen die Resonanz-Begabten nicht studieren. Wollen sie **EINSETZEN.** Als lebende Energiequellen. Kostenlose Magie = endlose Kraft. Ein Resonanz-Begabter an einer Maschine = eine Maschine die nie stoppt.
 
+### Ungebundene Städte
+
+Einzelne Städte die weder im Bund noch bei der Thar sind. Ähnlich Velmar — eigenständig, unterschiedlich groß. Wollen verhandeln, neutral bleiben, sich arrangieren. Manche handeln aktiv mit der Thar. Manche hoffen dass die Thar sie überspringt. Werden Stück für Stück geschluckt. Wer nicht im Bund ist und nicht bei der Thar, wird früher oder später eingenommen. Nur angedeutet, nicht auserzählt.
+
+### Magie-System — Klarstellung
+
+**Jeder in Moragh hat Magie.** Elementar, praktisch, unterschiedlich stark. Alle Fraktionen haben dieselbe Magie — sie unterscheiden sich in der PHILOSOPHIE:
+
+| Fraktion | Dieselbe Magie, andere Nutzung |
+|---|---|
+| **Bund von Orath** | Gleichgewicht. Vahren rufen UND zurückschicken. Schulen, Meister, Disziplin. Magie als Handwerk mit Ethik |
+| **Konglomerat der Thar** | Effizienz. Magie durch Maschinen kanalisieren. Leylinien-Netzwerk. Magie als Ingenieurwesen |
+| **Velmar** | Herrschaft. Magie bestimmt die Kaste. Vahren als Besitz. Bindung als göttliches Recht |
+
 ### Das Dreieck in Buch 2
-Gilden, Binder, Thar. Jeder will die Drei. Elke misstraut allen dreien. Die Frage ist nicht "Wer ist gut?" — die Frage ist "Wer ist am wenigsten gefährlich?"
+Orath, Velmar, Thar. Jeder will die Resonanz-Begabten. Elke misstraut allen dreien. Die Frage ist nicht "Wer ist gut?" — die Frage ist "Wer ist am wenigsten gefährlich?"
 
 ---
 
@@ -358,7 +429,7 @@ Gilden, Binder, Thar. Jeder will die Drei. Elke misstraut allen dreien. Die Frag
 
 **Name: Varen.** Moragh-geboren. Groß, muskulös, graue Schläfen, schwarzes Haar. Augen: tiefes Purpur. Attraktiv. Charmant — nicht gespielt, echt. Das macht ihn gefährlicher.
 
-**Unabhängig. Aus ALLEN Fraktionen ausgestoßen.** Forscher, kein Soldat. War bei den Gilden — sein Experiment hat den Krieg ausgelöst (siehe "Varens Schuld"). War bei den Bindern — zu eigenständig. War bei der Thar — zu gefährlich (sie ahnen dass er mehr weiß als er sagt). Keine Fraktion will ihn. Alle fürchten ihn. Er handelt auf eigene Faust, mit einem Handvoll Deserteuren die ihm folgen.
+**Unabhängig. Aus ALLEN Fraktionen ausgestoßen.** Forscher, kein Soldat. War bei den Gilden — sein Experiment hat den Krieg ausgelöst (siehe "Varens Schuld"). War in Velmar — zu eigenständig. War bei der Thar — zu gefährlich (sie ahnen dass er mehr weiß als er sagt). Keine Fraktion will ihn. Alle fürchten ihn. Er handelt auf eigene Faust, mit einem Handvoll Deserteuren die ihm folgen.
 
 **Mächtig. GUT GENÄHRT. In Form.** Nicht ausgemergelt, nicht am Ende. Das Tor zu öffnen hat ihn Monate gekostet, aber er hat sich ERHOLT. Großes Reservoir, jahrelange Erfahrung. Seine Magie kostet ihn (er ist Moragh-geboren) — Müdigkeit nach dem Kampf, ja. Aber er hat Reserven.
 
