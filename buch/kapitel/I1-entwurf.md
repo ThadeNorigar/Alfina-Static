@@ -4,7 +4,7 @@
 - **Erzähler:** Das Manuskript selbst. Dritte Person, Präteritum.
 - **Ton:** Altmodisch, sorgfältig, als würde jemand die Wahrheit aufschreiben bevor er sie vergisst. Nicht parodistisch. Nicht archaisierend. Einfach: langsamer, bedächtiger, formeller als die modernen Kapitel.
 - **Figur:** Elke van der Holt, Bildhauerin. Resonanz: Erde/Stein.
-- **Zeit:** Vor 400 Jahren. 1623 (das Jahr des großen Feuers).
+- **Zeit:** Vor 400 Jahren. 1423 (das Jahr des großen Feuers).
 - **Ort:** Vael, Grauküste. Ankunft.
 
 ## Wortziel: 1.500-2.000 Wörter (Interludium, kürzer als Kapitel)

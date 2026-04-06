@@ -73,7 +73,7 @@ Wenn die Schwelle aktiver wird, werden die Lecks stärker. Nebel dreimal die Woc
 
 **Das Lichthaus** — Speichergebäude am Hafen. Sorels Dunkelkammer im Keller.
 
-**Das Archiv** — Im Rathauskeller. Gehütet von **Esther Voss**, Archivarin, unterstützt von ihrer Nichte **Jara Voss**. Enthält ein Manuskript — teilweise echt (geschrieben von Johann, Lene, Kaspar 1623), teilweise gefälscht (von Varen überschrieben und ergänzt).
+**Das Archiv** — Im Rathauskeller. Gehütet von **Esther Voss**, Archivarin, unterstützt von ihrer Nichte **Jara Voss**. Enthält ein Manuskript — teilweise echt (geschrieben von Johann, Lene, Kaspar 1423), teilweise gefälscht (von Varen überschrieben und ergänzt).
 
 **Die Druckerei Kvist** — Oberstadt, nahe am Marktplatz. Betrieben von **Runa Kvist**. Heißes Metall, Bleilettern, Druckerschwärze. Runa druckt alles — Handelsregister, Flugblätter, gelegentlich Fachzeitschriften.
 
@@ -93,7 +93,7 @@ Varen hat per Daemon eine Anleitung in Moragh-Sprache hinterlegt — Papier mit 
 
 **DIE FALLE:** Mit Sorels Tod fehlt eine der vier Resonanzen. Das Ritual kann nie wieder ausgeführt werden. Der Rückweg ist Mathematik, nicht Magie. Drei reichen nicht.
 
-Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. Elke ging vor ~200 Thalassien-Jahren durch = vor ~6 Moragh-Monaten. Die gesamte Trilogie (*Der Riss / Das Auge / Die Naht*) auf Moragh-Seite dauert ~1 Jahr. **Für die Rückkehr nach Vael (Buch 3) bedeutet das: Jahrhunderte sind vergangen. Alles Bekannte ist weg. Alle Kontakte, weg. Die Stadt die sie kannten existiert nicht mehr.**
+Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. Elke ging vor ~400 Thalassien-Jahren durch = vor ~1 Moragh-Jahr. Die gesamte Trilogie (*Der Riss / Das Auge / Die Naht*) auf Moragh-Seite dauert ~1 Jahr. **Für die Rückkehr nach Vael (Buch 3) bedeutet das: Jahrhunderte sind vergangen. Alles Bekannte ist weg. Alle Kontakte, weg. Die Stadt die sie kannten existiert nicht mehr.**
 
 ### Warum es Resonanz-Begabte anzieht
 
@@ -439,7 +439,7 @@ Orath, Velmar, Thar. Jeder will die Resonanz-Begabten. Elke misstraut allen drei
 
 **Mächtig. GUT GENÄHRT. In Form.** Nicht ausgemergelt, nicht am Ende. Das Tor zu öffnen hat ihn Monate gekostet, aber er hat sich ERHOLT. Großes Reservoir, jahrelange Erfahrung. Seine Magie kostet ihn (er ist Moragh-geboren) — Müdigkeit nach dem Kampf, ja. Aber er hat Reserven.
 
-**Spricht Thalassisch** — flüssig, mit Akzent. Hat Elke vor 6 Moragh-Monaten getroffen. Sie haben Wochen zusammen verbracht — Faszination, intellektuelle Anziehung, Forschungspartnerschaft. Elke hat ihm Thalassisch beigebracht. Dann hat sie ihn verlassen: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Varen hat weitergemacht. Allein.
+**Spricht Thalassisch** — flüssig, mit Akzent. Hat Elke vor ~1 Moragh-Jahr getroffen. Sie haben Wochen zusammen verbracht — Faszination, intellektuelle Anziehung, Forschungspartnerschaft. Elke hat ihm Thalassisch beigebracht. Dann hat sie ihn verlassen: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Varen hat weitergemacht. Allein.
 
 ### Varens Schuld
 
@@ -471,7 +471,7 @@ Er hat das Portal aktiviert um Resonanz-Begabte nach Moragh zu bringen. Will sie
 
 ### Sein Plan
 
-Er hat die Schwelle aktiviert (das allein hat ihn Monate Erholung gekostet — danach hat er sich vollständig erholt). Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen von 1623 mit falschen Anweisungen ergänzt. Er hat per Daemon die Ritual-Anleitung und das Moragh-Sprachbuch in Vael hinterlegt. Aber die Vier hat er NICHT gerufen. Die Schwelle zieht Resonanz-Begabte an, von allein. Er wartet nur.
+Er hat die Schwelle aktiviert (das allein hat ihn Monate Erholung gekostet — danach hat er sich vollständig erholt). Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen von 1423 mit falschen Anweisungen ergänzt. Er hat per Daemon die Ritual-Anleitung und das Moragh-Sprachbuch in Vael hinterlegt. Aber die Vier hat er NICHT gerufen. Die Schwelle zieht Resonanz-Begabte an, von allein. Er wartet nur.
 
 **Die Falle:** Die Vier führen das Ritual aus und kommen freiwillig durch. Sorel stirbt — damit fehlt eine der vier Resonanzen für die Rückkehr. Die Falle ist nicht geplant (Sorels Tod war unbeabsichtigt), aber sie ist endgültig.
 
@@ -523,15 +523,15 @@ Bildhauerin. Aus dem Süden, Binnenmeerküste. Tochter eines Steinmetzmeisters, 
 
 **Resonanz: Erde/Stein.** Spürt was unter der Oberfläche liegt. Wasser, Hohlräume, Adern im Gestein. Hält es für Handwerks-Instinkt — sie "hört" den Stein, seine Maserung, seine Schwächen. In Moragh: Stein formen ohne Werkzeug. Hand auf Basalt, und der Basalt gibt nach.
 
-Elke ging durch das Portal. Die anderen drei (Johann, Lene, Kaspar) hatten Angst und blieben. Elke nicht. Sie ging durch und lebt seitdem in Moragh. 400 Thalassien-Jahre, aber nur ~1 Jahr in Moragh-Zeit. Sie spricht Moragh. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
+Elke ging durch das Portal. Die anderen drei (Johann, Lene, Kaspar) hatten Angst und blieben. Elke nicht. Sie ging durch und lebt seitdem in Moragh. ~400 Thalassien-Jahre, aber nur ~1 Moragh-Jahr. Sie spricht Moragh. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
 
-**Elkes Thalassisch ist von 1623.** Als die Vier (aus ~1820) sie treffen, klingt ihre Sprache falsch — alte Wörter, ausgestorbene Höflichkeitsformen, verschobene Grammatik. Sie sagt "Fuhre" statt "Kutsche", fragt nach dem "Druckstock" statt der Druckpresse. Die Vier verstehen sie — aber es hakt. Elke merkt es auch: ihre Wörter treffen nicht. Sie kennt keine Gaslampen, keine Dampfschiffe, keine Schreibmaschinen. 200 Jahre Thalassien-Geschichte sind an ihr vorbeigegangen. **Der Leser soll ahnen dass die Zeitdilatation größer ist als jeder denkt.** Vesper setzt es später zusammen.
+**Elkes Thalassisch ist von 1423.** Als die Vier (aus ~1820) sie treffen, klingt ihre Sprache falsch — alte Wörter, ausgestorbene Höflichkeitsformen, verschobene Grammatik. Sie sagt "Fuhre" statt "Kutsche", fragt nach dem "Druckstock" statt der Druckpresse. Die Vier verstehen sie — aber es hakt. Elke merkt es auch: ihre Wörter treffen nicht. Sie kennt keine Gaslampen, keine Dampfschiffe, keine Schreibmaschinen. 200 Jahre Thalassien-Geschichte sind an ihr vorbeigegangen. **Der Leser soll ahnen dass die Zeitdilatation größer ist als jeder denkt.** Vesper setzt es später zusammen.
 
 **In Buch 2:** Elke wird die Führerin der Vier (Alphina, Vesper, Maren, Runa). Sie kennt Moragh. Sie kennt die Sprache. Sie misstraut allen Fraktionen — Orath, Velmar UND der Thar.
 
 ---
 
-## Zeitgeschichte — 1623
+## Zeitgeschichte — 1423
 
 Vier Menschen kamen nach Vael:
 - **Elke van der Holt** — Bildhauerin. Resonanz: Erde/Stein. Ging durch das Tor.
@@ -541,7 +541,7 @@ Vier Menschen kamen nach Vael:
 
 Das Tor war offen. Varen hatte es geöffnet, zum ersten Mal. Er suchte Resonanz-Begabte. Elke ging durch. Die anderen drei schlossen das Tor — von der Thalassien-Seite. Die Dämonen, die schon durch waren, verbrannten Vael. Das große Feuer. Die drei schrieben auf was passiert war. Varen platzierte sein eigenes "Manuskript" daneben, für das nächste Mal.
 
-**Die 1623-Interludien (9 Stück):**
+**Die 1423-Interludien (9 Stück):**
 
 | # | ca. Seite | Inhalt |
 |---|-----------|--------|
