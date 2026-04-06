@@ -38,7 +38,7 @@ Er griff in die Tasche. Der schwarze Turm lag dort, wo er immer lag. Holz, glatt
 
 Das letzte Turnier war dreizehn Jahre her.
 
-Großer Saal der Mechanikersgilde, Karst. Hundert Bretter auf langen Tischen. Bohnerwachs auf dem Parkett. Holzgeruch von den Figuren. Das Klicken der Schachuhren, hundert gleichzeitig, ein trockenes Rascheln das den Saal füllte wie Regen auf einem Blechdach. Vesper war neunzehn. Brett sieben. Schwarz.
+Großer Saal der Mechanikersgilde, Karst. Hundert Bretter auf langen Tischen. Bohnerwachs auf dem Parkett. Holzgeruch von den Figuren. Das Klicken der Schachuhren, hundert gleichzeitig, ein trockenes Rascheln das den Saal füllte. Vesper war neunzehn. Brett sieben. Schwarz.
 
 Gewinnstellung. Springer auf e4, Dame auf h5. Drei Züge bis Matt. Sein Gegner — ein Uhrmachergeselle aus dem Nordviertel, blond, die Stirn feucht — sah es nicht. Seine Augen irrten über das Brett, Figur für Figur. Vesper wusste es. Sein Körper wusste es. Schultern gelöst, Atem flach, die Finger ruhig auf dem Tisch. Drei Züge. Einfach.
 
@@ -54,7 +54,9 @@ Sein Herz schlug in seinen Ohren. Seine Finger lagen auf der Dame. Kalt. Reglos.
 
 Er bot Remis an.
 
-Der Gegner starrte. Das Publikum verstand nicht. Der Schiedsrichter fragte ob er sicher sei. Vesper stand auf. Schob den Stuhl zurück. Das Geräusch der Stuhlbeine auf dem Parkett war laut in der Stille, die sein Angebot erzeugt hatte. Er ging durch den Saal, an den hundert Brettern vorbei, und die Schachuhren klickten und die Spieler schauten nicht auf und die Luft roch nach Bohnerwachs und nach Holz und nach dem Schweiß von Männern die nachdachten. In seiner Tasche der schwarze Turm. Er wusste nicht mehr ob er ihn eingesteckt hatte oder ob seine Finger es allein getan hatten.
+Der Gegner starrte. Das Publikum verstand nicht. Der Schiedsrichter fragte ob er sicher sei. Vesper stand auf. Schob den Stuhl zurück. Das Geräusch der Stuhlbeine auf dem Parkett war laut in der Stille, die sein Angebot erzeugt hatte.
+
+Er ging durch den Saal, an den hundert Brettern vorbei. Die Schachuhren klickten. Die Spieler schauten nicht auf. Die Luft roch nach Bohnerwachs und nach Holz und nach dem Schweiß von Männern die nachdachten. In seiner Tasche der schwarze Turm. Er wusste nicht mehr ob er ihn eingesteckt hatte oder ob seine Finger es allein getan hatten.
 
 Seitdem: Uhren. Zahnräder. Federn. Dinge die Muster hatten, weil ein Mensch sie dort hingelegt hatte. Jedes Rad ein Grund. Jede Feder eine Funktion. Kein Geheimnis. Keine Diagonalen. Keine zweite Ebene.
 
@@ -70,7 +72,7 @@ Der Tisch hinter ihm war leer.
 ---
 
 
-Das Gasthaus "Zur Feder" roch nach Holzfeuer und nassem Mantel und dem Bier das in die Tischplatten eingezogen war, über Jahrzehnte, ein süßlicher Unterton unter dem Rauch. Die Decke war niedrig. Die Balken dunkel. An den Wänden hingen Uhren — alte, kaputte, die Wirte-Familie sammelte sie, niemand wusste warum. Dreizehn Stück, keine lief. Vesper hatte einmal angeboten sie zu reparieren. Der Wirt hatte gesagt: "Die sollen so."
+Das Gasthaus "Zur Feder" roch nach Holzfeuer, nassem Mantel, dem Bier das in die Tischplatten eingezogen war — über Jahrzehnte, ein süßlicher Unterton unter dem Rauch. Die Decke war niedrig. Die Balken dunkel. An den Wänden hingen Uhren — alte, kaputte, die Wirte-Familie sammelte sie, niemand wusste warum. Dreizehn Stück, keine lief. Vesper hatte einmal angeboten sie zu reparieren. Der Wirt hatte gesagt: "Die sollen so."
 
 Vesper saß an seinem Platz. Ecke, Rücken zur Wand, Blick auf die Tür. Der Wirt stellte ein Bier auf den Tisch, wortlos. Vesper kam jeden Abend. Nicht wegen des Biers. Wegen der Stimmen — Uhrmacher, Kupferschmiede, Schlosser, nach Feierabend, die Ärmel hochgerollt, die Hände noch grau vom Staub. Geräusche die andere Menschen machten. Manchmal reichte das.
 
@@ -156,7 +158,7 @@ Vesper hielt den Blick. Er kannte Blicke. Das Schachbrett hatte ihn gelehrt Blic
 
 Dann schaute er weg. Bestellte Bier. Das Gespräch driftete — Wetter, Straßen, Kutschpreise im Frühjahr. Beiläufig, gelöst, als hätte die Standuhr ihn nie interessiert. Er erzählte von der Grauküste, vom Nebel der von See kam und den sie Vaeler Atem nannten. Vier Tage mit der Kutsche, sagte er. Halbinsel, drei Seiten Wasser. Seine Stimme war warm. Sein Lachen kam leicht.
 
-Vesper hörte zu. Seine Hände lagen auf dem Tisch. Ruhig. In seinem Kopf lief die Zahl, wie ein Pendel das nicht aufhörte.
+Vesper hörte zu. Seine Hände lagen auf dem Tisch. Ruhig. In seinem Kopf lief die Zahl. Hörte nicht auf.
 
 Der Mann stand auf. Zog seinen Mantel an. Groß, unter dem niedrigen Balken, die schmalen Schultern, der nasse Stoff. "Gute Nacht." Er nickte Vesper zu. Ein Nicken das eine Sekunde zu lang dauerte.
 
@@ -182,7 +184,9 @@ Vesper ging nach Hause. Drei Straßen, sechs Minuten. Der Turm in seiner Tasche.
 
 Er schlief nicht.
 
-Das Bett war schmal. Die Decke rau, Wolle, sie roch nach ihm — nach Öl und Messing und dem Staub der Werkstatt, der sich in alles fraß. Der Schlafraum war dunkel. Kein Mond, kein Licht von der Gasse. Karst war still. Die Werkstätten geschlossen, die Hämmer ruhig, der Schleifstein stumm. Nur das Ticken. Aus dem Nebenraum, gedämpft durch die Wand. Die sechsundzwanzig Uhren in der Werkstatt — zehn reparierte auf dem Regal, der Rest seine eigenen, Referenzuhren, Sammlerstücke, Werke die er aufhob weil sie zu schön waren zum Wegwerfen. Sechsundzwanzig verschiedene Tempi, sechsundzwanzig verschiedene Stimmen.
+Das Bett war schmal. Die Decke rau, Wolle, sie roch nach ihm — nach Öl und Messing und dem Staub der Werkstatt, der sich in alles fraß. Der Schlafraum war dunkel. Kein Mond, kein Licht von der Gasse. Karst war still. Die Werkstätten geschlossen, die Hämmer ruhig, der Schleifstein stumm.
+
+Nur das Ticken. Aus dem Nebenraum, gedämpft durch die Wand. Die Uhren in der Werkstatt — sechsundzwanzig Stück, jede mit eigenem Tempo, eigener Stimme.
 
 Vesper lag auf dem Rücken. Die Augen offen. Der Turm in der rechten Hand. Die Finger bewegten sich — Daumen, Zeigefinger, Mittelfinger. Das Holz warm von seiner Haut.
 
@@ -210,37 +214,37 @@ Die Uhren tickten.
 
 Vesper hielt den Atem an.
 
-Etwas hatte sich verändert. Im Ticken. Das Durcheinander der sechsundzwanzig Stimmen, das er kannte wie seinen eigenen Puls — es war anders. Zwei der Uhren liefen im selben Takt. Er hörte es sofort. Zwei von sechsundzwanzig, und das allein war falsch, weil keine zwei seiner Uhren jemals synchron liefen. Verschiedene Werke. Verschiedene Hersteller. Verschiedene Alter. Unmöglich.
+Etwas hatte sich verändert. Im Ticken. Das Durcheinander der Stimmen hinter der Wand, das er kannte wie seinen eigenen Puls — es war anders. Nicht lauter. Nicht leiser. Anders. Als hätte jemand in dem Gewirr aus Ticken und Tacken eine Lücke geöffnet. Eine Pause, die vorher nicht da war. Ein winziger Abstand zwischen zwei Schlägen, der sich wiederholte, regelmäßig, und der das Durcheinander ordnete, ob es wollte oder nicht.
 
-Drei.
+Vesper setzte sich auf. Das Bettzeug raschelte. Er hörte zu.
 
-Vier.
+Die Pause wurde größer. Breiter. Als würde sie Platz machen. Die einzelnen Stimmen der Uhren fielen in sie hinein, eine nach der anderen, nicht gezählt, nicht zählbar, ein langsames Kippen von Chaos in Ordnung. Das Ticken wurde dichter. Gleichmäßiger. Die Stimmen verschwanden, verschmolzen, und an ihre Stelle trat ein Rhythmus, ein einziger Puls, der lauter wurde.
 
-Das Ticken änderte sich. Langsam, wie ein Chor der eine Tonart findet. Eine fünfte Uhr fiel in den Takt. Eine sechste. Vesper setzte sich auf. Das Bettzeug raschelte. Sein Herz schlug in seinem Hals. Sieben. Acht. Das Ticken wurde dichter. Die einzelnen Stimmen verschwanden, verschmolzen, und an ihre Stelle trat ein Rhythmus, ein einziger, gleichmäßiger Puls, der lauter wurde mit jeder Uhr die einfiel.
+Lauter.
 
-Zehn. Fünfzehn.
+Vesper stand auf. Der Boden war kalt unter seinen Füßen. Das Geräusch kam durch die Wand. Nicht mehr gedämpft. Nicht mehr leise. Es wuchs. Die Pausen zwischen den Schlägen waren keine Pausen mehr — sie waren Anlauf. Und dann schlug es.
 
-Vesper stand auf. Der Boden war kalt unter seinen Füßen. Er stand in der Dunkelheit des Schlafraums und das Ticken kam durch die Wand, nicht mehr gedämpft, nicht mehr leise. Es wuchs. Zwanzig Uhren im selben Takt. Dreiundzwanzig. Das Geräusch war kein Ticken mehr. Es war ein Schlag. Ein dumpfes, vibrierendes **TICK** das durch den Boden ging, durch seine Fußsohlen, durch seine Knochen.
+**TACK.**
 
-**TICK.**
+Hart. Tief. Durch den Boden, durch seine Fußsohlen, durch seine Knochen.
 
-**TICK.**
+**TACK.**
 
-**TICK.**
+Der Raum vibrierte. Die Wand vibrierte. Vesper spürte es in den Zähnen. Im Brustkorb. Das war kein Ticken mehr. Das war ein Schlag. Alle Uhren gleichzeitig, im selben Takt, und der Klang war massiv, ein Dröhnen das die Werkstatt füllte und durch den Stein kroch und in seinen Körper fuhr.
 
-Sechsundzwanzig Uhren. Alle. Im selben Takt. Der Raum vibrierte. Die Wand vibrierte. Vesper spürte es in den Zähnen. Im Brustkorb. Das Ticken war ein Dröhnen, rhythmisch, gleichmäßig, als hätte jemand sechsundzwanzig Herzen zusammengelegt und sie gezwungen im selben Rhythmus zu schlagen.
+**TACK.**
 
-Er presste die Hände auf die Ohren. Es half nicht. Der Klang kam nicht durch die Luft. Er kam durch den Boden, durch die Wände, durch den Stein.
+**TACK.**
 
-**TICK.**
+Er presste die Hände auf die Ohren. Es half nicht. Der Klang kam nicht durch die Luft. Er kam durch den Boden. Durch die Wände. Durch den Stein.
 
-**TICK.**
+**TACK.**
 
-Seine Beine bewegten sich. Zur Tür. Zur Werkstatt. Er riss die Tür auf und das Dröhnen traf ihn, voll, ungedämpft, sechsundzwanzig Uhren die schlugen wie eine einzige, und die Werkstatt war dunkel und der Klang füllte sie und Vesper stand in der Tür und seine Hände zitterten und der Turm fiel aus seiner Hand, auf den Boden, ein kleines Geräusch das im Dröhnen verschwand.
+Seine Beine bewegten sich. Zur Tür. Zur Werkstatt. Er riss die Tür auf. Das Dröhnen traf ihn, voll, ungedämpft. Die Werkstatt war dunkel. Der Klang füllte sie. Vesper stand in der Tür. Seine Hände zitterten. Der Turm fiel aus seiner Hand, auf den Boden, ein kleines Geräusch das im Dröhnen verschwand.
 
 Stille.
 
-Abrupt. Total. Als hätte jemand einen Schalter umgelegt. Kein Ticken. Kein Dröhnen. Kein Nachschwingen. Die Werkstatt war still. Stiller als sie je gewesen war, stiller als Vesper sie in sechs Jahren gehört hatte. Die Stille eines Raums in dem sechsundzwanzig Uhren gleichzeitig aufgehört hatten zu atmen.
+Abrupt. Total. Kein Ticken. Kein Dröhnen. Kein Nachschwingen. Die Werkstatt war still. Stiller als sie je gewesen war. Die Stille eines Raums in dem alle Uhren gleichzeitig aufgehört hatten zu atmen.
 
 Vesper stand in der Tür. Barfuß. Sein Atem ging schnell. Flach. Seine Hände hingen an seinen Seiten. Der Turm lag irgendwo auf dem Boden. Er konnte nichts sehen.
 
@@ -248,15 +252,15 @@ Er tastete nach dem Streichholz. Auf der Werkbank, neben den Pinzetten, Position
 
 Die Uhren standen.
 
-Alle. Sechsundzwanzig Zifferblätter, und der Schwefellicht tanzte über sie, eins nach dem anderen, und Vesper ging am Regal entlang und schaute und sein Atem ging flach und seine Hand zitterte und das Streichholz brannte herunter und er zündete ein zweites an und schaute weiter.
+Alle. Das Schwefellicht tanzte über die Zifferblätter, eins nach dem anderen. Vesper ging am Regal entlang. Schaute. Sein Atem ging flach. Seine Hand zitterte. Das Streichholz brannte herunter. Er zündete ein zweites an. Schaute weiter.
 
 4:33.
 
-Jede Uhr zeigte 4:33. Jede einzelne. Die Taschenuhr die er heute repariert hatte. Die Standuhr im Flur. Die kleine Reiseuhr in der Vitrine. Die Kuckucksuhr ohne Kuckuck. Die Seemannsuhr mit dem Messinggehäuse. Sechsundzwanzig Uhren. Sechsundzwanzig Zifferblätter. Sechsundzwanzig Mal 4:33. Die Zeiger standen still. Alle. Als hätte die Zeit selbst angehalten, an genau dieser Stelle, an genau dieser Zahl.
+Jede Uhr zeigte 4:33. Jede einzelne. Die Taschenuhr die er heute repariert hatte. Die Standuhr im Flur. Die kleine Reiseuhr in der Vitrine. Die Kuckucksuhr ohne Kuckuck. Die Seemannsuhr mit dem Messinggehäuse. Alle. Jedes Zifferblatt dieselbe Zahl. Die Zeiger standen still.
 
 Das Streichholz brannte an seinen Fingern. Er ließ es fallen. Dunkelheit.
 
-Vesper stand in seiner Werkstatt. Barfuß auf kaltem Stein. Die Luft roch nach Schwefel und nach Messing und nach Öl. Und nach Stille. Nach der Stille von sechsundzwanzig toten Uhren.
+Vesper stand in seiner Werkstatt. Barfuß auf kaltem Stein. Die Luft roch nach Schwefel und nach Messing und nach Öl. Und nach Stille. Nach der Stille toter Uhren.
 
 Er hob den Turm auf. Das Holz war kalt. Zum ersten Mal seit dreizehn Jahren war das Holz kalt.
 
@@ -268,7 +272,7 @@ Drei Minuten. Die Schnallen klickten.
 
 Er stellte den Koffer an die Tür. Zog den Mantel an. Schwer, dunkel. Der Turm glitt in die Tasche, links, wo er immer lag. Kalt.
 
-Die Werkstatt war still. Sechsundzwanzig Uhren zeigten 4:33 und keine von ihnen bewegte sich. Er würde sie nicht aufziehen. Nicht jetzt. Vielleicht nie.
+Die Werkstatt war still. Alle Uhren zeigten 4:33. Keine bewegte sich. Er würde sie nicht aufziehen. Nicht jetzt. Vielleicht nie.
 
 Er drehte sich nicht um.
 
@@ -276,10 +280,10 @@ Draußen war Karst still und kalt. Die Laternen brannten auf dem Gildenplatz, ge
 
 Er schloss die Tür. Der Schlüssel drehte sich im Schloss. Ein sauberes Klicken. Der einzige Mechanismus der noch funktionierte.
 
-Vesper ging. Richtung Poststation. Die Morgenkutsche nach Norden fuhr um sechs. Vier Tage bis zur Grauküste. Vier Tage, weil sechsundzwanzig Uhren gleichzeitig stehengeblieben waren und alle dasselbe zeigten.
+Vesper ging. Richtung Poststation. Die Morgenkutsche nach Norden fuhr um sechs. Vier Tage bis zur Grauküste. Vier Tage, weil alle Uhren gleichzeitig stehengeblieben waren. Weil jede dasselbe zeigte.
 
 4:33.
 
-Seine Schritte hallten auf dem Pflaster. Gleichmäßig. Der Turm lag in seiner Tasche. Kalt. Hinter ihm die Werkstatt, still. Keine zehn verschiedenen Tempi. Keine Stimmen. Nur Stille und sechsundzwanzig Zifferblätter die in die Dunkelheit starrten.
+Seine Schritte hallten auf dem Pflaster. Gleichmäßig. Der Turm lag in seiner Tasche. Kalt. Hinter ihm die Werkstatt, still. Keine verschiedenen Tempi. Keine Stimmen. Nur Stille und Zifferblätter die in die Dunkelheit starrten.
 
 Dann war nur noch die Nacht und sein Atem und die Zahl.
