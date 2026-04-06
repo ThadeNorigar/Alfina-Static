@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="noindex, nofollow">
-  <title>Der Riss — Interludium I</title>
+  <title>Der Riss — Kapitel 5</title>
   <link rel="stylesheet" href="../../styles.css">
   <style>
     :root {
@@ -239,17 +239,17 @@
 
   <div class="book enter" id="book">
     <div class="chapter-header">
-      <div class="chapter-number">Interludium</div>
-      <h1 class="chapter-title">Elke, vor vierhundert Jahren</h1>
+      <div class="chapter-number">Kapitel Fünf</div>
+      <h1 class="chapter-title">Alphina</h1>
       <div class="chapter-ornament">— · —</div>
     </div>
 
     <div class="prose" id="chapter"></div>
 
     <div class="page-nav">
-      <a href="/lesen/4/" onclick="turnPage(event, 'back', '/lesen/4/')"><span class="arrow">&larr;</span> Zurück</a>
-      <span class="page-info">Interludium</span>
-      <a href="/lesen/5/" onclick="turnPage(event, 'forward', '/lesen/5/')">Weiter <span class="arrow">&rarr;</span></a>
+      <a href="/lesen/I1/" onclick="turnPage(event, 'back', '/lesen/I1/')"><span class="arrow">&larr;</span> Zurück</a>
+      <span class="page-info">5 / 6</span>
+      <a href="/lesen/6/" onclick="turnPage(event, 'forward', '/lesen/6/')">Weiter <span class="arrow">&rarr;</span></a>
     </div>
 
     <div class="book-footer">
@@ -266,7 +266,7 @@
       setTimeout(() => { window.location.href = url; }, 500);
     }
 
-    fetch('/buch/kapitel/I1-elke.md')
+    fetch('/buch/kapitel/05-alphina.md')
       .then(r => r.text())
       .then(md => {
         const lines = md.split('\n');
