@@ -31,6 +31,18 @@
     }
     .page-subtitle strong { color: var(--paper-edge); }
 
+    /* Legend */
+    .legend {
+      display: flex; gap: 0.8rem; justify-content: center; flex-wrap: wrap;
+      padding-bottom: 1.5rem;
+    }
+    .legend-item {
+      display: flex; align-items: center; gap: 0.3rem;
+      font-family: 'Inter', sans-serif; font-size: 0.65rem;
+      color: var(--smoke); letter-spacing: 0.02em;
+    }
+    .legend-dot { width: 8px; height: 8px; border-radius: 50%; }
+
     /* Book card */
     .book-card {
       background: var(--paper);
@@ -225,6 +237,16 @@
     <div class="page-title">Der Riss — Trilogie</div>
     <div class="page-subtitle" id="global-stats"></div>
 
+    <div class="legend">
+      <div class="legend-item"><div class="legend-dot" style="background:#666"></div> Idee</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#8B7355"></div> Szenenplan</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#B8860B"></div> Entwurf</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#CD853F"></div> Council</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#6B8E23"></div> Logik-Check</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#4682B4"></div> Lektorat</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#2E8B57"></div> Final</div>
+    </div>
+
     <div id="nav-tree"></div>
   </div>
 
@@ -235,29 +257,33 @@
       'final': '#2E8B57'
     };
 
+    const buchDetailLinks = { buch1: 'buch1.html', buch2: 'buch2.html', buch3: 'buch3.html' };
     const buchLabels = { buch1: 'Buch I', buch2: 'Buch II', buch3: 'Buch III' };
 
     fetch('/buch/status.json')
       .then(r => r.json())
       .then(data => {
         const tree = document.getElementById('nav-tree');
-        let totalFinal = 0, totalWords = 0;
+        let totalChapters = 0, totalFinal = 0, totalWords = 0;
 
-        ['buch1', 'buch2', 'buch3'].forEach((buchKey) => {
+        ['buch1', 'buch2', 'buch3'].forEach((buchKey, bi) => {
           const buch = data[buchKey];
           const kapitel = buch.kapitel;
+          const keys = Object.keys(kapitel);
+          const buchTotal = keys.length;
+          const buchFinal = keys.filter(k => kapitel[k].status === 'final').length;
+          const buchWords = keys.reduce((s, k) => s + (kapitel[k].woerter || 0), 0);
+          const buchPct = buchTotal ? Math.round((buchFinal / buchTotal) * 100) : 0;
 
-          // Nur Bücher mit mindestens einem finalen Kapitel
-          const finalKeys = Object.keys(kapitel).filter(k => kapitel[k].status === 'final');
-          if (finalKeys.length === 0) return;
-
-          const buchWords = finalKeys.reduce((s, k) => s + (kapitel[k].woerter || 0), 0);
-          totalFinal += finalKeys.length;
+          totalChapters += buchTotal;
+          totalFinal += buchFinal;
           totalWords += buchWords;
 
+          // Book card
           const card = document.createElement('div');
           card.className = 'book-card';
 
+          // Book toggle
           const buchToggle = document.createElement('div');
           buchToggle.className = 'buch-toggle';
           buchToggle.innerHTML = `
@@ -268,42 +294,52 @@
             </div>
             <div class="buch-right">
               <div class="buch-stats">
-                ${finalKeys.length} Kapitel<br>
-                ${buchWords.toLocaleString('de-DE')} W
+                ${buchFinal} / ${buchTotal} final<br>
+                ${buchWords ? buchWords.toLocaleString('de-DE') + ' W' : ''}
+                <div class="buch-progress"><div class="buch-progress-fill" style="width:${buchPct}%"></div></div>
               </div>
               <div class="buch-arrow">&#x203A;</div>
             </div>
           `;
           card.appendChild(buchToggle);
 
+          // Book body
           const buchBody = document.createElement('div');
           buchBody.className = 'buch-body';
 
-          buch.akte.forEach((akt) => {
-            // Nur Akte mit mindestens einem finalen Kapitel
-            const aktFinal = akt.kapitel.filter(k => kapitel[k] && kapitel[k].status === 'final');
-            if (aktFinal.length === 0) return;
-
+          buch.akte.forEach((akt, ai) => {
+            // Akt toggle
             const aktToggle = document.createElement('div');
             aktToggle.className = 'akt-toggle';
+
+            // Mini-dots for act chapters
+            const dotsHtml = akt.kapitel.map(k => {
+              const ch = kapitel[k];
+              if (!ch) return '';
+              const col = statusColors[ch.status] || '#666';
+              return `<div class="mini-dot" style="background:${col}"></div>`;
+            }).join('');
+
             aktToggle.innerHTML = `
               <div class="akt-left">
                 <div class="akt-num">${akt.name}</div>
                 <div class="akt-titel">${akt.titel}</div>
               </div>
               <div class="akt-right">
-                <div class="akt-dots">${aktFinal.map(() => '<div class="mini-dot" style="background:#2E8B57"></div>').join('')}</div>
+                <div class="akt-dots">${dotsHtml}</div>
                 <div class="akt-arrow">&#x203A;</div>
               </div>
             `;
+
             buchBody.appendChild(aktToggle);
 
+            // Akt body
             const aktBody = document.createElement('div');
             aktBody.className = 'akt-body';
 
-            // Nur finale Kapitel zeigen
-            aktFinal.forEach(key => {
+            akt.kapitel.forEach(key => {
               const ch = kapitel[key];
+              if (!ch) return;
               const isInterlude = key.startsWith('I') || key === 'EP';
 
               const block = document.createElement('div');
@@ -311,12 +347,17 @@
 
               const row = document.createElement('div');
               row.className = 'ch-row';
+
               const label = key === 'EP' ? 'EP' : (isInterlude ? key : 'Kap ' + key);
+              const wordsHtml = ch.woerter
+                ? `<div class="ch-words">${ch.woerter.toLocaleString('de-DE')} W</div>`
+                : '';
 
               row.innerHTML = `
                 <div class="ch-num">${label}</div>
                 <div class="ch-title">${ch.titel}</div>
-                <div class="ch-words">${ch.woerter ? ch.woerter.toLocaleString('de-DE') + ' W' : ''}</div>
+                <div class="ch-status s-${ch.status}"><div class="dot"></div> ${ch.status}</div>
+                ${wordsHtml}
               `;
               block.appendChild(row);
 
@@ -325,30 +366,46 @@
                 textDiv.className = 'ch-text';
                 textDiv.innerHTML = `<p>${ch.text}</p>`;
                 block.appendChild(textDiv);
-                row.addEventListener('click', () => textDiv.classList.toggle('open'));
+
+                row.addEventListener('click', () => {
+                  textDiv.classList.toggle('open');
+                });
               }
 
               aktBody.appendChild(block);
             });
 
             buchBody.appendChild(aktBody);
+
+            // Toggle akt
             aktToggle.addEventListener('click', () => {
               aktToggle.classList.toggle('open');
               aktBody.classList.toggle('open');
             });
           });
 
+          // Detail link
+          if (buchDetailLinks[buchKey]) {
+            const link = document.createElement('a');
+            link.className = 'detail-link';
+            link.href = buchDetailLinks[buchKey];
+            link.innerHTML = 'Kapitel-Details &rarr;';
+            buchBody.appendChild(link);
+          }
+
           card.appendChild(buchBody);
           tree.appendChild(card);
 
+          // Toggle buch
           buchToggle.addEventListener('click', () => {
             buchToggle.classList.toggle('open');
             buchBody.classList.toggle('open');
           });
         });
 
+        // Global stats
         document.getElementById('global-stats').innerHTML =
-          `<strong>${totalFinal}</strong> Kapitel &middot; <strong>${totalWords.toLocaleString('de-DE')}</strong> W\u00f6rter`;
+          `<strong>${totalFinal}</strong> / ${totalChapters} final &middot; <strong>${totalWords.toLocaleString('de-DE')}</strong> Worter gesamt`;
       });
   </script>
 </body>
