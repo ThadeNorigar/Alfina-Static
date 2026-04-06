@@ -281,7 +281,7 @@ Prüft systematisch:
 
 ## Website
 
-Deploy: git push && ssh adrian@adrianphilipp.de "cd ~/apps/Alphina-Static && git pull"
+Deploy: git push && ssh adrian@adrianphilipp.de "cd ~/apps/Alphina-Static && git pull && bash generate-lesen.sh"
 
 ## Sprache
 
