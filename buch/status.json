@@ -1,165 +1,1159 @@
 {
-  "stati": ["idee", "szenenplan", "entwurf", "council", "checked", "lektorat", "final"],
+  "stati": [
+    "idee",
+    "szenenplan",
+    "entwurf",
+    "council",
+    "checked",
+    "lektorat",
+    "final"
+  ],
   "buch1": {
-    "meta": { "titel": "Der Riss", "untertitel": "Thalassien / Vael / Das Tor" },
+    "meta": {
+      "titel": "Der Riss",
+      "untertitel": "Thalassien / Vael / Das Tor"
+    },
     "akte": [
-      { "name": "Akt I", "titel": "Anker", "kapitel": ["01","02","03","04","I1","05","06","07","08","I2","09","10","11"] },
-      { "name": "Akt II", "titel": "Zusammenfinden", "kapitel": ["12","13","14","15","I3","16","17","18","I4","19","20","21","22","I5"] },
-      { "name": "Akt III", "titel": "Eskalation", "kapitel": ["23","24","25","26","I6","27","28","29","30","I7","31","32"] },
-      { "name": "Akt IV", "titel": "Das Tor", "kapitel": ["33","34","35","36","I8","37","38","I9","39","40"] }
+      {
+        "name": "Akt I",
+        "titel": "Anker",
+        "kapitel": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "I1",
+          "05",
+          "06",
+          "07",
+          "08",
+          "I2",
+          "09",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "name": "Akt II",
+        "titel": "Zusammenfinden",
+        "kapitel": [
+          "12",
+          "13",
+          "14",
+          "15",
+          "I3",
+          "16",
+          "17",
+          "18",
+          "I4",
+          "19",
+          "20",
+          "21",
+          "22",
+          "I5"
+        ]
+      },
+      {
+        "name": "Akt III",
+        "titel": "Eskalation",
+        "kapitel": [
+          "23",
+          "24",
+          "25",
+          "26",
+          "I6",
+          "27",
+          "28",
+          "29",
+          "30",
+          "I7",
+          "31",
+          "32"
+        ]
+      },
+      {
+        "name": "Akt IV",
+        "titel": "Das Tor",
+        "kapitel": [
+          "33",
+          "34",
+          "35",
+          "36",
+          "I8",
+          "37",
+          "38",
+          "I9",
+          "39",
+          "40"
+        ]
+      }
     ],
     "kapitel": {
-      "01": { "titel": "Alphina: Die stille Nacht", "pov": "Alphina", "status": "final", "woerter": 4513, "lesen": "/lesen/1/", "text": "Velde, drei Uhr morgens. Ein Farn dreht seinen Wedel nach Alphina und dreht sich zur\u00fcck, als sie wegschaut. Auf dem Tisch liegt eine Fachzeitschrift mit einer Fu\u00dfnote \u00fcber einen unm\u00f6glichen Farn in Vael. Die Pflanzen in der Wohnung zeigen nach Norden. Alphina wei\u00df nicht, dass die Fu\u00dfnote platziert wurde \u2014 Varens Schemen haben den K\u00f6der gelegt." },
-      "02": { "titel": "Sorel: Die Dunkelkammer", "pov": "Sorel", "status": "final", "woerter": 4013, "lesen": "/lesen/2/", "text": "Nachtholm. Sorel entwickelt Glasplatten aus dem Nachlass eines Sammlers. Auf Platte 7: ein Hafenbild aus Vael, Jahrzehnte alt \u2014 mit seinem eigenen Gesicht im Hintergrund. Auf der R\u00fcckseite verblasste Tinte: \u201eVael, Lichthaus, Keller.\u201c Die Platte war in einer Auktion platziert. Von wem, wei\u00df Sorel nicht." },
-      "03": { "titel": "Vesper: Der Brief", "pov": "Vesper", "status": "final", "woerter": 3800, "lesen": "/lesen/3/", "text": "Karst. Vesper hat keinen Auftrag mehr, repariert die letzte Taschenuhr. Im Gasthaus erw\u00e4hnt ein reisender Uhrmacher eine Standuhr in Vael, die 4:33 pro Tag verliert, obwohl die Mechanik perfekt ist. Der Uhrmacher spricht mit seltsam altem Akzent. Ein Moragh-Einwanderer, durch das lecke Tor gekommen. Vesper liegt wach, rechnet, und f\u00e4hrt nach Vael." },
-      "04": { "titel": "Maren: Die Werft", "pov": "Maren", "status": "final", "woerter": 3650, "lesen": "/lesen/4/", "text": "Grauk\u00fcste. Maren steht vor der Werft Dahl. F\u00fcnf Jahre Briefwechsel, nie ein Treffen \u2014 Klaus ist tot. Maren erbt die Werft und ein Boot, drei Viertel fertig. Das Boot baut sich nachts selbst weiter \u2014 neue Holzsp\u00e4ne am Morgen, Planken die gestern nicht da waren. Thies Brandt zeigt ihr alles. Maren bleibt." },
-      "I1": { "titel": "Elke: Ankunft in Vael", "pov": "Elke", "status": "final", "woerter": 2100, "lesen": "/lesen/I1/", "text": "Elke van der Holt, Bildhauerin, kommt wegen des Purpursteins nach Vael. Erste Ber\u00fchrung: der Stein ist warm. Sie legt die Hand darauf und sp\u00fcrt Hohlr\u00e4ume, Adern, Tunnel darunter." },
-      "05": { "titel": "Alphina: Ankunft in Vael", "pov": "Alphina", "status": "final", "woerter": 4238, "lesen": "/lesen/5/", "text": "Drei Tage Kutsche. Pflanzen am Straßenrand zeigen nach Norden. Am Stadttor: sieben Asplenium scolopendrium drehen sich nach ihr, einer nach dem anderen. Der Purpurstein ist warm. Bei Runa Kvist, einer Druckerin mit heißen Händen, kauft Alphina Papier. Nachts auf der Gasse: Schemen aus Rauch, katzengroß, falsche Proportionen, schwarze Augen. Eines sitzt an der Wand, drei Meter hoch, kippt den Kopf. Tag eins." },
-      "06": { "titel": "Sorel: Das Lichthaus", "pov": "Sorel", "status": "lektorat", "woerter": 4045, "lesen": "/lesen/6/", "text": "Sechs Tage Kutsche durch die Nacht. Sorel trägt sieben Glasplatten über die Grauküste, darunter sein eigenes Gesicht auf einem Bild das Jahrzehnte alt ist. Vael im Nebel: der Stein ist derselbe wie auf der Platte. Das Lichthaus am Hafen, ein Keller der nach Fixierer riecht obwohl niemand dort gearbeitet hat. Ein Nagel in der Wand, an genau der richtigen Stelle. Nachts am Kai: eine Gestalt zwischen den Pollern. Zu groß, zu schmal, Hufe auf nassem Stein. Die Haut flimmert, Rauch steigt auf, Kälte geht von ihr aus. Sorel drückt den Verschluss. Die Gestalt ist weg. Auf dem Poller: Kratzspuren, warm. Auf der entwickelten Platte: ein Schatten ohne Körper." },
-      "07": { "titel": "Vesper: Die Standuhr", "pov": "Vesper", "status": "szenenplan", "woerter": null, "text": "Tidemoor-Haus am Grauwe-Ufer. Die Standuhr im Salon: Geh\u00e4use perfekt, jedes Zahnrad gepr\u00fcft. Hand drauf: Null Abweichung. Hand weg: 4:33. Die Uhr reagiert auf ihn." },
-      "08": { "titel": "Maren: Das Boot w\u00e4chst", "pov": "Maren", "status": "szenenplan", "woerter": null, "text": "Maren schl\u00e4ft neben dem Boot. Morgens: neue Holzsp\u00e4ne, Planken die gestern nicht da waren. Schemen-Arbeit \u2014 gespenstische H\u00e4nde bauen in der Nacht. Wasser flie\u00dft gegen das Gef\u00e4lle in die Werft. Finn Daverin bringt einen toten Fisch der nach Metall stinkt. Die Str\u00f6mung l\u00e4uft r\u00fcckw\u00e4rts." },
-      "I2": { "titel": "Johann trifft Elke", "pov": "Elke", "status": "szenenplan", "woerter": null, "text": "Johann Breke, Schmied aus den Innenlanden. Das Erz in seinen Barren singt, seit er an der K\u00fcste ist. Er trifft Elke \u2014 zwei Handwerker, gegenseitiger Respekt. Sie zeigt ihm den Handabdruck im Fels. Er zeigt ihr den Barren der summt." },
-      "09": { "titel": "Alphina: Der Garten", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Botanischer Garten. Siebenundzwanzig Pflanzen auf Alphina gerichtet. Farne mannshoch, mitten im Winter. Schatten-Tiere mit leuchtenden Augen zwischen den Beeten \u2014 Schemen, die Alphina verfolgen. Runa kommt vorbei, druckt Flugbl\u00e4tter. Alphina bemerkt: Runas H\u00e4nde sind immer warm, Metall schmilzt leichter unter ihren Fingern." },
-      "10": { "titel": "Sorel: Die erste Platte", "pov": "Sorel", "status": "szenenplan", "woerter": null, "text": "Erste Vael-Platte entwickelt: eine Frau mit Farnen am Hafen. Er hat sie nicht fotografiert \u2014 die Kamera hat sie eingefangen. Nachts klettert er \u00fcber die Mauer des Gartens. Die Pflanzen bewegen sich im Mondlicht." },
-      "11": { "titel": "Alphina + Sorel: Erste Begegnung", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Der Garten, Nacht. Er fotografiert. Sie beobachtet. \u201eDie Pflanzen bewegen sich.\u201c \u2014 \u201eJa.\u201c \u2014 \u201eSeit wann?\u201c \u2014 \u201eImmer.\u201c Alphina allein danach, Hand auf dem Boden: unter der Erde dasselbe Pochen wie unter Marens Werft. Die Stadt atmet." },
-      "12": { "titel": "Alphina: Die Risse", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Risse im Pflaster, die es gestern nicht gab. Hei\u00dfes Wasser aus Leitungen, Kaminfeuer das ohne Brennstoff brennt. Die Grauwe riecht nach etwas Tiefem. Alphina sucht den Mann aus dem Garten und findet das Lichthaus am Hafen." },
-      "13": { "titel": "Sorel: Die Vael-Platten", "pov": "Sorel", "status": "szenenplan", "woerter": null, "text": "Sorel entwickelt Platten: Farne die es im Garten nicht geben sollte, Alphina unscharf am Rand. Die Kamera f\u00e4ngt ein, was er nicht fotografiert hat. Nachts Ger\u00e4usche im Keller \u2014 ein Schatten der sich bewegt und wartet. Leuchtende Augen, dann nichts." },
-      "14": { "titel": "Vesper + Maren: Das Uhrengesch\u00e4ft", "pov": "Vesper", "status": "szenenplan", "woerter": null, "text": "Maren braucht eine Schiffsuhr f\u00fcr das Boot. Vesper \u00f6ffnet die Uhr, seine H\u00e4nde. Physische Chemie, sofort. Drau\u00dfen flie\u00dft die Grauwe r\u00fcckw\u00e4rts. Beide sehen es. Keiner sagt etwas." },
-      "15": { "titel": "Alphina: Der Steg", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Tag f\u00fcnf ohne Sonnenlicht. Alphina beobachtet Sorel am Steg, fotografierend. Sein R\u00fccken, seine H\u00e4nde am Apparat. Er dreht sich um, sieht sie direkt an. Kein Wort. Sie geht. Die Farne am Hafen drehen sich nach ihr." },
-      "I3": { "titel": "Varen: Die Falle", "pov": "Varen", "status": "szenenplan", "woerter": null, "text": "Varen in Moragh. Am Portal-Gegenst\u00fcck. Er sp\u00fcrt die vier Resonanzen auf der anderen Seite \u2014 n\u00e4her, st\u00e4rker, fast da. Seine Schemen berichten. Karten, Ley-Linien-Diagramme, die 3 toten Quellen rot markiert. \u201eSie kommen.\u201c Kein Triumph. Notwendigkeit." },
-      "16": { "titel": "Sorel: Die Steg-Fotos", "pov": "Sorel", "status": "szenenplan", "woerter": null, "text": "Sorel hat Alphina fotografiert, ohne ihr Wissen. Drei Platten. Auf der dritten: Farne die auf dem Steg nicht wachsen, gedreht nach ihr. Auf einer weiteren Platte taucht sein eigenes Gesicht auf \u2014 neben Alphina." },
-      "17": { "titel": "Alle vier: Der Garten", "pov": "Alle", "status": "szenenplan", "woerter": null, "text": "Garten, Nachmittag. Alphina, Sorel, Vesper, Maren \u2014 keiner versteht warum er hier ist. Aber die Pflanzen stehen still, zum ersten Mal seit Tagen. Das Pochen unter der Erde, einmal, laut. Vesper und Maren gehen denselben Weg zur\u00fcck; Schultern ber\u00fchren sich." },
-      "18": { "titel": "Vesper: Das Manuskript", "pov": "Vesper", "status": "szenenplan", "woerter": null, "text": "Esther Voss bringt ein Manuskript ins Tidemoor-Haus. Vierhundert Jahre alt, besch\u00e4digt \u2014 teilweise echt, teilweise von Varen \u00fcberschrieben. Vier Fremde, ein Tor, eine Schwelle. Daemon-Fingerabdr\u00fccke im Kohlestaub. Doktor Halvard behandelt seit Wochen unm\u00f6gliche Verletzungen." },
-      "I4": { "titel": "Varen: Die Schemen berichten", "pov": "Varen", "status": "szenenplan", "woerter": null, "text": "Varen empf\u00e4ngt seine Schemen. Vier Resonanzen, alle in Vael, alle st\u00e4rker als erwartet. Die Pflanzen-Frau am st\u00e4rksten. \u201eDie Vierte ist die Richtige.\u201c Er pr\u00fcft seine Karten, die toten Quellen. Bereitet sich vor." },
-      "19": { "titel": "Alphina + Sorel: Das Manuskript", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Alphina und Vesper studieren das Manuskript, nachts bei Kerzenlicht. Seine Hand auf ihrer \u2014 Stromschlag ohne Strom. Sie zieht zur\u00fcck. Morgens denkt sie an Vesper und an Sorel. Bei Vesper kann sie. Bei Sorel kann sie nicht. Genau das ist der Punkt." },
-      "20": { "titel": "Vesper + Maren: Die Werft", "pov": "Vesper", "status": "szenenplan", "woerter": null, "text": "Vesper bringt die reparierte Schiffsuhr. S\u00e4gemehl in Marens Haar. Tee auf Holzkisten. Sie reden \u00fcber H\u00e4nde und Arbeit, nicht \u00fcber das Tor. Ihre Arme ber\u00fchren sich, keiner zieht zur\u00fcck. Das Boot w\u00e4chst weiter \u2014 nachts, von unsichtbaren H\u00e4nden." },
-      "21": { "titel": "Alphina + Sorel: Die Dunkelkammer", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Rotlicht, Chemie-Geruch, Enge. Sorel zeigt ihr die Platten \u2014 die Farne, ihr Bild, sein Gesicht. Er h\u00e4lt ihre Handgelenke. Sie gibt nach. Kontrollverlust. Farne brechen durch die Kellerw\u00e4nde, durch Putz und Dielen." },
-      "22": { "titel": "Vesper + Maren: Erste Nacht", "pov": "Maren", "status": "szenenplan", "woerter": null, "text": "Maren kommt nachts ins Tidemoor-Haus. Kein Vorwand. Die T\u00fcr ist offen. Was folgt ist rohe Chemie, K\u00f6rper die sich finden. Danach: er schl\u00e4ft, sie liegt wach. Morgens geht sie \u2014 weil Maren immer geht." },
-      "I5": { "titel": "Die Feuer-Schemen, 1423", "pov": "Manuskript", "status": "szenenplan", "woerter": null, "text": "Varen schickt drei Feuer-Schemen durch das Tor \u2014 doppelt so gro\u00df wie Menschen. In Vael als Feuerd\u00e4monen verstanden. Die Vaeler greifen an, die Schemen wehren sich. Teile der Stadt brennen. Elke dr\u00fcckt sie zur\u00fcck. Blut aus der Nase \u2014 der Preis beginnt." },
-      "23": { "titel": "Alphina: Das Archiv", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Die Vier im Archiv. Das Manuskript: vier Fremde, eine Schwelle, ein Tor unter der Stadt. Ein Moragh-Sprachbuch, ebenfalls von Schemen platziert. Im Keller riecht die Luft s\u00fc\u00df und dicht \u2014 nach Moragh. Jara hat Randnotizen gefunden, andere Handschrift. Niemand h\u00f6rt ihr zu." },
-      "24": { "titel": "Sorel: Die Grenzverletzung", "pov": "Sorel", "status": "szenenplan", "woerter": null, "text": "Alphina findet die drei Steg-Platten: sie, ohne ihr Wissen. \u201eDu hast mich genommen ohne zu fragen.\u201c Sorel schweigt, weil Schweigen alles ist was er kann wenn jemand Recht hat. Sie geht." },
-      "25": { "titel": "Alphina: Der Bruch", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Alphina durchsucht Sorels Sachen im Lichthaus. Findet die Platte mit seinem Gesicht, dreizehn Jahre alt. Sorel kommt zur\u00fcck, sieht sie mit der Platte. Nicht w\u00fctend \u2014 entt\u00e4uscht. \u201eDu kannst nicht aufh\u00f6ren.\u201c T\u00fcr zu." },
-      "26": { "titel": "Vesper + Maren: Sie bleibt", "pov": "Vesper", "status": "szenenplan", "woerter": null, "text": "Maren kommt wieder ins Tidemoor-Haus. Vesper h\u00e4lt ihre Handgelenke, fragt mit den H\u00e4nden. Maren gibt nach \u2014 nicht aus Schw\u00e4che, aus Mut. Danach steht sie nicht auf. Zum ersten Mal. Die Grauwe drau\u00dfen steht still." },
-      "I6": { "titel": "Varen: Geduld", "pov": "Varen", "status": "szenenplan", "woerter": null, "text": "Varen wartet. Die Resonanzen konvergieren. Seine Schemen haben das Manuskript platziert, das Sprachbuch hinterlegt. Alles liegt bereit. \u201eDie Pflanzen-Frau wird als Erste begreifen. Die anderen werden folgen.\u201c" },
-      "27": { "titel": "Maren: Die Tunnel", "pov": "Maren", "status": "szenenplan", "woerter": null, "text": "Maren folgt dem Pochen unter der Werft. Lose Bodenbretter, schwarzer Basalt darunter. Tunnel, w\u00e4rmer als m\u00f6glich. Sie folgt dem Wasser das r\u00fcckw\u00e4rts flie\u00dft. Am Ende: der Bogen. Zwei Pfeiler. Das Tor, geschlossen, pulsierend. Ihre Hand darauf \u2014 das Tor weint." },
-      "28": { "titel": "Alphina: Die Tunnel", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Sorel ist seit drei Tagen weg. Alphina geht in die Tunnel, allein, Farne als Kompass. Findet ihn am Tor. \u201eDu bist nicht hier weil du mich liebst. Du bist hier weil du nicht ertragen kannst, dass jemand dir den R\u00fccken zukehrt.\u201c Vers\u00f6hnung, schmerzhafter als der Streit." },
-      "29": { "titel": "Vesper + Maren: Die Uhren stehen", "pov": "Vesper", "status": "szenenplan", "woerter": null, "text": "Alle Uhren in Vael stehen gleichzeitig. Stille die weh tut. Maren kommt zu Vesper. \u201eBleibst du?\u201c Sie bleibt. Die Uhren beginnen wieder zu laufen \u2014 im Takt ihres Atems." },
-      "30": { "titel": "Alphina + Runa: Die Stadt bricht", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Ein Geb\u00e4ude am Hafen brennt von innen. Ein gebundenes Wesen t\u00f6tet einen H\u00e4ndler. Am Hafen ein Thar-Schem: Metallgeruch, Hitze. Runa bei Alphina \u2014 will Antworten. Ihre H\u00e4nde gl\u00fchen, buchst\u00e4blich. Freundschaft-Plus beginnt. Hitzig, k\u00f6rperlich, keine Beziehung." },
-      "I7": { "titel": "Kampf und Durchgang, 1423", "pov": "Elke", "status": "szenenplan", "woerter": null, "text": "Drei Feuer-Schemen w\u00fcten in der Stadt. Die Vier k\u00e4mpfen sich zum Steinkreis. Kaspar stirbt, Johann stirbt. Elke \u00f6ffnet das Tor und geht durch. Auf der Moragh-Seite trifft sie Varen \u2014 er kappt die Bindung der Schemen. In Vael l\u00f6sen sie sich im Rauch auf. Lene \u00fcberlebt allein." },
-      "31": { "titel": "Vesper: Die Erkenntnis", "pov": "Vesper", "status": "szenenplan", "woerter": null, "text": "Nachts, Kerzen und Papier. Vesper legt Marens Gezeitendaten neben seine 4:33. Das Muster: die Uhr verliert im exakt selben Rhythmus wie die Gezeiten falsch laufen. Die Frequenz von etwas hinter dem Tor. Er rennt zur Werft. \u201eDeine Gezeiten. Meine Uhr. Dasselbe Muster.\u201c" },
-      "32": { "titel": "Alle vier: Die Nacht vor der Schwelle", "pov": "Alle", "status": "szenenplan", "woerter": null, "text": "Letzte Nacht in Vael. Alphina bittet die Pflanzen still zu sein. Sorel belichtet eine letzte Platte. Vesper stellt die Standuhr auf Null. Maren am Boot: \u201eWarte auf mich.\u201c Um 4:33 nach Mitternacht gehen sie nach unten." },
-      "33": { "titel": "Alphina: Letzte Bl\u00fcte", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Vier Menschen in der Dunkelheit, Alphinas Farne leuchten gr\u00fcnlich. Das Tor pulsiert. Sorel h\u00e4lt ihre Hand, zum ersten Mal ungebeten. \u201eDarf ich?\u201c Kontrolle f\u00e4llt. Farne durch Basalt. Sie k\u00fcsst ihn. Die ganze H\u00f6hle bl\u00fcht. Hinter ihnen: Schritte. Runa folgt, unbemerkt." },
-      "34": { "titel": "Sorel: Durchgang", "pov": "Sorel", "status": "szenenplan", "woerter": null, "text": "Sorel geht als Erster. Moragh: zwei Monde, Akkretionsscheibe-Sonne, sattere Farben. Runa stolpert im letzten Moment durch. Das Tor schlie\u00dft sich. Nicht von ihnen \u2014 von Varen." },
-      "35": { "titel": "Alphina: Varen", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Varen tritt aus dem Schatten. Gro\u00df, muskul\u00f6s, graue Schl\u00e4fen, purpurne Augen. Spricht 1423er Thalassisch. Kennt ihre Namen. Legt die Hand an Alphinas Kinn. \u201eDeine Resonanz. Ich habe sie durch den Riss gesp\u00fcrt. \u00dcber vierhundert Jahre.\u201c 4:33 war nie die Frequenz des Tors \u2014 sondern Varens Signatur." },
-      "36": { "titel": "Alphina: Sorels Tod", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Sorel stellt sich zwischen Varen und Alphina. Varens Abwehr trifft ihn mit voller Kraft. Er f\u00e4llt. Varen K\u00d6NNTE ihn retten. Tut es nicht. Deckt seine Augen zu, fl\u00fcstert ein Wort. Fast z\u00e4rtlich. Unerkl\u00e4rlich. Alphinas Explosion: Wurzeln durch Stein, Dornen. Auf Sorels K\u00f6rper: kleine wei\u00dfe Blumen." },
-      "I8": { "titel": "Lenes Manuskript", "pov": "Lene/Elke", "status": "szenenplan", "woerter": null, "text": "Zwei Stimmen verschr\u00e4nkt. Lene in Vael, schreibt das Manuskript \u2014 sachlich, n\u00fcchtern, nur einmal bricht die Stimme. Elke in Moragh, letzter Skizzenbuch-Eintrag: Der Stein gibt nach. Die Hand reicht. \u201eLene \u2014 schreib auf was passiert ist.\u201c" },
-      "37": { "titel": "Vesper: Die fremde Welt", "pov": "Vesper", "status": "szenenplan", "woerter": null, "text": "F\u00fcnf Menschen, vier lebend, verletzt von Alphinas Ausbruch. Moragh: zwei Monde, Akkretionsscheibe, sattere Farben, andere Luft. K\u00f6nnen die Sprache nicht sprechen. Stolpern aus dem Tunnel." },
-      "38": { "titel": "Maren: Die Stadt", "pov": "Maren", "status": "szenenplan", "woerter": null, "text": "Eine Moragh-Stadt. Gr\u00f6\u00dfere Menschen, dunkle Augen, feingliedrig. Ein \u00e4lterer Mann \u2014 purpurne Augen \u2014 mustert sie. Sagt in gebrochenem Thalassisch: \u201eElke?\u201c F\u00fchrt sie durch die Stadt." },
-      "I9": { "titel": "Elke h\u00f6rt das Tor", "pov": "Elke", "status": "szenenplan", "woerter": null, "text": "Elke, Stunden vorher. F\u00fcnf Resonanzen dr\u00fccken durch den Stein. \u201eF\u00fcnf? Das ergibt keinen Sinn.\u201c Sie wusste nicht, dass jemand kommen w\u00fcrde. Auf dem Weg: Thar-Sp\u00e4her. Metall-Geruch. Sie wissen es auch." },
-      "39": { "titel": "Alphina: Elke", "pov": "Alphina", "status": "szenenplan", "woerter": null, "text": "Ein Garten. Pflanzen aus beiden Welten. Eine Frau mit erdigen H\u00e4nden. 1423er Thalassisch, nach Monaten zum ersten Mal laut: \u201eWoher\u2014\u201c Alphina f\u00e4llt auf die Knie. Sorel ist tot. Die Welt ist fremd. Und jemand spricht ihre Sprache." },
-      "40": { "titel": "Epilog: Vael", "pov": "Nebencharaktere", "status": "szenenplan", "woerter": null, "text": "Vael ohne die F\u00fcnf. Das Portal ist geschlossen. Esther Voss vor dem toten Tor. Thies an der Werft. Halvard schreibt seinen Bericht. Nebel lichtet sich. Grauwe flie\u00dft vorw\u00e4rts. Die Farne stehen still. Das Boot wartet. Letzte Seite: alle bei Elke. Alphina: Trauer, Hass, Rachewunsch." }
+      "01": {
+        "titel": "Alphina: Die stille Nacht",
+        "pov": "Alphina",
+        "status": "final",
+        "woerter": 4513,
+        "text": "Velde, drei Uhr morgens. Ein Farn dreht seinen Wedel nach Alphina und dreht sich zurück, als sie wegschaut. Auf dem Tisch liegt eine Fachzeitschrift mit einer Fußnote über einen unmöglichen Farn in Vael. Die Pflanzen in der Wohnung zeigen nach Norden. Alphina weiß nicht, dass die Fußnote platziert wurde — Varens Schemen haben den Köder gelegt.",
+        "datei": "01-alphina.md"
+      },
+      "02": {
+        "titel": "Sorel: Die Dunkelkammer",
+        "pov": "Sorel",
+        "status": "final",
+        "woerter": 4013,
+        "text": "Nachtholm. Sorel entwickelt Glasplatten aus dem Nachlass eines Sammlers. Auf Platte 7: ein Hafenbild aus Vael, Jahrzehnte alt — mit seinem eigenen Gesicht im Hintergrund. Auf der Rückseite verblasste Tinte: „Vael, Lichthaus, Keller.“ Die Platte war in einer Auktion platziert. Von wem, weiß Sorel nicht.",
+        "datei": "02-sorel.md"
+      },
+      "03": {
+        "titel": "Vesper: Der Brief",
+        "pov": "Vesper",
+        "status": "final",
+        "woerter": 3800,
+        "text": "Karst. Vesper hat keinen Auftrag mehr, repariert die letzte Taschenuhr. Im Gasthaus erwähnt ein reisender Uhrmacher eine Standuhr in Vael, die 4:33 pro Tag verliert, obwohl die Mechanik perfekt ist. Der Uhrmacher spricht mit seltsam altem Akzent. Ein Moragh-Einwanderer, durch das lecke Tor gekommen. Vesper liegt wach, rechnet, und fährt nach Vael.",
+        "datei": "03-vesper.md"
+      },
+      "04": {
+        "titel": "Maren: Die Werft",
+        "pov": "Maren",
+        "status": "final",
+        "woerter": 3650,
+        "text": "Grauküste. Maren steht vor der Werft Dahl. Fünf Jahre Briefwechsel, nie ein Treffen — Klaus ist tot. Maren erbt die Werft und ein Boot, drei Viertel fertig. Das Boot baut sich nachts selbst weiter — neue Holzspäne am Morgen, Planken die gestern nicht da waren. Thies Brandt zeigt ihr alles. Maren bleibt.",
+        "datei": "04-maren.md"
+      },
+      "I1": {
+        "titel": "Elke: Ankunft in Vael",
+        "pov": "Elke",
+        "status": "final",
+        "woerter": 2100,
+        "text": "Elke van der Holt, Bildhauerin, kommt wegen des Purpursteins nach Vael. Erste Berührung: der Stein ist warm. Sie legt die Hand darauf und spürt Hohlräume, Adern, Tunnel darunter.",
+        "datei": "I1-elke.md"
+      },
+      "05": {
+        "titel": "Alphina: Ankunft in Vael",
+        "pov": "Alphina",
+        "status": "final",
+        "woerter": 4238,
+        "text": "Drei Tage Kutsche. Pflanzen am Straßenrand zeigen nach Norden. Am Stadttor: sieben Asplenium scolopendrium drehen sich nach ihr, einer nach dem anderen. Der Purpurstein ist warm. Bei Runa Kvist, einer Druckerin mit heißen Händen, kauft Alphina Papier. Nachts auf der Gasse: Schemen aus Rauch, katzengroß, falsche Proportionen, schwarze Augen. Eines sitzt an der Wand, drei Meter hoch, kippt den Kopf. Tag eins.",
+        "datei": "05-alphina.md"
+      },
+      "06": {
+        "titel": "Sorel: Das Lichthaus",
+        "pov": "Sorel",
+        "status": "lektorat",
+        "woerter": 4045,
+        "text": "Sechs Tage Kutsche durch die Nacht. Sorel trägt sieben Glasplatten über die Grauküste, darunter sein eigenes Gesicht auf einem Bild das Jahrzehnte alt ist. Vael im Nebel: der Stein ist derselbe wie auf der Platte. Das Lichthaus am Hafen, ein Keller der nach Fixierer riecht obwohl niemand dort gearbeitet hat. Ein Nagel in der Wand, an genau der richtigen Stelle. Nachts am Kai: eine Gestalt zwischen den Pollern. Zu groß, zu schmal, Hufe auf nassem Stein. Die Haut flimmert, Rauch steigt auf, Kälte geht von ihr aus. Sorel drückt den Verschluss. Die Gestalt ist weg. Auf dem Poller: Kratzspuren, warm. Auf der entwickelten Platte: ein Schatten ohne Körper.",
+        "datei": "06-sorel.md"
+      },
+      "07": {
+        "titel": "Vesper: Die Standuhr",
+        "pov": "Vesper",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Tidemoor-Haus am Grauwe-Ufer. Die Standuhr im Salon: Gehäuse perfekt, jedes Zahnrad geprüft. Hand drauf: Null Abweichung. Hand weg: 4:33. Die Uhr reagiert auf ihn."
+      },
+      "08": {
+        "titel": "Maren: Das Boot wächst",
+        "pov": "Maren",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Maren schläft neben dem Boot. Morgens: neue Holzspäne, Planken die gestern nicht da waren. Schemen-Arbeit — gespenstische Hände bauen in der Nacht. Wasser fließt gegen das Gefälle in die Werft. Finn Daverin bringt einen toten Fisch der nach Metall stinkt. Die Strömung läuft rückwärts."
+      },
+      "I2": {
+        "titel": "Johann trifft Elke",
+        "pov": "Elke",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Johann Breke, Schmied aus den Innenlanden. Das Erz in seinen Barren singt, seit er an der Küste ist. Er trifft Elke — zwei Handwerker, gegenseitiger Respekt. Sie zeigt ihm den Handabdruck im Fels. Er zeigt ihr den Barren der summt."
+      },
+      "09": {
+        "titel": "Alphina: Der Garten",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Botanischer Garten. Siebenundzwanzig Pflanzen auf Alphina gerichtet. Farne mannshoch, mitten im Winter. Schatten-Tiere mit leuchtenden Augen zwischen den Beeten — Schemen, die Alphina verfolgen. Runa kommt vorbei, druckt Flugblätter. Alphina bemerkt: Runas Hände sind immer warm, Metall schmilzt leichter unter ihren Fingern."
+      },
+      "10": {
+        "titel": "Sorel: Die erste Platte",
+        "pov": "Sorel",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Erste Vael-Platte entwickelt: eine Frau mit Farnen am Hafen. Er hat sie nicht fotografiert — die Kamera hat sie eingefangen. Nachts klettert er über die Mauer des Gartens. Die Pflanzen bewegen sich im Mondlicht."
+      },
+      "11": {
+        "titel": "Alphina + Sorel: Erste Begegnung",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Der Garten, Nacht. Er fotografiert. Sie beobachtet. „Die Pflanzen bewegen sich.“ — „Ja.“ — „Seit wann?“ — „Immer.“ Alphina allein danach, Hand auf dem Boden: unter der Erde dasselbe Pochen wie unter Marens Werft. Die Stadt atmet."
+      },
+      "12": {
+        "titel": "Alphina: Die Risse",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Risse im Pflaster, die es gestern nicht gab. Heißes Wasser aus Leitungen, Kaminfeuer das ohne Brennstoff brennt. Die Grauwe riecht nach etwas Tiefem. Alphina sucht den Mann aus dem Garten und findet das Lichthaus am Hafen."
+      },
+      "13": {
+        "titel": "Sorel: Die Vael-Platten",
+        "pov": "Sorel",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Sorel entwickelt Platten: Farne die es im Garten nicht geben sollte, Alphina unscharf am Rand. Die Kamera fängt ein, was er nicht fotografiert hat. Nachts Geräusche im Keller — ein Schatten der sich bewegt und wartet. Leuchtende Augen, dann nichts."
+      },
+      "14": {
+        "titel": "Vesper + Maren: Das Uhrengeschäft",
+        "pov": "Vesper",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Maren braucht eine Schiffsuhr für das Boot. Vesper öffnet die Uhr, seine Hände. Physische Chemie, sofort. Draußen fließt die Grauwe rückwärts. Beide sehen es. Keiner sagt etwas."
+      },
+      "15": {
+        "titel": "Alphina: Der Steg",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Tag fünf ohne Sonnenlicht. Alphina beobachtet Sorel am Steg, fotografierend. Sein Rücken, seine Hände am Apparat. Er dreht sich um, sieht sie direkt an. Kein Wort. Sie geht. Die Farne am Hafen drehen sich nach ihr."
+      },
+      "I3": {
+        "titel": "Varen: Die Falle",
+        "pov": "Varen",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Varen in Moragh. Am Portal-Gegenstück. Er spürt die vier Resonanzen auf der anderen Seite — näher, stärker, fast da. Seine Schemen berichten. Karten, Ley-Linien-Diagramme, die 3 toten Quellen rot markiert. „Sie kommen.“ Kein Triumph. Notwendigkeit."
+      },
+      "16": {
+        "titel": "Sorel: Die Steg-Fotos",
+        "pov": "Sorel",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Sorel hat Alphina fotografiert, ohne ihr Wissen. Drei Platten. Auf der dritten: Farne die auf dem Steg nicht wachsen, gedreht nach ihr. Auf einer weiteren Platte taucht sein eigenes Gesicht auf — neben Alphina."
+      },
+      "17": {
+        "titel": "Alle vier: Der Garten",
+        "pov": "Alle",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Garten, Nachmittag. Alphina, Sorel, Vesper, Maren — keiner versteht warum er hier ist. Aber die Pflanzen stehen still, zum ersten Mal seit Tagen. Das Pochen unter der Erde, einmal, laut. Vesper und Maren gehen denselben Weg zurück; Schultern berühren sich."
+      },
+      "18": {
+        "titel": "Vesper: Das Manuskript",
+        "pov": "Vesper",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Esther Voss bringt ein Manuskript ins Tidemoor-Haus. Vierhundert Jahre alt, beschädigt — teilweise echt, teilweise von Varen überschrieben. Vier Fremde, ein Tor, eine Schwelle. Daemon-Fingerabdrücke im Kohlestaub. Doktor Halvard behandelt seit Wochen unmögliche Verletzungen."
+      },
+      "I4": {
+        "titel": "Varen: Die Schemen berichten",
+        "pov": "Varen",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Varen empfängt seine Schemen. Vier Resonanzen, alle in Vael, alle stärker als erwartet. Die Pflanzen-Frau am stärksten. „Die Vierte ist die Richtige.“ Er prüft seine Karten, die toten Quellen. Bereitet sich vor."
+      },
+      "19": {
+        "titel": "Alphina + Sorel: Das Manuskript",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Alphina und Vesper studieren das Manuskript, nachts bei Kerzenlicht. Seine Hand auf ihrer — Stromschlag ohne Strom. Sie zieht zurück. Morgens denkt sie an Vesper und an Sorel. Bei Vesper kann sie. Bei Sorel kann sie nicht. Genau das ist der Punkt."
+      },
+      "20": {
+        "titel": "Vesper + Maren: Die Werft",
+        "pov": "Vesper",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Vesper bringt die reparierte Schiffsuhr. Sägemehl in Marens Haar. Tee auf Holzkisten. Sie reden über Hände und Arbeit, nicht über das Tor. Ihre Arme berühren sich, keiner zieht zurück. Das Boot wächst weiter — nachts, von unsichtbaren Händen."
+      },
+      "21": {
+        "titel": "Alphina + Sorel: Die Dunkelkammer",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Rotlicht, Chemie-Geruch, Enge. Sorel zeigt ihr die Platten — die Farne, ihr Bild, sein Gesicht. Er hält ihre Handgelenke. Sie gibt nach. Kontrollverlust. Farne brechen durch die Kellerwände, durch Putz und Dielen."
+      },
+      "22": {
+        "titel": "Vesper + Maren: Erste Nacht",
+        "pov": "Maren",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Maren kommt nachts ins Tidemoor-Haus. Kein Vorwand. Die Tür ist offen. Was folgt ist rohe Chemie, Körper die sich finden. Danach: er schläft, sie liegt wach. Morgens geht sie — weil Maren immer geht."
+      },
+      "I5": {
+        "titel": "Die Feuer-Schemen, 1423",
+        "pov": "Manuskript",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Varen schickt drei Feuer-Schemen durch das Tor — doppelt so groß wie Menschen. In Vael als Feuerdämonen verstanden. Die Vaeler greifen an, die Schemen wehren sich. Teile der Stadt brennen. Elke drückt sie zurück. Blut aus der Nase — der Preis beginnt."
+      },
+      "23": {
+        "titel": "Alphina: Das Archiv",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Die Vier im Archiv. Das Manuskript: vier Fremde, eine Schwelle, ein Tor unter der Stadt. Ein Moragh-Sprachbuch, ebenfalls von Schemen platziert. Im Keller riecht die Luft süß und dicht — nach Moragh. Jara hat Randnotizen gefunden, andere Handschrift. Niemand hört ihr zu."
+      },
+      "24": {
+        "titel": "Sorel: Die Grenzverletzung",
+        "pov": "Sorel",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Alphina findet die drei Steg-Platten: sie, ohne ihr Wissen. „Du hast mich genommen ohne zu fragen.“ Sorel schweigt, weil Schweigen alles ist was er kann wenn jemand Recht hat. Sie geht."
+      },
+      "25": {
+        "titel": "Alphina: Der Bruch",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Alphina durchsucht Sorels Sachen im Lichthaus. Findet die Platte mit seinem Gesicht, dreizehn Jahre alt. Sorel kommt zurück, sieht sie mit der Platte. Nicht wütend — enttäuscht. „Du kannst nicht aufhören.“ Tür zu."
+      },
+      "26": {
+        "titel": "Vesper + Maren: Sie bleibt",
+        "pov": "Vesper",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Maren kommt wieder ins Tidemoor-Haus. Vesper hält ihre Handgelenke, fragt mit den Händen. Maren gibt nach — nicht aus Schwäche, aus Mut. Danach steht sie nicht auf. Zum ersten Mal. Die Grauwe draußen steht still."
+      },
+      "I6": {
+        "titel": "Varen: Geduld",
+        "pov": "Varen",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Varen wartet. Die Resonanzen konvergieren. Seine Schemen haben das Manuskript platziert, das Sprachbuch hinterlegt. Alles liegt bereit. „Die Pflanzen-Frau wird als Erste begreifen. Die anderen werden folgen.“"
+      },
+      "27": {
+        "titel": "Maren: Die Tunnel",
+        "pov": "Maren",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Maren folgt dem Pochen unter der Werft. Lose Bodenbretter, schwarzer Basalt darunter. Tunnel, wärmer als möglich. Sie folgt dem Wasser das rückwärts fließt. Am Ende: der Bogen. Zwei Pfeiler. Das Tor, geschlossen, pulsierend. Ihre Hand darauf — das Tor weint."
+      },
+      "28": {
+        "titel": "Alphina: Die Tunnel",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Sorel ist seit drei Tagen weg. Alphina geht in die Tunnel, allein, Farne als Kompass. Findet ihn am Tor. „Du bist nicht hier weil du mich liebst. Du bist hier weil du nicht ertragen kannst, dass jemand dir den Rücken zukehrt.“ Versöhnung, schmerzhafter als der Streit."
+      },
+      "29": {
+        "titel": "Vesper + Maren: Die Uhren stehen",
+        "pov": "Vesper",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Alle Uhren in Vael stehen gleichzeitig. Stille die weh tut. Maren kommt zu Vesper. „Bleibst du?“ Sie bleibt. Die Uhren beginnen wieder zu laufen — im Takt ihres Atems."
+      },
+      "30": {
+        "titel": "Alphina + Runa: Die Stadt bricht",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Ein Gebäude am Hafen brennt von innen. Ein gebundenes Wesen tötet einen Händler. Am Hafen ein Thar-Schem: Metallgeruch, Hitze. Runa bei Alphina — will Antworten. Ihre Hände glühen, buchstäblich. Freundschaft-Plus beginnt. Hitzig, körperlich, keine Beziehung."
+      },
+      "I7": {
+        "titel": "Kampf und Durchgang, 1423",
+        "pov": "Elke",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Drei Feuer-Schemen wüten in der Stadt. Die Vier kämpfen sich zum Steinkreis. Kaspar stirbt, Johann stirbt. Elke öffnet das Tor und geht durch. Auf der Moragh-Seite trifft sie Varen — er kappt die Bindung der Schemen. In Vael lösen sie sich im Rauch auf. Lene überlebt allein."
+      },
+      "31": {
+        "titel": "Vesper: Die Erkenntnis",
+        "pov": "Vesper",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Nachts, Kerzen und Papier. Vesper legt Marens Gezeitendaten neben seine 4:33. Das Muster: die Uhr verliert im exakt selben Rhythmus wie die Gezeiten falsch laufen. Die Frequenz von etwas hinter dem Tor. Er rennt zur Werft. „Deine Gezeiten. Meine Uhr. Dasselbe Muster.“"
+      },
+      "32": {
+        "titel": "Alle vier: Die Nacht vor der Schwelle",
+        "pov": "Alle",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Letzte Nacht in Vael. Alphina bittet die Pflanzen still zu sein. Sorel belichtet eine letzte Platte. Vesper stellt die Standuhr auf Null. Maren am Boot: „Warte auf mich.“ Um 4:33 nach Mitternacht gehen sie nach unten."
+      },
+      "33": {
+        "titel": "Alphina: Letzte Blüte",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Vier Menschen in der Dunkelheit, Alphinas Farne leuchten grünlich. Das Tor pulsiert. Sorel hält ihre Hand, zum ersten Mal ungebeten. „Darf ich?“ Kontrolle fällt. Farne durch Basalt. Sie küsst ihn. Die ganze Höhle blüht. Hinter ihnen: Schritte. Runa folgt, unbemerkt."
+      },
+      "34": {
+        "titel": "Sorel: Durchgang",
+        "pov": "Sorel",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Sorel geht als Erster. Moragh: zwei Monde, Akkretionsscheibe-Sonne, sattere Farben. Runa stolpert im letzten Moment durch. Das Tor schließt sich. Nicht von ihnen — von Varen."
+      },
+      "35": {
+        "titel": "Alphina: Varen",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Varen tritt aus dem Schatten. Groß, muskulös, graue Schläfen, purpurne Augen. Spricht 1423er Thalassisch. Kennt ihre Namen. Legt die Hand an Alphinas Kinn. „Deine Resonanz. Ich habe sie durch den Riss gespürt. Über vierhundert Jahre.“ 4:33 war nie die Frequenz des Tors — sondern Varens Signatur."
+      },
+      "36": {
+        "titel": "Alphina: Sorels Tod",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Sorel stellt sich zwischen Varen und Alphina. Varens Abwehr trifft ihn mit voller Kraft. Er fällt. Varen KÖNNTE ihn retten. Tut es nicht. Deckt seine Augen zu, flüstert ein Wort. Fast zärtlich. Unerklärlich. Alphinas Explosion: Wurzeln durch Stein, Dornen. Auf Sorels Körper: kleine weiße Blumen."
+      },
+      "I8": {
+        "titel": "Lenes Manuskript",
+        "pov": "Lene/Elke",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Zwei Stimmen verschränkt. Lene in Vael, schreibt das Manuskript — sachlich, nüchtern, nur einmal bricht die Stimme. Elke in Moragh, letzter Skizzenbuch-Eintrag: Der Stein gibt nach. Die Hand reicht. „Lene — schreib auf was passiert ist.“"
+      },
+      "37": {
+        "titel": "Vesper: Die fremde Welt",
+        "pov": "Vesper",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Fünf Menschen, vier lebend, verletzt von Alphinas Ausbruch. Moragh: zwei Monde, Akkretionsscheibe, sattere Farben, andere Luft. Können die Sprache nicht sprechen. Stolpern aus dem Tunnel."
+      },
+      "38": {
+        "titel": "Maren: Die Stadt",
+        "pov": "Maren",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Eine Moragh-Stadt. Größere Menschen, dunkle Augen, feingliedrig. Ein älterer Mann — purpurne Augen — mustert sie. Sagt in gebrochenem Thalassisch: „Elke?“ Führt sie durch die Stadt."
+      },
+      "I9": {
+        "titel": "Elke hört das Tor",
+        "pov": "Elke",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Elke, Stunden vorher. Fünf Resonanzen drücken durch den Stein. „Fünf? Das ergibt keinen Sinn.“ Sie wusste nicht, dass jemand kommen würde. Auf dem Weg: Thar-Späher. Metall-Geruch. Sie wissen es auch."
+      },
+      "39": {
+        "titel": "Alphina: Elke",
+        "pov": "Alphina",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Ein Garten. Pflanzen aus beiden Welten. Eine Frau mit erdigen Händen. 1423er Thalassisch, nach Monaten zum ersten Mal laut: „Woher—“ Alphina fällt auf die Knie. Sorel ist tot. Die Welt ist fremd. Und jemand spricht ihre Sprache."
+      },
+      "40": {
+        "titel": "Epilog: Vael",
+        "pov": "Nebencharaktere",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Vael ohne die Fünf. Das Portal ist geschlossen. Esther Voss vor dem toten Tor. Thies an der Werft. Halvard schreibt seinen Bericht. Nebel lichtet sich. Grauwe fließt vorwärts. Die Farne stehen still. Das Boot wartet. Letzte Seite: alle bei Elke. Alphina: Trauer, Hass, Rachewunsch."
+      }
     }
   },
   "buch2": {
-    "meta": { "titel": "Das Auge", "untertitel": "Moragh / Die Fraktionen / Die Wahl" },
+    "meta": {
+      "titel": "Das Auge",
+      "untertitel": "Moragh / Die Fraktionen / Die Wahl"
+    },
     "akte": [
-      { "name": "Akt I", "titel": "Fremde Welt", "kapitel": ["01","02","03","04","I1","05","06","07","08","09","I2","10"] },
-      { "name": "Akt II", "titel": "Die Fraktionen", "kapitel": ["11","12","13","14","I3","15","16","17","18","19","I4","20","20b"] },
-      { "name": "Akt III", "titel": "Gefangenschaft", "kapitel": ["21","22","23","I5","24","25","26","27","I6","28"] },
-      { "name": "Akt IV", "titel": "Trennung", "kapitel": ["29","30","31","I7","32","33","34","35","36"] }
+      {
+        "name": "Akt I",
+        "titel": "Fremde Welt",
+        "kapitel": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "I1",
+          "05",
+          "06",
+          "07",
+          "08",
+          "09",
+          "I2",
+          "10"
+        ]
+      },
+      {
+        "name": "Akt II",
+        "titel": "Die Fraktionen",
+        "kapitel": [
+          "11",
+          "12",
+          "13",
+          "14",
+          "I3",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "I4",
+          "20",
+          "20b"
+        ]
+      },
+      {
+        "name": "Akt III",
+        "titel": "Gefangenschaft",
+        "kapitel": [
+          "21",
+          "22",
+          "23",
+          "I5",
+          "24",
+          "25",
+          "26",
+          "27",
+          "I6",
+          "28"
+        ]
+      },
+      {
+        "name": "Akt IV",
+        "titel": "Trennung",
+        "kapitel": [
+          "29",
+          "30",
+          "31",
+          "I7",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36"
+        ]
+      }
     ],
     "kapitel": {
-      "01": { "titel": "Alphina: Hass", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Sorel ist tot. Varen hat ihn sterben lassen. Alphina will Rache \u2014 nicht Trauer zuerst, Zerst\u00f6rung. Farne brechen durch den Basalt, Alphinas Trauer w\u00e4chst buchst\u00e4blich. Vier Lebende und eine Druckerin in einer fremden Welt." },
-      "02": { "titel": "Vesper: Die fremde Welt", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Vesper \u00fcbernimmt. Vier Menschen ohne Plan, Sprache oder Karte. Moragh: Farben zu satt, Luft zu dick. B\u00e4ume schwarz, glatt, warm. Die Moragh-Menschen \u2014 gr\u00f6\u00dfer, feingliedriger. Vesper orientiert sich an den Monden." },
-      "03": { "titel": "Maren: Wasser in der Fremde", "pov": "Maren", "status": "idee", "woerter": null, "text": "Maren sp\u00fcrt einen Fluss unter dem Boden. Der Fluss flie\u00dft bergauf. Ihr K\u00f6rper reagiert \u2014 das Wasser formt eine Mulde, ein Becken, Trinkwasser. Es kostet sie nichts. St\u00e4rker als in Vael." },
-      "04": { "titel": "Runa: Die falsche Welt", "pov": "Runa", "status": "idee", "woerter": null, "text": "Erste Runa-Perspektive. Ihr Druckerwerkzeug reagiert \u2014 Zinn schmilzt in ihrer Hand. Sie beobachtet die anderen: Alphina l\u00e4sst W\u00e4lder wachsen, Vesper analysiert, Maren spricht mit Wasser. Und sie: eine Druckerin mit warmen H\u00e4nden." },
-      "I1": { "titel": "Elke: Erste Woche", "pov": "Elke", "status": "idee", "woerter": null, "text": "Wochen nach ihrem Durchgang, vierhundert Thalassien-Jahre. Elke hat den Stein geformt, einen Garten angelegt. Ein Gilden-Meister sp\u00fcrt ihre Resonanz. \u201eDie Taube die Stein singt.\u201c Er l\u00e4dt sie in die Stadt ein." },
-      "05": { "titel": "Alphina: Trauer als Wald", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Erste Nacht. Im Schlaf bricht der Boden auf \u2014 Gras, Farne, Moos, Ranken. Am Morgen: ein Hain, zehn Meter Radius, Alphina barfu\u00df in der Mitte. Sie hat nichts getan. Ihr K\u00f6rper hat getrauert." },
-      "06": { "titel": "Vesper: Struktur von Moragh", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Drei Tage Fu\u00dfmarsch. B\u00e4ume in Spiralen, Fl\u00fcsse folgen Fibonacci, Monde kreisen im Verh\u00e4ltnis 4:33. Am dritten Tag: behauener Stein, ein Weg. Jemand lebt hier." },
-      "07": { "titel": "Alphina: Elke", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Elke van der Holt \u2014 zu alt f\u00fcr ihr Gesicht, zu jung f\u00fcr ihre Augen. Erde/Stein-Resonanz. Ihr Garten: Pflanzen aus beiden Welten. Sie sieht Alphinas Schlaf-Hain. \u201eDas kostet dich nichts, oder?\u201c Elkes Gesicht: etwas zwischen Neid und Angst." },
-      "08": { "titel": "Maren: Das Tor ist zu", "pov": "Maren", "status": "idee", "woerter": null, "text": "Maren sucht das Tor durch das Wasser. Sp\u00fcrt den Punkt wo die Welt d\u00fcnn wird \u2014 aber geschlossen, nur Stein. Maren flie\u00dft, Maren bleibt nie, und jetzt sitzt sie fest." },
-      "09": { "titel": "Runa: Feuer", "pov": "Runa", "status": "idee", "woerter": null, "text": "Runa experimentiert nachts. Messing wird weich, formbar, gl\u00fcht \u2014 Hitze aus ihren H\u00e4nden. Sie formt eine Buchstabentype: ein A, perfekt. Elke: \u201eFeuer-Resonanz. Schwach, aber da.\u201c Runa: \u201eIch bin Druckerin.\u201c Elke: \u201eHier bist du mehr.\u201c" },
-      "I2": { "titel": "Varen: Das Warten", "pov": "Varen", "status": "idee", "woerter": null, "text": "Varen beobachtet aus der Ferne. Die Pflanzen-Frau am st\u00e4rksten. Die 3 toten Quellen auf seinen Karten. Er braucht Alphinas Resonanz. Nicht sie selbst \u2014 ihre Kraft. Aber er kann sich und ihr nicht sagen wo die Grenze liegt." },
-      "10": { "titel": "Alphina: Die Gilden-Stadt", "pov": "Alphina", "status": "idee", "woerter": null, "text": "T\u00fcrme die gewachsen sind, Br\u00fccken \u00fcber Fl\u00fcsse die bergauf flie\u00dfen. Die Gilden-\u00c4lteste empf\u00e4ngt sie \u2014 freundlich, sofort interessiert. Ein Hain, gewachsen in einer Nacht, ohne Preis. In einer Welt im Krieg bedeutet das: Waffe." },
-      "11": { "titel": "Alphina: Rache-Obsession", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Drei Wochen in der Gilden-Stadt. Alphina lernt die Sprache, sucht Spuren von Varen. Die Trauer um Sorel: ein Wurzelwerk, darunter Wut. Die \u00c4lteste warnt: \u201eLass ihn.\u201c Alphina l\u00e4sst nicht." },
-      "12": { "titel": "Vesper: Muster und Zeit", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Vesper in der Gilden-Bibliothek. Hand auf einer Seite \u2014 Zeitlinien, geschichtet. Moraghs Zeit spiralt. Talven, ein junger Lehrling, bringt Tee und die richtigen Karten. Hilfsbereit, schnell, ein Lachen das zu gro\u00df ist f\u00fcr sein Gesicht." },
-      "13": { "titel": "Maren: Der Fluss", "pov": "Maren", "status": "idee", "woerter": null, "text": "Maren verl\u00e4sst die Stadt, flussaufw\u00e4rts. Das Wasser gehorcht: formt Br\u00fccken, teilt sich. An einer Biegung: ein Ort wo das Wasser vollkommen still steht. Ein zweiter d\u00fcnner Punkt. Sie legt die Hand ins Wasser \u2014 Grauk\u00fcsten-kalt. Der Wasserweg." },
-      "14": { "titel": "Runa: Die Schmieden", "pov": "Runa", "status": "idee", "woerter": null, "text": "Die Gilden-Schmiede formen Metall durch Magie \u2014 es kostet sie. Sie taumeln nach einer Stunde. Runa legt die Hand auf einen Eisenbarren. Er wird warm. Sie formt stundenlang, ohne m\u00fcde zu werden." },
-      "I3": { "titel": "Varen: Die Forschung", "pov": "Varen", "status": "idee", "woerter": null, "text": "Varen in seinem Quartier. Karten, Diagramme, die toten Quellen. Er wei\u00df dass Alphina ihn hasst. Es ist ihm nicht egal \u2014 aber es ist nicht das Wichtigste. Das Wichtigste ist die Verbindung. Die Quellen. Die Schuld die er nie so nennt." },
-      "15": { "titel": "Alphina: Das Angebot", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Die \u00c4lteste bietet alles: Schutz, Status, Wissen. Im Gegenzug: k\u00e4mpft f\u00fcr uns. Alphina denkt: Sorel ist tot weil jemand ihre Resonanz wollte. Talvens Gesicht f\u00fcr einen Moment: nicht Ehrfurcht. Hunger." },
-      "16": { "titel": "Alphina + Runa: Nacht auf dem Dach", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Beide schlaflos, zwei Monde. FWB: hitzig, direkt, kein romantisches Versprechen. Runas H\u00e4nde auf ihrer Haut, warm, immer warm. Kein Wald bricht aus. Keine Farne. Stille. \u201eBei Sorel hat die Welt gebl\u00fcht. Bei Runa ist sie still.\u201c" },
-      "17": { "titel": "Vesper: Der Binder-Spion", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Ein Gilden-Gelehrter stellt die falschen Fragen. Vesper folgt ihm nachts \u2014 der Gelehrte trifft einen Binder am Stadtrand, liefert Informationen \u00fcber Alphinas Resonanz. Vesper beobachtet. Wartet. Drei Z\u00fcge voraus." },
-      "18": { "titel": "Vesper: Nyr kommt", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Nyr kommt: Thar-Pilotin einer Magitech-Bestie, Geruch nach hei\u00dfem Eisen. Bestie Kessler, 40 Tonnen. \u201eDu bist der der Muster sieht.\u201c Vesper ist fasziniert \u2014 ihre Effizienz, ihre Ordnung, ihre Disziplin." },
-      "19": { "titel": "Alphina: Der Schlaf-Wald", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Vorf\u00fchrung in einem Gilden-Dorf. Alphina pflanzt einen Baum, kontrolliert. Nachts schl\u00e4ft sie \u2014 am Morgen das halbe Dorf \u00fcberwuchert. Die Dorfbewohner evakuieren. Nicht vor den Bindern. Vor ihr." },
-      "I4": { "titel": "Varen: Der Beobachter", "pov": "Varen", "status": "idee", "woerter": null, "text": "Seine Schemen sind nicht feindlich \u2014 sie beobachten. Alphina bemerkt sie: Schatten am Rand ihres Hains, leuchtende Augen. Nicht aggressiv. Sie STUDIEREN. Alphinas Faszination wider Willen beginnt." },
-      "20": { "titel": "Alphina + Runa: Feuer und Farn", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Nach dem Dorf-Desaster. Runa: \u201eDu hast Angst vor dir selbst.\u201c FWB: hitzig, direkt. Runas H\u00e4nde gl\u00fchen auf Alphinas Haut. Kein Wald bricht aus. Bei Runa ist die Welt still. Der Binder-Spion wird enttarnt." },
-      "20b": { "titel": "Vesper + Nyr: Zur Thar", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Vesper geht mit Nyr zu den Thar. Nicht Gefangennahme \u2014 Wahl. Ihre Effizienz, ihre Ordnung. Nyr presst ihn an die Metallwand \u2014 Luft wird d\u00fcnn, Druck-Magie. Blaue Flecken von Luft, nicht von Fingern." },
-      "21": { "titel": "Alphina: Das Schlachtfeld", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Binder greifen eine Gilden-Siedlung an. Alphina k\u00e4mpft \u2014 Ranken, Dornen, Wurzeln. Dann erscheint Varen als dritte Partei. Seine Schemen trennen Alphina systematisch von der Gruppe. Runa sieht es \u2014 kann nichts tun. Schreit." },
-      "22": { "titel": "Alphina: Varens Quartier", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Alphina ist Varens Gefangene. Sein Quartier: B\u00fccher, Karten, Ley-Linien. Die 3 toten Quellen rot markiert. Er spricht 1423er Thalassisch. Nicht grausam \u2014 interessiert. \u201eDu hast ihn sterben lassen.\u201c \u2014 \u201eJa.\u201c Keine Entschuldigung. Nie." },
-      "23": { "titel": "Alphina: Die Wahrheit", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Tage, Wochen. Er zeigt ihr die Karten. Sein Experiment, die \u00dcberladung, die Kettenreaktion. Drei St\u00e4dte die verdorrten. \u201eNiemand wei\u00df es. Nur du. Jetzt.\u201c Die Daten stimmen. Varens Gesicht wenn er \u00fcber die Quellen spricht \u2014 das ist keine L\u00fcge." },
-      "I5": { "titel": "Varen: Die Schuld", "pov": "Varen", "status": "idee", "woerter": null, "text": "Varen allein. Er hat sie. Was er gewollt hat. Und es ist nicht genug. Die Quellen sind immer noch tot. Die Schuld die er nie so nennt \u2014 er sagt \u201eNotwendigkeit\u201c, er meint etwas anderes." },
-      "24": { "titel": "Alphina: Sie f\u00e4ngt an zu glauben", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Die Daten stimmen. Ihr K\u00f6rper reagiert auf Varen \u2014 nicht weil er sie zwingt, weil er da ist, m\u00e4chtig, besessen, und ihr die Wahrheit erz\u00e4hlt. Intimit\u00e4t durch Gest\u00e4ndnis. Das Begehren f\u00fchlt sich falsch an. Sie begehrt den Mann der Sorel hat sterben lassen." },
-      "25": { "titel": "Alphina + Varen: Dornen", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Sie dreht sich nicht weg. Sex mit Varen: dunkel, anders. Andere Geschwindigkeit \u2014 langsamer, schwerer. R\u00fccken, Nacken, Wirbels\u00e4ule statt Handgelenke. Nicht halten \u2014 f\u00fchren. Dornen wachsen statt Farne." },
-      "26": { "titel": "Runa: Warten", "pov": "Runa", "status": "idee", "woerter": null, "text": "Runa in der Gilden-Stadt. Druckt. Baut ihre Moragh-Presse. Gie\u00dft Moragh-Schriftzeichen in ihre Lettern. Wartet auf Alphina. Wei\u00df nicht wo sie ist \u2014 nur dass Varen sie genommen hat. Runas H\u00e4nde gl\u00fchen im Dunkeln." },
-      "27": { "titel": "Talven: Zum Forscher", "pov": "Talven", "status": "idee", "woerter": null, "text": "Talven verl\u00e4sst die Stadt, findet Varen. \u201eDie Thalassierin w\u00e4chst einen Hain im Schlaf und es kostet sie nichts. Ich will wissen warum.\u201c Varen zeigt ihm Resonanz-Ernte. Erste Lektion bis zum Morgengrauen. Milchiger Fleck im Auge." },
-      "I6": { "titel": "Elke und der Krieg", "pov": "Elke", "status": "idee", "woerter": null, "text": "Die Gilden-Stadt wird angegriffen. Gebundene Wesen in Ketten aus Magie, eines schreit vor Schmerz. Drei Tote. Elke sagt: \u201eSo geht das. Seit Jahren.\u201c" },
-      "28": { "titel": "Maren: Durchbruch", "pov": "Maren", "status": "idee", "woerter": null, "text": "Maren dr\u00fcckt am stillen Punkt \u2014 ein Riss, drei Sekunden. Der Geruch von Salz, Teer, nassem Backstein: Vael. Der Wasserweg \u00f6ffnet sich. Maren trifft eine Entscheidung: sie geht zur\u00fcck nach Thalassien." },
-      "29": { "titel": "Maren: ~1910", "pov": "Maren", "status": "idee", "woerter": null, "text": "Maren tritt durch den Wasserweg. Thalassien. Drei Moragh-Monate sind ~90 Jahre. Vael hat Fahrzeuge, Radio. Sorels Glasplatten in einer Privatsammlung. Halvards Bericht als Kuriosit\u00e4t. Alle tot seit Generationen. Das Boot: drei Viertel fertig, konserviert." },
-      "30": { "titel": "Maren: Die Gesellschaft", "pov": "Maren", "status": "idee", "woerter": null, "text": "Maren gr\u00fcndet die Schwellenforschungsgesellschaft. Allein. Die einzige Person die zwischen den Welten gehen kann. Sie bleibt. Flie\u00dft nicht weiter. Zum ersten Mal." },
-      "31": { "titel": "Alphina: Nicht mehr Gefangene", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Alphina bleibt bei Varen. Nicht als Gefangene \u2014 als jemand der sich entschieden hat zu bleiben. Arbeitet mit ihm an der Quellen-Forschung. Ihre Resonanz als Testfeld. Vergibt nicht. Aber hasst nicht mehr." },
-      "I7": { "titel": "Varen: Die Partnerin", "pov": "Varen", "status": "idee", "woerter": null, "text": "Er hat sie. Was er gewollt hat. Und es ist nicht genug. Es ist nie genug. Aber nachts wenn Dornen aus dem Boden wachsen \u2014 sein Blick der nicht fragt. Ihre Hand die nicht wegzieht. Das ist mehr als er erwartet hat." },
-      "32": { "titel": "Vesper: Bei den Thar", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Vesper bei der Thar mit Nyr. Effizienz, Ordnung, Kommandokette. Nyr pilotiert Kessler mit unvergleichlicher Pr\u00e4zision. Vesper gibt der Thar Daten \u00fcber die Gilden. Kalkulation. \u201eIch habe gerechnet.\u201c" },
-      "33": { "titel": "Runa: Die Presse", "pov": "Runa", "status": "idee", "woerter": null, "text": "Runa druckt. Moragh-Schriftzeichen, Thalassien-Lettern, gemischt. Baut ihre Hybrid-Presse. Wartet auf Alphina. Wei\u00df nur: sie ist bei dem Mann der Sorel hat sterben lassen. Runas H\u00e4nde gl\u00fchen im Dunkeln." },
-      "34": { "titel": "Talven: Der Held", "pov": "Talven", "status": "idee", "woerter": null, "text": "Talven verteilt geerntete Resonanz. Ein alter Beschw\u00f6rer ruft ein Lichtwesen und weint. \u201eResonanz f\u00fcr alle.\u201c Talven wird zum Helden. Milchige Augen hinter dunkler Brille. \u201eGegen die Sonne.\u201c" },
-      "35": { "titel": "Alphina + Varen: Die Quellen", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Erste Tests. Alphinas Resonanz als externer Ansto\u00df. Pflanzen auf totem Boden. Wurzeln die in die tote Quelle reichen. Erste Ergebnisse. Varen neben ihr \u2014 zum ersten Mal etwas im Gesicht das nicht Obsession ist." },
-      "36": { "titel": "Alle: Getrennt", "pov": "Alle", "status": "idee", "woerter": null, "text": "Alphina bei Varen. Maren in Thalassien, ~1910, allein. Vesper bei den Thar mit Nyr. Runa in der Gilden-Stadt, druckend, wartend. Talven: Held, milchige Augen, zerfallend. Alle getrennt. Das Auge sieht alles \u2014 und niemand sieht dasselbe." }
+      "01": {
+        "titel": "Alphina: Hass",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Sorel ist tot. Varen hat ihn sterben lassen. Alphina will Rache — nicht Trauer zuerst, Zerstörung. Farne brechen durch den Basalt, Alphinas Trauer wächst buchstäblich. Vier Lebende und eine Druckerin in einer fremden Welt.",
+        "datei": "01-alphina.md"
+      },
+      "02": {
+        "titel": "Vesper: Die fremde Welt",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Vesper übernimmt. Vier Menschen ohne Plan, Sprache oder Karte. Moragh: Farben zu satt, Luft zu dick. Bäume schwarz, glatt, warm. Die Moragh-Menschen — größer, feingliedriger. Vesper orientiert sich an den Monden.",
+        "datei": "02-sorel.md"
+      },
+      "03": {
+        "titel": "Maren: Wasser in der Fremde",
+        "pov": "Maren",
+        "status": "idee",
+        "woerter": null,
+        "text": "Maren spürt einen Fluss unter dem Boden. Der Fluss fließt bergauf. Ihr Körper reagiert — das Wasser formt eine Mulde, ein Becken, Trinkwasser. Es kostet sie nichts. Stärker als in Vael.",
+        "datei": "03-vesper.md"
+      },
+      "04": {
+        "titel": "Runa: Die falsche Welt",
+        "pov": "Runa",
+        "status": "idee",
+        "woerter": null,
+        "text": "Erste Runa-Perspektive. Ihr Druckerwerkzeug reagiert — Zinn schmilzt in ihrer Hand. Sie beobachtet die anderen: Alphina lässt Wälder wachsen, Vesper analysiert, Maren spricht mit Wasser. Und sie: eine Druckerin mit warmen Händen.",
+        "datei": "04-maren.md"
+      },
+      "I1": {
+        "titel": "Elke: Erste Woche",
+        "pov": "Elke",
+        "status": "idee",
+        "woerter": null,
+        "text": "Wochen nach ihrem Durchgang, vierhundert Thalassien-Jahre. Elke hat den Stein geformt, einen Garten angelegt. Ein Gilden-Meister spürt ihre Resonanz. „Die Taube die Stein singt.“ Er lädt sie in die Stadt ein.",
+        "datei": "I1-elke.md"
+      },
+      "05": {
+        "titel": "Alphina: Trauer als Wald",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Erste Nacht. Im Schlaf bricht der Boden auf — Gras, Farne, Moos, Ranken. Am Morgen: ein Hain, zehn Meter Radius, Alphina barfuß in der Mitte. Sie hat nichts getan. Ihr Körper hat getrauert.",
+        "datei": "05-alphina.md"
+      },
+      "06": {
+        "titel": "Vesper: Struktur von Moragh",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Drei Tage Fußmarsch. Bäume in Spiralen, Flüsse folgen Fibonacci, Monde kreisen im Verhältnis 4:33. Am dritten Tag: behauener Stein, ein Weg. Jemand lebt hier.",
+        "datei": "06-sorel.md"
+      },
+      "07": {
+        "titel": "Alphina: Elke",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Elke van der Holt — zu alt für ihr Gesicht, zu jung für ihre Augen. Erde/Stein-Resonanz. Ihr Garten: Pflanzen aus beiden Welten. Sie sieht Alphinas Schlaf-Hain. „Das kostet dich nichts, oder?“ Elkes Gesicht: etwas zwischen Neid und Angst."
+      },
+      "08": {
+        "titel": "Maren: Das Tor ist zu",
+        "pov": "Maren",
+        "status": "idee",
+        "woerter": null,
+        "text": "Maren sucht das Tor durch das Wasser. Spürt den Punkt wo die Welt dünn wird — aber geschlossen, nur Stein. Maren fließt, Maren bleibt nie, und jetzt sitzt sie fest."
+      },
+      "09": {
+        "titel": "Runa: Feuer",
+        "pov": "Runa",
+        "status": "idee",
+        "woerter": null,
+        "text": "Runa experimentiert nachts. Messing wird weich, formbar, glüht — Hitze aus ihren Händen. Sie formt eine Buchstabentype: ein A, perfekt. Elke: „Feuer-Resonanz. Schwach, aber da.“ Runa: „Ich bin Druckerin.“ Elke: „Hier bist du mehr.“"
+      },
+      "I2": {
+        "titel": "Varen: Das Warten",
+        "pov": "Varen",
+        "status": "idee",
+        "woerter": null,
+        "text": "Varen beobachtet aus der Ferne. Die Pflanzen-Frau am stärksten. Die 3 toten Quellen auf seinen Karten. Er braucht Alphinas Resonanz. Nicht sie selbst — ihre Kraft. Aber er kann sich und ihr nicht sagen wo die Grenze liegt."
+      },
+      "10": {
+        "titel": "Alphina: Die Gilden-Stadt",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Türme die gewachsen sind, Brücken über Flüsse die bergauf fließen. Die Gilden-Älteste empfängt sie — freundlich, sofort interessiert. Ein Hain, gewachsen in einer Nacht, ohne Preis. In einer Welt im Krieg bedeutet das: Waffe."
+      },
+      "11": {
+        "titel": "Alphina: Rache-Obsession",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Drei Wochen in der Gilden-Stadt. Alphina lernt die Sprache, sucht Spuren von Varen. Die Trauer um Sorel: ein Wurzelwerk, darunter Wut. Die Älteste warnt: „Lass ihn.“ Alphina lässt nicht."
+      },
+      "12": {
+        "titel": "Vesper: Muster und Zeit",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Vesper in der Gilden-Bibliothek. Hand auf einer Seite — Zeitlinien, geschichtet. Moraghs Zeit spiralt. Talven, ein junger Lehrling, bringt Tee und die richtigen Karten. Hilfsbereit, schnell, ein Lachen das zu groß ist für sein Gesicht."
+      },
+      "13": {
+        "titel": "Maren: Der Fluss",
+        "pov": "Maren",
+        "status": "idee",
+        "woerter": null,
+        "text": "Maren verlässt die Stadt, flussaufwärts. Das Wasser gehorcht: formt Brücken, teilt sich. An einer Biegung: ein Ort wo das Wasser vollkommen still steht. Ein zweiter dünner Punkt. Sie legt die Hand ins Wasser — Grauküsten-kalt. Der Wasserweg."
+      },
+      "14": {
+        "titel": "Runa: Die Schmieden",
+        "pov": "Runa",
+        "status": "idee",
+        "woerter": null,
+        "text": "Die Gilden-Schmiede formen Metall durch Magie — es kostet sie. Sie taumeln nach einer Stunde. Runa legt die Hand auf einen Eisenbarren. Er wird warm. Sie formt stundenlang, ohne müde zu werden."
+      },
+      "I3": {
+        "titel": "Varen: Die Forschung",
+        "pov": "Varen",
+        "status": "idee",
+        "woerter": null,
+        "text": "Varen in seinem Quartier. Karten, Diagramme, die toten Quellen. Er weiß dass Alphina ihn hasst. Es ist ihm nicht egal — aber es ist nicht das Wichtigste. Das Wichtigste ist die Verbindung. Die Quellen. Die Schuld die er nie so nennt."
+      },
+      "15": {
+        "titel": "Alphina: Das Angebot",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Die Älteste bietet alles: Schutz, Status, Wissen. Im Gegenzug: kämpft für uns. Alphina denkt: Sorel ist tot weil jemand ihre Resonanz wollte. Talvens Gesicht für einen Moment: nicht Ehrfurcht. Hunger."
+      },
+      "16": {
+        "titel": "Alphina + Runa: Nacht auf dem Dach",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Beide schlaflos, zwei Monde. FWB: hitzig, direkt, kein romantisches Versprechen. Runas Hände auf ihrer Haut, warm, immer warm. Kein Wald bricht aus. Keine Farne. Stille. „Bei Sorel hat die Welt geblüht. Bei Runa ist sie still.“"
+      },
+      "17": {
+        "titel": "Vesper: Der Binder-Spion",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Ein Gilden-Gelehrter stellt die falschen Fragen. Vesper folgt ihm nachts — der Gelehrte trifft einen Binder am Stadtrand, liefert Informationen über Alphinas Resonanz. Vesper beobachtet. Wartet. Drei Züge voraus."
+      },
+      "18": {
+        "titel": "Vesper: Nyr kommt",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Nyr kommt: Thar-Pilotin einer Magitech-Bestie, Geruch nach heißem Eisen. Bestie Kessler, 40 Tonnen. „Du bist der der Muster sieht.“ Vesper ist fasziniert — ihre Effizienz, ihre Ordnung, ihre Disziplin."
+      },
+      "19": {
+        "titel": "Alphina: Der Schlaf-Wald",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Vorführung in einem Gilden-Dorf. Alphina pflanzt einen Baum, kontrolliert. Nachts schläft sie — am Morgen das halbe Dorf überwuchert. Die Dorfbewohner evakuieren. Nicht vor den Bindern. Vor ihr."
+      },
+      "I4": {
+        "titel": "Varen: Der Beobachter",
+        "pov": "Varen",
+        "status": "idee",
+        "woerter": null,
+        "text": "Seine Schemen sind nicht feindlich — sie beobachten. Alphina bemerkt sie: Schatten am Rand ihres Hains, leuchtende Augen. Nicht aggressiv. Sie STUDIEREN. Alphinas Faszination wider Willen beginnt."
+      },
+      "20": {
+        "titel": "Alphina + Runa: Feuer und Farn",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Nach dem Dorf-Desaster. Runa: „Du hast Angst vor dir selbst.“ FWB: hitzig, direkt. Runas Hände glühen auf Alphinas Haut. Kein Wald bricht aus. Bei Runa ist die Welt still. Der Binder-Spion wird enttarnt."
+      },
+      "20b": {
+        "titel": "Vesper + Nyr: Zur Thar",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Vesper geht mit Nyr zu den Thar. Nicht Gefangennahme — Wahl. Ihre Effizienz, ihre Ordnung. Nyr presst ihn an die Metallwand — Luft wird dünn, Druck-Magie. Blaue Flecken von Luft, nicht von Fingern."
+      },
+      "21": {
+        "titel": "Alphina: Das Schlachtfeld",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Binder greifen eine Gilden-Siedlung an. Alphina kämpft — Ranken, Dornen, Wurzeln. Dann erscheint Varen als dritte Partei. Seine Schemen trennen Alphina systematisch von der Gruppe. Runa sieht es — kann nichts tun. Schreit."
+      },
+      "22": {
+        "titel": "Alphina: Varens Quartier",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Alphina ist Varens Gefangene. Sein Quartier: Bücher, Karten, Ley-Linien. Die 3 toten Quellen rot markiert. Er spricht 1423er Thalassisch. Nicht grausam — interessiert. „Du hast ihn sterben lassen.“ — „Ja.“ Keine Entschuldigung. Nie."
+      },
+      "23": {
+        "titel": "Alphina: Die Wahrheit",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Tage, Wochen. Er zeigt ihr die Karten. Sein Experiment, die Überladung, die Kettenreaktion. Drei Städte die verdorrten. „Niemand weiß es. Nur du. Jetzt.“ Die Daten stimmen. Varens Gesicht wenn er über die Quellen spricht — das ist keine Lüge."
+      },
+      "I5": {
+        "titel": "Varen: Die Schuld",
+        "pov": "Varen",
+        "status": "idee",
+        "woerter": null,
+        "text": "Varen allein. Er hat sie. Was er gewollt hat. Und es ist nicht genug. Die Quellen sind immer noch tot. Die Schuld die er nie so nennt — er sagt „Notwendigkeit“, er meint etwas anderes."
+      },
+      "24": {
+        "titel": "Alphina: Sie fängt an zu glauben",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Die Daten stimmen. Ihr Körper reagiert auf Varen — nicht weil er sie zwingt, weil er da ist, mächtig, besessen, und ihr die Wahrheit erzählt. Intimität durch Geständnis. Das Begehren fühlt sich falsch an. Sie begehrt den Mann der Sorel hat sterben lassen."
+      },
+      "25": {
+        "titel": "Alphina + Varen: Dornen",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Sie dreht sich nicht weg. Sex mit Varen: dunkel, anders. Andere Geschwindigkeit — langsamer, schwerer. Rücken, Nacken, Wirbelsäule statt Handgelenke. Nicht halten — führen. Dornen wachsen statt Farne."
+      },
+      "26": {
+        "titel": "Runa: Warten",
+        "pov": "Runa",
+        "status": "idee",
+        "woerter": null,
+        "text": "Runa in der Gilden-Stadt. Druckt. Baut ihre Moragh-Presse. Gießt Moragh-Schriftzeichen in ihre Lettern. Wartet auf Alphina. Weiß nicht wo sie ist — nur dass Varen sie genommen hat. Runas Hände glühen im Dunkeln."
+      },
+      "27": {
+        "titel": "Talven: Zum Forscher",
+        "pov": "Talven",
+        "status": "idee",
+        "woerter": null,
+        "text": "Talven verlässt die Stadt, findet Varen. „Die Thalassierin wächst einen Hain im Schlaf und es kostet sie nichts. Ich will wissen warum.“ Varen zeigt ihm Resonanz-Ernte. Erste Lektion bis zum Morgengrauen. Milchiger Fleck im Auge."
+      },
+      "I6": {
+        "titel": "Elke und der Krieg",
+        "pov": "Elke",
+        "status": "idee",
+        "woerter": null,
+        "text": "Die Gilden-Stadt wird angegriffen. Gebundene Wesen in Ketten aus Magie, eines schreit vor Schmerz. Drei Tote. Elke sagt: „So geht das. Seit Jahren.“"
+      },
+      "28": {
+        "titel": "Maren: Durchbruch",
+        "pov": "Maren",
+        "status": "idee",
+        "woerter": null,
+        "text": "Maren drückt am stillen Punkt — ein Riss, drei Sekunden. Der Geruch von Salz, Teer, nassem Backstein: Vael. Der Wasserweg öffnet sich. Maren trifft eine Entscheidung: sie geht zurück nach Thalassien."
+      },
+      "29": {
+        "titel": "Maren: ~1910",
+        "pov": "Maren",
+        "status": "idee",
+        "woerter": null,
+        "text": "Maren tritt durch den Wasserweg. Thalassien. Drei Moragh-Monate sind ~90 Jahre. Vael hat Fahrzeuge, Radio. Sorels Glasplatten in einer Privatsammlung. Halvards Bericht als Kuriosität. Alle tot seit Generationen. Das Boot: drei Viertel fertig, konserviert."
+      },
+      "30": {
+        "titel": "Maren: Die Gesellschaft",
+        "pov": "Maren",
+        "status": "idee",
+        "woerter": null,
+        "text": "Maren gründet die Schwellenforschungsgesellschaft. Allein. Die einzige Person die zwischen den Welten gehen kann. Sie bleibt. Fließt nicht weiter. Zum ersten Mal."
+      },
+      "31": {
+        "titel": "Alphina: Nicht mehr Gefangene",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Alphina bleibt bei Varen. Nicht als Gefangene — als jemand der sich entschieden hat zu bleiben. Arbeitet mit ihm an der Quellen-Forschung. Ihre Resonanz als Testfeld. Vergibt nicht. Aber hasst nicht mehr."
+      },
+      "I7": {
+        "titel": "Varen: Die Partnerin",
+        "pov": "Varen",
+        "status": "idee",
+        "woerter": null,
+        "text": "Er hat sie. Was er gewollt hat. Und es ist nicht genug. Es ist nie genug. Aber nachts wenn Dornen aus dem Boden wachsen — sein Blick der nicht fragt. Ihre Hand die nicht wegzieht. Das ist mehr als er erwartet hat."
+      },
+      "32": {
+        "titel": "Vesper: Bei den Thar",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Vesper bei der Thar mit Nyr. Effizienz, Ordnung, Kommandokette. Nyr pilotiert Kessler mit unvergleichlicher Präzision. Vesper gibt der Thar Daten über die Gilden. Kalkulation. „Ich habe gerechnet.“"
+      },
+      "33": {
+        "titel": "Runa: Die Presse",
+        "pov": "Runa",
+        "status": "idee",
+        "woerter": null,
+        "text": "Runa druckt. Moragh-Schriftzeichen, Thalassien-Lettern, gemischt. Baut ihre Hybrid-Presse. Wartet auf Alphina. Weiß nur: sie ist bei dem Mann der Sorel hat sterben lassen. Runas Hände glühen im Dunkeln."
+      },
+      "34": {
+        "titel": "Talven: Der Held",
+        "pov": "Talven",
+        "status": "idee",
+        "woerter": null,
+        "text": "Talven verteilt geerntete Resonanz. Ein alter Beschwörer ruft ein Lichtwesen und weint. „Resonanz für alle.“ Talven wird zum Helden. Milchige Augen hinter dunkler Brille. „Gegen die Sonne.“"
+      },
+      "35": {
+        "titel": "Alphina + Varen: Die Quellen",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Erste Tests. Alphinas Resonanz als externer Anstoß. Pflanzen auf totem Boden. Wurzeln die in die tote Quelle reichen. Erste Ergebnisse. Varen neben ihr — zum ersten Mal etwas im Gesicht das nicht Obsession ist."
+      },
+      "36": {
+        "titel": "Alle: Getrennt",
+        "pov": "Alle",
+        "status": "idee",
+        "woerter": null,
+        "text": "Alphina bei Varen. Maren in Thalassien, ~1910, allein. Vesper bei den Thar mit Nyr. Runa in der Gilden-Stadt, druckend, wartend. Talven: Held, milchige Augen, zerfallend. Alle getrennt. Das Auge sieht alles — und niemand sieht dasselbe."
+      }
     }
   },
   "buch3": {
-    "meta": { "titel": "Die Quelle", "untertitel": "Zwei Welten / Technologie vs. Magie / Wiedervereinigung" },
+    "meta": {
+      "titel": "Die Quelle",
+      "untertitel": "Zwei Welten / Technologie vs. Magie / Wiedervereinigung"
+    },
     "akte": [
-      { "name": "Akt I", "titel": "Technologie", "kapitel": ["41","42","43","44","I9","45","46","47","48","I10"] },
-      { "name": "Akt II", "titel": "Kulturkampf", "kapitel": ["49","50","51","52","53","I11","54","55","56","I12"] },
-      { "name": "Akt III", "titel": "Quellen und Verlust", "kapitel": ["57","58","59","60","I13","61","62","63"] },
-      { "name": "Akt IV", "titel": "Die Wahl", "kapitel": ["64","65","66","I14","67","68","69","EP"] }
+      {
+        "name": "Akt I",
+        "titel": "Technologie",
+        "kapitel": [
+          "41",
+          "42",
+          "43",
+          "44",
+          "I9",
+          "45",
+          "46",
+          "47",
+          "48",
+          "I10"
+        ]
+      },
+      {
+        "name": "Akt II",
+        "titel": "Kulturkampf",
+        "kapitel": [
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "I11",
+          "54",
+          "55",
+          "56",
+          "I12"
+        ]
+      },
+      {
+        "name": "Akt III",
+        "titel": "Quellen und Verlust",
+        "kapitel": [
+          "57",
+          "58",
+          "59",
+          "60",
+          "I13",
+          "61",
+          "62",
+          "63"
+        ]
+      },
+      {
+        "name": "Akt IV",
+        "titel": "Die Wahl",
+        "kapitel": [
+          "64",
+          "65",
+          "66",
+          "I14",
+          "67",
+          "68",
+          "69",
+          "EP"
+        ]
+      }
     ],
     "kapitel": {
-      "41": { "titel": "Maren: Der Wasserweg pendelt", "pov": "Maren", "status": "idee", "woerter": null, "text": "Maren pendelt durch den Wasserweg. Jedes Mal wenn sie zur\u00fcckkehrt, ist Thalassien weiter. Radio, Automobile. Computer. Internet. Die Schwellenforschungsgesellschaft w\u00e4chst \u00fcber Generationen \u2014 wird zum staatlich finanzierten Institut." },
-      "42": { "titel": "Alphina: Die erste Quelle", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Alphina arbeitet mit Varen an der Quellen-Reparatur. Pflanzen-Wurzeln die in die tote Quelle reichen. Die erste Quelle erwacht. Ein Pochen. Das erste seit Jahren. Varen steht daneben \u2014 zum ersten Mal etwas das nicht Obsession ist." },
-      "43": { "titel": "Maren: Thalassien-Technik kommt", "pov": "Maren", "status": "idee", "woerter": null, "text": "Maren kehrt nach Moragh zur\u00fcck \u2014 mit einem Forscherteam. Drohnen. KI-Systeme. Scanner die Magie quantifizieren. Die Gilden-\u00c4lteste starrt die Drohne an wie Alphina den ersten Schem angestarrt hat. Dieselbe Angst, gespiegelt." },
-      "44": { "titel": "Vesper: Die Spiegelung", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Vesper bei den Thar. Thalassien-Technik bedroht Moraghs Kultur. Drohnen kartieren Reservoir-Quellen. KI analysiert Magie-Muster. Konzern-Vertreter reden von \u201eEffizienzoptimierung.\u201c Klingt wie industrielle Logik, angewandt auf eine fremde Kultur." },
-      "I9": { "titel": "Elke: Der Garten wird stiller", "pov": "Elke", "status": "idee", "woerter": null, "text": "Elke, alt jetzt, die H\u00e4nde langsamer. Der Garten tr\u00e4gt, aber der Stein antwortet langsamer. Nicht weil die Welt stirbt \u2014 weil Elke alt wird. Ihre Resonanz ist leiser." },
-      "45": { "titel": "Talven: Der Held", "pov": "Talven", "status": "idee", "woerter": null, "text": "Marktplatz, Hunderte Menschen. Talven verteilt Resonanz. Ein Tischler formt Holz mit blo\u00dfen H\u00e4nden, eine Mutter heilt die Verbrennung ihres Kindes. Unter der Brille: beide Augen milchig. \u201eResonanz f\u00fcr alle.\u201c" },
-      "46": { "titel": "Iven: Das Interface", "pov": "Iven", "status": "idee", "woerter": null, "text": "Iven, Moragh-geboren, siebzehn, Elektrizit\u00e4ts-Resonanz. Er ber\u00fchrt den Thalassien-Generator \u2014 die Leistung verdoppelt sich. Hand weg: normal. Hand drauf: verdoppelt. Interface zwischen Magie und Technik." },
-      "47": { "titel": "Alphina: Zwei Welten treffen sich", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Maren kommt zur\u00fcck mit Wissenschaftlern und Drohnen. Die Sensoren messen Alphinas Resonanz \u2014 quantifiziert, reduziert auf Daten. Alphina sieht die Drohnen und denkt an die Schemen in Vael. Dieselbe Angst. Nur die Richtung hat sich gedreht." },
-      "48": { "titel": "Vesper: Die Rechnung", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Vesper rechnet: wenn Thalassien Zugang zu den Quellen bekommt, ist Moragh in einer Generation wirtschaftlich abh\u00e4ngig. Nyr neben ihm \u2014 sie sieht Bestien die extern gespeist werden k\u00f6nnen, aber auch ihre Rolle die verschwindet." },
-      "I10": { "titel": "Varen: Die zweite Quelle", "pov": "Varen", "status": "idee", "woerter": null, "text": "Varen webt. Die zweite Quelle. F\u00e4den statt Ketten \u2014 diesmal richtig verbunden. Es kostet ihn: Ersch\u00f6pfung, Schwei\u00df, Tage der Erholung. Es kostet Alphina nichts. Das ist immer noch unfair." },
-      "49": { "titel": "Talven: Der Zerfall", "pov": "Talven", "status": "idee", "woerter": null, "text": "Die geerntete Resonanz ist eine Absto\u00dfungsreaktion. Der Tischler kann nicht mehr formen. Die Mutter hat Nasenbluten. Doppelter Preis. Talven sieht es. Sagt sich: mehr ernten, besser verteilen. Beide Augen milchig." },
-      "50": { "titel": "Alphina: Der sterbende Hain", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Der Schlaf-Hain: kahle B\u00e4ume, grau, trocken. Der Boden darunter: Staub. Jemand hat alles genommen. Die Pflanzen drehen sich nach S\u00fcden \u2014 dorthin wo jemand nachts kniet und nimmt." },
-      "51": { "titel": "Vesper: Der Name", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Die Entnahme korreliert mit der Verteilung. Eine Einzelperson. Ein Lehrling der Magie verschenkt. \u201eTalven.\u201c Die Verteilung kostet Moragh doppelt \u2014 Entnahme plus Zerfall." },
-      "52": { "titel": "Alphina: Die Konfrontation", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Alphina findet Talven nachts im toten Hain, kniend, erntend. Milchige Augen, d\u00fcnnes Haar, zitternde H\u00e4nde. \u201eDu w\u00e4chst einen Hain im Schlaf. Es kostet dich nichts. Ich bezahle mit Augen.\u201c Er hat Recht. Und es ist falsch. Beides gleichzeitig." },
-      "53": { "titel": "Runa: Die Wahrheit drucken", "pov": "Runa", "status": "idee", "woerter": null, "text": "Runa druckt Vespers Daten auf Moragh-Papier, in drei Sprachen. \u201eWer zahlt f\u00fcr kostenlose Magie?\u201c Talvens Geschichte, die Kosten der Resonanz-Ernte. Talven sieht die Druckb\u00f6gen. \u201eDu druckst L\u00fcgen.\u201c Runa: \u201eIch drucke Zahlen.\u201c" },
-      "I11": { "titel": "Varen: Der Sch\u00fcler", "pov": "Varen", "status": "idee", "woerter": null, "text": "Varen hat Talven unterrichtet. \u201eIch habe ihm gezeigt wie man erntet. Nicht wie man verteilt.\u201c Talven ist sein Experiment. \u201eIch habe wieder den Falschen gew\u00e4hlt. Der Richtige macht die falschen Dinge.\u201c" },
-      "54": { "titel": "Vesper + Nyr: Bestien-Wahrheit", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Nyr findet den Bauplan: die Thar wollen Resonanz-Begabte permanent in K\u00e4figen an Maschinen anschlie\u00dfen. \u201eDas sind Menschen. An Maschinen. Permanent.\u201c Sie nimmt ihre Bestie und geht. Vesper geht mit ihr." },
-      "55": { "titel": "Maren: Zwischen den Welten", "pov": "Maren", "status": "idee", "woerter": null, "text": "Maren pendelt. Messger\u00e4te hin, Moragh-Proben zur\u00fcck. Konzern-Vertreter wittern Ressourcen. Reservoir-Quellen als Energiequellen. Drohnen \u00fcber der Gilden-Stadt. Scanner an den Reservoiren." },
-      "56": { "titel": "Vesper + Nyr: R\u00fcckkehr", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Vesper und Nyr verlassen die Thar. Maren schl\u00e4gt Vesper ins Gesicht, das Wasser explodiert. \u201eDu hast uns verkauft.\u201c Vesper: \u201eIch habe gerechnet.\u201c Runa: \u201eSetzt euch. Es gibt Tee.\u201c" },
-      "I12": { "titel": "Elke: Die letzten Steine", "pov": "Elke", "status": "idee", "woerter": null, "text": "Elke formt noch, aber langsamer. Der Stein antwortet leiser. Nicht weil die Welt stirbt. Weil Elke stirbt. \u201eIch habe den Stein geformt und die Welt hat weitergemacht. So soll es sein.\u201c" },
-      "57": { "titel": "Elke: Der Stein schweigt", "pov": "Elke", "status": "idee", "woerter": null, "text": "Elke im Garten. Legt die Hand auf den Basalt. Der Stein antwortet \u2014 leise, langsam. Sie ist alt. Nicht leer \u2014 fertig. Sie stirbt am Abend, leise, auf dem Stein. Runa h\u00e4lt ihre linke Hand, Alphina ihre rechte. Der Stein: warm. Er verabschiedet sich." },
-      "58": { "titel": "Talven: Am Grab", "pov": "Talven", "status": "idee", "woerter": null, "text": "Talven an Elkes Grab. H\u00f6rt auf zu ernten. Gibt Resonanz zur\u00fcck. Fast blind, permanent zitternde H\u00e4nde. Am n\u00e4chsten Morgen: ein Grashalm im toten Hain. Einer. Talven sieht ihn nicht. Alphina schon." },
-      "59": { "titel": "Varen: Die dritte Quelle", "pov": "Varen", "status": "idee", "woerter": null, "text": "Varen webt die dritte und letzte Quelle. F\u00e4den statt Ketten. Drei Quellen, alle erwacht. Die St\u00e4dte haben wieder ein Fundament. Der Krieg verliert seinen Grund. Varen: ersch\u00f6pft, verschwitzt. Aber die Quellen pochen. Wiedergutmachung." },
-      "60": { "titel": "Alphina: Die Gilden wollen schlie\u00dfen", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Die Gilden wollen das Tor schlie\u00dfen. Thalassien-Technik bedroht ihre Machtstruktur. Drohnen sind Waffen die kein Reservoir brauchen. Die \u00c4lteste: \u201eWir haben vierhundert Jahre ohne sie \u00fcberlebt.\u201c Alphina denkt an Vael \u2014 dieselbe Frage, umgekehrt." },
-      "I13": { "titel": "Elkes Briefe", "pov": "Elke", "status": "idee", "woerter": null, "text": "Runa findet die Briefe. An Johann, Lene, Kaspar \u2014 vierhundert Jahre tot. \u201eIhr hattet Recht, nicht durchzugehen. Ich hatte Recht, zu gehen. Beides ist wahr.\u201c Runa druckt den Brief. H\u00e4ngt ihn \u00fcber die Presse." },
-      "61": { "titel": "Vesper: Die Tor-Frage", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Die Gilden wollen es schlie\u00dfen. Der Thalassien-Antagonist will es weit offen. Maren steht dazwischen. Vesper rechnet: keine einfache Antwort. Menschen entscheiden. Diplomatie, Politik, Verhandlung. Nicht ein Ritual, nicht ein Opfer." },
-      "62": { "titel": "Runa: Die Hybrid-Presse", "pov": "Runa", "status": "idee", "woerter": null, "text": "Runa baut: Moragh-Magie und Thalassien-Technik, verschmolzen in einer Druckerpresse. Metall geformt durch ihre H\u00e4nde, Mechanik aus Thalassien-Pl\u00e4nen. Die Presse druckt in beiden Welten. Information als Br\u00fccke." },
-      "63": { "titel": "Talven: Der B\u00fc\u00dfer", "pov": "Talven", "status": "idee", "woerter": null, "text": "Talven an der Seite der Gruppe. Blind, zitternd, aber er kennt die Resonanz von innen. F\u00fchlt den Fluss \u2014 Alphinas Signatur warm und gr\u00fcn, Marens kalt und salzig, Runas hei\u00df und metallisch. \u201eIch habe einem Wald das Leben gestohlen und es f\u00fcr gerecht gehalten.\u201c" },
-      "64": { "titel": "Alle: Die Verhandlung", "pov": "Alle", "status": "idee", "woerter": null, "text": "Alle zusammen in Elkes Garten. Thalassier, Moragh-Geborene, Ingenieure, \u00c4lteste, eine Pilotin, ein blinder Lehrling. Varen neben Alphina. Die Tor-Frage: offen, geschlossen, reguliert. Die Verhandlung beginnt \u2014 nicht mit Magie, mit Worten." },
-      "65": { "titel": "Maren: Die Br\u00fccke", "pov": "Maren", "status": "idee", "woerter": null, "text": "Maren steht zwischen den Welten. Ihre Entscheidung: den Kanal offen halten \u2014 reguliert, begrenzt, verhandelt. Nicht weit offen f\u00fcr Konzerne. Nicht geschlossen f\u00fcr immer. Ein Spalt. Eine Naht." },
-      "66": { "titel": "Vesper: Die Zukunft", "pov": "Vesper", "status": "idee", "woerter": null, "text": "Vesper sieht Zeitlinien \u2014 aber weniger klar als fr\u00fcher. Die Quellen sind repariert, die Muster \u00e4ndern sich. Zum ersten Mal eine Zukunft ohne eindeutige Berechnung. Be\u00e4ngstigend und eine Erleichterung. Nyr neben ihm. Er bleibt bei ihr." },
-      "I14": { "titel": "Nyr: Die Bestie steht still", "pov": "Nyr", "status": "idee", "woerter": null, "text": "Die Bestie summt in der Ecke, extern gespeist. Kein Pilot n\u00f6tig. Nyr ber\u00fchrt das kalte Metall \u2014 kein Nasenbluten. Die Resonanz-K\u00e4fige leer. Die Piloten waren nie n\u00f6tig gewesen. \u201eIch bereue dass ich geglaubt habe, sie w\u00e4ren der einzige Weg.\u201c" },
-      "67": { "titel": "Alphina: Die Wahl", "pov": "Alphina", "status": "idee", "woerter": null, "text": "Alphina w\u00e4hlt. Varen. Moragh. Nicht weil Runa schlecht ist \u2014 weil Alphina sich in der Dunkelheit erkannt hat. Bei Sorel hat die Welt gebl\u00fcht. Bei Runa war sie still. Bei Varen wachsen Dornen \u2014 und das ist ehrlicher als Bl\u00fcten und Stille." },
-      "68": { "titel": "Varen: Der Weber", "pov": "Varen", "status": "idee", "woerter": null, "text": "Die drei Quellen pochen. Die St\u00e4dte erholen sich. Der Krieg hat keinen Grund mehr. Varen steht in Elkes Garten, neben Alphina. Kein Triumph. Kein Sieg. Die Schuld bleibt. Die Quellen bleiben. F\u00e4den statt Ketten." },
-      "69": { "titel": "Alle: Danach", "pov": "Alle", "status": "idee", "woerter": null, "text": "Maren in Thalassien, alt, am Hafen. Vesper bei den Thar mit Nyr. Runa an ihrer Hybrid-Presse, Alphinas Worte in einer Kiste. Talven unterrichtet blind: \u201eMagie kostet. Immer.\u201c Er lebt in Elkes Garten. Der Stein spricht \u2014 leise, aber da." },
-      "EP": { "titel": "Epilog", "pov": "Alle", "status": "idee", "woerter": null, "text": "Vael, botanischer Garten. Ein Kind ber\u00fchrt einen Farn. Der Farn dreht sich. Schwindelgef\u00fchl \u2014 kurz. Magie kostet jetzt. F\u00fcr alle. \u2014 Moragh. Elkes Garten, jetzt Varens und Alphinas. Seine Hand auf ihrem R\u00fccken. Sein altes Thalassisch in ihrem Ohr. Ein Dorn an ihrer Hand. Sein Blick der nicht fragt." }
+      "41": {
+        "titel": "Maren: Der Wasserweg pendelt",
+        "pov": "Maren",
+        "status": "idee",
+        "woerter": null,
+        "text": "Maren pendelt durch den Wasserweg. Jedes Mal wenn sie zurückkehrt, ist Thalassien weiter. Radio, Automobile. Computer. Internet. Die Schwellenforschungsgesellschaft wächst über Generationen — wird zum staatlich finanzierten Institut."
+      },
+      "42": {
+        "titel": "Alphina: Die erste Quelle",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Alphina arbeitet mit Varen an der Quellen-Reparatur. Pflanzen-Wurzeln die in die tote Quelle reichen. Die erste Quelle erwacht. Ein Pochen. Das erste seit Jahren. Varen steht daneben — zum ersten Mal etwas das nicht Obsession ist."
+      },
+      "43": {
+        "titel": "Maren: Thalassien-Technik kommt",
+        "pov": "Maren",
+        "status": "idee",
+        "woerter": null,
+        "text": "Maren kehrt nach Moragh zurück — mit einem Forscherteam. Drohnen. KI-Systeme. Scanner die Magie quantifizieren. Die Gilden-Älteste starrt die Drohne an wie Alphina den ersten Schem angestarrt hat. Dieselbe Angst, gespiegelt."
+      },
+      "44": {
+        "titel": "Vesper: Die Spiegelung",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Vesper bei den Thar. Thalassien-Technik bedroht Moraghs Kultur. Drohnen kartieren Reservoir-Quellen. KI analysiert Magie-Muster. Konzern-Vertreter reden von „Effizienzoptimierung.“ Klingt wie industrielle Logik, angewandt auf eine fremde Kultur."
+      },
+      "I9": {
+        "titel": "Elke: Der Garten wird stiller",
+        "pov": "Elke",
+        "status": "idee",
+        "woerter": null,
+        "text": "Elke, alt jetzt, die Hände langsamer. Der Garten trägt, aber der Stein antwortet langsamer. Nicht weil die Welt stirbt — weil Elke alt wird. Ihre Resonanz ist leiser."
+      },
+      "45": {
+        "titel": "Talven: Der Held",
+        "pov": "Talven",
+        "status": "idee",
+        "woerter": null,
+        "text": "Marktplatz, Hunderte Menschen. Talven verteilt Resonanz. Ein Tischler formt Holz mit bloßen Händen, eine Mutter heilt die Verbrennung ihres Kindes. Unter der Brille: beide Augen milchig. „Resonanz für alle.“"
+      },
+      "46": {
+        "titel": "Iven: Das Interface",
+        "pov": "Iven",
+        "status": "idee",
+        "woerter": null,
+        "text": "Iven, Moragh-geboren, siebzehn, Elektrizitäts-Resonanz. Er berührt den Thalassien-Generator — die Leistung verdoppelt sich. Hand weg: normal. Hand drauf: verdoppelt. Interface zwischen Magie und Technik."
+      },
+      "47": {
+        "titel": "Alphina: Zwei Welten treffen sich",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Maren kommt zurück mit Wissenschaftlern und Drohnen. Die Sensoren messen Alphinas Resonanz — quantifiziert, reduziert auf Daten. Alphina sieht die Drohnen und denkt an die Schemen in Vael. Dieselbe Angst. Nur die Richtung hat sich gedreht."
+      },
+      "48": {
+        "titel": "Vesper: Die Rechnung",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Vesper rechnet: wenn Thalassien Zugang zu den Quellen bekommt, ist Moragh in einer Generation wirtschaftlich abhängig. Nyr neben ihm — sie sieht Bestien die extern gespeist werden können, aber auch ihre Rolle die verschwindet."
+      },
+      "I10": {
+        "titel": "Varen: Die zweite Quelle",
+        "pov": "Varen",
+        "status": "idee",
+        "woerter": null,
+        "text": "Varen webt. Die zweite Quelle. Fäden statt Ketten — diesmal richtig verbunden. Es kostet ihn: Erschöpfung, Schweiß, Tage der Erholung. Es kostet Alphina nichts. Das ist immer noch unfair."
+      },
+      "49": {
+        "titel": "Talven: Der Zerfall",
+        "pov": "Talven",
+        "status": "idee",
+        "woerter": null,
+        "text": "Die geerntete Resonanz ist eine Abstoßungsreaktion. Der Tischler kann nicht mehr formen. Die Mutter hat Nasenbluten. Doppelter Preis. Talven sieht es. Sagt sich: mehr ernten, besser verteilen. Beide Augen milchig."
+      },
+      "50": {
+        "titel": "Alphina: Der sterbende Hain",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Der Schlaf-Hain: kahle Bäume, grau, trocken. Der Boden darunter: Staub. Jemand hat alles genommen. Die Pflanzen drehen sich nach Süden — dorthin wo jemand nachts kniet und nimmt."
+      },
+      "51": {
+        "titel": "Vesper: Der Name",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Die Entnahme korreliert mit der Verteilung. Eine Einzelperson. Ein Lehrling der Magie verschenkt. „Talven.“ Die Verteilung kostet Moragh doppelt — Entnahme plus Zerfall."
+      },
+      "52": {
+        "titel": "Alphina: Die Konfrontation",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Alphina findet Talven nachts im toten Hain, kniend, erntend. Milchige Augen, dünnes Haar, zitternde Hände. „Du wächst einen Hain im Schlaf. Es kostet dich nichts. Ich bezahle mit Augen.“ Er hat Recht. Und es ist falsch. Beides gleichzeitig."
+      },
+      "53": {
+        "titel": "Runa: Die Wahrheit drucken",
+        "pov": "Runa",
+        "status": "idee",
+        "woerter": null,
+        "text": "Runa druckt Vespers Daten auf Moragh-Papier, in drei Sprachen. „Wer zahlt für kostenlose Magie?“ Talvens Geschichte, die Kosten der Resonanz-Ernte. Talven sieht die Druckbögen. „Du druckst Lügen.“ Runa: „Ich drucke Zahlen.“"
+      },
+      "I11": {
+        "titel": "Varen: Der Schüler",
+        "pov": "Varen",
+        "status": "idee",
+        "woerter": null,
+        "text": "Varen hat Talven unterrichtet. „Ich habe ihm gezeigt wie man erntet. Nicht wie man verteilt.“ Talven ist sein Experiment. „Ich habe wieder den Falschen gewählt. Der Richtige macht die falschen Dinge.“"
+      },
+      "54": {
+        "titel": "Vesper + Nyr: Bestien-Wahrheit",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Nyr findet den Bauplan: die Thar wollen Resonanz-Begabte permanent in Käfigen an Maschinen anschließen. „Das sind Menschen. An Maschinen. Permanent.“ Sie nimmt ihre Bestie und geht. Vesper geht mit ihr."
+      },
+      "55": {
+        "titel": "Maren: Zwischen den Welten",
+        "pov": "Maren",
+        "status": "idee",
+        "woerter": null,
+        "text": "Maren pendelt. Messgeräte hin, Moragh-Proben zurück. Konzern-Vertreter wittern Ressourcen. Reservoir-Quellen als Energiequellen. Drohnen über der Gilden-Stadt. Scanner an den Reservoiren."
+      },
+      "56": {
+        "titel": "Vesper + Nyr: Rückkehr",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Vesper und Nyr verlassen die Thar. Maren schlägt Vesper ins Gesicht, das Wasser explodiert. „Du hast uns verkauft.“ Vesper: „Ich habe gerechnet.“ Runa: „Setzt euch. Es gibt Tee.“"
+      },
+      "I12": {
+        "titel": "Elke: Die letzten Steine",
+        "pov": "Elke",
+        "status": "idee",
+        "woerter": null,
+        "text": "Elke formt noch, aber langsamer. Der Stein antwortet leiser. Nicht weil die Welt stirbt. Weil Elke stirbt. „Ich habe den Stein geformt und die Welt hat weitergemacht. So soll es sein.“"
+      },
+      "57": {
+        "titel": "Elke: Der Stein schweigt",
+        "pov": "Elke",
+        "status": "idee",
+        "woerter": null,
+        "text": "Elke im Garten. Legt die Hand auf den Basalt. Der Stein antwortet — leise, langsam. Sie ist alt. Nicht leer — fertig. Sie stirbt am Abend, leise, auf dem Stein. Runa hält ihre linke Hand, Alphina ihre rechte. Der Stein: warm. Er verabschiedet sich."
+      },
+      "58": {
+        "titel": "Talven: Am Grab",
+        "pov": "Talven",
+        "status": "idee",
+        "woerter": null,
+        "text": "Talven an Elkes Grab. Hört auf zu ernten. Gibt Resonanz zurück. Fast blind, permanent zitternde Hände. Am nächsten Morgen: ein Grashalm im toten Hain. Einer. Talven sieht ihn nicht. Alphina schon."
+      },
+      "59": {
+        "titel": "Varen: Die dritte Quelle",
+        "pov": "Varen",
+        "status": "idee",
+        "woerter": null,
+        "text": "Varen webt die dritte und letzte Quelle. Fäden statt Ketten. Drei Quellen, alle erwacht. Die Städte haben wieder ein Fundament. Der Krieg verliert seinen Grund. Varen: erschöpft, verschwitzt. Aber die Quellen pochen. Wiedergutmachung."
+      },
+      "60": {
+        "titel": "Alphina: Die Gilden wollen schließen",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Die Gilden wollen das Tor schließen. Thalassien-Technik bedroht ihre Machtstruktur. Drohnen sind Waffen die kein Reservoir brauchen. Die Älteste: „Wir haben vierhundert Jahre ohne sie überlebt.“ Alphina denkt an Vael — dieselbe Frage, umgekehrt."
+      },
+      "I13": {
+        "titel": "Elkes Briefe",
+        "pov": "Elke",
+        "status": "idee",
+        "woerter": null,
+        "text": "Runa findet die Briefe. An Johann, Lene, Kaspar — vierhundert Jahre tot. „Ihr hattet Recht, nicht durchzugehen. Ich hatte Recht, zu gehen. Beides ist wahr.“ Runa druckt den Brief. Hängt ihn über die Presse."
+      },
+      "61": {
+        "titel": "Vesper: Die Tor-Frage",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Die Gilden wollen es schließen. Der Thalassien-Antagonist will es weit offen. Maren steht dazwischen. Vesper rechnet: keine einfache Antwort. Menschen entscheiden. Diplomatie, Politik, Verhandlung. Nicht ein Ritual, nicht ein Opfer."
+      },
+      "62": {
+        "titel": "Runa: Die Hybrid-Presse",
+        "pov": "Runa",
+        "status": "idee",
+        "woerter": null,
+        "text": "Runa baut: Moragh-Magie und Thalassien-Technik, verschmolzen in einer Druckerpresse. Metall geformt durch ihre Hände, Mechanik aus Thalassien-Plänen. Die Presse druckt in beiden Welten. Information als Brücke."
+      },
+      "63": {
+        "titel": "Talven: Der Büßer",
+        "pov": "Talven",
+        "status": "idee",
+        "woerter": null,
+        "text": "Talven an der Seite der Gruppe. Blind, zitternd, aber er kennt die Resonanz von innen. Fühlt den Fluss — Alphinas Signatur warm und grün, Marens kalt und salzig, Runas heiß und metallisch. „Ich habe einem Wald das Leben gestohlen und es für gerecht gehalten.“"
+      },
+      "64": {
+        "titel": "Alle: Die Verhandlung",
+        "pov": "Alle",
+        "status": "idee",
+        "woerter": null,
+        "text": "Alle zusammen in Elkes Garten. Thalassier, Moragh-Geborene, Ingenieure, Älteste, eine Pilotin, ein blinder Lehrling. Varen neben Alphina. Die Tor-Frage: offen, geschlossen, reguliert. Die Verhandlung beginnt — nicht mit Magie, mit Worten."
+      },
+      "65": {
+        "titel": "Maren: Die Brücke",
+        "pov": "Maren",
+        "status": "idee",
+        "woerter": null,
+        "text": "Maren steht zwischen den Welten. Ihre Entscheidung: den Kanal offen halten — reguliert, begrenzt, verhandelt. Nicht weit offen für Konzerne. Nicht geschlossen für immer. Ein Spalt. Eine Naht."
+      },
+      "66": {
+        "titel": "Vesper: Die Zukunft",
+        "pov": "Vesper",
+        "status": "idee",
+        "woerter": null,
+        "text": "Vesper sieht Zeitlinien — aber weniger klar als früher. Die Quellen sind repariert, die Muster ändern sich. Zum ersten Mal eine Zukunft ohne eindeutige Berechnung. Beängstigend und eine Erleichterung. Nyr neben ihm. Er bleibt bei ihr."
+      },
+      "I14": {
+        "titel": "Nyr: Die Bestie steht still",
+        "pov": "Nyr",
+        "status": "idee",
+        "woerter": null,
+        "text": "Die Bestie summt in der Ecke, extern gespeist. Kein Pilot nötig. Nyr berührt das kalte Metall — kein Nasenbluten. Die Resonanz-Käfige leer. Die Piloten waren nie nötig gewesen. „Ich bereue dass ich geglaubt habe, sie wären der einzige Weg.“"
+      },
+      "67": {
+        "titel": "Alphina: Die Wahl",
+        "pov": "Alphina",
+        "status": "idee",
+        "woerter": null,
+        "text": "Alphina wählt. Varen. Moragh. Nicht weil Runa schlecht ist — weil Alphina sich in der Dunkelheit erkannt hat. Bei Sorel hat die Welt geblüht. Bei Runa war sie still. Bei Varen wachsen Dornen — und das ist ehrlicher als Blüten und Stille."
+      },
+      "68": {
+        "titel": "Varen: Der Weber",
+        "pov": "Varen",
+        "status": "idee",
+        "woerter": null,
+        "text": "Die drei Quellen pochen. Die Städte erholen sich. Der Krieg hat keinen Grund mehr. Varen steht in Elkes Garten, neben Alphina. Kein Triumph. Kein Sieg. Die Schuld bleibt. Die Quellen bleiben. Fäden statt Ketten."
+      },
+      "69": {
+        "titel": "Alle: Danach",
+        "pov": "Alle",
+        "status": "idee",
+        "woerter": null,
+        "text": "Maren in Thalassien, alt, am Hafen. Vesper bei den Thar mit Nyr. Runa an ihrer Hybrid-Presse, Alphinas Worte in einer Kiste. Talven unterrichtet blind: „Magie kostet. Immer.“ Er lebt in Elkes Garten. Der Stein spricht — leise, aber da."
+      },
+      "EP": {
+        "titel": "Epilog",
+        "pov": "Alle",
+        "status": "idee",
+        "woerter": null,
+        "text": "Vael, botanischer Garten. Ein Kind berührt einen Farn. Der Farn dreht sich. Schwindelgefühl — kurz. Magie kostet jetzt. Für alle. — Moragh. Elkes Garten, jetzt Varens und Alphinas. Seine Hand auf ihrem Rücken. Sein altes Thalassisch in ihrem Ohr. Ein Dorn an ihrer Hand. Sein Blick der nicht fragt."
+      }
     }
   }
 }

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="noindex, nofollow">
-  <title>Der Riss — Kapitel 2</title>
+  <title>Der Riss</title>
   <link rel="stylesheet" href="../../styles.css">
   <style>
     :root {
@@ -49,9 +49,7 @@
     .book::before {
       content: '';
       position: absolute;
-      left: 0;
-      top: 0;
-      bottom: 0;
+      left: 0; top: 0; bottom: 0;
       width: 3px;
       background: linear-gradient(180deg, var(--paper-edge) 0%, #c8bfb0 50%, var(--paper-edge) 100%);
       z-index: 10;
@@ -60,16 +58,9 @@
     .book::after {
       content: '';
       position: absolute;
-      right: 0;
-      top: 4px;
-      bottom: 4px;
+      right: 0; top: 4px; bottom: 4px;
       width: 8px;
-      background: repeating-linear-gradient(
-        180deg,
-        var(--paper) 0px,
-        var(--paper-edge) 1px,
-        var(--paper) 2px
-      );
+      background: repeating-linear-gradient(180deg, var(--paper) 0px, var(--paper-edge) 1px, var(--paper) 2px);
       border-radius: 0 2px 2px 0;
       z-index: 5;
     }
@@ -132,9 +123,7 @@
       opacity: 0.5;
     }
 
-    .prose p.opening {
-      text-indent: 0;
-    }
+    .prose p.opening { text-indent: 0; }
 
     .prose p.opening::first-letter {
       font-size: 3.5rem;
@@ -180,8 +169,16 @@
     .page-nav a:hover { color: var(--ink); }
 
     .page-nav .disabled {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.85rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--smoke);
       opacity: 0.2;
-      pointer-events: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.8rem 1.2rem;
     }
 
     .page-nav .page-info {
@@ -239,18 +236,14 @@
 
   <div class="book enter" id="book">
     <div class="chapter-header">
-      <div class="chapter-number">Kapitel Zwei</div>
-      <h1 class="chapter-title">Sorel</h1>
+      <div class="chapter-number" id="ch-number"></div>
+      <h1 class="chapter-title" id="ch-title"></h1>
       <div class="chapter-ornament">— · —</div>
     </div>
 
     <div class="prose" id="chapter"></div>
 
-    <div class="page-nav">
-      <a href="/lesen/1/" onclick="turnPage(event, 'back', '/lesen/1/')"><span class="arrow">&larr;</span> Zurück</a>
-      <span class="page-info">2 / 4</span>
-      <a href="/lesen/3/" onclick="turnPage(event, 'forward', '/lesen/3/')">Weiter <span class="arrow">&rarr;</span></a>
-    </div>
+    <div class="page-nav" id="nav"></div>
 
     <div class="book-footer">
       Unveröffentlichtes Manuskript · Alle Rechte vorbehalten
@@ -258,6 +251,158 @@
   </div>
 
   <script>
+    const ZAHLWORT = {
+      '01':'Eins','02':'Zwei','03':'Drei','04':'Vier','05':'Fünf',
+      '06':'Sechs','07':'Sieben','08':'Acht','09':'Neun','10':'Zehn',
+      '11':'Elf','12':'Zwölf','13':'Dreizehn','14':'Vierzehn','15':'Fünfzehn',
+      '16':'Sechzehn','17':'Siebzehn','18':'Achtzehn','19':'Neunzehn','20':'Zwanzig',
+      '21':'Einundzwanzig','22':'Zweiundzwanzig','23':'Dreiundzwanzig','24':'Vierundzwanzig',
+      '25':'Fünfundzwanzig','26':'Sechsundzwanzig','27':'Siebenundzwanzig','28':'Achtundzwanzig',
+      '29':'Neunundzwanzig','30':'Dreißig','31':'Einunddreißig','32':'Zweiunddreißig',
+      '33':'Dreiunddreißig','34':'Vierunddreißig','35':'Fünfunddreißig','36':'Sechsunddreißig',
+      '37':'Siebenunddreißig','38':'Achtunddreißig','39':'Neununddreißig','40':'Vierzig'
+    };
+
+    // Extract chapter ID from URL: /lesen/6/ -> "06", /lesen/I1/ -> "I1"
+    const path = window.location.pathname.replace(/\/+$/, '');
+    const slug = path.split('/').pop(); // "6", "I1", etc.
+    const isInterludium = slug.startsWith('I');
+    // Normalize: "6" -> "06", "I1" -> "I1"
+    const kapId = isInterludium ? slug : slug.padStart(2, '0');
+
+    // WIP mode: linked from /story-in-work/ with ?wip=1
+    const isWip = new URLSearchParams(window.location.search).has('wip');
+
+    fetch('/buch/status.json')
+      .then(r => r.json())
+      .then(data => {
+        // Find the chapter across all books
+        let ch = null;
+        let buchData = null;
+        let allKapitelOrder = []; // flat ordered list of chapter IDs
+
+        for (const buchKey of ['buch1', 'buch2', 'buch3']) {
+          const buch = data[buchKey];
+          if (!buch) continue;
+          if (buch.kapitel[kapId]) {
+            ch = buch.kapitel[kapId];
+            buchData = buch;
+            // Build flat chapter order from akte
+            for (const akt of buch.akte) {
+              for (const k of akt.kapitel) {
+                allKapitelOrder.push(k);
+              }
+            }
+            break;
+          }
+        }
+
+        if (!ch || !ch.datei) {
+          document.getElementById('ch-title').textContent = 'Kapitel nicht gefunden';
+          return;
+        }
+
+        // Set header
+        if (isInterludium) {
+          document.getElementById('ch-number').textContent = 'Interludium';
+          // Extract subtitle from titel (after ":")
+          const parts = ch.titel.split(':');
+          document.getElementById('ch-title').textContent = parts.length > 1 ? parts[1].trim() : ch.titel;
+        } else {
+          document.getElementById('ch-number').textContent = 'Kapitel ' + (ZAHLWORT[kapId] || kapId);
+          document.getElementById('ch-title').textContent = ch.pov;
+        }
+
+        document.title = 'Der Riss — ' + (isInterludium ? 'Interludium' : 'Kapitel ' + parseInt(kapId));
+
+        // Build navigation
+        const myIdx = allKapitelOrder.indexOf(kapId);
+        const prevId = myIdx > 0 ? allKapitelOrder[myIdx - 1] : null;
+        const nextId = myIdx < allKapitelOrder.length - 1 ? allKapitelOrder[myIdx + 1] : null;
+
+        const prevCh = prevId ? buchData.kapitel[prevId] : null;
+        const nextCh = nextId ? buchData.kapitel[nextId] : null;
+
+        // Determine if nav links should be active
+        // In normal mode: only link to chapters with status "final"
+        // In WIP mode: link to any chapter that has a datei (= has been written)
+        function canLink(targetCh) {
+          if (!targetCh || !targetCh.datei) return false;
+          if (isWip) return true;
+          return targetCh.status === 'final';
+        }
+
+        function lesenUrl(id) {
+          const numId = id.startsWith('I') ? id : parseInt(id).toString();
+          return '/lesen/' + numId + '/' + (isWip ? '?wip' : '');
+        }
+
+        // Count readable chapters for page info
+        const readable = allKapitelOrder.filter(k => {
+          const c = buchData.kapitel[k];
+          return isWip ? (c && c.datei) : (c && c.status === 'final');
+        });
+        const myReadableIdx = readable.indexOf(kapId);
+        const pageInfo = myReadableIdx >= 0
+          ? (myReadableIdx + 1) + ' / ' + readable.length
+          : (isInterludium ? 'Interludium' : '');
+
+        let navHtml = '';
+
+        if (prevId && canLink(prevCh)) {
+          navHtml += `<a href="${lesenUrl(prevId)}" onclick="turnPage(event, 'back', '${lesenUrl(prevId)}')"><span class="arrow">&larr;</span> Zurück</a>`;
+        } else {
+          navHtml += `<span class="disabled"><span class="arrow">&larr;</span> Zurück</span>`;
+        }
+
+        navHtml += `<span class="page-info">${pageInfo}</span>`;
+
+        if (nextId && canLink(nextCh)) {
+          navHtml += `<a href="${lesenUrl(nextId)}" onclick="turnPage(event, 'forward', '${lesenUrl(nextId)}')">Weiter <span class="arrow">&rarr;</span></a>`;
+        } else {
+          navHtml += `<span class="disabled">Weiter <span class="arrow">&rarr;</span></span>`;
+        }
+
+        document.getElementById('nav').innerHTML = navHtml;
+
+        // Fetch and render the markdown
+        fetch('/buch/kapitel/' + ch.datei)
+          .then(r => r.text())
+          .then(md => {
+            const lines = md.split('\n');
+            const container = document.getElementById('chapter');
+            let html = '';
+            let isFirst = true;
+            let skipTitle = true;
+
+            for (let i = 0; i < lines.length; i++) {
+              const line = lines[i].trim();
+              if (skipTitle && line.startsWith('# ')) { skipTitle = false; continue; }
+              if (line === '') continue;
+              if (line === '---') {
+                html += '<p class="scene-break">&middot; &middot; &middot;</p>';
+                isFirst = true;
+                continue;
+              }
+              if (line.startsWith('#')) continue;
+
+              let processed = line.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+              const isDialog = line.startsWith('"') || line.startsWith('\u201e') || line.startsWith('\u00ab');
+
+              if (isFirst) {
+                html += '<p class="opening">' + processed + '</p>';
+                isFirst = false;
+              } else if (isDialog) {
+                html += '<p class="dialog">' + processed + '</p>';
+              } else {
+                html += '<p>' + processed + '</p>';
+              }
+            }
+
+            container.innerHTML = html;
+          });
+      });
+
     function turnPage(e, direction, url) {
       e.preventDefault();
       const book = document.getElementById('book');
@@ -265,42 +410,6 @@
       book.classList.add(direction === 'forward' ? 'turning-forward' : 'turning-back');
       setTimeout(() => { window.location.href = url; }, 500);
     }
-
-    fetch('/buch/kapitel/02-sorel.md')
-      .then(r => r.text())
-      .then(md => {
-        const lines = md.split('\n');
-        const container = document.getElementById('chapter');
-        let html = '';
-        let isFirst = true;
-        let skipTitle = true;
-
-        for (let i = 0; i < lines.length; i++) {
-          const line = lines[i].trim();
-          if (skipTitle && line.startsWith('# ')) { skipTitle = false; continue; }
-          if (line === '') continue;
-          if (line === '---') {
-            html += '<p class="scene-break">&middot; &middot; &middot;</p>';
-            isFirst = true;
-            continue;
-          }
-          if (line.startsWith('#')) continue;
-
-          let processed = line.replace(/\*([^*]+)\*/g, '<em>$1</em>');
-          const isDialog = line.startsWith('"') || line.startsWith('„') || line.startsWith('«');
-
-          if (isFirst) {
-            html += '<p class="opening">' + processed + '</p>';
-            isFirst = false;
-          } else if (isDialog) {
-            html += '<p class="dialog">' + processed + '</p>';
-          } else {
-            html += '<p>' + processed + '</p>';
-          }
-        }
-
-        container.innerHTML = html;
-      });
   </script>
 </body>
 </html>

@@ -331,8 +331,9 @@
               if (ch.text) {
                 const textDiv = document.createElement('div');
                 textDiv.className = 'ch-text';
-                const lesenHtml = ch.lesen
-                  ? `<a class="lesen-link" href="${ch.lesen}">Kapitel lesen &rarr;</a>`
+                const lesenSlug = k.startsWith('I') ? k : parseInt(k).toString();
+                const lesenHtml = ch.datei
+                  ? `<a class="lesen-link" href="/lesen/${lesenSlug}/">Kapitel lesen &rarr;</a>`
                   : '';
                 textDiv.innerHTML = `<p>${ch.text}</p>${lesenHtml}`;
                 block.appendChild(textDiv);
