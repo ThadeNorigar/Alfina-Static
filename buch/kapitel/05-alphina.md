@@ -244,7 +244,7 @@ An der Hauswand. Drei Meter über dem Boden. Etwas sitzt an der Mauer, die Beine
 
 Die Augen. Nach unten. Auf mich.
 
-Es kippt den Kopf. Zur Seite. Neugierig. Das Geräusch das dabei entsteht — ein leises, kehliges Trillern, fragend, fast zärtlich — jagt mir das Blut in den Hals.
+Es kippt den Kopf. Zur Seite. Neugierig. Das Geräusch das dabei entsteht — ein leises, kehliges Gurren, fragend, fast zärtlich — jagt mir das Blut in den Hals.
 
 Dann ist es weg. Nicht gesprungen, nicht gefallen. Die Mauer ist leer. Nasser Stein. Nichts.
 
@@ -258,7 +258,7 @@ Vor mir. Bodenhöhe. Sie kommen näher, langsam, aus dem Nebel, zwei schwarze Pu
 
 Hinter dem ersten — ein zweites. Kleiner. Dieselben Augen. Derselbe Rauch.
 
-Auf dem Fenstersims neben mir — ein drittes. Ich habe es nicht kommen sehen. Es sitzt da, einen Meter von meinem Gesicht, den Kopf geneigt, die Augen auf meiner Höhe. Das Trillern. Leise, fragend, als wolle es etwas von mir das es nicht benennen kann.
+Auf dem Fenstersims neben mir — ein drittes. Ich habe es nicht kommen sehen. Es sitzt da, einen Meter von meinem Gesicht, den Kopf geneigt, die Augen auf meiner Höhe. Das Gurren. Leise, fragend, als wolle es etwas von mir das es nicht benennen kann.
 
 Sie schleichen auf mich zu. Alle drei. Langsam. Nicht bedrohlich — neugierig, tastend, als prüften sie wie nah sie kommen können. Die Haare auf meinen Unterarmen stehen. Mein Atem —
 
@@ -268,7 +268,7 @@ Ich blinzle.
 
 Die Gasse ist leer.
 
-Kein Rauch. Keine Augen. Kein Trillern. Der Sims neben mir: nasser Stein. Das Pflaster vor mir: Nebel, die Gaslampe, nichts. Alle drei — als hätte jemand sie ausradiert, als wären sie nie dort gewesen. Der Mann geht die Gasse hinunter, die Schritte schwer, gleichmäßig. Er hat nichts gesehen. Er geht nach Hause, oder zur Arbeit, oder zum Hafen. Er hustet noch einmal. Dann ist er im Nebel.
+Kein Rauch. Keine Augen. Kein Gurren. Der Sims neben mir: nasser Stein. Das Pflaster vor mir: Nebel, die Gaslampe, nichts. Alle drei — als hätte jemand sie ausradiert, als wären sie nie dort gewesen. Der Mann geht die Gasse hinunter, die Schritte schwer, gleichmäßig. Er hat nichts gesehen. Er geht nach Hause, oder zur Arbeit, oder zum Hafen. Er hustet noch einmal. Dann ist er im Nebel.
 
 Ich stehe da. Scheiße. Meine Hände zittern. Mein Atem geht flach, schnell — ich versuche ihn zu bremsen, es funktioniert nicht. Das Herz hämmert gegen meine Rippen als wolle es raus.
 
