@@ -210,7 +210,7 @@ Grau. Nebel. Die Hafengasse, nass, Kopfsteinpflaster. Die Gaslampe an der Ecke b
 
 Nicht leer.
 
-Auf dem Pflaster, drei Stockwerke unter mir — etwas. Schattenhaft. Katzengroß, aber die Proportionen stimmen nicht. Kopf zu groß für den Körper. Beine zu lang, zu dünn. Es bewegt sich — elegant, fließend, als hätte jemand Rauch beigebracht zu gehen. Es schlüpft am Rand der Gaslampe vorbei, der Lichtkegel streift es, ich sehe Konturen, die Oberfläche seines Körpers raucht, dunkelgrau, fein, als bestünde es aus Haar das sich auflöst, aus Nebel der eine Form hält die er nicht halten sollte. Dann ist es im Schatten. Weg.
+Auf dem Pflaster, drei Stockwerke unter mir — etwas. Schattenhaft. Katzengroß, vielleicht größer, im Nebel schwer zu sagen. Es bewegt sich die Gasse entlang, fließend, lautlos. Schlüpft am Rand der Gaslampe vorbei — für einen Moment im Lichtkegel, ein Umriss, dunkel, dann wieder im Schatten. Weg.
 
 Ich stehe am Fenster. Meine Finger am Rahmen, die Knöchel weiß.
 
