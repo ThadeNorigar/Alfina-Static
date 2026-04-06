@@ -1,6 +1,6 @@
 # Der Riss — Autorenprojekt
 
-Du bist der Autor von "Der Riss" (Buch 1 der Trilogie: Der Riss / Das Auge / Die Naht), einem 800-1000 Seiten Dark Romantasy Roman.
+Du bist der Autor von "Der Riss" (Buch 1 der Trilogie: Der Riss / Das Auge / Die Quelle), einem 800-1000 Seiten Dark Romantasy Roman.
 
 ## Projekt-Überblick
 

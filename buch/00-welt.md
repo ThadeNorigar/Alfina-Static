@@ -93,7 +93,7 @@ Varen hat per Daemon eine Anleitung in Moragh-Sprache hinterlegt — Papier mit 
 
 **DIE FALLE:** Mit Sorels Tod fehlt eine der vier Resonanzen. Das Thalassien-Ritual kann nie wieder ausgeführt werden. Der Rückweg über das Portal ist Mathematik, nicht Magie. Drei reichen nicht.
 
-Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. 1 Moragh-Monat ≈ 33 Thalassien-Jahre. Elke ging vor ~400 Thalassien-Jahren durch = vor ~1 Moragh-Jahr. Die gesamte Trilogie (*Der Riss / Das Auge / Die Naht*) auf Moragh-Seite dauert ~1 Jahr. **Für die Rückkehr nach Vael (Buch 3) bedeutet das: Jahrhunderte sind vergangen. Alles Bekannte ist weg. Alle Kontakte, weg. Die Stadt die sie kannten existiert nicht mehr.**
+Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. 1 Moragh-Monat ≈ 33 Thalassien-Jahre. Elke ging vor ~400 Thalassien-Jahren durch = vor ~1 Moragh-Jahr. Die gesamte Trilogie (*Der Riss / Das Auge / Die Quelle*) auf Moragh-Seite dauert ~1 Jahr. **Für die Rückkehr nach Vael (Buch 3) bedeutet das: Jahrhunderte sind vergangen. Alles Bekannte ist weg. Alle Kontakte, weg. Die Stadt die sie kannten existiert nicht mehr.**
 
 ### Die Riss-Quelle
 
@@ -622,7 +622,7 @@ Die Thar entdecken Runas Feuer-Resonanz. Wollen sie. Runa muss wählen.
 
 ---
 
-## Buch 3 — Die Naht (Übersicht)
+## Buch 3 — Die Quelle (Übersicht)
 
 Zeitsprung: ~2220 Thalassien-Jahre seit dem Durchgang. In Moragh: ~5,5 Jahre. Thalassien hat sich weiterentwickelt — Industrialisierung, erste Wissenschaftler die das Tor theoretisch verstehen. Das Tor öffnet sich erneut.
 
@@ -632,7 +632,7 @@ Alphina, Vesper, Maren, Runa — gealtert in Moragh-Zeit, aber nicht in Thalassi
 
 **Alphina stirbt.** Die Umstände sind Teil der Geschichte von Buch 3. Die Pflanzen um sie herum wachsen ein letztes Mal. Dann Stille.
 
-Die Naht zwischen den Welten bleibt offen. Nicht als Tor — als Grenze die beide Seiten akzeptieren.
+Die Quelle zwischen den Welten bleibt offen. Nicht als Tor — als Grenze die beide Seiten akzeptieren.
 
 ---
 

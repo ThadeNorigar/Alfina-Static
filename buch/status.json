@@ -116,7 +116,7 @@
     }
   },
   "buch3": {
-    "meta": { "titel": "Die Naht", "untertitel": "Zwei Welten / Technologie vs. Magie / Wiedervereinigung" },
+    "meta": { "titel": "Die Quelle", "untertitel": "Zwei Welten / Technologie vs. Magie / Wiedervereinigung" },
     "akte": [
       { "name": "Akt I", "titel": "Technologie", "kapitel": ["41","42","43","44","I9","45","46","47","48","I10"] },
       { "name": "Akt II", "titel": "Kulturkampf", "kapitel": ["49","50","51","52","53","I11","54","55","56","I12"] },

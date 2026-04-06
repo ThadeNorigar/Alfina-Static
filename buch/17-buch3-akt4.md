@@ -1,4 +1,4 @@
-# Buch 3 — Akt IV — Die Naht (Seite 675-900, ~56.000 Wörter, 10 Kapitel + 2 Interludien + Epilog)
+# Buch 3 — Akt IV — Die Quelle (Seite 675-900, ~56.000 Wörter, 10 Kapitel + 2 Interludien + Epilog)
 
 ## Struktur
 
@@ -373,7 +373,7 @@ Alphina sieht zurück. Ihre Hände: Erde unter den Nägeln. Dornen an den Finger
 
 Irgendwo auf dem Plateau, hinter dem Meer das niemand überqueren kann: die reparierten Quellen pochen. Langsam. Regelmäßig. Wie ein Herz das wieder schlägt.
 
-Die Welten sind zwei. Der Riss ist geschlossen. Die Naht hält.
+Die Welten sind zwei. Der Riss ist geschlossen. Die Quelle hält.
 
 ---
 
