@@ -12,7 +12,7 @@ Die Stadt hinter ihr lag im Nebel. Vael. Dunkler Stein, fast schwarz, und Giebel
 
 Der Schuppen stand am Wasser, grau, das Holz verwittert vom Salzwind. Groß genug für ein Boot. Das Tor stand offen und der Wind blies hindurch und in dem Wind lag Salz und in dem Salz lag alles, was sie nicht wusste über den Mann, der ihr eine Werft hinterlassen hatte.
 
-Der erste Brief. Solha, Südküste, ein heißer März. Maren saß in einer Tonwerkstatt und formte etwas, das kein Boot war, aber einem Boot ähnlich sah, eine geschwungene Form aus rotem Ton, und sie brauchte eine Antwort auf eine Frage über Spantenabstände, weil die Form nicht hielt, und jemand hatte gesagt: Schreib Dahl an der Grauküste, der weiß alles über Kurven im Holz. Sie hatte geschrieben. Kurz, sachlich, eine technische Frage. Die Antwort kam drei Wochen später. Noch kürzer. Noch sachlicher. Und am Ende, unter der Zeichnung: *Das Holz gibt nach, wenn man ihm Zeit lässt.*
+Der erste Brief. Solha, Südküste, ein heißer März. Maren flickte ein Ruderboot am Hafen, das einem Fischer gehörte, der sie dafür umsonst wohnen ließ, und ein Spant war gebrochen und sie wusste nicht, in welchem Winkel der neue sitzen musste, und jemand am Hafen hatte gesagt: Schreib Dahl an der Grauküste, der weiß alles über Kurven im Holz. Sie hatte geschrieben. Kurz, sachlich, eine technische Frage. Die Antwort kam drei Wochen später. Noch kürzer. Noch sachlicher. Und am Ende, unter der Zeichnung: *Das Holz gibt nach, wenn man ihm Zeit lässt.*
 
 Sie hatte zurückgeschrieben. Nicht wegen der Spanten.
 
