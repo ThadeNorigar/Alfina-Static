@@ -65,7 +65,7 @@ Wenn das Tor aktiver wird, werden die Lecks stärker. Nebel dreimal die Woche. D
 
 **Das Tidemoor-Haus** — Herrenhaus am Grauwe-Ufer. Standuhr die 4:33 pro Tag verliert. Mechanisch perfekt.
 
-**Die Werft Brandt** — Klaus Brandt, tot (natürliche Ursachen). Moragh-Agent, von Varen vor ~2 Moragh-Monaten (~66 Thalassien-Jahre) durch das Portal geschickt. Kam als junger Mann, lebte ein ganzes Leben in Vael — unter falschem Namen, in der Werft die einst Lene Brandt gehörte. Baute Boote, schrieb Briefe an eine Frau mit Wasser-Resonanz die er nie traf, starb an Alter und an einer Schwerkraft für die sein Körper nicht gebaut war (Moragh: 0.7g, Thalassien: 1g). Hinterlassen an Maren: die Werft, das halbfertige Boot. Das Boot ist das Gegenstück zu Lenes Boot von 1423. Klaus wusste das. Maren nicht.
+**Die Werft Dahl** — Orin Dahl, tot (natürliche Ursachen). Moragh-Agent, von Varen vor ~2 Moragh-Monaten (~66 Thalassien-Jahre) durch das Portal geschickt. Kam als junger Mann, lebte ein ganzes Leben in Vael — unter falschem Namen, in der Werft die einst Lene Brandt gehörte. Baute Boote, schrieb Briefe an eine Frau mit Wasser-Resonanz die er nie traf, starb an Alter und an einer Schwerkraft für die sein Körper nicht gebaut war (Moragh: 0.7g, Thalassien: 1g). Hinterlassen an Maren: die Werft, das halbfertige Boot. Das Boot ist das Gegenstück zu Lenes Boot von 1423. Orin wusste das. Maren nicht.
 
 **Das Lichthaus** — Speichergebäude am Hafen. Sorels Dunkelkammer im Keller.
 
@@ -118,7 +118,7 @@ Maren entdeckt in Moragh, dass Wasser zwischen den Welten fließt — nicht nur 
 | Alphina | Fachzeitschriften-Artikel über Asplenium am 51. Breitengrad, Vael | Agent hat den Artikel an die Thalassische Gesellschaft für Botanik gebracht. Der Farn existiert wirklich (wächst am Steinkreis). Der Artikel macht ihn zur Nachricht. |
 | Sorel | Sein Gesicht auf einer Glasplatte aus Vael, im Sammlernachlass | Agent hat die Platte mit Moragh-Lichtmagie hergestellt und im Nachlass platziert. Die Technik existiert — Sorels eigene Resonanz (Licht/Bilder) macht das Bild SCHÄRFER als es sein sollte, weil sein Sinn darauf reagiert. |
 | Vesper | Der reisende Uhrmacher im Gasthaus, der von der Standuhr in Vael erzählt | Agent. Kein Uhrmacher — marineblaue Augen, keine Hornhaut, keine Ölränder. Moragh-Mensch, der Thalassisch gelernt hat. Die Standuhr verliert wirklich 4:33 (Tor-Leck). Der Agent hat nur dafür gesorgt, dass VESPER davon erfährt. |
-| Maren | Klaus Brandts Erbschaft — die Werft, das Boot | Klaus IST der Agent. Moragh-Mann, vor ~66 Thalassien-Jahren durchgeschickt. Lebte ein ganzes Leben in Vael. Fand Maren über Briefe, baute die Werft, das Boot. Starb an Alter und Schwerkraft. |
+| Maren | Orin Dahls Erbschaft — die Werft, das Boot | Orin IST der Agent. Moragh-Mann, vor ~66 Thalassien-Jahren durchgeschickt. Lebte ein ganzes Leben in Vael. Fand Maren über Briefe, baute die Werft, das Boot. Starb an Alter und Schwerkraft. |
 
 **Die Resonanzen sind echt.** Alphinas Pflanzen reagieren wirklich auf sie. Sorel sieht wirklich unmögliche Dinge auf Platten. Vesper sieht wirklich Muster. Marens Wasser antwortet wirklich. Aber was sie nach VAEL zieht, ist kein kosmisches Schicksal — es ist ein Mann mit einem Plan und mit der Zeit auf seiner Seite.
 
@@ -295,7 +295,7 @@ Hat auf dem Brett Muster gesehen, die kein Mensch dort hingelegt hat. Dieselbe B
 
 Keine feste Adresse. Drei Leben hinter sich. Alles passt in einen Seesack. Fließt. Bleibt nie.
 
-Erbt Klaus Brandts Werft in Vael. Fünf Jahre Briefwechsel — über Holz, das Meer, Handwerk. Nie ein Treffen. Jetzt ist er tot und sie erbt alles: die Werft, das halbfertige Boot, die Werkzeuge. Nur ein Boot das drei Viertel fertig ist und eine Frau die nie bleibt. **Klaus war ein Moragh-Agent Varens.** Maren weiß das nicht. Die Briefe waren echt — Klaus hat sie wirklich geschrieben, über Jahre. Aber der Zweck war der Köder.
+Erbt Orin Dahls Werft in Vael. Fünf Jahre Briefwechsel — über Holz, das Meer, Handwerk. Nie ein Treffen. Jetzt ist er tot und sie erbt alles: die Werft, das halbfertige Boot, die Werkzeuge. Nur ein Boot das drei Viertel fertig ist und eine Frau die nie bleibt. **Orin war ein Moragh-Agent Varens.** Maren weiß das nicht. Die Briefe waren echt — Orin hat sie wirklich geschrieben, über Jahre. Aber der Zweck war der Köder.
 
 ---
 
@@ -339,8 +339,8 @@ Alt, schweigsam, Gesicht wie Treibholz. Fischt seit fünfzig Jahren auf der Grau
 ### Jara Voss — Archiv-Gehilfin
 Esther Voss' Nichte. Zwanzig, still, ordnet Dokumente. Sieht alles, sagt wenig. Sie findet das Manuskript — nicht Esther. Hat es gelesen, bevor sie es weitergibt. Weiß mehr als sie sagt.
 
-### Thies Brandt — Bootsbauer-Geselle
-Klaus Brandts Lehrling. Dreißig, ruhige Hände. Echter Vaeler — kein Agent, kein Moragh-Mensch. Arbeitet an der Werft weiter, obwohl Klaus tot ist. Zeigt Maren die Werft, erklärt das Boot. Weiß, dass Klaus nachts in den Botanischen Garten ging. "Hat nie gesagt warum." Weiß nicht, dass Klaus aus einer anderen Welt kam. Hat ihn als seltsam empfunden — Klaus' Akzent, der nie ganz verschwand. Seine Hände, feiner als die eines Bootsbauers. Aber Thies fragt nicht. Thies arbeitet.
+### Thies Dahl — Bootsbauer-Geselle
+Orin Dahls Lehrling. Dreißig, ruhige Hände. Echter Vaeler — kein Agent, kein Moragh-Mensch. Arbeitet an der Werft weiter, obwohl Orin tot ist. Zeigt Maren die Werft, erklärt das Boot. Weiß, dass Orin nachts in den Botanischen Garten ging. "Hat nie gesagt warum." Weiß nicht, dass Orin aus einer anderen Welt kam. Hat ihn als seltsam empfunden — Orins Akzent, der nie ganz verschwand. Seine Hände, feiner als die eines Bootsbauers. Aber Thies fragt nicht. Thies arbeitet.
 
 ### Doktor Halvard — Stadtarzt
 Behandelt die Fischer die vom Wasser krank werden. Seit dem Nebel häufiger. Rationalist — alles hat eine Erklärung. Bis es keine mehr hat. Vesper trinkt mit ihm. Halvard behandelt Verbrennungen die keine Hitzequelle haben, Frostbeulen im Sommer, Knochenbrüche ohne Sturz.
@@ -496,7 +496,7 @@ Er hat das Portal aktiviert um Resonanz-Begabte nach Moragh zu bringen. Will sie
 
 **Varen hat die Vier gerufen.** Systematisch, über Agenten, über Jahrzehnte (für ihn: Wochen).
 
-**Schritt 1 — Agenten:** Er hat Moragh-Menschen durch das Portal geschickt — junge Männer und Frauen mit Grundausbildung in Thalassisch (von Elke gelernt, weitergegeben). Für ihn vergehen Wochen. Für die Agenten vergehen Jahrzehnte in Thalassien. Sie leben ganze Leben, bauen Infrastruktur, suchen Resonanz-Begabte. Klaus Brandt (Maren), der Uhrmacher-Fremde (Vesper), der Artikel-Verfasser (Alphina), der Platten-Fälscher (Sorel) — vier Köder, vier Agenten, vier verschiedene Methoden.
+**Schritt 1 — Agenten:** Er hat Moragh-Menschen durch das Portal geschickt — junge Männer und Frauen mit Grundausbildung in Thalassisch (von Elke gelernt, weitergegeben). Für ihn vergehen Wochen. Für die Agenten vergehen Jahrzehnte in Thalassien. Sie leben ganze Leben, bauen Infrastruktur, suchen Resonanz-Begabte. Orin Dahl (Maren), der Uhrmacher-Fremde (Vesper), der Artikel-Verfasser (Alphina), der Platten-Fälscher (Sorel) — vier Köder, vier Agenten, vier verschiedene Methoden.
 
 **Schritt 2 — Manuskript und Ritual:** Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen von 1423 mit falschen Anweisungen ergänzt. Er hat per Daemon die Ritual-Anleitung und das Moragh-Sprachbuch in Vael hinterlegt. Alles was die Vier brauchen um das Ritual auszuführen — glaubhaft verpackt als uralte Entdeckung.
 
@@ -594,7 +594,7 @@ Alphina sagt: "Wir gehen. Alle vier."
 
 Das Ritual im Steinkreis. Vier Resonanzen, gleichzeitig. Die Luft reißt auf. Das Portal bleibt 4:33 offen. Sie gehen durch. **Runa schlüpft** in den letzten Sekunden mit durch. Fünf Menschen in Moragh, nicht vier. Das Portal schließt sich. Finn und Halvard stehen am Gartenrand und sehen alles.
 
-**Die Falle:** Sorel stirbt in Moragh (Varens Bindungsmagie). Drei Resonanzen übrig. Das Ritual braucht vier. Der Rückweg über das Portal ist Mathematik, nicht Magie. Kein Lecken mehr, keine Moragh-Magie die durchsickert. Vael heilt WEIL das Tor geschlossen ist. Der Nebel lichtet sich. Die Grauwe fließt vorwärts. Die Pflanzen stehen still — und wachsen jetzt auch in den Steinkreis hinein. Die unsichtbare Grenze ist weg. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung, verblassen über Tage. Halvard schreibt seinen Bericht. Thies Brandt an der Werft, Jara Voss im Archiv mit dem Moragh-Sprachbuch das keinen Zweck mehr hat.
+**Die Falle:** Sorel stirbt in Moragh (Varens Bindungsmagie). Drei Resonanzen übrig. Das Ritual braucht vier. Der Rückweg über das Portal ist Mathematik, nicht Magie. Kein Lecken mehr, keine Moragh-Magie die durchsickert. Vael heilt WEIL das Tor geschlossen ist. Der Nebel lichtet sich. Die Grauwe fließt vorwärts. Die Pflanzen stehen still — und wachsen jetzt auch in den Steinkreis hinein. Die unsichtbare Grenze ist weg. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung, verblassen über Tage. Halvard schreibt seinen Bericht. Thies Dahl an der Werft, Jara Voss im Archiv mit dem Moragh-Sprachbuch das keinen Zweck mehr hat.
 
 **Letzte Seite Buch 1:** Alphina steht auf der anderen Seite. Eine fremde Welt. Zwei Monde am Himmel. Sorel tot. Vesper, Maren. Und hinter ihnen, atemlos, Runa. Die Luft schmeckt nach etwas das sie nicht kennt. Der Rückweg existiert nicht.
 

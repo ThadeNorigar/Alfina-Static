@@ -4,23 +4,23 @@ Maren öffnete die Augen. Das Boot an ihrem Rücken, die Kühle des Holzes durch
 
 "Sie sind Maren."
 
-Keine Frage. Er wusste es, weil es niemand anderes sein konnte — eine Frau mit einem Seesack neben Klaus Brandts Boot.
+Keine Frage. Er wusste es, weil es niemand anderes sein konnte — eine Frau mit einem Seesack neben Orin Dahls Boot.
 
-"Thies", sagte er. Trat in den Schuppen. Seine Schritte waren leise auf dem Erdboden, die Stiefel abgetragen aber sauber, und er bewegte sich durch den Raum wie jemand, der jeden Gegenstand kannte, jede Lücke zwischen den Werkzeugen, jede lose Diele. "Sieben Jahre bei Klaus. Lehrling, dann Geselle." Er blieb neben der Werkbank stehen. Legte die Hand darauf, kurz, wie man die Schulter eines Freundes berührt. "Brandt heißt die Werft. Den Namen übernimmt man, wenn man bleibt."
+"Thies", sagte er. Trat in den Schuppen. Seine Schritte waren leise auf dem Erdboden, die Stiefel abgetragen aber sauber, und er bewegte sich durch den Raum wie jemand, der jeden Gegenstand kannte, jede Lücke zwischen den Werkzeugen, jede lose Diele. "Sieben Jahre bei Orin. Lehrling, dann Geselle." Er blieb neben der Werkbank stehen. Legte die Hand darauf, kurz, wie man die Schulter eines Freundes berührt. "Dahl heißt die Werft. Den Namen übernimmt man, wenn man bleibt."
 
 Seine Hände waren das Erste was Maren richtig sah, als er näher kam. Breite Handflächen, kurze Finger, Hornhaut an den Kuppen. Schnitte, alt und frisch, an den Knöcheln. Holzstaub unter den Nägeln, eingearbeitet in die Rillen der Haut. Hände die arbeiteten, jeden Tag, und die aussahen wie Hände die arbeiteten.
 
 Thies zeigte ihr das Boot. Nicht wie ein Führer der Dinge erklärte, sondern wie jemand, der einen Raum teilte und davon ausging, dass die andere Person sehen konnte.
 
-"Kiel aus Eiche. Massiv, ein Stück." Seine Hand fuhr über das Holz, ohne es zu berühren, ein Fingerbreit Abstand, als könnte Berührung etwas stören. "Die Spanten — Esche. Biegsam, feinporig. Klaus hat sie dampfgebogen, einzeln, über Tage." Er zeigte auf die Stelle wo die Planken aufhörten. "Lärche. Leichter als Eiche, das Harz schützt vor Wasser. Die untersten drei Lagen sind dicht. Darüber fehlt es."
+"Kiel aus Eiche. Massiv, ein Stück." Seine Hand fuhr über das Holz, ohne es zu berühren, ein Fingerbreit Abstand, als könnte Berührung etwas stören. "Die Spanten — Esche. Biegsam, feinporig. Orin hat sie dampfgebogen, einzeln, über Tage." Er zeigte auf die Stelle wo die Planken aufhörten. "Lärche. Leichter als Eiche, das Harz schützt vor Wasser. Die untersten drei Lagen sind dicht. Darüber fehlt es."
 
 "Wie lange noch?"
 
 "Zwei Monate. Vielleicht drei." Er schaute das Boot an, nicht sie. "Wenn jemand weiterbaut."
 
-Maren sagte nichts. Sie umrundete das Boot, langsam, und ihre Hand glitt über die Planken. Jede war anders — die Maserung, die Dicke, manche Stellen rauer, wo das Schleifpapier nicht hingekommen war, manche so glatt, dass die Haut darüber rutschte ohne Widerstand. Sie kannte Boote. Auf dem Frachtschiff hatte sie gelernt, wie ein Rumpf sich hob und senkte und wie man das Meer nicht bekämpfte sondern ihm nachgab. Die Kapitänin, eine Frau mit sonnenverbrannten Händen, hatte gesagt: Ein Boot ist ein Kompromiss zwischen dem was du willst und dem was das Wasser erlaubt. Klaus' Boot war ein guter Kompromiss. Die Linien waren sauber, die Proportionen stimmig. Das Holz roch nach Leinöl und nach der Geduld, mit der jemand Jahre an einem einzigen Gegenstand gearbeitet hatte.
+Maren sagte nichts. Sie umrundete das Boot, langsam, und ihre Hand glitt über die Planken. Jede war anders — die Maserung, die Dicke, manche Stellen rauer, wo das Schleifpapier nicht hingekommen war, manche so glatt, dass die Haut darüber rutschte ohne Widerstand. Sie kannte Boote. Auf dem Frachtschiff hatte sie gelernt, wie ein Rumpf sich hob und senkte und wie man das Meer nicht bekämpfte sondern ihm nachgab. Die Kapitänin, eine Frau mit sonnenverbrannten Händen, hatte gesagt: Ein Boot ist ein Kompromiss zwischen dem was du willst und dem was das Wasser erlaubt. Orin' Boot war ein guter Kompromiss. Die Linien waren sauber, die Proportionen stimmig. Das Holz roch nach Leinöl und nach der Geduld, mit der jemand Jahre an einem einzigen Gegenstand gearbeitet hatte.
 
-Auf der Werkbank lagen Zeichnungen — Klaus' Handschrift, die sie aus den Briefen kannte, klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Millimetern, sauber, mit Lineal gezogen. Thies stand daneben und ließ sie schauen.
+Auf der Werkbank lagen Zeichnungen — Orin' Handschrift, die sie aus den Briefen kannte, klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Millimetern, sauber, mit Lineal gezogen. Thies stand daneben und ließ sie schauen.
 
 "Er war regelmäßig", sagte Thies. "Morgens um sechs in der Werft. Abends um sechs weg. Wie Gezeiten." Er griff nach einem Hobel auf der Werkbank, drehte ihn in den Händen, legte ihn zurück. Genau dahin wo er gelegen hatte. "Außer nachts."
 
@@ -36,7 +36,7 @@ Stille im Schuppen. Das Knarren des Dachgebälks im Wind. Maren wartete. Thies s
 
 Thies nahm die Schürze vom Haken. Faltete sie, langsam, die Hände sorgfältig an den Kanten. Legte sie auf die Werkbank, neben die Zeichnungen. Es sah aus wie ein Abschluss.
 
-"Der Notar hat gesagt, alles gehört Ihnen. Die Werft, das Boot, die Werkzeuge." Er schaute sie an, zum ersten Mal direkt, und seine Augen waren grau und ruhig und sagten: Ich habe keine Meinung dazu. "Klaus hat mich bezahlt bis zum Monatsende. Danach —" Er ließ den Satz offen.
+"Der Notar hat gesagt, alles gehört Ihnen. Die Werft, das Boot, die Werkzeuge." Er schaute sie an, zum ersten Mal direkt, und seine Augen waren grau und ruhig und sagten: Ich habe keine Meinung dazu. "Orin hat mich bezahlt bis zum Monatsende. Danach —" Er ließ den Satz offen.
 
 "Danach?"
 
@@ -46,4 +46,4 @@ Die Tür fiel zu. Holz auf Holz, ein Klang der in den Wänden blieb. Maren stand
 
 Ein Mann mit einem Akzent, der nicht hierhergehörte. Feine Hände, die das Handwerk spät gelernt hatten. Nachts im Garten, am Klippenrand.
 
-Maren ging zur Werkbank. Legte ihre Hand neben Klaus' Zeichnungen. Das Holz war kühl und glatt und roch nach Eiche und nach Jahren.
+Maren ging zur Werkbank. Legte ihre Hand neben Orin' Zeichnungen. Das Holz war kühl und glatt und roch nach Eiche und nach Jahren.

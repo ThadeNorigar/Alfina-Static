@@ -31,7 +31,7 @@ Aber: der Hain. Alphinas Schlaf-Hain, der erste, der unkontrollierte. Die Bäume
 ### Kap. 43 — Maren (S. 40–58, ~4.500 Wörter)
 *Vael 2250. Das Institut.*
 
-Das Schwellenforschungsinstitut: ein Gebäude aus Glas und Stahl, gebaut neben dem Steinkreis im Botanischen Garten. Monitore, Instrumente, Daten. Marens Name steht in einem Buch — "Die Vier von Vael: Eine Dokumentation der Anomalien von 1820." Mit Sorels Foto. Mit Alphinas Beschreibung aus Zeitungsartikeln. Mit Vespers Uhr-Gutachten. Mit Marens eigenem Namen auf dem Grundbuchblatt der Werft Brandt.
+Das Schwellenforschungsinstitut: ein Gebäude aus Glas und Stahl, gebaut neben dem Steinkreis im Botanischen Garten. Monitore, Instrumente, Daten. Marens Name steht in einem Buch — "Die Vier von Vael: Eine Dokumentation der Anomalien von 1820." Mit Sorels Foto. Mit Alphinas Beschreibung aus Zeitungsartikeln. Mit Vespers Uhr-Gutachten. Mit Marens eigenem Namen auf dem Grundbuchblatt der Werft Dahl.
 
 Maren sitzt in einem weißen Raum und eine Wissenschaftlerin stellt Fragen. "Wie alt sind Sie?" Maren: "Einunddreißig." Die Wissenschaftlerin tippt auf ein durchsichtiges Gerät. "Das Boot in der Werft — das steht im Museum. Seit hundertfünfzig Jahren."
 

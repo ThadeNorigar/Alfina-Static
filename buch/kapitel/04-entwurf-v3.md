@@ -6,7 +6,7 @@
 - **Max Satzlänge:** ~35W, fließend
 - **Leitmotiv:** Wasser, Hände am Holz, Bewegung
 - **Rhythmus:** Warm + Bewegung. Assoziativ. Gedankensprünge mit Brücken — ein Ort erinnert an einen anderen, ein Geruch an eine andere Stadt. Nie linear. Fließt wie Wasser, bleibt nie stehen.
-- **Setting:** Vael, Grauküste. März. Nebel, Kälte, Meer. Die Werft Brandt.
+- **Setting:** Vael, Grauküste. März. Nebel, Kälte, Meer. Die Werft Dahl.
 - **Timeline:** März, wie Kap 1-3. EIN Tag.
 
 ## Gesamtziel: ~4.200 Wörter
@@ -15,12 +15,12 @@
 
 ## Szene 1: Die Werft (~1.200 Wörter)
 
-**Einstieg:** "Der Schuppen roch nach Klaus."
+**Einstieg:** "Der Schuppen roch nach Orin."
 
 **Beats:**
-1. Maren vor Klaus Brandts Werft. Morgen, früh, Wind vom Grauen Meer. Stiefel feucht vom Kutter. Fünf Stunden über die Bucht. Seesack an der Schulter — alles was sie besitzt. Ankunft in Vael: Purpurstein, Nebel, Menschen die sie nicht anschauen.
+1. Maren vor Orin Dahls Werft. Morgen, früh, Wind vom Grauen Meer. Stiefel feucht vom Kutter. Fünf Stunden über die Bucht. Seesack an der Schulter — alles was sie besitzt. Ankunft in Vael: Purpurstein, Nebel, Menschen die sie nicht anschauen.
 2. Der Schuppen: offen, der Wind bläst hindurch. Holz, Leim, Bootslack, Sägemehl. Der Geruch von jemandem den sie nie getroffen hat.
-3. **Embedded: Klaus und die Briefe.** Fünf Jahre, einundsechzig Briefe. Angefangen mit einer Frage über Spantenabstände (Solha, Tonwerkstatt). Klaus hat geantwortet — sachlich, präzise. Die Briefe wurden länger. Er schrieb über Holz wie über ein Lebewesen. *Das Holz gibt nach, wenn man ihm Zeit lässt.* Jetzt ist er tot. Herzversagen, drei Wochen her. Kein Umschlag, keine Karte, keine Warnung. Nur die Werft und das Boot.
+3. **Embedded: Orin und die Briefe.** Fünf Jahre, einundsechzig Briefe. Angefangen mit einer Frage über Spantenabstände (Solha, Tonwerkstatt). Orin hat geantwortet — sachlich, präzise. Die Briefe wurden länger. Er schrieb über Holz wie über ein Lebewesen. *Das Holz gibt nach, wenn man ihm Zeit lässt.* Jetzt ist er tot. Herzversagen, drei Wochen her. Kein Umschlag, keine Karte, keine Warnung. Nur die Werft und das Boot.
 4. Das Boot im Schuppen. Halb fertig, halb Skelett. Der Anblick trifft sie — nicht das Boot selbst, sondern dass es aufgehört hat. Mitten in einer Bewegung.
 
 **Nagel:** Sie tritt ein. Der Schuppen riecht wie die Briefe gerochen haben.
@@ -33,9 +33,9 @@
 
 **Beats:**
 1. Maren steht beim Boot, Hand auf der Planke. Schritte hinter ihr. Ein Mann in der Tür, dreißig, breite Schultern, Arbeitsjacke. Ruhige Hände. Ruhige Augen. "Sie sind Maren."
-2. **Thies Brandt.** Klaus' Lehrling seit sieben Jahren. Kein Verwandter — er hat den Namen der Werft angenommen, wie es Tradition ist. Er zeigt ihr die Werft. Nicht wie ein Führer, wie jemand der einen Raum teilt. Erklärt das Boot: den Kiel (Eiche), die Spanten (Esche), die Planken (Lärche). Wo Klaus aufgehört hat. Was noch fehlt.
-3. Die Werkzeuge. Klaus' Schürze am Haken. Thies berührt sie nicht. Die Zeichnungen auf der Werkbank — Bootsrisse, Querschnitte, Klaus' Handschrift. Die Sorgfalt eines Mannes der mit Holz sprach.
-4. **Thies über Klaus — subtile Fremdheit:** "Er hat morgens angefangen und abends aufgehört. Regelmäßig wie Gezeiten." Pause. "Außer nachts. Ist in den Garten gegangen, den oben, am Klippenrand. Hat nie gesagt warum." Und dann, beiläufig: "Hatte einen Akzent. Nicht von der Küste, nicht aus dem Süden. Woanders her. Hat nie gesagt woher." Und: "Seine Hände. Feiner als man denkt, für einen Bootsbauer. Als hätte er das Handwerk spät gelernt." Thies fragt nicht. Thies arbeitet. Aber die Details sind da, für Maren und für die Leserin.
+2. **Thies Dahl.** Orin' Lehrling seit sieben Jahren. Kein Verwandter — er hat den Namen der Werft angenommen, wie es Tradition ist. Er zeigt ihr die Werft. Nicht wie ein Führer, wie jemand der einen Raum teilt. Erklärt das Boot: den Kiel (Eiche), die Spanten (Esche), die Planken (Lärche). Wo Orin aufgehört hat. Was noch fehlt.
+3. Die Werkzeuge. Orin' Schürze am Haken. Thies berührt sie nicht. Die Zeichnungen auf der Werkbank — Bootsrisse, Querschnitte, Orin' Handschrift. Die Sorgfalt eines Mannes der mit Holz sprach.
+4. **Thies über Orin — subtile Fremdheit:** "Er hat morgens angefangen und abends aufgehört. Regelmäßig wie Gezeiten." Pause. "Außer nachts. Ist in den Garten gegangen, den oben, am Klippenrand. Hat nie gesagt warum." Und dann, beiläufig: "Hatte einen Akzent. Nicht von der Küste, nicht aus dem Süden. Woanders her. Hat nie gesagt woher." Und: "Seine Hände. Feiner als man denkt, für einen Bootsbauer. Als hätte er das Handwerk spät gelernt." Thies fragt nicht. Thies arbeitet. Aber die Details sind da, für Maren und für die Leserin.
 5. Maren fragt nicht nach dem Garten. Noch nicht. Aber sie registriert es — der Garten am Klippenrand, nachts.
 
 **Nagel:** Thies geht. "Ich bin in der Gasse nebenan. Wenn Sie Werkzeug brauchen." Die Tür fällt zu. Maren steht allein. Der Schuppen atmet. Das Boot wartet.
@@ -89,14 +89,14 @@ Zwei, gestuft:
 März. Wie Kap 1-3. EIN Tag: Morgen (Ankunft, Werft), Vormittag (Thies), Nachmittag (Steg), Abend (Bad).
 
 ### Aktplan-Check
-- ✅ Maren vor Klaus Brandts Werft
-- ✅ Klaus tot, natürliche Ursachen
+- ✅ Maren vor Orin Dahls Werft
+- ✅ Orin tot, natürliche Ursachen
 - ✅ Maren erbt die Werft und das Boot, drei Viertel fertig
 - ✅ Kein Umschlag, keine Karte, keine Warnung (= Aktplan)
-- ✅ Thies Brandt zeigt ihr die Werft
-- ✅ Klaus nachts in den Garten (nicht Keller — es gibt keine Keller)
+- ✅ Thies Dahl zeigt ihr die Werft
+- ✅ Orin nachts in den Garten (nicht Keller — es gibt keine Keller)
 - ✅ Thies: "Hat nie gesagt warum"
-- ✅ Thies bemerkt Klaus' Fremdheit (Akzent, Hände) — Köder für die Leserin
+- ✅ Thies bemerkt Orin' Fremdheit (Akzent, Hände) — Köder für die Leserin
 - ✅ Marens Leben in Schlaufen
 - ✅ Endet mit: Sie bleibt. "Tag eins."
 - **ERWEITERUNG:** Zwei Wasser-Momente (Steg + Bad). Konsistent mit Magie-Progression ("Das Meer ist seltsam heute").
@@ -108,13 +108,13 @@ März. Wie Kap 1-3. EIN Tag: Morgen (Ankunft, Werft), Vormittag (Thies), Nachmit
 | Detail | Geladen | Feuert in |
 |--------|---------|-----------|
 | Boot drei Viertel fertig | Kap. 4 | Kap. 8 — Boot baut sich nachts weiter |
-| Klaus' Briefe (nie getroffen) | Kap. 4 | Buch 2 — Klaus war Moragh-Agent. Die Briefe waren echt UND Köder |
-| Klaus' Akzent, seine feinen Hände | Kap. 4 (Thies) | Buch 2 — Klaus war Moragh-Mensch. Die Details ergeben im Rückblick Sinn |
-| "Hat nachts in den Garten gearbeitet" | Kap. 4 (Thies) | Akt III — Der Botanische Garten. Der Steinkreis. Klaus ging zum Tor |
+| Orin' Briefe (nie getroffen) | Kap. 4 | Buch 2 — Orin war Moragh-Agent. Die Briefe waren echt UND Köder |
+| Orin' Akzent, seine feinen Hände | Kap. 4 (Thies) | Buch 2 — Orin war Moragh-Mensch. Die Details ergeben im Rückblick Sinn |
+| "Hat nachts in den Garten gearbeitet" | Kap. 4 (Thies) | Akt III — Der Botanische Garten. Der Steinkreis. Orin ging zum Tor |
 | Wasser wird spiegelglatt um Maren | Kap. 4 | Kap. 8 — Wasser fließt gegen das Gefälle in die Werft |
 | Wasser wird warm durch Gedanken | Kap. 4 | Akt III — Marens Resonanz. Sie folgt dem Wasser zum Steinkreis |
 | "Tag eins" | Kap. 4 | Akt III — Maren zählt die Tage. Zum ersten Mal zählt sie |
-| Der Knoten im Holz den Klaus gelassen hat | Kap. 4 | — Klaus' Moragh-Herkunft: in Moragh formt man Fehler ein, wirft sie nicht weg |
+| Der Knoten im Holz den Orin gelassen hat | Kap. 4 | — Orin' Moragh-Herkunft: in Moragh formt man Fehler ein, wirft sie nicht weg |
 | Thies' ruhige Hände | Kap. 4 | Akt II — Thies hilft beim Boot. Vertrauensperson |
 
 ## Resonanzen zu Kap. 1-3
@@ -123,4 +123,4 @@ März. Wie Kap 1-3. EIN Tag: Morgen (Ankunft, Werft), Vormittag (Thies), Nachmit
 - Jeder hat einen Gegenstand der nicht loslässt: Alphinas Farn, Sorels Platte, Vespers Turm, Marens Boot
 - Die gewählte Einsamkeit: Alphina (Mauer), Sorel (Keller), Vesper (Werkstatt), Maren (Bewegung)
 - Gänsehaut-Progression: Alphina sieht es 49x, Sorel 2x über 13 Jahre, Vesper einmal brutal — Maren zweimal an einem Tag, gestuft
-- Klaus' Fremdheit = Parallelköder für Leserin: wie der Uhrmacher-Fremde in Vespers Kapitel. Marineblaue Augen dort. Feiner Akzent hier. Dasselbe Muster. Die Leserin soll es SPÜREN bevor sie es versteht.
+- Orin' Fremdheit = Parallelköder für Leserin: wie der Uhrmacher-Fremde in Vespers Kapitel. Marineblaue Augen dort. Feiner Akzent hier. Dasselbe Muster. Die Leserin soll es SPÜREN bevor sie es versteht.
