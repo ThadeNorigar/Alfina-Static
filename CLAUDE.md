@@ -196,12 +196,39 @@ Interludien platzieren → Tschechow-Waffen setzen →
 ### 4. Kapitel-Pipeline (Ebene 7–10)
 
 Definiert WIE EINE SZENE KLINGT. Die einzige Pipeline mit harten Gates.
+**Nach jedem bestandenen Gate: Status in status.json setzen + commit + deploy.**
 
 ```
-Szenenplan → /council (GATE) → Szene schreiben → /council (GATE) →
-Zusammenbauen → /logik-check (GATE) → /stil-check (GATE) →
-Final /council (GATE) → /deploy
+Schritt                    Status → status.json    Wer        Auto-Deploy
+──────────────────────     ────────────────────     ────────   ──────────
+Kapitel angelegt           "idee"                  Autor      ja
+Szenenplan geschrieben     "szenenplan"             Claude     ja
+/council bestanden         —                        Claude     nein
+Szene(n) geschrieben       "entwurf"                Claude     ja
+/council bestanden         "council"                Claude     ja
+/logik-check bestanden ─┐                                     
+                         ├ beide OK?  "checked"     Claude     ja
+/stil-check bestanden  ─┘  (parallel)                         
+LEKTORAT (Autor liest)     "lektorat"               AUTOR      ja
+Final /council             "final"                  Claude     ja
 ```
+
+**Jeder Status-Wechsel deployed.** Keine Ausnahme. Der Autor liest online.
+
+**/logik-check und /stil-check laufen parallel** als zwei Agenten. Beide prüfen den
+fertigen Text, keine Abhängigkeit untereinander. Erst wenn BEIDE bestanden sind, wird
+der Status auf "checked" gesetzt. Ein einzelner Check reicht nicht.
+
+**LEKTORAT ist ein Autor-Gate mit Feedback-Schleife:**
+1. Nach "checked" + Deploy liest der Autor online.
+2. Autor gibt Feedback (Korrekturen, Anmerkungen).
+3. Claude arbeitet Fixes ein + Deploy (Status bleibt "checked").
+4. Autor liest erneut online.
+5. Schleife bis der Autor explizit bestätigt: "gelesen, passt" / "lektorat ok".
+6. ERST DANN wird der Status auf "lektorat" gesetzt + Deploy.
+
+Claude darf den Status NICHT eigenmächtig auf "lektorat" setzen. Nachfragen ist erlaubt,
+weiterschalten nicht.
 
 **Artefakte:**
 - `buch/szenen/{KK}-{SS}.md` — Szenenplan

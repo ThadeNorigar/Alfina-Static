@@ -1,5 +1,5 @@
 {
-  "stati": ["idee", "szenenplan", "entwurf", "council", "logik-check", "lektorat", "final"],
+  "stati": ["idee", "szenenplan", "entwurf", "council", "checked", "lektorat", "final"],
   "buch1": {
     "meta": { "titel": "Der Riss", "untertitel": "Thalassien / Vael / Das Tor" },
     "akte": [
