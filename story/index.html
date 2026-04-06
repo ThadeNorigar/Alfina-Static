@@ -175,6 +175,13 @@
       padding-left: 50px;
     }
     .ch-block.interlude .ch-text p { font-style: italic; }
+    .ch-text .lesen-link {
+      display: inline-block; margin-top: 0.5rem; padding-left: 50px;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.85rem;
+      letter-spacing: 0.1em; text-decoration: none;
+      color: var(--accent); transition: color 0.3s;
+    }
+    .ch-text .lesen-link:hover { color: var(--ink); }
 
     .dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
 
@@ -323,7 +330,10 @@
               if (ch.text) {
                 const textDiv = document.createElement('div');
                 textDiv.className = 'ch-text';
-                textDiv.innerHTML = `<p>${ch.text}</p>`;
+                const lesenHtml = ch.lesen
+                  ? `<a class="lesen-link" href="${ch.lesen}">Kapitel lesen &rarr;</a>`
+                  : '';
+                textDiv.innerHTML = `<p>${ch.text}</p>${lesenHtml}`;
                 block.appendChild(textDiv);
                 row.addEventListener('click', () => textDiv.classList.toggle('open'));
               }
