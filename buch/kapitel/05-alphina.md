@@ -236,6 +236,8 @@ Ich blinzle.
 
 Weg. Die Gasse leer. Nebel, Pflaster, Stille.
 
+Scheiße.
+
 Mein Atem geht schneller. Ich drehe mich um — die Gasse hinter mir, dunkel, die Gaslampe am anderen Ende, weit — drehe mich zurück.
 
 An der Hauswand. Drei Meter über dem Boden. Etwas sitzt an der Mauer, die Beine — wenn es Beine sind — gegen den Stein gedrückt, der Körper flach wie ein Schatten der an der Wand klebt. Dieselbe rauchende Oberfläche, dieselben Proportionen, zu groß der Kopf, zu lang die Glieder. Es sitzt an der Wand als wäre die Wand der Boden, als gäbe es keine Schwerkraft, als hätte niemand ihm gesagt dass Mauern senkrecht sind.
@@ -245,6 +247,8 @@ Die Augen. Nach unten. Auf mich.
 Es kippt den Kopf. Zur Seite. Neugierig. Das Geräusch das dabei entsteht — ein leises, kehliges Trillern, fragend, fast zärtlich — jagt mir das Blut in den Hals.
 
 Dann ist es weg. Nicht gesprungen, nicht gefallen. Die Mauer ist leer. Nasser Stein. Nichts.
+
+Verdammt. Verdammt verdammt verdammt.
 
 Ich drehe mich. Die Gasse in beide Richtungen, Nebel, Dunkelheit. Ich gehe schneller. Zurück zum Anker, zurück zur Lampe an der Ecke — der Nebel wird dichter, ich kann meine eigenen Füße kaum sehen, das Kopfsteinpflaster unter meinen Sohlen nass, rutschig —
 
@@ -266,7 +270,7 @@ Die Gasse ist leer.
 
 Kein Rauch. Keine Augen. Kein Trillern. Der Sims neben mir: nasser Stein. Das Pflaster vor mir: Nebel, die Gaslampe, nichts. Alle drei — als hätte jemand sie ausradiert, als wären sie nie dort gewesen. Der Mann geht die Gasse hinunter, die Schritte schwer, gleichmäßig. Er hat nichts gesehen. Er geht nach Hause, oder zur Arbeit, oder zum Hafen. Er hustet noch einmal. Dann ist er im Nebel.
 
-Ich stehe da. Meine Hände zittern. Mein Atem geht flach, schnell — ich versuche ihn zu bremsen, es funktioniert nicht. Das Herz hämmert gegen meine Rippen als wolle es raus.
+Ich stehe da. Scheiße. Meine Hände zittern. Mein Atem geht flach, schnell — ich versuche ihn zu bremsen, es funktioniert nicht. Das Herz hämmert gegen meine Rippen als wolle es raus.
 
 Ich gehe zurück. Schnell. Die Gasse, die Treppe, die Tür. Der Riegel, diesmal vorgelegt. Die Stufen hoch, das Knarren unter meinen Stiefeln, mein Zimmer, die Tür zu, der Schlüssel, zweimal.
 
