@@ -32,7 +32,7 @@ Orin hatte den Fehler gelassen. Orin hatte den Fehler zum Teil des Bootes gemach
 
 Die Werkzeuge an der Wand, an Haken, geordnet — Hobel, Stechbeitel, Sägen, Zwingen, Leimtöpfe mit getrockneten Rändern. Die Schürze am Haken neben der Tür, steif von Leim und Holzstaub, die Form eines Körpers noch darin, Schultern, Brust. Maren berührte den Stoff nicht. Er hing da und hielt die Gestalt eines Mannes, der nicht mehr kam.
 
-Auf dem Boden Späne. Sägemehl. Eine dünne Schicht, gleichmäßig, als hätte der Wind sie verteilt. Maren kniete sich hin. Nahm eine Handvoll. Trocken, leicht, helles Holz. Sie roch daran. Holz und Harz und etwas Süßes, und die Späne waren so fein, als hätte jemand geschliffen, nicht gesägt. Sie ließ sie durch die Finger rieseln und sie fielen auf den Boden und mischten sich mit den anderen und waren nicht zu unterscheiden. Daneben, halb unter Sägemehl, ein Bleistift. Kurz, die Spitze abgebrochen. Sie hob ihn auf. Orins Strich, ein silbriger Graphitfleck auf ihrer Haut. Sie steckte ihn in die Jackentasche, ohne zu wissen warum.
+Auf dem Boden Späne. Sägemehl. Eine dünne Schicht, gleichmäßig, als hätte der Wind sie verteilt. Maren kniete sich hin. Nahm eine Handvoll. Trocken, leicht, helles Holz. Sie roch daran. Holz und Harz und etwas Süßes, und die Späne waren so fein, als hätte jemand geschliffen, nicht gesägt. Sie ließ sie durch die Finger rieseln und sie fielen auf den Boden und mischten sich mit den anderen und waren nicht zu unterscheiden. Daneben, halb unter Sägemehl, ein Bleistift. Kurz, die Spitze abgebrochen. Sie steckte ihn in die Jackentasche.
 
 Maren setzte sich hin. Rücken gegen den Rumpf des Bootes. Das Holz war fest und glatt an ihrem Rücken, und sie spürte die Rundung, die Kurve, die Orin geschliffen hatte. Sie lehnte sich dagegen und schloss die Augen. Das Meer draußen. Der Wind in den Ritzen. Das Knarren des Holzes, das arbeitete, auch jetzt, auch leer.
 
@@ -70,9 +70,9 @@ Auf der Werkbank lagen Zeichnungen — Orins Handschrift, die sie aus den Briefe
 
 Maren schaute auf.
 
-"Ist in den Garten gegangen. Den oben, am Klippenrand." Edric sprach zum Hobel, nicht zu ihr. "Ein-, zweimal die Woche. Nach Mitternacht. Ich hab ihn gesehen, vom Fenster aus, wenn ich nicht schlafen konnte." Pause. "Hat nie gesagt warum. Ich hab nie gefragt."
+"Ist in den Garten gegangen. Den oben, am Klippenrand." Edric sprach zum Hobel, nicht zu ihr. "Spät. Wenn ich nicht schlafen konnte, hab ich ihn vom Fenster aus gesehen. Auf dem Weg hoch." Pause. "Hat nie gesagt warum. Ich hab nie gefragt."
 
-Stille im Schuppen. Das Knarren des Dachgebälks im Wind. Maren spürte etwas in ihren Handflächen, ein Kribbeln, das vom Holz kam oder von dem Wort — Garten, am Klippenrand, nach Mitternacht. Sie schloss die Hände. Das Kribbeln blieb.
+Stille im Schuppen. Das Knarren des Dachgebälks im Wind. Maren spürte etwas in ihren Handflächen, ein Kribbeln, das vom Holz kam oder von dem Wort — Garten, am Klippenrand, spät. Sie schloss die Hände. Das Kribbeln blieb.
 
 Edric sagte nichts mehr, und sein Schweigen war nicht das Schweigen eines Mannes, der etwas verbarg. Es war das Schweigen eines Mannes, der nicht mehr wusste als er gesagt hatte und dem das reichte.
 
