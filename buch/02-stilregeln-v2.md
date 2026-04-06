@@ -7,7 +7,7 @@
 | "nicht X — sondern Y" | 2 |
 | "wie etwas das..." Vergleiche | 4 |
 | Erklärende Nachsätze ("weil...", "nicht weil... sondern weil...") | Nur wenn Alphinas Gedankengang es BRAUCHT. Sonst: Handlung stehen lassen. |
-| Deppenapostrophe (Orin's, Klaus's, Vesper's) | **0.** Deutsch: Orins Boot, Vespers Uhr. Apostroph NUR bei Namen auf s/z: "Voss' Nichte", "Edrics Werkbank." |
+| Deppenapostrophe (Haron's, Klaus's, Vesper's) | **0.** Deutsch: Harons Boot, Vespers Uhr. Apostroph NUR bei Namen auf s/z: "Voss' Nichte", "Edrics Werkbank." |
 
 ## Rhythmus
 

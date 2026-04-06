@@ -1,8 +1,8 @@
 # Kapitel 4 — Maren
 
-Der Schuppen roch nach Orin.
+Der Schuppen roch nach Haron.
 
-Nicht nach Orin persönlich — Maren wusste nicht, wie Orin gerochen hatte, sie hatten sich nie getroffen, fünf Jahre Briefwechsel und kein einziges Mal seine Stimme gehört — sondern nach dem, was Orin gewesen war. Holz und Leim und Bootslack. Sägemehl, das noch in der Luft hing, obwohl seit drei Wochen niemand mehr gesägt hatte. Schleifstaub auf jeder Oberfläche, fein wie Mehl, und darunter, in den Wänden, im Boden, in den Ritzen zwischen den Brettern: das Meer. Der Schuppen lag zwanzig Meter vom Wasser entfernt, aber das Meer war trotzdem drin. Es war immer drin, wenn man lange genug an einem Ort blieb.
+Nicht nach Haron persönlich — Maren wusste nicht, wie Haron gerochen hatte, sie hatten sich nie getroffen, fünf Jahre Briefwechsel und kein einziges Mal seine Stimme gehört — sondern nach dem, was Haron gewesen war. Holz und Leim und Bootslack. Sägemehl, das noch in der Luft hing, obwohl seit drei Wochen niemand mehr gesägt hatte. Schleifstaub auf jeder Oberfläche, fein wie Mehl, und darunter, in den Wänden, im Boden, in den Ritzen zwischen den Brettern: das Meer. Der Schuppen lag zwanzig Meter vom Wasser entfernt, aber das Meer war trotzdem drin. Es war immer drin, wenn man lange genug an einem Ort blieb.
 
 Maren blieb nie lange genug.
 
@@ -16,7 +16,7 @@ Der erste Brief. Solha, Südküste, ein heißer März. Maren flickte ein Ruderbo
 
 Sie hatte zurückgeschrieben. Nicht wegen der Spanten.
 
-Einundsechzig Briefe. Fünf Jahre. Maren hatte sie gezählt, in der Nacht nach dem Brief des Notars, in einem Gasthof in einer Stadt deren Namen sie schon vergessen hatte. Sie hatte die Briefe auf der Decke ausgebreitet, sortiert nach Datum, einundsechzig Rechtecke auf fleckigem Stoff, und sie hatte sie nicht gelesen, nur gezählt, weil Lesen an dem Abend zu viel gewesen wäre. Ihre Hände waren über die Umschläge gestrichen, über das Papier, über die Stellen wo Orins Finger es gehalten hatten, und sie hatte seinen Geruch gesucht, den sie nicht kannte, und stattdessen nur Tinte und den Staub des Gasthofs gerochen.
+Einundsechzig Briefe. Fünf Jahre. Maren hatte sie gezählt, in der Nacht nach dem Brief des Notars, in einem Gasthof in einer Stadt deren Namen sie schon vergessen hatte. Sie hatte die Briefe auf der Decke ausgebreitet, sortiert nach Datum, einundsechzig Rechtecke auf fleckigem Stoff, und sie hatte sie nicht gelesen, nur gezählt, weil Lesen an dem Abend zu viel gewesen wäre. Ihre Hände waren über die Umschläge gestrichen, über das Papier, über die Stellen wo Harons Finger es gehalten hatten, und sie hatte seinen Geruch gesucht, den sie nicht kannte, und stattdessen nur Tinte und den Staub des Gasthofs gerochen.
 
 Jetzt stand sie vor seinem Schuppen. Drei Wochen tot. Herzversagen, schrieb der Notar. Kein Umschlag, keine Karte, keine Warnung. Nur die Werft und das Boot.
 
@@ -28,13 +28,13 @@ Im Halbdunkel das Boot. Drei Viertel fertig, Kiel auf Holzböcken, Spanten nach 
 
 Maren ließ den Seesack von der Schulter gleiten. Er fiel auf den Erdboden, dumpf, und Staub stieg auf und legte sich wieder. Sie streckte die Hand aus und berührte eine Planke. Glatt unter ihren Fingern, wärmer als die Luft, und sie fuhr mit der Handfläche über die Oberfläche, und die Maserung war unter ihrer Haut, die Jahresringe, der Rhythmus des Wachstums. Am Heck eine Stelle, wo die Planke einen Knoten hatte, dunkel im hellen Holz. Der Knoten war geblieben. Die Planke war um ihn herumgeschnitten und gebogen worden, sodass er Teil des Holzes blieb. Ein dunkles Auge im Holz. Maren legte den Finger darauf. Härter als das Holz drumherum. Verdichtet.
 
-Orin hatte den Fehler gelassen. Orin hatte den Fehler zum Teil des Bootes gemacht.
+Haron hatte den Fehler gelassen. Haron hatte den Fehler zum Teil des Bootes gemacht.
 
 Die Werkzeuge an der Wand, an Haken, geordnet — Hobel, Stechbeitel, Sägen, Zwingen, Leimtöpfe mit getrockneten Rändern. Die Schürze am Haken neben der Tür, steif von Leim und Holzstaub, die Form eines Körpers noch darin, Schultern, Brust. Maren berührte den Stoff nicht. Er hing da und hielt die Gestalt eines Mannes, der nicht mehr kam.
 
 Auf dem Boden Späne. Sägemehl. Eine dünne Schicht, gleichmäßig, als hätte der Wind sie verteilt. Maren kniete sich hin. Nahm eine Handvoll. Trocken, leicht, helles Holz. Sie roch daran. Holz und Harz und etwas Süßes, und die Späne waren so fein, als hätte jemand geschliffen, nicht gesägt. Sie ließ sie durch die Finger rieseln und sie fielen auf den Boden und mischten sich mit den anderen und waren nicht zu unterscheiden. Daneben, halb unter Sägemehl, ein Bleistift. Kurz, die Spitze abgebrochen. Sie steckte ihn in die Jackentasche.
 
-Maren setzte sich hin. Rücken gegen den Rumpf des Bootes. Das Holz war fest und glatt an ihrem Rücken, und sie spürte die Rundung, die Kurve, die Orin geschliffen hatte. Sie lehnte sich dagegen und schloss die Augen. Das Meer draußen. Der Wind in den Ritzen. Das Knarren des Holzes, das arbeitete, auch jetzt, auch leer.
+Maren setzte sich hin. Rücken gegen den Rumpf des Bootes. Das Holz war fest und glatt an ihrem Rücken, und sie spürte die Rundung, die Kurve, die Haron geschliffen hatte. Sie lehnte sich dagegen und schloss die Augen. Das Meer draußen. Der Wind in den Ritzen. Das Knarren des Holzes, das arbeitete, auch jetzt, auch leer.
 
 Fünf Minuten. Zehn. Maren saß da und ging nicht. Das Boot an ihrem Rücken, der Boden unter ihr, der Geruch von Leim und Holz und dem Meer, das in allem war.
 
@@ -48,9 +48,9 @@ Maren öffnete die Augen. Das Boot an ihrem Rücken, die Kühle des Holzes durch
 
 "Sie sind Maren."
 
-Keine Frage. Er wusste es, weil es niemand anderes sein konnte — eine Frau mit einem Seesack neben Orin Dahls Boot.
+Keine Frage. Er wusste es, weil es niemand anderes sein konnte — eine Frau mit einem Seesack neben Haron Dahls Boot.
 
-"Edric", sagte er. Trat in den Schuppen. Seine Schritte waren leise auf dem Erdboden, die Stiefel abgetragen aber sauber, und er bewegte sich durch den Raum wie jemand, der jeden Gegenstand kannte, jede Lücke zwischen den Werkzeugen, jede lose Diele. "Sieben Jahre bei Orin. Lehrling, dann Geselle."
+"Edric", sagte er. Trat in den Schuppen. Seine Schritte waren leise auf dem Erdboden, die Stiefel abgetragen aber sauber, und er bewegte sich durch den Raum wie jemand, der jeden Gegenstand kannte, jede Lücke zwischen den Werkzeugen, jede lose Diele. "Sieben Jahre bei Haron. Lehrling, dann Geselle."
 
 "Maren." Sie stand auf. Der Seesack neben ihr auf dem Boden, der Rücken steif vom Sitzen gegen den Rumpf. "Sie haben auf mich gewartet?"
 
@@ -70,15 +70,15 @@ Edric nickte. Nicht wie ein Führer der Dinge erklärte, sondern als teilte er e
 
 "Ich war auf einem Frachtschiff. Neun Monate." Maren fuhr mit der Handfläche über die Planken. Jede war anders — die Maserung, die Dicke, manche Stellen rauer, wo das Schleifpapier nicht hingekommen war, manche so glatt, dass die Haut darüber rutschte ohne Widerstand. "Die Kapitänin hat gesagt, ein Boot ist ein Kompromiss zwischen dem was du willst und dem was das Wasser erlaubt."
 
-"Orin hätte das gemocht." Edric zeigte auf die Stelle wo die Planken aufhörten. "Lärche. Leichter als Eiche, das Harz schützt. Die untersten drei Lagen sind dicht. Darüber fehlt es."
+"Haron hätte das gemocht." Edric zeigte auf die Stelle wo die Planken aufhörten. "Lärche. Leichter als Eiche, das Harz schützt. Die untersten drei Lagen sind dicht. Darüber fehlt es."
 
 "Wie lange noch?"
 
 "Zwei Monate. Vielleicht drei." Er schaute das Boot an, nicht sie. "Wenn jemand weiterbaut."
 
-Maren umrundete den Rumpf. Orins Boot war ein guter Kompromiss. Die Linien sauber, die Proportionen stimmig. Das Holz roch nach Leinöl und nach der Geduld, mit der jemand Jahre an einem einzigen Gegenstand gearbeitet hatte.
+Maren umrundete den Rumpf. Harons Boot war ein guter Kompromiss. Die Linien sauber, die Proportionen stimmig. Das Holz roch nach Leinöl und nach der Geduld, mit der jemand Jahre an einem einzigen Gegenstand gearbeitet hatte.
 
-Auf der Werkbank lagen Zeichnungen — Orins Handschrift, die sie aus den Briefen kannte, klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Millimetern, sauber, mit Lineal gezogen.
+Auf der Werkbank lagen Zeichnungen — Harons Handschrift, die sie aus den Briefen kannte, klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Millimetern, sauber, mit Lineal gezogen.
 
 "Die kenne ich", sagte Maren. Sie tippte auf eine Zeichnung. "Diesen Querschnitt hat er mir geschickt. Im siebten Brief. Ich hatte gefragt, warum die Kimm so flach ist."
 
@@ -106,11 +106,11 @@ Stille im Schuppen. Das Knarren des Dachgebälks im Wind. Maren spürte etwas in
 
 "Er hatte einen Akzent", sagte Edric. "Nicht von der Küste. Nicht aus dem Süden. Woanders her. Hat nie gesagt woher." Er strich mit dem Daumen über die Werkbank, über eine Kerbe im Holz. "Und seine Hände. Fein, für einen Bootsbauer. Lange Finger." Er hob die eigenen Hände, breit, rissig. "Sah aus als hätte er das Handwerk spät gelernt. Aber er konnte es."
 
-"Das konnte er", sagte Maren. Sie schaute auf das Boot. Auf die Planken, die dicht saßen. Auf den Knoten am Heck, den Orin gelassen hatte.
+"Das konnte er", sagte Maren. Sie schaute auf das Boot. Auf die Planken, die dicht saßen. Auf den Knoten am Heck, den Haron gelassen hatte.
 
 Edric nahm die Schürze vom Haken. Faltete sie, die Hände sorgfältig an den Kanten. Legte sie auf die Werkbank, neben die Zeichnungen. Es war ein Abschluss.
 
-"Der Notar hat gesagt, alles gehört Ihnen. Die Werft, das Boot, die Werkzeuge." Er schaute sie an, zum ersten Mal direkt, und seine Augen waren grau und ruhig. "Orin hat mich bezahlt bis zum Monatsende. Danach —" Er ließ den Satz offen.
+"Der Notar hat gesagt, alles gehört Ihnen. Die Werft, das Boot, die Werkzeuge." Er schaute sie an, zum ersten Mal direkt, und seine Augen waren grau und ruhig. "Haron hat mich bezahlt bis zum Monatsende. Danach —" Er ließ den Satz offen.
 
 "Bleiben Sie?"
 
@@ -120,7 +120,7 @@ Die Tür fiel zu. Holz auf Holz, ein Klang der in den Wänden blieb. Maren stand
 
 Ein Mann mit einem Akzent, der nicht hierhergehörte. Feine Hände, die das Handwerk spät gelernt hatten. Nachts im Garten, am Klippenrand.
 
-Maren ging zur Werkbank. Legte ihre Hand neben Orins Zeichnungen. Das Holz war kühl und glatt und roch nach Eiche und nach Jahren.
+Maren ging zur Werkbank. Legte ihre Hand neben Harons Zeichnungen. Das Holz war kühl und glatt und roch nach Eiche und nach Jahren.
 
 
 ---
@@ -154,7 +154,7 @@ Es waren die Gezeiten. Es mussten die Gezeiten sein.
 
 Maren drehte sich um. Ging den Steg zurück, schneller als sie gekommen war. Die Planken nass, die Nägel lose, der Wind im Rücken. Sie drehte sich nicht um. Hinter ihr das Meer, das gegen den Steg schlug, gleichmäßig, hart, normal. Als wäre nichts gewesen.
 
-Am Ende des Stegs blieb sie stehen. Sie steckte die Hände in die Jackentaschen und ballte die Fäuste, die Nägel in die Handflächen, und der Druck half, gab dem Körper etwas das er halten konnte. In ihrer rechten Tasche lag Orins Bleistift, den sie vom Boden der Werft aufgehoben hatte, kurz, die Spitze abgebrochen. Ihre Finger schlossen sich darum. Das Holz war warm von ihrer Haut.
+Am Ende des Stegs blieb sie stehen. Sie steckte die Hände in die Jackentaschen und ballte die Fäuste, die Nägel in die Handflächen, und der Druck half, gab dem Körper etwas das er halten konnte. In ihrer rechten Tasche lag Harons Bleistift, den sie vom Boden der Werft aufgehoben hatte, kurz, die Spitze abgebrochen. Ihre Finger schlossen sich darum. Das Holz war warm von ihrer Haut.
 
 Maren stand am Ende des Stegs und hinter ihr lag das Meer und vor ihr lag Vael, im Nebel, und irgendwo in dieser Stadt war ein Garten, am Klippenrand, zu dem ein toter Mann nachts gegangen war. Und das Wasser hatte auf sie reagiert.
 
@@ -212,8 +212,8 @@ Aber es war nicht nichts gewesen. Am Steg hatte sie sich belügen können. Gezei
 
 Draußen, fern, das Meer. Der Nebel auf dem Marktplatz. Irgendwo in dieser Stadt eine Uhr, die schlug, ein einzelner Ton, der durch die Mauern drang und verklang. Dann Stille. Dann das Meer.
 
-Maren saß auf dem Bett, im Laken, die Füße auf dem nassen Boden, und dachte an Orin, der nachts in den Garten gegangen war und nie gesagt hatte warum. An das Boot, das drei Viertel fertig war und wartete. An die Briefe, einundsechzig Stück, die in ihrem Seesack lagen und die nach Tinte rochen und nach der Sorgfalt eines Mannes, den sie nie getroffen hatte und nie treffen würde. An den Satz im dritten Brief, dem langen: *Das Holz gibt nach, wenn man ihm Zeit lässt.*
+Maren saß auf dem Bett, im Laken, die Füße auf dem nassen Boden, und dachte an Haron, der nachts in den Garten gegangen war und nie gesagt hatte warum. An das Boot, das drei Viertel fertig war und wartete. An die Briefe, einundsechzig Stück, die in ihrem Seesack lagen und die nach Tinte rochen und nach der Sorgfalt eines Mannes, den sie nie getroffen hatte und nie treffen würde. An den Satz im dritten Brief, dem langen: *Das Holz gibt nach, wenn man ihm Zeit lässt.*
 
-In der Jackentasche, die über dem Stuhl hing, Orins Bleistift. Kurz, die Spitze abgebrochen. Sie stand nicht auf um ihn zu holen. Aber sie wusste, dass er da war.
+In der Jackentasche, die über dem Stuhl hing, Harons Bleistift. Kurz, die Spitze abgebrochen. Sie stand nicht auf um ihn zu holen. Aber sie wusste, dass er da war.
 
 Tag eins.
