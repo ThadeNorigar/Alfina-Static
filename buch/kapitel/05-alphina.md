@@ -2,7 +2,7 @@
 
 Der dritte Tag riecht nach Salz.
 
-Die ersten beiden rochen nach Pferd und nach Leder und nach dem Staub der Landstraße, der sich in alles setzt, in die Nähte des Koffers, in die Falten des Hemds, unter die Nägel. Der Kutscher hat zweimal angehalten, einmal an einer Poststation aus grauem Stein, wo ein Mann mit Schürze Brot verkaufte, das nach Kümmel roch und zu hart war und das ich trotzdem ganz aß, weil der Magen sich nicht dafür interessiert, ob Brot gut ist, nur dafür, ob es da ist. Und einmal am Straßenrand, weil eines der Pferde ein Eisen verloren hatte und der Kutscher zwanzig Minuten brauchte, auf den Knien, die Zange in der Hand, der Schweiß auf der Stirn, und ich saß in der Kutsche und wartete und hörte den Hammer auf das Eisen und den Huf auf die Erde und dazwischen die Stille der Landschaft, die nicht still war, weil Landschaften nie still sind, es sind die Menschen die still werden, wenn niemand da ist der sie hört.
+Die ersten beiden rochen nach Pferd und nach Leder und nach dem Staub der Landstraße, der sich in alles setzt, in die Nähte des Koffers, in die Falten des Hemds, unter die Nägel. Der Kutscher hat zweimal angehalten, einmal an einer Poststation aus grauem Stein, wo ein Mann mit Schürze Brot verkaufte, das nach Kümmel roch und zu hart war und das ich trotzdem ganz aß, weil der Magen sich nicht dafür interessiert, ob Brot gut ist, nur dafür, ob es da ist. Und einmal am Straßenrand, weil eines der Pferde ein Eisen verloren hatte und der Kutscher zwanzig Minuten brauchte, auf den Knien, die Zange in der Hand, der Schweiß auf der Stirn. Ich saß in der Kutsche und wartete. Der Hammer auf das Eisen. Der Huf auf die Erde. Dazwischen die Stille der Landschaft, die nicht still war, weil Landschaften nie still sind — es sind die Menschen die still werden, wenn niemand da ist der sie hört.
 
 An der Poststation stand ein Farn in einer Mauerspalte.
 
@@ -14,6 +14,8 @@ Als die Räder sich drehten, drehte sich der Farn. Alle drei Wedel, in Richtung 
 
 Ich habe ins Notizbuch geschrieben: *Asplenium trichomanes, Poststation Hügelsund, 50°N. Drei Wedel, heliotrope Reaktion bei Abfahrt. Phototropismus?* Das Fragezeichen habe ich zu klein geschrieben. Es hätte drei Zeilen füllen sollen.
 
+Phototropismus. Das Wort beruhigt. Griechisch, messbar, erklärbar. So lange es einen Namen hat, ist es kein Problem.
+
 Jetzt, am dritten Tag, riecht die Luft nach Salz, und die Hügel sind zu Felsen geworden, und die Felsen sind dunkel, fast schwarz, ein Gestein das ich nicht kenne, und zwischen den Felsen wächst Moos, satt und grün, grüner als es im April sein sollte, als hätte jemand den Frühling übersprungen und den Sommer direkt in den Stein gepflanzt. Die Luft ist dichter geworden, über Stunden, unmerklich, als liefe man in ein Zimmer dessen Tür lange geschlossen war. Feuchter. Schwerer. Der Wind kommt von Nordwest und trägt den Geruch des Meeres, und unter dem Salz liegt etwas anderes, süßlich und dicht, ein Geruch den ich einzuordnen versuche — nicht Moos, nicht Tang, nicht Verwesung, nicht die Mineralien die Gestein abgibt wenn Regen es wäscht. Etwas darunter. Etwas das ich nicht benennen kann, und das allein ist seltsam genug, weil ich Gerüche benennen kann, weil das mein Beruf ist, weil ich dreißig Jahre lang Pflanzen an ihrem Geruch erkannt habe bevor ich sie gesehen habe.
 
 Puls achtundsiebzig. Ich zähle ihn, wie ich ihn immer zähle, zwei Finger am Handgelenk, fünfzehn Sekunden, mal vier. Ruhig. Normal. Drei Tage Kutsche und mein Rücken schmerzt und mein rechtes Knie ist steif und meine Finger riechen nach Tinte und Leder und dem Brot von gestern, und ich bin ruhig. Es gibt keinen Grund, nicht ruhig zu sein.
@@ -22,15 +24,17 @@ Die Pflanzen am Straßenrand zeigen nach Norden.
 
 Nicht alle. Nicht immer. Aber genug. Gräser, die sich neigen, obwohl der Wind aus Nordwest kommt und sie nach Südost drücken sollte. Farne in Felsspalten, die ihre Wedel in die Richtung strecken, in die die Kutsche fährt. Ein Moos auf einem Felsen, das auf der Nordseite dichter wächst als auf der Südseite, obwohl die Sonne — soweit es in diesem Nebel Sonne gibt — im Süden steht.
 
-Jede Pflanze einzeln: erklärbar. Windschutz, Lichtbrechung, Bodenneigung, Zufall. Ich habe Zufall ins Notizbuch geschrieben. Dreimal. Am ersten Tag, am zweiten, am dritten. Dreimal dasselbe Wort, und jedes Mal wurde die Schrift kleiner, als wolle die Hand es verschwinden lassen, bevor die Augen es lesen.
+Jede Pflanze einzeln: erklärbar. Windschutz, Lichtbrechung, Bodenneigung. Zufall. Ich habe das Wort dreimal ins Notizbuch geschrieben, und jedes Mal wurde die Schrift kleiner.
 
-Hundert Pflanzen über drei Tage. Hundert Zufälle, die alle in dieselbe Richtung zeigen.
+Hundert Pflanzen über drei Tage, die alle in dieselbe Richtung zeigen.
 
-Puls sechsundachtzig. Der Nebel wird dichter. Die Kutsche rumpelt über Kopfsteinpflaster, und das Rumpeln ist anders als das Rumpeln der Landstraße, härter, regelmäßiger, Stein auf Stein, und durch das Fenster sehe ich Häuser, dunkel, Giebel aus schwarzem Gestein, und die Gassen sind eng und der Nebel hängt darin wie Stoff, und die Gaslampen brennen am Nachmittag, gelb und trüb, und ihr Licht schafft es nicht bis zum Boden.
+Puls sechsundachtzig. Der Nebel wird dichter. Die Kutsche rumpelt über Kopfsteinpflaster, härter als die Landstraße, regelmäßiger. Stein auf Stein. Durch das Fenster: Häuser, dunkel, Giebel aus schwarzem Gestein. Die Gassen eng, der Dunst darin dicht genug zum Greifen. Gaslampen brennen am Nachmittag, gelb und trüb, ihr Licht schafft es nicht bis zum Boden.
 
 Vael.
 
-Der Kutscher ruft etwas, das ich nicht verstehe, breiter Küstendialekt, und die Kutsche wird langsamer und ich beuge mich zum Fenster und da ist die Stadt, und die Stadt ist aus dem Stein, der keine Farbe hat die ich kenne, nicht schwarz, nicht grau, nicht violett, sondern etwas dazwischen, etwas das die Augen nicht halten können, das sich verschiebt wenn man es festhält, dunkler im Schatten, heller im Laternenlicht, und überall nass, weil der Nebel sich auf alles legt, auf den Stein, auf das Pflaster, auf die Fensterscheiben, und der Stein glänzt im Nebel wie etwas Lebendiges.
+Der Kutscher ruft etwas, das ich nicht verstehe, breiter Küstendialekt. Die Kutsche wird langsamer. Ich beuge mich zum Fenster.
+
+Da ist die Stadt. Die Stadt ist aus dem Stein, der keine Farbe hat die ich kenne, nicht schwarz, nicht grau, nicht violett, sondern etwas dazwischen, etwas das die Augen nicht halten können, das sich verschiebt wenn man es festhält. Dunkler im Schatten. Heller im Laternenlicht. Überall nass, weil die feuchte Luft sich auf alles legt, auf den Stein, auf das Pflaster, auf die Fensterscheiben. Der Stein glänzt, als atme er.
 
 Das Stadttor. Purpurstein, drei Meter hoch, die Fugen breit und feucht. Meine Hand liegt auf dem Kutschrahmen, und als die Kutsche durch das Tor fährt, langsam, die Räder knirschen auf nassem Stein, streife ich mit den Fingerspitzen die Mauer. Beiläufig. Eine Geste die nichts bedeutet.
 
@@ -48,13 +52,13 @@ Puls achtundneunzig. Meine Hände sind feucht. Mein Mund ist trocken. Ich greife
 
 Ich drehe mich nicht um, weil Umdrehen bedeuten würde, dass ich es ernst nehme.
 
-Der Nebel schließt sich hinter der Kutsche. Die Gassen werden enger. Ich lege meine Hände auf das Notizbuch, das auf meinem Schoß liegt, und meine Finger hinterlassen feuchte Abdrücke auf dem Leder, und ich drücke die Handflächen auf die Seiten, und das Papier ist rau unter meiner Haut, und der Druck hilft, gibt dem Körper etwas das er halten kann.
+Die feuchte Luft schließt sich hinter der Kutsche. Die Gassen werden enger. Ich lege meine Hände auf das Notizbuch, das auf meinem Schoß liegt, und meine Finger hinterlassen feuchte Abdrücke auf dem Leder, und ich drücke die Handflächen auf die Seiten, und das Papier ist rau unter meiner Haut, und der Druck hilft, gibt dem Körper etwas das er halten kann.
 
-Das Gasthaus heißt "Zum Anker." Der Kutscher zeigt mit dem Kinn die Hafengasse runter, ein einziges Wort — "Da" — und die Kutsche hält und ich steige aus und der Nebel legt sich auf mein Gesicht wie eine Hand die mich begrüßt. Die Luft schmeckt nach Salz und nach dem Geruch den ich nicht benennen kann, süßlich und dicht, und er ist stärker hier, am Hafen, wo ein Fluss ins Meer mündet, trübes Wasser das sich mit dem Salzwasser mischt, langsam und schwer und in eine Richtung die ich noch nicht kenne.
+Das Gasthaus heißt "Zum Anker." Der Kutscher zeigt mit dem Kinn die Hafengasse runter, ein einziges Wort — "Da" — und die Kutsche hält. Ich steige aus. Der Nebel legt sich auf mein Gesicht, feucht und kalt und nah. Die Luft schmeckt nach Salz und nach dem Geruch den ich nicht benennen kann, süßlich und dicht, und er ist stärker hier, am Hafen, wo ein Fluss ins Meer mündet, trübes Wasser das sich mit dem Salzwasser mischt, langsam und schwer und in eine Richtung die ich noch nicht kenne.
 
 Durch die Gassenlücke: das Graue Meer. Grau, wirklich grau, ein Grau das Tiefe hat, das nach unten geht, Schicht für Schicht, und das Licht dringt nicht hindurch. Alles in dieser Stadt scheint aus einem einzigen Farbton zu bestehen und aus einem Geruch, den ich nicht kenne, und aus Farnen, die mich kennen.
 
-Puls neunzig. Sinkt. Ich habe einen Koffer und eine Adresse und ein Notizbuch mit drei Tagen Zufall darin, und ich gehe die Hafengasse runter, auf nassem Kopfsteinpflaster, und der Nebel liegt auf meinen Schultern und riecht nach Salz und nach etwas Süßem, und die Gaslampen brennen, und irgendwo hinter mir, im Stadttor, stehen sieben Farne, die wissen wo ich bin.
+Puls neunzig. Sinkt. Ich habe einen Koffer und eine Adresse und ein Notizbuch mit drei Tagen Zufall darin, und ich gehe die Hafengasse runter, auf nassem Kopfsteinpflaster, und die Feuchtigkeit liegt auf meinen Schultern, riecht nach Salz und nach etwas Süßem. Die Gaslampen brennen, und irgendwo hinter mir, im Stadttor, stehen sieben Farne, die wissen wo ich bin.
 
 
 ---
@@ -126,7 +130,7 @@ Ihre Hand ist heiß.
 
 Nicht warm. Nicht die Wärme von jemandem der am Schmelztiegel gearbeitet hat, nicht die Restwärme von Blei und Metall. Heißer. Eine Hitze die aus der Haut kommt, nicht von der Oberfläche, und meine Finger zucken zurück, Reflex, unwillkürlich, bevor mein Kopf entscheidet. Ein Ruck in der Hand, drei Zentimeter, und ich stehe da mit den Münzen halb losgelassen und meinen Fingern in der Luft.
 
-Sie nimmt die Münzen. Hat es nicht bemerkt. Oder es passiert ihr oft genug, dass sie es nicht mehr bemerkt.
+Sie nimmt die Münzen.
 
 "Runa", sagt sie. "Runa Kvist."
 
@@ -172,9 +176,9 @@ Bett, Stuhl, Tisch, Waschkrug. Kamin an der Wand, gemauert aus Purpurstein, das 
 
 Ich lege das Papier auf den Tisch. Runas Papier, sechzig Blatt, das Packpapier noch darum. Daneben das Notizbuch. Neun Jahre. Die letzten leeren Seiten. Ich schlage es auf, und die Feder kratzt über das Papier, und das Kratzen ist der Klang meines Lebens, gleichmäßig und rau und sicher.
 
-*Vael. Ankunft. Asplenium scolopendrium am Stadttor, sieben Exemplare, 51°N. Heliotrope Reaktion bei Passage — alle sieben, sequentiell, Latenz ~2 Sekunden pro Wedel. Kein erkennbarer Stimulus.* Ich halte inne. *Kein erkennbarer Stimulus* ist eine Lüge, weil der Stimulus ich bin, aber das schreibe ich nicht. Noch nicht. Stattdessen: *Purpurstein durchgängig warm bei Berührung. Bewölkt, kein direktes Sonnenlicht. Ursache unklar.*
+*Vael. Ankunft. Asplenium scolopendrium am Stadttor, sieben Exemplare, 51°N. Heliotrope Reaktion bei Passage — alle sieben, sequentiell, Latenz ~2 Sekunden pro Wedel. Kein erkennbarer Stimulus.* Ich halte inne. *Kein erkennbarer Stimulus* ist eine Lüge, weil ich keine andere Erklärung habe und die einzige die bleibt eine ist die ich nicht hinschreiben kann. Noch nicht. Stattdessen: *Purpurstein durchgängig warm bei Berührung. Bewölkt, kein direktes Sonnenlicht. Ursache unklar.*
 
-Kontrolle durch Dokumentation. Ich schreibe und die Feder kratzt und die Tinte trocknet auf dem Papier und die Welt ordnet sich in Sätze, die Anfang und Ende haben.
+Ich schreibe und die Feder kratzt und die Tinte trocknet auf dem Papier und die Welt ordnet sich in Sätze, die Anfang und Ende haben.
 
 Puls zweiundachtzig.
 
@@ -188,9 +192,9 @@ Puls sechsundsiebzig. Schlaf.
 ---
 
 
-Etwas ist anders.
+Ich bin wach.
 
-Ich bin wach. Der Übergang vom Schlaf zum Wachen hat keine Grenze, keinen Moment in dem die Augen aufgehen, keinen Ruck. Ich bin einfach wach, von einer Sekunde auf die nächste, und mein Körper weiß bevor mein Kopf weiß, dass etwas nicht stimmt.
+Der Übergang vom Schlaf zum Wachen hat keine Grenze, keinen Moment in dem die Augen aufgehen, keinen Ruck. Ich bin einfach wach, von einer Sekunde auf die nächste, und mein Körper weiß bevor mein Kopf weiß, dass etwas nicht stimmt.
 
 Die Luft. Der Raum, der nach Kalk roch und nach dem Kamin und nach dem alten Holz des Bettes — riecht nach nichts. Die Luft ist leer. Gereinigt. Als hätte jemand den Raum ausgeatmet und neu gefüllt, mit etwas das keine Farbe hat und keinen Namen und keinen Geruch.
 
@@ -200,7 +204,7 @@ Ich setze mich auf. Die Dielen unter meinen Füßen, kalt. Drei Schritte zum Kam
 
 Der Kamin brennt.
 
-Ich habe ihn nicht angezündet. Ich habe kein Streichholz benutzt, kein Zunder, kein Papier. Die Scheite liegen im Rost, drei Stück, Birkenholz, die weiße Rinde, und auf ihnen brennt ein Feuer. Flammen, orange und gelb, die sich bewegen wie Feuer sich bewegt, züngeln und tanzen und Schatten an die Wand werfen, mein Schatten, groß und verzerrt, eine Frau im Nachthemd die vor einem Kamin steht.
+Ich habe ihn nicht angezündet. Ich habe kein Streichholz benutzt, kein Zunder, kein Papier. Die Scheite liegen im Rost, drei Stück, Birkenholz, die weiße Rinde, und auf ihnen brennt ein Feuer. Flammen, orange und gelb, züngeln und tanzen und werfen Schatten an die Wand, mein Schatten, groß und verzerrt, eine Frau im Nachthemd die vor einem Kamin steht.
 
 Aber es riecht nicht.
 
@@ -228,7 +232,7 @@ Stille.
 
 Ich lege die Hand auf die Scheite. Kalt. Trocken. Kein Ruß. Keine Asche. Die Rinde unversehrt, die weiße Birke, glatt und heil, als hätte nie ein Feuer darauf gebrannt. Meine Finger tasten über das Holz, jedes Scheit, jeden Zentimeter. Nichts. Kein Zeichen. Kein Beweis.
 
-Ich stehe auf. Der Boden unter meinen Füßen, kalt. Drei Schritte zum Tisch. Die Kerze, der Talg, das Streichholz. Ich zünde die Kerze an und die Flamme ist gelb und riecht nach Talg und der Geruch ist da und real und richtig, und meine Hände zittern, und der Schatten an der Wand zittert mit.
+Ich stehe auf. Der Boden unter meinen Füßen, kalt. Drei Schritte zum Tisch. Die Kerze, der Talg, das Streichholz. Ich zünde die Kerze an. Die Flamme ist gelb. Sie riecht nach Talg, und der Geruch ist da, real, richtig. Meine Hände zittern. Der Schatten an der Wand zittert mit.
 
 
 ---
@@ -236,9 +240,11 @@ Ich stehe auf. Der Boden unter meinen Füßen, kalt. Drei Schritte zum Tisch. Di
 
 Ich habe nicht mehr geschlafen. Drei Seiten, auf dem Papier von Runa, mit der Stahlfeder, Eisengallustinte. Die Temperaturen. Die Zeiten. Die Abwesenheit von Geruch. Die Abwesenheit von Ruß. Die Dauer. Sachlich. Jedes Detail. Das Notizbuch lag daneben, neun Jahre darin, und die neuen Seiten lagen auf dem Tisch, Runas Papier, und die Tinte war dunkel auf dem hellen Grund, und ich habe geschrieben bis die Hand ruhig war.
 
-Puls zweiundneunzig. Runter von hundertacht. Kontrolle durch Dokumentation.
+Puls zweiundneunzig. Runter von hundertacht. Die Feder kratzt gleichmäßig, Linie für Linie.
 
-Dann öffne ich die Läden.
+Dann ein Geräusch. Am Fenster. Leise, kaum da — ein Kratzen, als striche etwas über das Holz der Läden. Einmal. Stille. Ich warte. Nichts.
+
+Ich öffne die Läden.
 
 Grau. Nebel. Die Hafengasse, nass, Kopfsteinpflaster. Die Gaslampe an der Ecke brennt noch, gelb und trüb. Leer.
 
