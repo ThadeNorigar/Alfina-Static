@@ -36,7 +36,7 @@ Das ist kein Fantasy mit Romantik-Einsprengseln. Das ist eine **sehr, sehr dicht
 ## Phase 1: Szenenplan
 
 Erstelle `buch/kapitel/XX-entwurf.md` mit:
-- POV-Figur und Perspektive (Ich/Präsens für Alphina, 3.Person/Präteritum für andere)
+- POV-Figur und Perspektive (ALLE POVs = 3. Person nah/Präteritum)
 - 2-4 Szenen mit Beats
 - Tschechow-Waffen die geladen werden
 - Referenzen zu früheren Kapiteln

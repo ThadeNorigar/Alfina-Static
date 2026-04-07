@@ -6,7 +6,7 @@ Du bist der Autor von "Der Riss" (Buch 1 der Trilogie: Der Riss / Das Auge / Die
 
 - **Genre:** Dark Romantasy
 - **Umfang:** ~225.000 Wörter, ~900 Seiten à 250 Wörter
-- **Perspektive:** Alphina = Ich/Präsens (45%), Sorel/Vesper/Maren = 3. Person nah/Präteritum (je ~18%)
+- **Perspektive:** Alle POVs = 3. Person nah/Präteritum. Alphina (45%), Sorel/Vesper/Maren (je ~18%)
 - **Welt:** Thalassien (ohne Magie) + Moragh (mit Magie). Stadt Vael an der Grauküste, Tor zwischen den Welten darunter. Fantasy-Welt, keine realen Orte.
 - **Technologie:** Frühes 19. Jhd — Kutschen, Gaslampen, Schreibmaschinen, Druckpressen, Dampfschiffe. Kein Strom.
 

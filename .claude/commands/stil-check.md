@@ -17,7 +17,7 @@ Lies parallel:
 4. Das VORHERIGE Kapitel (für Stil-Konsistenz)
 
 Bestimme:
-- **POV-Figur** und **Perspektive** (Ich/Präsens vs 3. Person/Präteritum)
+- **POV-Figur** und **Perspektive** (ALLE POVs = 3. Person nah/Präteritum)
 - **Figurenstimme** aus `buch/02-stilregeln-v2.md` Figurenstimmen-Tabelle laden:
   - Max Satzlänge (Alphina ~40W, Sorel ~50W, Vesper ~20W, Maren ~35W)
   - Leitmotiv (Puls, Hände, Turm/Finger, ?)

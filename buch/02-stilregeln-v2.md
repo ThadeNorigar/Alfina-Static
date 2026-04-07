@@ -43,7 +43,7 @@
 
 | Figur | Perspektive | Max Satzlänge | Leitmotiv | Rhythmus |
 |-------|------------|---------------|-----------|----------|
-| Alphina | Ich/Präsens | ~40W, bricht unter Druck zu Fragmenten | Puls (Zahl, steigt) | Kontrolle + Risse. Fragmentsätze NUR wenn die Mauer bricht. |
+| Alphina | 3.P/Prät | ~40W, bricht unter Druck zu Fragmenten | Puls (Zahl, steigt) | Kontrolle + Risse. Fragmentsätze NUR wenn die Mauer bricht. Engste 3. Person — der Narrator klebt an ihr, sieht nur was sie sieht, denkt nur was sie denkt. |
 | Sorel | 3.P/Prät | ~50W, lange Sätze erlaubt | Hände (bewahren, arbeiten, halten) | Stille + Beobachtung. Bandwürmer OK, kurze Sätze als Gegenpol. |
 | Vesper | 3.P/Prät | ~30W, Ausnahmen bis ~40W | Turm/Finger (kalkulieren, drehen, stillliegen) | Logisch-präzise. Wenn-Dann-Denken in vollständigen Sätzen. Fragmentsätze NUR bei Schock oder Inventur. |
 | Maren | 3.P/Prät | ~35W, fließend | Noch offen (Wasser? Hände am Holz?) | Warm + Bewegung. Fließt wie Wasser, bleibt nie stehen. |

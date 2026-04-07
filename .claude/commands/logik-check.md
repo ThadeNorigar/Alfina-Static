@@ -18,7 +18,7 @@ Lies parallel:
 
 Bestimme:
 - **POV-Figur** des Kapitels (aus dem Titel oder ersten Absätzen)
-- **Perspektive** (Alphina = Ich/Präsens, andere = 3. Person nah/Präteritum)
+- **Perspektive** (ALLE POVs = 3. Person nah/Präteritum)
 - **Wissensstand** der Figur zu Beginn des Kapitels (was weiß sie aus vorherigen Kapiteln?)
 
 ## Phase 1: Wissens-Audit (der Hauptcheck)
@@ -39,7 +39,7 @@ Gehe JEDEN Absatz durch. Für jeden Absatz frage:
 
 **3. Erzählt der Narrator mehr als die Figur weiß?**
 - 3. Person nah = der Narrator weiß NUR was die Figur weiß
-- Ich-Perspektive = noch strenger, NUR Alphinas Wahrnehmung
+- Alphina = engste 3. Person nah, NUR ihre Wahrnehmung
 - Keine auktorialen Einschübe. Kein "Sie wusste nicht dass..."
 - Der Narrator darf NICHT vorgreifen: keine Info die erst später im Kapitel etabliert wird
 - **Premature Doubt:** Die Figur darf NICHT zweifeln oder hinterfragen bevor das auslösende Ereignis stattfindet. Wenn Sorel erst in Szene 3 sein Gesicht auf dem Schemen sieht, darf er in Szene 1 nicht fragen ob die Platte "wirklich sein Gesicht" zeigt.
