@@ -8,9 +8,9 @@ Argument: Pfad zur Datei (z.B. `buch/kapitel/02-szene1.md`)
 
 ## Reviewer
 
-1. **Romantasy-Leserin** — Sog, Emotion, Einsamkeit, Tension, will ich weiterlesen?
-2. **Strukturanalyst** — Pacing, Tschechow, Logikfehler, Konsistenz mit früheren Kapiteln
-3. **Stilkritiker** — King-Dichte, Stilverbote (buch/02-stilregeln-v2.md), Sinne, Rhythmus
+1. **Romantasy-Leserin** — Sog, Emotion, Einsamkeit, Tension, will ich weiterlesen? Prüft gegen SenLinYu (emotionales Withholding, verdiente Gut-Punches) und Douglas/Robert (BDSM als Charakter-Enthüllung, nicht als Set-Piece).
+2. **Strukturanalyst** — Pacing, Tschechow, Logikfehler, Konsistenz mit früheren Kapiteln. Prüft Cross-POV-Doppelungen und Premature Doubt.
+3. **Stilkritiker** — Prüft gegen das Medley: King-Dichte (mundane Details die feuern), Simone-Kadenz (fremde Register für Innensicht), Bardugo-Differenzierung (POV-Signatur-Syntax), Black-Verfremdung (unerwartete Verben). Leitfrage: "Würde ein King, ein Rothfuss, eine Simone diesen Absatz so stehen lassen?" Stilverbote aus `buch/02-stilregeln-v2.md`.
 
 ## Ablauf
 
@@ -22,7 +22,8 @@ Argument: Pfad zur Datei (z.B. `buch/kapitel/02-szene1.md`)
 
 ## Prüf-Schwerpunkte
 
-- **Erzähldichte:** King-Niveau? Sinne aktiv? Details spezifisch?
+- **Erzähldichte:** King-Niveau? Sinne aktiv? Details spezifisch? Mundane Verankerung vor dem Übernatürlichen?
+- **Medley-Check:** Emotionale Zurückhaltung (SenLinYu)? BDSM als Charakterarbeit (Douglas/Robert)? POV-Signatur lesbar (Bardugo)? Verfremdete Verben in Moragh (Black)?
 - **Logik:** Tageszeit, Wetter, Ort, Figurenwissen, Technologie, Puls-Konsistenz
 - **Stil:** Max 2x "nicht X — Y", Max 4x "wie"-Vergleiche, keine benannten Emotionen
 - **Tschechow:** Waffen geladen? Unsichtbar genug? Zu viele?
