@@ -46,6 +46,23 @@
 
 **Die Satzlänge ist MESSBAR.** Der /stil-check prüft das. Überschreitungen werden geflaggt.
 
+## Dialoge
+
+**Ganze Sätze. Immer.** Auch wortkarge Figuren sprechen in vollständigen Sätzen. Kein Mensch sagt "Zimmer?" — er sagt "Ich brauche ein Zimmer." Kein Mensch sagt "Bier" — er sagt "Ein Bier, bitte."
+
+### Regeln
+
+- **Keine Einwort-Dialoge.** Jede Replik hat Subjekt und Verb, oder ist eine erkennbare Ellipse in einer laufenden Konversation ("Aus Karst" als Antwort auf "Woher kommen Sie?" ist OK).
+- **Natürlicher Sprachfluss.** Menschen reden nicht in Telegrammstil. Auch knappe Menschen benutzen Höflichkeitsformeln, Füllwörter, Übergänge.
+- **Wortkarg ≠ einsilbig.** Vesper redet wenig, aber wenn er redet, redet er präzise und vollständig. Er sagt "Ich bin Uhrmacher, aus Karst" — nicht "Uhrmacher. Karst."
+- **Drehbuch-Dialoge vermeiden.** Stakkato-Pingpong ("Wo?" / "Dort." / "Wann?" / "Jetzt.") ist Drehbuch, nicht Prosa.
+
+### Der /stil-check prüft:
+
+- Repliken unter 3 Wörtern (außer in laufender Konversation)
+- Mehr als 3 Einwort-Antworten pro Kapitel
+- Fehlende Höflichkeitsformeln bei Erstbegegnungen
+
 ## Szenenführung
 
 - Keine unerklärlichen Szenenwechsel. Beim Thema bleiben, den Leser mitnehmen.

@@ -1,10 +1,10 @@
 # Kapitel 7 — Vesper
 
-Die Theke war abgewetzt und der Mann dahinter sah aus, als gehöre er dazu — breit, grau, ein Gesicht das keine Fragen stellte und keine Antworten erwartete. Vesper stellte den Koffer ab. Vier Tage Staub auf dem Leder, vier Tage Schweiß in den Nähten. Seine Schultern schmerzten. Sein rechtes Knie war steif von der letzten Kutsche, der schmalen, die von der Küstenstation in die Stadt fuhr, über Pflaster das härter war als alles in den Innenlanden.
+Die Theke war abgewetzt und der Mann dahinter sah aus, als gehöre er dazu — breit, grau, ein Gesicht ohne Neugier. Vesper stellte den Koffer ab. Vier Tage Staub auf dem Leder, vier Tage Schweiß in den Nähten. Seine Schultern schmerzten. Sein rechtes Knie war steif von der letzten Kutsche, der schmalen, die von der Küstenstation in die Stadt fuhr, über Pflaster das härter war als alles in den Innenlanden.
 
-"Zimmer?"
+"Ich brauche ein Zimmer."
 
-"Zweiter Stock. Linke Tür." Der Wirt griff unter die Theke. Ein Schlüssel, Messing, angelaufen. Schob ihn über das Holz. "Wochenpreis. Im Voraus."
+"Zweiter Stock, linke Tür." Der Wirt griff unter die Theke. Ein Schlüssel, Messing, angelaufen. Schob ihn über das Holz. "Wochenpreis. Im Voraus."
 
 Vesper legte die Münzen auf den Tresen. Der Wirt zählte sie, strich sie ein, sagte nichts. Seine Hände waren langsam und sicher, die Hände eines Mannes der seit Jahrzehnten dieselben Handgriffe machte. Vesper kannte solche Hände. Es waren die Hände die er respektierte — Hände die ihr Werkzeug kannten.
 
@@ -30,7 +30,7 @@ Er ging zurück nach unten.
 
 Im Schankraum brannte ein Kaminfeuer, niedrig, das Holz knackte. Zwei Männer an einem Tisch, Biergläser, leises Gespräch. An einem Tisch am Fenster saß eine Frau, allein. Dunkles Haar, aufrechte Haltung, ein Notizbuch aufgeschlagen vor ihr auf dem Tisch. Sie schaute auf, als er die Treppe herunterkam. Kurz. Dann zurück auf das Buch. Vesper ging zur Theke.
 
-"Bier", sagte er. Der Wirt stellte ein Glas auf das Holz, dunkel, ohne Schaum. Vesper trank. Malz und Rauch. In Karst schmeckte Bier nach Kupfer. Hier schmeckte es nach etwas das er nicht benennen konnte, süßlich, dicht — derselbe Geruch der in der Luft lag, seit er die Küste erreicht hatte.
+"Ein Bier, bitte." Der Wirt stellte ein Glas auf das Holz, dunkel, ohne Schaum. Vesper trank. Malz und Rauch. In Karst schmeckte Bier nach Kupfer. Hier schmeckte es nach etwas das er nicht benennen konnte, süßlich, dicht — derselbe Geruch der in der Luft lag, seit er die Küste erreicht hatte.
 
 Einer der Männer am Nebentisch drehte sich zu ihm. Grau, Bart, Schürze — ein Handwerker, nach Feierabend.
 
@@ -38,17 +38,13 @@ Einer der Männer am Nebentisch drehte sich zu ihm. Grau, Bart, Schürze — ein
 
 Vesper nickte.
 
-"Sieht man." Der Mann grinste. "Der Staub. Woher?"
+"Sieht man." Der Mann grinste. "Der Staub. Woher kommen Sie?"
 
-"Karst."
+"Aus Karst."
 
 "Karst." Der Mann pfiff leise durch die Zähne. "Das sind vier Tage. Fünf bei schlechtem Wetter." Er trank. "Was verschlägt einen aus den Innenlanden an die Grauküste?"
 
-"Eine Uhr."
-
-Der Mann schaute ihn an. Wartete. Vesper trank.
-
-"Ich bin Uhrmacher", sagte er. "Es gibt hier eine Standuhr die 4:33 pro Tag verliert. Bei perfektem Werk."
+"Eine Uhr." Der Mann schaute ihn an und wartete, und Vesper trank einen Schluck bevor er weitersprach. "Ich bin Uhrmacher. Es gibt hier eine Standuhr die 4:33 pro Tag verliert. Bei perfektem Werk."
 
 "Die Tidemoor-Uhr." Der Mann nickte langsam. "Mein Schwiegervater hat die auch angeschaut. Vor zehn Jahren. Ist Schreiner, nicht Uhrmacher, aber er hat gesagt, das Gehäuse ist einwandfrei und das Werk sei es auch. Hat sich nicht erklären können warum die falsch geht." Er trank. "Geht schon immer falsch. Seit ich denken kann."
 
@@ -62,7 +58,7 @@ Vesper stellte sein Glas ab. Der Turm drehte sich in seiner Tasche. "Seit immer?
 
 Vesper trank sein Bier aus. Stellte das Glas auf die Theke. In seinem Kopf lief die Zahl, 273, und neben ihr jetzt eine zweite Information: die Uhr war älter als das Haus. Älter als die Familie die darin wohnte. Kein Erbauer bekannt. Kein Name. Als hätte jemand sie dort hingestellt und vergessen, oder absichtlich zurückgelassen.
 
-"Danke", sagte er. Legte eine Münze auf den Tresen.
+"Danke für die Auskunft", sagte er und legte eine Münze auf den Tresen.
 
 "Viel Glück", sagte der Mann. "Die Uhr ist hartnäckig."
 
@@ -70,7 +66,7 @@ Vesper ging zur Tür. Im Vorbeigehen streifte sein Blick die Frau am Fenster. Si
 
 Der Turm drehte sich schneller. 273. Die Zahl die nicht aufhörte.
 
-Am Ufer, hinter einer niedrigen Mauer, stand ein Haus. Zwei Stockwerke, die Fenster dunkel. Ein Garten davor, der die Kontrolle verloren hatte — Hecken die in den Weg wuchsen, Moos auf den Stufen. Das Haus war nicht verfallen. Es war müde.
+Am Ufer, hinter einer niedrigen Mauer, stand ein Haus. Zwei Stockwerke, die Fenster dunkel. Ein Garten davor — Hecken die in den Weg wuchsen, Moos auf den Stufen, ein Rosenstrauch der bis zum Fenstersims reichte. Das Haus war nicht verfallen. Es war müde.
 
 Das Tidemoor-Haus.
 
@@ -138,9 +134,9 @@ Um halb sechs kam der Hausherr. Groß, schmal, grau an den Schläfen, ein Mann d
 
 "Aus Karst. Ich habe von Ihrer Standuhr gehört."
 
-"Von wem?"
+"Von wem haben Sie davon gehört?"
 
-"Einem reisenden Uhrmacher. Im Gasthaus. Er sagte, sie verliert 4:33 pro Tag."
+"Von einem reisenden Uhrmacher, in einem Gasthaus in Karst. Er sagte, sie verliert 4:33 pro Tag."
 
 Der Hausherr verzog den Mund, und seine Schultern sanken einen Zentimeter, die Mundwinkel blieben unten — ein Mann der ein Problem hat das nicht verschwindet.
 
@@ -188,7 +184,7 @@ Die Magd stand an der Tür. Er hatte sie nicht kommen hören.
 
 "Ich frage Herrn Tidemoor." Sie zögerte. "Soll ich Ihnen einen Schlüssel geben? Die Herrschaften gehen früh zu Bett."
 
-"Wenn das möglich ist."
+"Das wäre mir sehr recht."
 
 Sie ging und kam zurück. Ein Schlüssel, Messing, schwer, älter als das Schloss in das er passte. Ihre Finger berührten seine Handfläche, als sie ihn übergab, kurz und warm.
 
@@ -196,7 +192,7 @@ Sie ging und kam zurück. Ein Schlüssel, Messing, schwer, älter als das Schlos
 
 Vesper nahm den Schlüssel. Steckte ihn in die Tasche, neben den Turm. Messing neben Holz, warm neben kalt — zwei Gegenstände nebeneinander, und der Unterschied zwischen ihnen war alles was er nicht erklären konnte.
 
-"Danke", sagte er. Ging. Durch den Flur, an den Stichen und dem Porträt vorbei, durch die Haustür, in den Nebel.
+"Ich danke Ihnen", sagte er und ging durch den Flur, an den Stichen und dem Porträt vorbei, durch die Haustür, in den Nebel.
 
 Auf dem Rückweg am Fluss entlang, im Dunkel, die Gaslampen ferne Punkte im Dunst, zog sein Verstand die Hypothesen auseinander. Körperwärme: das Werk war geschlossen, die Hand lag auf dem Gehäuse, nicht auf dem Pendel. Temperatureffekte auf Messing betrugen Bruchteile von Sekunden pro Tag, nicht 273. Statische Aufladung: möglich bei trockenem Klima, aber Vael war das Gegenteil von trocken, die Luft triefte, kein vernünftiger Elektrostatik-Effekt. Vibration durch den Puls: das Pendel hing an einer eigenen Achse, mechanisch entkoppelt vom Gehäuse, sein Puls konnte das Pendel nicht beeinflussen, nicht über das Gehäuse, nicht über den Stuhl, nicht über den Boden.
 
