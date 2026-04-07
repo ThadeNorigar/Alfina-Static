@@ -2,11 +2,6 @@
 # Was dahinter liegt, geht euch nichts an.
 
 User-agent: *
-Disallow: /buch/
-Disallow: /lesen/
-Disallow: /story/
-Disallow: /story-in-work/
-Disallow: /status/
-Disallow: /szenen/
+Disallow: /
 
 # Ihr seid keine Schemen. Ihr duerft nicht durch.
