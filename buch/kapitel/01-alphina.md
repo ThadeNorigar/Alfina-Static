@@ -1,56 +1,56 @@
 # Kapitel 1 — Alphina
 
-Die Pflanzen sind still.
+Die Pflanzen waren still.
 
-Das ist das Erste was ich bemerke, heute Nacht, um zwölf Minuten nach drei, barfuß auf dem Dielenboden meiner Wohnung im vierten Stock eines Giebelhauses in Velde, das älter ist als alles woran ich glaube. Die Dielen sind kalt unter meinen Fußsohlen, rau, das Holz verzogen von Jahrhunderten Feuchtigkeit, und an einer Stelle, zwischen Fenster und Bücherregal, knarrt das Holz wenn ich drauftrete, ein leises, vertrautes Ächzen, das mir sagt wo ich bin, auch im Dunkeln, auch wenn ich es nicht sehen kann. Ich kenne diese Wohnung mit den Füßen. Ich kenne die Delle vor dem Herd, wo das Holz weicher ist, als hätte jemand jahrelang am gleichen Fleck gestanden und gerührt. Die Schwelle zum Badezimmer, die einen Millimeter höher steht als der Rest und an der ich mir im ersten Jahr den kleinen Zeh gestoßen habe, dreimal, bis meine Füße es gelernt haben. Den kalten Fleck vor der Haustür, wo der Putz der Außenmauer die Kälte durchlässt und der Boden sich anfühlt wie Stein.
+Das war das Erste was sie bemerkte, in dieser Nacht, um zwölf Minuten nach drei, barfuß auf dem Dielenboden ihrer Wohnung im vierten Stock eines Giebelhauses in Velde, das älter war als alles woran sie glaubte. Die Dielen waren kalt unter ihren Fußsohlen, rau, das Holz verzogen von Jahrhunderten Feuchtigkeit, und an einer Stelle, zwischen Fenster und Bücherregal, knarrte das Holz wenn sie drauftrat, ein leises, vertrautes Ächzen, das ihr sagte wo sie war, auch im Dunkeln, auch wenn sie es nicht sehen konnte. Sie kannte diese Wohnung mit den Füßen. Sie kannte die Delle vor dem Herd, wo das Holz weicher war, als hätte jemand jahrelang am gleichen Fleck gestanden und gerührt. Die Schwelle zum Badezimmer, die einen Millimeter höher stand als der Rest und an der sie sich im ersten Jahr den kleinen Zeh gestoßen hatte, dreimal, bis ihre Füße es gelernt hatten. Den kalten Fleck vor der Haustür, wo der Putz der Außenmauer die Kälte durchließ und der Boden sich anfühlte wie Stein.
 
-Aber heute Nacht ist es nicht der Boden, der mich wach hält.
+Aber in dieser Nacht war es nicht der Boden, der sie wach hielt.
 
-Die Pflanzen sind still. Für andere Menschen sind Pflanzen immer still. Für mich gibt es eine Stille und eine Stille. Nachts, normalerweise, rascheln sie. Ein Geräusch am Rand der Wahrnehmung, dort wo Hören aufhört und Spüren anfängt. Die Farne am Fenster, die Monstera neben dem Bücherregal, die Sukkulenten auf dem Fensterbrett der Küche, die kein Wasser brauchen und trotzdem wachsen, schneller als sie sollten, üppiger als jeder Topf erlaubt. Nachts rascheln sie. Regelmäßig. Warm. Ich habe Jahre gebraucht um es zu hören, und weitere Jahre um aufzuhören, es für Zugluft zu halten. Es ist keine Zugluft. Ich weiß nicht was es ist. Aber es gehört zu meinen Nächten wie das Ticken einer Uhr zu den Nächten anderer Menschen, und wenn es fehlt, fehlt etwas.
+Die Pflanzen waren still. Für andere Menschen waren Pflanzen immer still. Für sie gab es eine Stille und eine Stille. Nachts, normalerweise, raschelten sie. Ein Geräusch am Rand der Wahrnehmung, dort wo Hören aufhörte und Spüren anfing. Die Farne am Fenster, die Monstera neben dem Bücherregal, die Sukkulenten auf dem Fensterbrett der Küche, die kein Wasser brauchten und trotzdem wuchsen, schneller als sie sollten, üppiger als jeder Topf erlaubte. Nachts raschelten sie. Regelmäßig. Warm. Sie hatte Jahre gebraucht um es zu hören, und weitere Jahre um aufzuhören, es für Zugluft zu halten. Es war keine Zugluft. Sie wusste nicht was es war. Aber es gehörte zu ihren Nächten wie das Ticken einer Uhr zu den Nächten anderer Menschen, und wenn es fehlte, fehlte etwas.
 
-Heute Nacht fehlt es.
+In dieser Nacht fehlte es.
 
-Neunundvierzig Pflanzen. Ich habe sie gezählt. Neunundvierzig, und jede einzelne hält den Atem an.
+Neunundvierzig Pflanzen. Sie hatte sie gezählt. Neunundvierzig, und jede einzelne hielt den Atem an.
 
-Ich stehe am Fenster und lege die Stirn gegen das Glas. Es ist kalt, beschlagen von meinem Atem, und die Kälte tut gut, ein Punkt der Klarheit in einer Nacht die keinen Rand hat. Vier Stockwerke unter mir schieben sich die Kanäle von Velde durch die Dunkelheit, schwarz und langsam, das Wasser so dunkel, dass die Gaslampen am Ufer nur Flecken darauf werfen, gelb und zitternd, die sich dehnen und zusammenziehen im Rhythmus einer Strömung, die man nicht sieht. Velde hat sechsundvierzig Kanäle, und jeder hat einen Namen und eine Geschichte und eine Tiefe, die niemand genau kennt, weil die Kanäle älter sind als die Vermessung und tiefer als die Stangen der Kahnschiffer. Manchmal, im Herbst, wenn das Wasser sinkt, sieht man Dinge auf dem Grund — Flaschen, Fahrgestelle von Kutschen, einmal den Sockel einer Statue, von der niemand weiß woher sie kam oder wen sie darstellte. Velde schluckt Dinge. Und gibt sie nur zurück, wenn das Wasser will.
+Sie stand am Fenster und legte die Stirn gegen das Glas. Es war kalt, beschlagen von ihrem Atem, und die Kälte tat gut, ein Punkt der Klarheit in einer Nacht die keinen Rand hatte. Vier Stockwerke unter ihr schoben sich die Kanäle von Velde durch die Dunkelheit, schwarz und langsam, das Wasser so dunkel, dass die Gaslampen am Ufer nur Flecken darauf warfen, gelb und zitternd, die sich dehnten und zusammenzogen im Rhythmus einer Strömung, die man nicht sah. Velde hatte sechsundvierzig Kanäle, und jeder hatte einen Namen und eine Geschichte und eine Tiefe, die niemand genau kannte, weil die Kanäle älter waren als die Vermessung und tiefer als die Stangen der Kahnschiffer. Manchmal, im Herbst, wenn das Wasser sank, sah man Dinge auf dem Grund — Flaschen, Fahrgestelle von Kutschen, einmal den Sockel einer Statue, von der niemand wusste woher sie kam oder wen sie darstellte. Velde schluckte Dinge. Und gab sie nur zurück, wenn das Wasser wollte.
 
-Auf der anderen Seite des Kanals steht das alte Druckereigebäude, drei Stockwerke, die Fenster dunkel, und auf dem Dach eine Wetterfahne in Form einer Hand mit ausgestrecktem Zeigefinger, die immer nach Norden zeigt, egal woher der Wind kommt. Das hat mir die Concierge erzählt, als ich eingezogen bin, und ich habe gelacht, und sie hat gesagt: "Ich lache nicht, Madame." Ich bin nie hochgegangen um es zu prüfen. Manche Dinge in Velde prüft man nicht. Man lebt mit ihnen, und irgendwann gehören sie zum Inventar, und man vergisst, dass sie seltsam sind, und man vergisst, dass man vergessen hat.
+Auf der anderen Seite des Kanals stand das alte Druckereigebäude, drei Stockwerke, die Fenster dunkel, und auf dem Dach eine Wetterfahne in Form einer Hand mit ausgestrecktem Zeigefinger, die immer nach Norden zeigte, egal woher der Wind kam. Das hatte ihr die Concierge erzählt, als sie eingezogen war, und sie hatte gelacht, und die Concierge hatte gesagt: "Ich lache nicht, Madame." Sie war nie hochgegangen um es zu prüfen. Manche Dinge in Velde prüfte man nicht. Man lebte mit ihnen, und irgendwann gehörten sie zum Inventar, und man vergaß, dass sie seltsam waren, und man vergaß, dass man vergessen hatte.
 
-Der Geruch. Schlick vom Kanalgrund, der aufsteigt wenn die Gezeiten wechseln, ein schwerer, nasser Geruch wie umgegrabener Garten, aber dunkler, älter, ein Geruch der sagt: hier liegt etwas begraben, schon lang. Nasser Stein, dreihundert Jahre Regen auf Mauerwerk, und der Stein riecht nicht nach Regen sondern nach dem was der Regen aus dem Stein löst, Salz und Kalk und etwas Metallisches, das auf der Zunge liegt wenn man durch den Mund atmet. Und darunter der Ammoniak aus der Gerberei am Südkanal, scharf genug um die Augen zu reizen wenn der Wind falsch steht, der Geruch von Häuten die eingeweicht werden und von Chemie die das tut was die Natur nicht tut — Dinge haltbar machen, die vergehen wollen.
+Der Geruch. Schlick vom Kanalgrund, der aufstieg wenn die Gezeiten wechselten, ein schwerer, nasser Geruch wie umgegrabener Garten, aber dunkler, älter, ein Geruch der sagte: hier liegt etwas begraben, schon lang. Nasser Stein, dreihundert Jahre Regen auf Mauerwerk, und der Stein roch nicht nach Regen sondern nach dem was der Regen aus dem Stein löste, Salz und Kalk und etwas Metallisches, das auf der Zunge lag wenn man durch den Mund atmete. Und darunter der Ammoniak aus der Gerberei am Südkanal, scharf genug um die Augen zu reizen wenn der Wind falsch stand, der Geruch von Häuten die eingeweicht wurden und von Chemie die das tat was die Natur nicht tat — Dinge haltbar machen, die vergehen wollten.
 
-So riecht Velde. So riecht die Stadt in der ich lebe, seit elf Jahren, in einer Wohnung im vierten Stock, mit neunundvierzig Pflanzen die heute Nacht den Atem anhalten.
+So roch Velde. So roch die Stadt in der sie lebte, seit elf Jahren, in einer Wohnung im vierten Stock, mit neunundvierzig Pflanzen die in dieser Nacht den Atem anhielten.
 
-Mein Puls ist bei vierundachtzig. Erhöht für drei Uhr morgens.
+Ihr Herz schlug zu schnell. Nicht viel, aber spürbar, dort unter dem Schlüsselbein, wo sie es immer zuerst merkte. Erhöht für drei Uhr morgens.
 
-Ich löse mich vom Fenster. Der Abdruck meiner Stirn bleibt im Beschlag, ein blasser Kreis, der kleiner wird und verschwindet. In der Wohnung ist es dunkel bis auf das Mondlicht, das durch die Fenster fällt und die Pflanzen in Schemen verwandelt — die Farne, deren Wedel im Mondlicht Schatten werfen, die sich nicht bewegen. Die Orchidee auf dem Regal, drei violette Blüten, so still, dass sie aussehen wie Wachs. Die Monstera neben dem Bücherregal, deren Blätter so groß sind, dass sie die Buchrücken verdecken. Das Bücherregal selbst — Kiefernholz, drei Meter hoch, vollgestopft mit Fachbüchern, Herbariumsmappen, und einem einzigen Roman, den ich nie gelesen habe, der dort steht weil Laris ihn dagelassen hat und weil ich ihn nicht wegwerfen kann und nicht lesen will, und so steht er da, zwischen "Systematik der Gefäßpflanzen" und "Moose Mitteleuropas", und sein Rücken ist dunkelrot und sein Titel ist "Die Gezeiten von Irra" und ich kenne den Titel weil ich ihn jeden Tag sehe und nie aufschlage.
+Sie löste sich vom Fenster. Der Abdruck ihrer Stirn blieb im Beschlag, ein blasser Kreis, der kleiner wurde und verschwand. In der Wohnung war es dunkel bis auf das Mondlicht, das durch die Fenster fiel und die Pflanzen in Schemen verwandelte — die Farne, deren Wedel im Mondlicht Schatten warfen, die sich nicht bewegten. Die Orchidee auf dem Regal, drei violette Blüten, so still, dass sie aussahen wie Wachs. Die Monstera neben dem Bücherregal, deren Blätter so groß waren, dass sie die Buchrücken verdeckten. Das Bücherregal selbst — Kiefernholz, drei Meter hoch, vollgestopft mit Fachbüchern, Herbariumsmappen, und einem einzigen Roman, den sie nie gelesen hatte, der dort stand weil Laris ihn dagelassen hatte und weil sie ihn nicht wegwerfen konnte und nicht lesen wollte, und so stand er da, zwischen "Systematik der Gefäßpflanzen" und "Moose Mitteleuropas", und sein Rücken war dunkelrot und sein Titel war "Die Gezeiten von Irra" und sie kannte den Titel weil sie ihn jeden Tag sah und nie aufschlug.
 
-Ich gehe zum Farn am Fenster. Asplenium nidus, Nestfarn, der größte in meiner Sammlung. Ich habe ihn vor sechs Jahren auf einem Markt gekauft, von einem Mann in einer fleckigen Schürze, der Gemüse verkaufte und den Farn daneben stehen hatte, zwischen Kartoffeln und Sellerie. Der Farn war halb tot. Braune Spitzen, schlaffe Wedel, die Erde trocken und rissig. Ich habe ihn gekauft, ohne zu handeln, und der Mann hat mich angesehen als wäre ich verrückt, und vielleicht hat er recht gehabt, weil ich den Farn nach Hause getragen habe, vier Stockwerke hoch, schwerer als man denkt, und die Erde rieselte auf die Treppe und die Concierge hat geschimpft, und ich habe ihn auf das Fensterbrett gestellt und die Erde gewässert und gewartet. Drei Wochen. Die ersten zwei hat er nichts getan, hat dagestanden wie ein Gegenstand, und dann, eines Morgens, ragten seine Wedel über den Topfrand, grün und voll, und ich habe mit der Hand über die Blattoberfläche gestrichen — glatt und kühl und gleichzeitig lebendig, pulsierend, ein ganz leichtes Vibrieren unter der Oberfläche.
+Sie ging zum Farn am Fenster. Asplenium nidus, Nestfarn, der größte in ihrer Sammlung. Sie hatte ihn vor sechs Jahren auf einem Markt gekauft, von einem Mann in einer fleckigen Schürze, der Gemüse verkaufte und den Farn daneben stehen hatte, zwischen Kartoffeln und Sellerie. Der Farn war halb tot. Braune Spitzen, schlaffe Wedel, die Erde trocken und rissig. Sie hatte ihn gekauft, ohne zu handeln, und der Mann hatte sie angesehen als wäre sie verrückt, und vielleicht hatte er recht gehabt, weil sie den Farn nach Hause getragen hatte, vier Stockwerke hoch, schwerer als man denkt, und die Erde rieselte auf die Treppe und die Concierge hatte geschimpft, und sie hatte ihn auf das Fensterbrett gestellt und die Erde gewässert und gewartet. Drei Wochen. Die ersten zwei hatte er nichts getan, hatte dagestanden wie ein Gegenstand, und dann, eines Morgens, ragten seine Wedel über den Topfrand, grün und voll, und sie hatte mit der Hand über die Blattoberfläche gestrichen — glatt und kühl und gleichzeitig lebendig, pulsierend, ein ganz leichtes Vibrieren unter der Oberfläche.
 
-Das war der Moment, in dem ich aufgehört habe, mir einzureden, dass Pflanzen nicht auf mich reagieren.
+Das war der Moment, in dem sie aufgehört hatte, sich einzureden, dass Pflanzen nicht auf sie reagierten.
 
-Ich lege meine Hand auf seine Erde. Die Erde unter meinen Fingern ist warm.
+Sie legte ihre Hand auf seine Erde. Die Erde unter ihren Fingern war warm.
 
-Warm wie Haut. Ich drücke die Finger tiefer, bis zum ersten Knöchel, und die Wärme umschließt sie, feucht und weich. Die Heizung ist aus. Das Fenster ist offen. Es ist März, und die Luft trägt die Kälte des Grauen Meeres, das dreihundert Kilometer nördlich liegt und dessen Atem man in Velde manchmal spürt, wenn der Wind aus Nordwest kommt. Heute Nacht kommt er aus Nordwest. Die Leute an der Grauküste nennen diesen Wind Vaeler Atem, hat mir einmal ein Kahnschiffer erzählt, ein alter Mann mit Händen wie Leder, der sagte, der Wind komme von einer Stadt am Meer, die auf etwas sitze, das nicht schlafen will. Ich habe gelacht. Er hat nicht gelacht.
+Warm wie Haut. Sie drückte die Finger tiefer, bis zum ersten Knöchel, und die Wärme umschloss sie, feucht und weich. Die Heizung war aus. Das Fenster war offen. Es war März, und die Luft trug die Kälte des Grauen Meeres, das dreihundert Kilometer nördlich lag und dessen Atem man in Velde manchmal spürte, wenn der Wind aus Nordwest kam. In dieser Nacht kam er aus Nordwest. Die Leute an der Grauküste nannten diesen Wind Vaeler Atem, hatte ihr einmal ein Kahnschiffer erzählt, ein alter Mann mit Händen wie Leder, der sagte, der Wind komme von einer Stadt am Meer, die auf etwas sitze, das nicht schlafen wolle. Sie hatte gelacht. Er hatte nicht gelacht.
 
-Es gibt keinen Grund, warum die Erde warm sein sollte.
+Es gab keinen Grund, warum die Erde warm sein sollte.
 
-Ich ziehe die Hand raus. Erde unter den Fingernägeln, feucht und dunkel. Ich rieche daran. Erde und etwas anderes, etwas Grünes, das tiefer geht als Chlorophyll, tiefer als Wurzeln, ein Geruch wie der Moment bevor ein Gewitter anfängt, nur ohne Gewitter.
+Sie zog die Hand raus. Erde unter den Fingernägeln, feucht und dunkel. Sie roch daran. Erde und etwas anderes, etwas Grünes, das tiefer ging als Chlorophyll, tiefer als Wurzeln, ein Geruch wie der Moment bevor ein Gewitter anfängt, nur ohne Gewitter.
 
-Ich lege die Hand wieder drauf. Warm.
+Sie legte die Hand wieder drauf. Warm.
 
-Mein Puls ist bei achtundachtzig. Obere Grenze von normal. Ich registriere das und lege es ab, in den Schrank, zu den anderen Dingen. Die Schränke sind voll. Manchmal, nachts, höre ich die Türen knarren.
+Ihr Herz schlug schneller als es sollte. Sie legte zwei Finger an den Hals, zählte, hörte auf zu zählen. Legte es ab, in den Schrank, zu den anderen Dingen. Die Schränke waren voll. Manchmal, nachts, hörte sie die Türen knarren.
 
-Ich gehe ins Bett.
+Sie ging ins Bett.
 
-Die Laken sind kalt. Ich schlafe allein, seit sieben Jahren. Die Matratze gibt nach auf der linken Seite, meiner Seite, der einzigen Seite. Rechts ist nichts. Kein Kissen, keine Delle, kein Geruch. Ich habe das Bett vor zwei Jahren gekauft, schmal, für eine Person, und die Verkäuferin hat gefragt ob es kein Doppelbett sein soll, falls mal jemand, und ich habe gesagt nein, und sie hat die Lieferung für Dienstag eingetragen und nicht weiter gefragt, und ich bin nach Hause gegangen und habe Tee gekocht und zwei Stunden lang an der Tasse das Licht betrachtet.
+Die Laken waren kalt. Sie schlief allein, seit sieben Jahren. Die Matratze gab nach auf der linken Seite, ihrer Seite, der einzigen Seite. Rechts war nichts. Kein Kissen, keine Delle, kein Geruch. Sie hatte das Bett vor zwei Jahren gekauft, schmal, für eine Person, und die Verkäuferin hatte gefragt ob es kein Doppelbett sein solle, falls mal jemand, und sie hatte gesagt nein, und die Verkäuferin hatte die Lieferung für Dienstag eingetragen und nicht weiter gefragt, und sie war nach Hause gegangen und hatte Tee gekocht und zwei Stunden lang an der Tasse das Licht betrachtet.
 
-Es reicht.
+Es reichte.
 
-Es reicht nicht.
+Es reichte nicht.
 
 Laris. Seine Hände. Der Arzt. Der Letzte.
 
-Eines Nachts legte er seine Hand auf meinen Bauch. Tiefer als den Bauch. Auf den Streifen Haut zwischen Nabel und Scham, warm und schwer, und mein Körper reagierte bevor mein Kopf entschied. Zusammenziehen, tief. Ich nahm seine Hand und legte sie zurück. Auf seine Seite. Ohne ein Wort.
+Eines Nachts hatte er seine Hand auf ihren Bauch gelegt. Tiefer als den Bauch. Auf den Streifen Haut zwischen Nabel und Scham, warm und schwer, und ihr Körper hatte reagiert bevor ihr Kopf entschied. Zusammenziehen, tief. Sie nahm seine Hand und legte sie zurück. Auf seine Seite. Ohne ein Wort.
 
 "Was ist hinter der Mauer, Alphina?"
 
@@ -58,148 +58,148 @@ Eines Nachts legte er seine Hand auf meinen Bauch. Tiefer als den Bauch. Auf den
 
 Müdes Lachen. Zwei Wochen später: "Du lässt mich nicht rein."
 
-Die Schublade in der Küche klemmt seit sieben Monaten. Laris hat sie repariert, beiläufig, zwischen Kaffee und Mantel anziehen. Jetzt klemmt sie wieder.
+Die Schublade in der Küche klemmte seit sieben Monaten. Laris hatte sie repariert, beiläufig, zwischen Kaffee und Mantel anziehen. Jetzt klemmte sie wieder.
 
-Jetzt liege ich in meinem schmalen Bett und die Erde im Topf ist warm und mein Puls steigt. Achtundachtzig. Neunzig. Meine Hände werden feucht. Mein Atem —
+Jetzt lag sie in ihrem schmalen Bett und die Erde im Topf war warm und ihr Herz schlug höher. Schneller. Noch schneller. Ihre Hände wurden feucht. Ihr Atem —
 
-Die Kanäle fließen schwarz und gleichgültig vier Stockwerke unter mir. Auf dem Dach der Druckerei zeigt die Hand nach Norden. Im Bücherregal steht ein Roman, den ich nie gelesen habe. Im Topf neben mir ist die Erde warm.
+Die Kanäle flossen schwarz und gleichgültig vier Stockwerke unter ihr. Auf dem Dach der Druckerei zeigte die Hand nach Norden. Im Bücherregal stand ein Roman, den sie nie gelesen hatte. Im Topf neben ihr war die Erde warm.
 
-Dreiundneunzig.
+Das Hämmern unter dem Brustbein hörte nicht auf.
 
-Ich schlafe nicht.
+Sie schlief nicht.
 
 
 ---
 
-Velde wacht auf wie eine Maschine.
+Velde wachte auf wie eine Maschine.
 
-Um sechs Uhr dreißig schieben sich die ersten Lastkähne durch die Kanäle, beladen mit Mehl und Kohle und Blechdosen voller Sardinen, und die Kahnschiffer rufen einander zu in dem breiten, flachen Dialekt der Tidelände, schwere Wörter, kurze Vokale, das R gerollt wie Kiesel auf dem Kanalgrund. Um sieben schlagen die Turmuhren, alle fünfundvierzig gleichzeitig — das Rathaus am Kanalplatz, die Marienkirche am Alten Hafen, die kleine Uhr über dem Gildehaus, die immer zwei Sekunden nachgeht und die niemand repariert, weil das Gildehaus seit achtzig Jahren geschlossen ist und die Gilde, die darin tagte, ausgestorben. Fünfundvierzig Uhren, und der Klang ist so allgegenwärtig, dass ich ihn nur höre wenn er fehlt. Um halb acht riecht es nach Kaffee und frischem Brot und dem Ammoniak aus der Gerberei, und die Mischung ist so vertraut, dass sie kein Geruch mehr ist sondern ein Zustand. So riecht mein Leben.
+Um sechs Uhr dreißig schoben sich die ersten Lastkähne durch die Kanäle, beladen mit Mehl und Kohle und Blechdosen voller Sardinen, und die Kahnschiffer riefen einander zu in dem breiten, flachen Dialekt der Tidelände, schwere Wörter, kurze Vokale, das R gerollt wie Kiesel auf dem Kanalgrund. Um sieben schlugen die Turmuhren, alle fünfundvierzig gleichzeitig — das Rathaus am Kanalplatz, die Marienkirche am Alten Hafen, die kleine Uhr über dem Gildehaus, die immer zwei Sekunden nachging und die niemand reparierte, weil das Gildehaus seit achtzig Jahren geschlossen war und die Gilde, die darin tagte, ausgestorben. Fünfundvierzig Uhren, und der Klang war so allgegenwärtig, dass sie ihn nur hörte wenn er fehlte. Um halb acht roch es nach Kaffee und frischem Brot und dem Ammoniak aus der Gerberei, und die Mischung war so vertraut, dass sie kein Geruch mehr war sondern ein Zustand. So roch ihr Leben.
 
-Ich trinke Tee. Oolong, dritter Aufguss, fünfundachtzig Grad. Das Thermometer hängt neben dem Kessel an einem Haken, den Laris in die Wand geschraubt hat. Der Haken ist krumm. Laris konnte Knochen richten und Schubladen reparieren, aber Haken in Wände schrauben konnte er nicht, und der Haken sitzt schief in der Wand, der Dübel bröckelt wenn man daran zieht, und ich ziehe nicht daran, nie, ich hänge das Thermometer vorsichtig auf, jeden Morgen, mit einer Sorgfalt die dem Haken gilt und nicht dem Thermometer.
+Sie trank Tee. Oolong, dritter Aufguss, fünfundachtzig Grad. Das Thermometer hing neben dem Kessel an einem Haken, den Laris in die Wand geschraubt hatte. Der Haken war krumm. Laris konnte Knochen richten und Schubladen reparieren, aber Haken in Wände schrauben konnte er nicht, und der Haken saß schief in der Wand, der Dübel bröckelte wenn man daran zog, und sie zog nicht daran, nie, sie hängte das Thermometer vorsichtig auf, jeden Morgen, mit einer Sorgfalt die dem Haken galt und nicht dem Thermometer.
 
-Das Wasser trifft die Blätter und der Geruch steigt auf, rauchig und grün und leicht bitter, und der erste Schluck ist herb am Gaumen, dann kommt eine Süße die nur da ist wenn die Temperatur stimmt, und für dreißig Sekunden tut mein Kopf nichts außer schmecken. Dreißig Sekunden Stille im Schädel.
+Das Wasser traf die Blätter und der Geruch stieg auf, rauchig und grün und leicht bitter, und der erste Schluck war herb am Gaumen, dann kam eine Süße die nur da war wenn die Temperatur stimmte, und für dreißig Sekunden tat ihr Kopf nichts außer schmecken. Dreißig Sekunden Stille im Schädel.
 
-Die Tasse ist dünn genug um hindurchzusehen. Ich halte sie gegen das Licht, jeden Morgen. Das Licht fällt durch das Porzellan und für einen Moment halte ich etwas Schönes.
+Die Tasse war dünn genug um hindurchzusehen. Sie hielt sie gegen das Licht, jeden Morgen. Das Licht fiel durch das Porzellan und für einen Moment hielt sie etwas Schönes.
 
-Der Schreibtisch unter dem Fenster. Neben dem Farn, der dasteht wie eine Pflanze die nichts anderes ist als eine Pflanze. Reglos. Die Erde in seinem Topf — ich will nicht nachfühlen. Meine Hand liegt auf dem Tisch, dreißig Zentimeter vom Topf entfernt, und es kostet mich etwas, sie nicht hinüberzuschieben. Ich fühle trotzdem nach. Warm. Wie letzte Nacht.
+Der Schreibtisch unter dem Fenster. Neben dem Farn, der dastand wie eine Pflanze die nichts anderes war als eine Pflanze. Reglos. Die Erde in seinem Topf — sie wollte nicht nachfühlen. Ihre Hand lag auf dem Tisch, dreißig Zentimeter vom Topf entfernt, und es kostete sie etwas, sie nicht hinüberzuschieben. Sie fühlte trotzdem nach. Warm. Wie letzte Nacht.
 
-Invasive Pflanzenarten in den westlichen Tideländen. Reynoutria japonica, Staudenknöterich. Ich schreibe über seine Wurzeln — Rhizome, die sieben Meter tief gehen, die Beton durchbrechen, die unter Gebäuden entlangwachsen und Risse in Mauern treiben, so fein dass man sie nicht sieht, bis das Fundament nachgibt. Es gibt einen Aufsatz darüber aus der Universität von Karst — eine Handwerkerstadt in den Innenländern, berühmt für Uhrmacher und Mechaniker, wo man alles misst und alles prüft und nichts dem Zufall überlässt — und in diesem Aufsatz steht ein Satz, den ich unterstrichen habe, vor Monaten schon: "Das Unsichtbare ist nicht das Abwesende. Es ist das Geduldige." Das stand in einer Abhandlung über Wurzelsysteme. Es hätte auch über mich stehen können.
+Invasive Pflanzenarten in den westlichen Tideländen. Reynoutria japonica, Staudenknöterich. Sie schrieb über seine Wurzeln — Rhizome, die sieben Meter tief gingen, die Beton durchbrachen, die unter Gebäuden entlangwuchsen und Risse in Mauern trieben, so fein dass man sie nicht sah, bis das Fundament nachgab. Es gab einen Aufsatz darüber aus der Universität von Karst — einer Handwerkerstadt in den Innenländern, berühmt für Uhrmacher und Mechaniker, wo man alles maß und alles prüfte und nichts dem Zufall überließ — und in diesem Aufsatz stand ein Satz, den sie unterstrichen hatte, vor Monaten schon: "Das Unsichtbare ist nicht das Abwesende. Es ist das Geduldige." Das stand in einer Abhandlung über Wurzelsysteme. Es hätte auch über sie stehen können.
 
-Meine Finger stoppen auf den Tasten der Schreibmaschine.
+Ihre Finger stoppten auf den Tasten der Schreibmaschine.
 
-Da ist ein Absatz, der sich unter meinen Händen formt. Er handelt nicht von Staudenknöterich. Er handelt von dem Pochen in meinen Fingerspitzen, wenn ich Pflanzen berühre. Von der Antwort die zurückkommt. Ich schreibe ihn. Lese ihn. Lösche ihn. Schreibe ihn neu, vorsichtiger. Lösche ihn wieder. Viermal, und was bleibt ist ein Gutachten über Staudenknöterich, und die Lücke zwischen dem was ich bin und dem was ich zeige wird breiter mit jedem gelöschten Satz.
+Da war ein Absatz, der sich unter ihren Händen formte. Er handelte nicht von Staudenknöterich. Er handelte von dem Pochen in ihren Fingerspitzen, wenn sie Pflanzen berührte. Von der Antwort die zurückkam. Sie schrieb ihn. Las ihn. Löschte ihn. Schrieb ihn neu, vorsichtiger. Löschte ihn wieder. Viermal, und was blieb war ein Gutachten über Staudenknöterich, und die Lücke zwischen dem was sie war und dem was sie zeigte wurde breiter mit jedem gelöschten Satz.
 
-In der Küche die Schublade. Die rechte, die obere, die mit dem Besteck. Ich lege beide Hände an den Griff und ziehe, und der Ruck geht durch meinen ganzen Arm, Schulter, Nacken, und die Schublade gibt nach und das Besteck klirrt und der Klang hallt durch die stille Wohnung, länger als er sollte, als würden die Wände ihn halten und langsam loslassen.
+In der Küche die Schublade. Die rechte, die obere, die mit dem Besteck. Sie legte beide Hände an den Griff und zog, und der Ruck ging durch ihren ganzen Arm, Schulter, Nacken, und die Schublade gab nach und das Besteck klirrte und der Klang hallte durch die stille Wohnung, länger als er sollte, als würden die Wände ihn halten und langsam loslassen.
 
-Ich stehe da, die Schublade offen, und atme.
+Sie stand da, die Schublade offen, und atmete.
 
 Alle neunundvierzig Pflanzen. Still.
 
-Der Markt am Kanalplatz drängt sich in die Gasse. Stände aus Holz und Segeltuch, eng nebeneinander, und dazwischen Schultern an Schultern, Körbe an Hüften. Fisch auf Eis, metallisch und nach Meer, und die Fischhändlerin hat Schuppen unter den Nägeln und eine Stimme die über den ganzen Platz trägt. Neben ihr ein Stand mit Gewürzen in Glasgefäßen — Safran, dunkelrot und fadenförmig, und Koriander, und ein Gewürz das ich nicht kenne, dunkelviolett, fast schwarz, das der Händler "Graukorn" nennt und das, sagt er, nur an der Nordküste wächst, in den Spalten von Purpurstein, dort wo das Salz des Meeres in den Fels kriecht. Ich nehme eine Prise zwischen die Finger. Es ist rau und kalt und riecht nach Eisen und nach etwas das ich nicht benennen kann. Ich lege es zurück. Der Händler schaut mich an. Ich gehe weiter.
+Der Markt am Kanalplatz drängte sich in die Gasse. Stände aus Holz und Segeltuch, eng nebeneinander, und dazwischen Schultern an Schultern, Körbe an Hüften. Fisch auf Eis, metallisch und nach Meer, und die Fischhändlerin hatte Schuppen unter den Nägeln und eine Stimme die über den ganzen Platz trug. Neben ihr ein Stand mit Gewürzen in Glasgefäßen — Safran, dunkelrot und fadenförmig, und Koriander, und ein Gewürz das sie nicht kannte, dunkelviolett, fast schwarz, das der Händler "Graukorn" nannte und das, sagte er, nur an der Nordküste wuchs, in den Spalten von Purpurstein, dort wo das Salz des Meeres in den Fels kroch. Sie nahm eine Prise zwischen die Finger. Es war rau und kalt und roch nach Eisen und nach etwas das sie nicht benennen konnte. Sie legte es zurück. Der Händler schaute sie an. Sie ging weiter.
 
-Brot, frisch, Kruste die noch warm ist, und der Geruch geht unter die Haut. Käse in Wachspapier, feucht am Rand. Äpfel, runzelig vom Winter. Und eine Zitrone, deren Schale so rau ist unter meinen Fingern, so lebendig, jede Pore ein kleiner Krater unter meinen Fingerabdrücken, und das Öl das austritt wenn ich drücke legt einen Hauch von Säure in die Luft. Ich halte sie zu lange. Augen geschlossen. Die Menge wird zu einem Geräusch ohne Quelle. Meine Fingerspitzen und die Zitrone, und sonst nichts.
+Brot, frisch, Kruste die noch warm war, und der Geruch ging unter die Haut. Käse in Wachspapier, feucht am Rand. Äpfel, runzelig vom Winter. Und eine Zitrone, deren Schale so rau war unter ihren Fingern, so lebendig, jede Pore ein kleiner Krater unter ihren Fingerabdrücken, und das Öl das austrat wenn sie drückte legte einen Hauch von Säure in die Luft. Sie hielt sie zu lange. Augen geschlossen. Die Menge wurde zu einem Geräusch ohne Quelle. Ihre Fingerspitzen und die Zitrone, und sonst nichts.
 
 "Alles in Ordnung?"
 
-Ich öffne die Augen. Die Frau am Stand hat den Kopf schief gelegt. Hinter mir drängelt jemand.
+Sie öffnete die Augen. Die Frau am Stand hatte den Kopf schief gelegt. Hinter ihr drängelte jemand.
 
 "Ja."
 
-Der Rückweg am Kanal entlang, und die Sonne steht flach über den Giebeln, und das Licht fällt in schmalen Streifen zwischen die Häuser, so dass man abwechselnd durch Schatten und Licht geht, Schatten und Licht, und in jedem Lichtstreifen tanzt Staub. Etwas an der Luft ist anders als heute Morgen. Eine Dichte, die ich nicht einordnen kann. Das Moos in den Fugen der Kaimauer ist grüner als es sein sollte im März, saftiger, als hätte es einen guten Sommer hinter sich und nicht den kältesten März seit einem Jahrzehnt. Auf der anderen Kanalseite steht die Druckerei, geschlossen, und auf ihrem Dach die Wetterfahne in Form einer Hand, und sie zeigt nach Norden. Natürlich zeigt sie nach Norden. Sie zeigt immer nach Norden.
+Der Rückweg am Kanal entlang, und die Sonne stand flach über den Giebeln, und das Licht fiel in schmalen Streifen zwischen die Häuser, so dass man abwechselnd durch Schatten und Licht ging, Schatten und Licht, und in jedem Lichtstreifen tanzte Staub. Etwas an der Luft war anders als am Morgen. Eine Dichte, die sie nicht einordnen konnte. Das Moos in den Fugen der Kaimauer war grüner als es sein sollte im März, saftiger, als hätte es einen guten Sommer hinter sich und nicht den kältesten März seit einem Jahrzehnt. Auf der anderen Kanalseite stand die Druckerei, geschlossen, und auf ihrem Dach die Wetterfahne in Form einer Hand, und sie zeigte nach Norden. Natürlich zeigte sie nach Norden. Sie zeigte immer nach Norden.
 
-Ich gehe schneller. Die schwere Messingklinke der Haustür ist kalt unter meiner Hand.
+Alphina ging schneller. Die schwere Messingklinke der Haustür war kalt unter ihrer Hand.
 
-Im Flur die Monstera des Hausmeisters. Anderthalb Meter hoch, Blätter groß wie Teller, und ich gehe jeden Tag an ihr vorbei. Heute bleibe ich stehen. Ihre Blätter haben eine Neigung, die gestern nicht da war. Kaum messbar. Aber da. Sie neigt sich zur Treppe. Zu dem Weg den ich nehme, zweimal am Tag.
+Im Flur die Monstera des Hausmeisters. Anderthalb Meter hoch, Blätter groß wie Teller, und sie ging jeden Tag an ihr vorbei. Heute blieb sie stehen. Die Blätter hatten eine Neigung, die gestern nicht da gewesen war. Kaum messbar. Aber da. Die Monstera neigte sich zur Treppe. Zu dem Weg den sie nahm, zweimal am Tag.
 
-Zehn Sekunden. Zwanzig. Die Monstera tut nichts.
+Zehn Sekunden. Zwanzig. Die Monstera tat nichts.
 
-Die Treppe hoch, und auf dem Absatz zum zweiten Stock die Efeutute, die der Hausbesitzer vor Jahren aufgehängt und vergessen hat. Ich gehe an ihr vorbei und ein Kribbeln fährt in meine linke Hand. Ein Ziehen in den Fingerspitzen, als würde jemand an Fäden ziehen die unter meiner Haut verlaufen. Ich bleibe stehen. Drehe mich um. Die Efeutute hängt da. Reglos. Grün.
+Die Treppe hoch, und auf dem Absatz zum zweiten Stock die Efeutute, die der Hausbesitzer vor Jahren aufgehängt und vergessen hatte. Sie ging an ihr vorbei und ein Kribbeln fuhr in ihre linke Hand. Ein Ziehen in den Fingerspitzen, als würde jemand an Fäden ziehen die unter ihrer Haut verliefen. Sie blieb stehen. Drehte sich um. Die Efeutute hing da. Reglos. Grün.
 
-Das Kribbeln wird stärker. Kriecht den Arm hoch, bis zum Ellbogen. Ich mache eine Faust. Öffne sie. Schließe sie. Es verschwindet, langsam.
+Das Kribbeln wurde stärker. Kroch den Arm hoch, bis zum Ellbogen. Sie machte eine Faust. Öffnete sie. Schloss sie. Es verschwand, langsam.
 
-Es passiert öfter. Seit Wochen. Im Botanischen Garten von Velde, als mein Arm warm wurde, mitten auf der Palmenallee. Nachts, als die Orchidee auf dem Regal ihren Stiel bewegt hat — oder ich war zu spät, habe nur den Nachhall gesehen, das Zittern einer Saite die aufgehört hat zu schwingen. Die warme Erde. Und jetzt die Efeutute. Wie viele Male muss etwas passieren, bevor es aufhört Zufall zu sein?
+Es passierte öfter. Seit Wochen. Im Botanischen Garten von Velde, als ihr Arm warm wurde, mitten auf der Palmenallee. Nachts, als die Orchidee auf dem Regal ihren Stiel bewegt hatte — oder sie war zu spät gewesen, hatte nur den Nachhall gesehen, das Zittern einer Saite die aufgehört hatte zu schwingen. Die warme Erde. Und jetzt die Efeutute. Wie viele Male musste etwas passieren, bevor es aufhörte Zufall zu sein?
 
-Madame Herault, zweiter Stock, öffnet ihre Tür. Wäschekorb. Lavendel. Der schnelle Atem von jemandem der nicht erwartet hat mir zu begegnen.
+Madame Herault, zweiter Stock, öffnete ihre Tür. Wäschekorb. Lavendel. Der schnelle Atem von jemandem der nicht erwartet hatte ihr zu begegnen.
 
 "Bonjour, Madame."
 
-Ich nicke. Sie weicht meinem Blick aus. Alle tun das, irgendwann. Etwas an mir gibt Menschen das Gefühl, gelesen zu werden.
+Alphina nickte. Sie wich ihrem Blick aus. Alle taten das, irgendwann. Etwas an ihr gab Menschen das Gefühl, gelesen zu werden.
 
-"La sorcière du quatrième", nennt sie mich. Die Hexe im Vierten. Es ist die genaueste Beschreibung die je jemand von mir gegeben hat.
+"La sorcière du quatrième", nannte Herault sie. Die Hexe im Vierten. Es war die genaueste Beschreibung die je jemand von ihr gegeben hatte.
 
-Oben. Brot auf den Tisch, Zitrone daneben. Ich stehe vor dem Farn am Fenster und lege meine Hand auf die Erde.
+Oben. Brot auf den Tisch, Zitrone daneben. Sie stand vor dem Farn am Fenster und legte ihre Hand auf die Erde.
 
-Warm. Wie heute Nacht. Wie Haut.
+Warm. Wie in dieser Nacht. Wie Haut.
 
-Mein Puls ist bei achtundachtzig.
+Ihr Herz schlug zu schnell. Wieder.
 
 
 ---
 
-Neben dem Gutachten liegt die Post.
+Neben dem Gutachten lag die Post.
 
-Rechnungen. Die Miete, die Wassergebühr, eine Rechnung von Thelen & Sohn, dem Instrumentenmacher in der Gildenstraße, bei dem ich im Januar eine neue Lupe bestellt habe und der drei Monate braucht um sie zu schleifen, weil Thelen alt ist und keine Eile kennt und weil gute Linsen Zeit brauchen, sagt er, so wie guter Käse und gute Trauer. Ich habe ihn gefragt, was er mit Trauer meint, und er hat gelacht und gesagt: "Fragen Sie mich in zehn Jahren nochmal, Madame." Daneben ein Katalog für botanische Instrumente, den ich nicht bestellt habe und den ich trotzdem durchblättern werde, weil es Seiten gibt auf denen Messinghülsen und geschliffenes Glas abgebildet sind, und ihre Präzision beruhigt mich.
+Rechnungen. Die Miete, die Wassergebühr, eine Rechnung von Thelen & Sohn, dem Instrumentenmacher in der Gildenstraße, bei dem sie im Januar eine neue Lupe bestellt hatte und der drei Monate brauchte um sie zu schleifen, weil Thelen alt war und keine Eile kannte und weil gute Linsen Zeit brauchten, sagte er, so wie guter Käse und gute Trauer. Sie hatte ihn gefragt, was er mit Trauer meine, und er hatte gelacht und gesagt: "Fragen Sie mich in zehn Jahren nochmal, Madame." Daneben ein Katalog für botanische Instrumente, den sie nicht bestellt hatte und den sie trotzdem durchblättern würde, weil es Seiten gab auf denen Messinghülsen und geschliffenes Glas abgebildet waren, und ihre Präzision beruhigte sie.
 
 Und ein Brief.
 
-Dickes Papier. Elfenbeinfarben, ein Wasserzeichen das man nur gegen das Licht sieht — eine stilisierte Pflanze, Wurzeln nach oben, Krone nach unten. Das Emblem der Thalassischen Gesellschaft für Botanik, gegründet vor zweihundert Jahren in Velde, von einer Frau namens Thera Osk, die Pflanzen klassifizierte, als die meisten Botaniker noch glaubten, dass Farne sich durch Geister vermehren. Ich schneide den Umschlag auf mit dem Briefmesser, Klinge aus geschwärztem Stahl, Griff aus Kirschholz, glatt von Jahren Gebrauch, und das Papier gibt nach mit dem satten, leisen Ton den nur teures Papier macht, und ich falte den Brief auseinander und lese.
+Dickes Papier. Elfenbeinfarben, ein Wasserzeichen das man nur gegen das Licht sah — eine stilisierte Pflanze, Wurzeln nach oben, Krone nach unten. Das Emblem der Thalassischen Gesellschaft für Botanik, gegründet vor zweihundert Jahren in Velde, von einer Frau namens Thera Osk, die Pflanzen klassifizierte, als die meisten Botaniker noch glaubten, dass Farne sich durch Geister vermehren. Sie schnitt den Umschlag auf mit dem Briefmesser, Klinge aus geschwärztem Stahl, Griff aus Kirschholz, glatt von Jahren Gebrauch, und das Papier gab nach mit dem satten, leisen Ton den nur teures Papier macht, und sie faltete den Brief auseinander und las.
 
-Es geht um einen Farn.
+Es ging um einen Farn.
 
-Asplenium scolopendrium. Hirschzungenfarn. Ich kenne ihn. Ich kenne alle Farne. Seine Grenzen kenne ich auch. Er wächst in Kalkschluchten, in Mauerspalten, in den schattigen Ecken alter Brunnen, wo Feuchtigkeit und Kalk und Schatten die drei Säulen einer Welt bilden, die so eng ist, dass nur er darin überlebt. Er kommt nicht vor nördlich des achtundvierzigsten Breitengrads. Die Winter zu hart, die Sommer zu kurz, der Boden zu sauer. Das ist Physik. Dreihundert Jahre Dokumentation. Pflanzen halten sich an Physik.
+Asplenium scolopendrium. Hirschzungenfarn. Sie kannte ihn. Sie kannte alle Farne. Seine Grenzen kannte sie auch. Er wuchs in Kalkschluchten, in Mauerspalten, in den schattigen Ecken alter Brunnen, wo Feuchtigkeit und Kalk und Schatten die drei Säulen einer Welt bildeten, die so eng war, dass nur er darin überlebte. Er kam nicht vor nördlich des achtundvierzigsten Breitengrads. Die Winter zu hart, die Sommer zu kurz, der Boden zu sauer. Das war Physik. Dreihundert Jahre Dokumentation. Pflanzen hielten sich an Physik.
 
 Dieser hier nicht.
 
-Dieser hier wächst auf dem einundfünfzigsten Breitengrad. In einem botanischen Garten an der Grauküste, vierhundert Jahre alt, gegründet von einer Frau deren Name ich nicht kenne — der Brief nennt sie nicht, sagt nur "gegründet im Jahr des großen Feuers", was eine seltsame Art ist einen Garten zu datieren, als hätte das Feuer etwas damit zu tun, und vielleicht hat es das, und vielleicht steht das irgendwo geschrieben, in einem Archiv das ich nicht kenne, in einer Stadt in die ich nie gereist bin. In einer Stadt namens Vael.
+Dieser hier wuchs auf dem einundfünfzigsten Breitengrad. In einem botanischen Garten an der Grauküste, vierhundert Jahre alt, gegründet von einer Frau deren Name sie nicht kannte — der Brief nannte sie nicht, sagte nur "gegründet im Jahr des großen Feuers", was eine seltsame Art war einen Garten zu datieren, als hätte das Feuer etwas damit zu tun, und vielleicht hatte es das, und vielleicht stand das irgendwo geschrieben, in einem Archiv das sie nicht kannte, in einer Stadt in die sie nie gereist war. In einer Stadt namens Vael.
 
-Ich lese den Namen und meine Fingerspitzen kribbeln.
+Sie las den Namen und ihre Fingerspitzen kribbelten.
 
-Stärker als bei der Efeutute. Ein Summen das in den Knochen meiner Hände anfängt und sich ausbreitet, durch die Handgelenke, die Unterarme, bis in die Ellbogen, und es hört nicht auf, es wächst, als hätte jemand eine Tür geöffnet die lange geschlossen war und was dahinter stand drängt jetzt heraus, nicht auf einmal, aber stetig, und die Teetasse neben dem Brief — kalt, seit Stunden, vergessen — vibriert. Ich spüre es in den Fingern die das Papier halten, eine Vibration die vom Brief kommt oder von mir oder von dem Namen auf dem Papier, und ich lese ihn noch einmal.
+Stärker als bei der Efeutute. Ein Summen das in den Knochen ihrer Hände anfing und sich ausbreitete, durch die Handgelenke, die Unterarme, bis in die Ellbogen, und es hörte nicht auf, es wuchs, als hätte jemand eine Tür geöffnet die lange geschlossen war und was dahinter stand drängte jetzt heraus, nicht auf einmal, aber stetig, und die Teetasse neben dem Brief — kalt, seit Stunden, vergessen — vibrierte. Sie spürte es in den Fingern die das Papier hielten, eine Vibration die vom Brief kam oder von ihr oder von dem Namen auf dem Papier, und sie las ihn noch einmal.
 
 Vael.
 
-Ich war nie an der Grauküste. Kenne niemanden dort. Aber das Kribbeln wird zu einem Pochen, warm und schwer, unter dem Brustbein. Der Kahnschiffer hat gesagt, der Wind komme von einer Stadt die auf etwas sitzt, das nicht schlafen will. Vael. Ich kenne diese Stadt nicht. Ich weiß nichts über sie, außer dass ein Farn dort wächst, der nicht wachsen dürfte. Und trotzdem erkennt mein Körper den Namen, als hätte ein Teil von mir dort gewartet, bevor ich wusste, dass der Ort existiert.
+Sie war nie an der Grauküste gewesen. Kannte niemanden dort. Aber das Kribbeln wurde zu einem Pochen, warm und schwer, unter dem Brustbein. Der Kahnschiffer hatte gesagt, der Wind komme von einer Stadt die auf etwas sitze, das nicht schlafen wolle. Vael. Sie kannte diese Stadt nicht. Sie wusste nichts über sie, außer dass ein Farn dort wuchs, der nicht wachsen dürfte. Und trotzdem erkannte ihr Körper den Namen, als hätte ein Teil von ihr dort gewartet, bevor sie wusste, dass der Ort existierte.
 
-Der Farn am Fenster dreht sich.
+Der Farn am Fenster drehte sich.
 
 Ruckartig. Alle fünf Wedel. In Richtung des Briefs.
 
-Ich stehe auf und der Stuhl fällt um, hinter mir, das Holz schlägt auf die Dielen, auf die Stelle die knarrt, und das Knarren vermischt sich mit dem Geräusch des Stuhls, und ich kümmere mich nicht darum. Ich trete zurück, zwei Schritte, drei, und mein Rücken berührt die Wand, den kalten Putz, und der Farn dreht sich weiter. Auf mich zu. Die Wedel schwenken durch die Luft, lautlos, und richten sich auf mich aus, alle fünf, und das letzte Abendlicht fällt auf ihre Oberfläche und sie glänzen, feucht und lebendig.
+Sie stand auf und der Stuhl fiel um, hinter ihr, das Holz schlug auf die Dielen, auf die Stelle die knarrte, und das Knarren vermischte sich mit dem Geräusch des Stuhls, und sie kümmerte sich nicht darum. Sie trat zurück, zwei Schritte, drei, und ihr Rücken berührte die Wand, den kalten Putz, und der Farn drehte sich weiter. Auf sie zu. Die Wedel schwenkten durch die Luft, lautlos, und richteten sich auf sie aus, alle fünf, und das letzte Abendlicht fiel auf ihre Oberfläche und sie glänzten, feucht und lebendig.
 
-Ich trete nach links. Der Farn folgt. Nach rechts. Er folgt. Zehnmal teste ich es, mit der Präzision einer Frau die seit dreißig Jahren Pflanzen beobachtet und die weiß was Phototropismus ist und was Thigmotropismus und was Zufall.
+Sie trat nach links. Der Farn folgte. Nach rechts. Er folgte. Zehnmal testete sie es, mit der Präzision einer Frau die seit dreißig Jahren Pflanzen beobachtete und die wusste was Phototropismus war und was Thigmotropismus und was Zufall.
 
-Das hier ist nichts davon.
+Das hier war nichts davon.
 
-Mein Puls ist bei einhundertzwei. Die Luft riecht nach Erde und nach etwas Grünem, tiefer als Chlorophyll, ein Geruch der warm ist und lebendig und der aus den Töpfen kommt, aus allen gleichzeitig. Die Pflanzen im Raum — alle neunundvierzig — bewegen sich. Die Sukkulenten richten ihre fleischigen Blätter auf. Die Orchidee dreht ihre Blüten. Die Monstera hebt ihre Blätter. Alle gleichzeitig, lautlos, und die Schatten an der Wand verschieben sich, und die Wohnung, die eben noch still war, still wie ein angehaltener Atem, atmet jetzt, atmet mit neunundvierzig Mündern, und ich stehe mit dem Rücken an der Wand und das Bücherregal steht neben mir und der Roman den Laris dagelassen hat, "Die Gezeiten von Irra", steht auf Augenhöhe, sein dunkelroter Rücken, und ich denke: Gezeiten, und ich denke: Irra, und ich denke: Vael, und die drei Worte legen sich übereinander.
+Ihr Herz hämmerte gegen die Rippen. Die Luft roch nach Erde und nach etwas Grünem, tiefer als Chlorophyll, ein Geruch der warm war und lebendig und der aus den Töpfen kam, aus allen gleichzeitig. Die Pflanzen im Raum — alle neunundvierzig — bewegten sich. Die Sukkulenten richteten ihre fleischigen Blätter auf. Die Orchidee drehte ihre Blüten. Die Monstera hob ihre Blätter. Alle gleichzeitig, lautlos, und die Schatten an der Wand verschoben sich, und die Wohnung, die eben noch still gewesen war, still wie ein angehaltener Atem, atmete jetzt, atmete mit neunundvierzig Mündern, und sie stand mit dem Rücken an der Wand und das Bücherregal stand neben ihr und der Roman den Laris dagelassen hatte, "Die Gezeiten von Irra", stand auf Augenhöhe, sein dunkelroter Rücken, und sie dachte: Gezeiten, und sie dachte: Irra, und sie dachte: Vael, und die drei Worte legten sich übereinander.
 
-Laris hat gefragt, was hinter der Mauer ist. Drei Menschen haben an dieser Mauer gerüttelt.
+Laris hatte gefragt, was hinter der Mauer sei. Drei Menschen hatten an dieser Mauer gerüttelt.
 
-Farne. Wurzeln. Erde die warm wird ohne Grund. Pflanzen die sich drehen, wenn ich den Raum betrete.
+Farne. Wurzeln. Erde die warm wurde ohne Grund. Pflanzen die sich drehten, wenn sie den Raum betrat.
 
 Vael.
 
-Die Pflanzen beruhigen sich. Langsam. Wedel senken sich. Blätter drehen sich zurück. Die Monstera legt ihre Blätter an, und die Stille kehrt zurück. Aber eine andere Stille. Nicht die Stille von Warten. Die Stille von Danach.
+Die Pflanzen beruhigten sich. Langsam. Wedel senkten sich. Blätter drehten sich zurück. Die Monstera legte ihre Blätter an, und die Stille kehrte zurück. Aber eine andere Stille. Nicht die Stille von Warten. Die Stille von Danach.
 
-Ich stehe und atme und der Stuhl liegt hinter mir auf dem Boden und die Pflanzen stehen still und der Brief liegt auf dem Schreibtisch, und ich warte bis mein Puls bei neunzig ist bevor ich mich bewege.
+Sie stand und atmete und der Stuhl lag hinter ihr auf dem Boden und die Pflanzen standen still und der Brief lag auf dem Schreibtisch, und sie wartete bis ihr Herz langsamer wurde bevor sie sich bewegte.
 
-Ich hebe den Stuhl auf. Stelle ihn an den Schreibtisch. Lege den Brief darauf, die Kanten parallel zur Tischkante. Kontrolle. Ordnung.
+Sie hob den Stuhl auf. Stellte ihn an den Schreibtisch. Legte den Brief darauf, die Kanten parallel zur Tischkante. Kontrolle. Ordnung.
 
-Dann hole ich den Koffer vom Schrank.
+Dann holte sie den Koffer vom Schrank.
 
-Leder, abgewetzt, der Griff repariert mit einem Draht den ich in Solha gefunden habe, am Binnenmeer, wo die Sonne so hell war, dass ich drei Tage Kopfschmerzen hatte. Velde ist das Gegenteil von Solha. Und Vael klingt wie das Gegenteil von allem.
+Leder, abgewetzt, der Griff repariert mit einem Draht den sie in Solha gefunden hatte, am Binnenmeer, wo die Sonne so hell gewesen war, dass sie drei Tage Kopfschmerzen gehabt hatte. Velde war das Gegenteil von Solha. Und Vael klang wie das Gegenteil von allem.
 
-Ich packe. Gutachten, Werkzeug, Lupe, Notizbuch — das Notizbuch mit dem Ledereinband, in dem ich Dinge aufschreibe die nicht in Gutachten gehören, das Pochen, die Wärme, die Momente am Rand, seit neun Jahren, und niemand hat je hineingeschaut. Drei Hemden. Ein Kleid das ich nie trage und trotzdem mitnehme, jedes Mal, ein Versprechen an jemanden der es vielleicht eines Tages anzieht. Die Pflanzen — wer gießt die Pflanzen?
+Sie packte. Gutachten, Werkzeug, Lupe, Notizbuch — das Notizbuch mit dem Ledereinband, in dem sie Dinge aufschrieb die nicht in Gutachten gehörten, das Pochen, die Wärme, die Momente am Rand, seit neun Jahren, und niemand hatte je hineingeschaut. Drei Hemden. Ein Kleid das sie nie trug und trotzdem mitnahm, jedes Mal, ein Versprechen an jemanden der es vielleicht eines Tages anzog. Die Pflanzen — wer goss die Pflanzen?
 
-Ich stehe vor dem Farn. Dem Farn, der sich gedreht hat.
+Sie stand vor dem Farn. Dem Farn, der sich gedreht hatte.
 
-"Langsamer", sage ich. Laut. In die leere Wohnung. Die Wände schlucken das Wort und geben es nicht zurück.
+"Langsamer", sagte sie. Laut. In die leere Wohnung. Die Wände schluckten das Wort und gaben es nicht zurück.
 
-Am nächsten Morgen, als ich die Wohnung abschließe, den Koffer in der Hand, sehe ich dass seine Wedel sich zurückgelehnt haben. Flach. Ruhig. Alle fünf. Eine Hand die sich öffnet und loslässt.
+Am nächsten Morgen, als sie die Wohnung abschloss, den Koffer in der Hand, sah sie dass seine Wedel sich zurückgelehnt hatten. Flach. Ruhig. Alle fünf. Eine Hand die sich öffnete und losließ.
 
-Unten, im Flur, die Monstera des Hausmeisters. Ich gehe an ihr vorbei. Kein Kribbeln. Keine Wärme. Die Monstera steht da und tut was Zimmerpflanzen tun. Durch die Haustür in den Morgen von Velde, und der Kanal glänzt im frühen Licht, und ein Kahnschiffer ruft etwas das ich nicht verstehe, und vor dem Haus wartet die Kutsche. Zwei Pferde, braun und dampfend in der Märzluft, und der Kutscher raucht und wirft die Kippe in den Kanal und Velde schluckt sie, wortlos, wie alles andere.
+Unten, im Flur, die Monstera des Hausmeisters. Sie ging an ihr vorbei. Kein Kribbeln. Keine Wärme. Die Monstera stand da und tat was Zimmerpflanzen taten. Durch die Haustür in den Morgen von Velde, und der Kanal glänzte im frühen Licht, und ein Kahnschiffer rief etwas das sie nicht verstand, und vor dem Haus wartete die Kutsche. Zwei Pferde, braun und dampfend in der Märzluft, und der Kutscher rauchte und warf die Kippe in den Kanal und Velde schluckte sie, wortlos, wie alles andere.
 
 Drei Tage bis Vael.
 
-Ich weiß nicht warum ich fahre. Ich weiß nur, dass die Erde warm war. Und dass der Farn mich kennt. Und dass irgendwo, vierhundert Kilometer nördlich, an einer Küste die ich nie gesehen habe, eine Pflanze wächst, die nicht wachsen dürfte. In einem Garten, der im Jahr des großen Feuers gegründet wurde.
+Sie wusste nicht warum sie fuhr. Sie wusste nur, dass die Erde warm gewesen war. Und dass der Farn sie kannte. Und dass irgendwo, vierhundert Kilometer nördlich, an einer Küste die sie nie gesehen hatte, eine Pflanze wuchs, die nicht wachsen dürfte. In einem Garten, der im Jahr des großen Feuers gegründet worden war.
 
-Das muss reichen.
+Das musste reichen.
