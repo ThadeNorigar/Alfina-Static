@@ -208,6 +208,8 @@ Interludien platzieren → Tschechow-Waffen setzen →
 Definiert WIE EINE SZENE KLINGT. Die einzige Pipeline mit harten Gates.
 **Nach jedem bestandenen Gate: Status in status.json setzen + commit + deploy.**
 
+**PFLICHT bei status.json-Updates:** Wenn ein Kapitel den Status "entwurf" oder höher erreicht, MUSS der Eintrag ein `"datei"` Feld haben (z.B. `"datei": "07-vesper.md"`). Ohne dieses Feld erscheint kein "Kapitel lesen" Button auf der Website. `generate-lesen.sh` warnt wenn das Feld fehlt.
+
 **VOR dem Szenenplan — Konsistenz-Prüfung (PFLICHT):**
 1. Offene Fragen klären: Gibt es Unklarheiten zu Figuren, Ort, Zeitpunkt, Motivation?
    Wenn ja: mit dem Autor klären BEVOR geschrieben wird.

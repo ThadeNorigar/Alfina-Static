@@ -42,12 +42,19 @@ with open('$STATUS', encoding='utf-8') as f:
 template = open('$TEMPLATE', encoding='utf-8').read()
 count = 0
 
+NEEDS_DATEI = {'entwurf', 'council', 'checked', 'lektorat', 'final'}
+warnings = []
+
 for buch_key in ['buch1', 'buch2', 'buch3']:
     buch = data.get(buch_key)
     if not buch:
         continue
     for kap_id, ch in buch.get('kapitel', {}).items():
-        if not ch.get('datei'):
+        status = ch.get('status', '')
+        has_datei = bool(ch.get('datei'))
+        if status in NEEDS_DATEI and not has_datei:
+            warnings.append(f'  WARNUNG: {buch_key}/{kap_id} hat status=\"{status}\" aber kein datei-Feld!')
+        if not has_datei:
             continue
         # URL slug: '01' -> '1', 'I1' -> 'I1'
         if kap_id.startswith('I'):
@@ -63,5 +70,7 @@ for buch_key in ['buch1', 'buch2', 'buch3']:
             f.write(template)
         count += 1
 
+if warnings:
+    print('\\n'.join(warnings))
 print(f'generate-lesen: {count} Kapitel-Seiten generiert')
 " 2>&1
