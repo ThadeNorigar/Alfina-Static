@@ -4,7 +4,7 @@ Die Theke war abgewetzt und der Mann dahinter sah aus, als gehöre er dazu — b
 
 "Ich brauche ein Zimmer."
 
-"Zweiter Stock, linke Tür." Der Wirt griff unter die Theke. Ein Schlüssel, Messing, angelaufen. Schob ihn über das Holz. "Wochenpreis. Im Voraus."
+"Zweiter Stock, linke Tür." Der Wirt griff unter die Theke und schob einen Schlüssel über das Holz, Messing, angelaufen. "Ich nehme den Wochenpreis, im Voraus."
 
 Vesper legte die Münzen auf den Tresen. Der Wirt zählte sie, strich sie ein, sagte nichts. Seine Hände waren langsam und sicher, die Hände eines Mannes der seit Jahrzehnten dieselben Handgriffe machte. Vesper kannte solche Hände. Es waren die Hände die er respektierte — Hände die ihr Werkzeug kannten.
 
@@ -12,19 +12,19 @@ Vesper legte die Münzen auf den Tresen. Der Wirt zählte sie, strich sie ein, s
 
 Der Wirt schaute ihn an. Einen Moment länger als nötig. Etwas veränderte sich in seinem Gesicht, nicht viel, eine Verschiebung um die Augen.
 
-"Das Tidemoor-Haus. Am Grauwe-Ufer. Zwanzig Minuten zu Fuß, den Fluss entlang." Er wischte über die Theke. "Alte Familie."
+"Das ist das Tidemoor-Haus, am Grauwe-Ufer, zwanzig Minuten zu Fuß den Fluss entlang." Er wischte über die Theke. "Alte Familie."
 
-"Die Standuhr — "
+"Die Standuhr dort — "
 
-"Weiß ich nichts drüber." Die Theke war sauber. Der Wirt wischte trotzdem weiter.
+"Darüber weiß ich nichts." Die Theke war sauber. Der Wirt wischte trotzdem weiter.
 
-Vesper nahm den Schlüssel. Ging nach oben. Der Koffer schlug gegen seine Wade auf der schmalen Treppe, die Stufen ausgetreten in der Mitte, das Holz hohl unter seinen Sohlen. Zweiter Stock, linke Tür. Das Zimmer war klein genug um es mit drei Schritten zu kennen. Bett, Stuhl, Tisch, Waschkrug. Kamin an der Wand, die Asche grau und kalt. Er stellte den Koffer ab. Legte die Werkzeugrolle auf den Tisch. Öffnete sie — Pinzetten, Schraubendreher, Lupe, Ölfläschchen, der Samtbeutel mit den Zahnrädern. Jedes Werkzeug an seiner Position. Die Ordnung beruhigte ihn. Nicht genug. Nichts war genug seit die Uhren stehengeblieben waren.
+Vesper nahm den Schlüssel und ging nach oben. Der Koffer schlug gegen seine Wade auf der schmalen Treppe, die Stufen ausgetreten in der Mitte, das Holz hohl unter seinen Sohlen. Zweiter Stock, linke Tür. Das Zimmer war klein genug um es mit drei Schritten zu kennen. Bett, Stuhl, Tisch, Waschkrug. Kamin an der Wand, die Asche grau und kalt. Er stellte den Koffer ab und legte die Werkzeugrolle auf den Tisch. Öffnete sie — Pinzetten, Schraubendreher, Lupe, Ölfläschchen, der Samtbeutel mit den Zahnrädern. Jedes Werkzeug an seiner Position. Die Ordnung beruhigte ihn. Nicht genug. Nichts war genug seit die Uhren stehengeblieben waren.
 
 Er zog den Mantel aus. Wusch sich die Hände im Waschkrug, das Wasser kalt, der Staub der Reise löste sich von seinen Fingern und sank als grauer Schleier auf den Grund. Vier Tage. Zwei Postkutschen, eine Fähre über den Graufluss, dann die Küstenstraße, wo die Luft sich verändert hatte — schwerer, feuchter, ein Geruch unter dem Salz den er nicht einordnen konnte. In seiner Tasche lag der Turm. Kalt. Seit Karst. Er drehte ihn, Daumen, Zeigefinger, Mittelfinger, die Kanten des Holzes glatt und vertraut. Vier Tage, vier Nächte, und das Holz nahm seine Körperwärme nicht an.
 
 273.
 
-Die Zahl stand da, hinter seiner Stirn, wo sie seit fünf Tagen stand. Seit die sechsundzwanzig Uhren in seiner Werkstatt gleichzeitig stehengeblieben waren, jede auf 4:33, und die Stille die folgte tiefer war als jede Stille die er kannte. Er hatte den Turm aufgehoben, der auf den Boden gefallen war. Das Holz war kalt. Er hatte den Koffer gepackt, drei Minuten, die Werkzeugrolle, drei Hemden, Rasiermesser. Die Tür abgeschlossen. Die Morgenkutsche um sechs.
+Die Zahl stand da, hinter seiner Stirn, wo sie seit fünf Tagen stand. Seit die sechsundzwanzig Uhren in seiner Werkstatt gleichzeitig stehengeblieben waren, jede auf 4:33, und die Stille die folgte tiefer war als jede Stille die er kannte. Er hatte den Turm aufgehoben, der auf den Boden gefallen war, und das Holz war kalt gewesen. Er hatte den Koffer gepackt — drei Minuten, die Werkzeugrolle, drei Hemden, das Rasiermesser — und die Tür abgeschlossen und die Morgenkutsche um sechs genommen.
 
 Er ging zurück nach unten.
 
@@ -54,9 +54,9 @@ Vesper stellte sein Glas ab. Der Turm drehte sich in seiner Tasche. "Seit immer?
 
 "Wer hat die Uhr gebaut?"
 
-"Weiß niemand." Der Mann zuckte die Achseln. "Steht nichts drin. Kein Name, kein Stempel. Mein Schwiegervater hat danach gesucht."
+"Das weiß niemand." Der Mann zuckte die Achseln. "Es steht nichts drin, kein Name, kein Stempel. Mein Schwiegervater hat danach gesucht."
 
-Vesper trank sein Bier aus. Stellte das Glas auf die Theke. In seinem Kopf lief die Zahl, 273, und neben ihr jetzt eine zweite Information: die Uhr war älter als das Haus. Älter als die Familie die darin wohnte. Kein Erbauer bekannt. Kein Name. Als hätte jemand sie dort hingestellt und vergessen, oder absichtlich zurückgelassen.
+Vesper trank sein Bier aus und stellte das Glas auf die Theke. In seinem Kopf lief die Zahl, 273, und neben ihr jetzt eine zweite Information: die Uhr war älter als das Haus. Älter als die Familie die darin wohnte. Kein Erbauer bekannt. Kein Name. Als hätte jemand sie dort hingestellt und vergessen, oder absichtlich zurückgelassen.
 
 "Danke für die Auskunft", sagte er und legte eine Münze auf den Tresen.
 
@@ -86,7 +86,7 @@ Vespers Verstand sagte: *Lass die Strähne.* Ruhig, klar, der Ton eines Mannes d
 
 Seine Finger glitten in die Tasche und schlossen sich um den Turm, der kalt war wie seit fünf Tagen, und der Gedanke ging, lautlos, als wäre er nie gewesen. Er kannte das. Es kam und es ging und er ließ es gehen.
 
-"Vesper Brandt. Uhrmacher, aus Karst." Seine Stimme war ruhig. "Ich habe von Ihrer Standuhr gehört. Sie verliert Zeit?"
+"Mein Name ist Vesper Greve, ich bin Uhrmacher aus Karst." Seine Stimme war ruhig. "Ich habe von Ihrer Standuhr gehört. Sie verliert Zeit?"
 
 Die Frau — Magd, Haushälterin, er konnte es nicht einordnen — schaute ihn an, den Kopf leicht zur Seite gelegt. "Seit ich hier bin. Seit die Tidemoors hier wohnen, sagen sie. Seit immer, soweit ich weiß." Sie trat zurück. "Kommen Sie rein."
 
@@ -122,7 +122,7 @@ Der Gedanke war da, ruhig und präzise, in derselben Tonlage wie der erste. Kein
 
 "Die Tidemoors kommen gegen fünf", sagte die Magd. Sie stand an der Tür. Nicht unruhig, nicht eilig. Wartend. "Soll ich Ihnen sagen dass Sie hier sind?"
 
-"Bitte. Ich würde das Werk gern öffnen."
+"Ja, bitte. Ich würde das Werk gern öffnen, wenn die Herrschaften einverstanden sind."
 
 Sie nickte und ging. Vesper saß im Sessel, die Tasse in der Hand, und hörte der Uhr zu. Der Turm in der Tasche, kalt gegen seinen Oberschenkel. Die Uhr an der Wand, warm im Klang, gleichmäßig, lebendig. Er stellte seine Taschenuhr auf den Tisch, neben die Teetasse, das Zifferblatt nach oben. 15:47. Er würde warten.
 
@@ -132,7 +132,7 @@ Um halb sechs kam der Hausherr. Groß, schmal, grau an den Schläfen, ein Mann d
 
 "Die Magd sagt Sie sind Uhrmacher."
 
-"Aus Karst. Ich habe von Ihrer Standuhr gehört."
+"Ich komme aus Karst. Ich habe von Ihrer Standuhr gehört."
 
 "Von wem haben Sie davon gehört?"
 
@@ -176,7 +176,7 @@ Drei Durchgänge. Sechs Stunden. Draußen war es dunkel geworden, der Nebel hatt
 
 Vesper saß in der Dunkelheit des Salons, die Hand auf dem Gehäuse, die Uhr unter seiner Handfläche, und dachte an nichts. Das war nicht ganz richtig. Er dachte. Aber die Gedanken liefen in Kreisen — Körperwärme beeinflusst Metall, aber nicht um 273 Sekunden. Statische Aufladung verändert Schwingungen, aber nicht konstant. Vibration durch den Puls, aber das Pendel war mechanisch entkoppelt. Jeder Kreis führte zum selben Punkt. Es gab keine Erklärung. Es gab nur seine Hand und die Uhr und die Zahl die verschwand wenn er sie berührte und zurückkam wenn er losließ.
 
-Er nahm die Hand weg. Stand auf. Das Knie knackte, sechs Stunden auf einem Stuhl. Er schloss das Gehäuse. Strich mit dem Finger über das Holz, einmal, die Maserung unter seiner Fingerkuppe.
+Er nahm die Hand weg und stand auf. Das Knie knackte, sechs Stunden auf einem Stuhl. Er schloss das Gehäuse und strich mit dem Finger über das Holz, einmal, die Maserung unter seiner Fingerkuppe.
 
 "Darf ich nachts wiederkommen?"
 
@@ -188,7 +188,7 @@ Die Magd stand an der Tür. Er hatte sie nicht kommen hören.
 
 Sie ging und kam zurück. Ein Schlüssel, Messing, schwer, älter als das Schloss in das er passte. Ihre Finger berührten seine Handfläche, als sie ihn übergab, kurz und warm.
 
-"Die Seitentür. Am Garten." Sie schaute ihn nicht an.
+"Sie können die Seitentür nehmen, am Garten." Sie schaute ihn nicht an.
 
 Vesper nahm den Schlüssel. Steckte ihn in die Tasche, neben den Turm. Messing neben Holz, warm neben kalt — zwei Gegenstände nebeneinander, und der Unterschied zwischen ihnen war alles was er nicht erklären konnte.
 
