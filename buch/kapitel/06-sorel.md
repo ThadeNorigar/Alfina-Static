@@ -11,7 +11,7 @@ Fixierer. Der Geruch war sofort da, scharf, chemisch — Kollodium und Fixiersal
 
 Er legte die Hand auf die Wand. Warm. Trocken. Die Oberfläche rau unter seinen Fingern, porös, als lasse der Stein Luft durch, langsam, in einem Rhythmus der nicht zu hören war. In Nachtholm war der Basalt kalt gewesen, glatt, nass vom Kondenswasser, ein Stein der nahm und nichts zurückgab. Dieser Stein gab Wärme ab. Wärme die kein Ofen erklärte, kein Rohr, kein Schornstein. Die Mauer war warm wie Haut.
 
-Sorels Hand blieb liegen. Seine Finger spreizte er gegen den Stein, flach, fühlend. Dann zog er sie zurück.
+Sorels Hand blieb liegen. Seine Finger spreizte er gegen den Stein, flach, fühlend. Die Wärme kroch in seine Handfläche, seine Handgelenke, seine Unterarme. Seine Schultern sanken. Sein Kiefer löste sich, ein Gelenk nach dem anderen, als hätte sein Körper dreizehn Jahre lang gewartet dass ihn etwas hielt und jetzt nicht aufhören konnte nachzugeben. Er stand da, die Hand an der Wand, und atmete. Dann zog er sie zurück.
 
 Der Keller roch nach seinem Leben. Aber er fühlte sich an wie das Leben eines anderen.
 
@@ -55,7 +55,7 @@ Die Platte.
 
 Er wickelte den Kasten aus, Kante für Kante, die Schnüre gelöst, das Papier gefaltet. Sieben Glasplatten, eingewickelt in Packpapier, jede einzeln, die Ecken sauber gefaltet. Die siebte lag obenauf. Er nahm sie heraus, hielt sie gegen das Rotlicht. Das Bild war da — ein Hafen, eine Kaimauer, Masten. Sein Gesicht im Dunst, scharf, ruhig, wissend. Daneben, halb verborgen, eine zweite Gestalt — Schultern, ein Kopf, die Andeutung eines Körpers. Sein Gesicht, auf einem Bild das Jahrzehnte alt war, aus einer Stadt die er nie betreten hatte.
 
-Seit sechs Tagen dachte er an nichts anderes. An die zweite Gestalt wenn er die Augen schloss. Wenn er sie öffnete. In den Stunden dazwischen, in denen er nicht schlief — weil er in Kutschen nicht schlief, weil Schlaf bedeutete die Hände vom Kasten zu nehmen.
+Seit sechs Tagen dachte er an nichts anderes. Sein Magen zog sich zusammen wenn er die Platte ansah, jedes Mal, eine Übelkeit die nicht vom Magen kam sondern von den Augen — sein eigenes Gesicht das ihn anschaute mit einem Ausdruck den er nie getragen hatte, ruhig, wissend, als wüsste der Mann auf der Platte etwas über ihn das er selbst nicht wusste. An die zweite Gestalt wenn er die Augen schloss. Wenn er sie öffnete. In den Stunden dazwischen, in denen er nicht schlief — weil er in Kutschen nicht schlief, weil Schlaf bedeutete die Hände vom Kasten zu nehmen.
 
 Neben der siebten Platte, zwischen ihr und der sechsten, lagen zwei Scherben in Seidenpapier. Die zerbrochene Platte aus Falkensand. Dreizehn Jahre in einer Schublade. Sein linkes Auge auf dem einen Stück, sein rechtes auf dem anderen. Derselbe Hafen. Dasselbe Gesicht. Er hatte sie nie wieder angeschaut, und jetzt trug er sie hierher, zu einem Ort den er nur von der Rückseite einer Glasplatte kannte.
 
@@ -65,7 +65,7 @@ Drei Wörter. Hundertmal gelesen, im Rotlicht, im Gaslicht, im Dunkel hinter sei
 
 Sorel legte die Platte auf den Tisch. Daneben die zwei Scherben, ausgewickelt, nebeneinander. Der Mann auf den Scherben schaute nach links. Der Mann auf der siebten Platte schaute geradeaus. Beide schauten ihn an.
 
-Zweihundertdreiundsechzig Gesichter. In Nachtholm, an einer Wand, in einem Keller der jetzt leer war. Zweihundertdreiundsechzig tote Fremde die niemanden mehr anschauten. Er hatte sie zurückgelassen. Zum ersten Mal hatte sein Keller keine Augen. Dieser Keller hier hatte auch keine — nur warmen Stein, trockene Luft, einen Nagel der auf ihn gewartet hatte. Leerer als der Keller in Nachtholm. Leerer, und voller, weil der Geruch von Fixierer nicht zu einem leeren Raum passte.
+Zweihundertdreiundsechzig Gesichter. In Nachtholm, an einer Wand, in einem Keller der jetzt leer war. Zweihundertdreiundsechzig tote Fremde die niemanden mehr anschauten. Sie waren seine gewesen. Dreizehn Jahre lang die einzigen Augen die ihn ansahen, die einzigen Gesichter die blieben, die nicht wegsahen wenn er den Raum betrat. Er hatte sie zurückgelassen. Zum ersten Mal hatte sein Keller keine Augen. Dieser Keller hier hatte auch keine — nur warmen Stein, trockene Luft, einen Nagel der auf ihn gewartet hatte. Leerer als der Keller in Nachtholm. Leerer, und voller, weil der Geruch von Fixierer nicht zu einem leeren Raum passte.
 
 Stuhl an die Wand geschoben. Die Lehne gegen den Stein, warm durch das Hemd. Hände auf den Oberschenkeln, flach, ruhig. Fixierer in der Luft, Rotlicht an den Wänden. Die Platte auf dem Tisch. Die Scherben daneben. Der Nagel hielt sein Licht. Er schaute das Gesicht an. Das Gesicht schaute zurück.
 
@@ -128,7 +128,9 @@ Dann, auf dem Poller zu seiner Rechten — fünf Meter, näher als vorher — ve
 
 Stille. Das Wasser schlug gegen die Kaimauer, gleichmäßig, als sei nichts gewesen.
 
-Stativ unter seinen Händen. Kamera. Verschluss geschlossen. Platte belichtet. Herzschlag im Hals, hart, zu schnell, ein Hämmern das er in den Ohren hörte. Finger am Metall — kalt. Er schaute auf seine Hände. Sie zitterten nicht. Sie zitterten nie. Der Rest von ihm war woanders.
+Stativ unter seinen Händen. Kamera. Verschluss geschlossen. Platte belichtet. Herzschlag im Hals, hart, zu schnell, ein Hämmern das er in den Ohren hörte. Finger am Metall — kalt. Er schaute auf seine Hände. Sie zitterten nicht. Sie zitterten nie.
+
+Sein Mund öffnete sich. Ein Laut kam heraus, leise, rau, etwas zwischen Atem und Stimme, ein Geräusch das er nicht geplant hatte und nicht stoppen konnte. Es hallte nicht. Die Luft schluckte es, der Dunst, die Stille. Aber er hatte es gehört. Sein eigener Mund, der etwas gesagt hatte das kein Wort war.
 
 Er ging zum Poller. Fünf Schritte. Der Poller war aus Holz, dunkel, alt, die Oberfläche rau von Jahren Seil und Salz. Auf der Seite, die der Figur zugewandt gewesen war: Spuren. Tief, drei Rillen, parallel, die Kanten glatt. Nicht geritzt. Geschnitten. Das Holz an den Rändern dunkel, die Fasern glatt verschmolzen, als hätte etwas Heißes hindurchgefahren. Sorel legte die Finger hinein. Die Rillen waren warm. Wärmer als das Holz drumherum, wärmer als die Nachtluft, wärmer als seine Finger.
 
