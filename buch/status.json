@@ -148,9 +148,10 @@
       "07": {
         "titel": "Vesper: Die Standuhr",
         "pov": "Vesper",
-        "status": "szenenplan",
-        "woerter": null,
-        "text": "Tidemoor-Haus am Grauwe-Ufer. Die Standuhr im Salon: Gehäuse perfekt, jedes Zahnrad geprüft. Hand drauf: Null Abweichung. Hand weg: 4:33. Die Uhr reagiert auf ihn."
+        "status": "checked",
+        "woerter": 3996,
+        "lesen": "/lesen/7/",
+        "text": "Tidemoor-Haus am Grauwe-Ufer. Die Standuhr im Salon: Gehäuse perfekt, jedes Zahnrad geprüft. Hand drauf: Null Abweichung. Hand weg: 4:33. Die Uhr reagiert auf ihn. Heißes Wasser aus kalten Rohren. Kratzspuren im Keller, warm. Eine Magd deren Gesten Gedanken auslösen die er kennt und wegwischt."
       },
       "08": {
         "titel": "Maren: Das Boot wächst",
