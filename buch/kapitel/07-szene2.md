@@ -2,13 +2,13 @@
 
 Zwei Stockwerke, Purpurstein, die Fenster dunkel hinter Gardinen die einmal weiß gewesen waren. Stufen zur Haustür, drei, Moos in den Fugen. Vesper klopfte.
 
-Schritte. Leicht, schnell, ein Rhythmus der nicht zögerte. Die Tür öffnete sich.
+Schritte hinter der Tür, leicht und schnell, ein Rhythmus der nicht zögerte. Die Tür öffnete sich.
 
 Die Frau in der Tür war Mitte zwanzig, vielleicht jünger, eine Schürze über dem Kleid, das Haar hochgesteckt, eine Strähne die sich gelöst hatte und in ihre Stirn fiel. Ihre rechte Hand lag am Türrahmen, die Finger leicht gespreizt, als hielte sie sich an etwas fest das nicht der Rahmen war. Sie schaute ihn an — kurz auf sein Gesicht, dann auf seine Hände, dann zurück. Ein Zögern, bevor sie sprach. Nicht Angst, nicht Unsicherheit. Etwas anderes. Etwas das wartete.
 
 Vespers Verstand sagte: *Lass die Strähne.* Ruhig, klar, der Ton eines Mannes der weiß was als Nächstes kommt. *Lass sie wo sie ist. Schau mich an.*
 
-Seine Finger glitten in die Tasche. Der Turm. Kalt. Er schloss die Hand darum und der Gedanke ging, lautlos, als wäre er nie gewesen. Er kannte das. Es kam und es ging und er ließ es gehen.
+Seine Finger glitten in die Tasche und schlossen sich um den Turm, der kalt war wie seit fünf Tagen, und der Gedanke ging, lautlos, als wäre er nie gewesen. Er kannte das. Es kam und es ging und er ließ es gehen.
 
 "Vesper Brandt. Uhrmacher, aus Karst." Seine Stimme war ruhig. "Ich habe von Ihrer Standuhr gehört. Sie verliert Zeit?"
 
@@ -32,7 +32,7 @@ Er nickte. Sie ging. Ihre Schritte im Flur, gleichmäßig, leiser.
 
 Vesper stand vor der Uhr und hörte zu.
 
-Tick. Tick. Tick. Zweihundertvierzig Schläge pro Minute, das Standardtempo einer Standuhr mit Sekundenpendel. Er zählte, dreißig Sekunden, hundertzwanzig Schläge. Kein Aussetzer. Kein Stolpern. Jeder Schlag saß, und der Abstand zwischen den Schlägen war identisch, so weit sein Ohr das beurteilen konnte, und sein Ohr konnte das beurteilen — dreizehn Jahre Werkbank hatten es kalibriert.
+Tick. Tick. Tick. Hundertzwanzig Halbschwünge pro Minute, das Standardtempo einer Standuhr mit Sekundenpendel. Er zählte dreißig Sekunden und kam auf sechzig Schläge, jeden einzelnen an der richtigen Stelle. Jeder Schlag saß, und der Abstand zwischen den Schlägen war identisch, so weit sein Ohr das beurteilen konnte, und sein Ohr konnte das beurteilen — dreizehn Jahre Werkbank hatten es kalibriert.
 
 Alles stimmte. Das war das Problem.
 
@@ -40,9 +40,9 @@ Die Magd kam zurück. Eine Tasse auf einem Tablett, Porzellan, ein Sprung im Ran
 
 *Stell es ab. Steh still. Warte.*
 
-Der Gedanke war da, ruhig, präzise, in derselben Tonlage wie der erste. Kein Bild diesmal, nur Worte. Instruktionen die sein Verstand formulierte, für eine Frau die er nicht kannte, in einem Haus das nicht seines war. Er kannte das. Er kannte den Rhythmus — der Gedanke kam, klar und bestimmt, und dann war er vorbei, und er trank Tee und der Turm lag kalt in seiner Tasche und die Uhr tickte.
+Der Gedanke war da, ruhig und präzise, in derselben Tonlage wie der erste. Kein Bild diesmal, nur Worte — Instruktionen die sein Verstand formulierte, für eine Frau die er nicht kannte, in einem Haus das nicht seines war. Er kannte das. Er kannte den Rhythmus, der Gedanke kam und ging, klar und bestimmt, und dann war er vorbei, und der Turm lag kalt in seiner Tasche und die Uhr tickte und nichts davon war wichtig genug um darüber nachzudenken.
 
-"Danke", sagte er. Der Tee war heiß. Stark, kein Zucker. Er trank.
+"Danke", sagte er. Der Tee war heiß und stark und ohne Zucker, und er trank ihn in kleinen Schlucken, während die Uhr über ihm tickte.
 
 "Die Tidemoors kommen gegen fünf", sagte die Magd. Sie stand an der Tür. Nicht unruhig, nicht eilig. Wartend. "Soll ich Ihnen sagen dass Sie hier sind?"
 
@@ -62,7 +62,7 @@ Um halb sechs kam der Hausherr. Groß, schmal, grau an den Schläfen, ein Mann d
 
 "Einem reisenden Uhrmacher. Im Gasthaus. Er sagte, sie verliert 4:33 pro Tag."
 
-Der Hausherr verzog den Mund. Nicht Ärger, nicht Amüsiertheit. Die Resignation eines Mannes der ein Problem hat das nicht verschwindet.
+Der Hausherr verzog den Mund, und seine Schultern sanken einen Zentimeter, die Mundwinkel blieben unten — ein Mann der ein Problem hat das nicht verschwindet.
 
 "Drei Uhrmacher haben sie sich angesehen. Keiner hat etwas gefunden." Er deutete auf die Uhr. "Machen Sie."
 
@@ -74,7 +74,7 @@ Er stellte seine Taschenuhr daneben. Schloss das Gehäuse. "Darf ich eine Stunde
 
 Vesper saß. Die Uhr tickte. Die Taschenuhr lag auf dem Tisch. Er wartete.
 
-Eine Stunde. Sechzig Minuten. Dreitausendsechshundert Sekunden.
+Eine Stunde, sechzig Minuten, dreitausendsechshundert Sekunden.
 
 Er verglich. Die Standuhr hatte 4:33 verloren. Vierhundertdreiundsiebzig — nein. 273 Sekunden. Er rechnete nach. 4 Minuten, 33 Sekunden. 273 Sekunden. Dieselbe Zahl. Dieselbe Zahl wie in Karst, auf jedem Zifferblatt, in jeder Uhr die stehengeblieben war.
 
@@ -110,16 +110,16 @@ Die Magd stand an der Tür. Er hatte sie nicht kommen hören.
 
 "Wenn das möglich ist."
 
-Sie ging und kam zurück. Ein Schlüssel, Messing, schwer, älter als das Schloss in das er passte. Ihre Finger berührten seine Handfläche, als sie ihn übergab. Kurz. Warm.
+Sie ging und kam zurück. Ein Schlüssel, Messing, schwer, älter als das Schloss in das er passte. Ihre Finger berührten seine Handfläche, als sie ihn übergab, kurz und warm.
 
 "Die Seitentür. Am Garten." Sie schaute ihn nicht an.
 
-Vesper nahm den Schlüssel. Steckte ihn in die Tasche, neben den Turm. Messing, warm. Holz, kalt. Zwei Gegenstände nebeneinander, und der Unterschied zwischen ihnen war alles was er nicht erklären konnte.
+Vesper nahm den Schlüssel. Steckte ihn in die Tasche, neben den Turm. Messing neben Holz, warm neben kalt — zwei Gegenstände nebeneinander, und der Unterschied zwischen ihnen war alles was er nicht erklären konnte.
 
 "Danke", sagte er. Ging. Durch den Flur, an den Stichen und dem Porträt vorbei, durch die Haustür, in den Nebel.
 
 Auf dem Rückweg am Fluss entlang, im Dunkel, die Gaslampen ferne Punkte im Dunst, zog sein Verstand die Hypothesen auseinander. Körperwärme: das Werk war geschlossen, die Hand lag auf dem Gehäuse, nicht auf dem Pendel. Temperatureffekte auf Messing betrugen Bruchteile von Sekunden pro Tag, nicht 273. Statische Aufladung: möglich bei trockenem Klima, aber Vael war das Gegenteil von trocken, die Luft triefte, kein vernünftiger Elektrostatik-Effekt. Vibration durch den Puls: das Pendel hing an einer eigenen Achse, mechanisch entkoppelt vom Gehäuse, sein Puls konnte das Pendel nicht beeinflussen, nicht über das Gehäuse, nicht über den Stuhl, nicht über den Boden.
 
-Keine Hypothese hielt. Nicht eine.
+Keine Hypothese hielt.
 
-273. Die Zahl stand da, hinter seiner Stirn, wo sie seit acht Tagen stand. Und jetzt war eine zweite daneben: Null. 273 und Null, und der Unterschied zwischen ihnen war seine Hand.
+273. Die Zahl stand da, hinter seiner Stirn, wo sie seit fünf Tagen stand. Und jetzt war eine zweite daneben: Null. 273 und Null, und der Unterschied zwischen ihnen war seine Hand.

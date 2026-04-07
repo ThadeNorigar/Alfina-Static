@@ -1,32 +1,6 @@
 # Kapitel 7 — Szene 1
 
-Der Stein war falsch.
-
-Vesper stand am Kutschenfenster und schaute auf die Stadt, die sich unter dem Nebel zusammenzog wie etwas das nicht gesehen werden wollte. Vier Tage. Vier Tage Kutsche, zwei Postkutschen, eine Fähre über einen Fluss dessen Namen er vergessen hatte, und jetzt diese letzte Straße, die sich an der Küste entlangwand und in eine Stadt mündete, die aus einem Stein bestand den er nicht kannte.
-
-Dunkel. Feucht. Aus den Fugen stieg Dunst, fein, als schwitze die Stadt. Granit, Basalt, Schiefer — er kannte die Gesteinsarten der Innenlande, die grauen und braunen Steine aus denen Karst gebaut war, berechenbar, trocken, ohne Überraschungen. Dieser Stein war keiner davon. Er war dunkel und zugleich nicht dunkel, eine Farbe die sich nicht festhalten ließ, die zwischen den Blicken wechselte. Purpur, hatte der Uhrmacher gesagt. Purpurstein. Das Wort half nicht. Es beschrieb die Oberfläche, nicht das was darunter lag.
-
-Unter den Rädern Kopfsteinpflaster. In seiner Tasche lag der Turm. Kalt. Er drehte ihn, Daumen, Zeigefinger, Mittelfinger, die Bewegung die er zehntausendmal gemacht hatte, die Kanten des Holzes unter seinen Fingerkuppen glatt und vertraut. Seit Karst war das Holz kalt. Vier Tage, vier Nächte, und es nahm seine Körperwärme nicht an. Vor Karst war der Turm immer warm gewesen. Die Wärme seiner Hand, die Wärme der Tasche, die Wärme des Holzes das sich an ihn anpasste, seit dreizehn Jahren. Jetzt nicht mehr. Er hatte aufgehört sich zu fragen warum. Die Antwort stand auf sechsundzwanzig Zifferblättern in einer Werkstatt die er nicht abgeschlossen hatte.
-
-273.
-
-Die Zahl stand da, hinter seiner Stirn, wo sie seit vier Tagen stand. Er konnte sie nicht bewegen. Er hatte es versucht — auf der Fähre, in der Postkutsche, im Gasthof an der Küstenstraße, wo er eine Nacht geschlafen hatte, schlecht, den Turm in der Faust. Die Zahl blieb. Sie hatte Form und Gewicht und Temperatur, und die Temperatur war dieselbe wie die des Turms.
-
-Etwas rief der Kutscher im Küstendialekt, breiter als alles was Vesper kannte, und die Kutsche hielt. Er stieg ab. Den Koffer in der linken Hand, den Turm in der rechten Tasche. Die Luft traf ihn — feucht, salzig, schwer, eine Luft die sich auf die Haut legte und dort blieb. Unter dem Salz lag etwas anderes, süßlich, dicht, ein Geruch den er nicht einordnen konnte. Die Innenlande rochen nach Metall und Staub. Hier roch die Luft nach etwas das er nicht benennen konnte, und das allein war ein Befund der ihm nicht gefiel.
-
-Er schaute nach oben. Keine Turmuhren. In Karst sah man von jeder Gasse mindestens zwei — die Gildeuhr, die Marktkirche, den Rathausturm. Hier: Giebel, Nebel, Gaslampen die am Nachmittag brannten. Keine Uhren. Als hätte die Stadt beschlossen, dass Zeit sie nichts anging. Er zählte die Giebel die er sehen konnte — sieben, acht, der Nebel verschluckte den Rest — und an keinem eine Uhr. Nicht einmal eine Sonnenuhr. In Karst wäre das ein Zeichen von Nachlässigkeit gewesen. Hier war es ein Zeichen von etwas anderem, das er noch nicht benennen konnte.
-
-Der Turm drehte sich.
-
-"Gasthaus?", fragte er einen Mann der Fässer auf einen Karren lud, breite Schultern, nasse Schürze.
-
-"Anker. Hafengasse runter." Der Mann zeigte mit dem Kinn. Seine Hände ließen die Fässer nicht los. Vesper nickte und ging.
-
-Schmal war die Hafengasse, feucht, und sie roch nach Teer und Tang und dem Stein der nicht aufhörte zu dampfen. Giebel an Giebel standen die Häuser, das Pflaster nass obwohl es nicht regnete. Von überall kam die Feuchtigkeit — aus dem Boden, aus den Wänden, aus der Luft die zu schwer war für April. In Karst war April trocken, kalt, die Luft dünn. Hier war April ein nasser Lappen über dem Gesicht.
-
-Am Ende der Gasse ein Schild, Schmiedeeisen, verrostet, die Buchstaben kaum lesbar: *Zum Anker*. Schmaler Bau, eingekeilt zwischen zwei größeren Häusern. Die Tür stand offen.
-
-Vesper trat ein. Niedriger Balken, dunkles Holz. Bier, das in die Dielen eingezogen war, über Jahre, ein süßlicher Unterton unter dem Rauch. Eine Theke, abgewetzt. Dahinter ein Mann — breit, grau, ein Gesicht aus Stein und Gewohnheit, als wäre er zusammen mit dem Mobiliar in den Boden gewachsen. Er schaute Vesper an und wartete.
+Die Theke war abgewetzt und der Mann dahinter sah aus, als gehöre er dazu — breit, grau, ein Gesicht das keine Fragen stellte und keine Antworten erwartete. Vesper stellte den Koffer ab. Vier Tage Staub auf dem Leder, vier Tage Schweiß in den Nähten. Seine Schultern schmerzten. Sein rechtes Knie war steif von der letzten Kutsche, der schmalen, die von der Küstenstation in die Stadt fuhr, über Pflaster das härter war als alles in den Innenlanden.
 
 "Zimmer?"
 
@@ -34,29 +8,69 @@ Vesper trat ein. Niedriger Balken, dunkles Holz. Bier, das in die Dielen eingezo
 
 Vesper legte die Münzen auf den Tresen. Der Wirt zählte sie, strich sie ein, sagte nichts. Seine Hände waren langsam und sicher, die Hände eines Mannes der seit Jahrzehnten dieselben Handgriffe machte. Vesper kannte solche Hände. Es waren die Hände die er respektierte — Hände die ihr Werkzeug kannten.
 
-"Kennen Sie das Tidemoor-Haus?"
+"Kennen Sie ein Herrenhaus am Fluss? Mit einer Standuhr?"
 
-Der Wirt schaute ihn an. Einen Moment länger als nötig. Etwas veränderte sich in seinem Gesicht, nicht viel, eine Verschiebung um die Augen, als hätte Vesper ein Wort gesagt das er lieber nicht gehört hätte.
+Der Wirt schaute ihn an. Einen Moment länger als nötig. Etwas veränderte sich in seinem Gesicht, nicht viel, eine Verschiebung um die Augen.
 
-"Am Grauwe-Ufer. Zwanzig Minuten zu Fuß, den Fluss entlang." Er wischte über die Theke. "Gehört den Tidemoors. Alte Familie."
+"Das Tidemoor-Haus. Am Grauwe-Ufer. Zwanzig Minuten zu Fuß, den Fluss entlang." Er wischte über die Theke. "Alte Familie."
 
-"Die Standuhr dort — "
+"Die Standuhr — "
 
 "Weiß ich nichts drüber." Die Theke war sauber. Der Wirt wischte trotzdem weiter.
 
-Vesper nahm den Schlüssel. Ging nach oben. Der Koffer schlug gegen seine Wade auf der schmalen Treppe, die Stufen ausgetreten in der Mitte, das Holz hohl unter seinen Sohlen. Zweiter Stock, linke Tür. Das Zimmer war klein genug um es mit drei Schritten zu kennen. Bett, Stuhl, Tisch, Waschkrug. Kamin an der Wand, gemauert aus dem dunklen Stein, die Asche grau und kalt. Es roch nach Kalk und altem Holz und nach der Feuchtigkeit die in alles kroch, die in den Putz sickerte, in die Laken, in die Fugen zwischen den Dielen.
+Vesper nahm den Schlüssel. Ging nach oben. Der Koffer schlug gegen seine Wade auf der schmalen Treppe, die Stufen ausgetreten in der Mitte, das Holz hohl unter seinen Sohlen. Zweiter Stock, linke Tür. Das Zimmer war klein genug um es mit drei Schritten zu kennen. Bett, Stuhl, Tisch, Waschkrug. Kamin an der Wand, die Asche grau und kalt. Er stellte den Koffer ab. Legte die Werkzeugrolle auf den Tisch. Öffnete sie — Pinzetten, Schraubendreher, Lupe, Ölfläschchen, der Samtbeutel mit den Zahnrädern. Jedes Werkzeug an seiner Position. Die Ordnung beruhigte ihn. Nicht genug. Nichts war genug seit die Uhren stehengeblieben waren.
 
-Er stellte den Koffer ab. Legte die Werkzeugrolle auf den Tisch. Öffnete sie — Pinzetten, Schraubendreher, Lupe, Ölfläschchen, der Samtbeutel mit den Zahnrädern. Jedes Werkzeug an seiner Position. Die Ordnung beruhigte ihn. Nicht genug. Nichts war genug seit vier Tagen, seit die Uhren stehengeblieben waren und die Zahl sich in seinen Kopf gesetzt hatte und nicht mehr ging.
+Er zog den Mantel aus. Wusch sich die Hände im Waschkrug, das Wasser kalt, der Staub der Reise löste sich von seinen Fingern und sank als grauer Schleier auf den Grund. Vier Tage. Zwei Postkutschen, eine Fähre über den Graufluss, dann die Küstenstraße, wo die Luft sich verändert hatte — schwerer, feuchter, ein Geruch unter dem Salz den er nicht einordnen konnte. In seiner Tasche lag der Turm. Kalt. Seit Karst. Er drehte ihn, Daumen, Zeigefinger, Mittelfinger, die Kanten des Holzes glatt und vertraut. Vier Tage, vier Nächte, und das Holz nahm seine Körperwärme nicht an.
+
+273.
+
+Die Zahl stand da, hinter seiner Stirn, wo sie seit fünf Tagen stand. Seit die sechsundzwanzig Uhren in seiner Werkstatt gleichzeitig stehengeblieben waren, jede auf 4:33, und die Stille die folgte tiefer war als jede Stille die er kannte. Er hatte den Turm aufgehoben, der auf den Boden gefallen war. Das Holz war kalt. Er hatte den Koffer gepackt, drei Minuten, die Werkzeugrolle, drei Hemden, Rasiermesser. Die Tür abgeschlossen. Die Morgenkutsche um sechs.
 
 Er ging zurück nach unten.
 
-Im Schankraum saß eine Frau am Fenster. Allein. Vesper registrierte sie im Vorbeigehen — aufrechte Haltung, dunkles Haar, Hände die auf einem Notizbuch lagen. Sie schaute nicht auf. Er ging durch die Tür, in den Nebel, den Fluss entlang.
+Im Schankraum brannte ein Kaminfeuer, niedrig, das Holz knackte. Zwei Männer an einem Tisch, Biergläser, leises Gespräch. An einem Tisch am Fenster saß eine Frau, allein. Dunkles Haar, aufrechte Haltung, ein Notizbuch aufgeschlagen vor ihr auf dem Tisch. Sie schaute auf, als er die Treppe herunterkam. Kurz. Dann zurück auf das Buch. Vesper ging zur Theke.
 
-Trüb war die Grauwe, langsam, das Wasser schwer und undurchsichtig. Am Ufer war der Weg schlammig, seine Stiefel sanken ein. Schilf, nass und hoch, stand am Rand und neigte sich zum Fluss, gleichmäßig, als hätte jemand es gekämmt. Die Häuser wurden weniger. Der Stein blieb. Der Nebel wurde dichter, je weiter er sich von der Stadt entfernte, und die Stille wurde größer, nicht leer, sondern gefüllt mit dem Rauschen des Flusses und dem Ruf eines Vogels den er nicht kannte und dem Schlagen seines eigenen Pulses in den Ohren.
+"Bier", sagte er. Der Wirt stellte ein Glas auf das Holz, dunkel, ohne Schaum. Vesper trank. Malz und Rauch. In Karst schmeckte Bier nach Kupfer. Hier schmeckte es nach etwas das er nicht benennen konnte, süßlich, dicht — derselbe Geruch der in der Luft lag, seit er die Küste erreicht hatte.
+
+Einer der Männer am Nebentisch drehte sich zu ihm. Grau, Bart, Schürze — ein Handwerker, nach Feierabend.
+
+"Frisch angekommen?"
+
+Vesper nickte.
+
+"Sieht man." Der Mann grinste. "Der Staub. Woher?"
+
+"Karst."
+
+"Karst." Der Mann pfiff leise durch die Zähne. "Das sind vier Tage. Fünf bei schlechtem Wetter." Er trank. "Was verschlägt einen aus den Innenlanden an die Grauküste?"
+
+"Eine Uhr."
+
+Der Mann schaute ihn an. Wartete. Vesper trank.
+
+"Ich bin Uhrmacher", sagte er. "Es gibt hier eine Standuhr die 4:33 pro Tag verliert. Bei perfektem Werk."
+
+"Die Tidemoor-Uhr." Der Mann nickte langsam. "Mein Schwiegervater hat die auch angeschaut. Vor zehn Jahren. Ist Schreiner, nicht Uhrmacher, aber er hat gesagt, das Gehäuse ist einwandfrei und das Werk sei es auch. Hat sich nicht erklären können warum die falsch geht." Er trank. "Geht schon immer falsch. Seit ich denken kann."
+
+Vesper stellte sein Glas ab. Der Turm drehte sich in seiner Tasche. "Seit immer?"
+
+"Sagen die Tidemoors. Die Uhr war schon da als sie das Haus gekauft haben, das war..." Er schaute zur Decke. "Vor dreißig Jahren? Vierzig? Alte Familie, aber das Haus ist älter."
+
+"Wer hat die Uhr gebaut?"
+
+"Weiß niemand." Der Mann zuckte die Achseln. "Steht nichts drin. Kein Name, kein Stempel. Mein Schwiegervater hat danach gesucht."
+
+Vesper trank sein Bier aus. Stellte das Glas auf die Theke. In seinem Kopf lief die Zahl, 273, und neben ihr jetzt eine zweite Information: die Uhr war älter als das Haus. Älter als die Familie die darin wohnte. Kein Erbauer bekannt. Kein Name. Als hätte jemand sie dort hingestellt und vergessen, oder absichtlich zurückgelassen.
+
+"Danke", sagte er. Legte eine Münze auf den Tresen.
+
+"Viel Glück", sagte der Mann. "Die Uhr ist hartnäckig."
+
+Vesper ging zur Tür. Im Vorbeigehen streifte sein Blick die Frau am Fenster. Sie schrieb, die Feder kratzte über das Papier, schnell, konzentriert. Ihre linke Hand lag flach auf dem Tisch, die Finger gespreizt, Tintenflecken am Zeigefinger und Mittelfinger. Er registrierte es wie er ein Uhrwerk registrierte — die Teile, die Anordnung, die Funktion — und ging durch die Tür, in den Nachmittag, den Fluss entlang.
 
 Der Turm drehte sich schneller. 273. Die Zahl die nicht aufhörte.
 
-Am Ufer, hinter einer niedrigen Mauer aus demselben dampfenden Stein, stand ein Haus. Zwei Stockwerke, Purpurstein, die Fenster dunkel. Ein Garten davor, der die Kontrolle verloren hatte — Hecken die in den Weg wuchsen, Moos auf den Stufen, ein Rosenstrauch der bis zum Fenstersims reichte und dort stoppte, als hätte ihn jemand abgewiesen. Das Haus war nicht verfallen. Es war müde. Ein Haus das einmal etwas gewesen war und es vergessen hatte, oder aufgegeben.
+Am Ufer, hinter einer niedrigen Mauer, stand ein Haus. Zwei Stockwerke, die Fenster dunkel. Ein Garten davor, der die Kontrolle verloren hatte — Hecken die in den Weg wuchsen, Moos auf den Stufen. Das Haus war nicht verfallen. Es war müde.
 
 Das Tidemoor-Haus.
 

@@ -4,11 +4,9 @@ Das Bett im Anker war schmal und hart und roch nach Lauge und dem Kalk der in de
 
 In seiner rechten Hand der Turm. Kalt. Die Finger drehten ihn, Daumen, Zeigefinger, Mittelfinger, langsam, die Kanten des Holzes in seinem Fleisch, die Bewegung die er seit dreizehn Jahren machte wenn er nicht schlief. Neben dem Turm, in der Manteltasche über dem Stuhl, der Schlüssel. Messing. Warm, als er ihn eingesteckt hatte. Jetzt wahrscheinlich kalt. Wie alles in diesem Zimmer.
 
-273. Und Null. Und der Unterschied zwischen ihnen.
+273 und Null und der Unterschied zwischen ihnen.
 
-Er stand auf.
-
-Stiefel, Mantel, der Schlüssel in der linken Tasche, der Turm in der rechten. Die Treppe hinunter, die Stufen knarrten, er ging langsam, jede Stufe einzeln, um niemanden zu wecken. Die Haustür. Der Riegel war nicht vorgelegt. Er trat auf die Gasse.
+Er stand auf, zog die Stiefel an, den Mantel, steckte den Schlüssel in die linke Tasche und den Turm in die rechte. Die Treppe hinunter, die Stufen knarrten, er ging langsam, jede Stufe einzeln, um niemanden zu wecken. Die Haustür. Der Riegel war nicht vorgelegt. Er trat auf die Gasse.
 
 Nebel. Dichter als am Nachmittag, tiefer, er reichte ihm bis zur Brust. Die Gaslampe an der Ecke brannte, gelb, ein trüber Kreis der drei Meter weit reichte. Darüber hinaus: Grau. Nasses Pflaster unter seinen Sohlen, der Geruch von Tang und dem süßlichen Etwas das er nicht benennen konnte. Seine Schritte hallten, gedämpft vom Nebel, als liefe er durch Watte.
 
@@ -30,11 +28,11 @@ Er ließ die Hand dort und ging weiter durch das Haus. Nicht zur Uhr — die Uhr
 
 Die Küche. Kalter Herd. Kupfertöpfe an der Wand, das Metall angelaufen. Ein Hahn am Spülstein. Er drehte ihn auf. Wasser kam — kalt. Er hielt die Hand darunter. Kalt. Wartete. Zählte. Dreißig Sekunden, vierzig, fünfzig — warm. Nicht viel, ein Hauch, aber da. Sechzig Sekunden. Wärmer. Siebzig. Heiß. Dampf stieg auf, im Dunkeln unsichtbar, aber er spürte ihn an Gesicht und Händen, feucht und heiß.
 
-Er drehte ab. Kniete sich hin. Unter dem Spülstein das Rohr, Kupfer. Er legte die Hand darum. Kalt. Er folgte dem Rohr, mit den Fingern, durch die Wand, so weit er reichte. Kalt. Stand auf. Ging in den Keller.
+Er drehte ab und kniete sich hin. Unter dem Spülstein lief ein Kupferrohr in die Wand, und er legte die Hand darum — kalt. Er folgte dem Rohr mit den Fingern, so weit er reichte, und überall war es kalt. Er stand auf und ging in den Keller.
 
 Die Kellertreppe. Stein unter seinen Sohlen, kalt, die Stufen ungleichmäßig, als hätte jemand sie in den Fels gehauen ohne Maß zu nehmen. Er hielt sich am Geländer fest, Holz, nass vom Schwitzwasser. Unten: Dunkelheit. Der Geruch von Kohle, von Feuchtigkeit, von etwas Metallischem das er nicht einordnen konnte.
 
-Er tastete an der Wand entlang. Fand das Rohr. Kupfer. Kalt. Vom Keller bis zur Küche, vom Hahn bis zur Quelle — kalt. Kein Kessel. Kein Ofen. Kein Brennstoff. Er suchte. Systematisch, Wand für Wand, in der Dunkelheit, mit den Händen, weil seine Augen nutzlos waren. Nichts. Keine Wärmequelle. Kein System das Wasser erhitzte. Nur kalte Rohre und heißes Wasser.
+Er tastete an der Wand entlang und fand das Rohr wieder, Kupfer, kalt, vom Keller bis zur Küche, vom Hahn bis zur Quelle — überall kalt. Er suchte einen Kessel, einen Ofen, irgendeinen Brennstoff, systematisch, Wand für Wand, in der Dunkelheit, mit den Händen, weil seine Augen nutzlos waren. Er fand nichts. Nur kalte Rohre und heißes Wasser und keinen Grund warum das eine das andere nicht ausschloss.
 
 Er stand im Keller. Seine Hände an den Seiten, feucht vom Schwitzwasser der Rohre. Sein Verstand lief und fand nichts. Ein System ohne Wärmequelle, das heißes Wasser lieferte. Rohre die kalt blieben, während das Wasser in ihnen heiß wurde. Irgendwo zwischen Keller und Küche passierte etwas mit dem Wasser, das kein Kessel erklärte und kein Ofen und kein Prinzip der Thermodynamik das er kannte. Und dieses Haus stand auf demselben Purpurstein wie die Stadt, massiv, auf Fels, und in diesem Haus stand eine Uhr die 273 Sekunden pro Tag verlor, außer wenn seine Hand auf dem Gehäuse lag.
 
@@ -64,10 +62,6 @@ Warm.
 
 Nicht die Wärme des Hauses, nicht die Restwärme eines Werkzeugs. Eine Wärme die aus dem Holz kam, tief, als glühte etwas darunter. Draußen April-Nacht, kalt, der Nebel feucht, das Holz hätte kalt sein sollen, kalt wie die Rohre, kalt wie der Stein, kalt wie alles in diesem Keller. Die Rillen waren warm.
 
-Vesper zog den Finger zurück. Stand auf. Ging die Treppe hinauf, durch den Flur, in den Salon. Die Uhr tickte. Er legte die Hand auf das Gehäuse. Warm. Unter seiner Handfläche: korrekt. Er setzte sich in den Sessel. Der Turm in der rechten Hand. Kalt. Die Uhr unter der linken. Warm. Die Rillen im Keller: warm. Das Wasser aus den kalten Rohren: warm.
-
-Der Turm: kalt.
-
-Alles in diesem Haus war wärmer als es sein sollte. Alles außer dem Ding das er seit dreizehn Jahren in der Hand hielt.
+Vesper zog den Finger zurück und ging die Treppe hinauf, durch den Flur, zurück in den Salon. Die Uhr tickte. Er legte die Hand auf das Gehäuse, und es war warm unter seiner Handfläche, und sie tickte korrekt. Er setzte sich in den Sessel, den Turm in der rechten Hand, kalt, die Uhr unter der linken, warm. Die Rillen im Keller waren warm gewesen. Das Wasser aus den kalten Rohren war warm gewesen. Alles in diesem Haus war wärmer als es sein sollte, alles außer dem Ding das er seit dreizehn Jahren in der Hand hielt.
 
 Scheiße.
