@@ -125,6 +125,18 @@
 
     .prose p.opening { text-indent: 0; }
 
+    .prose p.date-line {
+      text-indent: 0;
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.95rem;
+      letter-spacing: 0.05em;
+      margin-bottom: 1.8rem;
+      opacity: 0.8;
+    }
+
+    .prose p.date-line em { font-style: italic; }
+
     .prose p.opening::first-letter {
       font-size: 3.5rem;
       float: left;
@@ -390,8 +402,13 @@
 
               let processed = line.replace(/\*([^*]+)\*/g, '<em>$1</em>');
               const isDialog = line.startsWith('"') || line.startsWith('\u201e') || line.startsWith('\u00ab');
+              // Datumszeile am Kapitelanfang: komplett von * umschlossen, kein zweites Sternpaar.
+              // Darf den Drop-Cap nicht einläuten — isFirst bleibt true fuer den naechsten Absatz.
+              const isDateLine = isFirst && /^\*[^*]+\*$/.test(line);
 
-              if (isFirst) {
+              if (isDateLine) {
+                html += '<p class="date-line">' + processed + '</p>';
+              } else if (isFirst) {
                 html += '<p class="opening">' + processed + '</p>';
                 isFirst = false;
               } else if (isDialog) {

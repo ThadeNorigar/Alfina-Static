@@ -1,5 +1,7 @@
 # Elke
 
+*Nebelmond 1423 · Tag 1 in Vael*
+
 Vierhundert Jahre bevor eine Frau in Velde aufhörte, sich einzureden, dass Pflanzen nicht auf sie reagierten, kam eine andere Frau nach Vael. Keine Frau der Pflanzen. Eine Frau des Steins.
 
 Sie hieß Elke van der Holt, und sie kam aus dem Süden, von der Küste am Binnenmeer, wo die Steinmetzgilden den weißen Kalk der Klippen bearbeiteten und das Licht warm war und der Stein tat, was Stein tun sollte. Sie kam auf einem Pferd, drei Tage über schlechte Straßen, durch Wälder, die mit jeder Meile nördlicher dunkler wurden, und durch Dörfer, die mit jeder Meile nördlicher stiller. Ein Mann ritt neben ihr, Hendryk, ein Händler aus den Innenlanden, der die Straße nach Vael kannte und froh gewesen war um Gesellschaft. Er hatte am zweiten Tag angefangen, sich im Sattel umzudrehen, nicht zu ihr, sondern auf die Straße hinter ihnen, als erwartete er etwas, das von Norden kam.

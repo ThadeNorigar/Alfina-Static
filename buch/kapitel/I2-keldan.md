@@ -1,5 +1,7 @@
 # Elke
 
+*Frostmond 1423 · 6 Wochen in Vael*
+
 Der Frostmond lag auf Vael, und die Schmiede am Hafen lag tief, halb in den Fels gebaut, und das Feuer in der Esse brannte seit dem Morgen. Elke hörte den Hammer drei Gassen weit — ein einzelner Schlag, dann Stille, dann ein zweiter, langsamer als er hätte sein sollen, als dächte der Mann zwischen den Schlägen nach.
 
 Keldan Rohn stand am Amboss, die Zange in der linken Hand, den Hammer in der rechten, und das Eisen unter dem Hammer war falsch. Elke sah es von der Tür aus — die Art wie der Barren sich bog, nachgiebig, fast willig, als wäre er Zinn und nicht Eisen. Keldan schlug, und das Metall gab nach, zu schnell, zu weich, und er hielt inne und schaute das Stück an, und sein Mund wurde schmal.
