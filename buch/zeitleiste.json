@@ -1,27 +1,145 @@
 {
   "meta": {
     "titel": "Der Riss — Zeitleiste",
-    "untertitel": "Zwei Welten. Ein Tor. Zwei Zeiten.",
+    "untertitel": "Zwei Welten. Ein Riss. Zwei Zeiten.",
     "beschreibung": "Thalassien — eine Welt ohne Magie. Moragh — eine Welt im Krieg. 1 MZ-Jahr = 400 TZ-Jahre.",
     "zeitrechnung": {
       "tz_null": "Erfindung des Uhrwerks",
       "mz_null": "Durchgang der Vier nach Moragh (Ende Buch 1)",
       "verhaeltnis": "1 MZ-Jahr = 400 TZ-Jahre",
       "monat": "1 MZ-Monat ≈ 33 TZ-Jahre"
+    },
+    "schema": {
+      "_doc": "Schema für state-tragende Events. Jeder Event lebt unter monate[i].events.thalassien|moragh. Pflichtfelder: tz, mz, titel, kapitel, typen. Drei strukturierte Event-Typen tragen zusätzliche Felder, die scripts/stand.py liest und zu einem Snapshot faltet (Wohnorte, Begegnungen, Wissen).",
+      "_zeit_optional": "Jeder Event darf zusätzlich tz_tag (1..365, Tag im TZ-Jahr) und datum_text (lesbar, z.B. '5. Mai') tragen. Fehlt tz_tag, wird der Event in Lesereihenfolge sortiert. Mit tz_tag kann stand.py auch 'Alphina ist 38 Tage in Vael' berechnen.",
+      "wohnort": {
+        "_doc": "Wer wohnt jetzt wo. Ein neuer wohnort-Event überschreibt den vorherigen für dieselbe Figur. Snapshot zeigt den jeweils letzten ≤ Kap N.",
+        "pflichtfelder": [
+          "figur",
+          "ort"
+        ],
+        "optionalfelder": [
+          "stadt",
+          "detail"
+        ],
+        "beispiel": {
+          "tz": 551,
+          "mz": 0,
+          "kapitel": "05",
+          "typen": [
+            "wohnort"
+          ],
+          "figur": "Alphina",
+          "ort": "Gasthaus Zum Anker, Hafengasse",
+          "stadt": "Vael",
+          "titel": "Alphina bezieht den Anker"
+        }
+      },
+      "begegnung": {
+        "_doc": "Wer hat wen getroffen. Snapshot listet alle ≤ Kap N. intensitaet eskaliert: fluechtig → bekannt → vertraut → intim. Mehrere Events zwischen denselben Figuren sind erlaubt — der Snapshot nimmt die höchste Intensität.",
+        "pflichtfelder": [
+          "figuren",
+          "intensitaet"
+        ],
+        "optionalfelder": [
+          "ort",
+          "detail"
+        ],
+        "intensitaeten": [
+          "fluechtig",
+          "bekannt",
+          "vertraut",
+          "intim"
+        ],
+        "beispiel": {
+          "tz": 551,
+          "mz": 0,
+          "kapitel": "11",
+          "typen": [
+            "begegnung"
+          ],
+          "figuren": [
+            "Alphina",
+            "Sorel"
+          ],
+          "intensitaet": "fluechtig",
+          "ort": "Botanischer Garten",
+          "titel": "Alphina trifft Sorel zum ersten Mal"
+        }
+      },
+      "wissen": {
+        "_doc": "Was eine Figur weiss. fakt ist ein stabiler Schlüssel (kebab-case). Stufe eskaliert: ahnt → gesehen → versteht → erklaert. Snapshot nimmt die höchste Stufe pro (figur, fakt) ≤ Kap N.",
+        "pflichtfelder": [
+          "figur",
+          "fakt",
+          "stufe"
+        ],
+        "optionalfelder": [
+          "detail"
+        ],
+        "stufen": [
+          "ahnt",
+          "gesehen",
+          "versteht",
+          "erklaert"
+        ],
+        "beispiel": {
+          "tz": 551,
+          "mz": 0,
+          "kapitel": "08",
+          "typen": [
+            "wissen"
+          ],
+          "figur": "Maren",
+          "fakt": "schemen-am-boot",
+          "stufe": "gesehen",
+          "titel": "Maren sieht Schemen am Boot arbeiten"
+        }
+      }
     }
   },
-
   "typen": {
-    "portal":      { "label": "Portal",        "farbe": "#8b4513" },
-    "begegnung":   { "label": "Begegnung",     "farbe": "#4a6a7a" },
-    "erkenntnis":  { "label": "Erkenntnis",    "farbe": "#6a5080" },
-    "erotik":      { "label": "Erotik",        "farbe": "#8b3a5a" },
-    "schlüssel":   { "label": "Schlüssel",     "farbe": "#b8860b" },
-    "tod":         { "label": "Tod",           "farbe": "#6b6259" },
-    "tschechow":   { "label": "Tschechow",     "farbe": "#5a7a5a" },
-    "hintergrund": { "label": "Hintergrund",   "farbe": "#555555" }
+    "portal": {
+      "label": "Portal",
+      "farbe": "#8b4513"
+    },
+    "begegnung": {
+      "label": "Begegnung",
+      "farbe": "#4a6a7a"
+    },
+    "erkenntnis": {
+      "label": "Erkenntnis",
+      "farbe": "#6a5080"
+    },
+    "erotik": {
+      "label": "Erotik",
+      "farbe": "#8b3a5a"
+    },
+    "schlüssel": {
+      "label": "Schlüssel",
+      "farbe": "#b8860b"
+    },
+    "tod": {
+      "label": "Tod",
+      "farbe": "#6b6259"
+    },
+    "tschechow": {
+      "label": "Tschechow",
+      "farbe": "#5a7a5a"
+    },
+    "hintergrund": {
+      "label": "Hintergrund",
+      "farbe": "#555555"
+    },
+    "wohnort": {
+      "label": "Wohnort",
+      "farbe": "#7a6a4a"
+    },
+    "wissen": {
+      "label": "Wissen",
+      "farbe": "#5a6a8a"
+    }
   },
-
   "monate": [
     {
       "label": "MZ -200",
@@ -36,25 +154,36 @@
         },
         "thalassien": [
           {
-            "tz": -79449, "mz": -200,
+            "tz": -79449,
+            "mz": -200,
             "titel": "Ankunft der Flüchtlinge aus Moragh",
             "detail": "Ohne Technologie, ohne Magie. Beginn der menschlichen Geschichte in Thalassien.",
-            "typen": ["schlüssel", "portal"],
-            "tags": ["Schlüsselereignis", "Portal"]
+            "typen": [
+              "schlüssel",
+              "portal"
+            ],
+            "tags": [
+              "Schlüsselereignis",
+              "Portal"
+            ]
           }
         ],
         "moragh": [
           {
-            "tz": -79449, "mz": -200,
+            "tz": -79449,
+            "mz": -200,
             "titel": "Kriegsflüchtlinge gehen nach Thalassien",
             "detail": "Früherer Konflikt. In Moragh noch in Erinnerung — in Thalassien vorgeschichtlich.",
-            "typen": ["portal"],
-            "tags": ["Portal"]
+            "typen": [
+              "portal"
+            ],
+            "tags": [
+              "Portal"
+            ]
           }
         ]
       }
     },
-
     {
       "label": "MZ -200 bis -6",
       "tz": "TZ -79.449 bis -1.449",
@@ -62,22 +191,33 @@
       "events": {
         "thalassien": [
           {
-            "tz": -79449, "mz": -200,
+            "tz": -79449,
+            "mz": -200,
             "titel": null,
             "luecke": "~78.000 TZ — keine Aufzeichnungen. Evolution: kleiner, heller, Resonanz statt Magie."
           },
           {
-            "tz": -249, "mz": -2,
+            "tz": -249,
+            "mz": -2,
             "titel": "Gründung von Vael",
             "detail": "Offiziell. Der Steinkreis im Botanischen Garten ist älter.",
-            "typen": ["schlüssel"],
-            "tags": ["Schlüsselereignis"]
+            "typen": [
+              "schlüssel"
+            ],
+            "tags": [
+              "Schlüsselereignis"
+            ]
           },
           {
-            "tz": 0, "mz": -1.38,
+            "tz": 0,
+            "mz": -1.38,
             "titel": "Erfindung des Uhrwerks — Beginn der TZ-Zeitrechnung",
-            "typen": ["schlüssel"],
-            "tags": ["Schlüsselereignis"]
+            "typen": [
+              "schlüssel"
+            ],
+            "tags": [
+              "Schlüsselereignis"
+            ]
           }
         ],
         "moragh": [
@@ -87,7 +227,6 @@
         ]
       }
     },
-
     {
       "label": "MZ ~-6",
       "tz": "TZ ~-1.449",
@@ -96,16 +235,22 @@
         "thalassien": [],
         "moragh": [
           {
-            "tz": -1449, "mz": -5,
+            "tz": -1449,
+            "mz": -5,
             "titel": "Varens Leylinien-Experiment scheitert",
             "detail": "3 Reservoir-Quellen kollabieren unwiederbringlich: Keth-Varen (riesig), Dulrath-Ost (groß), Reshkol (groß). Städte verdorren. Niemand weiß dass Varen schuld ist.",
-            "typen": ["schlüssel", "tschechow"],
-            "tags": ["Schlüsselereignis", "Tschechow: Varens Schuld"]
+            "typen": [
+              "schlüssel",
+              "tschechow"
+            ],
+            "tags": [
+              "Schlüsselereignis",
+              "Tschechow: Varens Schuld"
+            ]
           }
         ]
       }
     },
-
     {
       "label": "MZ ~-4",
       "tz": "TZ ~-1.049",
@@ -114,16 +259,20 @@
         "thalassien": [],
         "moragh": [
           {
-            "tz": -1049, "mz": -4,
+            "tz": -1049,
+            "mz": -4,
             "titel": "Der Krieg beginnt — Orath vs. Thar vs. Velmar",
             "detail": "Kampf um verbleibende Quellen. Dauert 4 MZ-Jahre (= ~1.600 TZ). Drei Fraktionen, drei Philosophien, keine Sieger.",
-            "typen": ["schlüssel"],
-            "tags": ["Schlüsselereignis"]
+            "typen": [
+              "schlüssel"
+            ],
+            "tags": [
+              "Schlüsselereignis"
+            ]
           }
         ]
       }
     },
-
     {
       "label": "MZ -4 bis -1",
       "tz": "TZ ~-1.049 bis 154",
@@ -141,7 +290,6 @@
         ]
       }
     },
-
     {
       "label": "MZ Monat -12",
       "tz": "TZ 154",
@@ -150,78 +298,128 @@
       "events": {
         "thalassien": [
           {
-            "tz": 154, "mz": -1.0,
+            "tz": 154,
+            "mz": -1.0,
             "titel": "Elke kommt nach Vael — wegen des Purpursteins",
             "detail": "Bildhauerin aus dem Süden. Berührt den Stein — er ist warm. Ein Gestein das es nirgendwo sonst gibt. Sie „hört“ seine Maserung.",
             "pov": "I1 · Elke",
-            "typen": ["begegnung"],
-            "tags": ["Erste Begegnung: Vael"]
+            "typen": [
+              "begegnung"
+            ],
+            "tags": [
+              "Erste Begegnung: Vael"
+            ]
           },
           {
-            "tz": 154, "mz": -1.0,
+            "tz": 154,
+            "mz": -1.0,
             "titel": "Elke bearbeitet den Klippenrand — der Botanische Garten entsteht",
             "detail": "Wo sie den Fels öffnet, wachsen Pflanzen aus dem Stein. Spätere Generationen nennen es „Garten.“ Der Steinkreis war schon da.",
             "pov": "Elke",
-            "typen": ["schlüssel", "tschechow"],
-            "tags": ["Schlüsselereignis", "Tschechow: Botanischer Garten"]
+            "typen": [
+              "schlüssel",
+              "tschechow"
+            ],
+            "tags": [
+              "Schlüsselereignis",
+              "Tschechow: Botanischer Garten"
+            ]
           },
           {
-            "tz": 154, "mz": -1.0,
+            "tz": 154,
+            "mz": -1.0,
             "titel": "Keldan trifft Elke — sein Barren summt",
             "pov": "I2 · Keldan",
-            "typen": ["begegnung"],
-            "tags": ["Erste Begegnung: Keldan + Elke"]
+            "typen": [
+              "begegnung"
+            ],
+            "tags": [
+              "Erste Begegnung: Keldan + Elke"
+            ]
           },
           {
-            "tz": 154, "mz": -1.0,
+            "tz": 154,
+            "mz": -1.0,
             "titel": "Lene findet den Steinkreis nachts — er pulsiert",
             "pov": "I3 · Lene",
-            "typen": ["erkenntnis"],
-            "tags": ["Erkenntnis: Steinkreis lebt"]
+            "typen": [
+              "erkenntnis"
+            ],
+            "tags": [
+              "Erkenntnis: Steinkreis lebt"
+            ]
           },
           {
-            "tz": 154, "mz": -1.0,
+            "tz": 154,
+            "mz": -1.0,
             "titel": "Kaspars Bild zeigt Tunnel und Gestalt mit schwarzen Augen",
             "detail": "Er kratzt die Stelle ab. Am Morgen ist sie wieder da, dunkler.",
             "pov": "I4 · Kaspar",
-            "typen": ["tschechow"],
-            "tags": ["Tschechow: Schemen in Kunst"]
+            "typen": [
+              "tschechow"
+            ],
+            "tags": [
+              "Tschechow: Schemen in Kunst"
+            ]
           },
           {
-            "tz": 154, "mz": -1.0,
+            "tz": 154,
+            "mz": -1.0,
             "titel": "Elke und Kaspar: Nacht vor dem Kampf",
             "detail": "Nicht Liebe — weil morgen der Tod kommen könnte. Schemen beobachten vor den Fenstern.",
             "pov": "I5 · Elke",
-            "typen": ["erotik"],
-            "tags": ["Erotik: Explizit"]
+            "typen": [
+              "erotik"
+            ],
+            "tags": [
+              "Erotik: Explizit"
+            ]
           },
           {
-            "tz": 154, "mz": -1.0,
+            "tz": 154,
+            "mz": -1.0,
             "titel": "Das Große Feuer — Kaspar und Keldan sterben, Elke geht durch",
             "detail": "Varen schickt 3 Feuer-Schemen. Kaspar + Keldan fallen. Elke → Moragh. Lene überlebt allein, schreibt das Manuskript.",
             "pov": "I6/I7",
-            "typen": ["portal", "tod", "schlüssel"],
-            "tags": ["Portal: Elke → Moragh", "Tod: Kaspar, Keldan", "Schlüsselereignis"]
+            "typen": [
+              "portal",
+              "tod",
+              "schlüssel"
+            ],
+            "tags": [
+              "Portal: Elke → Moragh",
+              "Tod: Kaspar, Keldan",
+              "Schlüsselereignis"
+            ]
           }
         ],
         "moragh": [
           {
-            "tz": 154, "mz": -1.0,
-            "titel": "Varen öffnet das Tor — 3 Feuer-Schemen nach Thalassien",
-            "typen": ["portal"],
-            "tags": ["Portal"]
+            "tz": 154,
+            "mz": -1.0,
+            "titel": "Varen öffnet das Portal — 3 Feuer-Schemen nach Thalassien",
+            "typen": [
+              "portal"
+            ],
+            "tags": [
+              "Portal"
+            ]
           },
           {
-            "tz": 154, "mz": -1.0,
+            "tz": 154,
+            "mz": -1.0,
             "titel": "Elke kommt in Moragh an — trifft Varen",
             "detail": "Er kappt die Schemen-Bindung als er Elke sieht.",
-            "typen": ["begegnung"],
-            "tags": ["Erste Begegnung: Elke + Varen"]
+            "typen": [
+              "begegnung"
+            ],
+            "tags": [
+              "Erste Begegnung: Elke + Varen"
+            ]
           }
         ]
       }
     },
-
     {
       "label": "MZ Monat -11 bis -7",
       "tz": "TZ 154–354",
@@ -234,24 +432,35 @@
         ],
         "moragh": [
           {
-            "tz": 154, "mz": -1.0,
+            "tz": 154,
+            "mz": -1.0,
             "titel": "Elke + Varen: 6 Monate Beziehung",
             "detail": "Liebe, Forschung, Thalassisch-Unterricht. Intellektuelle und körperliche Anziehung.",
-            "typen": ["erotik"],
-            "tags": ["Erotik: Beziehung"]
+            "typen": [
+              "erotik"
+            ],
+            "tags": [
+              "Erotik: Beziehung"
+            ]
           },
           {
-            "tz": 154, "mz": -1.0,
+            "tz": 154,
+            "mz": -1.0,
             "titel": "Elke baut ihren Garten in Moragh",
             "detail": "Formt Stein mit Erde/Stein-Resonanz — Hand auf Basalt, und er gibt nach. Pflanzen aus beiden Welten wachsen aus dem Stein den sie geformt hat.",
             "pov": "Elke",
-            "typen": ["schlüssel", "tschechow"],
-            "tags": ["Schlüsselereignis", "Tschechow: Elkes Moragh-Garten"]
+            "typen": [
+              "schlüssel",
+              "tschechow"
+            ],
+            "tags": [
+              "Schlüsselereignis",
+              "Tschechow: Elkes Moragh-Garten"
+            ]
           }
         ]
       }
     },
-
     {
       "label": "MZ Monat -6",
       "tz": "TZ ~354",
@@ -260,16 +469,22 @@
         "thalassien": [],
         "moragh": [
           {
-            "tz": 354, "mz": -0.5,
+            "tz": 354,
+            "mz": -0.5,
             "titel": "Elke verlässt Varen",
             "detail": "„Du willst die Welt reparieren und wirst Menschen zerbrechen dabei.“ Sie geht. Er macht weiter. Allein.",
-            "typen": ["erkenntnis", "schlüssel"],
-            "tags": ["Erkenntnis: Elke durchschaut Varen", "Schlüsselereignis"]
+            "typen": [
+              "erkenntnis",
+              "schlüssel"
+            ],
+            "tags": [
+              "Erkenntnis: Elke durchschaut Varen",
+              "Schlüsselereignis"
+            ]
           }
         ]
       }
     },
-
     {
       "label": "MZ Monat -5 bis -3",
       "tz": "TZ ~354–485",
@@ -282,16 +497,20 @@
         ],
         "moragh": [
           {
-            "tz": 354, "mz": -0.42,
+            "tz": 354,
+            "mz": -0.42,
             "titel": "Varen plant die Rückholung — allein",
             "detail": "Bereitet Agenten vor. Elke baut ihren Garten: Pflanzen aus beiden Welten.",
-            "typen": ["hintergrund"],
-            "tags": ["Hintergrund"]
+            "typen": [
+              "hintergrund"
+            ],
+            "tags": [
+              "Hintergrund"
+            ]
           }
         ]
       }
     },
-
     {
       "label": "MZ Monat -2",
       "tz": "TZ ~485",
@@ -299,32 +518,50 @@
       "events": {
         "thalassien": [
           {
-            "tz": 485, "mz": -0.17,
+            "tz": 485,
+            "mz": -0.17,
             "titel": "Haron Dahl kommt durch das Portal",
             "detail": "Varens Agent. Übernimmt die Werft, lebt ein ganzes Leben in Vael, stirbt an Alter + Schwerkraft.",
-            "typen": ["portal", "tschechow"],
-            "tags": ["Portal: Moragh → Thal.", "Tschechow: Boot + Werft"]
+            "typen": [
+              "portal",
+              "tschechow"
+            ],
+            "tags": [
+              "Portal: Moragh → Thal.",
+              "Tschechow: Boot + Werft"
+            ]
           },
           {
-            "tz": 500, "mz": -0.13,
+            "tz": 500,
+            "mz": -0.13,
             "titel": "Weitere Agenten kommen durch",
             "detail": "Uhrmacher (Köder Vesper), Artikel-Verfasser (Köder Alphina), Platten-Fälscher (Köder Sorel).",
-            "typen": ["portal", "tschechow"],
-            "tags": ["Portal: Moragh → Thal.", "Tschechow: Köder"]
+            "typen": [
+              "portal",
+              "tschechow"
+            ],
+            "tags": [
+              "Portal: Moragh → Thal.",
+              "Tschechow: Köder"
+            ]
           }
         ],
         "moragh": [
           {
-            "tz": 485, "mz": -0.17,
+            "tz": 485,
+            "mz": -0.17,
             "titel": "Varen schickt Agenten nach Thalassien",
             "detail": "Für ihn Wochen — für sie Jahrzehnte. Vier Köder, vier Methoden.",
-            "typen": ["portal"],
-            "tags": ["Portal: Moragh → Thal."]
+            "typen": [
+              "portal"
+            ],
+            "tags": [
+              "Portal: Moragh → Thal."
+            ]
           }
         ]
       }
     },
-
     {
       "label": "Buch 1 — MZ Monat -1 bis 0",
       "tz": "TZ ~551 (Frühling–Herbst)",
@@ -333,176 +570,814 @@
       "events": {
         "thalassien": [
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Ein Farn dreht seinen Wedel nach Alphina",
             "pov": "Kap 01 · Alphina",
             "kapitel": "01",
-            "typen": ["erkenntnis", "tschechow"],
-            "tags": ["Erkenntnis: Resonanz", "Tschechow: Farn-Artikel (Agent)"]
+            "typen": [
+              "erkenntnis",
+              "tschechow"
+            ],
+            "tags": [
+              "Erkenntnis: Resonanz",
+              "Tschechow: Farn-Artikel (Agent)"
+            ],
+            "tz_tag": 80,
+            "datum_text": "21. März"
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "01",
+            "typen": [
+              "wohnort"
+            ],
+            "titel": "Alphina wohnt in Velde",
+            "tz_tag": 80,
+            "datum_text": "21. März",
+            "figur": "Alphina",
+            "ort": "Wohnung im vierten Stock, chaotisch, grün",
+            "stadt": "Velde"
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "01",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Alphina: Farn dreht sich nach ihr",
+            "tz_tag": 80,
+            "datum_text": "21. März",
+            "figur": "Alphina",
+            "fakt": "pflanzen-reagieren-auf-mich",
+            "stufe": "gesehen",
+            "detail": "3 Uhr morgens, der Farn dreht seinen Wedel zurück als sie wegschaut. Zehn Minuten Test."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
             "titel": "Sorel findet sein Gesicht auf einer Glasplatte aus Vael",
             "pov": "Kap 02 · Sorel",
             "kapitel": "02",
-            "typen": ["schlüssel", "tschechow"],
-            "tags": ["Schlüsselereignis", "Tschechow: Glasplatte (Agent)"]
+            "typen": [
+              "schlüssel",
+              "tschechow"
+            ],
+            "tags": [
+              "Schlüsselereignis",
+              "Tschechow: Glasplatte (Agent)"
+            ],
+            "tz_tag": 80,
+            "datum_text": "21. März"
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "02",
+            "typen": [
+              "wohnort"
+            ],
+            "titel": "Sorel wohnt in Nachtholm",
+            "tz_tag": 80,
+            "datum_text": "21. März",
+            "figur": "Sorel",
+            "ort": "Kellerwohnung in der Schluchtstadt, Dunkelkammer",
+            "stadt": "Nachtholm"
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "02",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Sorel: Sein eigenes Gesicht auf fremder Glasplatte",
+            "tz_tag": 80,
+            "datum_text": "21. März",
+            "figur": "Sorel",
+            "fakt": "sein-gesicht-auf-vael-platte",
+            "stufe": "gesehen",
+            "detail": "Platte 7 aus der Vael-Auktion. Sein Gesicht, Stadt die er nie betreten hat, Bild älter als er. Dreizehn Jahre Suche."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "02",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Sorel: Hinweis Vael Lichthaus Keller",
+            "tz_tag": 80,
+            "datum_text": "21. März",
+            "figur": "Sorel",
+            "fakt": "lichthaus-keller-vael",
+            "stufe": "gesehen",
+            "detail": "Rückseite der Platte, verblasste Tinte."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
             "titel": "Reisender Uhrmacher erzählt von der 4:33-Standuhr",
             "pov": "Kap 03 · Vesper",
             "kapitel": "03",
-            "typen": ["tschechow"],
-            "tags": ["Tschechow: 4:33 + Agent"]
+            "typen": [
+              "tschechow"
+            ],
+            "tags": [
+              "Tschechow: 4:33 + Agent"
+            ],
+            "tz_tag": 80,
+            "datum_text": "21. März"
           },
           {
-            "tz": 551, "mz": 0,
-            "titel": "Maren erbt Haron Dahls Werft und das halbfertige Boot",
-            "pov": "Kap 04 · Maren",
-            "kapitel": "04",
-            "typen": ["tschechow"],
-            "tags": ["Tschechow: Boot + Haron = Agent"]
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "03",
+            "typen": [
+              "wohnort"
+            ],
+            "titel": "Vesper wohnt in Karst",
+            "tz_tag": 80,
+            "datum_text": "21. März",
+            "figur": "Vesper",
+            "ort": "Werkstatt, zwei Räume, Schlafraum schmal wie eine Schublade",
+            "stadt": "Karst"
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "03",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Vesper trifft den reisenden Uhrmacher",
+            "tz_tag": 80,
+            "datum_text": "21. März",
+            "figuren": [
+              "Vesper",
+              "Reisender Uhrmacher"
+            ],
+            "intensitaet": "fluechtig",
+            "ort": "Gasthaus in Karst",
+            "detail": "Alte Wörter, seltsamer Akzent. Erwähnt die 4:33-Standuhr in Vael. Tschechow fuer Buch 2."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
             "titel": "Alphina in Vael. Trifft Runa Kvist — Druckerin mit warmen Händen.",
             "pov": "Kap 05 · Alphina",
             "kapitel": "05",
-            "typen": ["begegnung"],
-            "tags": ["Erste Begegnung: Runa"]
+            "typen": [
+              "begegnung"
+            ],
+            "tags": [
+              "Erste Begegnung: Runa"
+            ],
+            "tz_tag": 88,
+            "datum_text": "29. März"
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "05",
+            "typen": [
+              "wohnort"
+            ],
+            "titel": "Alphina bezieht den Anker",
+            "tz_tag": 88,
+            "datum_text": "29. März",
+            "figur": "Alphina",
+            "ort": "Gasthaus Zum Anker, Hafengasse",
+            "stadt": "Vael",
+            "detail": "Kleines Zimmer, drei Schritte breit. Wochenpreis im Voraus."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "05",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Alphina trifft Runa Kvist",
+            "tz_tag": 88,
+            "datum_text": "29. März",
+            "figuren": [
+              "Alphina",
+              "Runa Kvist"
+            ],
+            "intensitaet": "fluechtig",
+            "ort": "Druckerei in Vael, Oberstadt",
+            "detail": "Alphina kauft Papier. Runa warme Hände, lacht zu laut für Vael, gibt Alltagstipps (Bäcker Sievert, Untere Grauwe meiden)."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "05",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Alphina: Kaminfeuer ohne Brennstoff",
+            "tz_tag": 88,
+            "datum_text": "29. März",
+            "figur": "Alphina",
+            "fakt": "kaminfeuer-ohne-brennstoff",
+            "stufe": "gesehen",
+            "detail": "Erste Nacht im Anker. Feuer brennt AUF den Scheiten, nicht aus ihnen. Morgens keine Asche."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "05",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Alphina: Schattentiere in Vael",
+            "tz_tag": 88,
+            "datum_text": "29. März",
+            "figur": "Alphina",
+            "fakt": "schattentiere-in-vael",
+            "stufe": "gesehen",
+            "detail": "Aus dem Fenster: katzengroß, falsch proportioniert, leuchtende Augen."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "titel": "Maren erbt Haron Dahls Werft und das halbfertige Boot",
+            "pov": "Kap 04 · Maren",
+            "kapitel": "04",
+            "typen": [
+              "tschechow"
+            ],
+            "tags": [
+              "Tschechow: Boot + Haron = Agent"
+            ],
+            "tz_tag": 95,
+            "datum_text": "5. April"
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "04",
+            "typen": [
+              "wohnort"
+            ],
+            "titel": "Maren bezieht den Anker",
+            "tz_tag": 95,
+            "datum_text": "5. April",
+            "figur": "Maren",
+            "ort": "Gasthaus Zum Anker, Hafengasse",
+            "stadt": "Vael",
+            "detail": "Der Wirt — breit, grau, Kinn aus Purpurstein — gibt ihr einen Schlüssel und fragt nicht wie lange sie bleibt."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "04",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Maren trifft Edric Dahl",
+            "tz_tag": 95,
+            "datum_text": "5. April",
+            "figuren": [
+              "Maren",
+              "Edric Dahl"
+            ],
+            "intensitaet": "bekannt",
+            "ort": "Werft Dahl, Grauküste",
+            "detail": "Edric zeigt die Werft, erklärt das Boot, Harons Gewohnheiten. 'Ist nachts in den Garten gegangen.'"
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "04",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Maren: Haron ging nachts in den Garten",
+            "tz_tag": 95,
+            "datum_text": "5. April",
+            "figur": "Maren",
+            "fakt": "haron-nachtgaenge-garten",
+            "stufe": "gesehen",
+            "detail": "Edric erzählt es: 'Hat nie gesagt warum.' Tschechow-Setup."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "04",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Maren: Das Boot ist dreiviertel fertig",
+            "tz_tag": 95,
+            "datum_text": "5. April",
+            "figur": "Maren",
+            "fakt": "boot-dreiviertel-fertig",
+            "stufe": "gesehen",
+            "detail": "Haron hat es gebaut und ist gestorben. Kein Umschlag, keine Karte."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "06",
+            "typen": [
+              "wohnort"
+            ],
+            "titel": "Sorel bezieht das Lichthaus",
+            "tz_tag": 95,
+            "datum_text": "5. April",
+            "figur": "Sorel",
+            "ort": "Lichthaus am Hafen",
+            "stadt": "Vael",
+            "detail": "Speichergebäude, Keller als Dunkelkammer. Keller riecht nach Fixierer und Salz."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "06",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Sorel: Kratzspuren am Hafenpoller",
+            "tz_tag": 95,
+            "datum_text": "5. April",
+            "figur": "Sorel",
+            "fakt": "kratzspuren-heisse-schnitte",
+            "stufe": "gesehen",
+            "detail": "Ein Tier beobachtet ihn, verschwindet. Am Poller: tiefe, saubere Kratzspuren wie mit heißem Messer durch Holz geschnitten."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
             "titel": "Standuhr verliert 4:33 — reagiert auf Vesper",
             "pov": "Kap 07 · Vesper",
             "kapitel": "07",
-            "typen": ["erkenntnis", "tschechow"],
-            "tags": ["Erkenntnis: Standuhr reagiert", "Tschechow: 4:33"]
+            "typen": [
+              "erkenntnis",
+              "tschechow"
+            ],
+            "tags": [
+              "Erkenntnis: Standuhr reagiert",
+              "Tschechow: 4:33"
+            ],
+            "tz_tag": 100,
+            "datum_text": "10. April"
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "07",
+            "typen": [
+              "wohnort"
+            ],
+            "titel": "Vesper bezieht den Anker",
+            "tz_tag": 100,
+            "datum_text": "10. April",
+            "figur": "Vesper",
+            "ort": "Gasthaus Zum Anker, Hafengasse",
+            "stadt": "Vael",
+            "detail": "Zweiter Stock. Selber Wirt, selbes Haus wie Alphina und Maren. Arbeitet tagsüber im Tidemoor-Haus an der Standuhr."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "07",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Vesper: Standuhr verliert 4:33 pro Tag",
+            "tz_tag": 100,
+            "datum_text": "10. April",
+            "figur": "Vesper",
+            "fakt": "standuhr-4-33",
+            "stufe": "gesehen",
+            "detail": "Tidemoor-Haus. Gehäuse, Messing, Pendel mechanisch perfekt. Jeder Zahnrad geprüft, keine Erklärung."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "07",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Vesper: Die Uhr reagiert auf seine Hand",
+            "tz_tag": 100,
+            "datum_text": "10. April",
+            "figur": "Vesper",
+            "fakt": "standuhr-reagiert-auf-mich",
+            "stufe": "gesehen",
+            "detail": "Hand drauf: Null Verlust. Hand weg: 4:33 wieder."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "07",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Vesper: Heißes Wasser ohne Kessel",
+            "tz_tag": 100,
+            "datum_text": "10. April",
+            "figur": "Vesper",
+            "fakt": "heisses-wasser-ohne-kessel",
+            "stufe": "gesehen",
+            "detail": "Tidemoor-Bad. Keine Warmwasseranlage im Haus, Rohre kalt. Wasser aus der Leitung dampfend heiß."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "07",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Vesper: Kratzspuren am Kellerfenster",
+            "tz_tag": 100,
+            "datum_text": "10. April",
+            "figur": "Vesper",
+            "fakt": "kratzspuren-heisse-schnitte",
+            "stufe": "gesehen",
+            "detail": "Nachts Kratzen im Keller. Spuren am Kellerfenster — dieselben sauberen, heißen Schnitte wie an Sorels Poller."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
             "titel": "Boot baut sich nachts weiter — Schemen arbeiten",
             "pov": "Kap 08 · Maren",
             "kapitel": "08",
-            "typen": ["tschechow"],
-            "tags": ["Tschechow: Boot + Schemen"]
+            "typen": [
+              "tschechow"
+            ],
+            "tags": [
+              "Tschechow: Boot + Schemen"
+            ],
+            "tz_tag": 130,
+            "datum_text": "10. Mai"
           },
           {
-            "tz": 551, "mz": 0,
-            "titel": "Alphina und Sorel treffen sich im Botanischen Garten",
-            "pov": "Kap 12 · Alphina",
-            "kapitel": "12",
-            "typen": ["begegnung"],
-            "tags": ["Erste Begegnung: Alphina + Sorel"]
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "08",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Maren trifft Tohl Daverin",
+            "tz_tag": 130,
+            "datum_text": "10. Mai",
+            "figuren": [
+              "Maren",
+              "Tohl Daverin"
+            ],
+            "intensitaet": "bekannt",
+            "ort": "Hafen Vael",
+            "detail": "Tohl, alt, Gesicht wie Treibholz. 'Die Grauwe ist falsch.' Zeigt das rückwärts fließende Wasser."
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "08",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Maren: Das Boot wächst nachts weiter",
+            "tz_tag": 130,
+            "datum_text": "10. Mai",
+            "figur": "Maren",
+            "fakt": "boot-waechst-nachts",
+            "stufe": "gesehen",
+            "detail": "Neue Holzspäne am Morgen. Planken die gestern nicht da waren. Sie misst, prüft, hält sich für verrückt, dann wartet sie nachts."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "08",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Maren: Schemen arbeiten am Boot",
+            "tz_tag": 130,
+            "datum_text": "10. Mai",
+            "figur": "Maren",
+            "fakt": "schemen-am-boot",
+            "stufe": "gesehen",
+            "detail": "Zwei Uhr morgens. Drei schattenhafte Gestalten, humanoid, Haut raucht, schwarze leuchtende Augen. Arbeiten ohne Geräusch. Sehen sie nicht oder ignorieren sie. Nach einer Stunde lösen sie sich auf."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "08",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Maren: Wasser fließt rückwärts in die Werft",
+            "tz_tag": 130,
+            "datum_text": "10. Mai",
+            "figur": "Maren",
+            "fakt": "wasser-fliesst-rueckwaerts",
+            "stufe": "gesehen",
+            "detail": "Tohl zeigt es. Gegen das Gefälle. 'Seit drei Wochen. Erst nur nachts. Jetzt auch tagsüber.'"
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "08",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Maren: Pochen unter der Werft",
+            "tz_tag": 130,
+            "datum_text": "10. Mai",
+            "figur": "Maren",
+            "fakt": "pochen-unter-vael",
+            "stufe": "gesehen",
+            "detail": "Nachts, einmal, wie ein Herzschlag. Dasselbe Pochen das Alphina später unter dem Garten-Steinkreis spürt."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "09",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Alphina trifft Runa im Botanischen Garten",
+            "tz_tag": 131,
+            "datum_text": "11. Mai",
+            "figuren": [
+              "Alphina",
+              "Runa Kvist"
+            ],
+            "intensitaet": "bekannt",
+            "ort": "Botanischer Garten, Vael",
+            "detail": "Runa druckt Flugblätter über die Phänomene. Alphina registriert Runas warme Hände als mehr als Handwerksgeschick."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "09",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Alphina: Pflanzen folgen ihr systematisch",
+            "tz_tag": 131,
+            "datum_text": "11. Mai",
+            "figur": "Alphina",
+            "fakt": "pflanzen-reagieren-auf-mich",
+            "stufe": "versteht",
+            "detail": "27 Pflanzen im Botanischen Garten, alle auf sie gerichtet. Mannshohe Farne im späten Frühling. Asplenium aus der Fußnote — hier."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "09",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Alphina: Schemen folgen ihr persönlich",
+            "tz_tag": 131,
+            "datum_text": "11. Mai",
+            "figur": "Alphina",
+            "fakt": "schemen-folgen-mir-persoenlich",
+            "stufe": "ahnt",
+            "detail": "Drei Schattentiere folgen ihr durch Gassen und auf Dächern. Nicht Runa, nicht anderen — nur ihr. Jemand beobachtet sie DURCH die Tiere."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "10",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Sorel: Die Kamera fängt Schemen ein",
+            "tz_tag": 120,
+            "datum_text": "30. April",
+            "figur": "Sorel",
+            "fakt": "kamera-faengt-schemen-ein",
+            "stufe": "gesehen",
+            "detail": "Erste Vael-Platten: Hafen bei Nacht zeigt schattenhafte Gestalt mit leuchtenden Augen die er nicht gesehen hat. Zweite Platte: Frau mit Farnen, die er nicht fotografiert hat."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "11",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Alphina trifft Sorel im Botanischen Garten",
+            "tz_tag": 125,
+            "datum_text": "5. Mai",
+            "figuren": [
+              "Alphina",
+              "Sorel"
+            ],
+            "intensitaet": "fluechtig",
+            "ort": "Botanischer Garten, Nacht",
+            "detail": "Drei Sätze: 'Die Pflanzen bewegen sich.' — 'Ja.' — 'Seit wann?' — 'Immer.' Keine Namen. Ende Akt 1."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "11",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Alphina: Pochen unter dem Garten",
+            "tz_tag": 125,
+            "datum_text": "5. Mai",
+            "figur": "Alphina",
+            "fakt": "pochen-unter-vael",
+            "stufe": "gesehen",
+            "detail": "Hand auf den Boden des Steinkreises im Garten. Pochen wie unter Marens Werft — aber Alphina kennt Maren nicht. Die Stadt atmet."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
             "titel": "Vesper und Maren: erste Begegnung im Uhrengeschäft",
             "pov": "Kap 15 · Vesper/Maren",
             "kapitel": "15",
-            "typen": ["begegnung", "erotik"],
-            "tags": ["Erste Begegnung: Vesper + Maren", "Erotik: Tension"]
+            "typen": [
+              "begegnung",
+              "erotik"
+            ],
+            "tags": [
+              "Erste Begegnung: Vesper + Maren",
+              "Erotik: Tension"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Vier Resonanzen erstmals zusammen — Herzschlag unter der Erde",
             "pov": "Kap 18",
             "kapitel": "18",
-            "typen": ["schlüssel"],
-            "tags": ["Schlüsselereignis"]
+            "typen": [
+              "schlüssel"
+            ],
+            "tags": [
+              "Schlüsselereignis"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Manuskript: 400 Jahre alt, Fingerabdrücke mit zu vielen Gelenken",
             "pov": "Kap 19 · Vesper",
             "kapitel": "19",
-            "typen": ["erkenntnis", "tschechow"],
-            "tags": ["Erkenntnis: Manuskript", "Tschechow: Manuskript gefälscht"]
+            "typen": [
+              "erkenntnis",
+              "tschechow"
+            ],
+            "tags": [
+              "Erkenntnis: Manuskript",
+              "Tschechow: Manuskript gefälscht"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Dunkelkammer: Alphina und Sorel — erste Nacht",
             "detail": "Farne wachsen durch Kellerwände. Schem beobachtet.",
             "pov": "Kap 22 · Alphina/Sorel",
             "kapitel": "22",
-            "typen": ["erotik"],
-            "tags": ["Erotik: Explizit"]
+            "typen": [
+              "erotik"
+            ],
+            "tags": [
+              "Erotik: Explizit"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Vesper und Maren: erste Nacht — Dom/Sub",
             "detail": "Maren bleibt. Uhren ticken im Takt ihres Atems.",
             "pov": "Kap 23 · Vesper/Maren",
             "kapitel": "23",
-            "typen": ["erotik"],
-            "tags": ["Erotik: Explizit · Dom/Sub"]
+            "typen": [
+              "erotik"
+            ],
+            "tags": [
+              "Erotik: Explizit · Dom/Sub"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Alphina findet die heimlichen Fotos — „Du hast mich genommen ohne zu fragen“",
             "pov": "Kap 25 · Alphina",
             "kapitel": "25",
-            "typen": ["schlüssel", "tschechow"],
-            "tags": ["Schlüsselereignis", "Tschechow feuert: „Darf ich?“"]
+            "typen": [
+              "schlüssel",
+              "tschechow"
+            ],
+            "tags": [
+              "Schlüsselereignis",
+              "Tschechow feuert: „Darf ich?“"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Schem berührt Alphinas Wange — Varens Hand aus einer anderen Welt",
             "pov": "Kap 26 · Alphina",
             "kapitel": "26",
-            "typen": ["erotik", "tschechow"],
-            "tags": ["Erotik: Grenzverletzung", "Tschechow: Kinn-Geste"]
+            "typen": [
+              "erotik",
+              "tschechow"
+            ],
+            "tags": [
+              "Erotik: Grenzverletzung",
+              "Tschechow: Kinn-Geste"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Runa entdeckt ihre Feuer-Resonanz — Hände glühen",
             "pov": "Kap 31",
             "kapitel": "31",
-            "typen": ["erkenntnis", "begegnung"],
-            "tags": ["Erkenntnis: Runa = Feuer", "Erste Begegnung: Thar-Schemen"]
+            "typen": [
+              "erkenntnis",
+              "begegnung"
+            ],
+            "tags": [
+              "Erkenntnis: Runa = Feuer",
+              "Erste Begegnung: Thar-Schemen"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "4:33 + Gezeiten = Varens Atem — jemand lebt auf der anderen Seite",
             "pov": "Kap 32 · Vesper",
             "kapitel": "32",
-            "typen": ["erkenntnis", "schlüssel"],
-            "tags": ["Erkenntnis: 4:33 = Atem", "Schlüsselereignis"]
+            "typen": [
+              "erkenntnis",
+              "schlüssel"
+            ],
+            "tags": [
+              "Erkenntnis: 4:33 = Atem",
+              "Schlüsselereignis"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "„Darf ich?“ — Sorel hält Alphinas Hand ungebeten. Der Garten blüht.",
             "pov": "Kap 34 · Alphina",
             "kapitel": "34",
-            "typen": ["erotik", "tschechow"],
-            "tags": ["Erotik: Zärtlichkeit", "Tschechow feuert: „Darf ich?“"]
+            "typen": [
+              "erotik",
+              "tschechow"
+            ],
+            "tags": [
+              "Erotik: Zärtlichkeit",
+              "Tschechow feuert: „Darf ich?“"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Das Ritual — Portal öffnet sich",
             "detail": "Vier Resonanzen im Steinkreis. Luft reißt auf. 4:33 offen. Runa schlüpft als Fünfte durch.",
             "pov": "Kap 35",
             "kapitel": "35",
-            "typen": ["portal", "schlüssel"],
-            "tags": ["Portal → Moragh", "Schlüsselereignis"]
+            "typen": [
+              "portal",
+              "schlüssel"
+            ],
+            "tags": [
+              "Portal → Moragh",
+              "Schlüsselereignis"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Vael ohne die Fünf — Anomalien enden sofort",
             "detail": "Schemen verschwinden schlagartig. Nebel lichtet. Grauwe fließt vorwärts. Steinkreis kalt. Tohl und Halvard stehen am Gartenrand.",
             "pov": "Kap 41",
             "kapitel": "41",
-            "typen": ["hintergrund"],
-            "tags": ["Hintergrund: Vael heilt"]
+            "typen": [
+              "hintergrund"
+            ],
+            "tags": [
+              "Hintergrund: Vael heilt"
+            ]
           }
         ],
         "moragh": [
           {
-            "tz": 551, "mz": 0,
-            "titel": "Elke in ihrem Garten. Weiß nicht dass Varen das Tor öffnete.",
-            "typen": ["hintergrund"],
-            "tags": ["Hintergrund"]
+            "tz": 551,
+            "mz": 0,
+            "titel": "Elke in ihrem Garten. Weiß nicht dass Varen das Portal öffnete.",
+            "typen": [
+              "hintergrund"
+            ],
+            "tags": [
+              "Hintergrund"
+            ]
           }
         ],
         "sync": {
@@ -512,7 +1387,6 @@
         }
       }
     },
-
     {
       "label": "MZ Monat 1",
       "tz": "TZ ~551–583",
@@ -521,63 +1395,104 @@
       "events": {
         "thalassien": [
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Halvard schreibt seinen Bericht",
             "detail": "Sachlich, präzise. Fünf Personen, Licht, Riss, dann niemand. Seriös genug nicht ignoriert. Verrückt genug Jahrhunderte lang angezweifelt.",
-            "typen": ["hintergrund"],
-            "tags": ["Hintergrund"]
+            "typen": [
+              "hintergrund"
+            ],
+            "tags": [
+              "Hintergrund"
+            ]
           }
         ],
         "moragh": [
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Elke spürt fünf Resonanzen — rennt zum Steinplatz",
             "detail": "Vibration im Stein. Thar-Späher auch unterwegs. Alphinas Ausbruch meilenweit spürbar.",
             "pov": "I9 · Elke",
             "kapitel": "I9",
-            "typen": ["portal", "erkenntnis"],
-            "tags": ["Portal", "Erkenntnis: Fünf statt vier"]
+            "typen": [
+              "portal",
+              "erkenntnis"
+            ],
+            "tags": [
+              "Portal",
+              "Erkenntnis: Fünf statt vier"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Varen tritt aus dem Schatten — Hand an Alphinas Kinn",
             "detail": "Purpurne Augen, altes Thalassisch. „Eure Resonanz. Ich hab sie durch den Riss erspüret.“",
             "pov": "Kap 36",
             "kapitel": "36",
-            "typen": ["begegnung", "erotik", "schlüssel"],
-            "tags": ["Erste Begegnung: Varen", "Erotik: Grenzverletzung", "Schlüsselereignis"]
+            "typen": [
+              "begegnung",
+              "erotik",
+              "schlüssel"
+            ],
+            "tags": [
+              "Erste Begegnung: Varen",
+              "Erotik: Grenzverletzung",
+              "Schlüsselereignis"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Sorel stirbt. Varen hätte helfen können. Tut es nicht.",
             "detail": "Bindungsmagie. Bilder explodieren. Weiße Blumen. Alphinas Explosion: Dornen-Dschungel. Varen zieht sich zurück.",
             "pov": "Kap 37",
             "kapitel": "37",
-            "typen": ["tod", "schlüssel", "erkenntnis"],
-            "tags": ["Tod: Sorel", "Schlüsselereignis", "Erkenntnis: Die Falle"]
+            "typen": [
+              "tod",
+              "schlüssel",
+              "erkenntnis"
+            ],
+            "tags": [
+              "Tod: Sorel",
+              "Schlüsselereignis",
+              "Erkenntnis: Die Falle"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Elke findet die Überlebenden",
             "detail": "Altes Thalassisch von TZ 154. „Fuhre“ statt „Kutsche.“ Wusste nichts von Varens Aktion.",
             "pov": "Kap 39",
             "kapitel": "39",
-            "typen": ["begegnung"],
-            "tags": ["Erste Begegnung: Elke"]
+            "typen": [
+              "begegnung"
+            ],
+            "tags": [
+              "Erste Begegnung: Elke"
+            ]
           },
           {
-            "tz": 551, "mz": 0,
+            "tz": 551,
+            "mz": 0,
             "titel": "Alphinas Dornen — Hass wächst buchstäblich",
             "detail": "Erste Nacht in Moragh. Farne → Dornen. „Sie wird ihn finden. Sie wird ihn töten.“",
             "pov": "Kap 40 · Alphina",
             "kapitel": "40",
-            "typen": ["schlüssel", "tschechow"],
-            "tags": ["Schlüsselereignis", "Tschechow: Farne → Dornen"]
+            "typen": [
+              "schlüssel",
+              "tschechow"
+            ],
+            "tags": [
+              "Schlüsselereignis",
+              "Tschechow: Farne → Dornen"
+            ]
           }
         ]
       }
     },
-
     {
       "label": "MZ Monat 2",
       "tz": "TZ ~583–651",
@@ -590,30 +1505,44 @@
         ],
         "moragh": [
           {
-            "tz": 591, "mz": 0.1,
+            "tz": 591,
+            "mz": 0.1,
             "titel": "Alphinas Macht wächst unkontrolliert",
             "detail": "Resonanz ohne Preis. In einer Welt wo Magie den Körper kostet. Alle Fraktionen wollen sie.",
-            "typen": ["erkenntnis"],
-            "tags": ["Erkenntnis: kostenlose Resonanz = Waffe"]
+            "typen": [
+              "erkenntnis"
+            ],
+            "tags": [
+              "Erkenntnis: kostenlose Resonanz = Waffe"
+            ]
           },
           {
-            "tz": 591, "mz": 0.1,
+            "tz": 591,
+            "mz": 0.1,
             "titel": "Alphina + Runa: aus Freundschaft wird mehr",
             "detail": "Anders als Sorel. Zwei Menschen die beide nicht wissen was sie tun.",
-            "typen": ["erotik"],
-            "tags": ["Erotik: Beziehung"]
+            "typen": [
+              "erotik"
+            ],
+            "tags": [
+              "Erotik: Beziehung"
+            ]
           },
           {
-            "tz": 619, "mz": 0.17,
+            "tz": 619,
+            "mz": 0.17,
             "titel": "Thar entdeckt Runas Feuer-Resonanz",
             "detail": "Wollen sie für sich. Runa muss wählen.",
-            "typen": ["schlüssel"],
-            "tags": ["Schlüsselereignis"]
+            "typen": [
+              "schlüssel"
+            ],
+            "tags": [
+              "Schlüsselereignis"
+            ]
           }
         ]
       }
     },
-
     {
       "label": "MZ Monat 3",
       "tz": "TZ ~651",
@@ -626,25 +1555,36 @@
         },
         "thalassien": [
           {
-            "tz": 651, "mz": 0.25,
+            "tz": 651,
+            "mz": 0.25,
             "titel": "Maren kommt an — allein, gestrandet",
             "detail": "~100 TZ seit dem Durchgang. Zu wenig Resonanz allein für den Rückweg. Absichtlich.",
-            "typen": ["portal"],
-            "tags": ["Portal: Moragh → Thal."]
+            "typen": [
+              "portal"
+            ],
+            "tags": [
+              "Portal: Moragh → Thal."
+            ]
           }
         ],
         "moragh": [
           {
-            "tz": 651, "mz": 0.25,
+            "tz": 651,
+            "mz": 0.25,
             "titel": "Maren öffnet Portal — geht allein",
             "detail": "Vesper bleibt bei Nyr und der Thar. Maren geht — absichtlich gestrandet.",
-            "typen": ["portal", "schlüssel"],
-            "tags": ["Portal → Thalassien", "Schlüsselereignis"]
+            "typen": [
+              "portal",
+              "schlüssel"
+            ],
+            "tags": [
+              "Portal → Thalassien",
+              "Schlüsselereignis"
+            ]
           }
         ]
       }
     },
-
     {
       "label": "MZ Monat 4 bis MZ Jahr 5,5",
       "tz": "TZ ~651–2.751",
@@ -662,7 +1602,6 @@
         ]
       }
     },
-
     {
       "label": "MZ Jahr ~5,5 — Buch 3",
       "tz": "TZ ~2.751",
@@ -676,33 +1615,55 @@
         },
         "thalassien": [
           {
-            "tz": 2751, "mz": 5.5,
+            "tz": 2751,
+            "mz": 5.5,
             "titel": "Portal öffnet sich erneut",
-            "detail": "Wissenschaftler verstehen das Tor. Vael ist Großstadt.",
-            "typen": ["portal"],
-            "tags": ["Portal"]
+            "detail": "Wissenschaftler verstehen das Portal. Vael ist Großstadt.",
+            "typen": [
+              "portal"
+            ],
+            "tags": [
+              "Portal"
+            ]
           }
         ],
         "moragh": [
           {
-            "tz": 2751, "mz": 5.5,
+            "tz": 2751,
+            "mz": 5.5,
             "titel": "Thalassien-Wissenschaftler erkennen die „Sonne“ als Schwarzes Loch",
-            "typen": ["erkenntnis"],
-            "tags": ["Erkenntnis: Schwarzes Loch"]
+            "typen": [
+              "erkenntnis"
+            ],
+            "tags": [
+              "Erkenntnis: Schwarzes Loch"
+            ]
           },
           {
-            "tz": 2751, "mz": 5.5,
+            "tz": 2751,
+            "mz": 5.5,
             "titel": "Alphina stirbt",
             "detail": "Die Pflanzen wachsen ein letztes Mal. Dann Stille.",
-            "typen": ["tod", "schlüssel"],
-            "tags": ["Tod: Alphina", "Schlüsselereignis"]
+            "typen": [
+              "tod",
+              "schlüssel"
+            ],
+            "tags": [
+              "Tod: Alphina",
+              "Schlüsselereignis"
+            ]
           },
           {
-            "tz": 2751, "mz": 5.5,
+            "tz": 2751,
+            "mz": 5.5,
             "titel": "Die Quelle bleibt offen",
-            "detail": "Nicht als Tor — als Grenze die beide Seiten akzeptieren.",
-            "typen": ["schlüssel"],
-            "tags": ["Schlüsselereignis"]
+            "detail": "Nicht als Portal — als Grenze die beide Seiten akzeptieren.",
+            "typen": [
+              "schlüssel"
+            ],
+            "tags": [
+              "Schlüsselereignis"
+            ]
           }
         ]
       }
