@@ -1,0 +1,839 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Moragh — Karten-Editor</title>
+<script src="https://cdn.jsdelivr.net/npm/d3-delaunay@6"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #1a1714; color: #c8bfb0; font-family: 'Inter', system-ui, sans-serif; font-size: 12px; display: flex; height: 100vh; overflow: hidden; }
+
+  #sidebar { width: 260px; background: #1f1c18; border-right: 1px solid #333; padding: 12px; overflow-y: auto; flex-shrink: 0; }
+  #sidebar h2 { font-size: 14px; color: #f0e6d8; margin-bottom: 8px; font-weight: 400; letter-spacing: 0.1em; }
+  #sidebar h3 { font-size: 11px; color: #8a8279; margin: 12px 0 6px; text-transform: uppercase; letter-spacing: 0.1em; }
+
+  .faction-btn {
+    display: block; width: 100%; padding: 6px 10px; margin: 3px 0; border: 1px solid #333;
+    border-radius: 3px; cursor: pointer; font-size: 11px; text-align: left;
+    background: rgba(255,255,255,0.03); color: #c8bfb0; transition: all 0.15s;
+  }
+  .faction-btn:hover { background: rgba(255,255,255,0.08); }
+  .faction-btn.active { border-color: #f0e6d8; background: rgba(255,255,255,0.1); }
+  .fb-thar { border-left: 3px solid #8b5e3c; }
+  .fb-velmar { border-left: 3px solid #6b4a6b; }
+  .fb-orath { border-left: 3px solid #a08030; }
+  .fb-frei { border-left: 3px solid #5a7a5a; }
+  .fb-tot { border-left: 3px solid #e74c3c; }
+
+  .size-btn {
+    display: inline-block; padding: 4px 8px; margin: 2px; border: 1px solid #333;
+    border-radius: 3px; cursor: pointer; font-size: 10px;
+    background: rgba(255,255,255,0.03); color: #c8bfb0;
+  }
+  .size-btn:hover { background: rgba(255,255,255,0.08); }
+  .size-btn.active { border-color: #f0e6d8; background: rgba(255,255,255,0.1); }
+
+  #city-info { background: rgba(255,255,255,0.03); border: 1px solid #333; border-radius: 4px; padding: 8px; margin-top: 8px; }
+  #city-info label { display: block; font-size: 10px; color: #8a8279; margin-top: 6px; }
+  #city-info input { width: 100%; background: #2a2520; border: 1px solid #444; border-radius: 3px; padding: 4px 6px; color: #f0e6d8; font-size: 11px; margin-top: 2px; }
+
+  #map-container { flex: 1; cursor: crosshair; position: relative; }
+  svg { width: 100%; height: 100%; }
+
+  .action-bar { display: flex; gap: 4px; margin-top: 12px; flex-wrap: wrap; }
+  .action-btn {
+    padding: 5px 10px; border: 1px solid #555; border-radius: 3px; cursor: pointer;
+    font-size: 10px; background: rgba(255,255,255,0.05); color: #c8bfb0;
+  }
+  .action-btn:hover { background: rgba(255,255,255,0.1); }
+  .action-btn.danger { border-color: #e74c3c; color: #e74c3c; }
+  .action-btn.primary { border-color: #b8860b; color: #b8860b; }
+
+  .help { font-size: 10px; color: #6b6259; line-height: 1.6; margin-top: 10px; }
+  .help kbd { background: #2a2520; padding: 1px 4px; border-radius: 2px; border: 1px solid #444; font-size: 9px; }
+  .view-btn.active { border-color: #b8860b; color: #b8860b; background: rgba(184,134,11,0.1); }
+
+  #toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: #2a2520; border: 1px solid #b8860b; color: #f0e6d8; padding: 8px 16px; border-radius: 4px; font-size: 11px; display: none; z-index: 100; }
+</style>
+</head>
+<body>
+
+<div id="sidebar">
+  <h2>MORAGH EDITOR</h2>
+
+  <h3>Fraktion zuweisen</h3>
+  <button class="faction-btn fb-orath" onclick="setFaction('orath')">Bund von Orath</button>
+  <button class="faction-btn fb-thar" onclick="setFaction('thar')">Konglomerat der Thar</button>
+  <button class="faction-btn fb-velmar" onclick="setFaction('velmar')">Velmar</button>
+  <button class="faction-btn fb-frei" onclick="setFaction('frei')">Freie Stadt</button>
+  <button class="faction-btn fb-tot" onclick="setFaction('tot')">Tote Zone</button>
+
+  <h3>Quellengröße</h3>
+  <button class="size-btn" onclick="setSize(3)">Riesig</button>
+  <button class="size-btn" onclick="setSize(2)">Groß</button>
+  <button class="size-btn" onclick="setSize(1)">Mittel</button>
+  <button class="size-btn" onclick="setSize(0)">Klein</button>
+  <button class="size-btn" onclick="setSize(-1)">Tot</button>
+
+  <div id="city-info">
+    <div style="color:#8a8279; font-style:italic;" id="no-sel">Klick auf eine Stadt zum Bearbeiten</div>
+    <div id="sel-info" style="display:none;">
+      <label>Name</label>
+      <input id="city-name" oninput="updateName(this.value)">
+      <label>Position</label>
+      <div id="city-pos" style="font-family:monospace; font-size:10px; color:#8a8279; margin-top:2px;"></div>
+      <label>Fraktion</label>
+      <div id="city-faction" style="margin-top:2px;"></div>
+      <label>Größe</label>
+      <div id="city-size" style="margin-top:2px;"></div>
+    </div>
+  </div>
+
+  <h3>Bevölkerung</h3>
+  <div id="pop-stats" style="font-size:10px; line-height:1.8;"></div>
+
+  <h3>Ansicht</h3>
+  <div class="action-bar" style="margin-bottom:8px;">
+    <button class="action-btn view-btn active" id="btn-political" onclick="setView('political')">Politisch</button>
+    <button class="action-btn view-btn" id="btn-magic" onclick="setView('magic')">Magiestärke</button>
+  </div>
+
+  <h3>Aktionen</h3>
+  <div class="action-bar">
+    <button class="action-btn primary" onclick="addCity()">+ Stadt</button>
+    <button class="action-btn danger" onclick="deleteCity()">Löschen</button>
+    <button class="action-btn" onclick="exportData()">Export JSON</button>
+    <button class="action-btn" onclick="resetView()">Reset Ansicht</button>
+  </div>
+
+  <div class="help">
+    <kbd>Klick</kbd> Stadt auswählen<br>
+    <kbd>Ziehen</kbd> Stadt verschieben<br>
+    <kbd>Doppelklick</kbd> auf Karte: neue Stadt<br>
+    <kbd>Entf</kbd> ausgewählte Stadt löschen<br>
+    <kbd>1-5</kbd> Fraktion wechseln<br>
+    <kbd>Scroll</kbd> Zoom · <kbd>Rechtsklick+Ziehen</kbd> Pan
+  </div>
+</div>
+
+<div id="map-container">
+  <svg id="map" viewBox="0 0 1600 1100"></svg>
+</div>
+
+<div id="scale-bar" style="position:fixed;bottom:40px;right:60px;z-index:10;background:rgba(26,23,20,0.8);padding:6px 10px;border-radius:4px;border:1px solid rgba(255,255,255,0.08);"></div>
+<div id="toast"></div>
+
+<script>
+const ns = 'http://www.w3.org/2000/svg';
+const svg = document.getElementById('map');
+
+const factionColors = {
+  thar:   { fill: '#3d2a1a', stroke: '#8b5e3c', dot: '#8b5e3c' },
+  velmar: { fill: '#2d1a2d', stroke: '#6b4a6b', dot: '#6b4a6b' },
+  orath:  { fill: '#2d2810', stroke: '#a08030', dot: '#a08030' },
+  frei:   { fill: '#1a2a1a', stroke: '#5a7a5a', dot: '#5a7a5a' },
+  tot:    { fill: '#1a1a1a', stroke: '#4a4a4a', dot: '#e74c3c' }
+};
+
+const sizeNames = { 3:'Riesig', 2:'Groß', 1:'Mittel', 0:'Klein', '-1':'Tot' };
+
+// Bevölkerung pro Quellengröße (Mittelwert des Bereichs)
+const sizePop = { 3: 140000, 2: 52500, 1: 15000, 0: 3000, '-1': 0 };
+// Bevölkerungs-Bereiche für Anzeige
+const sizePopRange = { 3:'80k–200k', 2:'25k–80k', 1:'5k–25k', 0:'1k–5k', '-1':'0' };
+
+const factionNames = {
+  thar: 'Konglomerat der Thar',
+  velmar: 'Velmar',
+  orath: 'Bund von Orath',
+  frei: 'Freie Städte',
+  tot: 'Tote Zonen'
+};
+
+// Magie-Radius pro Quellengröße (SVG-Einheiten, ~proportional zur Reichweite)
+const magicRadius = { 3: 120, 2: 80, 1: 50, 0: 25, '-1': 0 };
+// Magie-Stärke am Zentrum (für Heatmap)
+const magicStrength = { 3: 0.64, 2: 0.45, 1: 0.3, 0: 0.115, '-1': 0 };
+
+let viewMode = 'political'; // 'political' oder 'magic'
+
+// Coastline
+const coast = [
+  [340,155],[355,140],[380,128],[405,118],[415,105],[430,98],[460,102],[475,95],
+  [495,100],[510,92],[535,98],[548,88],[570,92],[585,85],[610,90],[625,82],
+  [650,78],[670,72],[695,75],[710,68],[730,72],[745,65],[760,70],[780,75],
+  [795,68],[815,72],[830,80],[840,72],[855,78],[870,85],
+  [890,92],[905,100],[915,112],[908,125],[900,135],[910,142],[925,138],
+  [940,130],[960,125],[980,118],[1000,115],[1020,112],[1040,118],
+  [1060,125],[1080,130],[1095,138],[1110,128],[1130,135],[1150,145],
+  [1165,158],[1180,168],[1195,182],[1210,200],[1225,218],
+  [1238,240],[1245,260],[1255,280],[1262,305],[1270,328],[1278,350],
+  [1285,375],[1282,395],[1290,418],[1295,445],[1290,470],
+  [1282,488],[1272,502],[1265,515],[1270,530],[1280,545],[1288,565],
+  [1282,585],[1270,605],[1258,625],[1248,642],[1235,658],
+  [1218,672],[1200,688],[1185,698],[1168,710],[1148,722],[1130,732],
+  [1108,740],[1085,748],[1060,755],[1040,762],[1015,768],
+  [990,775],[968,780],[945,778],[928,785],[910,792],[888,798],
+  [865,802],[840,808],[818,812],[795,808],[775,815],[752,818],
+  [730,822],[712,828],[695,835],[680,842],[665,838],[652,845],[638,840],
+  [622,835],[608,828],[598,820],
+  [582,815],[565,808],[548,800],[535,792],[520,785],[505,778],
+  [492,768],[478,755],[468,742],[458,728],[448,712],[440,698],
+  [432,682],[420,670],[410,655],[398,645],[388,635],[380,620],
+  [375,605],[378,588],[385,572],[380,558],[372,542],[365,525],
+  [360,505],[355,488],[352,468],
+  [348,448],[345,428],[348,408],[352,388],[355,368],[360,348],
+  [368,328],[372,308],[378,288],[385,268],[390,248],
+  [388,232],[382,218],[375,202],[368,188],[358,175],[348,165],[340,155]
+];
+const coastPath = 'M ' + coast.map(p=>p.join(',')).join(' L ') + ' Z';
+
+// City data — mutable
+let cities = [
+  // THAR
+  {x:1120,y:380,name:"Thar-Kem",size:3,faction:"thar"},{x:1170,y:500,name:"Draveth",size:3,faction:"thar"},{x:1080,y:280,name:"Sulkara",size:3,faction:"thar"},
+  {x:1200,y:330,name:"Neth-Kol",size:2,faction:"thar"},{x:1070,y:460,name:"Harath",size:2,faction:"thar"},{x:1220,y:440,name:"Veshan",size:2,faction:"thar"},
+  {x:1140,y:590,name:"Tormund",size:2,faction:"thar"},{x:1040,y:210,name:"Kalveth",size:2,faction:"thar"},
+  {x:1100,y:340,name:"Drenn",size:1,faction:"thar"},{x:1180,y:270,name:"Solvak",size:1,faction:"thar"},{x:1248,y:375,name:"Keshara",size:1,faction:"thar"},
+  {x:1060,y:545,name:"Tulmek",size:1,faction:"thar"},{x:1210,y:580,name:"Vareth",size:1,faction:"thar"},{x:1120,y:250,name:"Grennik",size:1,faction:"thar"},
+  {x:1265,y:490,name:"Dulmara",size:1,faction:"thar"},{x:1040,y:390,name:"Heskol",size:1,faction:"thar"},{x:1170,y:640,name:"Raveth",size:1,faction:"thar"},
+  {x:1090,y:670,name:"Tornesh",size:1,faction:"thar"},{x:1220,y:235,name:"Kulmeth",size:1,faction:"thar"},{x:1020,y:325,name:"Ashvan",size:1,faction:"thar"},
+  {x:1150,y:460,name:"Drethik",size:1,faction:"thar"},
+  {x:1130,y:300,name:"Thek-Ven",size:0,faction:"thar"},{x:1200,y:400,name:"Dol-Kesh",size:0,faction:"thar"},{x:1250,y:310,name:"Rav-Thul",size:0,faction:"thar"},
+  {x:1180,y:550,name:"Kem-Dulv",size:0,faction:"thar"},{x:1100,y:440,name:"Shar-Ven",size:0,faction:"thar"},{x:1060,y:600,name:"Thul-Mar",size:0,faction:"thar"},
+  {x:1230,y:550,name:"Kel-Drath",size:0,faction:"thar"},{x:1150,y:200,name:"Ash-Kem",size:0,faction:"thar"},{x:1050,y:260,name:"Dren-Kel",size:0,faction:"thar"},
+  {x:1190,y:650,name:"Tor-Shek",size:0,faction:"thar"},{x:1260,y:420,name:"Ven-Halv",size:0,faction:"thar"},{x:1090,y:520,name:"Resh-Thul",size:0,faction:"thar"},
+  {x:1030,y:450,name:"Kol-Ven",size:0,faction:"thar"},{x:1140,y:650,name:"Dulm-Shek",size:0,faction:"thar"},{x:1200,y:180,name:"Halv-Dren",size:0,faction:"thar"},
+
+  // VELMAR (südlich, Cluster)
+  {x:700,y:690,name:"Velmar",size:3,faction:"velmar"},
+  {x:740,y:660,name:"Eshkara",size:2,faction:"velmar"},{x:665,y:725,name:"Dulveth",size:2,faction:"velmar"},{x:725,y:735,name:"Kalmaren",size:2,faction:"velmar"},
+  {x:672,y:672,name:"Reshken",size:1,faction:"velmar"},{x:755,y:705,name:"Valmeth",size:1,faction:"velmar"},{x:695,y:748,name:"Sulvaren",size:1,faction:"velmar"},
+  {x:642,y:705,name:"Teshkol",size:1,faction:"velmar"},{x:765,y:685,name:"Grenmar",size:1,faction:"velmar"},{x:715,y:650,name:"Dulmen",size:1,faction:"velmar"},
+  {x:680,y:740,name:"Vel-Shara",size:0,faction:"velmar"},{x:730,y:680,name:"Esh-Kel",size:0,faction:"velmar"},{x:660,y:690,name:"Kal-Ven",size:0,faction:"velmar"},
+  {x:750,y:720,name:"Dul-Resh",size:0,faction:"velmar"},{x:700,y:660,name:"Tesh-Mar",size:0,faction:"velmar"},{x:640,y:730,name:"Gren-Shul",size:0,faction:"velmar"},
+
+  // ORATH (west, Flickenteppich) — Orath selber weit west
+  {x:380,y:430,name:"Orath",size:3,faction:"orath"},{x:550,y:305,name:"Kethmar",size:3,faction:"orath"},{x:630,y:510,name:"Halvaren",size:3,faction:"orath"},
+  {x:470,y:615,name:"Sulmen",size:3,faction:"orath"},{x:850,y:340,name:"Dravaren",size:3,faction:"orath"},
+  {x:390,y:345,name:"Teshvaren",size:2,faction:"orath"},{x:510,y:415,name:"Kolmeth",size:2,faction:"orath"},{x:450,y:525,name:"Narveth",size:2,faction:"orath"},
+  {x:590,y:595,name:"Reshmar",size:2,faction:"orath"},{x:350,y:495,name:"Dulkara",size:2,faction:"orath"},{x:660,y:455,name:"Halvesh",size:2,faction:"orath"},
+  {x:570,y:265,name:"Grenven",size:2,faction:"orath"},{x:780,y:380,name:"Tormaren",size:2,faction:"orath"},
+  {x:430,y:375,name:"Keshven",size:1,faction:"orath"},{x:380,y:465,name:"Dulrath",size:1,faction:"orath"},{x:490,y:335,name:"Varmen",size:1,faction:"orath"},
+  {x:540,y:475,name:"Teshkal",size:1,faction:"orath"},{x:610,y:345,name:"Reshven",size:1,faction:"orath"},{x:470,y:465,name:"Kolvar",size:1,faction:"orath"},
+  {x:330,y:415,name:"Narthek",size:1,faction:"orath"},{x:560,y:555,name:"Halvek",size:1,faction:"orath"},{x:690,y:495,name:"Grendul",size:1,faction:"orath"},
+  {x:400,y:555,name:"Torshek",size:1,faction:"orath"},{x:520,y:545,name:"Sulvar",size:1,faction:"orath"},{x:650,y:395,name:"Dravek",size:1,faction:"orath"},
+  {x:440,y:655,name:"Kethven",size:1,faction:"orath"},{x:830,y:390,name:"Nalmeth",size:1,faction:"orath"},{x:360,y:595,name:"Reshkal",size:1,faction:"orath"},
+  {x:610,y:275,name:"Halvek-Kel",size:1,faction:"orath"},{x:500,y:585,name:"Dulven",size:1,faction:"orath"},{x:570,y:435,name:"Tormen",size:1,faction:"orath"},
+  {x:710,y:365,name:"Varshek",size:1,faction:"orath"},
+  // Orath fill
+  {x:420,y:480,name:"Rath-Ven",size:0,faction:"orath"},{x:500,y:370,name:"Kel-Varsh",size:0,faction:"orath"},{x:380,y:400,name:"Drath-Shek",size:0,faction:"orath"},
+  {x:560,y:320,name:"Halv-Rath",size:0,faction:"orath"},{x:620,y:450,name:"Tesh-Dul",size:0,faction:"orath"},
+  {x:340,y:450,name:"Nar-Kel",size:0,faction:"orath"},{x:480,y:620,name:"Sulm-Ven",size:0,faction:"orath"},
+  {x:690,y:440,name:"Gren-Rath",size:0,faction:"orath"},{x:370,y:340,name:"Kesh-Dol",size:0,faction:"orath"},
+  // Freie im Orath-Gebiet (Flickenteppich)
+  {x:450,y:560,name:"Ven-Thara",size:0,faction:"frei"},{x:530,y:510,name:"Dol-Reshk",size:0,faction:"frei"},{x:600,y:530,name:"Mar-Keth",size:0,faction:"frei"},
+  {x:410,y:600,name:"Shul-Ven",size:0,faction:"frei"},{x:550,y:590,name:"Kel-Torm",size:0,faction:"frei"},{x:740,y:400,name:"Halv-Dol",size:0,faction:"frei"},
+  {x:470,y:410,name:"Resh-Kalm",size:0,faction:"frei"},{x:580,y:480,name:"Var-Shek",size:0,faction:"frei"},{x:650,y:360,name:"Drav-Kel",size:0,faction:"frei"},
+
+  // FREE
+  {x:510,y:195,name:"Nalmaren",size:3,faction:"frei"},{x:790,y:235,name:"Torshara",size:3,faction:"frei"},{x:350,y:275,name:"Keshdul",size:3,faction:"frei"},
+  {x:850,y:750,name:"Halvek-Mar",size:3,faction:"frei"},{x:590,y:755,name:"Reshkara",size:3,faction:"frei"},{x:820,y:540,name:"Grenval",size:3,faction:"frei"},
+  {x:720,y:560,name:"Dulshara",size:3,faction:"frei"},{x:670,y:215,name:"Sulketh",size:3,faction:"frei"},
+  {x:440,y:225,name:"Varmen-Kel",size:2,faction:"frei"},{x:860,y:255,name:"Dravmen",size:2,faction:"frei"},{x:310,y:365,name:"Kethshara",size:2,faction:"frei"},
+  {x:900,y:700,name:"Narvaren",size:2,faction:"frei"},{x:570,y:185,name:"Teshmen",size:2,faction:"frei"},{x:750,y:295,name:"Halvara",size:2,faction:"frei"},
+  {x:790,y:770,name:"Kolshek",size:2,faction:"frei"},{x:660,y:795,name:"Reshdul",size:2,faction:"frei"},{x:870,y:525,name:"Grenmen",size:2,faction:"frei"},
+  {x:430,y:715,name:"Sulvek",size:2,faction:"frei"},{x:760,y:490,name:"Torkal",size:2,faction:"frei"},{x:630,y:645,name:"Dulvar",size:2,faction:"frei"},
+  {x:390,y:208,name:"Keshmen",size:1,faction:"frei"},{x:610,y:168,name:"Halveth",size:1,faction:"frei"},{x:730,y:188,name:"Torven",size:1,faction:"frei"},
+  {x:930,y:245,name:"Dulmek",size:1,faction:"frei"},{x:288,y:318,name:"Reshven-Süd",size:1,faction:"frei"},{x:840,y:298,name:"Kolveth",size:1,faction:"frei"},
+  {x:770,y:545,name:"Narvek",size:1,faction:"frei"},{x:910,y:598,name:"Sulmen-Kel",size:1,faction:"frei"},{x:860,y:678,name:"Teshvar",size:1,faction:"frei"},
+  {x:790,y:768,name:"Halvmen",size:1,faction:"frei"},{x:560,y:698,name:"Grenvar",size:1,faction:"frei"},{x:378,y:678,name:"Dulshek",size:1,faction:"frei"},
+  {x:448,y:168,name:"Kethmen",size:1,faction:"frei"},{x:978,y:748,name:"Varkal",size:1,faction:"frei"},{x:320,y:578,name:"Reshmar-Kel",size:1,faction:"frei"},
+  {x:500,y:758,name:"Torshek-Kel",size:1,faction:"frei"},{x:690,y:298,name:"Nalmek",size:1,faction:"frei"},{x:810,y:435,name:"Kolmen",size:1,faction:"frei"},
+  {x:950,y:328,name:"Halvara-Kel",size:1,faction:"frei"},{x:358,y:238,name:"Sulvar-Kel",size:1,faction:"frei"},{x:760,y:638,name:"Dravmen-Kel",size:1,faction:"frei"},
+  {x:530,y:658,name:"Keshvar",size:1,faction:"frei"},
+  // Free fill — alle benannt
+  {x:480,y:150,name:"Thul-Nar",size:0,faction:"frei"},{x:650,y:140,name:"Kesh-Ven",size:0,faction:"frei"},{x:820,y:180,name:"Rav-Dol",size:0,faction:"frei"},
+  {x:920,y:180,name:"Shek-Halv",size:0,faction:"frei"},{x:400,y:150,name:"Dul-Thara",size:0,faction:"frei"},{x:560,y:130,name:"Ven-Rath",size:0,faction:"frei"},
+  {x:870,y:350,name:"Tor-Kesh",size:0,faction:"frei"},{x:830,y:450,name:"Kel-Shara",size:0,faction:"frei"},{x:900,y:450,name:"Drath-Ven",size:0,faction:"frei"},
+  {x:950,y:400,name:"Mar-Thul",size:0,faction:"frei"},{x:780,y:330,name:"Resh-Dol",size:0,faction:"frei"},{x:850,y:550,name:"Var-Kel",size:0,faction:"frei"},
+  {x:920,y:520,name:"Halv-Shek",size:0,faction:"frei"},{x:830,y:630,name:"Dul-Ven",size:0,faction:"frei"},{x:750,y:750,name:"Keth-Thul",size:0,faction:"frei"},
+  {x:650,y:780,name:"Nar-Shara",size:0,faction:"frei"},{x:550,y:780,name:"Gren-Dol",size:0,faction:"frei"},{x:450,y:750,name:"Tesh-Ven",size:0,faction:"frei"},
+  {x:380,y:720,name:"Kolm-Kel",size:0,faction:"frei"},{x:350,y:640,name:"Sulv-Rath",size:0,faction:"frei"},{x:310,y:540,name:"Drav-Thul",size:0,faction:"frei"},
+  {x:295,y:440,name:"Resh-Nar",size:0,faction:"frei"},{x:330,y:300,name:"Halv-Shul",size:0,faction:"frei"},{x:430,y:130,name:"Kel-Drav",size:0,faction:"frei"},
+  {x:700,y:160,name:"Torm-Ven",size:0,faction:"frei"},{x:990,y:680,name:"Shek-Mar",size:0,faction:"frei"},{x:940,y:780,name:"Dul-Keth",size:0,faction:"frei"},
+  {x:1000,y:600,name:"Var-Thara",size:0,faction:"frei"},{x:870,y:800,name:"Kel-Nar",size:0,faction:"frei"},{x:480,y:800,name:"Rath-Dol",size:0,faction:"frei"},
+
+  // DEAD — ehemalige Städte, jetzt Ruinen
+  {x:840,y:420,name:"Keth-Varen",size:-1,faction:"tot"},   // ehem. Orath, riesig — größte tote Quelle
+  {x:880,y:450,name:"Dulrath-Ost",size:-1,faction:"tot"},  // ehem. Orath, groß
+  {x:860,y:475,name:"Reshkol",size:-1,faction:"tot"},       // ehem. Velmar, groß
+];
+
+// Portal
+const portal = {x:705,y:510,name:"Steinplatz"};
+
+let selectedIdx = -1;
+let dragging = -1;
+let draggingPortal = false;
+let currentDelaunay = null;
+let isPanning = false, panStart = {x:0,y:0};
+let vb = {x:0,y:0,w:1600,h:1100};
+
+const MIN_DIST = 18; // Mindestabstand zwischen Städten in SVG-Einheiten
+
+// Point-in-Polygon (Raycasting)
+function pointInContinent(px, py) {
+  let inside = false;
+  for (let i = 0, j = coast.length - 1; i < coast.length; j = i++) {
+    const xi = coast[i][0], yi = coast[i][1];
+    const xj = coast[j][0], yj = coast[j][1];
+    if ((yi > py) !== (yj > py) && px < (xj - xi) * (py - yi) / (yj - yi) + xi) {
+      inside = !inside;
+    }
+  }
+  return inside;
+}
+
+// Prüft ob Position gültig ist (in Landmasse + Mindestabstand)
+function isValidPosition(px, py, skipIdx) {
+  if (!pointInContinent(px, py)) return false;
+  for (let i = 0; i < cities.length; i++) {
+    if (i === skipIdx) continue;
+    if (Math.hypot(cities[i].x - px, cities[i].y - py) < MIN_DIST) return false;
+  }
+  return true;
+}
+
+// Constrainted move — schiebt Position in gültigen Bereich
+function constrainPosition(px, py, skipIdx) {
+  // Wenn gültig, direkt zurück
+  if (isValidPosition(px, py, skipIdx)) return { x: px, y: py };
+  // Wenn außerhalb Kontinent: nächsten Punkt auf Küste suchen (einfach: nicht bewegen)
+  if (!pointInContinent(px, py)) return null;
+  // Wenn zu nah an anderer Stadt: weg schieben
+  for (let i = 0; i < cities.length; i++) {
+    if (i === skipIdx) continue;
+    const d = Math.hypot(cities[i].x - px, cities[i].y - py);
+    if (d < MIN_DIST && d > 0) {
+      const angle = Math.atan2(py - cities[i].y, px - cities[i].x);
+      px = cities[i].x + Math.cos(angle) * MIN_DIST;
+      py = cities[i].y + Math.sin(angle) * MIN_DIST;
+    }
+  }
+  if (!pointInContinent(px, py)) return null;
+  return { x: px, y: py };
+}
+
+function el(tag, attrs) {
+  const e = document.createElementNS(ns, tag);
+  for (const [k,v] of Object.entries(attrs||{})) e.setAttribute(k,v);
+  return e;
+}
+
+function updateVB() { svg.setAttribute('viewBox', `${vb.x} ${vb.y} ${vb.w} ${vb.h}`); updateScale(); }
+
+function updateScale() {
+  const bar = document.getElementById('scale-bar');
+  if (!bar) return;
+  // SVG-Einheiten pro Pixel auf dem Bildschirm
+  const r = svg.getBoundingClientRect();
+  const svgPerPx = vb.w / r.width;
+  // 1 SVG ≈ 3.37km (3200km / 950 SVG-Einheiten Kontinent-Breite)
+  const kmPerPx = svgPerPx * 3.37;
+  // Finde schöne Schrittweite für ~200px Balkenlänge
+  const targetKm = kmPerPx * 200;
+  const steps = [10,20,50,100,200,500,1000,2000];
+  let step = steps.find(s => s >= targetKm / 5) || 1000;
+  const segCount = Math.min(10, Math.floor(targetKm / step)) || 1;
+  const segPx = step / kmPerPx;
+  let html = '<div style="display:flex;align-items:flex-end;height:10px;">';
+  for (let i = 0; i < segCount; i++) {
+    const bg = i % 2 === 0 ? 'rgba(138,130,121,0.25)' : 'transparent';
+    html += `<div style="width:${segPx}px;height:6px;border-left:1px solid #8a8279;border-bottom:1px solid #8a8279;background:${bg};"></div>`;
+  }
+  html += `<div style="width:0;height:6px;border-left:1px solid #8a8279;"></div></div>`;
+  html += '<div style="display:flex;font-size:8px;color:#8a8279;font-family:monospace;margin-top:1px;">';
+  for (let i = 0; i <= segCount; i++) {
+    if (i === segCount) {
+      html += `<div style="width:0;text-align:center;position:relative;"><span style="position:absolute;right:0;">${i*step} km</span></div>`;
+    } else if (i % 2 === 0 || segCount <= 5) {
+      html += `<div style="width:${segPx}px;text-align:left;">${i*step}</div>`;
+    } else {
+      html += `<div style="width:${segPx}px;"></div>`;
+    }
+  }
+  html += '</div>';
+  bar.innerHTML = html;
+}
+
+function svgPoint(clientX, clientY) {
+  const pt = svg.createSVGPoint();
+  pt.x = clientX;
+  pt.y = clientY;
+  const ctm = svg.getScreenCTM();
+  if (ctm) {
+    const svgP = pt.matrixTransform(ctm.inverse());
+    return { x: svgP.x, y: svgP.y };
+  }
+  // Fallback
+  const r = svg.getBoundingClientRect();
+  return {
+    x: vb.x + (clientX - r.left) / r.width * vb.w,
+    y: vb.y + (clientY - r.top) / r.height * vb.h
+  };
+}
+
+function render() {
+  svg.innerHTML = '';
+
+  // Defs
+  const defs = el('defs');
+  const clip = el('clipPath', {id:'cc'});
+  clip.appendChild(el('path', {d:coastPath}));
+  defs.appendChild(clip);
+  defs.innerHTML += '<filter id="gl"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>';
+  svg.appendChild(defs);
+
+  // Ocean
+  svg.appendChild(el('rect', {width:1600,height:1100,fill:'#0d1015'}));
+
+  // Continent base
+  svg.appendChild(el('path', {d:coastPath, fill:'#2a2520', stroke:'#4a4035','stroke-width':'1.5'}));
+
+  // Voronoi
+  const pts = cities.map(c=>[c.x,c.y]);
+  if (pts.length > 2) {
+    currentDelaunay = d3.Delaunay.from(pts);
+    const voronoi = currentDelaunay.voronoi([200,60,1400,900]);
+    const cellG = el('g', {'clip-path':'url(#cc)'});
+    for (let i = 0; i < cities.length; i++) {
+      const cell = voronoi.cellPolygon(i);
+      if (!cell) continue;
+      const c = factionColors[cities[i].faction] || factionColors.frei;
+      const d = 'M ' + cell.map(p=>p[0]+','+p[1]).join(' L ') + ' Z';
+      const p = el('path', {d, fill:c.fill, stroke:c.stroke, 'stroke-width':'0.5', 'stroke-opacity':'0.6'});
+      if (i === selectedIdx) { p.setAttribute('stroke', '#f0e6d8'); p.setAttribute('stroke-width', '2'); p.setAttribute('stroke-opacity', '1'); }
+      cellG.appendChild(p);
+    }
+    svg.appendChild(cellG);
+  }
+
+  // Coast border
+  svg.appendChild(el('path', {d:coastPath, fill:'none', stroke:'#5a5045', 'stroke-width':'2'}));
+
+  // Cities
+  const cg = el('g');
+  cities.forEach((c,i) => {
+    const r = c.size===3?5:c.size===2?3.5:c.size===1?2.5:c.size===-1?4:1.5;
+    const fc = c.size===-1 ? '#e74c3c' : c.size>=3?'#f0e6d8':c.size>=2?'#c8bfb0':c.size>=1?'#8a8279':'#5a5550';
+    const op = c.size<=0 && c.size!==-1 ? (viewMode==='magic'?'0.6':'0.4') : '1';
+    const circle = el('circle', {cx:c.x,cy:c.y,r,fill:fc,opacity:op,'data-idx':i,style:'cursor:pointer'});
+    if (i===selectedIdx) { circle.setAttribute('stroke','#fff'); circle.setAttribute('stroke-width','2'); circle.setAttribute('r',r+2); }
+    cg.appendChild(circle);
+
+    if (c.name) {
+      const fs = c.size===3?9:c.size===2?7.5:c.size===1?6.5:5;
+      const tc = c.size===3?'#f0e6d8':c.size===2?'#b0a898':c.size===1?'#7a7269':'#5a5550';
+      const fw = c.size===3?'600':'400';
+      const halo = el('text', {x:c.x+r+4,y:c.y+3,fill:'none',stroke:'#0d1015','stroke-width':'3','font-size':fs,'font-weight':fw,style:'pointer-events:none'});
+      halo.textContent = c.name;
+      cg.appendChild(halo);
+      const t = el('text', {x:c.x+r+4,y:c.y+3,fill:tc,'font-size':fs,'font-weight':fw,style:'pointer-events:none'});
+      t.textContent = c.name;
+      cg.appendChild(t);
+    }
+  });
+  svg.appendChild(cg);
+
+  // Magie-Heatmap (im magic-Modus) — Canvas-basiert, logarithmischer Abfall
+  if (viewMode === 'magic') {
+    const canvasW = 400, canvasH = 275; // Internes Raster (Performance)
+    const scaleX = 1600/canvasW, scaleY = 1100/canvasH;
+    const canvas = document.createElement('canvas');
+    canvas.width = canvasW; canvas.height = canvasH;
+    const ctx = canvas.getContext('2d');
+    const imgData = ctx.createImageData(canvasW, canvasH);
+    const data = imgData.data;
+
+    // Logarithmischer Abfall: strength / (1 + (dist/halfDist)^2)
+    // halfDist = Radius bei dem Stärke auf 50% fällt
+    for (let py = 0; py < canvasH; py++) {
+      for (let px = 0; px < canvasW; px++) {
+        const wx = px * scaleX, wy = py * scaleY;
+        let totalMagic = 0;
+        for (let i = 0; i < cities.length; i++) {
+          const c = cities[i];
+          const s = magicStrength[c.size] || 0;
+          const halfR = (magicRadius[c.size] || 1) * 0.5;
+          if (s <= 0) continue;
+          const maxR = magicRadius[c.size] || 0;
+          const dist = Math.hypot(c.x - wx, c.y - wy);
+          if (dist > maxR) continue; // Außerhalb der Reichweite: keine Magie
+          totalMagic += s / (1 + Math.pow(dist / halfR, 2.5));
+        }
+        // Clamp und Farbmapping — niedrigerer Clamp, schwächere Farben
+        totalMagic = Math.min(totalMagic, 0.8);
+        const idx = (py * canvasW + px) * 4;
+        if (totalMagic > 0.003) {
+          // Logarithmische Skala für Farbe
+          const logVal = Math.log(1 + totalMagic * 5) / Math.log(5); // 0..1, flachere Kurve
+          // Farbverlauf: dunkelblau → gold → hell
+          let r, g, b;
+          if (logVal < 0.35) {
+            const t = logVal / 0.35;
+            r = Math.floor(15 + t * 30);
+            g = Math.floor(8 + t * 15);
+            b = Math.floor(40 + t * 30);
+          } else if (logVal < 0.7) {
+            const t = (logVal - 0.35) / 0.35;
+            r = Math.floor(45 + t * 100);
+            g = Math.floor(23 + t * 80);
+            b = Math.floor(70 - t * 60);
+          } else {
+            const t = (logVal - 0.7) / 0.3;
+            r = Math.floor(145 + t * 40);
+            g = Math.floor(103 + t * 50);
+            b = Math.floor(10 + t * 40);
+          }
+          const alpha = Math.min(200, Math.floor(logVal * 250));
+          data[idx] = r; data[idx+1] = g; data[idx+2] = b; data[idx+3] = alpha;
+        }
+      }
+    }
+    ctx.putImageData(imgData, 0, 0);
+
+    // Canvas als SVG image einfügen
+    const dataUrl = canvas.toDataURL();
+    const magicG = el('g', {'clip-path':'url(#cc)', opacity:'0.6', style:'mix-blend-mode:screen'});
+    magicG.appendChild(el('image', {href:dataUrl, x:0, y:0, width:1600, height:1100, 'image-rendering':'auto'}));
+    // Heatmap VOR Voronoi-Grenzen und Städten einfügen (= dahinter rendern)
+    // Wir fügen sie nach dem Kontinent-Base ein, Grenzen + Städte kommen danach
+    svg.appendChild(magicG);
+  }
+
+  // Voronoi-Grenzen im Magic-Modus nochmal drüber zeichnen
+  if (viewMode === 'magic' && pts.length > 2) {
+    const borderG = el('g', {'clip-path':'url(#cc)'});
+    const voronoi2 = currentDelaunay.voronoi([200,60,1400,900]);
+    for (let i = 0; i < cities.length; i++) {
+      const cell = voronoi2.cellPolygon(i);
+      if (!cell) continue;
+      const c = factionColors[cities[i].faction] || factionColors.frei;
+      const d = 'M ' + cell.map(p=>p[0]+','+p[1]).join(' L ') + ' Z';
+      const p = el('path', {d, fill:'none', stroke:c.stroke, 'stroke-width':'1', 'stroke-opacity':'0.8'});
+      if (i === selectedIdx) { p.setAttribute('stroke', '#f0e6d8'); p.setAttribute('stroke-width', '2'); }
+      borderG.appendChild(p);
+    }
+    svg.appendChild(borderG);
+  }
+
+  // Magie-Radius der ausgewählten Stadt (in beiden Modi)
+  if (selectedIdx >= 0 && selectedIdx < cities.length) {
+    const sc = cities[selectedIdx];
+    const mr = magicRadius[sc.size] || 0;
+    if (mr > 0) {
+      const rg = el('g', {'clip-path':'url(#cc)'});
+      rg.appendChild(el('circle', {
+        cx:sc.x, cy:sc.y, r:mr,
+        fill:'none', stroke:'#b8860b', 'stroke-width':'1.5',
+        'stroke-dasharray':'6,4', opacity:'0.7'
+      }));
+      // Innerer Kern (volle Regeneration)
+      rg.appendChild(el('circle', {
+        cx:sc.x, cy:sc.y, r:mr*0.4,
+        fill:'none', stroke:'#b8860b', 'stroke-width':'0.8',
+        'stroke-dasharray':'3,3', opacity:'0.4'
+      }));
+      svg.appendChild(rg);
+    }
+  }
+
+  // Portal (draggable)
+  const pg = el('g', {filter:'url(#gl)'});
+  pg.appendChild(el('circle', {cx:portal.x,cy:portal.y,r:6,fill:'#b8860b',stroke:'#e74c3c','stroke-width':'2.5',style:'cursor:pointer','data-portal':'1'}));
+  const phalo = el('text', {x:portal.x+10,y:portal.y-2,fill:'none',stroke:'#0d1015','stroke-width':'3','font-size':'9','font-weight':'600',style:'pointer-events:none'});
+  phalo.textContent = portal.name;
+  pg.appendChild(phalo);
+  const pt = el('text', {x:portal.x+10,y:portal.y-2,fill:'#e8c170','font-size':'9','font-weight':'600',style:'pointer-events:none'});
+  pt.textContent = portal.name;
+  pg.appendChild(pt);
+  svg.appendChild(pg);
+
+  // Maßstab als HTML (wird separat in updateScale gerendert)
+
+  updateSidebar();
+}
+
+function updateSidebar() {
+  // Bevölkerungsstatistik
+  const stats = {};
+  let totalPop = 0;
+  ['orath','thar','velmar','frei','tot'].forEach(f => { stats[f] = { count: 0, pop: 0, riesig:0, gross:0, mittel:0, klein:0 }; });
+  cities.forEach(c => {
+    const f = c.faction || 'frei';
+    if (!stats[f]) stats[f] = { count: 0, pop: 0, riesig:0, gross:0, mittel:0, klein:0 };
+    stats[f].count++;
+    const pop = sizePop[c.size] || 0;
+    stats[f].pop += pop;
+    totalPop += pop;
+    if (c.size === 3) stats[f].riesig++;
+    else if (c.size === 2) stats[f].gross++;
+    else if (c.size === 1) stats[f].mittel++;
+    else if (c.size === 0) stats[f].klein++;
+  });
+
+  // Soll-Bevölkerung pro Fraktion (wie definiert)
+  const targetPop = { thar: 2500000, velmar: 700000, orath: 5500000, frei: 7000000, tot: 0 };
+  const TOTAL_POP = 17000000;
+  // Nicht-kartierte = Soll minus kartierte Städte
+  ['orath','thar','velmar','frei','tot'].forEach(f => {
+    if (stats[f]) {
+      const target = targetPop[f] || 0;
+      stats[f].uncartedPop = Math.max(0, target - stats[f].pop);
+      stats[f].totalPop = target;
+    }
+  });
+
+  let html = `<div style="margin-bottom:6px;color:#f0e6d8;font-size:11px;"><strong>~17 Mio.</strong> gesamt · ${cities.length} kartiert + ~500 Weiler</div>`;
+  ['orath','thar','velmar','frei','tot'].forEach(f => {
+    const s = stats[f];
+    if (!s || s.count === 0) return;
+    const col = factionColors[f]?.stroke || '#888';
+    const pct = totalPop > 0 ? Math.round(s.pop / totalPop * 100) : 0;
+    html += `<div style="border-left:3px solid ${col};padding-left:6px;margin-bottom:5px;">`;
+    html += `<div style="color:${col};font-weight:600;">${factionNames[f] || f}</div>`;
+    const totalPct = TOTAL_POP > 0 ? Math.round(s.totalPop / TOTAL_POP * 100) : 0;
+    html += `<div>${(s.totalPop/1e6).toFixed(1)} Mio. (${totalPct}%) · ${s.count} kartiert</div>`;
+    html += `<div style="color:#6b6259;font-size:9px;">${(s.pop/1e6).toFixed(2)}M Städte + ${(s.uncartedPop/1e6).toFixed(1)}M Weiler</div>`;
+    html += `<div style="color:#6b6259;">${s.riesig}R ${s.gross}G ${s.mittel}M ${s.klein}K</div>`;
+    html += `</div>`;
+  });
+  document.getElementById('pop-stats').innerHTML = html;
+
+  // Ausgewählte Stadt
+  if (selectedIdx < 0 || selectedIdx >= cities.length) {
+    document.getElementById('no-sel').style.display = '';
+    document.getElementById('sel-info').style.display = 'none';
+    return;
+  }
+  document.getElementById('no-sel').style.display = 'none';
+  document.getElementById('sel-info').style.display = '';
+  const c = cities[selectedIdx];
+  document.getElementById('city-name').value = c.name || '';
+  document.getElementById('city-pos').textContent = `x: ${Math.round(c.x)}, y: ${Math.round(c.y)}`;
+  document.getElementById('city-faction').innerHTML = `<span style="color:${factionColors[c.faction]?.stroke||'#888'}">${factionNames[c.faction] || c.faction}</span>`;
+  document.getElementById('city-size').textContent = `${sizeNames[c.size] || 'Klein'} (~${(sizePop[c.size]||0).toLocaleString('de-DE')} Einw.)`;
+}
+
+function setFaction(f) {
+  if (selectedIdx >= 0) { cities[selectedIdx].faction = f; render(); }
+}
+
+function setSize(s) {
+  if (selectedIdx >= 0) { cities[selectedIdx].size = s; render(); }
+}
+
+function updateName(v) {
+  if (selectedIdx >= 0) { cities[selectedIdx].name = v || null; render(); }
+}
+
+function addCity() {
+  cities.push({x:800,y:500,name:"Neue Stadt",size:1,faction:"frei"});
+  selectedIdx = cities.length - 1;
+  render();
+  toast('Stadt hinzugefügt — ziehe sie an die richtige Position');
+}
+
+function deleteCity() {
+  if (selectedIdx >= 0) { cities.splice(selectedIdx, 1); selectedIdx = -1; render(); toast('Stadt gelöscht'); }
+}
+
+function exportData() {
+  const json = JSON.stringify(cities, null, 2);
+  navigator.clipboard.writeText(json).then(() => toast('JSON in Zwischenablage kopiert!'));
+  console.log(json);
+}
+
+function resetView() { vb = {x:0,y:0,w:1600,h:1100}; updateVB(); }
+
+function setView(mode) {
+  viewMode = mode;
+  document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('btn-' + mode).classList.add('active');
+  render();
+}
+
+function toast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg; t.style.display = 'block';
+  setTimeout(() => t.style.display = 'none', 2500);
+}
+
+// Mouse events
+const mc = document.getElementById('map-container');
+
+mc.addEventListener('mousedown', e => {
+  const p = svgPoint(e.clientX, e.clientY);
+
+  if (e.button === 2) { isPanning = true; panStart = {x:e.clientX,y:e.clientY}; e.preventDefault(); return; }
+
+  // Portal check first
+  if (Math.hypot(portal.x - p.x, portal.y - p.y) < 15) {
+    draggingPortal = true;
+    selectedIdx = -1;
+    render();
+    return;
+  }
+
+  // Find city via Voronoi cell (click anywhere in the polygon)
+  let minI = -1;
+  if (currentDelaunay && cities.length > 2) {
+    minI = currentDelaunay.find(p.x, p.y);
+  } else {
+    // Fallback: nearest point
+    let minD = 50;
+    cities.forEach((c,i) => { const d = Math.hypot(c.x-p.x,c.y-p.y); if(d<minD){minD=d;minI=i;} });
+  }
+
+  if (minI >= 0) { selectedIdx = minI; dragging = minI; render(); }
+  else { selectedIdx = -1; render(); }
+});
+
+mc.addEventListener('mousemove', e => {
+  if (isPanning) {
+    const cur = svgPoint(e.clientX, e.clientY);
+    const prev = svgPoint(panStart.x, panStart.y);
+    vb.x -= (cur.x - prev.x);
+    vb.y -= (cur.y - prev.y);
+    updateVB();
+    panStart = {x:e.clientX,y:e.clientY};
+    return;
+  }
+  if (draggingPortal) {
+    const p = svgPoint(e.clientX, e.clientY);
+    if (pointInContinent(p.x, p.y)) {
+      portal.x = p.x;
+      portal.y = p.y;
+      render();
+    }
+    return;
+  }
+  if (dragging >= 0) {
+    const p = svgPoint(e.clientX, e.clientY);
+    const cp = constrainPosition(p.x, p.y, dragging);
+    if (cp) {
+      cities[dragging].x = cp.x;
+      cities[dragging].y = cp.y;
+      render();
+    }
+  }
+});
+
+mc.addEventListener('mouseup', () => { dragging = -1; draggingPortal = false; isPanning = false; });
+mc.addEventListener('mouseleave', () => { dragging = -1; draggingPortal = false; isPanning = false; });
+mc.addEventListener('contextmenu', e => e.preventDefault());
+
+mc.addEventListener('dblclick', e => {
+  const p = svgPoint(e.clientX, e.clientY);
+  if (!pointInContinent(p.x, p.y)) { toast('Außerhalb der Landmasse!'); return; }
+  const cp = constrainPosition(p.x, p.y, -1);
+  if (!cp) { toast('Zu nah an anderer Stadt!'); return; }
+  cities.push({x:cp.x,y:cp.y,name:null,size:0,faction:"frei"});
+  selectedIdx = cities.length - 1;
+  render();
+  toast('Neue Stadt hinzugefügt');
+});
+
+mc.addEventListener('wheel', e => {
+  e.preventDefault();
+  const s = e.deltaY > 0 ? 1.1 : 0.9;
+  const r = svg.getBoundingClientRect();
+  const mx = (e.clientX - r.left) / r.width, my = (e.clientY - r.top) / r.height;
+  const nw = vb.w * s, nh = vb.h * s;
+  vb.x += (vb.w - nw) * mx; vb.y += (vb.h - nh) * my;
+  vb.w = nw; vb.h = nh;
+  updateVB();
+});
+
+// Keyboard
+document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT') return;
+  if (e.key === 'Delete' || e.key === 'Backspace') deleteCity();
+  if (e.key === '1') setFaction('orath');
+  if (e.key === '2') setFaction('thar');
+  if (e.key === '3') setFaction('velmar');
+  if (e.key === '4') setFaction('frei');
+  if (e.key === '5') setFaction('tot');
+});
+
+// Permanente Datei-Speicherung via Server
+let saveTimer = null;
+function save() {
+  // Debounce: speichere max alle 500ms
+  if (saveTimer) clearTimeout(saveTimer);
+  saveTimer = setTimeout(() => {
+    fetch('/data', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({ cities, portal, coast })
+    }).then(r => r.json()).then(d => {
+      // Leise gespeichert
+    }).catch(e => {
+      console.warn('Speichern fehlgeschlagen:', e);
+      toast('Speichern fehlgeschlagen — läuft der Server?');
+    });
+  }, 500);
+}
+
+async function loadFromServer() {
+  try {
+    const r = await fetch('/data');
+    const data = await r.json();
+    if (data.cities && data.cities.length > 10) {
+      cities = data.cities;
+      Object.assign(portal, data.portal || {});
+      console.log(`${cities.length} Städte vom Server geladen`);
+    } else {
+      console.log('Initiale Daten, speichere eingebaute Defaults...');
+    }
+  } catch(e) {
+    console.log('Server nicht erreichbar, nutze eingebaute Daten');
+  }
+}
+
+// Save after every render
+const _origRender = render;
+render = function() { _origRender(); save(); };
+
+// Load from server on start
+
+loadFromServer().then(() => {
+
+// Validate: move any cities outside continent inside
+let fixed = 0;
+cities.forEach((c, i) => {
+  if (!pointInContinent(c.x, c.y)) {
+    // Find nearest coast point
+    let minD = Infinity, best = coast[0];
+    coast.forEach(p => { const d = Math.hypot(p[0]-c.x, p[1]-c.y); if(d<minD){minD=d;best=p;} });
+    // Move 30px inward from coast
+    const cx = coast.reduce((s,p)=>s+p[0],0)/coast.length;
+    const cy = coast.reduce((s,p)=>s+p[1],0)/coast.length;
+    const angle = Math.atan2(cy-best[1], cx-best[0]);
+    c.x = best[0] + Math.cos(angle) * 30;
+    c.y = best[1] + Math.sin(angle) * 30;
+    fixed++;
+  }
+});
+if (fixed > 0) console.log(`${fixed} Städte in Landmasse verschoben`);
+
+render();
+updateScale();
+
+}); // end loadFromServer().then()
+</script>
+
+</body>
+</html>
