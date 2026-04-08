@@ -1,12 +1,12 @@
 # Alphina — Szene 3
 
-Die Gasse vor dem Garten war leer. Das Tor fiel hinter ihr ins Schloss, ein schwerer hölzerner Klang, dem ein leises Nachschwingen folgte. Sie blieb einen Moment davor stehen, die Hand am Mantelkragen, und atmete einmal so tief, dass sie die Luft im Brustbein spüren konnte. Der Dunst hing dünn in der Gasse, durchsichtig, kein Vorhang, eher ein Schleier, durch den die schräge Nachmittagssonne noch immer als blasser Fleck auf dem Pflaster landete. Die Gaslampe an der Ecke war noch nicht angezündet.
+Die Gasse vor dem Garten war leer. Das Tor fiel hinter ihr ins Schloss, ein schwerer hölzerner Klang, dem ein leises Nachschwingen folgte. Sie blieb einen Moment davor stehen, die Hand am Mantelkragen, und atmete einmal so tief, dass sie die Luft im Brustbein spüren konnte. Der Nebel hing dünn in der Gasse, durchsichtig, kein Vorhang, eher ein Schleier, durch den die schräge Nachmittagssonne noch immer als blasser Fleck auf dem Pflaster landete. Die Gaslampe an der Ecke war noch nicht angezündet.
 
 Sie ging die Hauptgasse hinab, Richtung Hafen, denselben Weg, den sie an jedem Nachmittag der letzten drei Wochen genommen hatte. Die Häuser zu beiden Seiten standen dicht. Drei Stockwerke, schmale Giebel, Fensterläden halb geschlossen gegen das kippende Licht. Hinter einigen Scheiben brannte schon Licht, gelb und warm, und die Lichtflecken legten sich auf das Pflaster vor ihr in unregelmäßigen Inseln.
 
 Ein Uhrmacher. Aus Karst.
 
-Sie hatte das Wort im Kopf wie einen Fremdkörper. Nicht weil es etwas Neues war — Uhrmacher gab es überall, auch in Vael, auch in Karst, auch in Velde, und sie hatte keine Meinung zu Uhren — sondern weil es den Satz umschrieb, den Runa gesagt hatte und der unter dem Wort lag: *ein Mann, der in einen Raum kommt, und eine stehende Uhr fängt an zu gehen.* Das war nicht Uhrmacherei. Das war das, was sie mit den Lavendelstecklingen tat, nur in einem anderen Material. Sie hatte es immer gewusst, ohne es zu wissen, dass sie nicht die Einzige sein konnte. Die Welt war zu groß für eine einzelne Hand. Aber zu wissen, dass sie es nicht war, und zu wissen, dass ein Mann seit zwei Wochen jeden Nachmittag drei Gassen weiter an einem Reparaturtisch saß und eine Uhr zum Gehen brachte, indem er einfach im Raum war, waren zwei verschiedene Sachen. Die zweite hatte einen Körper und eine Adresse. Die zweite konnte man ansprechen.
+Sie hatte das Wort im Kopf wie einen Fremdkörper. Es war nicht neu — Uhrmacher gab es überall, auch in Vael, auch in Karst, auch in Velde, und sie hatte keine Meinung zu Uhren. Es war der Satz dahinter, den Runa gesagt hatte und der unter dem Wort lag: *ein Mann, der in einen Raum kommt, und eine stehende Uhr fängt an zu gehen.* Das war keine Uhrmacherei. Das war das, was sie mit den Lavendelstecklingen tat, nur in einem anderen Material. Sie hatte es immer gewusst, ohne es zu wissen, dass sie nicht die Einzige sein konnte. Die Welt war zu groß für eine einzelne Hand. Aber zu wissen, dass sie es nicht war, und zu wissen, dass ein Mann seit Wochen jeden Nachmittag drei Gassen weiter an einem Reparaturtisch saß und eine Uhr zum Gehen brachte, indem er einfach im Raum war, waren zwei verschiedene Sachen. Die zweite hatte einen Körper und eine Adresse. Die zweite konnte man ansprechen.
 
 Sie musste ihn finden.
 
@@ -68,7 +68,7 @@ Sie schloss die Tür hinter sich. Lehnte den Rücken gegen das Holz. Eine Sekund
 
 Dann bewegte sie sich. Den Mantel ausziehen. Notizbuch aus der Innentasche. Flugblatt aus der Innentasche. Beides auf den Tisch. Den Mantel über die Stuhllehne. Die Schuhe blieben an. Sie ging zum Fenster, schob den dünnen Vorhang ein Stück zur Seite, schaute hinaus.
 
-Die Hafengasse. Die Lampen. Die Häuser auf der anderen Seite. Die Dächer, dunkel gegen einen Himmel, der noch nicht ganz Nacht war, sondern die Stunde danach, in der das Licht aufgehört hatte, ohne dass die Sterne angefangen hatten. Auf den Dachkanten: nichts.
+Die Hafengasse. Die Lampen. Die Häuser auf der anderen Seite. Die Dächer, dunkel gegen einen Himmel in der Stunde nach der Dämmerung — das Licht hatte aufgehört, die Sterne noch nicht angefangen. Auf den Dachkanten: nichts.
 
 Ihre linke Hand legte sie flach auf die Fensterbank, neben ihre rechte. Vergleich. Die linke war wärmer. Spürbar. Mehrere Stunden, nachdem sie die Steine berührt hatte, und die Hand war noch warm. Nicht heiß. Wärmer als die andere, deutlich genug, um den Unterschied zu fühlen.
 
@@ -88,7 +88,7 @@ Sie ging zurück zum Fenster. Nahm den Vorhang in die Hand, um ihn zuzuziehen. S
 
 Sie zog den Vorhang zu.
 
-Stand im Halbdunkel des Zimmers, der Vorhang noch in der Hand. Sie löste ihn von den Fingern, eine Fingerkuppe nach der anderen, als wäre der Stoff etwas, das sie festgehalten hätte und nicht umgekehrt.
+Stand im Halbdunkel des Zimmers, der Vorhang noch in der Hand. Sie löste ihn von den Fingern, eine Fingerkuppe nach der anderen.
 
 Morgen Vormittag kam Runa. Morgen Nachmittag ging sie zurück in den Garten, zum Hügel, und legte die Hand wieder auf den Stein, und dieses Mal wüsste sie, was sie fühlte. Übermorgen — oder vielleicht schon heute Abend, unten im Schankraum — würde sie den Mann finden, der am Reparaturtisch saß, und sie würde mit ihm sprechen, obwohl sie nicht wusste, mit welchen Worten.
 

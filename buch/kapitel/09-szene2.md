@@ -82,17 +82,17 @@ Alphina wartete.
 
 "Seit wann?"
 
-"Vor etwa zwei Wochen hat die Witwe einen Uhrmacher aus Karst geholt. Er kommt jeden Nachmittag in den Salon und arbeitet an einem kleinen Reparaturtisch — Taschenuhren, die er aus der Stadt mitbringt, glaube ich. An die Standuhr soll er nicht rangehen, das war die Bedingung. Er hält sich auch dran. Er hat sie nicht angefasst. Er sitzt nur im selben Raum. Die Haushälterin sagt, die Uhr hat angefangen zu ticken, als er das erste Mal im Salon saß. Sie hat ihn gefragt, was er gemacht hat. Er hat gesagt: nichts. Er hat nur kurz die Hand aufs Gehäuse gelegt, eine Sekunde, und wieder weggenommen."
+"Vor knapp einem Monat hat die Witwe einen Uhrmacher aus Karst geholt. Er kommt jeden Nachmittag in den Salon und arbeitet an einem kleinen Reparaturtisch — Taschenuhren, die er aus der Stadt mitbringt, glaube ich. An die Standuhr soll er nicht rangehen, das war die Bedingung. Er hält sich auch dran. Er hat sie nicht angefasst. Er sitzt nur im selben Raum. Die Haushälterin sagt, die Uhr hat angefangen zu ticken, als er das erste Mal im Salon saß. Sie hat ihn gefragt, was er gemacht hat. Er hat gesagt: nichts. Er hat nur kurz die Hand aufs Gehäuse gelegt, eine Sekunde, und wieder weggenommen."
 
 Alphina saß sehr still.
 
-"Sie geht, solange er im Raum ist. Sie bleibt stehen, wenn er weg ist. Die Haushälterin hat es die ganze Woche beobachtet und gestern bei mir rausgelassen, weil sie nicht mehr wusste, wem sie es sagen soll. Ich hab die Witwe heute morgen angerufen — sie ist stocksauer, weil der Mieter angeblich die Uhr in Ruhe lassen soll und trotzdem etwas mit ihr macht. Was er aber nicht tut. Er rührt sie nicht an."
+"Sie geht, solange er im Raum ist. Sie bleibt stehen, wenn er weg ist. Die Haushälterin hat es seit ein paar Tagen genauer beobachtet und gestern bei mir rausgelassen, weil sie nicht mehr wusste, wem sie es sagen soll. Ich war heute morgen selbst bei der Witwe — sie ist stocksauer, weil der Mieter angeblich die Uhr in Ruhe lassen soll und trotzdem etwas mit ihr macht. Was er aber nicht tut. Er rührt sie nicht an."
 
 Etwas in Alphinas Brustkorb zog sich zusammen, eine Bewegung so klein, dass sie nichts verriet. Sie hielt den Gesichtsausdruck, weil Runa jetzt zu ihr schaute.
 
 "Ein Uhrmacher aus Karst."
 
-"Ja. Wohnt im Tidemoor-Haus seit zwei Wochen."
+"Ja. Seit knapp einem Monat in der Stadt, soweit die Haushälterin das einordnen kann."
 
 "Wie heißt er?"
 
@@ -158,7 +158,7 @@ Sie wischte die freie Hand an der Schürze unter dem Mantel ab, eine Geste, die 
 
 Alphina blieb sitzen. Das Flugblatt in der Hand, gefaltet, noch leicht klamm, der Druck nicht ganz trocken — eine Stelle hatte abgefärbt auf ihren Daumen. Schwarz. Sie wischte sie nicht ab.
 
-Über dem Treibhaus fing das Licht an zu kippen. Die dünne Sonne war jetzt nur noch ein helles Feld hinter dem Dunst, keine Position mehr, nur eine Richtung. Die Tropfen an den Innenseiten der Treibhausscheiben waren noch da, einzelne kleine Perlen, die das zurückgehende Licht anders zurückwarfen als die große beschlagene Fläche um sie herum. Henrik hatte irgendwann aufgehört zu schaufeln. Die Vögel hatten nicht angefangen.
+Über dem Treibhaus fing das Licht an zu kippen. Die dünne Sonne war jetzt nur noch ein helles Feld hinter dem Nebel, keine Position mehr, nur eine Richtung. Die Tropfen an den Innenseiten der Treibhausscheiben waren noch da, einzelne kleine Perlen, die das zurückgehende Licht anders zurückwarfen als die große beschlagene Fläche um sie herum. Henrik hatte irgendwann aufgehört zu schaufeln. Die Vögel hatten nicht angefangen.
 
 Sie schob das Flugblatt in die Innentasche des Mantels, neben das Notizbuch. Stand auf. Das rechte Knie, das steife, meldete sich kurz. Sie ging Richtung Ausgang.
 
@@ -170,4 +170,4 @@ Pförtnerhaus. Henrik saß auf dem kleinen Hocker neben der Tür, die Pfeife im 
 
 "Bis morgen, Henrik."
 
-Sie trat aus dem Garten in die Gasse. Das dünne Licht lag noch flach über den Dächern. Der Dunst war nicht dichter geworden, er war nur ein halbes Tempo träger.
+Sie trat aus dem Garten in die Gasse. Das dünne Licht lag noch flach über den Dächern. Der Nebel war nicht dichter geworden, er war nur ein halbes Tempo träger.
