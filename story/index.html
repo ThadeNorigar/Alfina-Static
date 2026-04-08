@@ -249,7 +249,7 @@
       .then(r => r.json())
       .then(data => {
         const tree = document.getElementById('nav-tree');
-        let totalFinal = 0, totalWords = 0;
+        let totalFinal = 0;
 
         ['buch1', 'buch2', 'buch3'].forEach((buchKey) => {
           const buch = data[buchKey];
@@ -259,9 +259,9 @@
           const finalKeys = Object.keys(kapitel).filter(k => kapitel[k].status === 'final');
           if (finalKeys.length === 0) return;
 
-          const buchWords = finalKeys.reduce((s, k) => s + (kapitel[k].woerter || 0), 0);
+          const totalKeys = Object.keys(kapitel);
+          const percentDone = Math.round((finalKeys.length / totalKeys.length) * 100);
           totalFinal += finalKeys.length;
-          totalWords += buchWords;
 
           const card = document.createElement('div');
           card.className = 'book-card';
@@ -272,12 +272,10 @@
             <div class="buch-left">
               <div class="buch-num">${buchLabels[buchKey]}</div>
               <div class="buch-titel">${buch.meta.titel}</div>
-              <div class="buch-sub">${buch.meta.untertitel}</div>
             </div>
             <div class="buch-right">
               <div class="buch-stats">
-                ${finalKeys.length} Kapitel<br>
-                ${buchWords.toLocaleString('de-DE')} W
+                ${percentDone}% fertig
               </div>
               <div class="buch-arrow">&#x203A;</div>
             </div>
@@ -299,7 +297,6 @@
                 <div class="akt-num">${akt.name}</div>
               </div>
               <div class="akt-right">
-                <div class="akt-dots">${aktFinal.map(() => '<div class="mini-dot" style="background:#2E8B57"></div>').join('')}</div>
                 <div class="akt-arrow">&#x203A;</div>
               </div>
             `;
@@ -322,8 +319,7 @@
 
               row.innerHTML = `
                 <div class="ch-num">${label}</div>
-                <div class="ch-title">${ch.titel}</div>
-                <div class="ch-words">${ch.woerter ? ch.woerter.toLocaleString('de-DE') + ' W' : ''}</div>
+                <div class="ch-title">${ch.pov}</div>
               `;
               block.appendChild(row);
 
@@ -355,7 +351,7 @@
         });
 
         document.getElementById('global-stats').innerHTML =
-          `<strong>${totalFinal}</strong> Kapitel &middot; <strong>${totalWords.toLocaleString('de-DE')}</strong> W\u00f6rter`;
+          `<strong>${totalFinal}</strong> Kapitel`;
       });
   </script>
 </body>

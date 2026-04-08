@@ -298,7 +298,6 @@
             <div class="buch-left">
               <div class="buch-num">${buchLabels[buchKey]}</div>
               <div class="buch-titel">${buch.meta.titel}</div>
-              <div class="buch-sub">${buch.meta.untertitel}</div>
             </div>
             <div class="buch-right">
               <div class="buch-stats">
@@ -362,7 +361,7 @@
 
               row.innerHTML = `
                 <div class="ch-num">${label}</div>
-                <div class="ch-title">${ch.titel}</div>
+                <div class="ch-title">${ch.pov}</div>
                 <div class="ch-status s-${ch.status}"><div class="dot"></div> ${ch.status}</div>
                 ${wordsHtml}
               `;
