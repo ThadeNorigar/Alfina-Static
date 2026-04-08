@@ -1,6 +1,6 @@
 # Vesper
 
-*14. Mai 551 · 5 Wochen 4 Tage in Vael*
+*14. Mai 551 · 4 Wochen 6 Tage in Vael*
 
 Acht Grad Spiel, wo vier gereicht hätten.
 
@@ -56,9 +56,9 @@ Der Wirt hatte sie zweimal beim Vornamen genannt, aber Vesper war gerade an eine
 
 Er schrieb nichts über sie ins Notizbuch. Der achtzehnte Punkt war eine Adresse, keine Person, und er hatte gelernt, Adressen von Menschen sauber zu trennen.
 
-Er ging zurück zu Kvarns Uhr. Hob die Pinzette, setzte sie an der Ankerplatte an, nahm die kleine Lupe mit dem dreifachen Vergrößerungsfaktor zwischen Zeigefinger und Daumen der linken Hand. Durch das Glas sah er die Welle, sah das Spiel, sah wo das halbe Haar zuviel saß. Er drehte — vorsichtig, zwei Grad, nicht mehr. Die Welle knackte ein einziges Mal, fast nicht hörbar, das typische Geräusch, wenn eine Lagerstelle sich eine Spur verschoben hat. Er prüfte das Ergebnis mit einem zweiten Blick durch die Lupe. Besser. Noch nicht gut.
+Er ging zurück zu Kvarns Uhr. Hob die Pinzette, setzte sie an der Ankerplatte an, nahm die kleine Lupe mit dem dreifachen Vergrößerungsfaktor zwischen Zeigefinger und Daumen der linken Hand. Durch das Glas sah er die Welle, sah das Spiel, sah wo das halbe Haar zuviel saß. Er drehte — vorsichtig, zwei Grad, nicht mehr. Die Welle knackte ein einziges Mal, fast nicht hörbar, das typische Geräusch, wenn eine Lagerstelle sich eine Spur verschoben hat. Er prüfte das Ergebnis mit einem zweiten Blick durch die Lupe. Besser, noch nicht gut.
 
-Er wusste in diesem Moment, wie er wusste, wann ein Abend in Karst kein Abend für die letzte Etappe gewesen war: heute nicht. Seine Hände waren ruhig, aber sein Kopf war nicht bei der Welle. Die zwei Linien auf dem Kartenrücken standen in seinem Augenwinkel wie zwei nasse Striche, die nicht trocknen wollten. Den achtzehnten Punkt zu suchen war wichtiger als Kvarn um einen halben Tag zu enttäuschen. Der halbe Tag war verhandelbar; die Linien waren es nicht.
+Er wusste in diesem Moment, wie er wusste, wann ein Abend in Karst kein Abend für die letzte Etappe gewesen war: heute nicht. Seine Hände waren ruhig, aber sein Kopf war nicht bei der Welle. Die zwei Linien auf dem Kartenrücken standen in seinem Augenwinkel wie zwei nasse Striche, die nicht trocknen wollten. Den achtzehnten Punkt zu suchen war wichtiger, als Kvarn um einen Nachmittag zu enttäuschen. Der Nachmittag war verhandelbar; die Linien waren es nicht.
 
 Er legte die Pinzette auf die Samtrolle. Deckte die Uhr mit dem schmalen Samtlappen zu, den er zu diesem Zweck immer rechts von der Rolle liegen hatte. Die Werkzeuge ließ er ausgerollt — er würde am Nachmittag zurückkommen — und zog nur den Lappen über das offene Werk, damit kein Staub hineinfiel, während er draußen war. Dann klappte er das Notizbuch zu, griff den Mantel von der Stuhllehne, schob ihn an und steckte das Buch in die Innentasche.
 
@@ -92,7 +92,7 @@ Sie hatte ihn nicht gehört. Er wartete, bis sie eine Zeile gesetzt und den Hake
 
 "Guten Tag."
 
-Sie hob den Kopf. Ihr Gesicht war zuerst eine Asymmetrie — das linke Auge stand einen halben Millimeter tiefer als das rechte, eine Abweichung, die auffiel, wenn man auf solche Dinge geeicht war. Dann ein Mund, der sich zu einer halben Frage öffnete, ohne sie zu stellen.
+Sie hob den Kopf. Ihr Gesicht war zuerst eine Asymmetrie — das linke Auge stand einen halben Millimeter tiefer als das rechte, eine Abweichung, die auffiel, wenn man auf solche Dinge geeicht war. Dann ein Mund, der sich zu einer Frage öffnete und sie nicht stellte.
 
 "Guten Tag."
 
@@ -174,19 +174,19 @@ Er legte den Stift auf den Velinbogen. Las die Skala ab, einmal, zweimal. Unters
 
 Dann stand er auf, nahm die drei Papiere zusammen, schob sie sauber übereinander — Velin oben, Karte in der Mitte, Flugblatt unten — und trug sie hinauf in sein Zimmer.
 
-Den Turm in seiner Tasche streifte er auf der Treppe einmal mit der Daumenkuppe. Kalt. Einen halben Grad kälter als heute morgen, oder er bildete es sich ein. Die siebte Stufe knarrte. Er ging weiter.
+Den Turm in seiner Tasche streifte er auf der Treppe einmal mit der Daumenkuppe. Kalt. Eine Spur kälter als heute morgen, oder er bildete es sich ein. Die siebte Stufe knarrte. Er ging weiter.
 
 ---
 
 Im Zimmer war die Lampe schon angezündet. Vesper saß am kleinen Klapptisch unter dem Fenster, die Petroleumlampe einen Daumen breit vom Werk entfernt, Kvarns Taschenuhr in der Pinzette. Er hatte sie nach dem Abendessen aus dem Schankraum mit nach oben genommen, weil das Licht in seinem Zimmer abends ruhiger war als im Raum unter ihm. Hinter dem Fenster lag die Hafengasse im Halbdunkel. Drei Gaslaternen standen in der Reihe unter ihm, zwei davon brannten schon, die dritte würde der Laternenanzünder in den nächsten Minuten erreichen.
 
-Die Welle hatte sich anders verhalten, als Vesper nach dem Abendessen wieder die Lupe angesetzt hatte. Wo am Vormittag das halbe Haar Spiel gesessen hatte, saß es jetzt nur noch gefühlt. Er hatte zwei Grad zurückgedreht, dann ein Grad nachjustiert, dann das Werk laufen lassen und das Ohr daran gelegt. Der Schlag war ruhiger geworden. Noch nicht ganz rein. Er kannte den Ton, an dem er erkennen würde, wann die Hemmung saß — ein klares, unbeladenes Tickern, ohne das schwache Schleifen am Übergang. Den Ton hatte er noch nicht.
+Die Welle hatte sich anders verhalten, als Vesper nach dem Abendessen wieder die Lupe angesetzt hatte. Wo am Vormittag das haardünne Spiel gesessen hatte, saß es jetzt nur noch gefühlt. Er hatte zwei Grad zurückgedreht, dann ein Grad nachjustiert, dann das Werk laufen lassen und das Ohr daran gelegt. Der Schlag war ruhiger geworden. Noch nicht ganz rein. Er kannte den Ton, an dem er erkennen würde, wann die Hemmung saß — ein klares, unbeladenes Tickern, ohne das schwache Schleifen am Übergang. Den Ton hatte er noch nicht.
 
 Er nahm die Lupe vom Auge und legte sie zur Seite, um die Augen zu entspannen. Das Notizbuch lag rechts vom Werk, geschlossen, mit dem Velin und dem Flugblatt darin.
 
 Drei Schläge an der Tür.
 
-Nicht laut. Nicht zaghaft. Drei Schläge in einem Abstand, den ein Mensch nur trifft, wenn er ihn vorher überlegt hat. Vesper zählte mit — eins, eins Komma vier, eins Komma vier — und er zählte mit, weil sein Kopf mit Zahlen reagierte, bevor er mit anderem reagierte. Er legte die Pinzette neben die Samtrolle. Stand auf. Ging zur Tür.
+Nicht laut, nicht zaghaft — Schläge in einem Abstand, den ein Mensch nur trifft, wenn er ihn vorher überlegt hat. Vesper zählte mit, weil sein Kopf mit Zahlen reagierte, bevor er mit anderem reagierte: eins, eins Komma vier, eins Komma vier. Er legte die Pinzette neben die Samtrolle, stand auf und ging zur Tür.
 
 Er öffnete sie einen Spalt. Halb, nicht ganz. Die alte Gewohnheit eines Mannes, der Reisende war und in fremden Gasthöfen schon zu viele Türen zur falschen Zeit aufgemacht hatte.
 
@@ -254,7 +254,7 @@ Die Pinzette lag neben der Samtrolle, wo er sie hingelegt hatte. Die Uhr stand i
 
 Der Schlag war rein.
 
-Nicht ruhiger. Nicht besser. *Rein* — der Ton, den er zwei Stunden lang gesucht hatte, der Ton, den eine Ankerhemmung dieser Güte eigentlich nicht hergab, der Ton einer Uhr deren Toleranzen alle zufällig im selben Moment auf das Ideal gerutscht waren. Er stellte seine eigene Taschenuhr daneben und las eine volle Minute lang ab. Null Drift. Nicht eine Sekunde.
+Nicht ruhiger, nicht besser — *rein*. Der Ton, den er zwei Stunden lang gesucht hatte. Der Ton, den eine Ankerhemmung dieser Güte eigentlich nicht hergab, deren Toleranzen alle zufällig im selben Moment auf das Ideal gerutscht waren. Er stellte seine eigene Taschenuhr daneben und las eine volle Minute lang ab. Null Drift, nicht eine einzige Sekunde.
 
 Er legte Kvarns Uhr auf den Tisch und legte seine Handfläche auf das Gehäuse.
 
@@ -268,7 +268,7 @@ Vesper griff nach dem Notizbuch.
 
 Er wollte den Befund eintragen. Er wollte schreiben, dass die Hemmung um halb zehn Uhr ohne sein Werkzeug in den Sollzustand gerutscht war. Dass die Welle jetzt einen Schlag hielt, den sie am Morgen nicht gehalten hatte. Nüchtern, vollständig — die Form, in der er Anomalien festhielt.
 
-Er schlug das Notizbuch auf der nächsten leeren Seite auf. Tunkte den Stift in das kleine Tintenfaß, das in der Kerbe am Tischrand stand. Hielt die Spitze einen halben Atemzug über das Papier.
+Er schlug das Notizbuch auf der nächsten leeren Seite auf. Tunkte den Stift in das kleine Tintenfaß, das in der Kerbe am Tischrand stand. Hielt die Spitze einen Moment über dem Papier.
 
 Seine Hand schrieb:
 

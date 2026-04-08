@@ -181,15 +181,16 @@
       "10": {
         "titel": "Sorel: Die erste Platte",
         "pov": "Sorel",
-        "status": "szenenplan",
-        "woerter": null,
-        "text": "13. Mai 551. Dunkelkammer im Lichthaus-Keller. Sorel entwickelt seine ersten Vael-Platten — eine zeigt einen Schemen am Kai, eine zeigt eine fremde Frau mit Farnen, die er nie gesehen hat. Drei Platten hängen neben Platte 7 an der Wand. Spur der Farne durch Vael führt zum Botanischen Garten. Nachts klettert er über die Südmauer. Die Kamera sieht das Atmen der Steinränder im Steinkreis. Er fasst nichts an — er fotografiert."
+        "status": "entwurf",
+        "woerter": 5439,
+        "text": "13. Mai 551. Dunkelkammer im Lichthaus-Keller. Sorel entwickelt seine ersten Vael-Platten — eine zeigt einen Schemen am Kai, eine zeigt eine fremde Frau mit Farnen, die er nie gesehen hat. Drei Platten hängen neben Platte 7 an der Wand. Spur der Farne durch Vael führt zum Botanischen Garten. Nachts klettert er über die Südmauer. Die Kamera sieht das Atmen der Steinränder im Steinkreis. Er fasst nichts an — er fotografiert.",
+        "datei": "10-sorel.md"
       },
       "11": {
         "titel": "Vesper: Das Netz",
         "pov": "Vesper",
-        "status": "entwurf",
-        "woerter": 5115,
+        "status": "checked",
+        "woerter": 5101,
         "text": "14. Mai 551. Fünf Wochen seit Kap 7 hat Vesper Vael systematisch abgeklopft. Siebzehn abweichende Uhren, eingetragen auf einer Karte — ein geometrisches Muster. Runas Flugblatt in der Druckerei: vier Adressen-Übereinstimmungen mit seinen eigenen Punkten. Im Anker-Schankraum registriert er morgens eine Frau mit Erde unter den Nägeln. Abends klopft sie an seine Tür. Drei Sätze. Sie heißt Alphina. Achtzehnter Punkt: Anker, zweiter Stock links.",
         "datei": "11-vesper.md"
       },
