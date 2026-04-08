@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Der Riss — Zeitleiste</title>
+  <link rel="stylesheet" href="../styles.css">
+  <style>
+    :root {
+      --cream: #f5f0e8; --ink: #1e1c19; --muted: #6b6259;
+      --accent: #6b3a3a; --deep: #0f0e0c; --smoke: #8a8279;
+      --paper: #f8f4ee; --paper-edge: #e8e0d4;
+      --thal: #b8860b; --thal-faint: rgba(184,134,11,0.08);
+      --moragh: #6b3a3a; --moragh-faint: rgba(107,58,58,0.08);
+    }
+    body { background: var(--deep); display: flex; justify-content: center; padding: 2rem 1rem; min-height: 100vh; }
+    nav { display: none; }
+    .wrap { width: 100%; max-width: 980px; }
+    .page-title { text-align: center; padding: 1rem 0 0.3rem; font-family: 'Cormorant Garamond', serif; font-size: 0.7rem; letter-spacing: 0.4em; text-transform: uppercase; color: var(--smoke); }
+    .page-subtitle { text-align: center; padding: 0 0 0.3rem; font-family: 'Cormorant Garamond', serif; font-size: 0.85rem; color: var(--smoke); letter-spacing: 0.05em; }
+    .page-desc { text-align: center; padding: 0 2rem 1.2rem; font-family: 'Inter', sans-serif; font-size: 0.72rem; font-weight: 300; color: var(--smoke); line-height: 1.7; max-width: 700px; margin: 0 auto; }
+
+    .filter-bar { display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap; padding: 0 0 1.5rem; }
+    .filter-btn {
+      display: flex; align-items: center; gap: 0.35rem; padding: 0.25rem 0.6rem;
+      border-radius: 2px; font-family: 'Inter', sans-serif; font-size: 0.6rem;
+      cursor: pointer; user-select: none;
+      border: 1px solid rgba(255,255,255,0.06); background: rgba(255,255,255,0.03);
+      color: var(--smoke); transition: all 0.2s;
+    }
+    .filter-btn.active { border-color: rgba(255,255,255,0.15); background: rgba(255,255,255,0.06); }
+    .filter-btn:hover { border-color: rgba(255,255,255,0.2); }
+    .filter-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+
+    .tl-card {
+      background: var(--paper); border-radius: 2px 6px 6px 2px;
+      box-shadow: 0 0 0 1px var(--paper-edge), 0 12px 40px rgba(0,0,0,0.3);
+      overflow: hidden; position: relative;
+    }
+    .tl-card::before {
+      content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+      background: linear-gradient(180deg, var(--thal) 0%, var(--moragh) 100%);
+    }
+    .tl-columns { display: grid; grid-template-columns: 1fr 1fr; }
+
+    .col-header { padding: 1.2rem 1.8rem 0.8rem; border-bottom: 1px solid rgba(107,58,58,0.06); }
+    .col-header.thal { background: var(--thal-faint); }
+    .col-header.moragh { background: var(--moragh-faint); }
+    .col-header-num { font-family: 'Cormorant Garamond', serif; font-size: 0.6rem; letter-spacing: 0.35em; text-transform: uppercase; }
+    .col-header.thal .col-header-num { color: var(--thal); }
+    .col-header.moragh .col-header-num { color: var(--moragh); }
+    .col-header-title { font-family: 'Cormorant Garamond', serif; font-size: 1.15rem; font-weight: 400; color: var(--ink); }
+    .col-header-sub { font-family: 'Inter', sans-serif; font-size: 0.62rem; color: var(--smoke); margin-top: 0.15rem; }
+
+    .col-body { padding: 1rem 1.5rem 1.3rem; }
+    .col-body.thal { background: var(--thal-faint); border-right: 1px solid rgba(107,58,58,0.04); }
+    .col-body.moragh { background: var(--moragh-faint); }
+
+    .tl-line { position: relative; padding-left: 1.6rem; }
+    .tl-line::before { content: ''; position: absolute; left: 0; top: 0.5rem; bottom: 0.5rem; width: 1px; }
+    .thal .tl-line::before { background: linear-gradient(180deg, var(--thal), rgba(184,134,11,0.1)); }
+    .moragh .tl-line::before { background: linear-gradient(180deg, var(--moragh), rgba(107,58,58,0.1)); }
+
+    .ev { position: relative; margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid rgba(107,58,58,0.04); }
+    .ev:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+    .ev::before { content: ''; position: absolute; left: -1.75rem; top: 0.4rem; width: 5px; height: 5px; border-radius: 50%; }
+    .thal .ev::before { background: var(--thal); }
+    .moragh .ev::before { background: var(--moragh); }
+
+    .ev-time { font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; font-weight: 300; color: var(--smoke); margin-bottom: 0.1rem; display: flex; gap: 0.4rem; align-items: baseline; flex-wrap: wrap; }
+    .tz { color: var(--thal); } .mz { color: var(--moragh); }
+    .ev-time .sep { color: rgba(107,98,89,0.3); }
+    .ev-title { font-family: 'Cormorant Garamond', serif; font-size: 0.88rem; font-weight: 500; color: var(--ink); line-height: 1.3; }
+    .ev-detail { font-family: 'Inter', sans-serif; font-size: 0.68rem; font-weight: 300; color: var(--muted); line-height: 1.6; margin-top: 0.1rem; }
+    .ev-tags { display: flex; gap: 0.25rem; margin-top: 0.3rem; flex-wrap: wrap; }
+    .tag { font-family: 'Inter', sans-serif; font-size: 0.48rem; padding: 0.08rem 0.35rem; border-radius: 2px; text-transform: uppercase; }
+    .pov { font-family: 'Inter', sans-serif; font-size: 0.48rem; padding: 0.06rem 0.25rem; border-radius: 2px; background: rgba(107,58,58,0.05); color: var(--smoke); margin-left: 0.25rem; }
+
+    .book-marker { background: rgba(107,58,58,0.04); border: 1px solid rgba(107,58,58,0.08); border-radius: 3px; padding: 0.4rem 0.5rem; margin-bottom: 1rem; }
+    .thal .book-marker { border-color: rgba(184,134,11,0.12); background: rgba(184,134,11,0.04); }
+    .book-marker .ev-time { font-size: 0.55rem; letter-spacing: 0.1em; text-transform: uppercase; }
+
+    .month-marker {
+      grid-column: 1 / -1; padding: 0.5rem 1.8rem;
+      background: rgba(107,58,58,0.03);
+      border-top: 1px solid rgba(107,58,58,0.06);
+      border-bottom: 1px solid rgba(107,58,58,0.06);
+      display: flex; justify-content: space-between; align-items: baseline;
+    }
+    .month-marker .mm-tz { font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; color: var(--thal); letter-spacing: 0.03em; }
+    .month-marker .mm-label { font-family: 'Cormorant Garamond', serif; font-size: 0.82rem; font-weight: 500; color: var(--ink); letter-spacing: 0.08em; }
+    .month-marker .mm-mz { font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; color: var(--moragh); letter-spacing: 0.03em; }
+
+    .tl-gap { position: relative; text-align: center; font-family: 'Cormorant Garamond', serif; font-size: 0.68rem; font-style: italic; color: var(--smoke); opacity: 0.45; padding: 0.4rem 0; margin-bottom: 1rem; }
+    .tl-gap::before { content: ''; position: absolute; left: -1.6rem; top: 0; bottom: 0; width: 1px; border-left: 1px dashed rgba(107,58,58,0.12); }
+
+    .sync-bridge-row {
+      grid-column: 1 / -1; display: grid; grid-template-columns: 1fr auto 1fr;
+      align-items: center; padding: 0.45rem 1.5rem;
+      background: rgba(139,69,19,0.04);
+      border-top: 1px solid rgba(139,69,19,0.08);
+      border-bottom: 1px solid rgba(139,69,19,0.08);
+    }
+    .sync-left { text-align: right; padding-right: 0.8rem; font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; color: var(--thal); }
+    .sync-center { font-family: 'Cormorant Garamond', serif; font-size: 0.75rem; color: #8b4513; text-align: center; white-space: nowrap; padding: 0.15rem 0.6rem; border-left: 1px dashed #8b4513; border-right: 1px dashed #8b4513; }
+    .sync-right { text-align: left; padding-left: 0.8rem; font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; color: var(--moragh); }
+
+    .empty-col { padding: 1rem 1.5rem; font-family: 'Cormorant Garamond', serif; font-size: 0.78rem; font-style: italic; color: var(--smoke); opacity: 0.4; }
+    .empty-col.thal { background: var(--thal-faint); border-right: 1px solid rgba(107,58,58,0.04); }
+    .empty-col.moragh { background: var(--moragh-faint); }
+
+    .ev.hidden { display: none; }
+
+    @media (max-width: 700px) {
+      .tl-columns { grid-template-columns: 1fr; }
+      .sync-bridge-row { grid-template-columns: auto 1fr auto; padding: 0.4rem 1rem; }
+      .month-marker { padding: 0.4rem 1rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="grain"></div>
+  <div class="wrap">
+    <div class="page-title">Der Riss — Zeitleiste</div>
+    <div class="page-subtitle" id="subtitle"></div>
+    <div class="page-desc" id="desc"></div>
+    <div class="filter-bar" id="filters"></div>
+    <div class="tl-card">
+      <div class="tl-columns" id="timeline"></div>
+    </div>
+  </div>
+
+  <script>
+    const typColors = {
+      portal: '#8b4513', begegnung: '#4a6a7a', erkenntnis: '#6a5080',
+      erotik: '#8b3a5a', 'schlüssel': '#b8860b', tod: '#6b6259',
+      tschechow: '#5a7a5a', hintergrund: '#555'
+    };
+    const typLabels = {
+      portal: 'Portal', begegnung: 'Begegnung', erkenntnis: 'Erkenntnis',
+      erotik: 'Erotik', 'schlüssel': 'Schlüssel', tod: 'Tod',
+      tschechow: 'Tschechow', hintergrund: 'Hintergrund'
+    };
+
+    let activeFilters = new Set(Object.keys(typColors));
+
+    function escHtml(s) {
+      if (!s) return '';
+      return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    function renderEvent(ev, side) {
+      if (ev.luecke) return `<div class="tl-gap">${escHtml(ev.luecke)}</div>`;
+
+      const typen = ev.typen || [];
+      const primaryType = typen[0] || '';
+      const isVisible = typen.length === 0 || typen.some(t => activeFilters.has(t));
+
+      // Event dot color from primary type
+      let dotStyle = '';
+      if (primaryType === 'portal') dotStyle = `background:${typColors.portal}; width:7px; height:7px; left:-1.85rem; top:0.3rem;`;
+      else if (typColors[primaryType]) dotStyle = `background:${typColors[primaryType]};`;
+
+      // Time display
+      let timeHtml = '';
+      if (side === 'thal' && ev.tz !== undefined) {
+        timeHtml = `<span class="tz">TZ ${ev.tz}</span> <span class="sep">&middot;</span> <span class="mz">MZ ${ev.mz}</span>`;
+      } else if (side === 'moragh' && ev.mz !== undefined) {
+        timeHtml = `<span class="mz">MZ ${ev.mz}</span> <span class="sep">&middot;</span> <span class="tz">TZ ${ev.tz}</span>`;
+      }
+      if (ev.pov) timeHtml += ` <span class="pov">${escHtml(ev.pov)}</span>`;
+
+      // Tags
+      const tagsHtml = (ev.tags || []).map(tag => {
+        const tagType = typen.find(t => tag.toLowerCase().startsWith(t)) || typen[0] || '';
+        const cssClass = tagType ? `tag-${tagType}` : '';
+        return `<span class="tag ${cssClass}">${escHtml(tag)}</span>`;
+      }).join('');
+
+      const opacityClass = primaryType === 'hintergrund' ? ' style="opacity:0.55"' : '';
+      const hiddenClass = isVisible ? '' : ' hidden';
+
+      return `<div class="ev t-${primaryType}${hiddenClass}"${opacityClass} data-typen="${typen.join(',')}">
+        ${dotStyle ? `<style>.ev.t-${primaryType}::before { ${dotStyle} }</style>` : ''}
+        ${timeHtml ? `<div class="ev-time">${timeHtml}</div>` : ''}
+        <div class="ev-title">${escHtml(ev.titel)}</div>
+        ${ev.detail ? `<div class="ev-detail">${escHtml(ev.detail)}</div>` : ''}
+        ${tagsHtml ? `<div class="ev-tags">${tagsHtml}</div>` : ''}
+      </div>`;
+    }
+
+    function renderTimeline(data) {
+      const tl = document.getElementById('timeline');
+      tl.innerHTML = '';
+
+      // Column headers
+      tl.innerHTML += `
+        <div class="col-header thal">
+          <div class="col-header-num">Thalassien (TZ)</div>
+          <div class="col-header-title">Die Welt ohne Magie</div>
+          <div class="col-header-sub">${escHtml(data.meta.zeitrechnung.tz_null)}</div>
+        </div>
+        <div class="col-header moragh">
+          <div class="col-header-num">Moragh (MZ)</div>
+          <div class="col-header-title">Die Welt mit Magie</div>
+          <div class="col-header-sub">${escHtml(data.meta.zeitrechnung.verhaeltnis)}</div>
+        </div>
+      `;
+
+      data.monate.forEach(monat => {
+        const ev = monat.events;
+
+        // Month marker
+        tl.innerHTML += `
+          <div class="month-marker">
+            <div class="mm-tz">${escHtml(monat.tz)}</div>
+            <div class="mm-label">${escHtml(monat.label)}</div>
+            <div class="mm-mz">${escHtml(monat.mz)}</div>
+          </div>
+        `;
+
+        // Pre-sync bridge
+        if (ev.sync && !monat.label.includes('Buch 1')) {
+          tl.innerHTML += `
+            <div class="sync-bridge-row">
+              <div class="sync-left">${escHtml(ev.sync.tz)}</div>
+              <div class="sync-center">&larr; ${escHtml(ev.sync.label)} &rarr;</div>
+              <div class="sync-right">${escHtml(ev.sync.mz)}</div>
+            </div>
+          `;
+        }
+
+        const thalEvents = ev.thalassien || [];
+        const moraghEvents = ev.moragh || [];
+
+        // Thalassien column
+        if (thalEvents.length === 0) {
+          tl.innerHTML += `<div class="empty-col thal">&mdash;</div>`;
+        } else {
+          let bookMarker = '';
+          if (monat.buch && (monat.buch.includes('Buch 1') || monat.buch.includes('Buch 3'))) {
+            const buchNum = monat.buch.includes('1') ? '1' : '3';
+            const buchTitel = monat.buch;
+            bookMarker = `<div class="book-marker">
+              <div class="ev-time"><span class="tz">${escHtml(buchTitel)}</span> <span class="sep">&mdash;</span> <span class="tz">${escHtml(monat.tz)}</span> <span class="sep">&middot;</span> <span class="mz">${escHtml(monat.mz)}</span></div>
+              <div class="ev-title">${buchNum === '1' ? 'Vier Resonanz-Begabte kommen nach Vael' : 'Wiedervereinigung der Welten'}</div>
+            </div>`;
+          }
+          tl.innerHTML += `<div class="col-body thal"><div class="tl-line">
+            ${bookMarker}
+            ${thalEvents.map(e => renderEvent(e, 'thal')).join('')}
+          </div></div>`;
+        }
+
+        // Moragh column
+        if (moraghEvents.length === 0) {
+          tl.innerHTML += `<div class="empty-col moragh">&mdash;</div>`;
+        } else {
+          let bookMarker = '';
+          if (monat.buch && (monat.buch.includes('Buch 2') || monat.buch.includes('Buch 3'))) {
+            const buchTitel = monat.buch;
+            const isB2 = monat.buch.includes('Buch 2');
+            bookMarker = `<div class="book-marker">
+              <div class="ev-time"><span class="mz">${escHtml(buchTitel)}</span> <span class="sep">&mdash;</span> <span class="mz">${escHtml(monat.mz)}</span> <span class="sep">&middot;</span> <span class="tz">${escHtml(monat.tz)}</span></div>
+              <div class="ev-title">${isB2 ? 'Vier Überlebende in einer Welt im Krieg.' : 'Alphina, Vesper, Runa — gealtert in Moragh-Zeit'}</div>
+            </div>`;
+          }
+          tl.innerHTML += `<div class="col-body moragh"><div class="tl-line">
+            ${bookMarker}
+            ${moraghEvents.map(e => renderEvent(e, 'moragh')).join('')}
+          </div></div>`;
+        }
+
+        // Post-sync bridge (for Buch 1 portal crossing)
+        if (ev.sync && monat.label.includes('Buch 1')) {
+          tl.innerHTML += `
+            <div class="sync-bridge-row">
+              <div class="sync-left">${escHtml(ev.sync.tz)}</div>
+              <div class="sync-center">&larr; ${escHtml(ev.sync.label)} &rarr;</div>
+              <div class="sync-right">${escHtml(ev.sync.mz)}</div>
+            </div>
+          `;
+        }
+      });
+    }
+
+    function applyFilters() {
+      document.querySelectorAll('.ev[data-typen]').forEach(el => {
+        const typen = el.dataset.typen.split(',').filter(Boolean);
+        const visible = typen.length === 0 || typen.some(t => activeFilters.has(t));
+        el.classList.toggle('hidden', !visible);
+      });
+    }
+
+    fetch('/buch/zeitleiste.json')
+      .then(r => r.json())
+      .then(data => {
+        document.getElementById('subtitle').textContent = data.meta.untertitel;
+        document.getElementById('desc').textContent = data.meta.beschreibung;
+
+        // Build filter buttons
+        const filterBar = document.getElementById('filters');
+        Object.entries(data.typen).forEach(([key, typ]) => {
+          const btn = document.createElement('div');
+          btn.className = 'filter-btn active';
+          btn.dataset.typ = key;
+          btn.innerHTML = `<span class="filter-dot" style="background:${typ.farbe}"></span> ${typ.label}`;
+          btn.addEventListener('click', () => {
+            if (activeFilters.has(key)) {
+              activeFilters.delete(key);
+              btn.classList.remove('active');
+            } else {
+              activeFilters.add(key);
+              btn.classList.add('active');
+            }
+            applyFilters();
+          });
+          filterBar.appendChild(btn);
+        });
+
+        renderTimeline(data);
+      });
+  </script>
+</body>
+</html>
