@@ -140,9 +140,9 @@ Alphina nahm das oberste Blatt. Es war einfach gesetzt, zwei Spalten, der Titel 
 
 *VAELS GEISTER — Beobachtungen einer Druckerin. Zweite Folge.*
 
-Darunter: eine Liste. Jede Zeile eine Adresse, ein Datum, eine Anomalie. *Hafenstraße 14, 11. April, heißes Wasser aus der Brunnenleitung ohne Kessel im Haus, beobachtet durch Frau Maline Holst, drei weitere Zeugen.* *Treidelweg 3, 19. April, Kaminfeuer brannte ohne Brennstoff von 23 Uhr bis 23 Uhr 10, beobachtet durch Familie Tovak, vier Personen.* *Speichergasse 7, 22. April und 24. April, schattenhaftes Tier auf dem Dach gesehen von Witwe Gerda Falk, zweimal, jeweils um 22 Uhr.* Weiter unten ein Block mit der Überschrift, die Alphinas Blick festhielt, obwohl sie schneller hätte weiterlesen können: *Doktor Hendrik Halvard, Stadtarzt, Praxis am Kirchplatz:* und darunter vier Fälle aus dem April. Drei Verbrennungen zweiten Grades ohne Hitzequelle — Unterarm, Handrücken, Schulter. Und, als vierter Eintrag, in derselben nüchternen Spalte: *Frostwunde am Fußrücken, weibliche Patientin, 34 Jahre, am Abend des 23. April. Temperatur im Schlafzimmer: warme Frühlingsnacht, kein Fenster offen, kein Eis, kein kalter Gegenstand in Reichweite. Patientin berichtet: Gefühl, als hätte eine Hand aus Eis kurz auf dem Fuß gelegen.*
+Darunter: eine Liste. Jede Zeile eine Adresse, ein Datum, eine Anomalie. *Hafenstraße 14, 11. April, heißes Wasser aus der Brunnenleitung ohne Kessel im Haus, beobachtet durch Frau Maline Holst, drei weitere Zeugen.* *Treidelweg 3, 19. April, Kaminfeuer brannte ohne Brennstoff von 23 Uhr bis 23 Uhr 10, beobachtet durch Familie Tovak, vier Personen.* *Speichergasse 7, 22. April und 24. April, schattenhaftes Tier auf dem Dach gesehen von Witwe Gerda Falk, zweimal, jeweils um 22 Uhr.* Fünf, sechs weitere Einträge in derselben Form — Adresse, Zeit, Zeuge. Am unteren Rand, in kleinerer Schrift, ein Aufruf: wer Ähnliches beobachtet habe, möge sich in der Druckerei Kvist in der Oberstadt melden, Vertraulichkeit werde zugesichert.
 
-Alphina las den Bogen einmal ganz, dann langsamer ein zweites Mal, weil ihr Blick beim ersten Lesen über Datum und Adresse hinweggesprungen war und sie das nicht zulassen wollte. Adressen waren prüfbar. Daten waren prüfbar. Halvards Liste war prüfbar, jedenfalls für jemanden, der mit Halvard reden konnte. Sie hielt den Bogen so, dass ihre Hände nicht zitterten. Sie zitterten nicht. Das war der Teil, den sie festhielt.
+Alphina las den Bogen einmal ganz, dann langsamer ein zweites Mal, weil ihr Blick beim ersten Lesen über Datum und Adresse hinweggesprungen war und sie das nicht zulassen wollte. Adressen waren prüfbar. Daten waren prüfbar. Es war keine Hysterie, es war eine nüchterne Aufstellung, und die Nüchternheit war das, was sie festhielt. Sie hielt auch den Bogen so, dass ihre Hände nicht zitterten. Sie zitterten nicht.
 
 "Du hast das alles selbst zusammengetragen?"
 
@@ -150,27 +150,21 @@ Alphina las den Bogen einmal ganz, dann langsamer ein zweites Mal, weil ihr Blic
 
 "Alle Adressen?"
 
-"Ja. Ich hab an jeder Tür geklopft. Witwe Falk hat mir Tee gemacht und mir den Schornstein gezeigt, von dem aus sie das Tier gesehen hat. Familie Tovak hat den Kamin nicht angerührt, seit es passiert ist. Die warten darauf, dass es nochmal passiert." Runa zog ihre Knie an die Bank, drehte sich halb zu Alphina. "Halvards Liste war schwieriger. Den hab ich überrumpelt, als er aus der Apotheke kam. Er hat mir die Daten gegeben, weil er nichts mehr damit anfangen konnte. Aber er will, dass sein Name aus dem Druck rauskommt."
+"Ja. Ich hab an jeder Tür geklopft. Witwe Falk hat mir Tee gemacht und mir den Schornstein gezeigt, von dem aus sie das Tier gesehen hat. Familie Tovak hat den Kamin nicht angerührt, seit es passiert ist. Die warten darauf, dass es nochmal passiert." Runa zog die Knie an die Bank, drehte sich halb zu Alphina. "Aber was auf dem Bogen steht, ist nicht alles. Es gibt mehr. Und den Teil darf ich nicht drucken."
 
-"Steht aber drin. Mit Vornamen."
+Alphina sah von der Liste auf.
 
-"Initialen. H. H., nicht Halvard."
+"Doktor Halvard." Runa sagte den Namen leise, obwohl niemand in der Nähe war außer den Spatzen, die nicht zwischen den Hortensien nisteten. "Ich hab ihn vor zehn Tagen auf dem Weg aus der Apotheke abgefangen. Ich hab ihn gefragt, ob er in den letzten Wochen etwas behandelt hat, das er sich nicht erklären kann. Er hat erst nein gesagt. Dann ist er stehen geblieben, hat mich angeschaut wie jemand, der sich zwischen zwei Sätzen entscheiden muss, und hat den zweiten gewählt. Ich bin mit ihm in seine Praxis zurück. Er hat mir Tee gemacht. Und dann hat er seine Aprillisten aufgeschlagen."
 
-Alphina drehte den Bogen. Der Name stand schwarz auf weiß in der Überschrift des Blocks. *Doktor Hendrik Halvard, Stadtarzt, Praxis am Kirchplatz.* Sie hob den Blick zu Runa. Runa hielt ihren Blick eine Sekunde zu lang und schaute dann auf den Korb zwischen ihren Füßen. Ein kleines, schnelles Nicken, das keinen Adressaten hatte.
+Alphina wartete.
 
-"H. H.", wiederholte Alphina.
+"Drei Verbrennungen zweiten Grades innerhalb von zehn Tagen. Eine am Unterarm, eine am Handrücken, eine an der Schulter. In allen drei Fällen kein Feuer, kein heißer Gegenstand, keine heiße Flüssigkeit in Reichweite. Die Patienten schwören das, und Halvard glaubt ihnen, weil er sie seit zwanzig Jahren kennt und keiner von ihnen ein Lügner ist. Und als vierten Fall —" Runa schaute auf ihre Hände, die jetzt auf den eigenen Knien lagen, "— einen Frostbrand am Fußrücken. Am Abend des dreiundzwanzigsten April. Eine Wäscherin aus der Flechtergasse, vierunddreißig Jahre, drei Kinder, Mann ist Tagelöhner am Hafen. Warme Frühlingsnacht, Fenster zu, kein Eis im Haus, kein kalter Gegenstand in Reichweite. Sie hat Halvard gesagt, sie habe für einen Atemzug das Gefühl gehabt, als hätte ihr jemand eine Hand aus Eis auf den Fuß gelegt. Halvard hat den Satz wörtlich notiert und mir wörtlich wiedergegeben."
 
-"Ja."
+"Und dann?"
 
-Alphina legte das Blatt zwischen sie auf die Bank, mit der Überschrift nach oben, ohne etwas zu zeigen. Sie ließ den Widerspruch stehen. Sie ließ ihn auch im Kopf stehen — nicht als Anklage, als Merkzettel. Eine Druckerin, die eine Verbrennungsliste fälscht, wäre lächerlich. Eine Druckerin, die einen Namen druckt und danach vergisst, dass sie ihn gedruckt hat, war nicht lächerlich, war anders. Vielleicht wollte Runa, dass Halvard es später als Fehler lesen konnte. Vielleicht hatte sie im Moment des Sprechens selbst nicht gewusst, welche Version wahr war. Beides ging.
+"Dann hat er mir verboten, es zu drucken. Nicht gebeten — verboten. Er hat gesagt, wenn das in einem Flugblatt steht, ist er bis zur nächsten Sitzung des Stadtrats seine Stelle los. Der Rat sucht seit zwei Jahren einen Grund, ihn loszuwerden, weil er zu unabhängig ist und zu viele arme Leute ohne Bezahlung behandelt, und das wäre ein Grund. Ich hab es ihm versprochen, und ich halte mich dran. Nichts von den vier Fällen ist im Setzkasten. Die Bleilettern liegen an ihrem Platz, wo sie hingehören."
 
-"Die vierte Zeile ist keine Verbrennung."
-
-"Nein." Runa schaute auf das Blatt. "Frostwunde. Er hat sie mir separat genannt, gestern. Ich hab sie noch reingesetzt, kurz vor dem Druck. Er sagt, sie passt nicht zu den anderen, aber er hat sie gebracht, weil sie aus derselben Woche war."
-
-"Eine Hand aus Eis auf dem Fuß."
-
-"So hat die Frau es gesagt. Halvard hat es wörtlich notiert und mir wörtlich wiedergegeben, und dann hat er mir gesagt, ich soll den Satz nicht drucken, und ich hab ihn trotzdem gedruckt, weil er der einzige Satz auf der Liste ist, an dem man merkt, dass da jemand wirklich etwas gefühlt hat." Runa zog die Schultern hoch, ließ sie wieder fallen. Der Mantel rutschte ihr ein Stück herunter. Sie schob ihn nicht zurück. "Ich hab sie noch nicht besucht. Die Patientin. Bin noch nicht dran gekommen."
+Alphina schaute auf den Bogen auf der Bank. Kein Halvard, kein Patient, kein Wort von Frostbrand oder Eishand. Nur die Adressen, die Zeugen, die Uhrzeiten. Die Liste war, was sie war. Das Andere war außerhalb des Papiers und saß neben ihr.
 
 "Warum erzählst du mir das?"
 
@@ -178,9 +172,9 @@ Runa ließ eine Pause liegen, die zu kurz war für Verlegenheit und zu lang für
 
 "Weil du nicht lachst."
 
-Alphina schaute auf das Flugblatt, weil das einfacher war, als Runa ansehen. *Hendrik Halvard, Praxis am Kirchplatz.* Die Zeile schwamm eine Sekunde, kam scharf zurück.
+Alphina schaute auf das Flugblatt, weil das einfacher war, als Runa anzusehen. Eine Hand aus Eis auf dem Fuß. Die Zeile stand nirgends, aber sie hatte sich hinter Alphinas Stirn gesetzt und schlug Wurzeln.
 
-"Die meisten, denen ich das zeige, lachen. Oder sie schauen weg. Oder sie sagen, ich soll weniger arbeiten. Du hast den ersten Bogen vor zwei Wochen am Tresen liegen sehen, und du hast ihn drei Sätze lang gelesen und mir dann das Papier abgekauft, das du brauchtest, und auf dem Heimweg hast du den Bogen mitgenommen. Das hat sonst niemand getan." Runa legte die eine Hand auf das Flugblatt, die andere blieb im Schoß. "Außerdem ist da seit gestern noch was Neues. Was ich nicht aufgeschrieben habe, weil es mir zu frisch ist und ich noch nicht weiß, wie ich's einordnen soll."
+"Die meisten, denen ich irgendetwas von alldem erzähle, lachen. Oder sie schauen weg. Oder sie sagen, ich soll weniger arbeiten. Du hast den ersten Bogen vor zwei Wochen am Tresen liegen sehen, und du hast ihn drei Sätze lang gelesen und mir dann das Papier abgekauft, das du brauchtest, und auf dem Heimweg hast du den Bogen mitgenommen. Das hat sonst niemand getan." Runa legte die eine Hand auf das Flugblatt, die andere blieb auf dem Knie. "Außerdem ist da seit gestern noch etwas. Etwas, was ich nicht einordnen kann. Und ich wollte es dir erzählen, bevor ich es weitererzähle."
 
 "Was?"
 
@@ -222,7 +216,7 @@ Etwas in Alphinas Brustkorb zog sich zusammen, eine Bewegung so klein, dass sie 
 
 "Wohnt er im Tidemoor-Haus?"
 
-"Nein. Tidemoor und seine Frau haben ihm kein Zimmer gegeben, obwohl er in den ersten Tagen angeblich darum gebeten hat. Er kommt nachmittags, arbeitet bis zum Abendessen, geht wieder. Wo er schläft, weiß die Haushälterin nicht — irgendwo in einem Gasthof vermutlich, er hatte einen Koffer und die Werkzeugrolle dabei, als er das erste Mal kam. Ich hab nicht explizit gefragt, und sie hat es nicht erwähnt." Runa schaute Alphina an. Sie wartete nicht, sie schaute nur. "Deshalb hab ich's dir live erzählt, nicht gedruckt. Ich weiß nicht, was damit anzufangen ist. Ein Mann, der in einen Raum kommt, und eine Uhr hört auf, falsch zu gehen — das ist kein Flugblatt. Das ist etwas anderes."
+"Nein. Tidemoor und seine Frau haben ihm kein Zimmer gegeben, obwohl er in den ersten Tagen angeblich darum gebeten hat. Er kommt nachmittags, arbeitet bis zum Abendessen, geht wieder. Wo er schläft, weiß die Haushälterin nicht — irgendwo in einem Gasthof vermutlich, er hatte einen Koffer und die Werkzeugrolle dabei, als er das erste Mal kam. Ich hab nicht gefragt, und sie hat es nicht erwähnt." Runa schaute Alphina an. Sie wartete nicht, sie schaute nur. "Deshalb hab ich's dir persönlich erzählt und nicht in den Satz gebracht. Ich weiß nicht, was damit anzufangen ist. Ein Mann, der in einen Raum kommt, und eine Uhr hört auf, falsch zu gehen — das ist kein Flugblatt. Das ist etwas anderes."
 
 "Du hast ihn noch nicht gesehen?"
 
@@ -242,23 +236,23 @@ Sie war nicht die einzige.
 
 "Lass mich das erst überlegen."
 
-"Klar." Runa nickte. Sie hatte die Antwort nicht erwartet und nicht nicht erwartet, sie nahm sie, wie sie kam. Dann legte sie die Hand auf das Flugblatt und schob es Alphina einen halben Zentimeter näher. "Da ist noch was. Wegen Halvard."
+"Gut." Runa nickte. Sie hatte die Antwort nicht erwartet und nicht nicht erwartet, sie nahm sie, wie sie kam. Dann legte sie die Hand auf das Flugblatt und schob es Alphina einen halben Zentimeter näher. "Da ist noch etwas. Das Andere, von Halvard. Ich will nicht warten, bis die Wäscherin zum zweiten Mal eine Hand auf dem Fuß spürt."
 
-"Was?"
+"Die Wäscherin aus der Flechtergasse."
 
-"Ich will zu ihm. Ich will, dass er mit mir redet, nicht mit der Stadt. Ich hab's einmal versucht, vor zwei Wochen, und nach drei Sätzen hat er gesagt, eine Druckerin sei nicht die richtige Adresse für medizinische Fragen. Er hat den Standessatz gebracht. Du weißt, was ein Standessatz ist."
+"Ja. Halvard hat mir ihren Namen genannt, bevor er sich's anders überlegt hat. Ich habe den Namen. Ich habe die Adresse. Ich könnte heute noch klopfen. Aber sie wird mir nicht aufmachen, oder wenn sie aufmacht, wird sie nicht reden."
 
-"Ja."
+"Warum nicht?"
 
-"Du bist Botanikerin. Aus Velde. Mit einem Empfehlungsschreiben von der Gesellschaft, vermute ich. Stimmt das?"
+"Weil ich Druckerin bin. Weil sie Angst hat, dass ihr Name morgen auf einem Flugblatt steht. Sie hat recht, Angst zu haben — die meisten Druckerinnen würden ihren Namen drucken. Ich würde es nicht. Aber sie weiß das nicht, und ich kann es ihr in fünf Sätzen auf der Türschwelle auch nicht glaubhaft machen." Runa drehte sich jetzt ganz zu Alphina, den Rücken gegen die Armlehne, das Gesicht offen. "Mit dir wäre es anders. Eine Botanikerin aus Velde, mit Empfehlungsschreiben der Gesellschaft, vermute ich. Stimmt das?"
 
-"Ich hab eines im Koffer. Es ist drei Jahre alt."
+"Ich habe eines im Koffer. Es ist drei Jahre alt."
 
-"Es ist ein Schreiben. Mit Halvard reicht das. Wenn du mit mir hingehst, redet er mit uns beiden. Ich hab die Daten, du hast den Briefkopf, und gemeinsam sind wir kein Standesproblem mehr für ihn."
+"Es ist ein Schreiben. Auf Briefpapier, mit Siegel. Das ist alles, was ich brauche. Wenn du bei der Frau klopfst — als jemand aus der Wissenschaft, nicht als Journalistin, nicht als Druckerin — dann macht sie die Tür auf. Vielleicht macht sie dann auch den Mund auf. Ich wäre dabei, wenn du es willst. Ich schreibe mit. Ich drucke nichts. Ich muss es nur wissen, bevor es die zweite Frau trifft, und die dritte, und das Kind, das neben ihr im Bett schläft."
 
-"Du fragst mich, ob ich mit dir zu einem Stadtarzt gehe, der nichts sagen will."
+"Du fragst mich, ob ich mit dir zu einer Wäscherin gehe, die kurz eine Hand aus Eis auf dem Fuß gespürt hat."
 
-"Ich frage dich, ob du mit mir zu einem Mann gehst, der drei Verbrennungen und eine Frostwunde in einem Monat behandelt hat und abends ein Glas mehr trinkt, weil ihm das mehr Angst macht, als er zugeben kann. Ja. Genau das frag ich."
+"Ich frage dich, ob du mit mir zu einer Frau gehst, die seit zwei Wochen nicht mehr gut schläft, weil sie etwas gespürt hat, das es nicht geben darf, und die niemanden hat, dem sie davon erzählen kann, weil jeder lacht. Ja. Genau das frage ich."
 
 Alphina drehte das Flugblatt zwischen ihren Fingern. Runa war währenddessen näher gerückt. Nicht dramatisch — eine halbe Hand, ein Stück, das nicht ausgesprochen wurde. Die Wärme der Frau auf der Bank kam jetzt durch den Stoff des Mantels durch, gegen Alphinas Oberarm, und es war eine Wärme, die nicht stimmte. Es war Mai. Es war kühl. Runa brauchte einen Mantel und strahlte trotzdem. Alphina rückte nicht weg. Sie rückte nicht hin. Sie blieb auf dem Punkt, an dem sie saß, weil sich Bewegung in beide Richtungen erklärt hätte und sie nichts erklären wollte.
 
@@ -376,9 +370,7 @@ Der Kalk an der Wand des Anker-Zimmers roch nach altem Putz. Aus dem Erdgeschoss
 
 Sie ging zum Tisch. Setzte sich nicht. Schlug das Notizbuch auf, an der Stelle, an der sie es im Garten zugemacht hatte, mit der Asplenium-Notiz oben auf der freien Seite. Sie las die Notiz einmal, ohne Bleistift in der Hand. Dann schlug sie das Buch zu und legte es auf das Flugblatt, damit das Flugblatt nicht mehr sichtbar war. Heute Abend schrieb sie nichts. Alles, was sie heute Nachmittag erfahren hatte, saß im Körper und nicht in Sätzen, und sie hatte in den letzten drei Wochen gelernt, dass manche Dinge von Sätzen kleiner wurden, nicht größer.
 
-Stein, Hand, warm. Ein Drängen aus dem Körper, das in Pflanzen ging. Ein Uhrmacher, drei Gassen weiter, der eine stille Uhr zum Gehen brachte. Etwas, das auf Dachkanten saß, solange sie wegschaute. Der vierte Geruch, der keine Sprache hatte. Die Stelle an ihrem Handgelenk, die drei Atemzüge lang wärmer gewesen war als der Rest.
-
-Sie hatte aufgehört zu zählen. Das tat sie seit einer Weile. Das Zählen war eine Velder Gewohnheit, und Velde war weiter weg, als es in Wochen messbar war.
+Stein, Hand, warm. Ein Drängen aus dem Körper, das in Pflanzen ging. Ein Uhrmacher, drei Gassen weiter, unter dessen Hand eine Uhr aufhörte, falsch zu gehen. Etwas, das auf Dachkanten saß, solange sie wegschaute. Der vierte Geruch, der keine Sprache hatte. Die Stelle an ihrem Handgelenk, die wärmer gewesen war als der Rest.
 
 Sie ging zurück zum Fenster. Nahm den Vorhang in die Hand, um ihn zuzuziehen. Schaute ein letztes Mal hinaus.
 

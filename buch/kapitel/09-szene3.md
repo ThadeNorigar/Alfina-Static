@@ -78,9 +78,7 @@ Der Kalk an der Wand des Anker-Zimmers roch nach altem Putz. Aus dem Erdgeschoss
 
 Sie ging zum Tisch. Setzte sich nicht. Schlug das Notizbuch auf, an der Stelle, an der sie es im Garten zugemacht hatte, mit der Asplenium-Notiz oben auf der freien Seite. Sie las die Notiz einmal, ohne Bleistift in der Hand. Dann schlug sie das Buch zu und legte es auf das Flugblatt, damit das Flugblatt nicht mehr sichtbar war. Heute Abend schrieb sie nichts. Alles, was sie heute Nachmittag erfahren hatte, saß im Körper und nicht in Sätzen, und sie hatte in den letzten drei Wochen gelernt, dass manche Dinge von Sätzen kleiner wurden, nicht größer.
 
-Stein, Hand, warm. Ein Drängen aus dem Körper, das in Pflanzen ging. Ein Uhrmacher, drei Gassen weiter, der eine stille Uhr zum Gehen brachte. Etwas, das auf Dachkanten saß, solange sie wegschaute. Der vierte Geruch, der keine Sprache hatte. Die Stelle an ihrem Handgelenk, die drei Atemzüge lang wärmer gewesen war als der Rest.
-
-Sie hatte aufgehört zu zählen. Das tat sie seit einer Weile. Das Zählen war eine Velder Gewohnheit, und Velde war weiter weg, als es in Wochen messbar war.
+Stein, Hand, warm. Ein Drängen aus dem Körper, das in Pflanzen ging. Ein Uhrmacher, drei Gassen weiter, unter dessen Hand eine Uhr aufhörte, falsch zu gehen. Etwas, das auf Dachkanten saß, solange sie wegschaute. Der vierte Geruch, der keine Sprache hatte. Die Stelle an ihrem Handgelenk, die wärmer gewesen war als der Rest.
 
 Sie ging zurück zum Fenster. Nahm den Vorhang in die Hand, um ihn zuzuziehen. Schaute ein letztes Mal hinaus.
 
