@@ -239,25 +239,102 @@ Die Riss-Quelle zu zerstören ist dieselbe Handlung wie jede andere Quellen-Übe
 
 ## Schemen
 
-Schemen sind Moragh-Kreaturen, von Varen gezielt durch das Portal nach Thalassien geschickt. Sie sind **keine passive Leckage** der Quelle — sie kommen, weil Varen sie schickt.
+Schemen sind beschworene Diener aus Moragh — die körperliche Alternative zu klassischen Dämonen in dieser Welt. Sie haben eine feste Masse, einen echten Körper mit Gewicht und Substanz, und sie können physisch mit der Welt interagieren: greifen, tragen, verletzen, sich verteidigen. Varen schickt einen Teil seiner Schemen gezielt durch das Portal nach Thalassien. Sie sind keine passive Leckage der Quelle — sie kommen, weil Varen sie schickt. Eine Ausnahme ist der Boots-Schemen in Marens Werft (siehe unten).
 
-### Erscheinung
-- Körper aus dichtem Rauch, an den Rändern faserig, die Oberfläche in konstantem Werden und Vergehen
-- Größenspektrum: katzengroß (die häufigsten) bis anderthalb Köpfe größer als ein Mensch
-- Die Großen: zu schmal, zu lang, Hufe statt Füße, drei Finger + Daumen, keine Nägel
-- Kälte geht von ihnen aus (Atem dampft in ihrer Nähe)
-- Hinterlassen Kratzspuren: drei parallele Rillen, glatt geschnitten, die Fasern verschmolzen, warm
+**Schreibung:** Das Wort ist "der Schemen / die Schemen". Singular und Plural sind identisch.
 
-### Fähigkeiten
+### Substanz
 
-**Gesichts-Mimikry.** Manche Schemen (bei weitem nicht alle) können Gesichter von Beobachteten kopieren. Der Rauch setzt sich, die Züge werden scharf — jede Narbe, jede Falte, exakt. Die Mimikry erklärt die gefälschten Glasplatten (Sorels Köder): Ein Schemen trug Sorels Gesicht am Hafen, ein Moragh-Agent fotografierte es.
+Schemen haben einen **physischen Körper** mit definierter Masse. Der "Rauch" an ihrer Oberfläche, den Thalassier beobachten, ist **emittierte Energie**, kein Substanz-Zustand — wie Schwitzen. Die Energie-Emission tritt automatisch auf, weil Schemen nicht in ihrer Heimat-Ebene sind; ein Schemen, der sich konzentriert und verborgen bleiben will, kann sie willentlich unterdrücken. Für den Schemen selbst ist die Emission nicht unangenehm, sondern einfach ein Zustand.
 
-**Rauch-Teleport.** Manche Schemen können sich über kurze Distanzen auflösen und woanders wieder verdichten. Nicht Unsichtbarkeit — vollständige Auflösung in Rauch, dann Rekondensation an einem neuen Punkt. Reichweite: wenige Meter bis ~20 Meter. Nicht alle können es.
+Die Rauch-Energie ist **physisch wirksam**: sie erwärmt Luft in der Nähe, hinterlässt thermische Spuren, reagiert mit Silberhalogenid auf Fotoplatten, und ist bei direktem Kontakt in der Lage, thalassische Haut zu verletzen.
 
-**Verschwinden bei Beobachtung.** Schemen verschwinden wenn ein Mensch sie direkt beobachtet oder wenn eine dritte Person erscheint. Sie hinterlassen keine Spur außer den Kratzspuren und einem Schatten auf Sorels Fotoplatten.
+### Beschwörung
 
-### Was Schemen NICHT können
-- Sprechen
-- Gegenstände manipulieren (außer Kratzen)
-- Lange in Thalassien bleiben ohne Varens Portal-Verbindung
-- Physisch angreifen (sie sind Rauch, nicht Fleisch)
+Beschwörung ist in dieser Welt ein **Handwerk**, keine Resonanz-Begabung. Wer die Technik kennt und Zugang zu einer Moragh-Quelle oder einer starken Resonanz-Stelle hat, kann Schemen rufen. In Moragh ist Beschwörung eine etablierte Magie-Form; in Thalassien ist sie extrem selten — Haron Dahl (verstorben, Werft in Vael) war vermutlich der einzige aktive Beschwörer Thalassiens in dieser Generation, trainiert durch eine nicht rekonstruierte Linie. Sein Beschwörungswissen ist mit seinem Tod verloren, bis jemand seine Papiere entziffert.
+
+Bei der Beschwörung definiert der Beschwörer drei Kernparameter:
+
+1. **Masse** — Größe und Körpergewicht, ab Beschwörung fix
+2. **Grobe Form** — katzengroß, humanoid, tierhaft, massig wie ein Hafenarbeiter
+3. **Magieelement** — Feuer, Eis, Erde, Wasser, Metall, Hitze, Kälte — eines der Moragh-Elementarmagien
+
+Zusätzlich kann der Beschwörer **einzelne Spezial-Fähigkeiten** mitgeben, die ebenfalls als Magie zählen:
+
+- **Mimikri** — das Kopieren eines Gesichts, das der Schemen beobachtet hat
+- **Teleportation** — kurze Distanzen in Rauch auflösen und woanders wieder verdichten (wenige Meter bis etwa zwanzig Meter)
+- **Diffusion** — durch feste Wände oder verschlossene Türen hindurch gleiten, langsam, sehr kräftezehrend
+
+Nicht jeder Schemen hat Spezial-Fähigkeiten. Beliebt sind sie bei Spionage-Aufträgen.
+
+**Beschwörungs-Schwierigkeit skaliert mit Masse.** Kleine Schemen (katzengroß bis kniehoch) sind für geübte Beschwörer Routine. Mannsgroße Schemen brauchen Jahre Training. Übergroße Schemen — Hafenarbeiter-Statur und mehr — brauchen ein **Ritual mit mehreren Beschwörern gemeinsam**.
+
+### Magie-Preis
+
+Der Schemen zahlt den Preis seiner eigenen Zauber aus seinem eigenen Reservoir, wie jeder Moragh-Anwender. Ein Schemen, der zu viel Feuer wirkt, ermüdet und muss regenerieren (falls gebunden) oder löst sich auf (falls ungebunden).
+
+Der Beschwörer zahlt **dauerhaft durch ein reduziertes Maximum-Reservoir**, solange ein Schemen existiert. Fünf aktive Schemen bedeuten fünf dauerhaft fehlende Anteile am Eigenreservoir. Das ist der Hauptgrund, warum niemand beliebig viele Schemen hält — das eigene Reservoir wäre am Ende auf Null.
+
+### Zwei Arten
+
+**Beschworene Schemen** (temporär) halten 2–3 Tage oder 2–5 Aufgaben, ohne Regeneration. Sie gehen manchmal sofort, manchmal erst nach der letzten Aufgabe — abhängig von ihrer **Interessen-Spanne**, nicht vom Willen des Beschwörers. Ein beschworener Schemen, der seine Aufgabe langweilig findet, verschwindet unaufgefordert. Gut für einmalige Aktionen: eine Fußnote platzieren, eine Platte fälschen, einen Brief zustellen.
+
+**Gebundene Schemen** (dauerhaft) regenerieren und bleiben, bis der Beschwörer sie freilässt oder stirbt. Die Bindung ist deutlich aufwändiger als eine einfache Beschwörung — höhere Reservoir-Kosten beim Beschwörer, längeres Ritual, Erfahrung nötig. Varens Schemen in Vael sind **alle gebunden**: Alphinas Beobachter, die Steinkreis-Wächter im Botanischen Garten, der Schemen, der in Nachtholm Sorels Gesicht kopierte und die Glasplatte in die Auktion legte, die Schemen die Fußnoten in Fachzeitschriften platzieren.
+
+**Ausnahme — ungebundene Freigelassene.** Wenn ein Beschwörer stirbt, während ein nicht-gebundener Schemen noch in Thalassien aktiv ist, wird der Schemen **frei**. Er löst sich nicht auf, er gehört niemandem, er kann gehen, wann er will. In Vael gibt es genau einen solchen Fall: den **Boots-Schemen in Marens Werft**. Haron Dahl beschwor ihn vor seinem Tod mit einer einfachen Anweisung — baue dieses Boot zu Ende. Nach Harons Tod ist der Schemen frei. Er arbeitet weiter, nicht aus Pflicht, sondern weil ihm die Arbeit gefällt. Er wird bleiben, solange er Freude daran hat, und gehen, wenn nicht.
+
+### Mentale Bindung
+
+Jeder lebende Beschwörer ist mit seinen Schemen **mental verbunden**. Der Beschwörer kann grob ahnen, was der Schemen sieht, und fühlen, was der Schemen körperlich empfindet — inklusive Schmerz und Lust. Die Bindung wird mit räumlicher Distanz unschärfer.
+
+**Durchs Portal hindurch** ist die Bindung massiv gedämpft. Varen bekommt von seinen Schemen in Vael nur **sehr ungefähre Ahnungen**: er weiß, dass etwas passiert, nicht präzise was. Er weiß, wenn einer seiner Schemen stirbt, aber oft nicht, wer ihn getötet hat. Er weiß, wenn seine Schemen einem der Vier nahe sind, aber nicht immer, welchem.
+
+Beim Boots-Schemen in Marens Werft: **keine Bindung mehr**. Niemand auf der anderen Seite spürt, was er tut oder fühlt. Er ist das einzige Schemen-Individuum in Thalassien ohne lebenden Beschwörer.
+
+### Empfindung und Psyche
+
+Schemen **spüren und fühlen**, anders als Menschen, aber echt.
+
+- Sie empfinden **Lust an Körperlichkeit** — warme Haut, Druck, Berührung
+- Sex mit dem Beschwörer **koppelt zurück** über die mentale Bindung und verstärkt das Empfinden des Beschwörers. Eine Rückkopplungsschleife: der Beschwörer fühlt die eigene Lust und die des Schemen gleichzeitig. Das wird in Buch 2 narrativ wichtig
+- Der Körper des Schemen ist **innerhalb der Masse anpassbar** an die Wünsche des Beschwörers — Proportionen, Gesichtszüge, Haut-Textur. Eine Katze wird nicht zu einem Menschen, aber ein humanoider Schemen kann sich präziser an einen bestimmten Geschmack formen. Mimikri (Gesichts-Kopie) ist die spezialisierte Form dieser Formbarkeit
+- **Schmerz koppelt auch zurück.** Wenn der Schemen leidet, leidet der Beschwörer
+
+**Psychisch** sind Schemen fremd. Sie kennen keine menschlichen Affekte wie Groll, Zorn, Liebe oder Hass. Ihre Grundemotion ist **Neugier**. Schmerz ist für sie eine unbekannte Sinnesempfindung — sie reagieren darauf verwundert, interessiert, nicht leidend. Ein Schemen, dem die Hand gebrochen wird, betrachtet das Knirschen als Phänomen, nicht als Verletzung.
+
+**Aber:** Sie haben einen **Selbstschutz-Impuls**. Wenn ein Schemen angegriffen wird, verteidigt er sich — nicht aus Wut, sondern aus Funktion. Der Schutzimpuls kann gezielte, harte Reaktionen auslösen. Ein Feuerschemen, den man mit einem Messer angreift, setzt Feuer ein, um den Angreifer zurückzuhalten oder zu töten.
+
+### Zerstörung
+
+Ein Schemen verliert seine Form und wird zurück in die Herkunftsebene geschickt, wenn:
+
+- der **Kopf** zerstört wird, oder
+- **mehr als 30 %** des Körpers beschädigt werden
+
+Das Ende ist **element-spezifisch und immer spektakulär**:
+
+- **Feuerschemen** verpufft in einer Stichflamme; größere Exemplare explodieren
+- **Metallschemen** zerstiebt in glühende Funken, begleitet von Rauch
+- **Wasserschemen** löst sich in Wasser und Dampf auf
+- **Erdschemen** fällt zu feinem Sand und Staub
+- **Eisschemen** zersplittert in Frostnebel und Kristalle
+- und so weiter für jedes Element
+
+**Energetischer Rauch und plötzliche Entladung sind immer Teil des Endes.** Ein sterbender Schemen ist für jeden in der Nähe sichtbar, laut, und in den ersten Sekunden gefährlich.
+
+### Was Schemen NICHT tun (Konventionen, nicht Unvermögen)
+
+Die folgenden Einschränkungen sind **Bedingungen von Varens Beschwörungen** in Buch 1, nicht biologische Unmöglichkeiten.
+
+- **Sprechen nicht.** Varen hat sie beim Binden stumm programmiert, damit sie keine Hinweise auf Moragh preisgeben. Biologisch können Schemen sprechen. In Buch 2 wird das Tabu brechen.
+- **Töten nicht ohne Not.** Varens Auftrag ist Beobachtung, Markierung, Einschüchterung, Verletzung — nicht Mord. Töten würde die Beobachtungs-Mission beenden. Wenn sie angegriffen werden, wehren sie sich aber auch mit tödlicher Gewalt (Selbstschutz-Impuls).
+- **Bleiben verborgen.** Sie treten nicht offen auf, lassen sich nicht von Menschenmengen sehen, halten Abstand zu dritten Personen. Das ist Stealth-Doktrin, nicht magische Unsichtbarkeit. Ein Schemen verschwindet nicht beim Beobachten — er **weicht aus**, **diffundiert durch eine Wand** (wenn er die Fähigkeit hat), oder **teleportiert** (wenn er die Fähigkeit hat).
+
+Der Boots-Schemen in Marens Werft ist an keine dieser Konventionen gebunden, weil Haron ihn nicht so programmiert hat und weil Haron tot ist. Theoretisch könnte er sprechen, sich offen zeigen, andere Dinge tun als Boote bauen. Praktisch tut er es nicht, weil die Arbeit ihm gefällt und er keine andere Motivation hat. Wenn Maren ihn ansprechen würde, könnte er antworten. Ob er es täte, ist offen.
+
+### Spuren in Thalassien
+
+- **Kratzspuren** — drei parallele Rillen mit verschmolzenen Fasern, warm an den Rändern. Nebenprodukt eines Schemen-Fingers, der sich gegen Holz drückt, während seine Energie-Emission aktiv ist
+- **Schatten auf Fotoplatten** — Silberhalogenid-Emulsion reagiert auf die Energie-Emission der Schemen stärker als auf normales Licht. Ein Schemen am Rand einer Szene hinterlässt auf der Platte eine dunkle, unscharfe Form, auch wenn das bloße Auge des Fotografen ihn nicht gesehen hat. Das erklärt Sorels Platten in Nachtholm und Vael
+- **Thermische Abdrücke auf Haut** — Direktkontakt mit einem Schemen bei aktiver Energie-Emission hinterlässt Brandspuren, kalt oder heiß je nach Element. Die Wunden heilen langsam und unvollständig, weil sich die Energie ins Gewebe einprägt
+- **Süßlicher, dichter Geruch** — die Energie-Emission riecht für thalassische Nasen süß und eng, nicht wie Rauch, nicht wie ein Geruch aus der Natur. Haftet an Räumen, in denen ein Schemen gearbeitet hat (Kap 8: Marens Werft am Morgen)

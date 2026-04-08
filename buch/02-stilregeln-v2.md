@@ -74,6 +74,38 @@ Dialoge müssen **alltagslogisch** sein. Kein Filmdrehbuch. Prüfe:
 
 **Beispiel GUT:** Vesper fragt nach einem Zimmer. Der Wirt nennt den Preis. Vesper fragt wie lange. Der Wirt sagt Wochenpreis. Vesper legt das Geld hin. Der Wirt gibt den Schlüssel.
 
+### Gesprächseröffnung — wer spricht zuerst?
+
+**Wer reinkommt, eröffnet. Wer wartet, reagiert.** Der Gast formuliert sein Anliegen, der Wirt/Vermieter/Händler antwortet darauf. Niemals umgekehrt. Ein Vermieter bietet NIE unaufgefordert Räume an — er wartet bis der Fremde sagt was er will.
+
+**Schlecht:**
+> Der Vermieter musterte ihn. "Die oberen Stockwerke. Lagerräume, leer, billig."
+> "Den Keller", sagte Sorel.
+
+Der Vermieter hat keinen Anlass für dieses Angebot — der Kunde hat nicht gefragt. Der Dialog beginnt mitten in einer ungeschriebenen Verhandlung. Das ist Bühnenregie, keine Szene.
+
+**Gut:**
+> "Was kann ich für Sie tun?"
+> "Ich brauche einen Raum. Länger, vielleicht Wochen. Etwas Billiges."
+
+Gast eröffnet → Vermieter reagiert → Verhandlung entsteht organisch.
+
+### Wissen im Dialog — Sorel-Prinzip in Repliken
+
+Figuren bestätigen nur, was sie wissen KÖNNEN. Das Sorel-Prinzip gilt auch in Repliken, nicht nur in der Erzählstimme.
+
+**Schlecht:**
+> "Der Keller hat kein Fenster. Riecht eigenartig."
+> "Ich weiß." (Sorel, der noch nie im Keller war)
+
+Sorel weiß nichts über den Geruch. Seine Antwort nimmt die Entdeckung der nächsten Szene vorweg.
+
+**Gut:**
+> "Der Keller hat kein Fenster. Riecht eigenartig."
+> "Der Geruch macht mir nichts. Kein Fenster auch nicht." (Er akzeptiert die Bedingungen, ohne Wissen zu behaupten.)
+
+**Test:** Lässt sich die Antwort aus dem ableiten, was die Figur bis zu diesem Punkt erfahren hat? Wenn nein — umschreiben oder die Information vorher einführen.
+
 ### Der /stil-check prüft:
 
 - Repliken unter 3 Wörtern (außer in laufender Konversation)
@@ -291,3 +323,27 @@ Der zweite POV muss etwas **NEUES** über den Ort sagen. Was sieht dieser POV, d
 - Keine unerklärlichen Szenenwechsel. Beim Thema bleiben, den Leser mitnehmen.
 - Wenn die Szene wechselt, muss der Übergang spürbar sein — physisch (sie geht woanders hin), zeitlich (sie schläft ein/wacht auf), oder emotional (etwas kippt).
 - Der Leser darf nie fragen: "Warte, wie bin ich hierhergekommen?"
+
+### Figuren-Auftritt
+
+Eine Figur erscheint nicht aus dem Nichts. Ihr Auftritt muss vorbereitet sein:
+
+- **Akustisch:** Schritte auf der Diele, eine Tür, eine Stimme im Nebenraum, das Rascheln eines Kleides.
+- **Visuell:** Die POV-Figur dreht sich um, schaut auf, tritt in den Flur und sieht sie.
+- **Kontextuell:** Die Figur hat einen Grund, dort zu sein (Magd bringt Tee, Wirt wischt die Theke). Ihr Kommen liegt in der Logik der Szene.
+
+**HARTES VERBOT:** `Er/Sie hatte ihn/sie nicht kommen hören` ohne etablierten Grund. Dieser Satz ist ein Cliché für lautlos-mysteriöses Auftauchen. Wenn die Figur nicht übernatürlich ist, darf sie nicht übernatürlich auftreten. Eine Hausmagd ist kein Echo aus Moragh.
+
+**Schlecht:**
+> "Darf ich heute Nacht wiederkommen?"
+> Die Magd stand im Flur. Er hatte sie nicht kommen hören. Sie schaute ihn an, als hätte sie auf diese Frage gewartet.
+
+Sie wirkt wie ein Geist. Zusätzlich "als hätte sie gewartet" ist mind-reading — wie soll die POV-Figur das wissen?
+
+**Gut (sichtbarer Übergang):**
+> Er trat aus dem Salon in den Flur. Die Magd war dort, das leere Tablett in den Händen, an der Anrichte.
+
+**Gut (Grund für das Überhören):**
+> Seine Ohren waren voll vom Ticken, er hörte nichts anderes mehr. Als er aufschaute, stand die Magd an der Tür.
+
+Der Grund (Fokus aufs Uhrwerk) rechtfertigt das Überhören — erst dann ist der Effekt legitim.

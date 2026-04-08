@@ -1008,31 +1008,68 @@
             "typen": [
               "wissen"
             ],
-            "titel": "Sorel: Die Kamera fängt Schemen ein",
-            "tz_tag": 120,
-            "datum_text": "30. April",
+            "titel": "Sorel: Die Kamera sieht mehr als die Linse",
+            "tz_tag": 133,
+            "datum_text": "13. Mai",
             "figur": "Sorel",
-            "fakt": "kamera-faengt-schemen-ein",
+            "fakt": "kamera-faengt-mehr-ein",
             "stufe": "gesehen",
-            "detail": "Erste Vael-Platten: Hafen bei Nacht zeigt schattenhafte Gestalt mit leuchtenden Augen die er nicht gesehen hat. Zweite Platte: Frau mit Farnen, die er nicht fotografiert hat."
+            "detail": "Erste Vael-Platten entwickelt. Eine Platte zeigt eine schattenhafte Gestalt mit leuchtenden Augen zwischen den Pollern — Sorel hat sie nicht gesehen. Eine zweite Platte zeigt eine fremde Frau mit Farnen am Hafen — er hat sie nicht fotografiert. Die Kamera fängt ein, was seine Augen nicht erreichen."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "10",
+            "typen": [
+              "tschechow"
+            ],
+            "titel": "Sorels Kamera als Resonanz-Leiter",
+            "tz_tag": 133,
+            "datum_text": "13. Mai",
+            "detail": "Platte 7 (das eigene Gesicht), eine Platte mit Schemen am Hafen, eine Platte mit fremder Frau die nicht vor der Linse stand — drei Bilder an einer Wand im Lichthaus-Keller. Tschechow: die Kamera sieht in andere Schichten. Feuert in Akt III (Steg-Fotos) und Akt IV (Schwelle)."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "10",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Sorel: Fremde Frau auf der Hafen-Platte",
+            "tz_tag": 133,
+            "datum_text": "13. Mai",
+            "figur": "Sorel",
+            "fakt": "fremde-frau-auf-platte",
+            "stufe": "gesehen",
+            "detail": "Dunkles Haar, Farne im Arm, Hafen im Hintergrund. Er hat sie nie gesehen. Er weiß ihren Namen nicht. Er hängt die Platte neben Platte 7 an die Wand."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "10",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Sorel: Steinkreis im Botanischen Garten",
+            "tz_tag": 133,
+            "datum_text": "13. Mai",
+            "figur": "Sorel",
+            "fakt": "steinkreis-garten-gesehen",
+            "stufe": "gesehen",
+            "detail": "Nächtlicher Einbruch über die Mauer. Mondlicht auf Farnen. Sieben Steine im Mittelhügel. Er fasst den Stein nicht an — er fotografiert ihn. Für Sorel ist der Kreis ein Bild, kein Körper."
           },
           {
             "tz": 551,
             "mz": 0,
             "kapitel": "11",
             "typen": [
-              "begegnung"
+              "tschechow",
+              "erkenntnis"
             ],
-            "titel": "Alphina trifft Sorel im Botanischen Garten",
-            "tz_tag": 125,
-            "datum_text": "5. Mai",
-            "figuren": [
-              "Alphina",
-              "Sorel"
-            ],
-            "intensitaet": "fluechtig",
-            "ort": "Botanischer Garten, Nacht",
-            "detail": "Drei Sätze: 'Die Pflanzen bewegen sich.' — 'Ja.' — 'Seit wann?' — 'Immer.' Keine Namen. Ende Akt 1."
+            "titel": "Vespers Uhren-Netz über Vael",
+            "tz_tag": 134,
+            "datum_text": "14. Mai",
+            "detail": "Fünf Wochen systematische Kartografie abweichender Uhren. Die Punkte ergeben ein geometrisches Netz. Die Mitte des Netzes liegt unter dem Botanischen Garten. Tschechow für Akt III: das Netz zeigt auf den Steinkreis."
           },
           {
             "tz": 551,
@@ -1041,13 +1078,94 @@
             "typen": [
               "wissen"
             ],
-            "titel": "Alphina: Pochen unter dem Garten",
-            "tz_tag": 125,
-            "datum_text": "5. Mai",
-            "figur": "Alphina",
-            "fakt": "pochen-unter-vael",
+            "titel": "Vesper: Das geometrische Netz abweichender Uhren",
+            "tz_tag": 134,
+            "datum_text": "14. Mai",
+            "figur": "Vesper",
+            "fakt": "vesper-uhren-netz",
+            "stufe": "versteht",
+            "detail": "Fünf Wochen Adressen gesammelt von Häusern in denen Uhren anders laufen. Die Punkte sind nicht zufällig. Sie liegen auf einem Muster, das er noch nicht benennen kann, aber sehen."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "11",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Vesper sieht Runas Flugblatt",
+            "tz_tag": 134,
+            "datum_text": "14. Mai",
+            "figur": "Vesper",
+            "fakt": "runas-flugblatt-ueberlap",
             "stufe": "gesehen",
-            "detail": "Hand auf den Boden des Steinkreises im Garten. Pochen wie unter Marens Werft — aber Alphina kennt Maren nicht. Die Stadt atmet."
+            "detail": "Runas 'Vaels Geister' liegt in der Druckerei aus. Vesper registriert: die Adressen mit heißem Wasser und Kaminfeuer aus Runas Flugblatt überschneiden sich teilweise mit seinen eigenen Uhren-Punkten. Zwei unabhängige Beobachter, dasselbe Raster."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "11",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Alphina spricht Vesper im Anker an",
+            "tz_tag": 134,
+            "datum_text": "14. Mai",
+            "figuren": [
+              "Alphina",
+              "Vesper"
+            ],
+            "intensitaet": "fluechtig",
+            "ort": "Gasthaus Zum Anker, Vespers Zimmer",
+            "detail": "Sie klopft an seine Tür. Er öffnet einen Spalt. Drei Sätze, vielleicht vier. Keine von beiden weiß, was man sagen darf. Sie geht. Aber sie kennen jetzt die Namen."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "11",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Alphina: Vesper resoniert auch",
+            "tz_tag": 134,
+            "datum_text": "14. Mai",
+            "figur": "Alphina",
+            "fakt": "vesper-resoniert",
+            "stufe": "ahnt",
+            "detail": "Das erste Mal, dass Alphina weiß: sie ist nicht die einzige in Vael, in deren Händen etwas geschieht, das keinen Namen hat."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "11",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Vesper: Die Frau heißt Alphina",
+            "tz_tag": 134,
+            "datum_text": "14. Mai",
+            "figur": "Vesper",
+            "fakt": "alphina-wissen",
+            "stufe": "gesehen",
+            "detail": "Er hatte sie vorher schon im Schankraum bemerkt — die Frau mit Erde unter den Nägeln. Jetzt hat sie einen Namen und eine Tür zwischen ihnen."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "12",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Alphina trifft Sorel im Botanischen Garten",
+            "tz_tag": 135,
+            "datum_text": "15. Mai",
+            "figuren": [
+              "Alphina",
+              "Sorel"
+            ],
+            "intensitaet": "bekannt",
+            "ort": "Botanischer Garten, Nacht",
+            "detail": "Maiabend im Steinkreis. Alphina kommt zum zweiten Mal in den Garten, zielgerichtet. Sorel klettert zum zweiten Mal über die Mauer, weil seine Platten ihn zurückgezogen haben. Sie sehen einander. Die Farne folgen einem Gespräch, das noch nicht begonnen hat. Ende Akt I."
           },
           {
             "tz": 551,
@@ -1193,17 +1311,33 @@
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "12",
+            "kapitel": "09",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Alphina: Pochen unter dem Garten",
+            "tz_tag": 131,
+            "datum_text": "11. Mai",
+            "figur": "Alphina",
+            "fakt": "pochen-unter-vael",
+            "stufe": "gesehen",
+            "detail": "Hand auf den Purpurstein im Steinkreis des Botanischen Gartens. Pochen wie unter Marens Werft — aber Alphina kennt Maren nicht. Einer, Pause, einer. Tief, im Knochen, nicht im Ohr."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "11",
             "typen": [
               "erkenntnis"
             ],
-            "titel": "Stadt-Anomalien eskalieren: Risse im Pflaster, heisses Wasser, Kaminfeuer",
+            "titel": "Stadt-Anomalien eskalieren: Vespers Netz verdichtet sich",
             "pov": "Kap 12 · Alphina",
-            "tz_tag": 132,
-            "datum_text": "12. Mai",
+            "tz_tag": 134,
+            "datum_text": "14. Mai",
             "tags": [
               "Erkenntnis: Vael zerfaellt"
-            ]
+            ],
+            "detail": "In den Tagen vor Kap 11: Risse im Pflaster, heisses Wasser in weiteren Haeusern, Kaminfeuer ohne Brennstoff. Vespers Kartografie faengt das Wachstum des Musters in Echtzeit auf."
           },
           {
             "tz": 551,
