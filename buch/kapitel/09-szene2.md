@@ -68,7 +68,7 @@ Alphina wartete.
 
 "Ich weiß, wo es liegt. Am Grauwe-Ufer. Das große mit dem Kupferdach."
 
-"Ja. Herr Tidemoor wohnt da mit seiner Frau, eine Haushälterin und eine junge Magd. Die Haushälterin kommt zu mir wegen Briefpapier, alle drei Wochen, und sie erzählt immer, was gerade los ist, während ich den Stapel zuschnüre. Gestern hat sie mir von der Standuhr im Salon erzählt. Die kennst du vielleicht nicht."
+"Ja. Herr Tidemoor wohnt da mit seiner Frau und einer jungen Magd. Die Magd kommt zu mir wegen Briefpapier, alle drei Wochen, und sie erzählt immer, was gerade los ist, während ich den Stapel zuschnüre. Gestern hat sie mir von der Standuhr im Salon erzählt. Die kennst du vielleicht nicht."
 
 "Die Uhr?"
 
@@ -80,11 +80,11 @@ Alphina wartete.
 
 "Und jetzt ist was passiert."
 
-"Seit gut einem Monat ist ein neuer Uhrmacher da. Aus Karst. Er ist Anfang April gekommen, vier Tage Kutsche, weil ihm in einem Karster Gasthof jemand beiläufig von der Tidemoor-Uhr erzählt hatte. Er hat bei Tidemoor angeklopft, hat sich vorgestellt, hat das Gehäuse aufgemacht — mit Erlaubnis, alles korrekt. Hat alles geprüft, wie die drei vor ihm, und auch nichts gefunden. Dann hat er etwas gemacht, was vorher keiner gemacht hat. Er hat seine Taschenuhr daneben gelegt und die Hand aufs Gehäuse gelegt, eine Stunde lang. Nur die Hand. Die Haushälterin hat zugeguckt, weil Tidemoor oben war und sie die Aufsicht hatte. Nach einer Stunde war die Standuhr auf die Sekunde im Takt mit seiner Taschenuhr. Null Abweichung. Er hat die Hand weggenommen und eine weitere Stunde gemessen. Vier Minuten dreiunddreißig. Drei Durchgänge hat er gemacht, sechs Stunden lang, und jedes Mal dasselbe: Hand drauf, null. Hand weg, vier dreiunddreißig."
+"Seit gut einem Monat ist ein neuer Uhrmacher da. Aus Karst. Er ist Anfang April gekommen, vier Tage Kutsche, weil ihm in einem Karster Gasthof jemand beiläufig von der Tidemoor-Uhr erzählt hatte. Er hat bei Tidemoor angeklopft, hat sich vorgestellt, hat das Gehäuse aufgemacht — mit Erlaubnis, alles korrekt. Hat alles geprüft, wie die drei vor ihm, und auch nichts gefunden. Dann hat er etwas gemacht, was vorher keiner gemacht hat. Er hat seine Taschenuhr daneben gelegt und die Hand aufs Gehäuse gelegt, eine Stunde lang. Nur die Hand. Die Magd hat zugeguckt, weil Tidemoor oben war und sie im Salon die Aufsicht hatte. Nach einer Stunde war die Standuhr auf die Sekunde im Takt mit seiner Taschenuhr. Null Abweichung. Er hat die Hand weggenommen und eine weitere Stunde gemessen. Vier Minuten dreiunddreißig. Drei Durchgänge hat er gemacht, sechs Stunden lang, und jedes Mal dasselbe: Hand drauf, null. Hand weg, vier dreiunddreißig."
 
 "Nur wenn er die Uhr berührt?"
 
-"Das war der erste Tag. Aber seitdem kommt er fast jeden Nachmittag wieder und arbeitet im Salon an Taschenuhren, die er aus der Stadt mitbringt. Und die Haushälterin hat beobachtet — die Standuhr läuft jetzt auch richtig, wenn er überhaupt nur im Raum ist. Drei Meter weit weg am Reparaturtisch. Er hämmert an einer Ankerplatte, und die Standuhr verliert keine Sekunde. Er steht auf und geht in die Küche, sie fängt wieder an zu schleichen. Kommt zurück, sie ist wieder sauber. Vier Tage in Folge hat das die Haushälterin jetzt gesehen. Sie wusste nicht mehr, wem sie es sagen soll, und gestern ist es aus ihr rausgebrochen, als sie bei mir Briefpapier holte. Ich war heute morgen selbst im Tidemoor-Haus, hab mit ihr eine halbe Stunde am Hinterausgang gestanden. Sie hat mir alles nochmal genauso erzählt, und dann hat sie mich gebeten, nichts in die Flugblätter zu setzen, weil Tidemoor ihr die Stelle kosten würde. Ich hab's versprochen."
+"Das war der erste Tag. Aber seitdem kommt er fast jeden Nachmittag wieder und arbeitet im Salon an Taschenuhren, die er aus der Stadt mitbringt. Und die Magd hat beobachtet — die Standuhr läuft jetzt auch richtig, wenn er überhaupt nur im Raum ist. Drei Meter weit weg am Reparaturtisch. Er hämmert an einer Ankerplatte, und die Standuhr verliert keine Sekunde. Er steht auf und geht in die Küche, sie fängt wieder an zu schleichen. Kommt zurück, sie ist wieder sauber. Vier Tage in Folge hat das die Magd jetzt gesehen. Sie wusste nicht mehr, wem sie es sagen soll, und gestern ist es aus ihr rausgebrochen, als sie bei mir Briefpapier holte. Ich war heute morgen selbst im Tidemoor-Haus, hab mit ihr eine halbe Stunde am Hinterausgang gestanden. Sie hat mir alles nochmal genauso erzählt, und dann hat sie mich gebeten, nichts in die Flugblätter zu setzen, weil Tidemoor ihr die Stelle kosten würde. Ich hab's versprochen."
 
 Etwas in Alphinas Brustkorb zog sich zusammen, eine Bewegung so klein, dass sie nichts verriet. Sie hielt den Gesichtsausdruck, weil Runa jetzt zu ihr schaute.
 
@@ -94,15 +94,15 @@ Etwas in Alphinas Brustkorb zog sich zusammen, eine Bewegung so klein, dass sie 
 
 "Wie heißt er?"
 
-"Vesper Greve, sagt die Haushälterin. Still, mager, Werkzeugrolle mit Samt gefüttert, Hände wie ein Chirurg. Er redet wenig. Die Haushälterin sagt, sein Blick ist der eines Mannes, der alles misst."
+"Vesper Greve, sagt die Magd. Still, mager, die Werkzeugrolle mit Samt gefüttert, Hände, die arbeiten können. Er redet wenig. Sie sagt, sein Blick ist der eines Mannes, der alles misst."
 
 "Wohnt er im Tidemoor-Haus?"
 
-"Nein. Tidemoor und seine Frau haben ihm kein Zimmer gegeben, obwohl er in den ersten Tagen angeblich darum gebeten hat. Er kommt nachmittags, arbeitet bis zum Abendessen, geht wieder. Wo er schläft, weiß die Haushälterin nicht — irgendwo in einem Gasthof vermutlich, er hatte einen Koffer und die Werkzeugrolle dabei, als er das erste Mal kam. Ich hab nicht gefragt, und sie hat es nicht erwähnt." Runa schaute Alphina an. Sie wartete nicht, sie schaute nur. "Deshalb hab ich's dir persönlich erzählt und nicht in den Satz gebracht. Ich weiß nicht, was damit anzufangen ist. Ein Mann, der in einen Raum kommt, und eine Uhr hört auf, falsch zu gehen — das ist kein Flugblatt. Das ist etwas anderes."
+"Nein. Tidemoor und seine Frau haben ihm kein Zimmer gegeben, obwohl er in den ersten Tagen angeblich darum gebeten hat. Er kommt nachmittags, arbeitet bis zum Abendessen, geht wieder. Wo er schläft, weiß die Magd nicht — irgendwo in einem Gasthof vermutlich, er hatte einen Koffer und die Werkzeugrolle dabei, als er das erste Mal kam. Ich hab nicht gefragt, und sie hat es nicht erwähnt." Runa schaute Alphina an. Sie wartete nicht, sie schaute nur. "Deshalb hab ich's dir persönlich erzählt und nicht in den Satz gebracht. Ich weiß nicht, was damit anzufangen ist. Ein Mann, der in einen Raum kommt, und eine Uhr hört auf, falsch zu gehen — das ist kein Flugblatt. Das ist etwas anderes."
 
 "Du hast ihn noch nicht gesehen?"
 
-"Nein. Die Haushälterin hat gesagt, er kommt heute wieder. Ich überleg, ob ich nachher rüber soll, aber Tidemoor mag keine Fremden in seinem Salon."
+"Nein. Die Magd hat gesagt, er kommt heute wieder. Ich überleg, ob ich nachher rüber soll, aber Tidemoor mag keine Fremden in seinem Salon."
 
 Alphina schaute auf das Flugblatt, dann an Runa vorbei auf die Vogelhecke, die keine Vögel zeigte. Ihre Hand lag flach auf dem Holz der Bank, neben dem gedruckten Bogen, und sie fühlte, wie das Holz unter der Haut langsam wärmer wurde, weil ihr Körper wärmer wurde, nicht viel, aber spürbar. Ein Uhrmacher. Jemand, der im selben Raum sitzt wie ein Gegenstand, und der Gegenstand hört auf, falsch zu gehen. Sie wusste, was das war. Sie wusste es, ohne einen Namen dafür zu haben, der in ein Notizbuch gehört hätte. Sie tat dasselbe mit den Lavendelstecklingen und dem Klee am Wegrand und wahrscheinlich, ohne es gewollt zu haben, mit der Nordmauer-Reihe Asplenium. Sie war nicht die einzige.
 
@@ -114,7 +114,7 @@ Sie war nicht die einzige.
 
 "Ja."
 
-"Ich kann einen Brief an die Witwe schreiben und dich ankündigen, wenn du willst."
+"Ich kann einen Brief an Frau Tidemoor schreiben und dich ankündigen, wenn du willst."
 
 "Lass mich das erst überlegen."
 

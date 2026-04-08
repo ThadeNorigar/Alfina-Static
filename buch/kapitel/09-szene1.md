@@ -1,7 +1,7 @@
 # Alphina — Szene 1
 
 
-Die Lavendelstecklinge waren am dritten Tag bereit, und am dritten Tag kniete sie zwischen den Beeten der westlichen Anlage und sortierte sie in zwei Schalen. Die linke für die Triebe mit der besten Bewurzelung, die rechte für jene, die noch warten mussten. Die Erde unter ihren Knien war feucht von der Mittagsbewässerung; ein dunkler Fleck zog sich quer über den Stoff ihres Rocks, eine Form wie eine Insel ohne Namen. Sie hatte das Kniepolster, das Henrik ihr in der ersten Woche geliehen hatte, am Komposthaufen liegen lassen. Sie wusste, wo es lag. Sie hatte es gesehen, als sie kam. Sie hatte es nicht geholt. Manchmal wollte sie die Erde direkt am Knochen, weil die Erde in diesem Garten anders sprach, wenn nichts dazwischen war.
+Die Lavendelstecklinge waren am dritten Tag bereit, und am dritten Tag kniete sie zwischen den Beeten der westlichen Anlage und sortierte sie in zwei Schalen. Die linke für die Triebe mit der besten Bewurzelung, die rechte für jene, die noch warten mussten. Die Erde unter ihren Knien war feucht von der Mittagsbewässerung; ein dunkler Fleck zog sich quer über den Stoff ihres Rocks. Sie hatte das Kniepolster, das Henrik ihr in der ersten Woche geliehen hatte, am Komposthaufen liegen lassen. Sie wusste, wo es lag. Sie hatte es gesehen, als sie kam. Sie hatte es nicht geholt. Manchmal wollte sie die Erde direkt am Knochen, weil die Erde in diesem Garten anders sprach, wenn nichts dazwischen war.
 
 Sechs Wochen und zwei Tage. So lange war sie jetzt in Vael, und drei Wochen davon kam sie jeden Nachmittag in diesen Garten. Am ersten Tag hatte Runa sie aus der Druckerei hergeschickt — *Farne so hoch wie ich* — und am dritten Tag hatte Alphina dort gestanden, zwischen den Wedeln an der nördlichen Mauer, und ihren Körper zum ersten Mal nicht mehr unter Kontrolle gehabt, nicht wirklich. Sie hatte sich hingesetzt. Eine Stunde. Dann war Henrik gekommen, hatte sie dort angetroffen, und hatte nichts gesagt. Erst als sie aufstand und sich vorstellte, hatte er gefragt, ob sie eine Handbreit vom Asplenium mitnehmen wolle für ihre Mappe, und das war sein Weg gewesen, sie einzuladen.
 
@@ -13,7 +13,7 @@ Ein Stängel in der rechten Schale hatte keine Bewurzelung. Sie legte die Handfl
 
 Sie legte den Stängel in die linke Schale.
 
-Beim dritten Mal, vor zwei Wochen, hatte sie die Hand zurückgezogen und zwei Stunden lang nicht mehr in den Garten gehen können. Beim vierten Mal hatte sie es wiederholt, weil sie es verstehen wollte. Sie verstand es noch nicht. Sie wusste nur, was ging und was nicht. Dass ein Stecking schneller wurzelte, wenn sie ihre Hand darüber hielt und etwas dachte, das keine Sprache war, sondern ein Drängen. Dass das Gras am Wegrand dort verdorrte, wo sie im Vorübergehen ein *nicht hier* im Kopf gehabt hatte — ein schmaler Streifen, einen Schuh breit, der dem Weg folgte und den Henrik vor einer Woche bemerkt und beiläufig kommentiert hatte: *komisch, da wächst nichts mehr, nicht mal der Hahnenfuß*. Dass die kleine Ahornsaat am Rand des Kompostes überraschend schnell ein zweites Blatt gezeigt hatte, nachdem sie eine Stunde daneben gekniet und an Ahorne in Velde gedacht hatte. Jedes Experiment war still. Sie schrieb keines auf. Es gab eine Linie, und die Linie hatte sich in Vael verschoben, und das war der Teil, den sie sich eingestand. Mehr war für später.
+Beim dritten Mal, vor zwei Wochen, hatte sie die Hand zurückgezogen und zwei Stunden lang nicht mehr in den Garten gehen können. Beim vierten Mal hatte sie es wiederholt, weil sie es verstehen wollte. Sie verstand es noch nicht. Sie wusste nur, was ging und was nicht. Dass ein Steckling schneller wurzelte, wenn sie ihre Hand darüber hielt und etwas dachte, das keine Sprache war, sondern ein Drängen. Dass das Gras am Wegrand dort verdorrte, wo sie im Vorübergehen ein *nicht hier* im Kopf gehabt hatte — ein schmaler Streifen, einen Schuh breit, der dem Weg folgte und den Henrik vor einer Woche bemerkt und beiläufig kommentiert hatte: *komisch, da wächst nichts mehr, nicht mal der Hahnenfuß*. Dass die kleine Ahornsaat am Rand des Kompostes überraschend schnell ein zweites Blatt gezeigt hatte, nachdem sie eine Stunde daneben gekniet und an Ahorne in Velde gedacht hatte. Jedes Experiment war still. Sie schrieb keines auf. Es gab eine Linie, und die Linie hatte sich in Vael verschoben, und das war der Teil, den sie sich eingestand. Mehr war für später.
 
 Schritte auf dem Kies. Schwer, etwas ungleich — das linke Bein schleifte ein wenig, seit sie ihn kannte, und das Kies gab unter dem rechten mehr nach als unter dem linken. Henrik.
 
@@ -33,9 +33,9 @@ Schritte auf dem Kies. Schwer, etwas ungleich — das linke Bein schleifte ein w
 
 Sie hob den Kopf. "Welcher Steinkreis?"
 
-Henrik schaute sie einen Moment an, als hätte sie gefragt, welcher Himmel. Dann korrigierte er sich — sie sah es in seinem Gesicht — dann nickte er. "Das Ding in der Mitte. Hinter dem Treibhaus, oben auf dem Hügel. Du bist in den letzten Wochen immer drum rumgegangen. Ist aber nicht schlimm, wenn du ihn heute erst siehst."
+Henrik schaute sie einen Moment an, als hätte sie gefragt, welcher Himmel. Dann korrigierte er sich — sie sah es in seinem Gesicht — dann nickte er. "Das Ding in der Mitte. Hinter dem Treibhaus, oben auf dem Hügel. Du bist in den letzten Wochen immer drumherum gegangen. Ist aber nicht schlimm, wenn du ihn heute erst siehst."
 
-"Ich bin drumrumgegangen?"
+"Ich bin drumherum gegangen?"
 
 "Du nimmst den Weg, der am Hügel vorbei führt. Links, zum Rosarium. Dreimal die Woche. Ich hab mir schon gedacht, du magst den Hügel nicht."
 

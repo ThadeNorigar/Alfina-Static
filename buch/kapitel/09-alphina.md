@@ -2,7 +2,7 @@
 
 *11. Mai 551 · 6 Wochen 2 Tage in Vael*
 
-Die Lavendelstecklinge waren am dritten Tag bereit, und am dritten Tag kniete sie zwischen den Beeten der westlichen Anlage und sortierte sie in zwei Schalen. Die linke für die Triebe mit der besten Bewurzelung, die rechte für jene, die noch warten mussten. Die Erde unter ihren Knien war feucht von der Mittagsbewässerung; ein dunkler Fleck zog sich quer über den Stoff ihres Rocks, eine Form wie eine Insel ohne Namen. Sie hatte das Kniepolster, das Henrik ihr in der ersten Woche geliehen hatte, am Komposthaufen liegen lassen. Sie wusste, wo es lag. Sie hatte es gesehen, als sie kam. Sie hatte es nicht geholt. Manchmal wollte sie die Erde direkt am Knochen, weil die Erde in diesem Garten anders sprach, wenn nichts dazwischen war.
+Die Lavendelstecklinge waren am dritten Tag bereit, und am dritten Tag kniete sie zwischen den Beeten der westlichen Anlage und sortierte sie in zwei Schalen. Die linke für die Triebe mit der besten Bewurzelung, die rechte für jene, die noch warten mussten. Die Erde unter ihren Knien war feucht von der Mittagsbewässerung; ein dunkler Fleck zog sich quer über den Stoff ihres Rocks. Sie hatte das Kniepolster, das Henrik ihr in der ersten Woche geliehen hatte, am Komposthaufen liegen lassen. Sie wusste, wo es lag. Sie hatte es gesehen, als sie kam. Sie hatte es nicht geholt. Manchmal wollte sie die Erde direkt am Knochen, weil die Erde in diesem Garten anders sprach, wenn nichts dazwischen war.
 
 Sechs Wochen und zwei Tage. So lange war sie jetzt in Vael, und drei Wochen davon kam sie jeden Nachmittag in diesen Garten. Am ersten Tag hatte Runa sie aus der Druckerei hergeschickt — *Farne so hoch wie ich* — und am dritten Tag hatte Alphina dort gestanden, zwischen den Wedeln an der nördlichen Mauer, und ihren Körper zum ersten Mal nicht mehr unter Kontrolle gehabt, nicht wirklich. Sie hatte sich hingesetzt. Eine Stunde. Dann war Henrik gekommen, hatte sie dort angetroffen, und hatte nichts gesagt. Erst als sie aufstand und sich vorstellte, hatte er gefragt, ob sie eine Handbreit vom Asplenium mitnehmen wolle für ihre Mappe, und das war sein Weg gewesen, sie einzuladen.
 
@@ -14,7 +14,7 @@ Ein Stängel in der rechten Schale hatte keine Bewurzelung. Sie legte die Handfl
 
 Sie legte den Stängel in die linke Schale.
 
-Beim dritten Mal, vor zwei Wochen, hatte sie die Hand zurückgezogen und zwei Stunden lang nicht mehr in den Garten gehen können. Beim vierten Mal hatte sie es wiederholt, weil sie es verstehen wollte. Sie verstand es noch nicht. Sie wusste nur, was ging und was nicht. Dass ein Stecking schneller wurzelte, wenn sie ihre Hand darüber hielt und etwas dachte, das keine Sprache war, sondern ein Drängen. Dass das Gras am Wegrand dort verdorrte, wo sie im Vorübergehen ein *nicht hier* im Kopf gehabt hatte — ein schmaler Streifen, einen Schuh breit, der dem Weg folgte und den Henrik vor einer Woche bemerkt und beiläufig kommentiert hatte: *komisch, da wächst nichts mehr, nicht mal der Hahnenfuß*. Dass die kleine Ahornsaat am Rand des Kompostes überraschend schnell ein zweites Blatt gezeigt hatte, nachdem sie eine Stunde daneben gekniet und an Ahorne in Velde gedacht hatte. Jedes Experiment war still. Sie schrieb keines auf. Es gab eine Linie, und die Linie hatte sich in Vael verschoben, und das war der Teil, den sie sich eingestand. Mehr war für später.
+Beim dritten Mal, vor zwei Wochen, hatte sie die Hand zurückgezogen und zwei Stunden lang nicht mehr in den Garten gehen können. Beim vierten Mal hatte sie es wiederholt, weil sie es verstehen wollte. Sie verstand es noch nicht. Sie wusste nur, was ging und was nicht. Dass ein Steckling schneller wurzelte, wenn sie ihre Hand darüber hielt und etwas dachte, das keine Sprache war, sondern ein Drängen. Dass das Gras am Wegrand dort verdorrte, wo sie im Vorübergehen ein *nicht hier* im Kopf gehabt hatte — ein schmaler Streifen, einen Schuh breit, der dem Weg folgte und den Henrik vor einer Woche bemerkt und beiläufig kommentiert hatte: *komisch, da wächst nichts mehr, nicht mal der Hahnenfuß*. Dass die kleine Ahornsaat am Rand des Kompostes überraschend schnell ein zweites Blatt gezeigt hatte, nachdem sie eine Stunde daneben gekniet und an Ahorne in Velde gedacht hatte. Jedes Experiment war still. Sie schrieb keines auf. Es gab eine Linie, und die Linie hatte sich in Vael verschoben, und das war der Teil, den sie sich eingestand. Mehr war für später.
 
 Schritte auf dem Kies. Schwer, etwas ungleich — das linke Bein schleifte ein wenig, seit sie ihn kannte, und das Kies gab unter dem rechten mehr nach als unter dem linken. Henrik.
 
@@ -34,9 +34,9 @@ Schritte auf dem Kies. Schwer, etwas ungleich — das linke Bein schleifte ein w
 
 Sie hob den Kopf. "Welcher Steinkreis?"
 
-Henrik schaute sie einen Moment an, als hätte sie gefragt, welcher Himmel. Dann korrigierte er sich — sie sah es in seinem Gesicht — dann nickte er. "Das Ding in der Mitte. Hinter dem Treibhaus, oben auf dem Hügel. Du bist in den letzten Wochen immer drum rumgegangen. Ist aber nicht schlimm, wenn du ihn heute erst siehst."
+Henrik schaute sie einen Moment an, als hätte sie gefragt, welcher Himmel. Dann korrigierte er sich — sie sah es in seinem Gesicht — dann nickte er. "Das Ding in der Mitte. Hinter dem Treibhaus, oben auf dem Hügel. Du bist in den letzten Wochen immer drumherum gegangen. Ist aber nicht schlimm, wenn du ihn heute erst siehst."
 
-"Ich bin drumrumgegangen?"
+"Ich bin drumherum gegangen?"
 
 "Du nimmst den Weg, der am Hügel vorbei führt. Links, zum Rosarium. Dreimal die Woche. Ich hab mir schon gedacht, du magst den Hügel nicht."
 
@@ -186,7 +186,7 @@ Alphina wartete.
 
 "Ich weiß, wo es liegt. Am Grauwe-Ufer. Das große mit dem Kupferdach."
 
-"Ja. Herr Tidemoor wohnt da mit seiner Frau, eine Haushälterin und eine junge Magd. Die Haushälterin kommt zu mir wegen Briefpapier, alle drei Wochen, und sie erzählt immer, was gerade los ist, während ich den Stapel zuschnüre. Gestern hat sie mir von der Standuhr im Salon erzählt. Die kennst du vielleicht nicht."
+"Ja. Herr Tidemoor wohnt da mit seiner Frau und einer jungen Magd. Die Magd kommt zu mir wegen Briefpapier, alle drei Wochen, und sie erzählt immer, was gerade los ist, während ich den Stapel zuschnüre. Gestern hat sie mir von der Standuhr im Salon erzählt. Die kennst du vielleicht nicht."
 
 "Die Uhr?"
 
@@ -198,11 +198,11 @@ Alphina wartete.
 
 "Und jetzt ist was passiert."
 
-"Seit gut einem Monat ist ein neuer Uhrmacher da. Aus Karst. Er ist Anfang April gekommen, vier Tage Kutsche, weil ihm in einem Karster Gasthof jemand beiläufig von der Tidemoor-Uhr erzählt hatte. Er hat bei Tidemoor angeklopft, hat sich vorgestellt, hat das Gehäuse aufgemacht — mit Erlaubnis, alles korrekt. Hat alles geprüft, wie die drei vor ihm, und auch nichts gefunden. Dann hat er etwas gemacht, was vorher keiner gemacht hat. Er hat seine Taschenuhr daneben gelegt und die Hand aufs Gehäuse gelegt, eine Stunde lang. Nur die Hand. Die Haushälterin hat zugeguckt, weil Tidemoor oben war und sie die Aufsicht hatte. Nach einer Stunde war die Standuhr auf die Sekunde im Takt mit seiner Taschenuhr. Null Abweichung. Er hat die Hand weggenommen und eine weitere Stunde gemessen. Vier Minuten dreiunddreißig. Drei Durchgänge hat er gemacht, sechs Stunden lang, und jedes Mal dasselbe: Hand drauf, null. Hand weg, vier dreiunddreißig."
+"Seit gut einem Monat ist ein neuer Uhrmacher da. Aus Karst. Er ist Anfang April gekommen, vier Tage Kutsche, weil ihm in einem Karster Gasthof jemand beiläufig von der Tidemoor-Uhr erzählt hatte. Er hat bei Tidemoor angeklopft, hat sich vorgestellt, hat das Gehäuse aufgemacht — mit Erlaubnis, alles korrekt. Hat alles geprüft, wie die drei vor ihm, und auch nichts gefunden. Dann hat er etwas gemacht, was vorher keiner gemacht hat. Er hat seine Taschenuhr daneben gelegt und die Hand aufs Gehäuse gelegt, eine Stunde lang. Nur die Hand. Die Magd hat zugeguckt, weil Tidemoor oben war und sie im Salon die Aufsicht hatte. Nach einer Stunde war die Standuhr auf die Sekunde im Takt mit seiner Taschenuhr. Null Abweichung. Er hat die Hand weggenommen und eine weitere Stunde gemessen. Vier Minuten dreiunddreißig. Drei Durchgänge hat er gemacht, sechs Stunden lang, und jedes Mal dasselbe: Hand drauf, null. Hand weg, vier dreiunddreißig."
 
 "Nur wenn er die Uhr berührt?"
 
-"Das war der erste Tag. Aber seitdem kommt er fast jeden Nachmittag wieder und arbeitet im Salon an Taschenuhren, die er aus der Stadt mitbringt. Und die Haushälterin hat beobachtet — die Standuhr läuft jetzt auch richtig, wenn er überhaupt nur im Raum ist. Drei Meter weit weg am Reparaturtisch. Er hämmert an einer Ankerplatte, und die Standuhr verliert keine Sekunde. Er steht auf und geht in die Küche, sie fängt wieder an zu schleichen. Kommt zurück, sie ist wieder sauber. Vier Tage in Folge hat das die Haushälterin jetzt gesehen. Sie wusste nicht mehr, wem sie es sagen soll, und gestern ist es aus ihr rausgebrochen, als sie bei mir Briefpapier holte. Ich war heute morgen selbst im Tidemoor-Haus, hab mit ihr eine halbe Stunde am Hinterausgang gestanden. Sie hat mir alles nochmal genauso erzählt, und dann hat sie mich gebeten, nichts in die Flugblätter zu setzen, weil Tidemoor ihr die Stelle kosten würde. Ich hab's versprochen."
+"Das war der erste Tag. Aber seitdem kommt er fast jeden Nachmittag wieder und arbeitet im Salon an Taschenuhren, die er aus der Stadt mitbringt. Und die Magd hat beobachtet — die Standuhr läuft jetzt auch richtig, wenn er überhaupt nur im Raum ist. Drei Meter weit weg am Reparaturtisch. Er hämmert an einer Ankerplatte, und die Standuhr verliert keine Sekunde. Er steht auf und geht in die Küche, sie fängt wieder an zu schleichen. Kommt zurück, sie ist wieder sauber. Vier Tage in Folge hat das die Magd jetzt gesehen. Sie wusste nicht mehr, wem sie es sagen soll, und gestern ist es aus ihr rausgebrochen, als sie bei mir Briefpapier holte. Ich war heute morgen selbst im Tidemoor-Haus, hab mit ihr eine halbe Stunde am Hinterausgang gestanden. Sie hat mir alles nochmal genauso erzählt, und dann hat sie mich gebeten, nichts in die Flugblätter zu setzen, weil Tidemoor ihr die Stelle kosten würde. Ich hab's versprochen."
 
 Etwas in Alphinas Brustkorb zog sich zusammen, eine Bewegung so klein, dass sie nichts verriet. Sie hielt den Gesichtsausdruck, weil Runa jetzt zu ihr schaute.
 
@@ -212,15 +212,15 @@ Etwas in Alphinas Brustkorb zog sich zusammen, eine Bewegung so klein, dass sie 
 
 "Wie heißt er?"
 
-"Vesper Greve, sagt die Haushälterin. Still, mager, Werkzeugrolle mit Samt gefüttert, Hände wie ein Chirurg. Er redet wenig. Die Haushälterin sagt, sein Blick ist der eines Mannes, der alles misst."
+"Vesper Greve, sagt die Magd. Still, mager, die Werkzeugrolle mit Samt gefüttert, Hände, die arbeiten können. Er redet wenig. Sie sagt, sein Blick ist der eines Mannes, der alles misst."
 
 "Wohnt er im Tidemoor-Haus?"
 
-"Nein. Tidemoor und seine Frau haben ihm kein Zimmer gegeben, obwohl er in den ersten Tagen angeblich darum gebeten hat. Er kommt nachmittags, arbeitet bis zum Abendessen, geht wieder. Wo er schläft, weiß die Haushälterin nicht — irgendwo in einem Gasthof vermutlich, er hatte einen Koffer und die Werkzeugrolle dabei, als er das erste Mal kam. Ich hab nicht gefragt, und sie hat es nicht erwähnt." Runa schaute Alphina an. Sie wartete nicht, sie schaute nur. "Deshalb hab ich's dir persönlich erzählt und nicht in den Satz gebracht. Ich weiß nicht, was damit anzufangen ist. Ein Mann, der in einen Raum kommt, und eine Uhr hört auf, falsch zu gehen — das ist kein Flugblatt. Das ist etwas anderes."
+"Nein. Tidemoor und seine Frau haben ihm kein Zimmer gegeben, obwohl er in den ersten Tagen angeblich darum gebeten hat. Er kommt nachmittags, arbeitet bis zum Abendessen, geht wieder. Wo er schläft, weiß die Magd nicht — irgendwo in einem Gasthof vermutlich, er hatte einen Koffer und die Werkzeugrolle dabei, als er das erste Mal kam. Ich hab nicht gefragt, und sie hat es nicht erwähnt." Runa schaute Alphina an. Sie wartete nicht, sie schaute nur. "Deshalb hab ich's dir persönlich erzählt und nicht in den Satz gebracht. Ich weiß nicht, was damit anzufangen ist. Ein Mann, der in einen Raum kommt, und eine Uhr hört auf, falsch zu gehen — das ist kein Flugblatt. Das ist etwas anderes."
 
 "Du hast ihn noch nicht gesehen?"
 
-"Nein. Die Haushälterin hat gesagt, er kommt heute wieder. Ich überleg, ob ich nachher rüber soll, aber Tidemoor mag keine Fremden in seinem Salon."
+"Nein. Die Magd hat gesagt, er kommt heute wieder. Ich überleg, ob ich nachher rüber soll, aber Tidemoor mag keine Fremden in seinem Salon."
 
 Alphina schaute auf das Flugblatt, dann an Runa vorbei auf die Vogelhecke, die keine Vögel zeigte. Ihre Hand lag flach auf dem Holz der Bank, neben dem gedruckten Bogen, und sie fühlte, wie das Holz unter der Haut langsam wärmer wurde, weil ihr Körper wärmer wurde, nicht viel, aber spürbar. Ein Uhrmacher. Jemand, der im selben Raum sitzt wie ein Gegenstand, und der Gegenstand hört auf, falsch zu gehen. Sie wusste, was das war. Sie wusste es, ohne einen Namen dafür zu haben, der in ein Notizbuch gehört hätte. Sie tat dasselbe mit den Lavendelstecklingen und dem Klee am Wegrand und wahrscheinlich, ohne es gewollt zu haben, mit der Nordmauer-Reihe Asplenium. Sie war nicht die einzige.
 
@@ -232,7 +232,7 @@ Sie war nicht die einzige.
 
 "Ja."
 
-"Ich kann einen Brief an die Witwe schreiben und dich ankündigen, wenn du willst."
+"Ich kann einen Brief an Frau Tidemoor schreiben und dich ankündigen, wenn du willst."
 
 "Lass mich das erst überlegen."
 
@@ -298,7 +298,7 @@ Sie ging die Hauptgasse hinab, Richtung Hafen, denselben Weg, den sie an jedem N
 
 Ein Uhrmacher. Aus Karst.
 
-Sie hatte das Wort im Kopf wie einen Fremdkörper. Es war nicht neu — Uhrmacher gab es überall, auch in Vael, auch in Karst, auch in Velde, und sie hatte keine Meinung zu Uhren. Es war der Satz dahinter, den Runa gesagt hatte und der unter dem Wort lag: *ein Mann, der in einen Raum kommt, und eine Uhr hört auf, falsch zu gehen.* Das war keine Uhrmacherei. Das war das, was sie mit den Lavendelstecklingen tat, nur in einem anderen Material. Sie hatte es immer gewusst, ohne es zu wissen, dass sie nicht die Einzige sein konnte. Die Welt war zu groß für eine einzelne Hand. Aber zu wissen, dass sie es nicht war, und zu wissen, dass ein Mann seit Wochen jeden Nachmittag drei Gassen weiter an einem Reparaturtisch saß und eine alte Standuhr mit seiner bloßen Anwesenheit auf den Takt brachte, waren zwei verschiedene Sachen. Die zweite hatte einen Körper und eine Adresse. Die zweite konnte man ansprechen.
+Sie hatte das Wort im Kopf wie einen Fremdkörper. Es war nicht neu — Uhrmacher gab es überall, auch in Vael, auch in Karst, auch in Velde, und sie hatte keine Meinung zu Uhren. Es war der Satz dahinter, den Runa gesagt hatte und der unter dem Wort lag: *ein Mann, der in einen Raum kommt, und eine Uhr hört auf, falsch zu gehen.* Das war keine Uhrmacherei. Das war das, was sie mit den Lavendelstecklingen tat, nur in einem anderen Material. Sie hatte es immer gewusst, ohne es zu wissen, dass sie nicht die Einzige sein konnte. Die Welt war zu groß für eine einzelne Hand. Aber Wissen und Wissen waren zwei verschiedene Sachen. Zu wissen, dass sie es nicht war, war das eine. Zu wissen, dass ein Mann seit Wochen drei Gassen weiter an einem Reparaturtisch saß und eine alte Standuhr mit seiner bloßen Anwesenheit auf den Takt brachte, war das andere. Das andere hatte einen Körper und eine Adresse. Das andere konnte man ansprechen.
 
 Sie musste ihn finden.
 
