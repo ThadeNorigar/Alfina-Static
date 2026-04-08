@@ -89,6 +89,76 @@ Gehe das Kapitel Absatz für Absatz durch:
 - Prüfung: Erste Erwähnung des Namens — wo erfährt die POV-Figur ihn? Wenn die Einführung NACH der ersten Erwähnung kommt → Finding
 - Fix: *"Runa wischte sich die Hände..."* → *"Die Druckerin wischte sich die Hände..."* bis zur Vorstellung
 
+**6. Dialog-Handwerk (siehe Stilregeln v2 "Dialog-Handwerk"):**
+
+*Adverb-Tags (HARTES VERBOT, max 0):*
+- Suche: `sagte (er|sie|.*) (wütend|traurig|liebevoll|dominant|befehlend|leise|laut|fröhlich|nervös|ärgerlich|ruhig|kalt|freundlich)`
+- Auch: `flüsterte/murmelte/zischte + Adverb`
+- → Finding. Fix: Adverb streichen, Körper zeigen oder Tag ganz weg.
+
+*Tag-Frequenz:*
+- In zusammenhängenden 2-Personen-Dialogen: max 1 Tag pro 4-6 Wechsel
+- Wenn jede Replik einen Tag hat → Finding (Tempo erstickt)
+- Action-Beats statt Tags wenn der Körper etwas verraten soll
+
+*Info-Dump-Marker:*
+- Suche: `wie du weisst|wie du weißt|wie ihr wisst|wie wir alle wissen|du erinnerst dich`
+- → Finding. Figuren erzählen einander nicht was beide wissen.
+
+*On-the-nose:*
+- Repliken die ihr eigenes Thema direkt aussprechen ("Ich liebe dich, aber ich habe Angst vor dir.")
+- Repliken die Plot-Punkte oder Motive buchstabieren
+- → Finding. Subtext fehlt.
+
+*Pause-Inflation:*
+- Pausen/Schweigen pro Szene zählen
+- Mehr als 2-3 bedeutungsschwere Pausen (`Stille.`, `Pause.`, `Er schwieg.`, `Sie sagte nichts.`) pro Szene → Finding (Inflation entwertet sie)
+
+*Anonymisierungs-Test:*
+- Eine Seite Dialog ohne Tags lesen — erkennt man wer spricht?
+- Wenn die Stimmen nicht differenziert sind → Finding
+- Vergleich: Satzlänge, Lieblingswörter, Bildfeld, wie jeder "nein" sagt
+
+**7. Innenleben & Gedankengänge (siehe Stilregeln v2 "Innenleben"):**
+
+*Denk-Tags (HARTES VERBOT, max 0):*
+- Suche: `(sie|er) dachte|(sie|er) fragte sich|(sie|er) überlegte|(sie|er) sagte sich`
+- → Finding. Im Deep POV überflüssig. Erlebte Rede stattdessen.
+
+*Kursiv-Inflation:*
+- Kursive Passagen zählen (`*...*` Markup oder bekannte Gedanken-Einwürfe)
+- Max 5-6 pro Kapitel
+- Kursiv NUR für Fast-Ausrufe — kurze, hammer-artige Einwürfe
+- Laufendes Denken bleibt in erlebter Rede, NICHT kursiv
+- Über Limit → Finding
+
+*Flashback-Rampe (HARTES VERBOT):*
+- Suche: `sie erinnerte sich, dass|er erinnerte sich an den Tag|sie dachte zurück an`
+- → Finding. Erinnerung muss durch konkreten Reiz im Jetzt ausgelöst werden, nicht angekündigt.
+
+*Prämature Ahnung (Sorel-Prinzip, HARTES VERBOT):*
+- Suche: `sie wusste noch nicht, dass|er ahnte nicht, dass|niemand wusste, dass`
+- → Finding. Narrator weiss nur was die Figur weiss.
+
+*Berufslinsen-Bruch:*
+- Beschreibungen prüfen: Sieht die POV-Figur durch ihre Berufslinse?
+- Alphina (Botanikerin) → Wachstum/Wurzeln/Druck. KEIN Tonwert, keine Belichtung.
+- Sorel (Fotograf) → Licht/Belichtung/Tonwert. KEINE Pflanzennamen.
+- Vesper (Uhrmacher) → Toleranz/Passung/Mechanik. KEINE Heilkräuter.
+- Maren (Schiffbauerin) → Strömung/Holz/Salz. KEINE Sterndeutung.
+- Bruch → Finding.
+
+*Direkte Emotionsbenennung im Innenleben (max 0):*
+- Suche: `(sie|er) war (traurig|wütend|nervös|einsam|verzweifelt|glücklich|ängstlich)`
+- Auch: `(sie|er) fühlte (Trauer|Wut|Angst|...)`
+- Auch indirekt: `kein Schmerz, keine Angst`
+- → Finding. Körpersymptom oder Gedanken-Fragment stattdessen.
+
+*Navel-Gazing-Test:*
+- Gedanken-Passagen prüfen: Endet sie in einem Verb der Handlung?
+- Wenn die Reflexion bei sich selbst bleibt → Finding (Füllmaterial)
+- Mehr als 2 Absätze reine Innensicht ohne Außenhandlung → Finding
+
 ## Phase 3.5: Cross-POV und Aftermath
 
 **1. Cross-POV-Vokabular:**

@@ -81,6 +81,160 @@ Dialoge müssen **alltagslogisch** sein. Kein Filmdrehbuch. Prüfe:
 - Fehlende Höflichkeitsformeln bei Erstbegegnungen
 - **Dialog-Realismus:** Fehlen logische Schritte in Gesprächen? Würde ein echter Mensch so reden?
 
+## Dialog-Handwerk (Recherche April 2026)
+
+Dialog ist **verbale Handlung**, keine Information. Jede Replik muss etwas TUN — verführen, abwehren, verletzen, testen, ausweichen. Wenn eine Zeile nur informiert: streichen. Information kommt als Nebenprodukt von Konflikt.
+
+### Subtext schlägt Text
+
+Figuren sagen NIE direkt was sie meinen. On-the-nose-Dialog ist das Gegenteil von Literatur. Sorel sagt nicht "ich habe Angst vor dir" — er fragt, ob das Fenster offen ist. Alphina sagt nicht "ich will dich" — sie kommentiert seine Hände an der Kamera.
+
+**Test:** Streiche jede Replik die ihr eigenes Thema aussprechen würde. Was bleibt, ist Subtext.
+
+### Beats statt Tags
+
+| Form | Wann |
+|------|------|
+| `"sagte er"` (Tag) | Reine Klarheit. Verschwindet im Scan. |
+| Action-Beat (Handlung vor/nach Replik) | Wenn der Körper etwas verrät, was die Replik nicht sagen darf. |
+| Nichts | In schnellen 2-Personen-Dialogen alle 4-6 Wechsel reicht ein Tag. |
+
+**HARTES VERBOT — Adverb-Tags:** `sagte er traurig / wütend / liebevoll / dominant / befehlend`. Null. Emotion im Adverb = gescheiterte Szene. Entweder Körper zeigen oder streichen.
+
+**Beispiel:**
+> Vesper legte die Uhrplatte ab. "Du hast zu fest gezogen."
+
+Der Beat zeigt Kontrolle, Fachlichkeit, Distanz — ohne sie zu nennen.
+
+### Macht im Rhythmus
+
+Wer kurz spricht, dominiert. Wer erklärt, verliert. Wer Fragen stellt, testet. Wer Fragen beantwortet bevor sie gestellt wurden, ist defensiv.
+
+- **Alphina/Sorel:** Alphina spricht in Imperativen und unvollendeten Sätzen. Sorel vollendet sie oder lässt sie hängen.
+- **Vesper/Maren:** Vesper sagt einen Satz, Maren antwortet mit Körper. Replik gehört dem, der sie braucht — Macht dem, der ohne sie auskommt.
+
+### Schweigen, Pause, Unterbrechung
+
+Werkzeuge, keine Lücken. **Aber selten:** Max **2-3 bedeutungsschwere Pausen pro Szene**, sonst entwerten sie sich.
+
+- **Wer unterbricht, hat Macht.**
+- **Wer ausweicht, hat etwas zu verbergen.**
+- **Wer schweigt, zwingt den anderen zu reden.**
+
+### Register-Bruch = Wendepunkt
+
+Charakter-Voice wird durch Beruf/Herkunft/Bildung geprägt. Wenn Vesper plötzlich stockt oder Maren plötzlich befiehlt, ist das ein dramatisches Ereignis — Kontrolle bricht **im Wortschatz**, bevor sie im Körper bricht.
+
+### Dark Romantasy / D/s
+
+**Dominante Stimmen sind ökonomisch:** Imperativ, keine Rechtfertigung, keine Frage. *"Knie." "Noch nicht."*
+
+**Submission zeigt sich in Latenz** (wie lange braucht die Antwort), in Vollständigkeit (antwortet sie ganz?), im Körper zwischen den Zeilen.
+
+**Niemals Dominanz erklären — sie passiert.** Kein "er sagte befehlend". Der Befehl IST befehlend oder er ist keiner.
+
+### Anonymisierungs-Test
+
+Eine Seite Dialog ohne Tags lesen — erkennt man wer spricht? Wenn nein, sind die Stimmen nicht differenziert genug. Unterschiede in Satzlänge, Lieblingswörtern, Bildfeldern, wie jemand "nein" sagt.
+
+### Zusätzliche /stil-check Limits
+
+| Muster | Max pro Kapitel |
+|--------|----------------|
+| Adverb-Tags ("sagte X wütend/dominant/...") | **0** |
+| "Wie du weisst, [Name]..." (Info-Dump-Marker) | **0** |
+| Bedeutungs-Pausen pro Szene | 2-3 |
+| Tag-Frequenz in 2-Personen-Dialog | 1 Tag pro 4-6 Wechsel |
+
+## Innenleben & Gedankengänge
+
+Innenleben ist **keine Reflexion über den Zustand** der Figur. Es ist die Welt durch die Figur hindurch — gefiltert durch ihren Beruf, ihre Geschichte, ihre Begierden.
+
+### Erlebte Rede ist der Default
+
+Der Narrator rutscht in die Figur — ohne `sie dachte`, ohne Anführungszeichen, ohne Kursiv. Die Erzählstimme nimmt Wortschatz, Rhythmus und Urteil der Figur an.
+
+**Beispiel:**
+> Der Nebel klebte an den Gaslampen. So lag Vael jeden Morgen, als hätte die Stadt über Nacht geweint.
+
+Das zweite Bild ist Alphinas Urteil — in der Narratorstimme, ohne Tag.
+
+**HARTES VERBOT:** `sie dachte`, `sie fragte sich`, `sie überlegte`. **Null.** Im Deep POV überflüssig.
+
+### Kursiv nur für Fast-Ausrufe
+
+Kursiv ist für **kurze, fast ausgesprochene** Einwürfe — Dinge, die die Figur fast laut gesagt hätte. Laufendes Denken bleibt in erlebter Rede, NICHT kursiv.
+
+**Beispiel:**
+> *Nicht jetzt.* Sie legte die Pinzette ab.
+
+**Limit:** Max **5-6 kursive Gedanken-Einwürfe pro Kapitel**. Mehr ist Misstrauen in den Leser.
+
+### Gedanken treiben Plot
+
+| Schlecht | Gut |
+|----------|-----|
+| Navel-Gazing — Figur denkt im Kreis über ihren Zustand | Gedanke endet in Impuls: *also geht sie* |
+| Reflexion blockiert Handlung | Reflexion FÜHRT zu Entscheidung |
+| Drei Seiten Innenmonolog ohne Außenhandlung | Drei Sätze, dann Körper |
+
+**Test:** Jede Gedanken-Passage muss mit einem Verb der Handlung enden, das aus dem Gedanken folgt.
+
+### Berufslinse
+
+Jede sensorische Beobachtung geht durch die **Berufslinse** der POV-Figur — und nur durch sie.
+
+| Figur | Welt erscheint als |
+|-------|---------------------|
+| Alphina (Botanikerin) | Wachstum, Wurzeln, Druck, Risse, Verwitterung |
+| Sorel (Fotograf) | Licht, Kontrast, Belichtung, Bildkante, Tonwert |
+| Vesper (Uhrmacher) | Toleranz, Eingriff, Passung, Zahnrad, Hemmung |
+| Maren (Schiffbauerin/Meeresbiologin) | Strömung, Druck, Auftrieb, Salz, Holzfaser |
+
+**Eine Steinleserin sieht Risse, nicht Farnnamen.** Bruch der POV-Linse = Finding.
+
+### Innerer Konflikt durch Widerspruch zeigen
+
+Statt "sie war hin- und hergerissen" → zwei aufeinanderfolgende Sätze, die einander widersprechen.
+
+Statt "sie wollte ihn nicht wollen" → sie sah weg, dann zurück.
+
+Gedanke stockt, springt, kehrt zurück, korrigiert sich selbst. **Das IST der Konflikt.** Niemals benennen.
+
+### Erinnerung als Einbruch
+
+Erinnerungen werden **durch konkreten Reiz im Jetzt** ausgelöst — Geruch, Berührung, Geräusch. Nie als saubere Rampe (`sie erinnerte sich an den Tag, an dem...`).
+
+Eine Geste im Jetzt öffnet ein Bild aus dem Damals. Beides im selben Absatz, beides im Präteritum. Die Erinnerung steht als Tatsache im Strom und verschwindet wieder.
+
+### Sorel-Prinzip auch innerlich
+
+Wenn Alphina etwas nicht weiß, darf der Narrator es nicht andeuten. **Keine prämature Ahnung.** Kein `sie wusste noch nicht, dass...`. Das Innenleben ist so begrenzt wie die Wahrnehmung.
+
+### Rhythmus im Denken
+
+Lange Reflexion → Stakkato. Frage → Stille. Bandwurm → harter Kurzsatz. Der Strom darf nicht monoton werden.
+
+### Zusätzliche /stil-check Limits
+
+| Muster | Max pro Kapitel |
+|--------|----------------|
+| `sie dachte` / `er fragte sich` / `sie überlegte` | **0** |
+| Kursive Gedanken-Einwürfe | 5-6 |
+| `sie erinnerte sich, dass...` (Flashback-Rampe) | **0** |
+| `sie wusste noch nicht, dass...` (prämature Ahnung) | **0** |
+| Berufslinsen-Bruch (z.B. Alphina nennt Tonwerte) | **0** |
+| Direkte Emotionsbenennung im Innenleben (`sie war traurig`) | **0** |
+
+## Quellen (Recherche April 2026)
+
+- McKee, Robert — *Dialogue: The Art of Verbal Action* (2016)
+- Woolf, Virginia — *Mrs. Dalloway* (erlebte Rede)
+- Morrison, Toni — *Beloved* (Erinnerung im Strom)
+- Yanagihara, Hanya — *A Little Life* (3.P-Interiorität)
+- McCarthy, Cormac — *The Road* (Dialog ohne Anführungszeichen)
+- Rooney, Sally — *Normal People* (Stimme + Gedanke verschmolzen)
+
 ## POV-Vokabular
 
 Jeder POV hat **eigene Wörter** für gemeinsame Phänomene. Keine zwei POVs benutzen dieselbe Formulierung für dasselbe Detail.
