@@ -86,7 +86,7 @@ Etwas in Marens Brust kippte.
 
 *Feine Hände, für einen Bootsbauer. Lange Finger.* Edrics Worte, Wochen alt, am ersten Tag in der Werft gesprochen, als beiläufiger Nebensatz. Sie waren ihr nicht mehr eingefallen bis jetzt. Jetzt lagen sie im Raum wie ein Nagel der in den Boden fiel. Die Hände die sie vor sich sah waren keine feinen Hände. Sie waren etwas anderes. Und doch arbeiteten sie an Harons Boot, in Harons Werft, mit einer Sicherheit die wusste wo jede Planke hingehörte — die Sicherheit eines Körpers der hier zuhause war.
 
-Maren lag unter dem Segel und versuchte den Gedanken zu denken und der Gedanke wollte nicht. Er blieb ein halber Satz, ein Anfang ohne Ende. Fünf Meter weiter hob ein Ding Planken wie Blätter, und das war alles was ihr Kopf halten konnte.
+Maren lag unter dem Segel und versuchte den Gedanken zu denken und der Gedanke wollte nicht. Er blieb ein halber Satz, ein Anfang ohne Ende. Fünf Meter weiter hob ein Ding eine Planke wie ein Blatt, und das war alles was ihr Kopf halten konnte.
 
 Sie rührte sich nicht. Ihre Augen brannten, weil sie nicht blinzelte, weil Blinzeln bedeutete einen Moment zu verpassen, einen Handgriff, eine Bewegung. Ihr Herzschlag hatte sich beruhigt. Nicht weil sie keine Angst hatte — weil ihr Körper entschieden hatte, dass Stillsein wichtiger war als Angst, dass Empfangen wichtiger war als Fliehen. Unter dem Gewicht des Segels ließ sie es geschehen: ließ die Gestalt arbeiten, ließ das Boot wachsen, ließ den süßen Geruch in ihre Lungen, ließ die schweren Hände sich um das Holz schließen das sie morgen berühren würde.
 
@@ -154,7 +154,7 @@ Nicht der ganze Fluss — ein Teil, ein Streifen, vielleicht zehn Meter breit, a
 
 Maren spürte, wie ihr Körper reagierte, bevor ihr Verstand es einordnen konnte — ein Ziehen im Bauch, tief, ein Pochen in den Handflächen, derselbe Puls den sie auf dem Steg am ersten Tag gespürt hatte, in der Badewanne, ein Antworten das aus dem Körper kam und nicht aus dem Kopf. Sie drückte die Fäuste in die Jackentaschen und atmete einmal tief ein.
 
-"Danke, Herr Daverin." Sie sah ihn an. "Dass Sie mich suchen gekommen sind. Wenn ich wieder was bemerke, am Steg oder in der Werft — darf ich Sie fragen?"
+"Danke, Herr Daverin." Sie sah ihn an. "Dass Sie's mir gesagt haben. Wenn ich wieder was bemerke, am Steg oder in der Werft — darf ich Sie fragen?"
 
 "Ich sitz jeden Morgen hier." Er nickte ihr zu, einmal kurz, und ging zurück ans Ende des Stegs. Setzte sich hin, die Beine über der Kante, die Augen wieder auf dem Wasser. Das Gespräch war beendet, und Maren spürte dass es für ihn kein ungewöhnliches gewesen war — nur ein nötiges.
 
@@ -184,4 +184,4 @@ Ihr Körper wollte nicht, dass sie sich rührte. Das war der ganze Gedanke, knap
 
 Maren blieb knien, bis das Rinnsal zurücklief, so langsam wie es gekommen war. Der Erdboden sog das Wasser auf. Ihre Hand lag leer auf dem warmen Holz. Sie stand auf, die Knie steif, die Hose feucht, und ging zur Werkbank. Das Papier in der Tasche drückte gegen ihre Hüfte. Sie zog es nicht heraus.
 
-Sechste Woche. Tag eins einer neuen Rechnung.
+Sechste Woche.
