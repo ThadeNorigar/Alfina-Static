@@ -86,9 +86,9 @@ Etwas in Marens Brust kippte.
 
 *Feine Hände, für einen Bootsbauer. Lange Finger.* Edrics Worte, Wochen alt, am ersten Tag in der Werft gesprochen, als beiläufiger Nebensatz. Sie waren ihr nicht mehr eingefallen bis jetzt. Jetzt lagen sie im Raum wie ein Nagel der in den Boden fiel. Die Hände die sie vor sich sah waren keine feinen Hände. Sie waren etwas anderes. Und doch arbeiteten sie an Harons Boot, in Harons Werft, mit einer Sicherheit die wusste wo jede Planke hingehörte — die Sicherheit eines Körpers der hier zuhause war.
 
-Maren lag unter dem Segel und versuchte den Gedanken zu denken und der Gedanke wollte nicht. Er blieb ein halber Satz, ein Anfang ohne Ende. Das Holz musste irgendwo zurechtgeschnitten worden sein, und die Stellen die zurechtgeschnitten waren, wurden jetzt eingesetzt, und dazwischen lag eine Arbeitsteilung über die Haron nie in einem Brief geschrieben hatte. Aber ob er es gerufen hatte oder es zu ihm gekommen war, ob die Zeichen auf dem Papier Anweisungen waren oder Rechnung oder Vertrag oder etwas wofür Maren kein Wort besaß — das ließ sich nicht denken. Nicht hier, nicht so, nicht mit dem Gewicht des Segels auf den Rippen und diesem Ding fünf Meter weiter das Planken hob wie Blätter.
+Maren lag unter dem Segel und versuchte den Gedanken zu denken und der Gedanke wollte nicht. Er blieb ein halber Satz, ein Anfang ohne Ende. Fünf Meter weiter hob ein Ding Planken wie Blätter, und das war alles was ihr Kopf halten konnte.
 
-Sie blieb reglos. Ihre Augen brannten, weil sie nicht blinzelte, weil Blinzeln bedeutete einen Moment zu verpassen, einen Handgriff, eine Bewegung. Ihr Herzschlag hatte sich beruhigt. Nicht weil sie keine Angst hatte — weil ihr Körper entschieden hatte, dass Stillsein wichtiger war als Angst, dass Empfangen wichtiger war als Fliehen. Sie lag im Gewicht des Segels, klein gemacht, gehalten, und ließ es geschehen. Ließ den Schemen arbeiten, ließ das Boot wachsen, ließ den Geruch in ihre Lungen und ließ die schweren Hände das Holz halten das sie morgen berühren würde.
+Sie blieb reglos. Ihre Augen brannten, weil sie nicht blinzelte, weil Blinzeln bedeutete einen Moment zu verpassen, einen Handgriff, eine Bewegung. Ihr Herzschlag hatte sich beruhigt. Nicht weil sie keine Angst hatte — weil ihr Körper entschieden hatte, dass Stillsein wichtiger war als Angst, dass Empfangen wichtiger war als Fliehen. Sie lag im Gewicht des Segels, klein gemacht, gehalten, und ließ es geschehen. Ließ die Gestalt arbeiten, ließ das Boot wachsen, ließ den Geruch in ihre Lungen und ließ die schweren Hände das Holz halten das sie morgen berühren würde.
 
 Eine Stunde. Vielleicht länger. Die Gestalt arbeitete, gleichmäßig, lautlos, und Maren lag und sah und der Rauch stieg auf und der Geruch lag in der Luft und das Boot wuchs.
 
@@ -100,7 +100,7 @@ Sie stand auf. Ihre Beine waren taub, das Blut kam zurück, ein Kribbeln das in 
 
 Sie dachte an Thessa. An den Mann mit den warmen Händen, der sie eine Nacht gehalten hatte, beide Hände um ihre eine, und am nächsten Morgen war sie gegangen. Sie ging immer. Das war es was sie tat — ankommen, bleiben, gehen. Der Seesack, die Fähre, der leere Horizont. Aber hier stand sie im Dunkeln neben einem Boot das sich nachts weiter baute, und ihre Hand lag auf Holz das warm war von Händen die nicht menschlich waren, und sie ging nicht.
 
-Ihr Körper wollte nicht gehen. Ihr Körper wollte hierbleiben, die Hand auf dem Holz, die Wärme in den Fingern. Ihr Körper wollte gehalten werden, vom Boot, vom Geruch, von dem Gewicht des Segels auf den Rippen das er eben noch getragen hatte. Es war kein Gedanke. Es war tiefer — ein Nachgeben, ein Sich-Öffnen, ein Senken der Schultern das nicht aus Erschöpfung kam sondern aus etwas das sie nicht benennen konnte, das warm war wie das Holz und still wie der Schem und das sie so sehr wollte dass die Brust schmerzte.
+Ihr Körper wollte nicht gehen. Ihr Körper wollte hierbleiben, die Hand auf dem Holz, die Wärme in den Fingern. Ihr Körper wollte gehalten werden, vom Boot, vom Geruch, von dem Gewicht des Segels auf den Rippen das er eben noch getragen hatte. Es war kein Gedanke. Es war tiefer — ein Nachgeben, ein Sich-Öffnen, ein Senken der Schultern das nicht aus Erschöpfung kam sondern aus etwas das sie nicht benennen konnte, das warm war wie das Holz und still wie das Ding in der Nacht und das sie so sehr wollte dass die Brust schmerzte.
 
 Maren nahm die Hand vom Boot. Der Abdruck blieb, für einen Moment, die Wärme ihrer Handfläche auf dem Holz. Dann nahm das Boot die Wärme auf und der Abdruck verschwand.
 
@@ -118,7 +118,7 @@ Sie nahm die Hand vom Holz und ging nach draußen.
 
 Der Steg. Maren ging ihn nicht bis zum Ende — sie blieb auf halbem Weg stehen, an der Stelle wo die Planken am breitesten waren, wo die Nägel noch fest saßen. Das Graue Meer lag vor ihr, flach, der Wind schwach. Der Nebel hing tief, aber dünner als am Vortag, die Sonne ein blasser Fleck hinter dem Grau, der den Dunst zum Leuchten brachte ohne ihn aufzulösen.
 
-Ein Mann saß am Ende des Stegs, die Beine über der Kante, die Füße über dem Wasser. Alt. Sein Gesicht war das Gesicht eines Menschen der jahrzehntelang in den Wind geschaut hatte — zerfurcht, braun, die Haut trocken und rissig an den Wangenknochen, die Lippen schmal. Haar wie Seetang, grau, dünn, vom Salz verklebt. Er saß dort in der Ruhe eines Menschen der dort seit Stunden saß, ein Teil des Stegs wie die Planken und die Nägel.
+Ein Mann saß am Ende des Stegs, die Beine über der Kante, die Füße über dem Wasser. Alt. Sein Gesicht hatte zu lange im Wind gestanden — die Wangenknochen zu scharf, die Haut rissig dort wo die Kälte sie erwischt hatte. Als er den Kopf leicht hob, fiel ihm eine Strähne in die Stirn, grau und dünn, vom Salz zusammengeklebt. Er saß dort in der Ruhe eines Menschen der dort seit Stunden saß, ein Teil des Stegs wie die Planken und die Nägel.
 
 In seiner rechten Hand lag ein Fisch. Tot, steif, die Schuppen matt. Er hielt ihn auf der flachen Handfläche, das Angebot an jemanden der nicht da war.
 
@@ -156,7 +156,7 @@ In der Werft war es still. Edric war noch nicht da. Das Boot stand auf seinen B�
 
 Sie kniete sich hin. Legte das Ohr auf den Boden.
 
-Der Boden war warm. Nicht Sonnenwärme — der Schuppen lag im Schatten. Nicht die Wärme der Arbeit — niemand hatte hier gearbeitet seit gestern Abend. Außer den Schemen, deren Hände das Holz berührt hatten, deren Haut geraucht hatte. Eine Wärme die aus dem Boden kam, durch die Bretter, in ihr Ohr, in ihre Wange.
+Der Boden war warm. Nicht Sonnenwärme — der Schuppen lag im Schatten. Nicht die Wärme der Arbeit — niemand hatte hier gearbeitet seit gestern Abend. Außer dem Ding in der Nacht, dessen Hände das Holz berührt hatten, dessen Haut geraucht hatte. Eine Wärme die aus dem Boden kam, durch die Bretter, in ihr Ohr, in ihre Wange.
 
 Und darunter das Pochen.
 
