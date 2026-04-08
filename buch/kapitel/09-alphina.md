@@ -1,5 +1,7 @@
 # Alphina
 
+*11. Mai · 6 Wochen 2 Tage in Vael*
+
 Die Lavendelstecklinge waren am dritten Tag bereit, und am dritten Tag kniete sie zwischen den Beeten der westlichen Anlage und sortierte sie in zwei Schalen. Die linke für die Triebe mit der besten Bewurzelung, die rechte für jene, die noch warten mussten. Die Erde unter ihren Knien war feucht von der Mittagsbewässerung; ein dunkler Fleck zog sich quer über den Stoff ihres Rocks, eine Form wie eine Insel ohne Namen. Sie hatte vergessen, das Kniepolster zu nehmen, das Henrik ihr am ersten Tag geliehen hatte. Es lag drei Beete weiter, am Komposthaufen, dort wo sie gestern Abend ihre Schaufel hingelegt hatte, und sie hatte es gesehen, als sie kam, und es nicht geholt. Manchmal wollte sie die Erde direkt am Knochen.
 
 Der Geruch im Garten war eine Schichtung. Oben Lavendel, frisch geschnitten, der ölige scharfe Duft, der ihre Finger noch tagelang begleiten würde. Darunter Kompost, schwer, süß, der Geruch von Blattwerk, das in seine Bestandteile zerfiel. Darunter feuchter Stein, der Geruch des Gartenmauerwerks, das selbst im Sommer nie ganz trocknete. Und unter allem, am tiefsten, ein vierter Geruch, den sie seit Wochen nicht zuordnen konnte — süßlich, dicht, nicht nach Pflanze, nicht nach Tier, nicht nach Verwesung. Etwas Eigenes. Er lag in den Beeten wie eine Antwort auf eine Frage, die niemand gestellt hatte.

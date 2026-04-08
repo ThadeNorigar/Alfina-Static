@@ -1,5 +1,7 @@
 # Alphina
 
+*29. März · Tag 1 in Vael*
+
 Der dritte Tag roch nach Salz.
 
 Die ersten beiden rochen nach Pferd, nach Leder, nach dem Staub der Landstraße, der sich in alles setzte — in die Nähte des Koffers, in die Falten des Hemds, unter die Nägel. Der Kutscher hatte zweimal angehalten, einmal an einer Poststation aus grauem Stein, wo ein Mann mit Schürze Brot verkaufte, das nach Kümmel roch, zu hart war — das sie trotzdem ganz aß, weil der Magen sich nicht dafür interessiert, ob Brot gut ist, nur dafür, ob es da ist. Einmal am Straßenrand, weil eines der Pferde ein Eisen verloren hatte, der Kutscher zwanzig Minuten brauchte, auf den Knien, die Zange in der Hand, der Schweiß auf der Stirn. Sie saß in der Kutsche, wartete. Der Hammer auf das Eisen. Der Huf auf die Erde. Dazwischen die Stille der Landschaft, die nicht still war, weil Landschaften nie still sind — es sind die Menschen die still werden, wenn niemand da ist der sie hört.
@@ -291,5 +293,3 @@ Weil der nächste Satz der Satz wäre, der alles ändert. Den schrieb sie nicht 
 Draußen, in der Hafengasse, brannte die Gaslampe. Der Nebel lag auf dem Pflaster. Das Meer rauschte, fern, gleichmäßig. Irgendwo in dieser Stadt standen sieben Farne in einem Stadttor, die wussten wo sie war.
 
 Irgendwo in den Gassen, im Nebel, saßen Dinge an Wänden, die sie angeschaut hatten mit Augen die keine Augen waren.
-
-Tag eins.
