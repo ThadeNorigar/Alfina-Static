@@ -173,9 +173,10 @@
       "09": {
         "titel": "Alphina: Der Garten",
         "pov": "Alphina",
-        "status": "szenenplan",
-        "woerter": null,
-        "text": "Botanischer Garten. Siebenundzwanzig Pflanzen auf Alphina gerichtet. Farne mannshoch, mitten im Winter. Schatten-Tiere mit leuchtenden Augen zwischen den Beeten — Schemen, die Alphina verfolgen. Runa kommt vorbei, druckt Flugblätter. Alphina bemerkt: Runas Hände sind immer warm, Metall schmilzt leichter unter ihren Fingern."
+        "status": "entwurf",
+        "woerter": 5895,
+        "text": "Botanischer Garten. Siebenundzwanzig Pflanzen auf Alphina gerichtet. Farne mannshoch, mitten im Winter. Schatten-Tiere mit leuchtenden Augen zwischen den Beeten — Schemen, die Alphina verfolgen. Runa kommt vorbei, druckt Flugblätter. Alphina bemerkt: Runas Hände sind immer warm, Metall schmilzt leichter unter ihren Fingern.",
+        "datei": "09-alphina.md"
       },
       "10": {
         "titel": "Sorel: Die erste Platte",
