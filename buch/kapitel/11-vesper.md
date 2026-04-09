@@ -68,7 +68,7 @@ Tidemoor blieb der Ausreißer. Vier Minuten dreiunddreißig Sekunden hätten nac
 
 Und dann, weil er die Uhr jetzt angeschaut hatte, weil das Wort *Tidemoor* noch auf seinem Papier stand und weil seine Hand seit dem Morgen auf der Karte lag, kam die Erinnerung ohne Einladung.
 
-Vor sechs Wochen hatte er die Hand zum ersten Mal auf das Gehäuse gelegt. Ein Versuch, keine Überzeugung. Die Uhr war still gelaufen unter seiner Handfläche, ruhig, rein, so wie ein Uhrwerk lief, das mit sich selbst einverstanden war. Eine Stunde lang. Dann hatte er die Hand weggenommen und eine weitere Stunde gemessen, und die vier Minuten dreiunddreißig waren wieder da gewesen.
+Vor fünf Wochen hatte er die Hand zum ersten Mal auf das Gehäuse gelegt. Ein Versuch, keine Überzeugung. Die Uhr war still gelaufen unter seiner Handfläche, ruhig, rein, so wie ein Uhrwerk lief, das mit sich selbst einverstanden war. Eine Stunde lang. Dann hatte er die Hand weggenommen und eine weitere Stunde gemessen, und die vier Minuten dreiunddreißig waren wieder da gewesen.
 
 So weit erinnerte er sich scharf. Das, was danach kam, hatte er bisher nicht zum Ende gedacht.
 
@@ -76,7 +76,7 @@ Er hatte das Tidemoor-Haus in den folgenden Wochen mehrmals besucht. Zuerst weil
 
 Vesper hatte es dem Raum zugeschrieben. Dem Klima. Der ungewöhnlichen Kellerwärme, die das ganze Haus durchzog. Seiner eigenen gelegentlichen Anwesenheit, wenn schon — in dem Sinn, dass Uhren manchmal auf die Stimmung eines Raumes reagierten, so wie Holz auf Feuchtigkeit reagierte, nur weniger erklärbar.
 
-Er hatte es nicht dem zugeschrieben, was ihm jetzt zum ersten Mal in der Kehle saß und schwerer zu schlucken war als der kalte Tee. Dass eine einzige Berührung vor sechs Wochen das Uhrwerk in einen Zustand gebracht haben könnte, den es seitdem ohne sein weiteres Zutun beibehalten hatte.
+Er hatte es nicht dem zugeschrieben, was ihm jetzt zum ersten Mal in der Kehle saß und schwerer zu schlucken war als der kalte Tee. Dass eine einzige Berührung vor fünf Wochen das Uhrwerk in einen Zustand gebracht haben könnte, den es seitdem ohne sein weiteres Zutun beibehalten hatte.
 
 Die anderen sechzehn Uhren der Stadt waren in derselben Zeit weiter falsch gegangen. Nur Tidemoor war stabil geblieben. Vom ersten Auflegen an.
 
@@ -266,11 +266,11 @@ Vesper hörte den Satz und hörte vor allem, was er nicht enthielt. Kein *ich gl
 
 Er brauchte einen Atemzug, um zu antworten. Nicht, weil er die Antwort nicht kannte, sondern weil er in fünf Wochen kein einziges Mal von jemandem nach dieser Antwort gefragt worden war.
 
-"Die Uhr heißt Tidemoor-Uhr. Sie verliert seit Generationen vier Minuten und dreiunddreißig Sekunden pro Tag. Drei Uhrmacher vor mir haben das Gehäuse geöffnet und keinen Fehler gefunden. Ich habe vor sechs Wochen die Hand auf das Gehäuse gelegt, weil mir nichts anderes eingefallen ist. Unter meiner Hand lief sie rein. Hand weg, sie ging wieder falsch. So weit habe ich es verstanden. So weit hat die Magd es gesehen, und so weit hat sie es Runa erzählt."
+"Die Uhr heißt Tidemoor-Uhr. Sie verliert seit Generationen vier Minuten und dreiunddreißig Sekunden pro Tag. Drei Uhrmacher vor mir haben das Gehäuse geöffnet und keinen Fehler gefunden. Ich habe vor fünf Wochen die Hand auf das Gehäuse gelegt, weil mir nichts anderes eingefallen ist. Unter meiner Hand lief sie rein. Hand weg, sie ging wieder falsch. So weit habe ich es verstanden. So weit hat die Magd es gesehen, und so weit hat sie es Runa erzählt."
 
 Er ließ einen Atemzug zwischen den Sätzen, weil der nächste Teil ihm selbst heute erst ganz klar geworden war.
 
-"Was ich bis heute nicht verstanden habe: dass die Uhr seitdem permanent im Takt läuft. Ich bin in den folgenden Wochen sieben oder acht Mal ins Haus zurückgegangen. Jedes Mal war sie rein. Ich habe es dem Raum zugeschrieben, dem Klima, meiner gelegentlichen Anwesenheit im Salon. Heute Vormittag, beim Sortieren der anderen Uhren, ist mir aufgefallen, dass sie die einzige der siebzehn ist, die stabil geblieben ist. Die anderen sechzehn gehen weiter falsch. Nur Tidemoor nicht. Eine einzige Berührung, vor sechs Wochen — und die Uhr hat es behalten."
+"Was ich bis heute nicht verstanden habe: dass die Uhr seitdem permanent im Takt läuft. Ich bin in den folgenden Wochen sieben oder acht Mal ins Haus zurückgegangen. Jedes Mal war sie rein. Ich habe es dem Raum zugeschrieben, dem Klima, meiner gelegentlichen Anwesenheit im Salon. Heute Vormittag, beim Sortieren der anderen Uhren, ist mir aufgefallen, dass sie die einzige der siebzehn ist, die stabil geblieben ist. Die anderen sechzehn gehen weiter falsch. Nur Tidemoor nicht. Eine einzige Berührung, vor fünf Wochen — und die Uhr hat es behalten."
 
 Alphina atmete einmal aus, lang. Der Brustkorb hob sich unter dem Mantel, und diesmal versuchte sie nicht, das Ausatmen zu verstecken.
 
@@ -284,7 +284,7 @@ Sie legte die linke Hand auf die rechte und hielt sie dort. Ihre Augen blieben a
 
 Vesper griff, ohne es zu wollen, nach der Tischkante hinter sich. Sein Körper hatte schneller reagiert als sein Kopf, wie immer.
 
-"Heute habe ich es ein zweites Mal getan. Ich wollte wissen, ob es wiederkommt. Es ist wiedergekommen. Drei Stöße, dichter diesmal, dichter als vor drei Tagen — oder ich habe genauer gehört. Ich bin in den Anker zurückgegangen und habe eine halbe Stunde gebraucht, bis ich mich entschieden habe, an Ihre Tür zu klopfen statt an meine eigene. Ich brauchte vorher zu wissen, dass Ihre Geschichte kein Gerücht ist. Wenn bei Ihnen eine einzige Berührung ein Uhrwerk sechs Wochen lang hält, dann weiß ich, was ich am Stein gespürt habe. Wenn nicht, dann bin ich morgen wieder allein mit etwas, das keinen Namen hat."
+"Heute habe ich es ein zweites Mal getan. Ich wollte wissen, ob es wiederkommt. Es ist wiedergekommen. Drei Stöße, dichter diesmal, dichter als vor drei Tagen — oder ich habe genauer gehört. Ich bin in den Anker zurückgegangen und habe eine halbe Stunde gebraucht, bis ich mich entschieden habe, an Ihre Tür zu klopfen statt an meine eigene. Ich brauchte vorher zu wissen, dass Ihre Geschichte kein Gerücht ist. Wenn bei Ihnen eine einzige Berührung ein Uhrwerk fünf Wochen lang hält, dann weiß ich, was ich am Stein gespürt habe. Wenn nicht, dann bin ich morgen wieder allein mit etwas, das keinen Namen hat."
 
 Er trat einen halben Schritt zurück. Nicht als Distanz — als Platz, um die Tür weiter öffnen zu können, ohne dass der Spalt zu einer Einladung wurde. Die Tür ging bis zur Hälfte auf. Er blieb auf der Schwelle.
 

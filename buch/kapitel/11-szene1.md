@@ -66,7 +66,7 @@ Tidemoor blieb der Ausreißer. Vier Minuten dreiunddreißig Sekunden hätten nac
 
 Und dann, weil er die Uhr jetzt angeschaut hatte, weil das Wort *Tidemoor* noch auf seinem Papier stand und weil seine Hand seit dem Morgen auf der Karte lag, kam die Erinnerung ohne Einladung.
 
-Vor sechs Wochen hatte er die Hand zum ersten Mal auf das Gehäuse gelegt. Ein Versuch, keine Überzeugung. Die Uhr war still gelaufen unter seiner Handfläche, ruhig, rein, so wie ein Uhrwerk lief, das mit sich selbst einverstanden war. Eine Stunde lang. Dann hatte er die Hand weggenommen und eine weitere Stunde gemessen, und die vier Minuten dreiunddreißig waren wieder da gewesen.
+Vor fünf Wochen hatte er die Hand zum ersten Mal auf das Gehäuse gelegt. Ein Versuch, keine Überzeugung. Die Uhr war still gelaufen unter seiner Handfläche, ruhig, rein, so wie ein Uhrwerk lief, das mit sich selbst einverstanden war. Eine Stunde lang. Dann hatte er die Hand weggenommen und eine weitere Stunde gemessen, und die vier Minuten dreiunddreißig waren wieder da gewesen.
 
 So weit erinnerte er sich scharf. Das, was danach kam, hatte er bisher nicht zum Ende gedacht.
 
@@ -74,7 +74,7 @@ Er hatte das Tidemoor-Haus in den folgenden Wochen mehrmals besucht. Zuerst weil
 
 Vesper hatte es dem Raum zugeschrieben. Dem Klima. Der ungewöhnlichen Kellerwärme, die das ganze Haus durchzog. Seiner eigenen gelegentlichen Anwesenheit, wenn schon — in dem Sinn, dass Uhren manchmal auf die Stimmung eines Raumes reagierten, so wie Holz auf Feuchtigkeit reagierte, nur weniger erklärbar.
 
-Er hatte es nicht dem zugeschrieben, was ihm jetzt zum ersten Mal in der Kehle saß und schwerer zu schlucken war als der kalte Tee. Dass eine einzige Berührung vor sechs Wochen das Uhrwerk in einen Zustand gebracht haben könnte, den es seitdem ohne sein weiteres Zutun beibehalten hatte.
+Er hatte es nicht dem zugeschrieben, was ihm jetzt zum ersten Mal in der Kehle saß und schwerer zu schlucken war als der kalte Tee. Dass eine einzige Berührung vor fünf Wochen das Uhrwerk in einen Zustand gebracht haben könnte, den es seitdem ohne sein weiteres Zutun beibehalten hatte.
 
 Die anderen sechzehn Uhren der Stadt waren in derselben Zeit weiter falsch gegangen. Nur Tidemoor war stabil geblieben. Vom ersten Auflegen an.
 

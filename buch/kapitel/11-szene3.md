@@ -36,11 +36,11 @@ Vesper hörte den Satz und hörte vor allem, was er nicht enthielt. Kein *ich gl
 
 Er brauchte einen Atemzug, um zu antworten. Nicht, weil er die Antwort nicht kannte, sondern weil er in fünf Wochen kein einziges Mal von jemandem nach dieser Antwort gefragt worden war.
 
-"Die Uhr heißt Tidemoor-Uhr. Sie verliert seit Generationen vier Minuten und dreiunddreißig Sekunden pro Tag. Drei Uhrmacher vor mir haben das Gehäuse geöffnet und keinen Fehler gefunden. Ich habe vor sechs Wochen die Hand auf das Gehäuse gelegt, weil mir nichts anderes eingefallen ist. Unter meiner Hand lief sie rein. Hand weg, sie ging wieder falsch. So weit habe ich es verstanden. So weit hat die Magd es gesehen, und so weit hat sie es Runa erzählt."
+"Die Uhr heißt Tidemoor-Uhr. Sie verliert seit Generationen vier Minuten und dreiunddreißig Sekunden pro Tag. Drei Uhrmacher vor mir haben das Gehäuse geöffnet und keinen Fehler gefunden. Ich habe vor fünf Wochen die Hand auf das Gehäuse gelegt, weil mir nichts anderes eingefallen ist. Unter meiner Hand lief sie rein. Hand weg, sie ging wieder falsch. So weit habe ich es verstanden. So weit hat die Magd es gesehen, und so weit hat sie es Runa erzählt."
 
 Er ließ einen Atemzug zwischen den Sätzen, weil der nächste Teil ihm selbst heute erst ganz klar geworden war.
 
-"Was ich bis heute nicht verstanden habe: dass die Uhr seitdem permanent im Takt läuft. Ich bin in den folgenden Wochen sieben oder acht Mal ins Haus zurückgegangen. Jedes Mal war sie rein. Ich habe es dem Raum zugeschrieben, dem Klima, meiner gelegentlichen Anwesenheit im Salon. Heute Vormittag, beim Sortieren der anderen Uhren, ist mir aufgefallen, dass sie die einzige der siebzehn ist, die stabil geblieben ist. Die anderen sechzehn gehen weiter falsch. Nur Tidemoor nicht. Eine einzige Berührung, vor sechs Wochen — und die Uhr hat es behalten."
+"Was ich bis heute nicht verstanden habe: dass die Uhr seitdem permanent im Takt läuft. Ich bin in den folgenden Wochen sieben oder acht Mal ins Haus zurückgegangen. Jedes Mal war sie rein. Ich habe es dem Raum zugeschrieben, dem Klima, meiner gelegentlichen Anwesenheit im Salon. Heute Vormittag, beim Sortieren der anderen Uhren, ist mir aufgefallen, dass sie die einzige der siebzehn ist, die stabil geblieben ist. Die anderen sechzehn gehen weiter falsch. Nur Tidemoor nicht. Eine einzige Berührung, vor fünf Wochen — und die Uhr hat es behalten."
 
 Alphina atmete einmal aus, lang. Der Brustkorb hob sich unter dem Mantel, und diesmal versuchte sie nicht, das Ausatmen zu verstecken.
 
@@ -54,7 +54,7 @@ Sie legte die linke Hand auf die rechte und hielt sie dort. Ihre Augen blieben a
 
 Vesper griff, ohne es zu wollen, nach der Tischkante hinter sich. Sein Körper hatte schneller reagiert als sein Kopf, wie immer.
 
-"Heute habe ich es ein zweites Mal getan. Ich wollte wissen, ob es wiederkommt. Es ist wiedergekommen. Drei Stöße, dichter diesmal, dichter als vor drei Tagen — oder ich habe genauer gehört. Ich bin in den Anker zurückgegangen und habe eine halbe Stunde gebraucht, bis ich mich entschieden habe, an Ihre Tür zu klopfen statt an meine eigene. Ich brauchte vorher zu wissen, dass Ihre Geschichte kein Gerücht ist. Wenn bei Ihnen eine einzige Berührung ein Uhrwerk sechs Wochen lang hält, dann weiß ich, was ich am Stein gespürt habe. Wenn nicht, dann bin ich morgen wieder allein mit etwas, das keinen Namen hat."
+"Heute habe ich es ein zweites Mal getan. Ich wollte wissen, ob es wiederkommt. Es ist wiedergekommen. Drei Stöße, dichter diesmal, dichter als vor drei Tagen — oder ich habe genauer gehört. Ich bin in den Anker zurückgegangen und habe eine halbe Stunde gebraucht, bis ich mich entschieden habe, an Ihre Tür zu klopfen statt an meine eigene. Ich brauchte vorher zu wissen, dass Ihre Geschichte kein Gerücht ist. Wenn bei Ihnen eine einzige Berührung ein Uhrwerk fünf Wochen lang hält, dann weiß ich, was ich am Stein gespürt habe. Wenn nicht, dann bin ich morgen wieder allein mit etwas, das keinen Namen hat."
 
 Er trat einen halben Schritt zurück. Nicht als Distanz — als Platz, um die Tür weiter öffnen zu können, ohne dass der Spalt zu einer Einladung wurde. Die Tür ging bis zur Hälfte auf. Er blieb auf der Schwelle.
 
