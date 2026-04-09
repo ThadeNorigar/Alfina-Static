@@ -50,6 +50,38 @@ DAS ist der Konflikt. Nicht ein versteckter Preis — die UNGERECHTIGKEIT selbst
 - Die psychologische Bremse: Sie SIEHT was es Moragh kostet. Und muss trotzdem. Die Zurückhaltung ist moralisch, nicht physisch.
 - In Moragh: kostet sie weiterhin NICHTS persönlich. Die Bremse bleibt moralisch.
 
+### Sorel / Licht
+
+**Grundprinzip:** Sichtbares Spektrum. Er nimmt Licht wahr, moduliert es, bündelt es, lenkt es, dunkelt ab. Was eine Kerze tut, tut er — nur stärker, präziser, gelenkt. Kein Röntgenblick. Kein Infrarot, kein UV. Kein Licht aus dem Nichts. In absoluter Dunkelheit ist er blind wie jeder andere. **Er weiß es nicht.** Er denkt, seine Kamera sei magisch.
+
+**Buch 1 — "Die Kamera sieht mehr als ich"**
+- Kellerwand in Nachtholm: zweihundertdreiundsechzig Glasplatten. Manche Gesichter zeigen Falten, ein Lächeln, einen Blick — Details, die er nie fotografiert hat. Alte Platten sind unberechenbar. Er war allein. Er hat es nicht hinterfragt.
+- Platte 7: sein eigenes Gesicht in einer Stadt, in der er nie war. Eine Falle. Ein Schemen mit Mimikry-Zauber trug sein Gesicht am Hafen, ein Moragh-Agent fotografierte es, die Platte landete Jahre später in einer Auktion. Der Köder funktioniert, weil Sorels eigene Resonanz die Platte verstärkt, je länger er sie im Rotlicht anschaut. Das Bild wird lebendiger, als es physikalisch sein dürfte.
+- Vael, Kap 10, Dunkelkammer: erste entwickelte Platten. Eine zeigt einen Schemen am Kai — die Linse hat nichts gesehen, aber Sorels Körper hat die Energie-Emission während der Belichtungszeit auf die Emulsion übertragen. Eine zweite zeigt eine fremde Frau mit Farnen. Er hat sie nicht fotografiert. Er hat sie Tage zuvor in einer Vaeler Zeitung gesehen, am Rand eines Bildes aus dem Botanischen Garten, Bildunterschrift "die neue Botanikerin aus Velde". Sein Blick blieb länger, als nötig war. Sein Körper hat das Bild getragen. Während der Belichtung am Kai hat seine Resonanz es projiziert. **Seine Magie zeigt, was er begehrt, bevor er weiß, dass er es begehrt.**
+- Nachts im Garten: er nimmt einen Schemen zwischen den Hortensien wahr. Er verstärkt das Mondlicht unbewusst — die Stelle wird hell wie Morgendämmerung. Er hält das für angepasste Augen. Als er fixiert, bündelt sich sein Licht wie ein Brennglas. Echter physischer Lichtdruck. Der Schemen wehrt sich mit Feuer.
+
+**Buch 2 — Yarros-Shift. Es kostet ihn NICHTS.**
+- Er bündelt Licht wie ein Brennglas und benutzt es als Werkzeug. Erhitzt Metall, entzündet Zunder, löst Eis.
+- Er saugt sichtbares Licht aus einem Raum heraus und kondensiert es in einer Faust. Er öffnet die Hand. Der Raum ist wieder hell. Nützlich bei Flucht.
+- Seine Augen leuchten, wenn er denkt. Alphina bemerkt es zuerst, in der Dunkelkammer — seine Pupillen werfen ein schwaches Licht auf ihre Haut.
+- Er braucht keine Kamera mehr. Mit dem Blick prägt er Bilder auf glatte Flächen — Glas, Wasser, poliertes Metall. Sie verblassen nach Stunden. Lang genug, um sie zu lesen.
+- Er erprobt, ob er durch die Augen eines anderen Menschen sehen kann. Er kann. Sekunden, bei direktem Augenkontakt. Er hört auf, weil es ihn verstört. Aber er weiß jetzt, dass er es kann.
+- Preis: null. Er wird nicht müde. Er wird präziser. Und unglücklicher über das, was er sieht.
+
+**Buch 3 — Volle Yarros. Licht als Waffe, Wahrheit, Gewalt.**
+- Er bündelt Sonnenlicht zu einem Punkt und verbrennt eine Dämonen-Haut auf Distanz. Keine Müdigkeit.
+- Er verdunkelt Kampfplätze. Gegner stehen blind in hellem Tag. Seine Seite sieht weiter, weil er selektiv arbeitet.
+- Er sieht durch die Augen von Gefangenen. Er erpresst damit. Das ist die Linie, die er überschreitet, und er weiß es.
+- Sein Tod in Moragh: nicht durch Erschöpfung — er zahlt keinen Preis. Er erkennt in einem Moragh-Ritual eine Wahrheit, die ein menschlicher Verstand nicht tragen kann, und der Anblick tötet ihn. Die Resonanz war nicht das Problem. Das Gesehene war es. Er ist der einzige der Vier, der an der eigenen Magie stirbt — nicht an ihrer Wirkung, sondern an ihrer Reichweite.
+
+**Was Sorel NICHT kann (harte Grenzen)**
+- Kein Röntgenblick. Feste Materie blockt. Keine Kisten, keine Wände, kein Stoff.
+- Kein unsichtbares Licht. Nur sichtbares Spektrum. Kein Infrarot, kein UV.
+- Kein Licht aus dem Nichts. Er moduliert vorhandenes Licht, er erschafft keines. In absoluter Dunkelheit blind wie jeder andere.
+- Er weiß es nicht. Alle Effekte erklärt er sich als "seltsame Kamera", "gutes Nachtsehen", "glücklicher Zufall".
+
+**Die Kamera ist Verstärker, nicht Quelle.** Silberhalogenid-Emulsion reagiert besonders empfindlich auf Sorels Resonanz — empfindlicher als auf gewöhnliches Licht. Während der Belichtung wirkt sein Licht-Körper zusätzlich zur Linse. Was er an Mustern wahrnimmt, auch unbewusst, auch aus Erinnerung, prägt sich auf die Platte. Die Platte ist nicht magisch. Er ist es.
+
 ### Vesper / Muster-Zeit
 
 **Buch 1 — "Ich sehe Dinge die nicht da sind"**
