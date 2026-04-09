@@ -202,9 +202,10 @@
       "12": {
         "titel": "Alphina + Sorel: Erste Begegnung",
         "pov": "Alphina + Sorel",
-        "status": "idee",
+        "status": "entwurf",
+        "entwurfs_datei": "B1-K12-entwurf.md",
         "woerter": null,
-        "text": "15. Mai 551, Maiabend. Alphina und Sorel begegnen einander im Botanischen Garten. Ende Akt I. Status zurueckgesetzt nach Pipeline-Umbau 2026-04-09 - Vorarbeit aus der alten Session liegt in buch/kapitel/B1-K12-handoff.md als Leitplanken fuer die frische /entwurf B1-K12 Session (Sonnet)."
+        "text": "15. Mai 551, Maiabend. Alphina und Sorel begegnen einander im Botanischen Garten. Ende Akt I."
       },
       "13": {
         "titel": "Sorel: Die Vael-Platten",
