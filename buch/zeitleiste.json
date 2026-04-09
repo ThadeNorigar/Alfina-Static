@@ -1449,7 +1449,7 @@
             "tz_tag": 162,
             "datum_text": "11. Juni",
             "ort": "Tidemoor-Haus, abends Gasthaus",
-            "detail": "Vesper misst die Tidemoor-Standuhr aus Gewohnheit — sie laeuft rein, wie seit seinem zweiten Besuch am 7. Mai, null Drift gegen seine Taschenuhr, Gehaeuse von innen warm. Die Uhr schweigt ueber die Frequenz, die sie einmal geschrien hat. Auf dem Reparaturtisch: Vespers Tabelle der sechzehn anderen Vael-Uhren, die er seit Kap 11 weitermisst. Die Driftwerte wachsen gleichmaessig, alle Ringe expandieren im selben Verhaeltnis. Er rechnet die Zuwachsraten zum ersten Mal hoch und findet die Grundfrequenz des Systems: vier Minuten dreiunddreissig pro Tag, nicht als Messwert einer einzelnen Uhr, sondern als Atem des Gesamtmusters, das alle sechzehn gleichzeitig zieht. Er unterstreicht die Zahl nicht. Er weiss noch nicht, was er damit machen soll. Abends Halvard im Gasthaus: kauterisierte Kratzer bei einem Kind, Verbrennungen ohne Hitzequelle, Knochenbrueche ohne Sturz. Vespers Notizbuch fuellt sich mit Mustern. Keine Esther, kein Manuskript (die Esther-Szene ist aus einem frueheren Entwurf und wird separat behandelt).",
+            "detail": "Vesper im Tidemoor-Haus. Die Standuhr laeuft rein wie seit Mai, fuer ihn abgeschlossener Fall. Auf dem Reparaturtisch: Vespers Tabelle der sechzehn anderen Vael-Uhren, die er seit Kap 11 weitermisst. Die Driftwerte wachsen gleichmaessig, alle Ringe expandieren im selben Verhaeltnis. Er rechnet die Zuwachsraten zum ersten Mal hoch und findet die Grundfrequenz des Systems: vier Minuten dreiunddreissig pro Tag, nicht als Messwert einer einzelnen Uhr, sondern als Atem des Gesamtmusters, das alle sechzehn gleichzeitig zieht. Er unterstreicht die Zahl nicht. Er weiss noch nicht, was er damit machen soll. Abends Halvard im Gasthaus: kauterisierte Kratzer bei einem Kind, Verbrennungen ohne Hitzequelle, Knochenbrueche ohne Sturz. Vespers Notizbuch fuellt sich mit Mustern. Keine Esther, kein Manuskript (die Esther-Szene ist aus einem frueheren Entwurf und wird separat behandelt).",
             "tags": [
               "Tschechow: 4:33-Muster",
               "Halvards unmoegliche Verletzungen"
@@ -1671,11 +1671,11 @@
               "erkenntnis",
               "schlüssel"
             ],
-            "titel": "Vesper: Grundfrequenz + Gezeiten = Varens Atem, und der eigene Fehler",
+            "titel": "Vesper: Grundfrequenz + Gezeiten = Varens Atem",
             "pov": "Kap 32 · Vesper",
             "tz_tag": 244,
             "datum_text": "1. September",
-            "detail": "Vesper legt seine Drifttabelle der sechzehn Vael-Uhren neben Marens Gezeiten. Die Grundfrequenz, die er aus den wachsenden Driftwerten hochgerechnet hat (vier Minuten dreiunddreissig pro Tag, siehe Kap 18), passt exakt in den Rhythmus der rueckwaerts fliessenden Grauwe. Plus Runas Flugblatt-Chronologie und Halvards Verletzungsprotokolle: die Schemen-Sichtungen folgen demselben Takt. Jemand auf der anderen Seite atmet, die Schemen kommen mit jedem Ausatmen. 4:33 ist nicht die Frequenz des Risses, sondern die Frequenz von etwas DAHINTER. Zweite Erkenntnis: er hatte die eine Uhr, die den Takt am klarsten gezeigt haette — die Tidemoor-Uhr —, im Mai mit der eigenen Hand zum Schweigen gebracht. Er hat sich seine deutlichste Datenquelle selbst genommen. Er haette fuenf Monate frueher wissen koennen, was er erst jetzt weiss.",
+            "detail": "Vesper legt seine Drifttabelle der sechzehn Vael-Uhren neben Marens Gezeiten. Die Grundfrequenz, die er aus den wachsenden Driftwerten hochgerechnet hat (vier Minuten dreiunddreissig pro Tag, siehe Kap 18), passt exakt in den Rhythmus der rueckwaerts fliessenden Grauwe. Plus Runas Flugblatt-Chronologie und Halvards Verletzungsprotokolle: die Schemen-Sichtungen folgen demselben Takt. Jemand auf der anderen Seite atmet, die Schemen kommen mit jedem Ausatmen. 4:33 ist nicht die Frequenz des Risses, sondern die Frequenz von etwas DAHINTER.",
             "tags": [
               "Erkenntnis: Jemand lebt auf der anderen Seite",
               "Tschechow: 4:33 = Varen"
