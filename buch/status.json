@@ -61,30 +61,31 @@
           "24",
           "25",
           "26",
-          "I6",
           "27",
+          "I6",
           "28",
           "29",
           "30",
-          "I7",
           "31",
-          "32"
+          "I7",
+          "32",
+          "33"
         ]
       },
       {
         "name": "Akt IV",
         "titel": "Das Portal",
         "kapitel": [
-          "33",
           "34",
           "35",
           "36",
-          "I8",
           "37",
+          "I8",
           "38",
-          "I9",
           "39",
-          "40"
+          "I9",
+          "40",
+          "41"
         ]
       }
     ],
@@ -189,8 +190,8 @@
       "11": {
         "titel": "Vesper: Das Netz",
         "pov": "Vesper",
-        "status": "checked",
-        "woerter": 6306,
+        "status": "entwurf",
+        "woerter": 6710,
         "text": "14. Mai 551. Vesper erkennt: die siebzehn abweichenden Uhren in Vael bilden vier konzentrische Ringe um einen Mittelpunkt in der Oberstadt, hinter dem Handelshaus. Je näher am Zentrum, desto stärker die Abweichung. Die Tidemoor-Uhr ist ein Sonderfall — und Vesper erinnert sich: sie läuft seit seiner ersten Berührung vor sechs Wochen permanent rein. In der Druckerei holt er Velin für engere Karten, Runa legt ihm ihr Flugblatt dazu; vier Anomalien bestätigen seine Ringe. Abends im Zimmer klopft Alphina. Dialog im Türrahmen — sie kennt Tidemoors 4:33 von Runa, er zeigt ihr die Karte, sie erkennt sofort: der Mittelpunkt ist der Steinkreis im Botanischen Garten. Verabredung für morgen Vormittag. Nach ihrem Abgang läuft Kvarns Taschenuhr plötzlich rein, ohne sein Zutun — wie damals Tidemoor. Vesper schreibt: Ich bin der achtzehnte Punkt. Zwei Türen weiter, die neunzehnte.",
         "datei": "11-vesper.md"
       },
@@ -209,18 +210,18 @@
         "text": "Sorel entwickelt Platten: Farne die es im Garten nicht geben sollte, Alphina unscharf am Rand. Die Kamera fängt ein, was er nicht fotografiert hat. Nachts Geräusche im Keller — ein Schatten der sich bewegt und wartet. Leuchtende Augen, dann nichts."
       },
       "14": {
-        "titel": "Vesper + Maren: Das Uhrengeschäft",
-        "pov": "Vesper",
+        "titel": "Maren: Das Uhrengeschäft — Hände die warten könnten",
+        "pov": "Maren",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Maren braucht eine Schiffsuhr für das Boot. Vesper öffnet die Uhr, seine Hände. Physische Chemie, sofort. Draußen fließt die Grauwe rückwärts. Beide sehen es. Keiner sagt etwas."
+        "text": "Maren bringt die Schiffsuhr zur Reparatur. Aus ihrer Perspektive: ihr Blick geht zuerst auf Vespers Hände — die Präzision, die Stille in seinen Fingergelenken, Hände die wissen wann sie warten. Der ungebetene Gedanke ›Hände die warten könnten‹ kommt und geht und kommt zurück. Draußen die Grauwe rückwärts. Beide sehen es. Keiner sagt etwas. Die Dom/Sub-Saat wird hier gelegt — aus ihrem Inneren, nicht aus einem Dialog."
       },
       "15": {
-        "titel": "Alphina: Der Steg",
+        "titel": "Alphina: Der Garten bei Tag und der Steg",
         "pov": "Alphina",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Tag fünf ohne Sonnenlicht. Alphina beobachtet Sorel am Steg, fotografierend. Sein Rücken, seine Hände am Apparat. Er dreht sich um, sieht sie direkt an. Kein Wort. Sie geht. Die Farne am Hafen drehen sich nach ihr."
+        "text": "Sommer-Vormittag im Botanischen Garten. Henrik, der Gärtner. Schemen jetzt auch tagsüber. Runa mit ihrem Notizbuch und ihren Pattern-Erkenntnissen. Nachmittag am Hafen: Alphina beobachtet Sorel am Steg, fotografierend. Er dreht sich um, sieht sie direkt an. Kein Wort. Sie geht. Die Farne am Hafen drehen sich nach ihr. Auf dem Rückweg nachts: eine humanoide Gestalt in einer Gasse, schwarze Augen, neigt den Kopf."
       },
       "I3": {
         "titel": "Varen: Die Falle",
@@ -244,11 +245,11 @@
         "text": "Garten, Nachmittag. Alphina, Sorel, Vesper, Maren — keiner versteht warum er hier ist. Aber die Pflanzen stehen still, zum ersten Mal seit Tagen. Das Pochen unter der Erde, einmal, laut. Vesper und Maren gehen denselben Weg zurück; Schultern berühren sich."
       },
       "18": {
-        "titel": "Vesper: Das Manuskript",
+        "titel": "Vesper: Die Standuhr und Halvard",
         "pov": "Vesper",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Esther Voss bringt ein Manuskript ins Tidemoor-Haus. Vierhundert Jahre alt, beschädigt — teilweise echt, teilweise von Varen überschrieben. Vier Fremde, ein Portal, eine Schwelle. Daemon-Fingerabdrücke im Kohlestaub. Doktor Halvard behandelt seit Wochen unmögliche Verletzungen."
+        "text": "Vesper allein im Tidemoor-Haus — dritter Messdurchgang an der Standuhr. Sauber, präzise, und trotzdem 4:33 Verlust pro Tag. Das Holz des Gehäuses ist von innen warm. Sein Körper gibt einen Moment nach. Abends im Gasthaus mit Doktor Halvard: kauterisierte Kratzer bei einem Kind, Verbrennungen ohne Hitzequelle, Knochenbrüche ohne Sturz. Die Standuhr im Gasthaus: verliert auch 4:33. Vespers Notizbuch füllt sich mit Mustern. Kein Esther, kein Manuskript — das kommt erst in Kap 19 durch Maren."
       },
       "I4": {
         "titel": "Varen: Die Schemen berichten",
@@ -258,18 +259,18 @@
         "text": "Varen empfängt seine Schemen. Vier Resonanzen, alle in Vael, alle stärker als erwartet. Die Pflanzen-Frau am stärksten. „Die Vierte ist die Richtige.“ Er prüft seine Karten, die toten Quellen. Bereitet sich vor."
       },
       "19": {
-        "titel": "Alphina + Sorel: Das Manuskript",
-        "pov": "Alphina",
+        "titel": "Maren + Vesper: Harons Papiere und das Archiv",
+        "pov": "Maren",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Alphina und Vesper studieren das Manuskript, nachts bei Kerzenlicht. Seine Hand auf ihrer — Stromschlag ohne Strom. Sie zieht zurück. Morgens denkt sie an Vesper und an Sorel. Bei Vesper kann sie. Bei Sorel kann sie nicht. Genau das ist der Punkt."
+        "text": "Maren findet in Harons nachgelassener Werkstatt einen Karton mit Papieren — Skizzen, Symbole, eine Zeichnung eines acht-Stein-Kreises, Jahreszahl TZ 549. Sie bringt sie zu Vesper im Tidemoor-Haus. Köpfe nahe über dem Tisch, seine Finger über die Zeichen. Marens Gedanken von Kap 14 kommen zurück, schärfer. Vesper: ›Das gehört ins Stadtarchiv.‹ Sie gehen zusammen. Esther Voss empfängt sie, blättert, erkennt eine Handschrift, holt das 400-jährige Manuskript. Im Hintergrund sortiert Jara — still, beobachtend. Als Esther abgelenkt ist, schiebt Jara Vesper wortlos einen zweiten Folianten zu. Maren sieht es. Vesper darf das Manuskript ausleihen. Auf dem Rückweg: ein Blick zwischen ihnen, der beide wissen lässt, dass der Abend noch nicht vorbei ist."
       },
       "20": {
         "titel": "Vesper + Maren: Die Werft",
         "pov": "Vesper",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Vesper bringt die reparierte Schiffsuhr. Sägemehl in Marens Haar. Tee auf Holzkisten. Sie reden über Hände und Arbeit, nicht über den Riss. Ihre Arme berühren sich, keiner zieht zurück. Das Boot wächst weiter — nachts, von unsichtbaren Händen."
+        "text": "Drei Tage nach dem Archiv. Vesper bringt die reparierte Schiffsuhr. Sägemehl in Marens Haar. Tee auf Holzkisten. Erster ehrlicher Austausch über das Unmögliche — Standuhr, Boot, Kratzspuren. Ihre Arme berühren sich, keiner zieht zurück. Auf dem Rückweg denkt Vesper zum ersten Mal an Maren, nicht an das Muster."
       },
       "21": {
         "titel": "Alphina + Sorel: Die Dunkelkammer",
@@ -279,11 +280,11 @@
         "text": "Rotlicht, Chemie-Geruch, Enge. Sorel zeigt ihr die Platten — die Farne, ihr Bild, sein Gesicht. Er hält ihre Handgelenke. Sie gibt nach. Kontrollverlust. Farne brechen durch die Kellerwände, durch Putz und Dielen."
       },
       "22": {
-        "titel": "Vesper + Maren: Erste Nacht",
+        "titel": "Maren: Die erste Nacht — Dom/Sub-Session",
         "pov": "Maren",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Maren kommt nachts ins Tidemoor-Haus. Kein Vorwand. Die Tür ist offen. Was folgt ist rohe Chemie, Körper die sich finden. Danach: er schläft, sie liegt wach. Morgens geht sie — weil Maren immer geht."
+        "text": "Maren kommt nachts ins Tidemoor-Haus. Kein Vorwand. Sie hat den Seitentür-Schlüssel aus Kap 7 noch, warm in der Tasche. Vesper steht am Fenster und dreht sich um, als hätte er sie kommen hören. Was folgt ist kein Spektakel — Vorsicht, Erlaubnis, Präzision. Seine Hände an ihren Handgelenken, die wartenden Hände aus Kap 14. Ihr Fluchtinstinkt schlägt einmal an und wird nicht bedient. Erste Dom/Sub-Session, langsam, ehrlich. Danach: sie bleibt. Zum ersten Mal. Die Standuhr unten verliert heute nicht 4:33. Er weiß es, sagt es nicht. Im Morgengrauen küsst sie ihn auf die Stirn und geht. Die Grauwe draußen fließt wieder normal."
       },
       "I5": {
         "titel": "Die Feuer-Schemen, 1423",
@@ -293,32 +294,39 @@
         "text": "Varen schickt drei Feuer-Schemen durch das Portal — doppelt so groß wie Menschen. In Vael als Feuerdämonen verstanden. Die Vaeler greifen an, die Schemen wehren sich. Teile der Stadt brennen. Elke drückt sie zurück. Blut aus der Nase — der Preis beginnt."
       },
       "23": {
+        "titel": "Sorel: Nach der Dunkelkammer — Brücken-Kap",
+        "pov": "Sorel",
+        "status": "szenenplan",
+        "woerter": null,
+        "text": "Sorel allein nach der Nacht mit Alphina aus Kap 21. Das Lichthaus, Rotlicht, die Platten. Er entwickelt die Aufnahmen der letzten Tage — jetzt mit seinem Wissen: auf jeder Platte mit Alphina steht ein Schem hinter ihr. Er ahnt, dass sie ihn überfordert — nicht durch ihre Kraft, sondern durch ihr Nicht-Aufhören-Können. Die eskalierende Stadt draußen: Gaslampen flackern, der Nebel bleibt, ein Schem unter der Hafenlaterne steht länger als vorher. Sorels Vorbereitung auf den Bruch, der in Kap 24 kommt. Brücke von der intimen Dunkelkammer zur Grenzverletzung."
+      },
+      "24": {
         "titel": "Alphina: Das Archiv",
         "pov": "Alphina",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Die Vier im Archiv. Das Manuskript: vier Fremde, eine Schwelle, ein Portal unter der Stadt. Ein Moragh-Sprachbuch, ebenfalls von Schemen platziert. Im Keller riecht die Luft süß und dicht — nach Moragh. Jara hat Randnotizen gefunden, andere Handschrift. Niemand hört ihr zu."
+        "text": "Die Vier im Archiv. Jara hat die Randnotizen entdeckt, andere Handschrift, andere Tinte. Das Moragh-Sprachbuch. Die Steinkreis-Zeichnung. Vesper streicht Kohlestaub: Fingerabdrücke mit zu vielen Gelenken. Dieselben Finger wie die Kratzspuren am Poller, am Kellerfenster, am Arm des Kindes das Halvard behandelt hat. Niemand hat den Schem gesehen. Aber seine Hände waren auf diesem Papier."
       },
-      "24": {
+      "25": {
         "titel": "Sorel: Die Grenzverletzung",
         "pov": "Sorel",
         "status": "szenenplan",
         "woerter": null,
         "text": "Alphina findet die drei Steg-Platten: sie, ohne ihr Wissen. „Du hast mich genommen ohne zu fragen.“ Sorel schweigt, weil Schweigen alles ist was er kann wenn jemand Recht hat. Sie geht."
       },
-      "25": {
+      "26": {
         "titel": "Alphina: Der Bruch",
         "pov": "Alphina",
         "status": "szenenplan",
         "woerter": null,
         "text": "Alphina durchsucht Sorels Sachen im Lichthaus. Findet die Platte mit seinem Gesicht, dreizehn Jahre alt. Sorel kommt zurück, sieht sie mit der Platte. Nicht wütend — enttäuscht. „Du kannst nicht aufhören.“ Tür zu."
       },
-      "26": {
-        "titel": "Vesper + Maren: Sie bleibt",
+      "27": {
+        "titel": "Vesper + Maren: Vertiefung",
         "pov": "Vesper",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Maren kommt wieder ins Tidemoor-Haus. Vesper hält ihre Handgelenke, fragt mit den Händen. Maren gibt nach — nicht aus Schwäche, aus Mut. Danach steht sie nicht auf. Zum ersten Mal. Die Grauwe draußen steht still."
+        "text": "Maren kommt wieder ins Tidemoor-Haus. Was zwischen ihnen in Kap 22 begonnen hat, vertieft sich. Präzision und Hingabe, ehrlicher, bewusster. Keine Wiederholung — eine Weiterführung. Danach: Gespräch im Bett, seine Hand auf ihrer Hüfte, die Grauwe draußen fließt normal. Sie reden über Haron, über das Sprachbuch, über die Frage die beide vermeiden."
       },
       "I6": {
         "titel": "Varen: Geduld",
@@ -327,28 +335,28 @@
         "woerter": null,
         "text": "Varen wartet. Die Resonanzen konvergieren. Seine Schemen haben das Manuskript platziert, das Sprachbuch hinterlegt. Alles liegt bereit. „Die Pflanzen-Frau wird als Erste begreifen. Die anderen werden folgen.“"
       },
-      "27": {
+      "28": {
         "titel": "Maren: Die Tunnel",
         "pov": "Maren",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Maren folgt dem Pochen unter der Werft. Lose Bodenbretter, schwarzer Basalt darunter. Tunnel, wärmer als möglich. Sie folgt dem Wasser das rückwärts fließt. Am Ende: der Bogen. Zwei Pfeiler. Der Riss, geschlossen, pulsierend. Ihre Hand darauf — der Riss weint."
+        "text": "Maren folgt dem Pochen unter der Werft. Lose Bodenbretter, schwarzer Basalt darunter. Tunnel, wärmer als möglich. Sie folgt dem Wasser das rückwärts fließt. Am Ende: der Bogen. Zwei Pfeiler. Der Riss, geschlossen, pulsierend. Ihre Hand darauf — der Riss weint. PLUS: Sie findet in einem Seitengang eine Kiste mit weiteren Haron-Papieren, und darin eine Phrase in Moragh-Sprache (lesbar durch Jaras Sprachbuch). Erschütterung: Haron hat sie belogen."
       },
-      "28": {
+      "29": {
         "titel": "Alphina: Die Tunnel",
         "pov": "Alphina",
         "status": "szenenplan",
         "woerter": null,
         "text": "Sorel ist seit drei Tagen weg. Alphina geht in die Tunnel, allein, Farne als Kompass. Findet ihn am Riss. „Du bist nicht hier weil du mich liebst. Du bist hier weil du nicht ertragen kannst, dass jemand dir den Rücken zukehrt.“ Versöhnung, schmerzhafter als der Streit."
       },
-      "29": {
+      "30": {
         "titel": "Vesper + Maren: Die Uhren stehen",
         "pov": "Vesper",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Alle Uhren in Vael stehen gleichzeitig. Stille die weh tut. Maren kommt zu Vesper. „Bleibst du?“ Sie bleibt. Die Uhren beginnen wieder zu laufen — im Takt ihres Atems."
+        "text": "Alle Uhren in Vael stehen gleichzeitig. Stille die weh tut. Maren kommt zu Vesper, diesmal mit den neuen Haron-Papieren. Sie sagt was sie gefunden hat. Vesper hält sie, ohne Fragen. Die Uhren beginnen wieder zu laufen — im Takt ihres Atems."
       },
-      "30": {
+      "31": {
         "titel": "Alphina + Runa: Die Stadt bricht",
         "pov": "Alphina",
         "status": "szenenplan",
@@ -362,42 +370,42 @@
         "woerter": null,
         "text": "Drei Feuer-Schemen wüten in der Stadt. Die Vier kämpfen sich zum Steinkreis. Kaspar stirbt, Keldan stirbt. Elke öffnet das Portal und geht durch. Auf der Moragh-Seite trifft sie Varen — er kappt die Bindung der Schemen. In Vael lösen sie sich im Rauch auf. Lene überlebt allein."
       },
-      "31": {
+      "32": {
         "titel": "Vesper: Die Erkenntnis",
         "pov": "Vesper",
         "status": "szenenplan",
         "woerter": null,
         "text": "Nachts, Kerzen und Papier. Vesper legt Marens Gezeitendaten neben seine 4:33. Das Muster: die Uhr verliert im exakt selben Rhythmus wie die Gezeiten falsch laufen. Die Frequenz von etwas hinter dem Riss. Er rennt zur Werft. „Deine Gezeiten. Meine Uhr. Dasselbe Muster.“"
       },
-      "32": {
+      "33": {
         "titel": "Alle vier: Die Nacht vor der Schwelle",
         "pov": "Alle",
         "status": "szenenplan",
         "woerter": null,
         "text": "Letzte Nacht in Vael. Alphina bittet die Pflanzen still zu sein. Sorel belichtet eine letzte Platte. Vesper stellt die Standuhr auf Null. Maren am Boot: „Warte auf mich.“ Um 4:33 nach Mitternacht gehen sie nach unten."
       },
-      "33": {
+      "34": {
         "titel": "Alphina: Letzte Blüte",
         "pov": "Alphina",
         "status": "szenenplan",
         "woerter": null,
         "text": "Vier Menschen in der Dunkelheit, Alphinas Farne leuchten grünlich. Der Riss pulsiert. Sorel hält ihre Hand, zum ersten Mal ungebeten. „Darf ich?“ Kontrolle fällt. Farne durch Basalt. Sie küsst ihn. Die ganze Höhle blüht. Hinter ihnen: Schritte. Runa folgt, unbemerkt."
       },
-      "34": {
+      "35": {
         "titel": "Sorel: Durchgang",
         "pov": "Sorel",
         "status": "szenenplan",
         "woerter": null,
         "text": "Sorel geht als Erster. Moragh: zwei Monde, Akkretionsscheibe-Sonne, sattere Farben. Runa stolpert im letzten Moment durch. Das Portal schließt sich. Nicht von ihnen — von Varen."
       },
-      "35": {
+      "36": {
         "titel": "Alphina: Varen",
         "pov": "Alphina",
         "status": "szenenplan",
         "woerter": null,
         "text": "Varen tritt aus dem Schatten. Groß, muskulös, graue Schläfen, purpurne Augen. Spricht 1423er Thalassisch. Kennt ihre Namen. Legt die Hand an Alphinas Kinn. „Deine Resonanz. Ich habe sie durch den Riss gespürt. Über vierhundert Jahre.“ 4:33 war nie die Frequenz des Risses — sondern Varens Signatur."
       },
-      "36": {
+      "37": {
         "titel": "Alphina: Sorels Tod",
         "pov": "Alphina",
         "status": "szenenplan",
@@ -411,14 +419,14 @@
         "woerter": null,
         "text": "Zwei Stimmen verschränkt. Lene in Vael, schreibt das Manuskript — sachlich, nüchtern, nur einmal bricht die Stimme. Elke in Moragh, letzter Skizzenbuch-Eintrag: Der Stein gibt nach. Die Hand reicht. „Lene — schreib auf was passiert ist.“"
       },
-      "37": {
+      "38": {
         "titel": "Vesper: Die fremde Welt",
         "pov": "Vesper",
         "status": "szenenplan",
         "woerter": null,
         "text": "Fünf Menschen, vier lebend, verletzt von Alphinas Ausbruch. Moragh: zwei Monde, Akkretionsscheibe, sattere Farben, andere Luft. Können die Sprache nicht sprechen. Stolpern aus dem Tunnel."
       },
-      "38": {
+      "39": {
         "titel": "Maren: Die Stadt",
         "pov": "Maren",
         "status": "szenenplan",
@@ -432,14 +440,14 @@
         "woerter": null,
         "text": "Elke, Stunden vorher. Fünf Resonanzen drücken durch den Stein. „Fünf? Das ergibt keinen Sinn.“ Sie wusste nicht, dass jemand kommen würde. Auf dem Weg: Thar-Späher. Metall-Geruch. Sie wissen es auch."
       },
-      "39": {
+      "40": {
         "titel": "Alphina: Elke",
         "pov": "Alphina",
         "status": "szenenplan",
         "woerter": null,
         "text": "Ein Garten. Pflanzen aus beiden Welten. Eine Frau mit erdigen Händen. 1423er Thalassisch, nach Monaten zum ersten Mal laut: „Woher—“ Alphina fällt auf die Knie. Sorel ist tot. Die Welt ist fremd. Und jemand spricht ihre Sprache."
       },
-      "40": {
+      "41": {
         "titel": "Epilog: Vael",
         "pov": "Nebencharaktere",
         "status": "szenenplan",
