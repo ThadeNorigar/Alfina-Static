@@ -126,7 +126,7 @@ Er schläft ein.
 
 ## Szene 3 — Abend vor dem Lichthaus
 
-**Ort:** Straße vor dem Lichthaus / Richtung Botanischer Garten
+**Ort:** Gasse in der Unterstadt, zwischen Lichthaus und Werft
 **Wortziel Ausarbeitung:** 1.200–1.400 W
 
 **Fließprosa-Exposé:**
@@ -135,13 +135,13 @@ Sorel wacht auf, weil der Körper aufwacht. Keine Erklärung — das Rotlicht is
 
 Er geht raus.
 
-Er braucht kein Ziel — nur Luft. Die Gasse neben dem Lichthaus führt zur Hafenpromenade, von dort aus sieht man das Wasser. Er geht. Der Mai-Abend ist warm, die Gaslampen noch nicht gezündet, die Luft riecht nach Salzwasser und Fischschuppen. Er hat sechs Stunden in einem Raum ohne Fenster verbracht. Das merkst du am Schritt.
+Er braucht kein Ziel — nur Luft. Die Gasse neben dem Lichthaus führt Richtung Werft, von dort kommt der Wind vom Wasser. Er geht. Der Mai-Abend ist warm, die Gaslampen noch nicht gezündet, die Luft riecht nach Salzwasser und Teer. Er hat sechs Stunden in einem Raum ohne Fenster verbracht. Das merkst du am Schritt.
 
 Er sieht sie, bevor sie ihn sieht.
 
-Alphina kommt von der anderen Seite der Promenade, den Weg entlang der Gartenmauer. Sie hat eine Tasche über der Schulter, den Schritt der jemanden hat der weiß wo er hingeht. Sorel bleibt nicht stehen — er kann nicht, ohne es zu einer Geste zu machen. Er geht weiter. Fünf Schritte, dann sieht sie ihn.
+Alphina kommt die Gasse herunter — von der Oberstadt, den Abstieg hinter sich, die Tasche über der Schulter, den Schritt der jemanden hat der weiß wo er hingeht. Sorel bleibt nicht stehen — er kann nicht, ohne es zu einer Geste zu machen. Er geht weiter. Fünf Schritte, dann sieht sie ihn.
 
-Kurzes Stehen. Dann kommen sie aufeinander zu, wie es sich gehört, weil sie sich kennen, weil die Promenade schmal ist, weil es seltsamer wäre, nicht anzuhalten.
+Kurzes Stehen. Dann kommen sie aufeinander zu, wie es sich gehört, weil sie sich kennen, weil die Gasse schmal ist, weil es seltsamer wäre, nicht anzuhalten.
 
 Sie schaut ihn an. "Sie sehen aus wie jemand, der zu lange unter der Erde war."
 
@@ -157,11 +157,11 @@ Sie hat die Tasche ein Stück verschoben, das Leder quietscht kurz. Er sieht ihr
 
 "Haben Sie die Aufnahmen entwickelt?" fragt sie. Von der letzten Nacht, meint sie. Er sagt ja. Sie fragt, ob sie scharf geworden sind, der Ton ist neutral aber nicht gleichgültig. Er sagt: die Hände sind scharf geworden. Sie nickt, als wäre das keine Überraschung, und er kann nicht sagen ob es das für sie ist.
 
-Kurzes Schweigen. Die ersten Gaslampen werden gezündet, weiter unten an der Promenade.
+Kurzes Schweigen. Die ersten Gaslampen werden gezündet, weiter unten Richtung Werft.
 
-Sie geht. Sie sagt, sie muss weiter, die Uhrzeit. Er sagt gut. Sie sagt noch etwas — ein halber Satz, über die Steine, sie prüft die Messreihe nochmals, nichts Besonderes. Dann ist sie weg, den Weg zurück zur Gartenmauer.
+Sie geht. Sie sagt, sie muss weiter, die Uhrzeit. Er sagt gut. Sie sagt noch etwas — ein halber Satz, über die Steine, sie prüft die Messreihe nochmals, nichts Besonderes. Dann ist sie weg, die Gasse hoch, zurück in die Oberstadt.
 
-Sorel steht auf der Promenade. Das Wasser ist grau. Er schaut ihr nicht nach — das wäre eine Geste, und er macht keine Gesten. Er geht zurück.
+Sorel steht in der Gasse. Das Wasser riecht man, sieht es nicht von hier. Er schaut ihr nicht nach — das wäre eine Geste, und er macht keine Gesten. Er geht zurück.
 
 Im Keller riecht es immer noch nach Fixierbad. Die sechs Alphina-Platten hängen links. Er schaut sie nicht an. Er setzt sich auf den Hocker und schaut die Decke an, bis es dunkel wird.
 
