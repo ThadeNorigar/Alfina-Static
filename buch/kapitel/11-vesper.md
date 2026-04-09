@@ -266,7 +266,7 @@ Vesper hörte den Satz und hörte vor allem, was er nicht enthielt. Kein *ich gl
 
 Er brauchte einen Atemzug, um zu antworten. Nicht, weil er die Antwort nicht kannte, sondern weil er in fünf Wochen kein einziges Mal von jemandem nach dieser Antwort gefragt worden war.
 
-"Die Uhr heißt Tidemoor-Uhr. Sie verliert seit Generationen vier Minuten und dreiunddreißig Sekunden pro Tag. Drei Uhrmacher vor mir haben das Gehäuse geöffnet und keinen Fehler gefunden. Ich habe vor fünf Wochen die Hand auf das Gehäuse gelegt, weil mir nichts anderes eingefallen ist. Unter meiner Hand lief sie rein. Hand weg, sie ging wieder falsch. So weit habe ich es verstanden. So weit hat die Magd es gesehen, und so weit hat sie es Runa erzählt."
+"Die Uhr heißt Tidemoor-Uhr. Sie verliert seit Generationen vier Minuten und dreiunddreißig Sekunden pro Tag. Drei Uhrmacher vor mir haben das Gehäuse geöffnet und keinen Fehler gefunden. Ich habe vor fünf Wochen die Hand auf das Gehäuse gelegt, weil mir nichts anderes eingefallen ist. Unter meiner Hand lief sie rein. Hand weg, sie ging wieder falsch. So weit habe ich es verstanden. So weit hat die Magd es gesehen, und so weit hat sie es Frau Kvist erzählt."
 
 Er ließ einen Atemzug zwischen den Sätzen, weil der nächste Teil ihm selbst heute erst ganz klar geworden war.
 
