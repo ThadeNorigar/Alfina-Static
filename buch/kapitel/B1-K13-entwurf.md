@@ -18,7 +18,7 @@
 
 **Fließprosa-Exposé:**
 
-Drei Tage nach dem Abend im Garten. Sorel hat nicht entwickelt — er hat die Kassetten auf dem Regal stehen lassen wie Fragen, auf die er keine Antwort wollte. Jetzt zwingt er sich. Protokoll: alle Platten, systematisch, eine nach der anderen, Datum und Standort auf einem Streifen Papier daneben.
+Drei Tage nach dem Abend im Garten. Sorel hat nicht entwickelt — er hat die Kassetten auf dem Regal stehen lassen wie Fragen, auf die er keine Antwort wollte. Besonders die letzten beiden. Jetzt zwingt er sich. Protokoll: alle Platten, systematisch, eine nach der anderen, Datum und Standort auf einem Streifen Papier daneben.
 
 Er beginnt mit den Kai-Aufnahmen aus den ersten Wochen — Platte 1 bis 8, Hafen, Steg, das Lichthaus von unten. Routine. Nichts Besonderes. Er hängt sie auf die Schnur. Geht weiter.
 
@@ -32,7 +32,7 @@ Platte 12: Gassen, Abend. Eine Gestalt in einer Hausnische — er hat sie beim E
 
 Platte 13: Steg, Morgen. Leer.
 
-Platte 14: Kai, Nacht. Das ist die Frau-mit-Farnen-Platte. Er kennt jede Belichtungszone davon. Er hängt sie auf ohne länger hinzusehen.
+Platte 14: Kai, Nacht. Das ist die Frau-mit-Farnen-Platte. Er kennt jede Belichtungszone davon — er hat diese Platte öfter angesehen als jede andere, in den Wochen bevor er wusste wer sie ist. Die Art wie sie steht. Die Neigung der Schultern. Er hat ihren Körper im Dunkeln gelernt, auf Glas, ohne ihren Namen zu kennen. Er hängt sie auf und schaut weg, einen Tick zu schnell.
 
 Platte 15: Botanischer Garten, Südmauer, Morgen danach. Farne, klar, scharf, keine Person.
 
@@ -50,25 +50,27 @@ Die neuen Platten aus den letzten Tagen: Kai-Aufnahmen, Steg, der Garten von au�
 
 Auf den Alphina-Platten (14, 19, und zwei weitere die er in den letzten Tagen belichtet hat, als er den Garten von der Mauer aus fotografierte ohne einzusteigen) — auf allen vieren steht hinter ihr etwas. Auf Platte 14: eine Gestalt rechts hinter den Farnen, verschwommen, dunkel. Er hat sie beim ersten Entwickeln nicht gesehen. Jetzt, mit allen Platten nebeneinander, sieht er sie. Auf Platte 19: die Frau unscharf, die Gestalt dahinter schärfer als die Frau — als hätte die Kamera ihren Fokus gewechselt. Auf einer der neuen Platten: Alphina am grünen Haupttor (von der Mauer aus, er konnte sie von hinten sehen), und hinter ihr, zwischen zwei Strauchgruppen, etwas Dunkles das aussieht wie Schultern.
 
+Er sollte jetzt die Gestalten zählen. Das tut er nicht sofort — er schaut zuerst sie an. Die Neigung des Nackens auf Platte 19. Die Art wie sie steht, leicht nach vorn geneigt, als ob der Stein sie zieht. Er kennt diese Haltung jetzt, er hat sie auf Glas gelernt bevor er wusste wie sie heißt. Dann erst zählt er die Gestalten.
+
 Auf keiner anderen Platte — nicht am Kai, nicht in den Gassen, nicht auf den Marktaufnahmen — steht hinter irgendjemand etwas.
 
-Die Gestalten folgen ihr. Das ist kein Eindruck. Das ist eine Reihe.
+Die Gestalten folgen ihr. Das ist kein Eindruck. Das ist eine Reihe. Und er hat diese Platten gemacht — er hat sie verfolgt, mit der Kamera, ohne es so zu nennen.
 
 Jetzt die letzten beiden Kassetten: die aus der K12-Nacht.
 
 Die erste: der Garten, Nachtstimmung, Bank am Hauptweg-Ende. Auf der Platte: die Bank, leer, die Mauer im Hintergrund. Er hat die drei Silhouetten fotografiert, er erinnert sich, aber auf der Platte sind die drei Silhouetten auf der Mauer unscharf, fast nicht zu sehen — der Fokus liegt auf der Bank. Auf der Bank, in der linken Ecke, eine dunkle Fläche die aussieht wie ein Schatten. Kein Mensch war dort. Er hängt die Platte auf.
 
-Die letzte Kassette: die Hände-Platte. Alphinas Hände auf dem Stein. Einhandig aufgenommen, Schärfering schräg. Er öffnet sie mit Vorsicht.
+Die letzte Kassette: die Hände-Platte. Alphinas Hände auf dem Stein. Einhandig aufgenommen, Schärfering schräg. Er hat diese Kassette zuletzt gelassen, nicht aus Ordnung — er weiß warum, er benennt es nicht. Er öffnet sie langsamer als alle anderen.
 
 Er entwickelt sie.
 
-Das Bild ist wackelig, wie erwartet — die Ränder unscharf, die Perspektive leicht schräg. Aber die Hände sind scharf. Beide Handflächen, flach auf dem Purpurstein, die Sehne am linken Daumenansatz glasklar, er würde sie ohne Lupe erkennen. Die Hände sind schärfer als alles Umgebende. Der Schärfering lag schräg in den Gewindegängen — das ergibt kein scharfes Bild. Nicht so.
+Das Bild ist wackelig, wie erwartet — die Ränder unscharf, die Perspektive leicht schräg. Aber die Hände sind scharf. Beide Handflächen, flach auf dem Purpurstein, die Sehne am linken Daumenansatz glasklar. Die Hände schärfer als alles Umgebende. Der Schärfering lag schräg — das ergibt kein scharfes Bild. Nicht so.
 
-Sorel steht still. Schaut.
+Sorel steht still. Er hat diese Hände in der Realität einmal gesehen, im Garten, auf der Bank — er hat sie seitdem nicht mehr aus dem Kopf bekommen. Auf der Platte sind sie anders als in der Erinnerung. Ruhiger. Vollständiger. Als hätte die Kamera mehr Zeit gehabt als er.
 
-Er weiß nicht, was er sieht. Er weiß nur: diese Schärfe ist nicht von ihm. Die Kamera hat entschieden, was sie festhält.
+Er weiß nicht, was er sieht. Er weiß nur: diese Schärfe ist nicht von ihm. Die Kamera hat entschieden, was sie festhält. Und er steht länger vor dieser Platte als vor allen anderen zusammen.
 
-Er hängt die Platte auf.
+Er hängt sie auf. Zu weit rechts — er muss sie noch einmal abnehmen und korrigieren.
 
 **Dialog-Informationen:**
 - Kein Dialog (Sorel allein)
@@ -97,15 +99,19 @@ Er hängt die Platte auf.
 
 **Fließprosa-Exposé:**
 
-Sorel hängt die Platten um. Kein Kunstprojekt — Inventur. Er teilt die Wand: links die Platten mit Alphina. Rechts alle anderen.
+Sorel hängt die Platten um. Er teilt die Wand: links die Platten mit Alphina. Rechts alle anderen. Er nennt es Inventur. Er weiß dass es mehr ist.
 
-Links: sechs Platten. Vier davon zeigen hinter ihr etwas. Verschiedene Umrisse — Größe, Haltung, Lage variieren. Nicht dasselbe Wesen, das folgt. Mehrere. Rechts: zwanzig Platten. Kai, Steg, Gassen, Marktplatz. Nichts dahinter. Die Wesen am Poller, das in der Hausnische — zufällige Begegnungen, kein Bezug. Das hier ist kein Zufall.
+Links: sechs Platten. Er steht davor. Auf vier davon steht hinter ihr etwas — verschiedene Umrisse, Größen, Haltungen. Mehrere Wesen, kein Zufall. Das ist das Problem, das er lösen sollte.
 
-Er schaut die linke Seite an, lang genug um sie zu zählen. Dreht sich weg.
+Er schaut die Gestalten nicht an. Er schaut sie an.
 
-Er sitzt. Trinkt Wasser. Die Chemikalien schmeckt er schon lange nicht mehr — das bedeutet zu lange in geschlossenen Räumen. Der Keller ist warm, wie immer, wie seit der ersten Nacht. Er hat aufgehört darüber nachzudenken.
+Platte 14: die Schultern, die Neigung des Nackens, die Art wie sie im Dunkeln steht als hätte sie keine Angst vor dem Dunkeln. Platte 19: die Frau unscharf, aber die Haltung klar — leicht nach vorn, wie jemand der zuhört. Die Hände-Platte: das kennt er jetzt auswendig.
 
-Er schläft ein.
+Er hat sechs Bilder von ihr, auf Glas, entwickelt in seinem Keller. Sie weiß nicht dass er sie seit Wochen an seiner Wand hat. Das ist ein Problem das nichts mit den Gestalten zu tun hat.
+
+Er dreht sich weg.
+
+Er sitzt. Trinkt Wasser. Die Chemikalien schmeckt er schon lange nicht mehr. Der Keller ist warm, wie immer. Er schläft ein — nicht weil er müde ist, sondern weil der Kopf irgendwann aufhört.
 
 **Dialog-Informationen:**
 - Kein Dialog (Sorel allein)
@@ -143,19 +149,19 @@ Alphina kommt die Gasse herunter — von der Oberstadt, den Abstieg hinter sich,
 
 Kurzes Stehen. Dann kommen sie aufeinander zu, wie es sich gehört, weil sie sich kennen, weil die Gasse schmal ist, weil es seltsamer wäre, nicht anzuhalten.
 
-Sie schaut ihn an. "Sie sehen aus wie jemand, der zu lange unter der Erde war."
+Sie schaut ihn an — er ist groß, das fällt ihr jetzt auf, in der schmalen Gasse mehr als im Garten. Dunkel gekleidet, die Bandage an der linken Hand. Das Gesicht von jemandem der nicht schläft oder nicht will. Sie sagt: "Sie sehen aus wie jemand, der zu lange unter der Erde war."
 
-Er hat keine gute Antwort. Er sagt etwas über die Dunkelkammer — die Platten, die Entwicklungszeit, den Geruch. Sie hört zu, aber sie schaut ihn dabei an, nicht die Platten-Erklärung, sondern ihn. Sorel bemerkt das. Er hört auf zu erklären.
+Er hat keine gute Antwort. Er sagt etwas über die Dunkelkammer — die Platten, die Entwicklungszeit, den Geruch. Sie hört zu, aber sie schaut ihn dabei an auf eine Art, die ihn aus dem Satz bringt. Nicht die Erklärung interessiert sie — ihn. Sorel bemerkt das. Er hört auf zu erklären. Schweigen, das keiner von beiden auflöst.
 
-Pause. Die Gartenmauer hinter ihr. Er weiß, auf der anderen Seite steht der Purpurstein — er weiß es aus den Platten, nicht weil er es gesehen hat.
+Er steht zu nah oder zu weit — er weiß es nicht. Er merkt, dass er merkt.
 
 Sie fragt, ob er wieder rübergegangen ist. Über die Mauer, meint sie. Er sagt nein. Er hat den Garten fotografiert, von außen. Das stimmt — er hat die Platten gemacht, als er auf der Mauer stand, ohne reinzusteigen. Sie nickt. Kurze Stille, in der keiner fragt was er wirklich sagen will.
 
 Sorel denkt an die sechs Platten im Keller. Er sagt nichts davon.
 
-Sie hat die Tasche ein Stück verschoben, das Leder quietscht kurz. Er sieht ihre linke Hand, die die Tasche hält — die Sehne am Daumenansatz. Er kennt diese Hand besser als die eigene. Er schaut weg.
+Sie hat die Tasche ein Stück verschoben, das Leder quietscht kurz. Er sieht ihre linke Hand, die die Tasche hält — die Sehne am Daumenansatz. Er kennt diese Hand von der Platte, er würde sie im Dunkeln erkennen, und das ist eine Tatsache über sich, die er nicht mag. Er schaut weg, aber nicht rechtzeitig.
 
-"Haben Sie die Aufnahmen entwickelt?" fragt sie. Von der letzten Nacht, meint sie. Er sagt ja. Sie fragt, ob sie scharf geworden sind, der Ton ist neutral aber nicht gleichgültig. Er sagt: die Hände sind scharf geworden. Sie nickt, als wäre das keine Überraschung, und er kann nicht sagen ob es das für sie ist.
+"Haben Sie die Aufnahmen entwickelt?" fragt sie. Von der letzten Nacht, meint sie. Er sagt ja. Sie fragt, ob sie scharf geworden sind, der Ton ist neutral aber die Frage ist keine beiläufige Frage. Er sagt: die Hände sind scharf geworden. Kein Satz mehr. Sie nickt, und er sieht, dass sie darüber nachdenkt — nicht zufrieden, nachdenkend. Als würde sie eine Lücke suchen in dem was er sagt.
 
 Kurzes Schweigen. Die ersten Gaslampen werden gezündet, weiter unten Richtung Werft.
 
@@ -166,23 +172,23 @@ Sorel steht in der Gasse. Das Wasser riecht man, sieht es nicht von hier. Er sch
 Im Keller riecht es immer noch nach Fixierbad. Die sechs Alphina-Platten hängen links. Er schaut sie nicht an. Er setzt sich auf den Hocker und schaut die Decke an, bis es dunkel wird.
 
 **Dialog-Informationen:**
-- Was sie austauschen: Ihre Bemerkung über sein Aussehen. Seine Dunkelkammer-Erklärung. Ihre Frage nach den Platten. Sein "die Hände sind scharf geworden." Ihr Kommentar über die Messreihe.
-- Was *nicht* gesagt wird: Alles. Er sagt nicht, dass auf vier ihrer Platten Gestalten stehen. Sie sagt nicht, was sie im Stein gespürt hat. Er sagt nicht, dass er ihre Hand von einer Platte aus Kap 2 kennt, seit Wochen, bevor er ihren Namen wusste.
+- Was sie austauschen: Ihre Bemerkung über sein Aussehen — direkt, keine Entschuldigung dafür. Seine abgebrochene Dunkelkammer-Erklärung. Ihre Frage nach den Platten. Sein "die Hände sind scharf geworden." Ihr kurzes Nachdenken darüber. Ihr Abgang.
+- Was *nicht* gesagt wird: Alles Wesentliche. Er sagt nicht, dass auf vier ihrer Platten Gestalten stehen. Er sagt nicht, dass er die Hände-Platte zuletzt entwickelt hat, nicht wegen der Reihenfolge. Er sagt nicht, dass er ihre Hand von Platte 14 kennt, seit Wochen, bevor er ihren Namen wusste. Sie sagt nicht, was sie im Stein gespürt hat.
 - Was jede Figur mitnimmt:
-  - Sorel: der Abstand zwischen ihnen ist kleiner als drei Tage. Er hat sechs Platten und kann keine einzige davon zeigen. Das ist jetzt kein Protokoll-Problem — das ist ein persönliches Problem.
-  - Alphina: er hat die Hände-Platte entwickelt. Er hat die Schärfe nicht kommentiert, nur bestätigt. Sie weiß nicht was das bedeutet. Sie denkt daran, als sie durch das grüne Tor geht.
+  - Sorel: sie hat ihn angeschaut auf eine Art die ihn aus dem Satz gebracht hat. Er hat sechs Platten von ihr und kann keine einzige davon zeigen. Das ist kein Protokoll-Problem mehr — das ist etwas anderes, und er benennt es nicht.
+  - Alphina (Cross-POV-Saat): er ist groß, dunkel, schweigsamer als die Situation erklärt. Die Bandage. Das Gesicht von jemandem der mehr weiß als er sagt. Sie denkt auf dem Rückweg an "die Hände sind scharf geworden" — an den Ton, nicht den Satz.
 
 **Tschechow-Waffen geladen:**
-- "Die Hände sind scharf geworden" ohne Erklärung — die unmögliche Schärfe bleibt zwischen ihnen, unausgesprochen (feuert, wenn er ihr die Platte zeigt oder nicht zeigt, K25)
-- Sorels Nicht-Nachschauen: er macht keine Geste. Das ist die Grenze. (Hält bis K17/K18, wo die Grenze kippt.)
-- Alphinas linke Hand, Sehne am Daumenansatz: er erkennt sie noch immer vor dem Gesicht. Das ist kein Reflex mehr — das ist Gewohnheit.
+- "Die Hände sind scharf geworden" als unvollständiger Satz — er hat nicht erklärt, sie hat nicht gefragt. Beide wissen, dass da mehr ist. (Feuert K25 — wenn er ihr die Platte zeigt oder nicht zeigt)
+- Sorel schaut weg, aber nicht rechtzeitig — die Grenze, die er hält, wird sichtbar als Grenze. (Kippt K17/K18)
+- Die Hand: er kennt sie von der Platte, er erkennt sie vor dem Gesicht. Das ist keine Analyse mehr.
 
 **Tschechow-Waffen abgefeuert:**
-- Platte 14 (Kap 2): er hat sie seit Wochen. Sie ahnt es nicht. Die Asymmetrie ist jetzt körperlich spürbar — er schaut weg, bevor sie es merkt.
+- Platte 14 (Kap 2): er hat sie seit Wochen an der Wand. Sie weiß es nicht. In dieser Szene ist die Asymmetrie körperlich — er schaut weg, sie sieht ihn wegschauen.
 
 **Cross-POV-Ankerpunkte:**
-- Alphina K14 oder K15: sie denkt auf dem Rückweg an seine Aussage über die Schärfe. Was weiß er? Was sieht die Platte, was sie nicht sieht?
-- Die Messreihe: sie geht in den Garten. Was sie dort findet, gehört in ein Alphina-Kapitel. K13 schließt, bevor sie durch das Tor ist.
+- Alphina K14 oder K15: Sie denkt auf dem Rückweg nicht an die Gestalten. Sie denkt an seinen Tonfall. An die Größe von ihm in der schmalen Gasse. An die Bandage, die sie nie gefragt hat. Das ist die Romantasy-Leserin-Linie — sie fühlt die Anziehung, bevor Alphina sie benennt.
+- Die Messreihe: sie steigt zurück in die Oberstadt. Was sie im Garten findet, gehört in ihr nächstes Kapitel. K13 schließt, bevor sie durch das Tor ist.
 
 ---
 
