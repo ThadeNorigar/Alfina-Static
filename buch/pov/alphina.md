@@ -36,6 +36,8 @@ Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte
 - **Sorels Platten zeigen Alphina überall** (Kap 13, 16) — seine unbewusste Licht-Resonanz, nicht reale Gestalten. Sie ahnt nichts; er versteckt es bis K21.
 - **Farne durch Kellerwände** (Kap 21) — geladen, feuert in Moragh: Wälder wachsen in Minuten
 - **Graukorn vom Markt** (Kap 1) — sie hat es zurückgelegt; wächst nur in Purpurstein-Spalten
+- **Sorels Messung-Satz aus K12** — "Wenn die Messung sich mit dem Beobachter ändert, dann war es keine Messung." Alphina hat ihn im Garten als Uhrmacher-Ton gelesen — denselben Satz hatte Vesper am Vorabend im Flur des Anker in anderen Worten ausgesprochen. Sie hat das stehen lassen und für später notiert. **Offener Echo-Punkt**: Sollte in einem späteren Alphina-Kapitel (K15 oder später) aufscheinen, wenn sie beide Männer nebeneinander denkt — Muster-Denker, beide. Sorel weiß nichts von Vesper, Vesper nichts von Sorel; Alphina ist der Knotenpunkt.
+- **Heilung an Sorels Verband** (Kap 12 → Echo K13) — Sorels Brandwunde ist seit dem Abend auf der Bank besser. Alphina hat ihn berührt, der Wundrand hat sich gestrafft. Sie hat es körperlich registriert, aber nicht benannt. Er hat "Seit vorgestern" gesagt, ohne die Ursache auszusprechen. **Feuert**: in Akt III, wenn sie bewusst heilt und beide die Verbindung ziehen.
 
 ## Beziehungs-Dynamik
 
