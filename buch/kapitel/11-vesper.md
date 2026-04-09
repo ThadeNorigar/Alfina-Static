@@ -302,7 +302,7 @@ Ein Dielenbrett im Flur knackte leise, ohne dass jemand darauf getreten wäre. U
 
 "Sie haben dabei nichts hineingelegt."
 
-"Nichts. Ich habe nur gehört. Das ist die andere Richtung. Bei den Farnen habe ich gegeben. Beim Stein habe ich empfangen. Heute Nachmittag habe ich es ein zweites Mal am Stein getan, um zu prüfen, ob der Puls wiederkommt. Er ist wiedergekommen. Drei Stöße, dichter diesmal. Danach bin ich in den Anker zurück, und dann habe ich eine halbe Stunde gebraucht, bis ich mich entschieden habe, an Ihre Tür zu klopfen statt an meine eigene."
+"Nichts. Ich habe nur gehört. Das ist die andere Richtung. Bei den Farnen habe ich gegeben. Beim Stein habe ich empfangen. Heute Nachmittag habe ich es ein zweites Mal am Stein getan, um zu prüfen, ob der Puls wiederkommt. Er ist wiedergekommen. Drei Stöße, dichter diesmal. Danach bin ich in den Anker zurück, und dann habe ich eine halbe Stunde gebraucht, bis ich mich entschieden habe, an Ihre Tür zu klopfen statt durch meine zu gehen."
 
 Vesper stand einen Atemzug still. Die Pinzette hinter ihm auf dem Tisch machte kein Geräusch.
 
