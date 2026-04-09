@@ -2,193 +2,216 @@
 
 **POV:** Sorel (3. Person nah, Präteritum)
 **Timeline:** 18. Mai 551 (tz_tag 138) — drei Tage nach K12
-**Wortziel Ausarbeitung:** 4.000–4.500 W
+**Wortziel Ausarbeitung:** 3.500–4.100 W
 **Gänsehaut-Momente:**
-1. Die K12-Hände-Platte: technisch wackelig, Schärfering schräg — aber die Hände sind scharf. Beide Handflächen glasklar, die Sehne am Daumenansatz ohne Lupe erkennbar. Die Platte hat entschieden, was sie festhält. Kein Umriss, kein Wesen im Stein — nur diese unmögliche Schärfe, die kein wackeliger Schärfering erklären kann.
-2. Der Schatten im Keller sortiert die Platten nach demselben Prinzip wie Sorel. Die Alphina-Platten liegen separat.
+1. Sorel entwickelt eine Routineplatte — und Alphina ist drauf, obwohl sie nicht dort war. Dann die nächste. Und die nächste. Überall sie. Er erklärt es sich mit der Kamera.
+2. Sie steht plötzlich an seiner Kellertür. Er lässt sie nicht rein. Er lügt glatt und weiß, dass sie es merkt.
+3. Auf dem Spaziergang, an einer engen Stelle: ihre Arme streifen sich, keiner zieht zurück. Später: "Sie sehen mich an, als ob Sie mich schon länger kennen." Er weicht aus.
 
-> **Entschieden (2026-04-09):** Option B — nur Hände scharf, kein Schem-Umriss im Stein. Der Stein-Umriss ist Quellen-Material, wird nicht hier verbraucht.
+> **Zentraler Kanon-Twist:** Sorels Resonanz ist *Licht-Formung* (passt in 00-canon-kompakt: kein Röntgenblick, kein Licht-aus-dem-Nichts, aber vorhandenes Licht kann er unbewusst formen). Seine Obsession mit Alphina manifestiert sich auf den Platten: er projiziert sie dorthin, wo sie nicht war. Er denkt, die Kamera fängt etwas ein. Er weiß nicht, dass er es selbst ist. Die Leserin ahnt es ab dieser Szene, Sorel erst in K21.
+
+> **Was NICHT passiert:** Keine Schemen folgen Alphina. Keine Gestalten hinter ihr auf den Platten. Das Muster war nie real — es war seine Projektion.
 
 ---
 
 ## Szene 1 — Das Protokoll
 
 **Ort:** Lichthaus-Keller, Rotlicht, Dunkelkammer
-**Wortziel Ausarbeitung:** 1.500–1.700 W
+**Wortziel Ausarbeitung:** 1.200–1.500 W
 
 **Fließprosa-Exposé:**
 
-Drei Tage nach dem Abend im Garten. Sorel hat nicht entwickelt — er hat die Kassetten auf dem Regal stehen lassen wie Fragen, auf die er keine Antwort wollte. Besonders die letzten beiden. Jetzt zwingt er sich. Protokoll: alle Platten, systematisch, eine nach der anderen, Datum und Standort auf einem Streifen Papier daneben.
-
-Er beginnt mit den Kai-Aufnahmen aus den ersten Wochen — Platte 1 bis 8, Hafen, Steg, das Lichthaus von unten. Routine. Nichts Besonderes. Er hängt sie auf die Schnur. Geht weiter.
-
-Platte 9: Botanischer Garten, erste Nacht (Kap 10 — der Steinkreis). Sieben Flächen, die Steine in Bewegung. Er kennt diese Platte. Er hängt sie auf.
-
-Platte 10: Gassen, Oberstadt. Nichts.
-
-Platte 11: Kai, Nacht. Eine dunkle Masse am Poller — unscharf, riesig. Das Wesen aus der ersten Nacht. Er hängt sie auf.
-
-Platte 12: Gassen, Abend. Eine Gestalt in einer Hausnische — er hat sie beim Entwickeln zum ersten Mal bemerkt. Humanoid. Schwarze Augen. Steht still. Sorel hat sie vergessen gehabt, bis er jetzt wieder davor steht. Er hängt sie auf.
-
-Platte 13: Steg, Morgen. Leer.
-
-Platte 14: Kai, Nacht. Das ist die Frau-mit-Farnen-Platte. Er kennt jede Belichtungszone davon — er hat diese Platte öfter angesehen als jede andere, in den Wochen bevor er wusste wer sie ist. Die Art wie sie steht. Die Neigung der Schultern. Er hat ihren Körper im Dunkeln gelernt, auf Glas, ohne ihren Namen zu kennen. Er hängt sie auf und schaut weg, einen Tick zu schnell.
-
-Platte 15: Botanischer Garten, Südmauer, Morgen danach. Farne, klar, scharf, keine Person.
-
-Platte 16, 17, 18: Stadtansichten. Nichts.
-
-Platte 19: Botanischer Garten, Nordmauer. Er hat das hier nicht fotografiert — das ist eine der Platten, die er während der ersten Nacht belichtete, als er über die Mauer gestiegen war und sich im Dunkeln bewegt hat. Auf der Platte: Farne, scharf. Im Hintergrund eine Frau, unscharf, am Rand. Sorel bleibt stehen. Schaut. Er hat sie nicht fotografiert. Er hat die Farne fotografiert. Aber sie ist da. Er legt die Platte in die Trockenschale.
-
-Platte 20: wieder die Farne, derselbe Standort, andere Belichtungszeit. Leer — keine Frau. Die Farne stehen anders. Sie zeigen auf eine Stelle zwischen zwei Büschen.
-
-Platte 21: sein Gesicht, Kap 6-Nacht, er hatte die Kamera auf sich selbst gerichtet als Test. Die Gestalt hinter ihm am Poller — er hatte sie vergessen. Sie steht genau da. Schwarze Augen, keine anderen Merkmale.
-
-Er arbeitet weiter. Immer ruhiger werden die Hände, immer enger die Geste des Aufhängens. Nicht weil er weniger sieht — weil er mehr sieht.
-
-Die neuen Platten aus den letzten Tagen: Kai-Aufnahmen, Steg, der Garten von außen. Er hängt sie auf. Schritt zurück.
-
-Auf den Alphina-Platten (14, 19, und zwei weitere die er in den letzten Tagen belichtet hat, als er den Garten von der Mauer aus fotografierte ohne einzusteigen) — auf allen vieren steht hinter ihr etwas. Auf Platte 14: eine Gestalt rechts hinter den Farnen, verschwommen, dunkel. Er hat sie beim ersten Entwickeln nicht gesehen. Jetzt, mit allen Platten nebeneinander, sieht er sie. Auf Platte 19: die Frau unscharf, die Gestalt dahinter schärfer als die Frau — als hätte die Kamera ihren Fokus gewechselt. Auf einer der neuen Platten: Alphina am grünen Haupttor (von der Mauer aus, er konnte sie von hinten sehen), und hinter ihr, zwischen zwei Strauchgruppen, etwas Dunkles das aussieht wie Schultern.
-
-Er sollte jetzt die Gestalten zählen. Das tut er nicht sofort — er schaut zuerst sie an. Die Neigung des Nackens auf Platte 19. Die Art wie sie steht, leicht nach vorn geneigt, als ob der Stein sie zieht. Er kennt diese Haltung jetzt, er hat sie auf Glas gelernt bevor er wusste wie sie heißt. Dann erst zählt er die Gestalten.
-
-Auf keiner anderen Platte — nicht am Kai, nicht in den Gassen, nicht auf den Marktaufnahmen — steht hinter irgendjemand etwas.
-
-Die Gestalten folgen ihr. Das ist kein Eindruck. Das ist eine Reihe. Und er hat diese Platten gemacht — er hat sie verfolgt, mit der Kamera, ohne es so zu nennen.
-
-Jetzt die letzten beiden Kassetten: die aus der K12-Nacht.
-
-Die erste: der Garten, Nachtstimmung, Bank am Hauptweg-Ende. Auf der Platte: die Bank, leer, die Mauer im Hintergrund. Er hat die drei Silhouetten fotografiert, er erinnert sich, aber auf der Platte sind die drei Silhouetten auf der Mauer unscharf, fast nicht zu sehen — der Fokus liegt auf der Bank. Auf der Bank, in der linken Ecke, eine dunkle Fläche die aussieht wie ein Schatten. Kein Mensch war dort. Er hängt die Platte auf.
-
-Die letzte Kassette: die Hände-Platte. Alphinas Hände auf dem Stein. Einhandig aufgenommen, Schärfering schräg. Er hat diese Kassette zuletzt gelassen, nicht aus Ordnung — er weiß warum, er benennt es nicht. Er öffnet sie langsamer als alle anderen.
+Drei Tage nach dem Abend im Garten. Sorel hat nicht entwickelt — er hat die Kassetten auf dem Regal stehen lassen wie Fragen, auf die er keine Antwort wollte. Jetzt zwingt er sich. Rotlicht an. Chemie temperiert. Er nimmt die erste Kassette aus der Reihe — eine Routineaufnahme vom Kai, vor zehn Tagen, nichts Besonderes. Er kennt jeden Parameter. Er weiß, was drauf sein muss: der Poller, das Lichthaus von unten, die Grauwe im Hintergrund.
 
 Er entwickelt sie.
 
-Das Bild ist wackelig, wie erwartet — die Ränder unscharf, die Perspektive leicht schräg. Aber die Hände sind scharf. Beide Handflächen, flach auf dem Purpurstein, die Sehne am linken Daumenansatz glasklar. Die Hände schärfer als alles Umgebende. Der Schärfering lag schräg — das ergibt kein scharfes Bild. Nicht so.
+Am Bildrand, zwischen zwei Pollern, steht eine Gestalt. Dunkel, schlank, die Neigung der Schultern — er kennt diese Neigung inzwischen auswendig. Er steht still. Er wartet, dass der Kopf einen Fehler findet: Doppelbelichtung, Emulsionsdefekt, Silbersalz-Niederschlag. Der Kopf findet keinen Fehler. Alphina stand nicht am Kai vor zehn Tagen. Sie stand nicht in dieser Stadt in dem Moment.
 
-Sorel steht still. Er hat diese Hände in der Realität einmal gesehen, im Garten, auf der Bank — er hat sie seitdem nicht mehr aus dem Kopf bekommen. Auf der Platte sind sie anders als in der Erinnerung. Ruhiger. Vollständiger. Als hätte die Kamera mehr Zeit gehabt als er.
+Er hängt die Platte nicht auf. Er legt sie beiseite, mit dem Gesicht nach unten. Er nimmt die nächste.
 
-Er weiß nicht, was er sieht. Er weiß nur: diese Schärfe ist nicht von ihm. Die Kamera hat entschieden, was sie festhält. Und er steht länger vor dieser Platte als vor allen anderen zusammen.
+Eine Oberstadt-Gasse, Wochen alt, vom ersten Tag in Vael. Unter einem Torbogen im Hintergrund: eine Frau. Die Haltung, die Schultern, die Länge des Halses. Er hat damals niemanden unter dem Torbogen gesehen. Sein Sucher hatte dort nur den Stein.
 
-Er hängt sie auf. Zu weit rechts — er muss sie noch einmal abnehmen und korrigieren.
+Er legt sie beiseite. Nimmt die nächste.
 
-**Dialog-Informationen:**
-- Kein Dialog (Sorel allein)
-- Sorels Erkenntnis am Szenenende: Das Muster ist klar und vollständig. Die Wesen folgen Alphina — gezielt, systematisch, nicht ihr und nicht jemand anderem. Die Hände-Platte erweitert das Muster: ein Wesen war im Stein während sie ihn berührt hat. Er benennt das nicht, aber er geht einen Schritt zurück.
+Nachtholm, vor drei Monaten, lange bevor er wusste dass Alphina existiert. Er hatte ein Hafenbecken fotografiert, als Test für eine neue Emulsion. Jetzt: im Mittelgrund, zwischen zwei Schiffsmasten, eine Silhouette. Sie. Unmöglich. Sie war nicht dort. Sie war nirgends in der Nähe von Nachtholm vor drei Monaten. Er weiß das. Er ist sich sicher. Er sieht sie trotzdem.
 
-**Tschechow-Waffen geladen:**
-- Die Hände-Platte: unmögliche Schärfe trotz wackeligem Schärfering — Kamera entscheidet was sie festhält (feuert in K16/K21, Akt III — "Kamera sieht mehr als Sorels Augen" weitergeführt)
-- Das Muster "Gestalten hinter Alphina, nie hinter anderen" als verstandene Tatsache (feuert in Akt IV — Varen hat sie beobachten lassen; die Schemen berichten)
+Er arbeitet weiter. Nicht schneller, nicht langsamer — die Hände werden präziser, nicht unsicherer. Das ist das Unheimliche. Sein Körper arbeitet wie jemand, der das alles schon wusste.
 
-**Tschechow-Waffen abgefeuert:**
-- "Kamera sieht mehr als Sorels Augen" (Kap 6 + 10): jetzt systematisch und über viele Platten bestätigt
-- Gestalt auf Platte 7 (Kap 2) + Gestalt am Poller (Kap 6) + Verbrennung (Kap 10): alle auf der Platten-Wand jetzt zusammengeführt
-- Farne auf der Platte zeigen auf die Frau (Kap 10): jetzt in Reihe mit den anderen Alphina-Platten
+Er entwickelt zwölf Platten, dann siebzehn. Auf elf von ihnen steht Alphina. Am Rand, im Hintergrund, in einer Reflexion. Nie zentral, nie gestellt, nie als Motiv. Immer als jemand der im Bild ist, obwohl er nicht im Bild sein dürfte.
 
-**Cross-POV-Ankerpunkte:**
-- Die Hände-Platte existiert: Alphinas Handhaltung auf dem Stein (Kap 12), jetzt entwickelt. Alphina weiß, dass er sie fotografiert hat — sie weiß nicht was auf der Platte ist.
-- Die K12-Begegnung: nur ein knapper Echo-Satz ("vor drei Tagen, zwischen den Farnen") — keine Rekonstruktion, keine Reminiszenz.
-- Der Schem-Umriss im Stein: zeitlich verknüpft mit Alphinas Kontaktmessung in K12 (der Stein-Impuls "nah am Atemrhythmus"). Sorel hat das nicht gesehen — er weiß es auch jetzt nicht einzuordnen.
+Die Platten ohne sie: der Marktplatz am Morgen (leer), eine Hauswand aus nächster Nähe, sein eigener Schuh als Ablichtungstest. Objekte, Flächen. Nichts, wo ein Mensch sein könnte.
 
----
+Er stellt die Frage, die er stellen muss: Hat er sie dorthin gestellt? Ist sein Gedächtnis gekippt, ist er inzwischen jemand der vergisst dass er sie fotografiert hat? Er prüft die Negative mit der Lupe. Die Körner liegen sauber. Keine nachträgliche Bearbeitung. Die Silhouetten sind im Emulsionsbild, eingebrannt beim Entwickeln, nicht später dazugemalt.
 
-## Szene 2 — Die Wand
+Er hat eine zweite Hypothese, die er nicht formulieren will, weil sie ihm nicht gefällt: die Kamera sieht etwas. Er hat das seit Kap 6 gedacht und nicht gewagt es zu Ende zu denken. Er denkt es jetzt zu Ende: *die Kamera fängt ein, was meine Augen nicht sehen*. Das ist die Lüge, die er sich selbst erzählt, um sich eine andere Wahrheit zu ersparen.
 
-**Ort:** Lichthaus-Keller, Dunkelkammer
-**Wortziel Ausarbeitung:** max. 600 W
+Die andere Wahrheit — dass *er* das macht, nicht die Kamera — ist ihm noch nicht zugänglich. Er hat kein Konzept dafür. Er kennt keine Menschen die Licht formen. Er kennt nur Linsen und Verschlüsse.
 
-**Fließprosa-Exposé:**
+Zuletzt die Hände-Platte aus der K12-Nacht. Einhändig aufgenommen, der Schärfering war schräg — er hat wackeliges Material erwartet. Er entwickelt sie mit mehr Vorsicht als alle anderen. Er weiß, warum er sie zuletzt lässt. Er benennt es nicht.
 
-Sorel hängt die Platten um. Er teilt die Wand: links die Platten mit Alphina. Rechts alle anderen. Er nennt es Inventur. Er weiß dass es mehr ist.
+Das Bild: Alphinas Hände, beide Handflächen flach auf dem Purpurstein. Ränder unscharf, Perspektive schräg. Die Hände selbst: scharf. Scharf wie eine Studio-Aufnahme mit zwei Lampen und Stativ. Die Sehne am Daumenansatz glasklar. Er würde diese Hand im Dunkeln erkennen. Er *hat* sie im Dunkeln erkannt, vor drei Tagen, vor dem Stein.
 
-Links: sechs Platten. Er steht davor. Auf vier davon steht hinter ihr etwas — verschiedene Umrisse, Größen, Haltungen. Mehrere Wesen, kein Zufall. Das ist das Problem, das er lösen sollte.
+Er steht lange vor dieser Platte. Länger als vor allen anderen zusammen. Er denkt nicht — der Kopf ist leer und voll zugleich. Eine Wahrheit drängt an die Oberfläche und wird zurückgehalten, er weiß nicht wovon.
 
-Er schaut die Gestalten nicht an. Er schaut sie an.
+Er legt die Hände-Platte zu den anderen in die Schublade unter dem Entwicklertisch. Gesicht nach unten. Alle Alphina-Platten zusammen, versteckt, nicht auf der Schnur.
 
-Platte 14: die Schultern, die Neigung des Nackens, die Art wie sie im Dunkeln steht als hätte sie keine Angst vor dem Dunkeln. Platte 19: die Frau unscharf, aber die Haltung klar — leicht nach vorn, wie jemand der zuhört. Die Hände-Platte: das kennt er jetzt auswendig.
+Die Wand bleibt leer. Nur die wenigen Platten ohne sie hängen dort — der Marktplatz, die Hauswand, der Schuh.
 
-Er hat sechs Bilder von ihr, auf Glas, entwickelt in seinem Keller. Sie weiß nicht dass er sie seit Wochen an seiner Wand hat. Das ist ein Problem das nichts mit den Gestalten zu tun hat.
-
-Er dreht sich weg.
-
-Er sitzt. Trinkt Wasser. Die Chemikalien schmeckt er schon lange nicht mehr. Der Keller ist warm, wie immer. Er schläft ein — nicht weil er müde ist, sondern weil der Kopf irgendwann aufhört.
+Er wäscht die Hände. Das Wasser ist kalt. Die Chemikalien schmeckt er schon nicht mehr, nur noch den Puls in den Ohren.
 
 **Dialog-Informationen:**
 - Kein Dialog (Sorel allein)
-- Sorels Stand am Szenenende: Muster-Erkenntnis vollständig, aber nicht benannt. Er sortiert statt Schlüsse zu ziehen. Der Körper entscheidet.
+- Sorels Erkenntnis: Etwas stimmt nicht. Alphina ist auf fast jeder Platte. Er erklärt sich das damit, dass "die Kamera etwas einfängt". Das ist die sicherste Lüge, die er sich machen kann.
+- Was der Leser versteht (Sorel nicht): Er projiziert sie dorthin. Seine unbewusste Resonanz formt das Licht während der Belichtung und Entwicklung. Er sieht sie, weil er sie will.
 
 **Tschechow-Waffen geladen:**
-- "Links Alphina / rechts alles andere" als körperliche Handlung: er trifft eine Entscheidung ohne sie zu benennen (feuert K25)
-- Warme Kellerwand: Teil der Normalität, kein Anlass mehr — weil er aufgehört hat, sie wahrzunehmen
+- Die versteckte Schublade mit den Alphina-Platten — sein aktiv gehütetes Geheimnis. Feuert K21 (Dunkelkammer-Szene, wo er sie zeigt) und K25 (Grenzverletzung: er hat ihr nie gesagt).
+- "Die Kamera sieht etwas" als Selbstlüge — feuert wenn er seine Resonanz erkennt (K21).
+- Die unmögliche Schärfe der Hände-Platte — seine Resonanz im Ansatz sichtbar, von der Kamera nicht erklärbar.
 
 **Tschechow-Waffen abgefeuert:**
-- Warme Kellerwand (Kap 6, 7): vollständig normalisiert, kein Bemerken mehr
+- "Kamera sieht mehr als Sorels Augen" (Kap 6 + 10) — jetzt erweitert: es sind nicht mehr zufällige Gestalten, es ist systematisch Alphina. Der Leser sollte hier die Lesart wechseln: das ist nicht die Kamera, das ist Sorel.
 
 **Cross-POV-Ankerpunkte:**
-- Kellertemperatur: Vesper hat in K07 denselben Wärme-Puls gespürt. Sorel weiß das nicht. Die Leserin weiß es.
-- Platte 14: Alphina weiß, er hat sie fotografiert. Sie weiß nicht, wie lange sie schon an seiner Wand hängt.
+- Die Hände-Platte existiert, versteckt. Alphina weiß, dass er sie fotografiert hat (K12), sie weiß nichts vom Rest. Diese Asymmetrie ist das Fundament für K21 und K25.
+- Keine Cross-POV-Anker zu Varen/Schemen mehr — die Alphina-Projektions-Linie ist Sorels innere Sache, nicht Teil eines Beobachtungs-Plots.
 
 ---
 
-## Szene 3 — Abend vor dem Lichthaus
+## Szene 2 — Der Besuch
 
-**Ort:** Gasse in der Unterstadt, zwischen Lichthaus und Werft
-**Wortziel Ausarbeitung:** 1.200–1.400 W
+**Ort:** Lichthaus-Kellertür, frühabends
+**Wortziel Ausarbeitung:** 600–800 W
 
 **Fließprosa-Exposé:**
 
-Sorel wacht auf, weil der Körper aufwacht. Keine Erklärung — das Rotlicht ist aus, der Keller riecht nach Fixierbad und altem Stein. Er liegt auf dem Hocker, der Rücken an der Wand. Draußen ist es noch hell, ein schmaler Lichtstreifen unter der Kellertür.
+Sorel hat die Wand aufgeräumt — das heißt: die wenigen hängenden Platten abgenommen, die Schublade zugeschoben, das Rotlicht gelöscht, das normale Öllicht aufgedreht. Er will den Keller in einen Zustand bringen, in dem jemand den Raum betreten könnte, ohne zu sehen was er gesehen hat. Die Schublade ist zu. Er überprüft sie ein zweites Mal.
 
-Er geht raus.
+Dann das Klopfen.
 
-Er braucht kein Ziel — nur Luft. Die Gasse neben dem Lichthaus führt Richtung Werft, von dort kommt der Wind vom Wasser. Er geht. Der Mai-Abend ist warm, die Gaslampen noch nicht gezündet, die Luft riecht nach Salzwasser und Teer. Er hat sechs Stunden in einem Raum ohne Fenster verbracht. Das merkst du am Schritt.
+Zwei Schläge, fest, ohne Zögern. Er erstarrt mitten im Handgriff. Niemand klopft an seine Tür — die Vermieterin schickt einen Zettel, der Kräuterverkäufer ruft aus der Gasse, der Briefträger legt Post auf die Schwelle. Er steht drei Sekunden zu lang.
 
-Er sieht sie, bevor sie ihn sieht.
+Wieder zwei Schläge.
 
-Alphina kommt die Gasse herunter — von der Oberstadt, den Abstieg hinter sich, die Tasche über der Schulter, den Schritt der jemanden hat der weiß wo er hingeht. Sorel bleibt nicht stehen — er kann nicht, ohne es zu einer Geste zu machen. Er geht weiter. Fünf Schritte, dann sieht sie ihn.
+Er geht zur Tür. Öffnet einen Spalt — keinen breiten, gerade weit genug um sein Gesicht zu zeigen, nicht den Raum dahinter.
 
-Kurzes Stehen. Dann kommen sie aufeinander zu, wie es sich gehört, weil sie sich kennen, weil die Gasse schmal ist, weil es seltsamer wäre, nicht anzuhalten.
+Alphina.
 
-Sie schaut ihn an — er ist groß, das fällt ihr jetzt auf, in der schmalen Gasse mehr als im Garten. Dunkel gekleidet, die Bandage an der linken Hand. Das Gesicht von jemandem der nicht schläft oder nicht will. Sie sagt: "Sie sehen aus wie jemand, der zu lange unter der Erde war."
+Die Tasche über der Schulter, den Blick geradeaus. Sie sagt: "Ich war in der Nähe." Die Oberstadt ist nicht in der Nähe der Unterstadt. Beide wissen das, keiner kommentiert es.
 
-Er hat keine gute Antwort. Er sagt etwas über die Dunkelkammer — die Platten, die Entwicklungszeit, den Geruch. Sie hört zu, aber sie schaut ihn dabei an auf eine Art, die ihn aus dem Satz bringt. Nicht die Erklärung interessiert sie — ihn. Sorel bemerkt das. Er hört auf zu erklären. Schweigen, das keiner von beiden auflöst.
+Er lässt sie nicht rein.
 
-Er steht zu nah oder zu weit — er weiß es nicht. Er merkt, dass er merkt.
+Er könnte aufmachen. Er weiß, dass das der natürliche Schritt wäre, der höfliche. Er tut es nicht. Er hält die Tür genau so, dass sein Körper den Rest füllt. Seine rechte Hand liegt auf dem Türrahmen, die bandagierte links an der Kante. Er steht im Weg, und er weiß dass er im Weg steht.
 
-Sie fragt, ob er wieder rübergegangen ist. Über die Mauer, meint sie. Er sagt nein. Er hat den Garten fotografiert, von außen. Das stimmt — er hat die Platten gemacht, als er auf der Mauer stand, ohne reinzusteigen. Sie nickt. Kurze Stille, in der keiner fragt was er wirklich sagen will.
+Sie bemerkt es sofort. Ihr Blick geht einmal kurz an ihm vorbei — in den Keller, in den Spalt, auf die hintere Wand die sie kaum sehen kann — und zurück auf ihn. Sie sagt nichts zu dem was sie gesehen oder nicht gesehen hat. Aber sie bemerkt es.
 
-Sorel denkt an die sechs Platten im Keller. Er sagt nichts davon.
+Er sagt etwas über die Platten: noch nicht trocken, Chemie in der Luft, das sei nichts für Besucher. Er hört sich selbst lügen. Die Platten sind trocken. Die Chemie ist seit einer Stunde abgeklungen. Er weiß, dass sie es weiß. Er sagt es trotzdem.
 
-Sie hat die Tasche ein Stück verschoben, das Leder quietscht kurz. Er sieht ihre linke Hand, die die Tasche hält — die Sehne am Daumenansatz. Er kennt diese Hand von der Platte, er würde sie im Dunkeln erkennen, und das ist eine Tatsache über sich, die er nicht mag. Er schaut weg, aber nicht rechtzeitig.
+Kurze Pause. Sie könnte gehen. Sie tut es nicht. Sie sagt: "Dann kommen Sie raus."
 
-"Haben Sie die Aufnahmen entwickelt?" fragt sie. Von der letzten Nacht, meint sie. Er sagt ja. Sie fragt, ob sie scharf geworden sind, der Ton ist neutral aber die Frage ist keine beiläufige Frage. Er sagt: die Hände sind scharf geworden. Kein Satz mehr. Sie nickt, und er sieht, dass sie darüber nachdenkt — nicht zufrieden, nachdenkend. Als würde sie eine Lücke suchen in dem was er sagt.
+Das ist kein Vorschlag. Das ist die einzige Tür, die sie ihm lässt.
 
-Kurzes Schweigen. Die ersten Gaslampen werden gezündet, weiter unten Richtung Werft.
+Er nimmt den Mantel vom Haken, tritt in die Gasse, zieht die Tür hinter sich zu, dreht den Schlüssel zwei Mal. Der Schlüssel ist schwer in der Hand. Er merkt, dass er die Finger fester um das Metall schließt als nötig.
 
-Sie geht. Sie sagt, sie muss weiter, die Uhrzeit. Er sagt gut. Sie sagt noch etwas — ein halber Satz, über die Steine, sie prüft die Messreihe nochmals, nichts Besonderes. Dann ist sie weg, die Gasse hoch, zurück in die Oberstadt.
-
-Sorel steht in der Gasse. Das Wasser riecht man, sieht es nicht von hier. Er schaut ihr nicht nach — das wäre eine Geste, und er macht keine Gesten. Er geht zurück.
-
-Im Keller riecht es immer noch nach Fixierbad. Die sechs Alphina-Platten hängen links. Er schaut sie nicht an. Er setzt sich auf den Hocker und schaut die Decke an, bis es dunkel wird.
+Sie gehen.
 
 **Dialog-Informationen:**
-- Was sie austauschen: Ihre Bemerkung über sein Aussehen — direkt, keine Entschuldigung dafür. Seine abgebrochene Dunkelkammer-Erklärung. Ihre Frage nach den Platten. Sein "die Hände sind scharf geworden." Ihr kurzes Nachdenken darüber. Ihr Abgang.
-- Was *nicht* gesagt wird: Alles Wesentliche. Er sagt nicht, dass auf vier ihrer Platten Gestalten stehen. Er sagt nicht, dass er die Hände-Platte zuletzt entwickelt hat, nicht wegen der Reihenfolge. Er sagt nicht, dass er ihre Hand von Platte 14 kennt, seit Wochen, bevor er ihren Namen wusste. Sie sagt nicht, was sie im Stein gespürt hat.
+- Was sie austauschen: "Ich war in der Nähe." — "Kommen Sie raus." Dazwischen seine Lüge über die Platten. Der Rest ist Körper.
 - Was jede Figur mitnimmt:
-  - Sorel: sie hat ihn angeschaut auf eine Art die ihn aus dem Satz gebracht hat. Er hat sechs Platten von ihr und kann keine einzige davon zeigen. Das ist kein Protokoll-Problem mehr — das ist etwas anderes, und er benennt es nicht.
-  - Alphina (Cross-POV-Saat): er ist groß, dunkel, schweigsamer als die Situation erklärt. Die Bandage. Das Gesicht von jemandem der mehr weiß als er sagt. Sie denkt auf dem Rückweg an "die Hände sind scharf geworden" — an den Ton, nicht den Satz.
+  - Sorel: sie hat gemerkt, dass er sie nicht reinlassen wollte. Sie hat nicht nachgefragt. Das ist schlimmer als Nachfragen.
+  - Alphina: Er verbirgt etwas in diesem Keller. Sie weiß nicht was. Sie weiß, dass es mit ihr zu tun hat — sonst hätte er aufgemacht.
 
 **Tschechow-Waffen geladen:**
-- "Die Hände sind scharf geworden" als unvollständiger Satz — er hat nicht erklärt, sie hat nicht gefragt. Beide wissen, dass da mehr ist. (Feuert K25 — wenn er ihr die Platte zeigt oder nicht zeigt)
-- Sorel schaut weg, aber nicht rechtzeitig — die Grenze, die er hält, wird sichtbar als Grenze. (Kippt K17/K18)
-- Die Hand: er kennt sie von der Platte, er erkennt sie vor dem Gesicht. Das ist keine Analyse mehr.
-
-**Tschechow-Waffen abgefeuert:**
-- Platte 14 (Kap 2): er hat sie seit Wochen an der Wand. Sie weiß es nicht. In dieser Szene ist die Asymmetrie körperlich — er schaut weg, sie sieht ihn wegschauen.
+- Das Lügen an der Tür — erste aktive Verheimlichung. Wird in späteren Kapiteln zum Streitpunkt.
+- Der Schlüssel zwei Mal gedreht — körperliche Geste der Ausschließung. Wird am Ende des Kapitels gespiegelt.
+- Ihr kurzer Blick in den Spalt — sie hat etwas gesehen oder nicht. Der Leser weiß nicht genau was, Sorel weiß nicht was sie gesehen hat.
 
 **Cross-POV-Ankerpunkte:**
-- Alphina K14 oder K15: Sie denkt auf dem Rückweg nicht an die Gestalten. Sie denkt an seinen Tonfall. An die Größe von ihm in der schmalen Gasse. An die Bandage, die sie nie gefragt hat. Das ist die Romantasy-Leserin-Linie — sie fühlt die Anziehung, bevor Alphina sie benennt.
-- Die Messreihe: sie steigt zurück in die Oberstadt. Was sie im Garten findet, gehört in ihr nächstes Kapitel. K13 schließt, bevor sie durch das Tor ist.
+- Alphina K15 oder K17: sie denkt an diesen Moment zurück. An den Türspalt, an seine Hand am Rahmen, an das Wort "Platten".
+
+---
+
+## Szene 3 — Der Spaziergang
+
+**Ort:** Gassen der Unterstadt, dann hoch zur Grenze der Oberstadt
+**Wortziel Ausarbeitung:** 1.500–1.800 W
+
+**Fließprosa-Exposé:**
+
+Sie gehen ohne Ziel. Sorel weiß nicht, wer die Richtung vorgibt — er folgt ihrem Schritt, sie folgt seinem Zögern, so kommen sie trotzdem irgendwohin. Aus der Gasse neben dem Lichthaus, quer durch zwei Querstraßen der Unterstadt, dann den langsamen Anstieg Richtung Oberstadt, wo die Gassen breiter werden und die Stadt Luft hat.
+
+Sie geht links von ihm. Ihr Schritt ist ruhig auf eine Art, die ihm nicht passt — sie ist nicht unter Druck, er ist unter Druck. Er zählt seine eigenen Atemzüge mit, ohne es zu wollen. Er macht das manchmal, wenn er fotografiert: Atem langsam halten für ruhige Hände. Es funktioniert jetzt nicht.
+
+Sie reden nicht sofort. Das Schweigen ist voll — beide wissen es.
+
+Nach zwei Querstraßen fragt sie: "Warum wollten Sie mich nicht reinlassen?"
+
+Er hat die Antwort geübt, aber nicht für diesen Ton. Sie fragt nicht fordernd. Sie fragt, als würde sie jemanden fragen, der eine Krankheit verheimlicht — höflich, aber sie erwartet eine Antwort, und sie wird die erste Antwort nicht glauben.
+
+Er sagt: die Dunkelkammer ist eng, riecht nach Chemie, die Platten sind empfindlich, es ist nicht der Raum, in dem man jemandem etwas anbietet. Sie hört zu. Sie glaubt ihm kein Wort. Sie lässt es stehen.
+
+Das ist ihre Art, ihn auf die Probe zu stellen: sie fragt nicht weiter. Sie wartet, ob er nachlegt. Er legt nicht nach.
+
+Also reden sie über andere Dinge. Sie erzählt knapp von den Steinen, den Messungen, der Reihe die sie kontrolliert — ohne Fachbegriffe, ohne Preis zu verraten. Er hört anders zu als früher. Vor drei Tagen hätte er jedes Wort an einen Fakt-Haken gehängt. Heute hört er ihre Stimme und vergisst, was sie gesagt hat, zwei Sätze später.
+
+Er erzählt etwas aus der ersten Woche in Vael: wie er das Lichthaus gefunden hat, die Miete, die Kellertür die schon einen Nagel in der Wand hatte an der richtigen Höhe. Sie hört aufmerksam zu bei dem Detail mit dem Nagel. Das registriert er — die kurze Verlangsamung ihres Schritts — ohne zu verstehen warum.
+
+An einer engen Stelle der Gasse müssen sie nebeneinander passieren. Ihre Arme streifen sich. Der Stoff seiner Jacke gegen den Stoff ihrer. Keiner zieht zurück. Keiner kommentiert. Sorel spürt die Berührung noch eine Viertelstunde später auf der Haut, wie Restlicht auf einer Platte — das schlechte Bild, das er nicht loswird.
+
+Sie fragt nach seiner linken Hand. Endlich. Er hatte damit gerechnet, dass die Frage kommt, seit K12. Jetzt kommt sie beiläufig, zwischen zwei Schritten: "Ihre Hand. Die Bandage. Was war das?"
+
+Er sagt: "Ein Unfall mit der Kamera." Das ist die halbe Wahrheit. Die Verbrennung ist von etwas, das er mit der Kamera gesehen hat — nicht von der Kamera selbst. Aber die Grenze zwischen diesen beiden Sätzen ist so fein, dass er sie nur mit einem Unterschied sagen kann, den sie nicht hören kann.
+
+Sie nickt. Sie fragt nicht weiter. Sie hält den halben Satz gegen ihn, ohne ihn zu benennen.
+
+Sie kommen an eine Treppe, wo die Unterstadt in die Oberstadt übergeht — eine breite Stufenanlage aus Purpurstein, vier Absätze, Gaslampen die jetzt gezündet sind. Sie steigt die ersten beiden Stufen hoch. Bleibt stehen. Er auch. Von hier sieht man die Grauwe, weit hinten, eine graue Fläche unter dem Abendhimmel.
+
+Sie dreht sich zu ihm. Sie schaut ihn an — länger als nötig.
+
+Er schaut zurück. Er weiß jetzt, wie man nicht wegschaut. Er hat es bei den Platten gelernt: da gibt es kein Wegschauen, man sieht hin oder man geht weg. Bei ihr geht er nicht weg.
+
+Sie sagt: "Sie sehen mich an, als ob Sie mich schon länger kennen als drei Tage."
+
+Es ist nicht spöttisch. Es ist nicht vorwurfsvoll. Es ist eine Feststellung, fast eine Frage — sie gibt ihm den Raum, zu antworten. Das ist ihr Angebot.
+
+Er könnte es sagen. Eine Platte aus Kap 2, Wochen bevor er wusste dass sie existiert, die Farne, die Frau am Rand. Er könnte sie ihr zeigen — nur diese eine. Er könnte sie aus der Schublade holen, sie in die Hand nehmen, zu ihr zurücklaufen und sagen: *hier, das sind Sie, ich habe Sie gehabt bevor ich Sie kannte*.
+
+Er sagt stattdessen: "Drei Tage ist lang genug, um jemandem zum ersten Mal zu begegnen."
+
+Das ist ein Satz, der fast wahr ist. Er ist so nah an der Wahrheit, dass es weh tut. Aber die Wahrheit war: *ich habe Sie seit Wochen*. Und das sagt er nicht.
+
+Sie lächelt nicht, aber etwas in ihrem Gesicht verändert sich — ein Moment von Enttäuschung, so kurz dass er nicht sicher ist ob er ihn gesehen hat. Dann ist sie wieder ruhig.
+
+Sie sagt: "Ich muss weiter." Sie steigt die Stufen hoch, noch zwei, dann dreht sie sich ein letztes Mal halb um. "Entwickeln Sie weiter. Ich bin neugierig auf das, was Sie sehen."
+
+Das ist ein Satz, der ihm den Atem nimmt und den er nicht versteht warum. Er steht auf der unteren Stufe und schaut ihr nach, bis sie hinter dem ersten Absatz verschwindet.
+
+Er geht zurück in den Keller.
+
+Die Schublade ist zu. Er öffnet sie nicht wieder. Er sitzt auf dem Hocker und schaut die dunkle Decke an. Der Raum riecht nach Fixierbad und Restwärme. Er dreht den Schlüssel nicht — die Tür ist noch verriegelt von vorher.
+
+Er schläft nicht.
+
+**Dialog-Informationen:**
+- Was sie austauschen: Ihre Frage "Warum wollten Sie mich nicht reinlassen". Seine ausweichende Antwort. Knappe Anekdoten über Steine und Lichthaus. Ihre Frage nach der Bandage. Seine halbe Wahrheit. Ihre Feststellung "als ob Sie mich schon länger kennen". Sein Ausweich-Satz. Ihr Abschiedssatz "Entwickeln Sie weiter."
+- Was *nicht* gesagt wird: Die Platten in der Schublade. Alphina auf elf Bildern, von denen eins drei Monate vor ihrer Begegnung aufgenommen wurde. Die Resonanz, die Sorel nicht kennt. Die Anziehung, die beide spüren und nicht benennen.
+- Was jede Figur mitnimmt:
+  - Sorel: sie hat ihm eine Tür geöffnet mit der "schon länger kennen"-Feststellung. Er ist hindurchgegangen, in die falsche Richtung. Er weiß, dass er es hätte sagen müssen. Er weiß nicht, wie man so etwas sagt. Er denkt nicht mehr an die Platten als Geheimnis — er denkt daran, wie er ihren Arm im Gasse-Engen gespürt hat.
+  - Alphina (Cross-POV-Saat): sie ist ihm auf der Spur. Sie weiß nicht was er verbirgt, aber sie weiß dass er verbirgt. Die Bandage, das Nicht-Reinlassen, der halbe Satz. Und ihr letzter Satz "Entwickeln Sie weiter. Ich bin neugierig" — das ist eine Aufforderung und eine Warnung in einem. Sie will sehen. Sie wartet, dass er ihr etwas bringt.
+
+**Tschechow-Waffen geladen:**
+- "Sie sehen mich an, als ob Sie mich schon länger kennen" — *der Hinweis, den sie ihm gibt, ohne es zu wissen*. Wird in den Streit-Szenen wieder aufgenommen und explodiert in K21, wenn sie im Streit die Frage stellt, die Sorel zwingt zuzugeben, was auf den Platten ist.
+- "Entwickeln Sie weiter. Ich bin neugierig auf das, was Sie sehen." — ihre implizite Aufforderung. Wird der Katalysator für sein späteres Geständnis-nicht-Geständnis.
+- Die zufällige Berührung im Gasseneng — erster körperlicher Kontakt, nicht zurückgezogen. Baseline für alle körperlichen Eskalationen bis K21.
+- Die halbe Wahrheit über die Bandage — wird später als Lüge aufgedeckt.
+- Der Nagel in der Wand, den sie mit kurzer Verlangsamung registriert — sie weiß etwas oder vermutet etwas. Cross-POV mit einem Alphina-Kapitel.
+
+**Tschechow-Waffen abgefeuert:**
+- K12 "die Hände sind scharf geworden" — in dieser Szene trägt er das Echo mit sich, ohne es zu benennen. Der unvollständige Satz aus K12 hallt in der ganzen Szene.
+
+**Cross-POV-Ankerpunkte:**
+- Alphina K15 (nächstes Alphina-Kapitel): sie denkt an den Spaziergang. Die Tür, die Bandage, den Nagel. Sie beschließt noch nicht aktiv etwas — sie beobachtet. Die Romantasy-Saat ist sie: *sie* ist angezogen, *sie* weiß dass er verbirgt, *sie* wartet.
+- Der Nagel in der Wand: Cross-POV mit K06 (Sorels Ankunft) und mit Vesper K07 (Kratzen im Tidemoor-Keller). Was weiß Alphina vom Nagel? Offene Saat für einen späteren Alphina-Beat.
 
 ---
 
@@ -199,23 +222,27 @@ Im Keller riecht es immer noch nach Fixierbad. Die sechs Alphina-Platten hängen
 **Am Anfang von K13:**
 - Alphinas Vorname (erste Begegnung K12)
 - Die Frau von Platte 14 ist Alphina — er hat sie an der Sehne erkannt, noch bevor er ihr Gesicht sah (K12). Er hat ihr die Platte NICHT gezeigt. Diese Asymmetrie bleibt.
-- Drei Schemen auf der Mauer im Garten, sitzend, Rauch an den Schultern (K12)
-- Alphina deutete einen anderen Mann an, ohne Namen (Sorel kennt keinen Kontext)
-- Neue Hände-Platte: belichtete in K12, noch nicht entwickelt
-- Die Wesen können verletzen (Verbrennung, Kap 10)
+- Drei Silhouetten auf der Mauer im Garten (K12)
+- Alphina hat einen anderen Mann angedeutet, ohne Namen
+- Neue Hände-Platte: belichtet in K12, noch nicht entwickelt
+- "Die Kamera sieht mehr als meine Augen" als Arbeitshypothese seit K02/K06/K10
 
 **Am Ende von K13:**
-- Das Muster: Wesen stehen auf jeder Alphina-Platte hinter ihr. Nie hinter jemand anderem. Das ist systematisch, nicht zufällig.
-- Die Hände-Platte: Hände scharf trotz wackeligem Schärfering. Er hat Alphina "die Hände sind scharf geworden" gesagt — ohne zu erklären was das bedeutet.
-- Er hat sie auf der Promenade getroffen. Kein Kuss, kein Berühren, kein offener Satz. Die Asymmetrie (er kennt sie von Platte 14, seit Wochen) ist unaufgelöst.
-- Kein Wesen im Keller. Der `schemen-im-lichthaus-keller`-Beat ist gestrichen (aus Zeitleiste und Aktplan entfernt).
+- Auf fast allen seinen Platten ist Alphina — auch auf solchen, die Wochen bis Monate *vor* ihrer ersten Begegnung belichtet wurden. Das ist unmöglich. Er erklärt es sich mit "die Kamera sieht etwas".
+- Er hat die Platten versteckt. Niemand soll sie sehen. Insbesondere Alphina nicht.
+- Die Hände-Platte: unmögliche Schärfe. Versteckt mit den anderen.
+- Er hat Alphina nicht reingelassen. Er hat sie angelogen. Sie hat es gemerkt.
+- Er hat sie auf dem Rückweg zur Oberstadt nicht aufgehalten, nicht gefolgt, nicht gerufen.
+- Körperlich: er hat ihren Arm an einer engen Stelle gespürt. Das bleibt an ihm hängen.
 
-**Zerbrochene Platte aus Falkensand:** In Nachtholm geblieben. Sorel hat sie nicht mitgenommen. Sie taucht in K13 nicht auf — kein Fehler, keine Lücke.
+**Sorel weiß NICHT (neu in K13):**
+- Dass er selbst die Projektionen verursacht (Resonanz)
+- Dass niemand Alphina verfolgt — das Muster war nie extern
 
 **Sorel darf weiterhin NICHT wissen:**
-- Alphinas Resonanz-Natur (er sieht nur was auf die Platte kommt, nicht warum)
-- Den Begriff "Steinkreis" (er sagt "die sieben Steine" oder "der Hügel")
-- Den Begriff "Schem" (er sagt "Gestalt", "Wesen", "Form", "Ding")
+- Alphinas Resonanz-Natur
+- Den Begriff "Steinkreis"
+- Den Begriff "Schem" (er sagt "Gestalt", "Wesen", "Ding")
 - Vespers Namen oder Identität
 - Marens Existenz
 - Varens Existenz
@@ -223,10 +250,16 @@ Im Keller riecht es immer noch nach Fixierbad. Die sechs Alphina-Platten hängen
 
 ### Anti-Kanibalisierung K12
 
-- Kein Flashback zur Begegnung im Garten. Maximal: ein knapper Echo-Satz in Szene 2 ("vor drei Tagen, zwischen den Farnen") — im Entwurf nicht ausformuliert, bleibt der Ausarbeitung.
-- Keine interne Rationalisierung der Platte 14 in Richtung "ich zeige sie ihr beim nächsten Mal". Die Asymmetrie bleibt unaufgelöst.
-- Kein physischer Kontakt oder Berührungs-Reminiszenz aus K12. K12 endet auf der Bank, kein Körperkontakt.
-- Die drei Schemen von der Mauer (K12) kommen in K13 nicht persönlich vor — nur als Muster auf den Platten sichtbar.
+- Kein Flashback zur Bank-Szene. Maximal Echo-Sätze.
+- Keine interne Rationalisierung zu Platte 14. Die Asymmetrie bleibt.
+- Kein physischer Kontakt aus K12 wird ausgeschmückt — K12 hatte keinen Körperkontakt.
+
+### Für die Kaskade (nach K13) zu aktualisieren
+
+- **K16 "Steg-Fotos":** Framing ändern — Sorel folgt Alphina heimlich zum Steg und fotografiert sie. Auf den Platten erscheinen zusätzlich Farne die nicht da waren und sein eigenes Gesicht neben ihr — Projektion, nicht Schemen.
+- **K21 "Die Dunkelkammer":** Vorlauf jetzt: Streit aus K17/K18/K20 → sie stellt die Frage direkt → er zeigt die Platten → Kontrollverlust (beidseitig). POV bleibt Alphina.
+- **K25 "Die Grenzverletzung":** Umdefiniert. Grenzverletzung = er hat ihr nie gesagt, dass sie auf seinen Bildern ist, auch in K21 nicht vollständig. Sie erkennt die Lücke. Nicht "er hat mich ohne Frage fotografiert" sondern "er hat es mir verschwiegen".
+- **Canon-Update:** Sorel hat Licht-Resonanz (passt in 00-canon-kompakt — kein Licht aus dem Nichts, aber vorhandenes Licht formen).
 
 ---
 
@@ -234,9 +267,9 @@ Im Keller riecht es immer noch nach Fixierbad. Die sechs Alphina-Platten hängen
 
 | Szene | Beat | W (Ausarbeitung) |
 |-------|------|-----------------|
-| 1: Das Protokoll | Systematisches Entwickeln, Muster-Erkenntnis, Hände-Platte | 1.500–1.700 |
-| 2: Die Wand | Sortierung, Asymmetrie-Last, kein Benennen | max. 600 |
-| 3: Abend vor dem Lichthaus | Begegnung mit Alphina, Spannung, Nicht-Sagen | 1.200–1.400 |
-| **Gesamt** | | **3.300–3.700** |
+| 1: Das Protokoll | Platten voll mit Alphina, Projektion, Verstecken, Selbstlüge "die Kamera" | 1.200–1.500 |
+| 2: Der Besuch | Sie klopft, er lässt sie nicht rein, lügt glatt, sie holt ihn raus | 600–800 |
+| 3: Der Spaziergang | Unterstadt → Oberstadts-Treppe, halbe Wahrheiten, Berührung, der Hinweis | 1.500–1.800 |
+| **Gesamt** | | **3.300–4.100** |
 
-Szene 1 und 2: Sorel allein, kein Dialog, Arbeitsrhythmus. Szene 3: erster kurzer Kontakt nach K12 — karg, geladen, kein Handeln. Das Kapitel endet mit ihm im Keller, der Decke, dem Warten.
+Drei Szenen, eine innere und zwei mit Alphina. Das Tempo: die erste ruhig und intim (Entdeckung), die zweite kurz und gespannt (Ausschluss), die dritte lang und atmend (Annäherung mit Zurückhaltung). Kein Dialog in Szene 1, minimaler in Szene 2, tragender in Szene 3. Die Romantasy-Spannung läuft in Szene 3 — nicht durch Worte, sondern durch die Dinge die nicht gesagt werden und den einen Arm, der sich streift.

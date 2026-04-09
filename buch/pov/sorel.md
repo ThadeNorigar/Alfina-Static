@@ -12,6 +12,10 @@ Hände. Präzise, ruhig, auch wenn der Rest zittert. Chemie-Geruch sitzt in der 
 
 Satzlänge bis ~50 Wörter, Bandwürmer erlaubt. Rhythmus: Stille + Beobachtung. Lange aufzählende Sätze über Parameter, Abläufe, Messungen — dann ein kurzer Satz als Hammerschlag. Kein On-the-nose-Dialog; er sagt nicht, was er meint. Subtext: er fragt, ob das Fenster offen ist, statt zu sagen, dass er Angst hat. Er vollendet Alphinas Sätze oder lässt sie hängen.
 
+## Resonanz: Licht-Formung (verborgen bis K21)
+
+Sorel hat eine unbewusste Licht-Resonanz. Er kann vorhandenes Licht lenken — keine Röntgenstrahlen, kein Infrarot, kein Licht aus dem Nichts. In absoluter Dunkelheit ist er blind wie jeder andere. Aber wo Licht ist, formt sein Wille (ohne dass er es weiß) was das Silber einfängt. Die Obsession mit Alphina manifestiert sich: er projiziert sie auf Platten, bei denen sie nie war. Ab K13 erkennt der Leser das Muster, Sorel erst in K21 im Moment des Kontrollverlusts mit Alphina in der Dunkelkammer.
+
 ## Wissensstand-Anker (Stand nach Kap 10)
 
 **Gesichert:**
@@ -21,7 +25,7 @@ Satzlänge bis ~50 Wörter, Bandwürmer erlaubt. Rhythmus: Stille + Beobachtung.
 - Ein Steinkreis im Botanischen Garten — sieben Flächen, Gras wächst nicht drüber. Die Steine bewegen sich im Sucher (Atemrhythmus, einer pro 1,5 Sekunden). Mit bloßem Auge sieht er es nicht.
 - Er hat die Frau mit dem dunklen Haar irgendwo kurz gesehen — sein Körper erinnert sich, sein Kopf nicht.
 
-**Nicht gewusst:** Den Namen Alphina. Was der Steinkreis ist. Warum sein Gesicht auf alten Platten erscheint.
+**Nicht gewusst:** Den Namen Alphina. Was der Steinkreis ist. Warum sein Gesicht auf alten Platten erscheint. **Dass er selbst es ist, der die Projektionen auf den Platten erzeugt.**
 
 ## Aktive Tschechow-Waffen
 

@@ -110,7 +110,7 @@ Vael, Hafenstadt an der Grauküste. ~1820. Gaslampen, Kutschen, Purpurstein. Die
 **Varens Falle:** Varen hat die Methode das Portal zu öffnen wiederentdeckt. Er KANN es von Moragh-Seite öffnen — aber er braucht die Thalassier in Moragh, nicht umgekehrt. Also platziert er das Ritual per Schemen auf der Thalassien-Seite: Manuskript, Sprachbuch, Ritual-Anleitung. Schickt Schemen durch den Riss — schattenhafte Wesen mit leuchtenden Augen. Heißes Wasser, Feuer ohne Brennstoff, ein Boot das sich nachts selbst baut. Lockt die vier Resonanzbegabten nach Vael damit SIE das Portal von ihrer Seite öffnen.
 
 **Akt I — Anker (Frühling)**
-Die Vier kommen einzeln nach Vael. Schemen verfolgen Alphina persönlich. Runa hilft Alphina ab Ankunft. Der reisende Uhrmacher (= Moragh-Einwanderer, vor Jahren durch einen früheren Riss gekommen) lockt Vesper.
+Die Vier kommen einzeln nach Vael. Varens Schemen sind in der Stadt aktiv (am Boot, im Archiv, nachts in den Kellern), aber nicht personenbezogen auf Alphina — sie ziehen Phänomene um den Riss und die Resonanzträger, die Vier sind Schwerpunkt ohne persönliche Verfolgung. Runa hilft Alphina ab Ankunft. Der reisende Uhrmacher (= Moragh-Einwanderer, vor Jahren durch einen früheren Riss gekommen) lockt Vesper.
 
 **Akt II — Zusammenfinden (Sommer)**
 - **Alphina + Sorel:** Dunkelkammer-Sex. Kontrollverlust durch Vertrauen. Farne durch Kellerwände.

@@ -1393,16 +1393,17 @@
             "mz": 0,
             "kapitel": "13",
             "typen": [
-              "wissen"
+              "wissen",
+              "resonanz"
             ],
-            "titel": "Sorel: Schemen stehen auf jeder Platte hinter Alphina",
+            "titel": "Sorel: Alphina auf jeder Platte (Projektion ohne Erkenntnis)",
             "pov": "Kap 13 · Sorel",
             "tz_tag": 138,
             "datum_text": "18. Mai",
             "figur": "Sorel",
-            "fakt": "schemen-hinter-alphina",
-            "stufe": "versteht",
-            "detail": "Sorel entwickelt systematisch seine Vael-Platten. Jede zweite zeigt etwas das nicht da war — Schatten, Gestalten, leuchtende Augen. Auf einer Platte eine Frau mit Farnen, die nie vor seiner Linse stand. Die verstörenden Platten aber: humanoide Schemen mit schwarzen Augen, auf dem Glas klar, scharf. Sie stehen immer hinter IHR. Nie hinter jemand anderem. Sorel kennt den Namen der Frau noch nicht, aber er weiss: die Kamera fangt etwas ein, das ihn zurueck in die Stadt zieht."
+            "fakt": "sorel-projiziert-alphina",
+            "stufe": "manifestiert",
+            "detail": "Sorel entwickelt alte Platten (Kai, Oberstadt, Nachtholm) und sieht Alphina auf fast jeder von ihnen — am Rand, im Hintergrund, auch auf Aufnahmen aus der Zeit, bevor er wusste dass sie existiert. Die Haende-Platte aus K12 ist unmoeglich scharf, obwohl der Schaerfering schraeg lag. Er erklaert sich das mit: 'die Kamera sieht etwas'. Er versteht nicht, dass er selbst es ist: erste Manifestation seiner unbewussten Licht-Resonanz, geformt von seiner Obsession. Er versteckt alle Alphina-Platten in einer Schublade. Keine Schemen verfolgen Alphina — das Muster ist Sorels Projektion, bis K21."
           },
           {
             "tz": 551,
@@ -1574,7 +1575,7 @@
               "Sorel"
             ],
             "ort": "Lichthaus, Vael",
-            "detail": "Sorel allein nach der Nacht mit Alphina aus Kap 21. Rotlicht, die Platten der letzten Tage, auf jeder mit Alphina ein Schem hinter ihr. Er ahnt dass sie ihn ueberfordert — nicht durch Kraft, sondern durch Nicht-Aufhoeren-Koennen. Draussen die eskalierende Stadt: Gaslampen flackern, ein Schem unter der Hafenlaterne steht laenger als vorher. Bruecke zur Grenzverletzung in Kap 25.",
+            "detail": "Sorel allein nach der Nacht mit Alphina aus Kap 21. Rotlicht, die Platten der letzten Tage. Er weiss jetzt: er selbst formt das Licht auf den Platten, seine Resonanz. Er versucht bewusst zu zwingen, was er unbewusst gemacht hat — gelingt halb. Kein Handwerk, nur Obsession. Draussen die eskalierende Stadt: Gaslampen flackern, Nebel bleibt, ein Schem unter der Hafenlaterne. Er entscheidet, das eine groesste Detail weiter zu verschweigen: wie lange die Projektionen schon gehen. Das wird die Grenzverletzung in Kap 25.",
             "tags": [
               "Bruecke zwischen Dunkelkammer und Bruch",
               "Sorel-Vorbereitung"
@@ -1604,12 +1605,13 @@
             "typen": [
               "erkenntnis"
             ],
-            "titel": "Alphina findet die Steg-Fotos — 'Du hast mich genommen ohne zu fragen'",
+            "titel": "Alphina stellt Sorel — 'Wie lange schon?' (Grenzverletzung = Schweigen)",
             "pov": "Kap 25 · Sorel",
             "tz_tag": 198,
             "datum_text": "17. Juli",
+            "detail": "Alphina kommt zurueck nach der Dunkelkammer-Nacht aus K21. Sie hat nachgedacht. Sie stellt die Frage, die sie in K21 nicht gestellt hat: wie lange er sie schon auf den Platten hat. Sorel schweigt drei Sekunden zu lang. Sie weiss. Die Grenzverletzung ist nicht dass er sie fotografiert hat — sie ist dass er nie darueber geredet hat, nicht vor K21, nicht in K21, nicht danach. Sie geht.",
             "tags": [
-              "Beziehung: Alphina + Sorel — Grenzverletzung"
+              "Beziehung: Alphina + Sorel — Grenzverletzung durch Schweigen"
             ]
           },
           {
@@ -1842,7 +1844,7 @@
           {
             "tz": 551,
             "mz": 0,
-            "titel": "Alphina findet die heimlichen Fotos — „Du hast mich genommen ohne zu fragen“",
+            "titel": "Alphina stellt Sorel: „Wie lange schon?“ — Grenzverletzung durch Schweigen",
             "pov": "Kap 25 · Alphina",
             "kapitel": "25",
             "typen": [
@@ -1851,7 +1853,7 @@
             ],
             "tags": [
               "Schlüsselereignis",
-              "Tschechow feuert: „Darf ich?“"
+              "Beziehung: Vertrauensbruch durch Verheimlichung"
             ]
           },
           {

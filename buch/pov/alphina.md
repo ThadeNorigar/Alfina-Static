@@ -33,7 +33,7 @@ Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte
 
 - **Roman von Laris** (*Die Gezeiten von Irra*), dunkelroter Rücken, nie aufgeschlagen — liegt noch in Velde
 - **Notizbuch mit Ledereinband**: neun Jahre Protokoll der Anomalien, niemand hat je hineingeschaut
-- **Schemen hinter Alphina** auf Sorels Platten (Kap 13, 16) — sie weiß noch nichts davon
+- **Sorels Platten zeigen Alphina überall** (Kap 13, 16) — seine unbewusste Licht-Resonanz, nicht reale Gestalten. Sie ahnt nichts; er versteckt es bis K21.
 - **Farne durch Kellerwände** (Kap 21) — geladen, feuert in Moragh: Wälder wachsen in Minuten
 - **Graukorn vom Markt** (Kap 1) — sie hat es zurückgelegt; wächst nur in Purpurstein-Spalten
 
