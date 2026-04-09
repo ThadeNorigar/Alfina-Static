@@ -188,9 +188,9 @@ Das war ein Bild.
 
 Sein Körper antwortete darauf, wie er auf jedes Bild antwortete, das er festhalten wollte: er wurde still, er fixierte, er komponierte den Rahmen im Kopf — die Form des Wesens, das Verhältnis zu den Hortensienzweigen daneben, die Kante des Mondlichts, die das Motiv begrenzte. Sein Blick bohrte sich in die Stelle, wo das Wesen stand.
 
-Um das Wesen herum wurde es hell.
+Um ihn herum fiel der Garten zurück ins Dunkel.
 
-Nicht gleichmäßig, nicht wie ein neuer Mond am Himmel — die Helligkeit sammelte sich an einem einzigen Punkt, genau dort, wo Sorel hinsah, und die Hortensienblätter rundherum, die eben noch im gleichen Grauwert gestanden hatten, wurden wieder dunkler. Der Kies unter seinen Füßen verlor seine Struktur. Nur die Stelle vor ihm leuchtete, heller als alles, was das Mondlicht auf diesem Rasen bewirken konnte. Sorel sah es und hatte keine Erklärung dafür, die ihm einfiel, außer dass die Wolkendecke in diesem einen Augenblick aufgerissen sein musste, exakt an der richtigen Stelle, oder dass seine Augen nach der Rotlicht-Stunde eine Verzerrung produzierten, die er nie vorher gehabt hatte. Er hatte keine Zeit, zwischen den Erklärungen zu wählen.
+Nicht überall gleich — die Hortensienblätter ringsum, die eben noch deutlich gestanden hatten, verloren ihre Kanten. Der Kies unter seinen Füßen verlor seine Struktur. Das Mondlicht verschob sich, zog sich von den Blättern weg, von den Wegen weg, floss in die eine Richtung, in die Sorels Blick zeigte, und sammelte sich dort zu einer Helligkeit, die keine Mondnacht je auf einen einzelnen Punkt warf. Eine Kante aus weißem Licht um das Wesen herum, scharf, dicht, konzentriert auf weniger als einen Quadratfuß. Sorel sah es und hatte keine Erklärung dafür, die ihm einfiel, außer dass die Wolkendecke in diesem einen Augenblick aufgerissen sein musste, exakt an der richtigen Stelle, oder dass seine Augen nach der Rotlicht-Stunde eine Verzerrung produzierten, die er nie vorher gehabt hatte. Er hatte keine Zeit, zwischen den Erklärungen zu wählen.
 
 Das Wesen sah ihn an.
 
