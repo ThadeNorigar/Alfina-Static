@@ -13,7 +13,7 @@
 **Zeit:** TZ 551, Tag 142 (22. Mai), später Vormittag — Sommer, heiß für Vael
 **Wortziel:** ~3.000 W
 
-Maren trägt die Schiffsuhr in der Hosentasche (Messing, warm vom Schenkel, Glasdeckel mit feinem Riss). Edric hat ihr gestern Abend beiläufig erwähnt, dass ein Uhrmacher aus Karst — ein gewisser Greve — im *Anker* jeden Morgen an seinem Tisch arbeitet und Aufträge annimmt. Sie braucht die Uhr repariert, weil das Boot ohne den richtigen Takt nicht fertig wird. Das ist der einzige Grund, warum sie geht.
+Maren trägt die Schiffsuhr in der Hosentasche (Messing, warm vom Schenkel, Glasdeckel mit feinem Riss). Die Uhr lag in Harons Werkzeugschublade — sie weiß nicht ob sie je gegangen ist, sie hat sie nie ticken hören. Das Boot braucht eine funktionierende Schiffsuhr, weil das Abschätzen von Strömungen ohne sie Stückwerk ist. Sie hat im Hafenviertel nach einem Uhrmacher gefragt; man hat ihr den *Anker* genannt, ein Fremder aus Karst der jeden Morgen am selben Tisch sitzt. Sein Name ist ihr egal. Das ist der einzige Grund, warum sie geht.
 
 Auf dem Weg überquert sie die Brücke über die Grauwe. Sie bleibt nicht stehen — Maren bleibt nirgends stehen, wo man sie sehen könnte — aber ihre Augen lesen im Vorbeigehen das Wasser: ein Bündel Treibgut treibt stadteinwärts, nicht seewärts. Sie merkt es sich wie eine Tiefgangslinie. Danach.
 
@@ -31,7 +31,7 @@ Ihre Augen gehen auf seine Hände, weil seine Augen zu viel sind. Zwei Schwielen
 
 Er sagt nichts. Er wartet. Gast eröffnet.
 
-Sie zieht die Uhr aus der Hosentasche. Ihre Hand zittert nicht. Sie legt die Uhr auf die Kante des Filzes, nicht auf seine Werkzeuge. *"Die geht nicht mehr. Seit drei Wochen."* Ihre Stimme hält — aber sie ist nicht dieselbe wie heute Morgen auf der Werft. Tiefer, kleiner, kontrollierter. Sie hört das selbst. *"Es ist eine Schiffsuhr, Messinggehäuse. Haron Dahl hat sie gekauft, lange her."*
+Sie zieht die Uhr aus der Hosentasche. Ihre Hand zittert nicht. Sie legt die Uhr auf die Kante des Filzes, nicht auf seine Werkzeuge. *"Die geht nicht. Ich weiß nicht ob sie je gegangen ist."* Ihre Stimme hält — aber sie ist nicht dieselbe wie heute Morgen auf der Werft. Tiefer, kleiner, kontrollierter. Sie hört das selbst. *"Es ist eine Schiffsuhr, Messinggehäuse. Haron Dahl hat sie gekauft, lange her."*
 
 Er nimmt die Uhr. Ein Griff, der das Messing zum ersten Mal anfasst und es trotzdem behandelt, als kenne er es seit Jahren. Dreht die Uhr im Licht. Findet den Riss im Glasdeckel. Hebt die Braue nicht. *"Darf ich öffnen?"* Sie nickt. Er legt die Uhr auf den Filz, in einer Position, die sie nicht entschieden hat und die trotzdem der richtige Platz ist. Der kleine Schraubenzieher. Das Gehäuse gibt nach wie eine Hand, die sich entspannt. Marens Augen auf seinen Fingerkuppen. Ihre eigenen Finger, auf der Tischkante abgelegt, brauchen einen Halt, der nicht er ist.
 
@@ -43,7 +43,7 @@ Er spricht über die Uhr, nicht zu ihr. *"Das Unruhrad hat einen Spannungsriss, 
 
 Um den Blick von seinen Händen wegzubekommen, geht sie aus dem Fenster. Ein schmales Band Grauwe, drei Handbreit, zwischen zwei Hauswänden. Treibgut — stadteinwärts. Immer noch. Sie zählt an der Kante einer Hauswand: fünfzehn Sekunden einwärts, dann normal, dann wieder einwärts. Das Wasser tut dasselbe wie ihr Körper: etwas, das es nicht tun sollte, in kleinen Stößen, die kommen und gehen. Das hilft, ein bisschen.
 
-Das Geräusch seines Stifts stoppt. Sie dreht den Kopf. Er hat aufgeschaut. Sein Blick folgt ihrem — Fenster, Grauwe, zurück zu ihr. Einen Atemzug halten sich ihre Augen. Er sieht es auch. Er weiß, dass sie es sieht. Keiner sagt es. In dieser Stille — die nicht die Stille des Schankraums ist, sondern eine Stille die zwischen ihnen aufgeht und eine eigene Temperatur hat — registriert er, einen halben Schlag lang, auch das andere. Was in ihrem Körper ist. Er lässt den Blick zwei Herzschläge zu lang auf ihr liegen. Dann senkt er ihn zurück aufs Buch. Maren spürt die Hitze in ihrem Gesicht.
+Das Geräusch seines Stifts stoppt. Sie dreht den Kopf. Er hat aufgeschaut. Sein Blick folgt ihrem — Fenster, Grauwe, zurück zu ihr. Einen Atemzug halten sich ihre Augen. Er sieht, dass sie etwas sieht. Er lässt es stehen. Keiner sagt etwas. In dieser Stille — die nicht die Stille des Schankraums ist, sondern eine Stille die zwischen ihnen aufgeht und eine eigene Temperatur hat — registriert er, einen halben Schlag lang, auch das andere. Was in ihrem Körper ist. Er lässt den Blick zwei Herzschläge zu lang auf ihr liegen. Dann senkt er ihn zurück aufs Buch. Maren spürt die Hitze in ihrem Gesicht.
 
 Er reicht ihr einen schmalen Zettel — Termin, eine Nummer, sein Name in aufrechter, kleiner Handschrift: *V. Greve.* *"In drei Tagen. Wenn das Ersatzteil länger braucht, schicke ich dem Wirt Bescheid."* Seine Stimme ist nicht warm und nicht kalt. Sie ist die eines Mannes, der weiß, was er gerade gesehen hat, und der nichts damit macht. Das macht es schlimmer. Ihre Finger streifen seine nicht ganz. Sie nickt. *"Danke."*
 
@@ -51,7 +51,7 @@ Sie geht. Sechs, sieben Schritte. Der Fuhrmann schaut nicht auf. Der Wirt nickt 
 
 **Dialog-Informationen:**
 - Maren erfährt: Name *V. Greve* (Nachname + Anfangsbuchstabe), Diagnose der Uhr (Spannungsriss, Salzspirale), Preis, Termin (3 Tage), dass er die rückwärts fließende Grauwe ebenfalls sieht
-- Vesper erfährt: Marens Name (nicht explizit — sie nennt sich nicht, er notiert es für den Termin), Harons Uhr kommt von Haron Dahl, Maren sieht das Grauwe-Anomalie, Maren trägt etwas in sich das er erkennt
+- Vesper erfährt: Marens Name (er fragt beim Notieren: *"Ihr Name?"*, sie nennt ihn), Harons Uhr kommt von Haron Dahl, Maren sieht etwas am Fenster (was genau, lässt er stehen), Maren trägt etwas in sich das er erkennt
 - Marens Erkenntnis am Ende: Ihr Körper kennt diesen Mann seit elf Minuten, und das wird in drei Tagen nicht weniger sein. "Hände die warten könnten" — sie weiß nicht worauf. Sie weiß nur, dass sie es will.
 - Vespers Erkenntnis: stumm, nicht ausformuliert — er erkennt Marens Signal, quittiert es mit zwei Herzschlägen zu langem Blick. Er ist kein Raubtier.
 
