@@ -87,8 +87,12 @@ DAS ist der Konflikt. Nicht ein versteckter Preis — die UNGERECHTIGKEIT selbst
 **Buch 1 — "Ich sehe Dinge die nicht da sind"**
 - Die Uhr verliert 4:33. Er sieht das Muster. Kein Zauber.
 - Bauerndiagonale. Vier Partien, vier Gegner. Er hat aufgehört zu spielen.
-- Hand auf Standuhr: sie steht. Hand weg: 4:33. Defekt den er auslöst? Oder?
-- Manuskript-Nacht: Er sieht zwei Handschriften in der Tinte. Nicht Expertise — Muster-Sinn.
+- **Tidemoor-Uhr, Kap 7:** Hand auf Standuhr: sie geht rein. Hand weg: 4:33 wieder. Soweit weiß er es aus dem ersten Tag. Was er nicht weiß: die Berührung hat einen dauerhaften Nebeneffekt ausgelöst, der erst am zweiten Tag sichtbar wird. Ab dem zweiten Tag läuft die Uhr permanent rein, auch ohne Auflegen. Vesper schreibt es dem Raum/Klima zu und hinterfragt es sechs Wochen lang nicht.
+- **Kap 11:** Beim Sortieren seiner 17 abweichenden Uhren merkt Vesper, dass nur die Tidemoor-Uhr stabil geblieben ist — die anderen sechzehn laufen weiter falsch. Er erkennt: es war die Berührung, nicht der Raum. Eine einzige, und dauerhaft.
+- **Kap 11, Kvarns Taschenuhr:** Zweite Bestätigung. Vesper arbeitet an der Welle, bekommt sie nicht ganz rein. Alphina klopft, Dialog durch den Türspalt, kein Körperkontakt. Nach Alphinas Abgang läuft die Uhr plötzlich **präzise**. Seine Hand war nah, aber nicht drauf. Alphinas Resonanz im Flur + Vespers eigene, den ganzen Tag aktive Resonanz (Mustersuche, Kartenarbeit) = gekippter Zustand. Vesper erkennt sich als Resonator. Schreibt: *Ich bin der achtzehnte Punkt.*
+- Manuskript-Nacht (Kap 15/16): Er sieht zwei Handschriften in der Tinte. Nicht Expertise — Muster-Sinn.
+
+**Regel für Vesper in Buch 1:** Seine Berührungen können an Uhrwerken **permanente** Korrekturen hinterlassen — er denkt, er habe nichts getan, und tatsächlich hat er gar nichts willentlich getan. Seine Resonanz läuft im Hintergrund. Die Uhr "merkt sich" den richtigen Takt. Vesper selbst versteht das erst in Kap 11.
 
 **Buch 2 — Yarros. Es kostet ihn NICHTS.**
 - Er sagt voraus wo der Angriff kommt. Drei Sekunden vorher. Er SIEHT das Muster.
