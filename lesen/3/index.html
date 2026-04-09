@@ -66,18 +66,19 @@
     }
 
     .chapter-header {
-      padding: 5rem 3rem 3rem;
+      padding: 3rem 3rem 3rem;
       text-align: center;
       border-bottom: 1px solid var(--accent-faint);
     }
 
-    .chapter-number {
+    .chapter-breadcrumb {
       font-family: 'Cormorant Garamond', serif;
       font-size: 0.8rem;
-      letter-spacing: 0.35em;
+      letter-spacing: 0.25em;
       text-transform: uppercase;
       color: var(--smoke);
-      margin-bottom: 1rem;
+      margin-bottom: 1.2rem;
+      line-height: 1.6;
     }
 
     .chapter-title {
@@ -125,6 +126,18 @@
 
     .prose p.opening { text-indent: 0; }
 
+    .prose p.date-line {
+      text-indent: 0;
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.95rem;
+      letter-spacing: 0.05em;
+      margin-bottom: 1.8rem;
+      opacity: 0.8;
+    }
+
+    .prose p.date-line em { font-style: italic; }
+
     .prose p.opening::first-letter {
       font-size: 3.5rem;
       float: left;
@@ -149,6 +162,12 @@
       align-items: center;
       padding: 2rem 3rem 2.5rem;
       border-top: 1px solid var(--accent-faint);
+    }
+
+    .page-nav-top {
+      border-top: none;
+      border-bottom: 1px solid var(--accent-faint);
+      padding: 1.25rem 3rem 1.25rem;
     }
 
     .page-nav a {
@@ -222,11 +241,74 @@
       to { opacity: 1; transform: perspective(1200px) rotateY(0deg); }
     }
 
+    .draft-badge {
+      margin-top: 1.2rem;
+      text-align: center;
+      min-height: 1.5rem;
+    }
+    .draft-link {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.72rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--smoke);
+      text-decoration: none;
+      border: 1px solid var(--paper-edge);
+      padding: 0.3rem 0.9rem;
+      border-radius: 2px;
+      transition: color 0.2s, border-color 0.2s;
+      display: inline-block;
+    }
+    .draft-link:hover { color: var(--accent); border-color: var(--accent); }
+    .draft-label {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.72rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--smoke);
+      opacity: 0.5;
+    }
+
+    /* Entwurfs-Renderer */
+    .entwurf-h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.8rem; letter-spacing: 0.25em; text-transform: uppercase;
+      color: var(--accent); margin-top: 2rem; margin-bottom: 0.3rem; text-indent: 0;
+    }
+    .entwurf-h2 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.75rem; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--muted); margin-top: 1.5rem; margin-bottom: 0.2rem; text-indent: 0;
+    }
+    .entwurf-h3 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.7rem; letter-spacing: 0.15em; text-transform: uppercase;
+      color: var(--smoke); margin-top: 1rem; margin-bottom: 0.2rem; text-indent: 0;
+    }
+    .entwurf-p {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1rem; line-height: 1.75; color: var(--ink);
+      text-indent: 0; margin-bottom: 0.3rem;
+    }
+    .entwurf-li {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.95rem; line-height: 1.6; color: var(--muted);
+      text-indent: 1.5rem; margin-bottom: 0;
+    }
+    .entwurf-table-row {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.82rem; line-height: 1.5; color: var(--smoke);
+      text-indent: 0; margin-bottom: 0; white-space: pre-wrap; word-break: break-all;
+    }
+    .entwurf-hr { border: none; border-top: 1px solid var(--paper-edge); margin: 1.5rem 0; }
+
     @media (max-width: 600px) {
       body { padding: 0.5rem; }
-      .chapter-header { padding: 3rem 1.5rem 2rem; }
+      .chapter-header { padding: 2rem 1.5rem 2rem; }
+      .chapter-breadcrumb { font-size: 0.7rem; letter-spacing: 0.2em; }
       .prose { padding: 1.5rem; padding-left: 2rem; }
       .page-nav { padding: 1.5rem; }
+      .page-nav-top { padding: 1rem 1.5rem; }
       .prose p { font-size: 1.05rem; line-height: 1.9; }
     }
   </style>
@@ -235,10 +317,13 @@
   <div class="grain"></div>
 
   <div class="book enter" id="book">
+    <div class="page-nav page-nav-top" id="nav-top"></div>
+
     <div class="chapter-header">
-      <div class="chapter-number" id="ch-number"></div>
+      <div class="chapter-breadcrumb" id="ch-breadcrumb"></div>
       <h1 class="chapter-title" id="ch-title"></h1>
       <div class="chapter-ornament">— · —</div>
+      <div class="draft-badge" id="draft-badge"></div>
     </div>
 
     <div class="prose" id="chapter"></div>
@@ -271,7 +356,10 @@
     const kapId = isInterludium ? slug : slug.padStart(2, '0');
 
     // WIP mode: linked from /story-in-work/ with ?wip=1
-    const isWip = new URLSearchParams(window.location.search).has('wip');
+    const urlParams = new URLSearchParams(window.location.search);
+    const isWip = urlParams.has('wip');
+    // Entwurfs-Modus: ?entwurf=1 zeigt entwurfs_datei statt datei
+    const showEntwurf = urlParams.has('entwurf');
 
     fetch('/buch/status.json')
       .then(r => r.json())
@@ -279,6 +367,7 @@
         // Find the chapter across all books
         let ch = null;
         let buchData = null;
+        let aktData = null;
         let allKapitelOrder = []; // flat ordered list of chapter IDs
 
         for (const buchKey of ['buch1', 'buch2', 'buch3']) {
@@ -287,8 +376,9 @@
           if (buch.kapitel[kapId]) {
             ch = buch.kapitel[kapId];
             buchData = buch;
-            // Build flat chapter order from akte
+            // Build flat chapter order from akte, find containing akt
             for (const akt of buch.akte) {
+              if (akt.kapitel.includes(kapId)) aktData = akt;
               for (const k of akt.kapitel) {
                 allKapitelOrder.push(k);
               }
@@ -297,32 +387,62 @@
           }
         }
 
-        if (!ch || !ch.datei) {
+        // Pipeline v2: Auto-Auswahl welche Datei geladen wird
+        // - Wenn ?entwurf=1 oder Status ist eine Entwurfs-Phase: lade entwurfs_datei
+        // - Sonst: lade datei (das fertige Kapitel)
+        const ENTWURFS_PHASEN = new Set(['entwurf', 'entwurf-checked', 'entwurf-ok', 'ausarbeitung']);
+        const useEntwurf = ch && (showEntwurf || (ENTWURFS_PHASEN.has(ch.status) && !ch.datei));
+        const targetDatei = ch && (useEntwurf ? ch.entwurfs_datei : (ch.datei || ch.entwurfs_datei));
+
+        if (!ch || !targetDatei) {
           document.getElementById('ch-title').textContent = 'Kapitel nicht gefunden';
           return;
         }
 
         // Guard: non-final chapters only visible in WIP mode
         if (!isWip && ch.status !== 'final') {
-          document.getElementById('ch-number').textContent = '';
+          document.getElementById('ch-breadcrumb').textContent = '';
           document.getElementById('ch-title').textContent = 'Noch nicht verfügbar';
           document.getElementById('chapter').innerHTML = '<p style="text-align:center;color:var(--smoke);padding:3rem;">Dieses Kapitel ist noch in Arbeit.</p>';
           document.getElementById('nav').innerHTML = '';
+          document.getElementById('nav-top').innerHTML = '';
           return;
         }
 
-        // Set header
+        // Breadcrumb: "Der Riss · Akt I · Kapitel Fünf"
+        const buchTitel = (buchData.meta && buchData.meta.titel) ? buchData.meta.titel : '';
+        const aktLabel = aktData ? aktData.name : '';
+        let kapLabel;
         if (isInterludium) {
-          document.getElementById('ch-number').textContent = 'Interludium';
-          // Extract subtitle from titel (after ":")
-          const parts = ch.titel.split(':');
-          document.getElementById('ch-title').textContent = parts.length > 1 ? parts[1].trim() : ch.titel;
+          const num = kapId.substring(1).padStart(2, '0');
+          const wort = ZAHLWORT[num] || kapId.substring(1);
+          kapLabel = 'Interludium ' + wort;
         } else {
-          document.getElementById('ch-number').textContent = 'Kapitel ' + (ZAHLWORT[kapId] || kapId);
-          document.getElementById('ch-title').textContent = ch.pov;
+          const wort = ZAHLWORT[kapId] || kapId;
+          kapLabel = 'Kapitel ' + wort;
         }
+        const breadcrumb = [buchTitel, aktLabel, kapLabel].filter(Boolean).join(' · ');
+        document.getElementById('ch-breadcrumb').textContent = breadcrumb;
 
-        document.title = 'Der Riss — ' + (isInterludium ? 'Interludium' : 'Kapitel ' + parseInt(kapId));
+        // Set header — nur Name der Hauptperson (ch.pov)
+        // Bei Entwurfs-Anzeige: prefix mit "Entwurf — "
+        const titlePrefix = useEntwurf ? 'Entwurf — ' : '';
+        document.getElementById('ch-title').textContent = titlePrefix + ch.pov;
+
+        document.title = 'Der Riss — ' + titlePrefix + ch.pov;
+
+        // Draft-Badge: Toggle zwischen Entwurf und finaler Fassung (nur in WIP-Modus)
+        if (isWip) {
+          const badge = document.getElementById('draft-badge');
+          const baseUrl = '/lesen/' + (isInterludium ? slug : parseInt(slug).toString()) + '/';
+          if (useEntwurf && ch.datei) {
+            badge.innerHTML = `<a class="draft-link" href="${baseUrl}?wip">Entwurf &middot; Zur finalen Fassung &rarr;</a>`;
+          } else if (!useEntwurf && ch.entwurfs_datei) {
+            badge.innerHTML = `<a class="draft-link" href="${baseUrl}?wip&entwurf">&larr; Entwurf ansehen</a>`;
+          } else if (useEntwurf) {
+            badge.innerHTML = `<span class="draft-label">Entwurf</span>`;
+          }
+        }
 
         // Build navigation
         const myIdx = allKapitelOrder.indexOf(kapId);
@@ -334,9 +454,11 @@
 
         // Determine if nav links should be active
         // In normal mode: only link to chapters with status "final"
-        // In WIP mode: link to any chapter that has a datei (= has been written)
+        // In WIP mode: link to any chapter that has a datei OR entwurfs_datei
         function canLink(targetCh) {
-          if (!targetCh || !targetCh.datei) return false;
+          if (!targetCh) return false;
+          const hasAny = !!(targetCh.datei || targetCh.entwurfs_datei);
+          if (!hasAny) return false;
           if (isWip) return true;
           return targetCh.status === 'final';
         }
@@ -349,7 +471,9 @@
         // Count readable chapters for page info
         const readable = allKapitelOrder.filter(k => {
           const c = buchData.kapitel[k];
-          return isWip ? (c && c.datei) : (c && c.status === 'final');
+          if (!c) return false;
+          const hasAny = !!(c.datei || c.entwurfs_datei);
+          return isWip ? hasAny : (c.status === 'final');
         });
         const myReadableIdx = readable.indexOf(kapId);
         const pageInfo = myReadableIdx >= 0
@@ -373,44 +497,75 @@
         }
 
         document.getElementById('nav').innerHTML = navHtml;
+        document.getElementById('nav-top').innerHTML = navHtml;
 
-        // Fetch and render the markdown
-        fetch('/buch/kapitel/' + ch.datei)
+        // Fetch and render the markdown — uses targetDatei (entwurfs_datei or datei)
+        fetch('/buch/kapitel/' + targetDatei)
           .then(r => r.text())
           .then(md => {
             const lines = md.split('\n');
             const container = document.getElementById('chapter');
-            let html = '';
-            let isFirst = true;
-            let skipTitle = true;
-
-            for (let i = 0; i < lines.length; i++) {
-              const line = lines[i].trim();
-              if (skipTitle && line.startsWith('# ')) { skipTitle = false; continue; }
-              if (line === '') continue;
-              if (line === '---') {
-                html += '<p class="scene-break">&middot; &middot; &middot;</p>';
-                isFirst = true;
-                continue;
-              }
-              if (line.startsWith('#')) continue;
-
-              let processed = line.replace(/\*([^*]+)\*/g, '<em>$1</em>');
-              const isDialog = line.startsWith('"') || line.startsWith('\u201e') || line.startsWith('\u00ab');
-
-              if (isFirst) {
-                html += '<p class="opening">' + processed + '</p>';
-                isFirst = false;
-              } else if (isDialog) {
-                html += '<p class="dialog">' + processed + '</p>';
-              } else {
-                html += '<p>' + processed + '</p>';
-              }
-            }
-
-            container.innerHTML = html;
+            container.innerHTML = useEntwurf ? renderEntwurf(lines) : renderProsa(lines);
           });
       });
+
+    function escHtml(s) {
+      return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    }
+    function inlineEntwurf(s) {
+      return escHtml(s)
+        .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*([^*]+)\*/g, '<em>$1</em>');
+    }
+    function renderEntwurf(lines) {
+      let html = '';
+      let skipFirst = true;
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (line === '') continue;
+        if (skipFirst && line.startsWith('# ')) { skipFirst = false; continue; }
+        if (line === '---') { html += '<div class="entwurf-hr"></div>'; continue; }
+        if (line.startsWith('### ')) { html += '<p class="entwurf-h3">' + inlineEntwurf(line.slice(4)) + '</p>'; continue; }
+        if (line.startsWith('## '))  { html += '<p class="entwurf-h2">' + inlineEntwurf(line.slice(3)) + '</p>'; continue; }
+        if (line.startsWith('# '))   { html += '<p class="entwurf-h1">' + inlineEntwurf(line.slice(2)) + '</p>'; continue; }
+        if (line.startsWith('|'))    { html += '<p class="entwurf-table-row">' + escHtml(line) + '</p>'; continue; }
+        if (line.startsWith('- ') || line.startsWith('* ')) {
+          html += '<p class="entwurf-li">' + inlineEntwurf(line.slice(2)) + '</p>'; continue;
+        }
+        html += '<p class="entwurf-p">' + inlineEntwurf(line) + '</p>';
+      }
+      return html;
+    }
+    function renderProsa(lines) {
+      let html = '';
+      let isFirst = true;
+      let skipTitle = true;
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (skipTitle && line.startsWith('# ')) { skipTitle = false; continue; }
+        if (line === '') continue;
+        if (line === '---') {
+          html += '<p class="scene-break">&middot; &middot; &middot;</p>';
+          isFirst = true;
+          continue;
+        }
+        if (line.startsWith('#')) continue;
+        let processed = line.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+        const isDialog = line.startsWith('"') || line.startsWith('\u201e') || line.startsWith('\u00ab');
+        const isDateLine = isFirst && /^\*[^*]+\*$/.test(line);
+        if (isDateLine) {
+          html += '<p class="date-line">' + processed + '</p>';
+        } else if (isFirst) {
+          html += '<p class="opening">' + processed + '</p>';
+          isFirst = false;
+        } else if (isDialog) {
+          html += '<p class="dialog">' + processed + '</p>';
+        } else {
+          html += '<p>' + processed + '</p>';
+        }
+      }
+      return html;
+    }
 
     function turnPage(e, direction, url) {
       e.preventDefault();
