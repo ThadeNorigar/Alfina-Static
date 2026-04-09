@@ -6,7 +6,8 @@
 **Gänsehaut-Momente:**
 1. Sorel entwickelt eine Routineplatte — und Alphina ist drauf, obwohl sie nicht dort war. Dann die nächste. Und die nächste. Überall sie. Er erklärt es sich mit der Kamera.
 2. Sie steht plötzlich an seiner Kellertür. Er lässt sie nicht rein. Er lügt glatt und weiß, dass sie es merkt.
-3. Auf dem Spaziergang, an einer engen Stelle: ihre Arme streifen sich, keiner zieht zurück. Später: "Sie sehen mich an, als ob Sie mich schon länger kennen." Er weicht aus.
+3. Auf dem Spaziergang: "Es geht besser." — sie stellt es fest, schaut auf seine Hand. "Seit vorgestern." — er ordnet die Heilung dem Abend im Garten zu, ohne es auszusprechen. Beide wissen welcher Abend. Keiner spricht weiter.
+4. Später, auf der Treppe: "Sie sehen mich an, als ob Sie mich schon länger kennen als drei Tage." Er weicht aus.
 
 > **Zentraler Kanon-Twist:** Sorels Resonanz ist *Licht-Formung* (passt in 00-canon-kompakt: kein Röntgenblick, kein Licht-aus-dem-Nichts, aber vorhandenes Licht kann er unbewusst formen). Seine Obsession mit Alphina manifestiert sich auf den Platten: er projiziert sie dorthin, wo sie nicht war. Er denkt, die Kamera fängt etwas ein. Er weiß nicht, dass er es selbst ist. Die Leserin ahnt es ab dieser Szene, Sorel erst in K21.
 
@@ -156,13 +157,13 @@ Also reden sie über andere Dinge. Sie erzählt knapp von den Steinen, den Messu
 
 Er erzählt etwas aus der ersten Woche in Vael: wie er das Lichthaus gefunden hat, die Miete, die Kellertür die schon einen Nagel in der Wand hatte an der richtigen Höhe. Sie hört aufmerksam zu bei dem Detail mit dem Nagel. Das registriert er — die kurze Verlangsamung ihres Schritts — ohne zu verstehen warum.
 
-An einer engen Stelle der Gasse müssen sie nebeneinander passieren. Ihre Arme streifen sich. Der Stoff seiner Jacke gegen den Stoff ihrer. Keiner zieht zurück. Keiner kommentiert. Sorel spürt die Berührung noch eine Viertelstunde später auf der Haut, wie Restlicht auf einer Platte — das schlechte Bild, das er nicht loswird.
+An einer engen Stelle der Gasse müssen sie nebeneinander passieren. Ihre Arme streifen sich. Der Stoff seiner Jacke gegen den Stoff ihrer. Keiner zieht zurück. Keiner kommentiert. In Sorels Körper legt sich der Stoff-Kontakt neben eine Erinnerung, die er in den letzten drei Tagen zwölfmal weggedrückt hat: ihre linke Hand auf seinem Knie, auf der Bank, am Ende von K12, in dem Moment, als die drei Silhouetten auf der Mauer saßen. Er hatte damals beschlossen, die Hand nicht zu sehen, um sie nicht wegzunehmen. Jetzt ist der Arm, jetzt ist wieder Gewebe gegen Gewebe, und er weiß nicht, ob das eine Fortsetzung ist oder etwas Neues.
 
-Sie fragt nach seiner linken Hand. Endlich. Er hatte damit gerechnet, dass die Frage kommt, seit K12. Jetzt kommt sie beiläufig, zwischen zwei Schritten: "Ihre Hand. Die Bandage. Was war das?"
+Ihr Blick fällt zwischendurch auf seine linke Hand — nicht lang, nicht auffällig, ein kurzer Abgleich mit dem, was sie zwei Nächte vorher gesehen hat. Er weiß, dass sie ihn prüft. Er hält die Hand nicht anders als sonst. Er hält sie besser, als er sie vor drei Tagen gehalten hat. Die Wunde zieht nicht mehr so stark. Er hat gestern Morgen die Bandage neu gewickelt und die dunkle Stelle am Leinen war kleiner, die Haut darunter straffer. Er hatte keine Erklärung dafür und keine gesucht — er hatte es als natürliche Heilung abgebucht und nicht weiter nachgedacht.
 
-Er sagt: "Ein Unfall mit der Kamera." Das ist die halbe Wahrheit. Die Verbrennung ist von etwas, das er mit der Kamera gesehen hat — nicht von der Kamera selbst. Aber die Grenze zwischen diesen beiden Sätzen ist so fein, dass er sie nur mit einem Unterschied sagen kann, den sie nicht hören kann.
+Sie sagt: "Es geht besser."
 
-Sie nickt. Sie fragt nicht weiter. Sie hält den halben Satz gegen ihn, ohne ihn zu benennen.
+Nicht als Frage. Als Feststellung — sie sieht es. Er nickt. "Seit vorgestern." Er lässt den Satz so stehen. *Vorgestern* war die Nacht im Garten. Er weiß nicht, warum er das Datum genau an den Abend an der Bank legt, aber er tut es, und er weiß auch, dass sie weiß, welcher Abend gemeint ist. Sie schaut kurz weg. Sie lässt ihn den Satz nicht zurücknehmen und nicht erweitern. Er ist jetzt gesagt.
 
 Sie kommen an eine Treppe, wo die Unterstadt in die Oberstadt übergeht — eine breite Stufenanlage aus Purpurstein, vier Absätze, Gaslampen die jetzt gezündet sind. Sie steigt die ersten beiden Stufen hoch. Bleibt stehen. Er auch. Von hier sieht man die Grauwe, weit hinten, eine graue Fläche unter dem Abendhimmel.
 
@@ -193,8 +194,8 @@ Die Schublade ist zu. Er öffnet sie nicht wieder. Er sitzt auf dem Hocker und s
 Er schläft nicht.
 
 **Dialog-Informationen:**
-- Was sie austauschen: Ihre Frage "Warum wollten Sie mich nicht reinlassen". Seine ausweichende Antwort. Knappe Anekdoten über Steine und Lichthaus. Ihre Frage nach der Bandage. Seine halbe Wahrheit. Ihre Feststellung "als ob Sie mich schon länger kennen". Sein Ausweich-Satz. Ihr Abschiedssatz "Entwickeln Sie weiter."
-- Was *nicht* gesagt wird: Die Platten in der Schublade. Alphina auf elf Bildern, von denen eins drei Monate vor ihrer Begegnung aufgenommen wurde. Die Resonanz, die Sorel nicht kennt. Die Anziehung, die beide spüren und nicht benennen.
+- Was sie austauschen: Ihre Frage "Warum wollten Sie mich nicht reinlassen". Seine ausweichende Antwort. Knappe Anekdoten über Steine und Lichthaus. Ihre Feststellung "Es geht besser." über seine Hand, nicht als Frage — sie sieht es. Sein "Seit vorgestern" (das Datum im Garten). Ihre Feststellung "als ob Sie mich schon länger kennen". Sein Ausweich-Satz. Ihr Abschiedssatz "Entwickeln Sie weiter."
+- Was *nicht* gesagt wird: Die Platten in der Schublade. Alphina auf elf Bildern, von denen eins drei Monate vor ihrer Begegnung aufgenommen wurde. Die Resonanz, die Sorel nicht kennt. Dass Alphina an der Heilung seiner Hand beteiligt war (sie weiß es selbst nicht). Die Anziehung, die beide spüren und nicht benennen. Der K12-Kontakt auf der Bank wird nicht thematisiert.
 - Was jede Figur mitnimmt:
   - Sorel: sie hat ihm eine Tür geöffnet mit der "schon länger kennen"-Feststellung. Er ist hindurchgegangen, in die falsche Richtung. Er weiß, dass er es hätte sagen müssen. Er weiß nicht, wie man so etwas sagt. Er denkt nicht mehr an die Platten als Geheimnis — er denkt daran, wie er ihren Arm im Gasse-Engen gespürt hat.
   - Alphina (Cross-POV-Saat): sie ist ihm auf der Spur. Sie weiß nicht was er verbirgt, aber sie weiß dass er verbirgt. Die Bandage, das Nicht-Reinlassen, der halbe Satz. Und ihr letzter Satz "Entwickeln Sie weiter. Ich bin neugierig" — das ist eine Aufforderung und eine Warnung in einem. Sie will sehen. Sie wartet, dass er ihr etwas bringt.
@@ -202,8 +203,9 @@ Er schläft nicht.
 **Tschechow-Waffen geladen:**
 - "Sie sehen mich an, als ob Sie mich schon länger kennen" — *der Hinweis, den sie ihm gibt, ohne es zu wissen*. Wird in den Streit-Szenen wieder aufgenommen und explodiert in K21, wenn sie im Streit die Frage stellt, die Sorel zwingt zuzugeben, was auf den Platten ist.
 - "Entwickeln Sie weiter. Ich bin neugierig auf das, was Sie sehen." — ihre implizite Aufforderung. Wird der Katalysator für sein späteres Geständnis-nicht-Geständnis.
-- Die zufällige Berührung im Gasseneng — erster körperlicher Kontakt, nicht zurückgezogen. Baseline für alle körperlichen Eskalationen bis K21.
-- Die halbe Wahrheit über die Bandage — wird später als Lüge aufgedeckt.
+- Der Arm-Streif im Gasseneng — zweiter körperlicher Kontakt nach K12 (Hand auf Knie), jetzt bewusster registriert auf beiden Seiten. Baseline für die körperliche Eskalation bis K21.
+- Die Heilung der Verbrennung — Sorel hat es bemerkt, erklärt es nicht, ordnet es nicht zu. Feuert in Akt III, wenn Alphina bewusst heilt (z.B. nach einer späteren Verletzung) und er die Verbindung zieht.
+- "Seit vorgestern" — Sorel ordnet die Heilung zeitlich dem Abend im Garten zu, ohne das auszusprechen. Alphina registriert den Satz als bedeutsam. Echo für K21.
 - Der Nagel in der Wand, den sie mit kurzer Verlangsamung registriert — sie weiß etwas oder vermutet etwas. Cross-POV mit einem Alphina-Kapitel.
 
 **Tschechow-Waffen abgefeuert:**
@@ -220,11 +222,14 @@ Er schläft nicht.
 ### Was Sorel weiß
 
 **Am Anfang von K13:**
-- Alphinas Vorname (erste Begegnung K12)
-- Die Frau von Platte 14 ist Alphina — er hat sie an der Sehne erkannt, noch bevor er ihr Gesicht sah (K12). Er hat ihr die Platte NICHT gezeigt. Diese Asymmetrie bleibt.
-- Drei Silhouetten auf der Mauer im Garten (K12)
-- Alphina hat einen anderen Mann angedeutet, ohne Namen
-- Neue Hände-Platte: belichtet in K12, noch nicht entwickelt
+- Alphinas Vorname (erste Begegnung K12, sie hat dreimal gerufen, er ist aus den Farnen getreten, Hände sichtbar)
+- Die Frau von Platte 14 ist Alphina — er hat ihr Gesicht im Mondlicht gesehen, aber erkannt hat er sie durch die Sehne am linken Daumenansatz, als sie die Hände auf den Purpurstein legte. Er hat ihr die Platte NICHT gezeigt. Diese Asymmetrie bleibt.
+- Drei Silhouetten auf der Mauer am Ende des Hauptwegs (katzengroß, sitzend, rauchende Schultern). Sie sah die Augen zuerst, er sah den Rauch.
+- Alphina weiß seit K12, dass er eine Verbrennung an der linken Hand hat, dass sie im Garten passiert ist, vor zwei Nächten, und dass er die Ursache nicht gesehen hat (er hat es ihr am Farn gesagt). Sie hat nicht weiter gefragt.
+- Sein Verband fühlt sich seit zwei Tagen besser an — die Wundschicht strafft sich. Er hat keine Erklärung. (Der Leser weiß: K12 Bank-Szene, Alphinas unbewusste Resonanz-Wärme.) 
+- Neue Hände-Platte: belichtet in K12 (einhändig, Schärfering schräg), noch nicht entwickelt
+- Auf der Bank am Ende von K12 lag Alphinas linke Hand auf seinem Knie — er hat beschlossen, sie nicht zu sehen, um sie nicht wegzunehmen. Er trägt diesen Moment als Körpererinnerung.
+- Er hat in K12 einen Satz gesagt ("Wenn die Messung sich mit dem Beobachter ändert, war es keine Messung"), den Alphina als Uhrmacher-Ton gelesen hat — ohne dass er davon weiß. Ein Echo-Punkt.
 - "Die Kamera sieht mehr als meine Augen" als Arbeitshypothese seit K02/K06/K10
 
 **Am Ende von K13:**
@@ -250,9 +255,11 @@ Er schläft nicht.
 
 ### Anti-Kanibalisierung K12
 
-- Kein Flashback zur Bank-Szene. Maximal Echo-Sätze.
+- Kein Flashback zur Begegnung an den Farnen, keine Rekonstruktion der Vorstellung, keine Wiederholung der drei-Silhouetten-Passage. Maximal knappe Echo-Sätze.
 - Keine interne Rationalisierung zu Platte 14. Die Asymmetrie bleibt.
-- Kein physischer Kontakt aus K12 wird ausgeschmückt — K12 hatte keinen Körperkontakt.
+- Der Körperkontakt von K12 (Alphinas linke Hand auf Sorels Knie auf der Bank) darf in K13 als Erinnerung aufscheinen, aber nicht ausgeschmückt werden. Der Arm-Streif in der Gasse baut darauf auf.
+- Die Heilung der Verbrennung darf Sorel NICHT benennen oder zuordnen — er registriert nur, dass es besser ist, ohne Erklärung. Alphinas "Es geht besser" ist eine Feststellung von außen, kein Geständnis von innen.
+- Sorels Satz aus K12 über Messung und Beobachter wird in K13 nicht zitiert. Er darf als stiller Echo-Punkt in Alphinas Kopf liegen (Cross-POV), aber Sorel erinnert sich nicht daran.
 
 ### Für die Kaskade (nach K13) zu aktualisieren
 
