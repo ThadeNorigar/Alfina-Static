@@ -40,9 +40,9 @@ Das war ein Bild.
 
 Sein Körper antwortete darauf, wie er auf jedes Bild antwortete, das er festhalten wollte: er wurde still, er fixierte, er komponierte den Rahmen im Kopf — die Form des Wesens, das Verhältnis zu den Hortensienzweigen daneben, die Kante des Mondlichts, die das Motiv begrenzte. Sein Blick bohrte sich in die Stelle, wo das Wesen stand.
 
-Um ihn herum fiel der Garten zurück ins Dunkel. Die Hortensienblätter verloren ihre Kanten, der Kies seine Struktur, das Mondlicht zog sich von allem weg, floss in die eine Richtung, in die Sorels Blick zeigte, und sammelte sich dort zu einem einzigen Brennpunkt auf der Haut des Wesens — nicht größer als ein Daumennagel, weiß, scharf, so dicht, dass kein Mond diese Helligkeit je auf einen Körper gelegt hatte.
+Um ihn herum fiel der Garten zurück ins Dunkel. Die Hortensienblätter verloren ihre Kanten, der Kies seine Struktur, das Mondlicht zog sich von allem weg, floss in die eine Richtung, in die Sorels Blick zeigte, und sammelte sich dort zu einem Brennpunkt auf der Haut des Wesens, nicht größer als ein Daumennagel, weiß, scharf, dichter als jede Mondnacht es je auf einen Körper gelegt hatte.
 
-Wo der Punkt die Haut berührte, lief sie in einen dumpfen, rotbraunen Ton, dann heller, wie Metall, das gerade anfängt zu glühen. Ein dünner, scharfer Faden von Rauch stieg aus der Stelle auf, nicht mehr das träge Wabern von vorhin — ein Zeichen, dass das Wesen Schaden nahm.
+Wo der Punkt die Haut berührte, lief sie in einen dumpfen, rotbraunen Ton, dann heller, wie Metall, das gerade anfängt zu glühen. Aus der Stelle stieg ein dünner, scharfer Faden von Rauch auf, nicht mehr das träge Wabern von vorhin.
 
 Das Wesen reagierte augenblicklich.
 
