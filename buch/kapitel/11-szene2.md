@@ -92,7 +92,7 @@ Er zog die Mittelsenkrechten der Linienpaare. Wo sich zwei kreuzten, setzte er e
 
 Er hielt den Stift still über dem Punkt.
 
-Das Zentrum war nicht "ungefähr in der Oberstadt". Das Zentrum war eine Adresse. Hinter der Kathedrale, hinter den Speichern, in einem Viertel, in dem Vesper in fünf Wochen kein einziges Mal gewesen war, weil er dort weder einen Uhrenhändler vermutete noch einen Standuhrenbesitzer noch irgendetwas, das in seiner Sammlung relevant gewesen wäre.
+Das Zentrum war nicht "ungefähr in der Oberstadt". Das Zentrum war eine Adresse. Hinter dem Handelshaus, hinter den Speichern, in einem Viertel, in dem Vesper in fünf Wochen kein einziges Mal gewesen war, weil er dort weder einen Uhrenhändler vermutete noch einen Standuhrenbesitzer noch irgendetwas, das in seiner Sammlung relevant gewesen wäre.
 
 Er legte den Stift auf den Velinbogen. Las die Skala ab, einmal, zweimal. Unterstrich nichts. Schloss die Augen für drei Atemzüge.
 

@@ -221,7 +221,7 @@ Sorel beobachtet Henrik durch das Gittertor. Er ruft ihn nicht, er spricht ihn n
 
 4. **Der Markt.** Er kommt auf einen kleinen Platz mit drei Ständen. Einer verkauft Fisch, einer Tuchwaren, einer Küchenkräuter. Er geht zum Kräuterstand. Dialog 1 (siehe oben). Er zahlt ein Tuch Rosmarin, nimmt es in die Tasche, wo es sofort in die Kameraschachtel drückt und einen Knick im Leder macht, der ihm egal ist.
 
-5. **Hinter der Kathedrale.** Er folgt den Angaben der Marktfrau — "oben hinter den Speichern". Die Oberstadt steigt an, die Gassen werden enger. Hier riecht die Stadt anders, weniger nach Salz und mehr nach Stein und Holz. Er sieht einen Gärtnergehilfen, der einen Handkarren mit Erde schiebt, und folgt ihm ein Stück. Der Karren verschwindet in einem Tor. Sorel geht nicht hinein.
+5. **Hinter dem Handelshaus.** Er folgt den Angaben der Marktfrau — "oben hinter den Speichern". Die Oberstadt steigt an, die Gassen werden enger. Hier riecht die Stadt anders, weniger nach Salz und mehr nach Stein und Holz. Er sieht einen Gärtnergehilfen, der einen Handkarren mit Erde schiebt, und folgt ihm ein Stück. Der Karren verschwindet in einem Tor. Sorel geht nicht hinein.
 
 6. **Das Gitter.** Er findet den Haupteingang des Botanischen Gartens. Ein hohes schmiedeeisernes Gittertor, geschmückt mit Schnörkeln die aus zwei Meter Höhe wie Farnspitzen aussehen (er hält sie für absichtlich gewählt, eine Ornament-Idee aus vor vielen Jahren). Dahinter eine Kiesauffahrt, ein kleines Pförtnerhaus, ein alter Mann auf einem Hocker mit einer Pfeife im Mundwinkel. Sorel bleibt auf der gegenüberliegenden Straßenseite, im Schatten eines Torbogens, und beobachtet.
 

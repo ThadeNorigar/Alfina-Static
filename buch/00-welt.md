@@ -32,6 +32,14 @@ Grob vergleichbar mit Europa in Größe und Klima. Westküste am **Grauen Meer**
 
 **Es gibt keine bekannte Magie in Thalassien.** Keine Magier, keine Zaubersprüche, keine magischen Kreaturen. Die Menschen wissen nicht, dass eine zweite Welt existiert. Die Anomalien in Vael halten sie für Aberglauben.
 
+**In der Welt gibt es keine Religion.** Weder in Thalassien noch in Moragh. Religion spielt in dieser Trilogie keine Rolle und wird nicht thematisiert.
+
+Konkret verboten: **keine Kirchen, keine Kathedralen, keine Dome, keine Tempel, keine Kapellen, keine Klöster, keine Abteien**. Keine Heiligen, keine kanonisierten Figuren, keine Priester, keine Pilgerstätten, keine religiösen Feiertage, keine Gebete, keine Hymnen, keine Altäre, keine Götter oder Göttinnen mit Namen. Gebäude und Orte tragen sachliche Namen nach Funktion, Lage oder Person (Tidemoor-Haus, Lichthaus, Gasthaus Zum Anker, Werft Dahl, Handelshaus, Zunfthalle, **Rathaus**) — **nie Heiligennamen, nie Sakralbauten**. Wenn Menschen schwören oder fluchen, berufen sie sich auf Gezeiten, Wind, Fels, das Graue Meer, den Atem der Stadt — nie auf eine benannte Gottheit.
+
+Das orientierende Großgebäude in der Oberstadt von Vael ist das **Handelshaus** — rechteckiger Purpursteinbau, dunkle Fassade, kein Turm, kein Kreuz, keine Glocken. Ein weltlicher Zweckbau der Kaufleute-Zünfte, direkt neben dem Botanischen Garten. In Karten und Stadtplänen ist es der Hauptbezugspunkt für alles, was "in der Oberstadt, hinter dem Handelshaus" liegt. Das **Rathaus** (mit dem Archiv im Keller) steht separat, in einem anderen Teil der Oberstadt.
+
+**Auch Moragh hat keine Religion.** Die Rufer-Kaste ist eine rein weltliche Herrschaftselite auf Basis von Beschwörungs-Begabung und Geburtsrecht. Keine Priester, keine Götter, keine Dogmen, kein Glaube an die "Bestimmung" der Schemen. Macht ist Macht, Magie ist Handwerk, Herrschaft ist Erbe. Nicht mehr.
+
 ### Regionen
 
 **Die Grauküste** (Norden/Nordwesten)
@@ -458,9 +466,9 @@ Wollen die Resonanz-Begabten als **Verbündete und Waffen** gegen die Thar.
 
 **Die Gebrannten** (~20%): Krieger. Kampfmagie — Feuer, Frost, Druck (Schockwellen, Implosionen), starke Schwerkraftmanipulation (Gegner in den Boden drücken oder 30m hochheben), Vibration (Mauern schütteln, Rüstungen zerbröseln), Blendung (Licht/absolute Dunkelheit), Sporenhauch (Giftsporen, Halluzinationen), Knochenklang (eigenen Körper 3 Minuten verhärten, danach Kollaps), Magnetismus (Metallwaffen im Umkreis anziehen/abstoßen). Besser gestellt als Former, aber immer noch Untertanen.
 
-**Die Rufer** (~10%): Herrscher. Beschwörungsmagie — sie rufen Schemen und BINDEN sie. Religion und Herrschaft sind eins. Die Priester sind die stärksten Rufer. Geburtsrecht. Ein Geschirteter (Nicht-Rufer) kann niemals aufsteigen.
+**Die Rufer** (~10%): Herrscher. Beschwörungsmagie — sie rufen Schemen und BINDEN sie. Herrschaft ist an Blutlinie und Beschwörungstalent gekoppelt. Die stärksten Rufer sind die Fraktionsführer. Geburtsrecht. Ein Geschirrter (Nicht-Rufer) kann niemals aufsteigen. Keine religiöse Struktur, keine Priester, keine Dogmatik — nackte Macht auf Basis eines Handwerks, das nur Rufer beherrschen.
 
-**Religion der Rufer:** Die Schemen WOLLEN gebunden werden. Es ist ihre Bestimmung, Form anzunehmen und zu dienen. Die Bindung ist ein Geschenk, kein Käfig. (Das glauben sie wirklich.) Der Hohepriester ist der Herrscher.
+**Die Doktrin der Rufer:** Die Schemen sind Werkzeuge. Sie werden gerufen, gebunden, eingesetzt. Ob sie leiden, ob sie "wollen", ob sie "dienen mögen" — das interessiert die Rufer nicht, und es wird auch nicht zu einer Frage erhoben. Die Praxis ist pragmatisch. Kein Glaube, keine Überhöhung, keine Theologie. Der mächtigste Rufer herrscht, nicht weil er "heilig" ist, sondern weil er die meisten Schemen binden und die größte Armee stellen kann.
 
 **Velmars Schemen-Armee:** Wenige Soldaten, aber hunderttausende gebundene Schemen. Ein einzelner starker Rufer bindet Dutzende. Die Elite bindet Hunderte. Deshalb hält sich Velmar trotz geringer Bevölkerung.
 

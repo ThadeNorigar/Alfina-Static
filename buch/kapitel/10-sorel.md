@@ -78,7 +78,7 @@ Die Hafengasse lief flach dem Wasser entlang, das heute einen mittleren Grauwert
 
 Er bog in die schmale Gasse, die zur Oberstadt hinaufführte. Die Häuser standen dichter, die Giebel rückten über ihm zusammen, das Licht wurde von fünf Seiten gleichzeitig gefiltert, einmal von der Pflasterung, einmal von den Fensterscheiben gegenüber, einmal vom Dunst darüber. In der Stille seines Kopfes rechnete er die Belichtung durch, die nötig gewesen wäre, um diese Gasse zu halten — achtzehn Sekunden bei f/22, das ganze auf einer Platte, damit die Tiefe der Schatten die Kontraste der gekalkten Flecken an den Wänden nicht überlief. Nicht als Absicht zu fotografieren. Nur als Feststellung, dass es gehen würde, wenn er es wollte. Seine Augen arbeiteten weiter.
 
-Am kleinen Markt hinter der Kathedrale blieb er stehen.
+Am kleinen Markt hinter dem Handelshaus blieb er stehen.
 
 Drei Stände, keine vier. Einer verkaufte Räucherfisch in flachen Holzkisten, einer Tuchwaren, der dritte Küchenkräuter in kleinen Bündeln, mit Schnur gebunden, Lavendel und Rosmarin und Thymian und anderes, das Sorel nicht gut unterschied. Hinter dem Kräuterstand saß eine Frau mit roten Wangen und einer Leinenhaube, die Hände in den Ärmeln verborgen gegen die noch kühle Mittagsluft. Sie musterte Sorel ohne Höflichkeit und ohne Unhöflichkeit — nur, wie Händler musterten, um zu schätzen, ob ein Kunde Zeit ist oder nicht.
 
@@ -92,7 +92,7 @@ Sie legte den Kopf ein wenig schief. Die Falten an ihrem Mundwinkel vertieften s
 
 "Botanischer Garten. Wo genau?"
 
-"Den Hauptweg hoch, vorbei an Sankt Matern, dann rechts. Da, wo die Kathedralwand aufhört, fängt die Gartenmauer an. Sie können sie nicht verfehlen. Das Tor ist grün gestrichen und der alte Henrik sitzt dort mit seiner Pfeife, der macht auf, wenn Sie höflich sind." Sie zögerte, und ein Stückchen Neugier schob sich in ihr Gesicht. "Ist das für eine Arbeit?"
+"Den Hauptweg hoch, am Handelshaus vorbei, dann rechts. Da, wo die Mauer des Handelshauses aufhört, fängt die Gartenmauer an. Sie können sie nicht verfehlen. Das Tor ist grün gestrichen und der alte Henrik sitzt dort mit seiner Pfeife, der macht auf, wenn Sie höflich sind." Sie zögerte, und ein Stückchen Neugier schob sich in ihr Gesicht. "Ist das für eine Arbeit?"
 
 "Für ein Bild, ja."
 
@@ -110,7 +110,7 @@ Sie nahm die Münzen, zog eines der gebundenen Tüchlein heraus und reichte es i
 
 Sie zog eine Augenbraue hoch, aber fragte nicht nach. Händler fragten nur, wenn es einen Preis hatte. Sorel schob das Rosmarin-Tuch in die Seitentasche der Kameratasche, wo es sich an das Leder drückte und einen Knick in den Gurt machte, der ihm egal war. Dann ging er weiter.
 
-Die Oberstadt stieg an. Er folgte dem Hauptweg den Hügel hinauf, an der Kathedrale vorbei, die wie ein großer rechteckiger Schatten gegen den milchigen Himmel stand, und dann rechts, wo die dunkle Steinwand aufhörte und in eine andere, grünlich überwachsene Mauer überging, die höher war als die Kathedralwand. Efeu kletterte an den Steinen, dicht, alt, mit Wurzeln, die sich in die Fugen gebissen hatten. Die Mauer folgte einer Biegung, an der die Gasse sich verengte. Sorel ging langsamer.
+Die Oberstadt stieg an. Er folgte dem Hauptweg den Hügel hinauf, am Handelshaus vorbei, das wie ein großer rechteckiger Schatten gegen den milchigen Himmel stand, und dann rechts, wo die dunkle Steinwand aufhörte und in eine andere, grünlich überwachsene Mauer überging, die höher war als die Mauer des Handelshauses. Efeu kletterte an den Steinen, dicht, alt, mit Wurzeln, die sich in die Fugen gebissen hatten. Die Mauer folgte einer Biegung, an der die Gasse sich verengte. Sorel ging langsamer.
 
 Vor dem Haupttor blieb er stehen, aber auf der anderen Seite der Straße, in dem Torbogen eines leerstehenden Gebäudes, von dem aus er sehen konnte, ohne gesehen zu werden.
 
