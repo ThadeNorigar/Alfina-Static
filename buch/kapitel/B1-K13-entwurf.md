@@ -93,123 +93,96 @@ Er hängt die Platte auf.
 ## Szene 2 — Die Wand
 
 **Ort:** Lichthaus-Keller, Dunkelkammer
-**Wortziel Ausarbeitung:** 1.100–1.300 W
+**Wortziel Ausarbeitung:** max. 600 W
 
 **Fließprosa-Exposé:**
 
-Sorel hängt die Platten um. Er teilt die Wand: links die Platten mit Alphina. Rechts alle anderen. Das ist kein Kunstprojekt — das ist Inventur.
+Sorel hängt die Platten um. Kein Kunstprojekt — Inventur. Er teilt die Wand: links die Platten mit Alphina. Rechts alle anderen.
 
-Links: sechs Platten. Auf vier davon steht hinter ihr etwas. Auf der Hände-Platte: das Wesen im Stein. Auf der Frau-mit-Farnen-Platte: die Gestalt rechts hinten. Er hat sie jetzt gezählt und sortiert. Die Gestalten auf den Alphina-Platten sind nicht dieselbe Gestalt — die Umrisse variieren, Größe, Haltung, Lage. Verschiedene Wesen. Mehr als eines.
+Links: sechs Platten. Vier davon zeigen hinter ihr etwas. Verschiedene Umrisse — Größe, Haltung, Lage variieren. Nicht dasselbe Wesen, das folgt. Mehrere. Rechts: zwanzig Platten. Kai, Steg, Gassen, Marktplatz. Nichts dahinter. Die Wesen am Poller, das in der Hausnische — zufällige Begegnungen, kein Bezug. Das hier ist kein Zufall.
 
-Rechts: zwanzig Platten. Kai, Steg, Gassen, Marktplatz, Steinkreis, seine eigene Silhouette einmal. Auf keiner davon: die Gestalten. Die Wesen am Poller (Kap 6), das Wesen in der Hausnische (Kap 10) — die stehen auf Platten auf der rechten Seite, ohne Bezug zu Alphina. Das sind Wesen, die er zufällig fotografiert hat. Die auf der linken Seite sind keine zufälligen Begegnungen.
+Er schaut die linke Seite an, lang genug um sie zu zählen. Dreht sich weg.
 
-Er steht vor der Wand.
-
-Drei Tage vor diesem Morgen, im Garten, auf der Bank: sie hat ihm angedeutet, dass jemand anderes dieselben Dinge misst, auf anderem Weg. Zahlen, keine Mystik. Er hat nicht gefragt wer. Er fragt sich das jetzt auch nicht — das ist ein Faden, den er nicht aufnehmen will, weil er nicht weiß wohin er führt.
-
-Was er weiß: er hat Alphina auf seiner Platte, bevor er wusste dass sie existiert. Seit Kap 2 hängt ihr Bild an seiner Wand, ohne dass er wusste es war sie. Sechs Wochen später steht ihr Gesicht auf der rechten Hälfte seiner Erinnerung, und auf der linken Hälfte der Kellerwand stehen sechs Beweise, dass die Wesen ihn nicht verfolgen — sie verfolgen sie.
-
-Das ist keine Erleichterung. Das ist ein neues Problem.
-
-Er hat ihr Gesicht auf Glas besser im Kopf als sein eigenes — das weiß er seit Kap 10. Dass er weiß, was auf jeder dieser Platten ist, bevor er sie anschaut. Dass er die Hände-Platte zuletzt entwickelt hat, nicht aus Ordnung, sondern weil er wusste, dass sie das Stärkste sein würde, und er wollte das Stärkste zuletzt.
-
-Er weiß einen Grad mehr als sie. Das ist seit drei Tagen seine Last, nicht sein Vorsprung. Er wird es nicht auflösen. Das ist die Grenze, die er sich selbst gesetzt hat.
-
-Er schaut die linke Seite der Wand an, lang genug um sie zu zählen, dann dreht er sich weg.
-
-Er ist seit sechs Stunden auf den Beinen. Er trinkt Wasser. Er isst nicht. Die Chemikalien haben seit Stunden keinen Geschmack mehr hinterlassen — das bedeutet, er hat zu lange in geschlossenen Räumen gearbeitet.
-
-Er setzt sich. Schaut zur Decke. Die Wand ist körperwarm — das war sie von Anfang an, seit der ersten Nacht. Er hat aufgehört darüber nachzudenken. Der ganze Keller ist warm, immer, im Mai wie im März.
+Er sitzt. Trinkt Wasser. Die Chemikalien schmeckt er schon lange nicht mehr — das bedeutet zu lange in geschlossenen Räumen. Der Keller ist warm, wie immer, wie seit der ersten Nacht. Er hat aufgehört darüber nachzudenken.
 
 Er schläft ein.
 
 **Dialog-Informationen:**
 - Kein Dialog (Sorel allein)
-- Sorels innerer Stand am Szenenende: Die Muster-Erkenntnis ist vollständig, aber er trägt sie ohne sie zu benennen. Er sortiert Platten statt Schlüsse zu ziehen. Er schläft ein, weil sein Körper entscheidet.
+- Sorels Stand am Szenenende: Muster-Erkenntnis vollständig, aber nicht benannt. Er sortiert statt Schlüsse zu ziehen. Der Körper entscheidet.
 
 **Tschechow-Waffen geladen:**
-- Die Trennung "links Alphina / rechts alles andere" als Handlung (er sortiert schon wie jemand der eine Entscheidung trifft, die er noch nicht bewusst getroffen hat)
-- Sorels Grenze: er wird ihr die Platte 14 nicht zeigen, er wird das Muster nicht benennen — die Asymmetrie bleibt als innerer Zustand, keine Auflösung. (Feuert K25)
+- "Links Alphina / rechts alles andere" als körperliche Handlung: er trifft eine Entscheidung ohne sie zu benennen (feuert K25)
+- Warme Kellerwand: Teil der Normalität, kein Anlass mehr — weil er aufgehört hat, sie wahrzunehmen
 
 **Tschechow-Waffen abgefeuert:**
-- Warme Kellerwand (Kap 6, Kap 7): jetzt Teil der Normalität, nicht mehr bemerkt — was ihn in Szene 3 umso mehr erschrecken wird.
+- Warme Kellerwand (Kap 6, 7): vollständig normalisiert, kein Bemerken mehr
 
 **Cross-POV-Ankerpunkte:**
-- Die Kellertemperatur: Vesper hat in K07 denselben Wärme-Puls im Tidemoor-Keller gespürt. Sorel weiß das nicht. Die Leserin weiß es.
-- Alphinas Platte 14: Alphina weiß, dass er sie fotografiert hat (K12). Sie weiß nicht, dass er sie schon vor Wochen auf seiner Wand hatte. Sorel-Prinzip: er hat ihr davon nichts gesagt, und er tut es weiter nicht.
+- Kellertemperatur: Vesper hat in K07 denselben Wärme-Puls gespürt. Sorel weiß das nicht. Die Leserin weiß es.
+- Platte 14: Alphina weiß, er hat sie fotografiert. Sie weiß nicht, wie lange sie schon an seiner Wand hängt.
 
 ---
 
-## Szene 3 — Der Archivar
+## Szene 3 — Abend vor dem Lichthaus
 
-**Ort:** Lichthaus-Keller, Nacht
+**Ort:** Straße vor dem Lichthaus / Richtung Botanischer Garten
 **Wortziel Ausarbeitung:** 1.200–1.400 W
 
 **Fließprosa-Exposé:**
 
-Sorel wacht auf, weil er aufwacht — kein Geräusch, kein Licht, nur das Wachsein. Rotlicht aus. Die Platten müssten fertig getrocknet sein. Er liegt auf dem Hocker, Rücken gegen die Backsteinwand, und wartet bis sich die Augen an die Dunkelheit gewöhnen.
+Sorel wacht auf, weil der Körper aufwacht. Keine Erklärung — das Rotlicht ist aus, der Keller riecht nach Fixierbad und altem Stein. Er liegt auf dem Hocker, der Rücken an der Wand. Draußen ist es noch hell, ein schmaler Lichtstreifen unter der Kellertür.
 
-Dann hört er das Geräusch.
+Er geht raus.
 
-Nicht Kratzen — das ist das erste was er registriert, der Vergleich mit dem was er sich vorgestellt hat. Kein Kratzen. Ein anderes Geräusch: das Geräusch von Glas auf Stein. Langsam, kontrolliert, methodisch. Eine Glasplatte, die über eine Steinfläche geschoben wird. Pause. Eine weitere.
+Er braucht kein Ziel — nur Luft. Die Gasse neben dem Lichthaus führt zur Hafenpromenade, von dort aus sieht man das Wasser. Er geht. Der Mai-Abend ist warm, die Gaslampen noch nicht gezündet, die Luft riecht nach Salzwasser und Fischschuppen. Er hat sechs Stunden in einem Raum ohne Fenster verbracht. Das merkst du am Schritt.
 
-Sorel bewegt sich nicht.
+Er sieht sie, bevor sie ihn sieht.
 
-Er kennt sein Keller-Layout. Die getrockneten Platten liegen auf dem zweiten Regalbrett links, in den Pappständern die er aus Nachtholm mitgebracht hat. Er hört das Geräusch von diesem Regal. Und das Geräusch hat Rhythmus — nicht das Kratzen eines Tieres, nicht das Zufällige eines Windes. Das ist eine Bewegung mit Absicht.
+Alphina kommt von der anderen Seite der Promenade, den Weg entlang der Gartenmauer. Sie hat eine Tasche über der Schulter, den Schritt der jemanden hat der weiß wo er hingeht. Sorel bleibt nicht stehen — er kann nicht, ohne es zu einer Geste zu machen. Er geht weiter. Fünf Schritte, dann sieht sie ihn.
 
-Er dreht den Kopf, langsam, ohne Geräusch. Sein Auge braucht drei Sekunden.
+Kurzes Stehen. Dann kommen sie aufeinander zu, wie es sich gehört, weil sie sich kennen, weil die Promenade schmal ist, weil es seltsamer wäre, nicht anzuhalten.
 
-Dann sieht er die Form.
+Sie schaut ihn an. "Sie sehen aus wie jemand, der zu lange unter der Erde war."
 
-Humanoid. Größer als ein Mensch, aber nicht viel — ein Kopf darüber, die Schultern breiter, aber nicht monströs. Es bewegt sich mit einer Stille, die nicht natürlich ist — kein Gelenk-Geräusch, kein Atem, keine Schritte die Gewicht haben. Es steht vor dem Regal und hält eine Glasplatte gegen das schwache Mondlicht, das durch das schmale Kellerfenster fällt. Es schaut die Platte an. Dann legt es sie ab. Nimmt die nächste.
+Er hat keine gute Antwort. Er sagt etwas über die Dunkelkammer — die Platten, die Entwicklungszeit, den Geruch. Sie hört zu, aber sie schaut ihn dabei an, nicht die Platten-Erklärung, sondern ihn. Sorel bemerkt das. Er hört auf zu erklären.
 
-Sorel sieht die Augen nicht — der Rücken zeigt zu ihm. Er sieht die Schultern, die Kontur des Kopfes, die Bewegung der Hände. Die Hände: schmal, zu lang, aber die Bewegung ist präzise. Das ist nicht ein Tier, das Dinge vom Regal stößt. Das ist jemand, der sortiert.
+Pause. Die Gartenmauer hinter ihr. Er weiß, auf der anderen Seite steht der Purpurstein — er weiß es aus den Platten, nicht weil er es gesehen hat.
 
-Er wartet.
+Sie fragt, ob er wieder rübergegangen ist. Über die Mauer, meint sie. Er sagt nein. Er hat den Garten fotografiert, von außen. Das stimmt — er hat die Platten gemacht, als er auf der Mauer stand, ohne reinzusteigen. Sie nickt. Kurze Stille, in der keiner fragt was er wirklich sagen will.
 
-Die Form sortiert weiter. Drei Minuten, vier Minuten — er zählt nicht, aber er wartet lange genug um zu merken, dass es kein Zufall ist. Es nimmt eine Platte, hält sie gegen das Licht, legt sie an einen anderen Ort ab. Wieder. Wieder. Sorel beginnt zu verstehen: es sortiert nicht von seinem Regal. Es sortiert auf seinem Regal. Es nimmt Platten von einer Position und legt sie an eine andere.
+Sorel denkt an die sechs Platten im Keller. Er sagt nichts davon.
 
-Sorel atmet nicht.
+Sie hat die Tasche ein Stück verschoben, das Leder quietscht kurz. Er sieht ihre linke Hand, die die Tasche hält — die Sehne am Daumenansatz. Er kennt diese Hand besser als die eigene. Er schaut weg.
 
-Die Form dreht den Kopf. Nicht zu ihm — zur Seite, ein langsames Drehen, wie jemand der ein Geräusch im Raum hört. Sorel liegt still. Die Form bleibt stehen. Dreißig Sekunden, die er zählt.
+"Haben Sie die Aufnahmen entwickelt?" fragt sie. Von der letzten Nacht, meint sie. Er sagt ja. Sie fragt, ob sie scharf geworden sind, der Ton ist neutral aber nicht gleichgültig. Er sagt: die Hände sind scharf geworden. Sie nickt, als wäre das keine Überraschung, und er kann nicht sagen ob es das für sie ist.
 
-Dann löst sie sich auf.
+Kurzes Schweigen. Die ersten Gaslampen werden gezündet, weiter unten an der Promenade.
 
-Nicht plötzlich. Nicht mit Geräusch. Die Kontur wird dünner, die Grenzen unklarer, und nach zehn Sekunden ist der Raum leer. Das Mondlicht liegt auf dem Regal. Das Regal sieht aus wie immer.
+Sie geht. Sie sagt, sie muss weiter, die Uhrzeit. Er sagt gut. Sie sagt noch etwas — ein halber Satz, über die Steine, sie prüft die Messreihe nochmals, nichts Besonderes. Dann ist sie weg, den Weg zurück zur Gartenmauer.
 
-Sorel wartet weitere drei Minuten. Dann steht er auf.
+Sorel steht auf der Promenade. Das Wasser ist grau. Er schaut ihr nicht nach — das wäre eine Geste, und er macht keine Gesten. Er geht zurück.
 
-Er geht zum Regal. Er hat die Anordnung der Platten im Kopf — sechs Stunden lang hat er sie geordnet, er weiß wo jede liegt. Er zündet eine Streichholz an.
-
-Die Platten sind umgeordnet worden. Nicht viel — nicht chaotisch. Aber die sechs Alphina-Platten liegen jetzt zusammen, auf dem obersten Brett, separat von allem anderen. Die anderen Platten haben ihre Reihenfolge leicht verändert — er kann nicht sagen genau wie, aber die Alphina-Platten stehen oben, wie herausgehoben.
-
-Das Wesen hat gesehen was er gesehen hat. Hat nach demselben Prinzip sortiert.
-
-Sorel steht vor dem Regal. Das Streichholz brennt ab. Er zündet kein neues an.
-
-In der Dunkelheit steht er eine Weile. Denkt nicht — das ist das Merkwürdige, er denkt nicht, der Kopf ist leer, nur die Hände halten die verbrannte Streichholzschachtel und drücken sie. Er hat gedacht, er wisse was er tut, sechs Stunden lang. Er hat die Platten sortiert und ein Muster erkannt. Das Wesen hat in drei Minuten dieselbe Sortierung vorgenommen.
-
-Es war nicht das erste Mal hier. Der Nagel in der Wand, an der richtigen Höhe, bevor er eingezogen ist. Er hat das gewusst seit Kap 6 und er hat aufgehört darüber nachzudenken. Das war ein Fehler.
-
-Er setzt sich wieder auf den Hocker. Er schläft nicht ein.
+Im Keller riecht es immer noch nach Fixierbad. Die sechs Alphina-Platten hängen links. Er schaut sie nicht an. Er setzt sich auf den Hocker und schaut die Decke an, bis es dunkel wird.
 
 **Dialog-Informationen:**
-- Kein Dialog (Sorel allein, Wesen ohne Sprache)
-- Sorels Erkenntnis am Szenenende: Das Wesen hat Auftrag. Es beobachtet nicht nur — es arbeitet, archiviert, sortiert. Es weiß dasselbe Muster wie er. Das bedeutet: es war schon vor ihm hier und wird nach ihm hier sein.
+- Was sie austauschen: Ihre Bemerkung über sein Aussehen. Seine Dunkelkammer-Erklärung. Ihre Frage nach den Platten. Sein "die Hände sind scharf geworden." Ihr Kommentar über die Messreihe.
+- Was *nicht* gesagt wird: Alles. Er sagt nicht, dass auf vier ihrer Platten Gestalten stehen. Sie sagt nicht, was sie im Stein gespürt hat. Er sagt nicht, dass er ihre Hand von einer Platte aus Kap 2 kennt, seit Wochen, bevor er ihren Namen wusste.
+- Was jede Figur mitnimmt:
+  - Sorel: der Abstand zwischen ihnen ist kleiner als drei Tage. Er hat sechs Platten und kann keine einzige davon zeigen. Das ist jetzt kein Protokoll-Problem — das ist ein persönliches Problem.
+  - Alphina: er hat die Hände-Platte entwickelt. Er hat die Schärfe nicht kommentiert, nur bestätigt. Sie weiß nicht was das bedeutet. Sie denkt daran, als sie durch das grüne Tor geht.
 
 **Tschechow-Waffen geladen:**
-- Schem-Archivar als Motiv: Wesen mit Auftrag, die Platten sortieren = Wesen die wissen worauf sie achten sollen (feuert in Akt III — Schemen platzieren Manuskript/Sprachbuch im Archiv)
-- Der Nagel in der Wand (Kap 6): jetzt rückwirkend als Handlung des Archivars lesbar — er hat Vorgänger-Dunkelkammern eingerichtet. Zündet in Akt III/IV.
-- Sechs Alphina-Platten oben auf dem Regal, separat — das ist die physische Manifestation des Musters. Feuert in K16 (Steg-Fotos), Akt III.
+- "Die Hände sind scharf geworden" ohne Erklärung — die unmögliche Schärfe bleibt zwischen ihnen, unausgesprochen (feuert, wenn er ihr die Platte zeigt oder nicht zeigt, K25)
+- Sorels Nicht-Nachschauen: er macht keine Geste. Das ist die Grenze. (Hält bis K17/K18, wo die Grenze kippt.)
+- Alphinas linke Hand, Sehne am Daumenansatz: er erkennt sie noch immer vor dem Gesicht. Das ist kein Reflex mehr — das ist Gewohnheit.
 
 **Tschechow-Waffen abgefeuert:**
-- Kratzen aus der Ecke (Kap 7 Vesper, Kap 10 Sorel): jetzt verifiziert und erweitert — es war kein Kratzen, es war Arbeit
-- Vorheriger Keller-Mieter verschwunden (Kap 6): Der Archivar war auch für ihn da. Was hat er sortiert?
-- Nagel in der Wand (Kap 6, vorgefunden): Das Wesen richtet Dunkelkammern ein. Das war nicht Zufall.
+- Platte 14 (Kap 2): er hat sie seit Wochen. Sie ahnt es nicht. Die Asymmetrie ist jetzt körperlich spürbar — er schaut weg, bevor sie es merkt.
 
 **Cross-POV-Ankerpunkte:**
-- Akt III: Schemen platzieren Manuskript und Sprachbuch im Rathauskeller (Esther/Jara). Dieselbe Systematik, derselbe Auftrag-Charakter.
-- Vesper K07: Kratzen aus der Ecke im Tidemoor-Keller — dasselbe Wesen? Oder ein anderes? Die Leserin kann die Linie ziehen.
+- Alphina K14 oder K15: sie denkt auf dem Rückweg an seine Aussage über die Schärfe. Was weiß er? Was sieht die Platte, was sie nicht sieht?
+- Die Messreihe: sie geht in den Garten. Was sie dort findet, gehört in ein Alphina-Kapitel. K13 schließt, bevor sie durch das Tor ist.
 
 ---
 
@@ -227,9 +200,9 @@ Er setzt sich wieder auf den Hocker. Er schläft nicht ein.
 
 **Am Ende von K13:**
 - Das Muster: Wesen stehen auf jeder Alphina-Platte hinter ihr. Nie hinter jemand anderem. Das ist systematisch, nicht zufällig.
-- Die Hände-Platte: Hände scharf, Wesen-Umriss im Stein zwischen den Fingern. Ein Wesen war im Stein während sie ihn berührt hat. [Offene Entscheidung — s. o.]
-- Ein Wesen war im Keller, hat Platten sortiert, ist gegangen. Hat nach demselben Prinzip sortiert wie er. Es hat Auftrag.
-- Der Nagel in der Wand: rückwirkend als Handlung des Wesens lesbar.
+- Die Hände-Platte: Hände scharf trotz wackeligem Schärfering. Er hat Alphina "die Hände sind scharf geworden" gesagt — ohne zu erklären was das bedeutet.
+- Er hat sie auf der Promenade getroffen. Kein Kuss, kein Berühren, kein offener Satz. Die Asymmetrie (er kennt sie von Platte 14, seit Wochen) ist unaufgelöst.
+- Kein Wesen im Keller. Der `schemen-im-lichthaus-keller`-Beat ist gestrichen (aus Zeitleiste und Aktplan entfernt).
 
 **Zerbrochene Platte aus Falkensand:** In Nachtholm geblieben. Sorel hat sie nicht mitgenommen. Sie taucht in K13 nicht auf — kein Fehler, keine Lücke.
 
@@ -256,8 +229,8 @@ Er setzt sich wieder auf den Hocker. Er schläft nicht ein.
 | Szene | Beat | W (Ausarbeitung) |
 |-------|------|-----------------|
 | 1: Das Protokoll | Systematisches Entwickeln, Muster-Erkenntnis, Hände-Platte | 1.500–1.700 |
-| 2: Die Wand | Sortierung, Asymmetrie-Last, kein Benennen | 1.100–1.300 |
-| 3: Der Archivar | Schem im Keller, sortiert Platten, geht | 1.200–1.400 |
-| **Gesamt** | | **3.800–4.400** |
+| 2: Die Wand | Sortierung, Asymmetrie-Last, kein Benennen | max. 600 |
+| 3: Abend vor dem Lichthaus | Begegnung mit Alphina, Spannung, Nicht-Sagen | 1.200–1.400 |
+| **Gesamt** | | **3.300–3.700** |
 
-Drei ruhige Szenen, kein Dialog, kein anderer Mensch. Das Tempo ist Sorels Arbeitsrhythmus: methodisch, still, bis das Streichholz abbrennt.
+Szene 1 und 2: Sorel allein, kein Dialog, Arbeitsrhythmus. Szene 3: erster kurzer Kontakt nach K12 — karg, geladen, kein Handeln. Das Kapitel endet mit ihm im Keller, der Decke, dem Warten.

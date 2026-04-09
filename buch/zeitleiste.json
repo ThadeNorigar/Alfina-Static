@@ -1391,6 +1391,22 @@
           {
             "tz": 551,
             "mz": 0,
+            "kapitel": "13",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Sorel: Schemen stehen auf jeder Platte hinter Alphina",
+            "pov": "Kap 13 · Sorel",
+            "tz_tag": 138,
+            "datum_text": "18. Mai",
+            "figur": "Sorel",
+            "fakt": "schemen-hinter-alphina",
+            "stufe": "versteht",
+            "detail": "Sorel entwickelt systematisch seine Vael-Platten. Jede zweite zeigt etwas das nicht da war — Schatten, Gestalten, leuchtende Augen. Auf einer Platte eine Frau mit Farnen, die nie vor seiner Linse stand. Die verstörenden Platten aber: humanoide Schemen mit schwarzen Augen, auf dem Glas klar, scharf. Sie stehen immer hinter IHR. Nie hinter jemand anderem. Sorel kennt den Namen der Frau noch nicht, aber er weiss: die Kamera fangt etwas ein, das ihn zurueck in die Stadt zieht."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
             "kapitel": "14",
             "typen": [
               "begegnung"
@@ -1768,7 +1784,7 @@
             "tz": 551,
             "mz": 0,
             "titel": "Vier Resonanzen erstmals zusammen — Herzschlag unter der Erde",
-            "pov": "Kap 18",
+            "pov": "Kap 17",
             "kapitel": "17",
             "typen": [
               "schlüssel"
