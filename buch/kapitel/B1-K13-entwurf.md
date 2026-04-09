@@ -4,11 +4,10 @@
 **Timeline:** 18. Mai 551 (tz_tag 138) — drei Tage nach K12
 **Wortziel Ausarbeitung:** 4.000–4.500 W
 **Gänsehaut-Momente:**
-1. Die K12-Hände-Platte: technisch wackelig, Hände scharf — und im Stein zwischen den Fingern ein Umriss, den seine Augen in dem Moment nicht gesehen haben. Ein Wesen, im Stein.
+1. Die K12-Hände-Platte: technisch wackelig, Schärfering schräg — aber die Hände sind scharf. Beide Handflächen glasklar, die Sehne am Daumenansatz ohne Lupe erkennbar. Die Platte hat entschieden, was sie festhält. Kein Umriss, kein Wesen im Stein — nur diese unmögliche Schärfe, die kein wackeliger Schärfering erklären kann.
 2. Der Schatten im Keller sortiert die Platten nach demselben Prinzip wie Sorel. Die Alphina-Platten liegen separat.
 
-> **Offene Entscheidung (zur Diskussion in Phase 6):**
-> Gänsehaut-Moment 1 folgt der Prework-Empfehlung (Hände scharf, Schem-Umriss im Stein). Alternativvorschlag: Nur die Hände scharf, kein Umriss — die technische Unmöglichkeit allein reicht als Schock. Abwägung: Schem-Umriss verschiebt den Fokus von "Kamera sieht mehr" zu "Wesen waren im Stein während Alphinas Kontaktmessung" — mehr dramaturgischer Gewinn, aber höhere Anforderung an die Leser-Bereitschaft für das Ungeheure. Bitte Autorenmeinung.
+> **Entschieden (2026-04-09):** Option B — nur Hände scharf, kein Schem-Umriss im Stein. Der Stein-Umriss ist Quellen-Material, wird nicht hier verbraucht.
 
 ---
 
@@ -63,13 +62,11 @@ Die letzte Kassette: die Hände-Platte. Alphinas Hände auf dem Stein. Einhandig
 
 Er entwickelt sie.
 
-Das Bild ist wackelig, wie erwartet — die Ränder unscharf, die Perspektive leicht schräg. Aber die Hände sind scharf. Beide Handflächen, flach auf dem Purpurstein, die Sehne am linken Daumenansatz glasklar, er würde sie ohne Lupe erkennen. Die Hände sind schärfer als alles Umgebende, als hätte die Platte entschieden, was sie festhalten will.
-
-Und im Stein — zwischen ihren Fingern, unter den Handflächen, sichtbar in den Poren des Purpursteins — eine Form. Ein Umriss. Humanoid, zu schmal, zu lang für einen Menschen, die Konturen im Stein selbst wie eingraviert, nicht dahinter. Als wäre das Wesen nicht hinter dem Stein — als wäre es im Stein, unter ihren Händen, in dem Moment als sie ihn berührt hat.
+Das Bild ist wackelig, wie erwartet — die Ränder unscharf, die Perspektive leicht schräg. Aber die Hände sind scharf. Beide Handflächen, flach auf dem Purpurstein, die Sehne am linken Daumenansatz glasklar, er würde sie ohne Lupe erkennen. Die Hände sind schärfer als alles Umgebende. Der Schärfering lag schräg in den Gewindegängen — das ergibt kein scharfes Bild. Nicht so.
 
 Sorel steht still. Schaut.
 
-Er weiß nicht, was er sieht. Er weiß nur: seine Augen haben es in diesem Moment nicht gesehen. Die Kamera hat es gesehen.
+Er weiß nicht, was er sieht. Er weiß nur: diese Schärfe ist nicht von ihm. Die Kamera hat entschieden, was sie festhält.
 
 Er hängt die Platte auf.
 
@@ -78,7 +75,7 @@ Er hängt die Platte auf.
 - Sorels Erkenntnis am Szenenende: Das Muster ist klar und vollständig. Die Wesen folgen Alphina — gezielt, systematisch, nicht ihr und nicht jemand anderem. Die Hände-Platte erweitert das Muster: ein Wesen war im Stein während sie ihn berührt hat. Er benennt das nicht, aber er geht einen Schritt zurück.
 
 **Tschechow-Waffen geladen:**
-- Die Hände-Platte mit dem Schem-Umriss im Stein (feuert in K16/K21, Akt III — Kamera sieht Dinge die real werden; Akt IV — Alphinas Resonanz in Moragh)
+- Die Hände-Platte: unmögliche Schärfe trotz wackeligem Schärfering — Kamera entscheidet was sie festhält (feuert in K16/K21, Akt III — "Kamera sieht mehr als Sorels Augen" weitergeführt)
 - Das Muster "Gestalten hinter Alphina, nie hinter anderen" als verstandene Tatsache (feuert in Akt IV — Varen hat sie beobachten lassen; die Schemen berichten)
 
 **Tschechow-Waffen abgefeuert:**
@@ -233,6 +230,8 @@ Er setzt sich wieder auf den Hocker. Er schläft nicht ein.
 - Die Hände-Platte: Hände scharf, Wesen-Umriss im Stein zwischen den Fingern. Ein Wesen war im Stein während sie ihn berührt hat. [Offene Entscheidung — s. o.]
 - Ein Wesen war im Keller, hat Platten sortiert, ist gegangen. Hat nach demselben Prinzip sortiert wie er. Es hat Auftrag.
 - Der Nagel in der Wand: rückwirkend als Handlung des Wesens lesbar.
+
+**Zerbrochene Platte aus Falkensand:** In Nachtholm geblieben. Sorel hat sie nicht mitgenommen. Sie taucht in K13 nicht auf — kein Fehler, keine Lücke.
 
 **Sorel darf weiterhin NICHT wissen:**
 - Alphinas Resonanz-Natur (er sieht nur was auf die Platte kommt, nicht warum)
