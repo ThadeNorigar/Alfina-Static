@@ -391,7 +391,9 @@
                 const lesenSlug = key.startsWith('I') ? key : parseInt(key).toString();
                 const lesenHtml = ch.datei
                   ? `<a class="lesen-link" href="/lesen/${lesenSlug}/?wip">Kapitel lesen &rarr;</a>`
-                  : '';
+                  : (ch.entwurfs_datei
+                    ? `<a class="lesen-link" href="/lesen/${lesenSlug}/?wip&entwurf">Entwurf lesen &rarr;</a>`
+                    : '');
                 textDiv.innerHTML = `<p>${ch.text}</p>${lesenHtml}`;
                 block.appendChild(textDiv);
 
