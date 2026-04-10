@@ -34,7 +34,8 @@
           "09",
           "10",
           "11",
-          "12"
+          "12",
+          "I3"
         ]
       },
       {
@@ -43,16 +44,13 @@
           "13",
           "14",
           "15",
-          "I3",
           "16",
           "17",
           "18",
-          "I4",
           "19",
           "20",
           "21",
-          "22",
-          "I5"
+          "22"
         ]
       },
       {
@@ -63,12 +61,10 @@
           "25",
           "26",
           "27",
-          "I6",
           "28",
           "29",
           "30",
           "31",
-          "I7",
           "32",
           "33"
         ]
@@ -80,10 +76,8 @@
           "35",
           "36",
           "37",
-          "I8",
           "38",
           "39",
-          "I9",
           "40",
           "41"
         ]
@@ -412,53 +406,11 @@
         "datei": "09-alphina.md"
       },
       "I3": {
-        "titel": "Varen",
-        "pov": "Varen",
-        "status": "szenenplan",
-        "woerter": null,
-        "text": "Varen in Moragh. Am Portal-Gegenstück. Er spürt die vier Resonanzen auf der anderen Seite — näher, stärker, fast da. Seine Schemen berichten. Karten, Ley-Linien-Diagramme, die 3 toten Quellen rot markiert. „Sie kommen.“ Kein Triumph. Notwendigkeit."
-      },
-      "I4": {
-        "titel": "Varen",
-        "pov": "Varen",
-        "status": "szenenplan",
-        "woerter": null,
-        "text": "Varen empfängt seine Schemen. Vier Resonanzen, alle in Vael, alle stärker als erwartet. Die Pflanzen-Frau am stärksten. „Die Vierte ist die Richtige.“ Er prüft seine Karten, die toten Quellen. Bereitet sich vor."
-      },
-      "I5": {
-        "titel": "Manuskript",
-        "pov": "Manuskript",
-        "status": "szenenplan",
-        "woerter": null,
-        "text": "Varen schickt drei Feuer-Schemen durch das Portal — doppelt so groß wie Menschen. In Vael als Feuerdämonen verstanden. Die Vaeler greifen an, die Schemen wehren sich. Teile der Stadt brennen. Elke drückt sie zurück. Blut aus der Nase — der Preis beginnt."
-      },
-      "I6": {
-        "titel": "Varen",
-        "pov": "Varen",
-        "status": "szenenplan",
-        "woerter": null,
-        "text": "Varen wartet. Die Resonanzen konvergieren. Seine Schemen haben das Manuskript platziert, das Sprachbuch hinterlegt. Alles liegt bereit. „Die Pflanzen-Frau wird als Erste begreifen. Die anderen werden folgen.“"
-      },
-      "I7": {
-        "titel": "Elke",
+        "titel": "Das Grosse Feuer",
         "pov": "Elke",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Drei Feuer-Schemen wüten in der Stadt. Die Vier kämpfen sich zum Steinkreis. Kaspar stirbt, Keldan stirbt. Elke öffnet das Portal und geht durch. Auf der Moragh-Seite trifft sie Varen — er kappt die Bindung der Schemen. In Vael lösen sie sich im Rauch auf. Lene überlebt allein."
-      },
-      "I8": {
-        "titel": "Lene/Elke",
-        "pov": "Lene/Elke",
-        "status": "szenenplan",
-        "woerter": null,
-        "text": "Zwei Stimmen verschränkt. Lene in Vael, schreibt das Manuskript — sachlich, nüchtern, nur einmal bricht die Stimme. Elke in Moragh, letzter Skizzenbuch-Eintrag: Der Stein gibt nach. Die Hand reicht. „Lene — schreib auf was passiert ist.“"
-      },
-      "I9": {
-        "titel": "Elke",
-        "pov": "Elke",
-        "status": "szenenplan",
-        "woerter": null,
-        "text": "Elke, Stunden vorher. Fünf Resonanzen drücken durch den Stein. „Fünf? Das ergibt keinen Sinn.“ Sie wusste nicht, dass jemand kommen würde. Auf dem Weg: Thar-Späher. Metall-Geruch. Sie wissen es auch."
+        "text": "Varen schickt drei Feuer-Schemen durch den Riss. In Vael als Feuerdaemonen verstanden. Teile der Stadt brennen. Kaspar und Keldan sterben im Kampf. Elke oeffnet das Portal und geht durch nach Moragh. Lene ueberlebt allein, schreibt das Manuskript."
       }
     }
   },
@@ -476,13 +428,11 @@
           "02",
           "03",
           "04",
-          "I1",
           "05",
           "06",
           "07",
           "08",
           "09",
-          "I2",
           "10"
         ]
       },
@@ -494,13 +444,12 @@
           "12",
           "13",
           "14",
-          "I3",
+          "I4",
           "15",
           "16",
           "17",
           "18",
           "19",
-          "I4",
           "20",
           "20b"
         ]
@@ -517,7 +466,6 @@
           "25",
           "26",
           "27",
-          "I6",
           "28"
         ]
       },
@@ -528,7 +476,7 @@
           "29",
           "30",
           "31",
-          "I7",
+          "I6",
           "32",
           "33",
           "34",
@@ -759,14 +707,6 @@
         "text": "Erste Runa-Perspektive. Ihr Druckerwerkzeug reagiert — Zinn schmilzt in ihrer Hand. Sie beobachtet die anderen: Alphina lässt Wälder wachsen, Vesper analysiert, Maren spricht mit Wasser. Und sie: eine Druckerin mit warmen Händen.",
         "datei": "04-maren.md"
       },
-      "I1": {
-        "titel": "Elke: Erste Woche",
-        "pov": "Elke",
-        "status": "idee",
-        "woerter": null,
-        "text": "Wochen nach ihrem Durchgang, vierhundert Thalassien-Jahre. Elke hat den Stein geformt, einen Garten angelegt. Ein Gilden-Meister spürt ihre Resonanz. „Die Taube die Stein singt.“ Er lädt sie in die Stadt ein.",
-        "datei": "I1-elke.md"
-      },
       "05": {
         "titel": "Alphina: Trauer als Wald",
         "pov": "Alphina",
@@ -804,27 +744,6 @@
         "woerter": null,
         "text": "Runa experimentiert nachts. Messing wird weich, formbar, glüht — Hitze aus ihren Händen. Sie formt eine Buchstabentype: ein A, perfekt. Elke: „Feuer-Resonanz. Schwach, aber da.“ Runa: „Ich bin Druckerin.“ Elke: „Hier bist du mehr.“"
       },
-      "I2": {
-        "titel": "Varen: Das Warten",
-        "pov": "Varen",
-        "status": "idee",
-        "woerter": null,
-        "text": "Varen beobachtet aus der Ferne. Die Pflanzen-Frau am stärksten. Die 3 toten Quellen auf seinen Karten. Er braucht Alphinas Resonanz. Nicht sie selbst — ihre Kraft. Aber er kann sich und ihr nicht sagen wo die Grenze liegt."
-      },
-      "I3": {
-        "titel": "Varen: Die Forschung",
-        "pov": "Varen",
-        "status": "idee",
-        "woerter": null,
-        "text": "Varen in seinem Quartier. Karten, Diagramme, die toten Quellen. Er weiß dass Alphina ihn hasst. Es ist ihm nicht egal — aber es ist nicht das Wichtigste. Das Wichtigste ist die Verbindung. Die Quellen. Die Schuld die er nie so nennt."
-      },
-      "I4": {
-        "titel": "Varen: Der Beobachter",
-        "pov": "Varen",
-        "status": "idee",
-        "woerter": null,
-        "text": "Seine Schemen sind nicht feindlich — sie beobachten. Alphina bemerkt sie: Schatten am Rand ihres Hains, leuchtende Augen. Nicht aggressiv. Sie STUDIEREN. Alphinas Faszination wider Willen beginnt."
-      },
       "20b": {
         "titel": "Vesper + Nyr: Zur Thar",
         "pov": "Vesper",
@@ -832,26 +751,26 @@
         "woerter": null,
         "text": "Vesper geht mit Nyr zu den Thar. Nicht Gefangennahme — Wahl. Ihre Effizienz, ihre Ordnung. Nyr presst ihn an die Metallwand — Luft wird dünn, Druck-Magie. Blaue Flecken von Luft, nicht von Fingern."
       },
-      "I5": {
-        "titel": "Varen: Die Schuld",
+      "I4": {
+        "titel": "Das Experiment",
         "pov": "Varen",
         "status": "idee",
         "woerter": null,
-        "text": "Varen allein. Er hat sie. Was er gewollt hat. Und es ist nicht genug. Die Quellen sind immer noch tot. Die Schuld die er nie so nennt — er sagt „Notwendigkeit“, er meint etwas anderes."
+        "text": "Rueckblende. Varen unter Mar-Keth, drei Quellen, das Coupling-Experiment. Er will helfen. Durchschlag. Stille. Staub. 200.000 Menschen heimatlos. Kein Kalkuel -- Hybris. Velmar stoesst ihn aus, verdeckt. Er steht allein in den Ruinen."
+      },
+      "I5": {
+        "titel": "Vierhundert Jahre",
+        "pov": "Varen",
+        "status": "idee",
+        "woerter": null,
+        "text": "Rueckblende. Elke ist weg. Varen allein. Die Quellen sind tot, endgueltig. Er findet die alten Portal-Aufzeichnungen. 350 Verschwundene vor 200 MZ-Jahren. Verbotene Magie. Er beginnt trotzdem. Lernt Thalassisch aus Elkes zurueckgelassenen Notizbueechern. Ihr Name in seiner Handschrift. Vierhundert Jahre allein."
       },
       "I6": {
-        "titel": "Elke und der Krieg",
-        "pov": "Elke",
-        "status": "idee",
-        "woerter": null,
-        "text": "Die Gilden-Stadt wird angegriffen. Gebundene Wesen in Ketten aus Magie, eines schreit vor Schmerz. Drei Tote. Elke sagt: „So geht das. Seit Jahren.“"
-      },
-      "I7": {
-        "titel": "Varen: Die Partnerin",
+        "titel": "Der Atem",
         "pov": "Varen",
         "status": "idee",
         "woerter": null,
-        "text": "Er hat sie. Was er gewollt hat. Und es ist nicht genug. Es ist nie genug. Aber nachts wenn Dornen aus dem Boden wachsen — sein Blick der nicht fragt. Ihre Hand die nicht wegzieht. Das ist mehr als er erwartet hat."
+        "text": "Gegenwart. Varen beobachtet durch Schemen wie der Bund Alphina zur Waffe schult. Er sieht ihre Farbe kippen -- gruen zu schwarz/rot. Dieselbe Ueberladung die er selbst ausgeloest hat, jetzt in einem Menschen. Er koennte warnen. Muesste sich offenbaren. Tut es nicht. Auf seiner Karte: die naechsten Quellen auf der Bund-Todesliste. Er entscheidet zu handeln."
       }
     }
   },
@@ -869,12 +788,11 @@
           "42",
           "43",
           "44",
-          "I9",
+          "I7",
           "45",
           "46",
           "47",
-          "48",
-          "I10"
+          "48"
         ]
       },
       {
@@ -886,11 +804,10 @@
           "51",
           "52",
           "53",
-          "I11",
+          "I8",
           "54",
           "55",
-          "56",
-          "I12"
+          "56"
         ]
       },
       {
@@ -901,7 +818,7 @@
           "58",
           "59",
           "60",
-          "I13",
+          "I9",
           "61",
           "62",
           "63"
@@ -914,7 +831,6 @@
           "64",
           "65",
           "66",
-          "I14",
           "67",
           "68",
           "69",
@@ -1126,54 +1042,33 @@
         "woerter": null,
         "text": "Maren in Thalassien, alt, am Hafen. Vesper bei den Thar mit Nyr. Runa an ihrer Hybrid-Presse, Alphinas Worte in einer Kiste. Talven unterrichtet blind: „Magie kostet. Immer.“ Er lebt in Elkes Garten. Der Stein spricht — leise, aber da."
       },
-      "I9": {
-        "titel": "Elke: Der Garten wird stiller",
-        "pov": "Elke",
-        "status": "idee",
-        "woerter": null,
-        "text": "Elke, alt jetzt, die Hände langsamer. Der Garten trägt, aber der Stein antwortet langsamer. Nicht weil die Welt stirbt — weil Elke alt wird. Ihre Resonanz ist leiser."
-      },
-      "I10": {
-        "titel": "Varen: Die zweite Quelle",
-        "pov": "Varen",
-        "status": "idee",
-        "woerter": null,
-        "text": "Varen webt. Die zweite Quelle. Fäden statt Ketten — diesmal richtig verbunden. Es kostet ihn: Erschöpfung, Schweiß, Tage der Erholung. Es kostet Alphina nichts. Das ist immer noch unfair."
-      },
-      "I11": {
-        "titel": "Varen: Der Schüler",
-        "pov": "Varen",
-        "status": "idee",
-        "woerter": null,
-        "text": "Varen hat Talven unterrichtet. „Ich habe ihm gezeigt wie man erntet. Nicht wie man verteilt.“ Talven ist sein Experiment. „Ich habe wieder den Falschen gewählt. Der Richtige macht die falschen Dinge.“"
-      },
-      "I12": {
-        "titel": "Elke: Die letzten Steine",
-        "pov": "Elke",
-        "status": "idee",
-        "woerter": null,
-        "text": "Elke formt noch, aber langsamer. Der Stein antwortet leiser. Nicht weil die Welt stirbt. Weil Elke stirbt. „Ich habe den Stein geformt und die Welt hat weitergemacht. So soll es sein.“"
-      },
-      "I13": {
-        "titel": "Elkes Briefe",
-        "pov": "Elke",
-        "status": "idee",
-        "woerter": null,
-        "text": "Runa findet die Briefe. An Keldan, Lene, Kaspar — vierhundert Jahre tot. „Ihr hattet Recht, nicht durchzugehen. Ich hatte Recht, zu gehen. Beides ist wahr.“ Runa druckt den Brief. Hängt ihn über die Presse."
-      },
-      "I14": {
-        "titel": "Nyr: Die Bestie steht still",
-        "pov": "Nyr",
-        "status": "idee",
-        "woerter": null,
-        "text": "Die Bestie summt in der Ecke, extern gespeist. Kein Pilot nötig. Nyr berührt das kalte Metall — kein Nasenbluten. Die Resonanz-Käfige leer. Die Piloten waren nie nötig gewesen. „Ich bereue dass ich geglaubt habe, sie wären der einzige Weg.“"
-      },
       "EP": {
         "titel": "Epilog",
         "pov": "Alle",
         "status": "idee",
         "woerter": null,
         "text": "Vael, botanischer Garten. Ein Kind berührt einen Farn. Der Farn dreht sich. Schwindelgefühl — kurz. Magie kostet jetzt. Für alle. — Moragh. Elkes Garten, jetzt Varens und Alphinas. Seine Hand auf ihrem Rücken. Sein altes Thalassisch in ihrem Ohr. Ein Dorn an ihrer Hand. Sein Blick der nicht fragt."
+      },
+      "I7": {
+        "titel": "Die Ankunft",
+        "pov": "Maren",
+        "status": "idee",
+        "woerter": null,
+        "text": "~1910. Maren tritt durch das Portal in ein Vael das sie nicht erkennt. Elektrizitaet. Dampfschiffe. Automobile. Der Botanische Garten ist ein Park mit Eisengitter. Der Purpurstein im Steinkreis ist noch warm -- der einzige Beweis. Sie traegt Kleidung von 1820. Der Anker existiert nicht mehr. Unter dem Pflaster, Hand aufgelegt -- ein Herzschlag. Schwaecher als damals."
+      },
+      "I8": {
+        "titel": "Das Institut",
+        "pov": "Maren",
+        "status": "idee",
+        "woerter": null,
+        "text": "~1960. Maren ist alt. Das Schwellenforschungsinstitut hat 40 Mitarbeiter, einen Lehrstuhl, Messgeraete die Resonanz-Restfelder kartieren. Vael-Anomalien schwaecher aber messbar. Sie vermisst Vespers Haende. Schreibt ihm einen Brief den sie nie abschicken kann."
+      },
+      "I9": {
+        "titel": "Das Testament",
+        "pov": "Maren",
+        "status": "idee",
+        "woerter": null,
+        "text": "~2200. Maren ist lange tot. Ihr Portrait im Foyer. Eine junge Forscherin liest Marens letzten Eintrag: 'Der Stein ist kaelter geworden. Aber er schlaegt noch. Wenn ihr es schafft ihn zu oeffnen -- sagt Vesper, dass die Uhr auf dem Nachttisch immer noch null Drift hat.' Die Expedition wird vorbereitet. Sie oeffnen das Portal. Auf der anderen Seite: Thar-Spaeher."
       }
     }
   }

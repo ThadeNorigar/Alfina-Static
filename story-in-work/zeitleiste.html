@@ -375,6 +375,19 @@
           kapMap.get(k).moragh.push(ev);
         }
 
+        // Kapitel nach Nummer sortieren (damit K36-41 korrekt geordnet sind)
+        kapOrder.sort((a, b) => {
+          if (a === KEY_NONE) return -1;
+          if (b === KEY_NONE) return -1;
+          // Interludien (I1-I9) und B2/B3-Kapitel: nach Originalreihenfolge
+          const parseKey = k => {
+            if (k.startsWith('I')) return parseFloat(k.slice(1)) + 0.5;
+            if (k.startsWith('B')) return 1000 + parseFloat(k.replace(/^B\d-/, ''));
+            return parseFloat(k) || 0;
+          };
+          return parseKey(a) - parseKey(b);
+        });
+
         // Jedes Kapitel rendern
         kapOrder.forEach(kapId => {
           const kap = kapMap.get(kapId);
