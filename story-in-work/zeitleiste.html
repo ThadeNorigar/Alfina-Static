@@ -421,7 +421,7 @@
       });
     }
 
-    fetch('/buch/zeitleiste.json')
+    fetch('/buch/zeitleiste.json', {cache: 'no-cache'})
       .then(r => r.json())
       .then(data => {
         document.getElementById('subtitle').textContent = data.meta.untertitel;
