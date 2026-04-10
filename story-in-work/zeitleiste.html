@@ -76,7 +76,20 @@
     .ev-tags { display: flex; gap: 0.25rem; margin-top: 0.3rem; flex-wrap: wrap; }
     .tag { font-family: 'Inter', sans-serif; font-size: 0.48rem; padding: 0.08rem 0.35rem; border-radius: 2px; text-transform: uppercase; }
     .pov { font-family: 'Inter', sans-serif; font-size: 0.48rem; padding: 0.06rem 0.25rem; border-radius: 2px; background: rgba(107,58,58,0.05); color: var(--smoke); margin-left: 0.25rem; }
-    .kap-badge { font-family: 'Inter', sans-serif; font-size: 0.5rem; font-weight: 600; padding: 0.08rem 0.35rem; border-radius: 2px; background: rgba(107,58,58,0.1); color: var(--accent); margin-left: 0.15rem; letter-spacing: 0.02em; }
+    /* Kapitel-Gruppe */
+    .kap-group { margin-bottom: 1.2rem; padding-bottom: 0.8rem; border-bottom: 1px solid rgba(107,58,58,0.08); }
+    .kap-group:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+    .kap-header { display: flex; align-items: baseline; gap: 0.5rem; margin-bottom: 0.4rem; padding-bottom: 0.3rem; border-bottom: 1px dotted rgba(107,58,58,0.1); }
+    .kap-id { font-family: 'JetBrains Mono', monospace; font-size: 0.65rem; font-weight: 700; color: var(--accent); letter-spacing: 0.05em; }
+    .kap-pov { font-family: 'Cormorant Garamond', serif; font-size: 0.82rem; font-weight: 600; color: var(--ink); }
+    .kap-status { font-family: 'Inter', sans-serif; font-size: 0.45rem; padding: 0.06rem 0.3rem; border-radius: 2px; text-transform: uppercase; letter-spacing: 0.08em; }
+    .kap-status.final { background: rgba(90,122,90,0.12); color: #5a7a5a; }
+    .kap-status.szenenplan { background: rgba(107,98,89,0.08); color: var(--smoke); }
+    .kap-status.lektorat { background: rgba(184,134,11,0.1); color: var(--thal); }
+    .kap-datum { font-family: 'JetBrains Mono', monospace; font-size: 0.55rem; color: var(--smoke); }
+    .kap-events { padding-left: 0.8rem; border-left: 2px solid rgba(107,58,58,0.06); margin-left: 0.2rem; }
+    .kap-events .ev { margin-bottom: 0.5rem; padding-bottom: 0.5rem; }
+    .kap-events .ev::before { display: none; }
 
     .book-marker { background: rgba(107,58,58,0.04); border: 1px solid rgba(107,58,58,0.08); border-radius: 3px; padding: 0.4rem 0.5rem; margin-bottom: 1rem; }
     .thal .book-marker { border-color: rgba(184,134,11,0.12); background: rgba(184,134,11,0.04); }
@@ -163,22 +176,8 @@
       if (primaryType === 'portal') dotStyle = `background:${typColors.portal}; width:7px; height:7px; left:-1.85rem; top:0.3rem;`;
       else if (typColors[primaryType]) dotStyle = `background:${typColors[primaryType]};`;
 
-      // Time display with Buch + Kapitel
+      // Time display (minimal — Buch/Kapitel/POV is in the group header)
       let timeHtml = '';
-      if (side === 'thal' && ev.tz !== undefined) {
-        timeHtml = `<span class="tz">TZ ${ev.tz}</span> <span class="sep">&middot;</span> <span class="mz">MZ ${ev.mz}</span>`;
-      } else if (side === 'moragh' && ev.mz !== undefined) {
-        timeHtml = `<span class="mz">MZ ${ev.mz}</span> <span class="sep">&middot;</span> <span class="tz">TZ ${ev.tz}</span>`;
-      }
-      // Kapitel-Badge (Buch + Kapitel + Status)
-      if (ev.kapitel) {
-        const buch = ev.buch || '';
-        const kap = ev.kapitel.startsWith('I') ? ev.kapitel : 'K' + ev.kapitel;
-        const status = ev.kapitel_status || '';
-        const statusDot = status === 'final' ? '\u2713' : status === 'lektorat' ? '\u270E' : '';
-        timeHtml += ` <span class="kap-badge">${buch} ${kap}${statusDot ? ' ' + statusDot : ''}</span>`;
-      }
-      if (ev.pov) timeHtml += ` <span class="pov">${escHtml(ev.pov)}</span>`;
 
       // Tags
       const tagsHtml = (ev.tags || []).map(tag => {
@@ -196,6 +195,51 @@
         <div class="ev-title">${escHtml(ev.titel)}</div>
         ${ev.detail ? `<div class="ev-detail">${escHtml(ev.detail)}</div>` : ''}
         ${tagsHtml ? `<div class="ev-tags">${tagsHtml}</div>` : ''}
+      </div>`;
+    }
+
+    function groupByKapitel(events) {
+      const groups = [];
+      const ungrouped = [];
+      const kapMap = new Map();
+      for (const ev of events) {
+        const kap = ev.kapitel;
+        if (!kap) { ungrouped.push(ev); continue; }
+        if (!kapMap.has(kap)) {
+          const g = { kapitel: kap, buch: ev.buch || '', pov: '', status: ev.kapitel_status || '', datum: ev.datum_text || '', events: [] };
+          kapMap.set(kap, g);
+          groups.push(g);
+        }
+        const g = kapMap.get(kap);
+        g.events.push(ev);
+        if (!g.pov && ev.pov) {
+          // Extract POV name from "Kap 14 · Maren" or "Kap 36 - Alphina"
+          const m = ev.pov.match(/[·\-]\s*(.+)/);
+          g.pov = m ? m[1].trim() : ev.pov;
+        }
+        if (!g.datum && ev.datum_text) g.datum = ev.datum_text;
+        if (!g.status && ev.kapitel_status) g.status = ev.kapitel_status;
+        if (!g.buch && ev.buch) g.buch = ev.buch;
+      }
+      return { groups, ungrouped };
+    }
+
+    function renderKapitelGroup(group, side) {
+      const kapLabel = group.kapitel.startsWith('I') ? group.kapitel : 'K' + group.kapitel;
+      const buchLabel = group.buch || '';
+      const statusClass = group.status || 'szenenplan';
+      const statusText = group.status === 'final' ? 'final' : group.status === 'lektorat' ? 'lektorat' : group.status || '';
+
+      let eventsHtml = group.events.map(e => renderEvent(e, side)).join('');
+
+      return `<div class="kap-group">
+        <div class="kap-header">
+          <span class="kap-id">${buchLabel} ${kapLabel}</span>
+          <span class="kap-pov">${escHtml(group.pov)}</span>
+          ${statusText ? `<span class="kap-status ${statusClass}">${statusText}</span>` : ''}
+          ${group.datum ? `<span class="kap-datum">${escHtml(group.datum)}</span>` : ''}
+        </div>
+        <div class="kap-events">${eventsHtml}</div>
       </div>`;
     }
 
@@ -243,41 +287,43 @@
         const thalEvents = ev.thalassien || [];
         const moraghEvents = ev.moragh || [];
 
-        // Thalassien column
+        // Thalassien column — grouped by Kapitel
         if (thalEvents.length === 0) {
           tl.innerHTML += `<div class="empty-col thal">&mdash;</div>`;
         } else {
           let bookMarker = '';
-          if (monat.buch && (monat.buch.includes('Buch 1') || monat.buch.includes('Buch 3'))) {
-            const buchNum = monat.buch.includes('1') ? '1' : '3';
-            const buchTitel = monat.buch;
+          if (monat.buch) {
             bookMarker = `<div class="book-marker">
-              <div class="ev-time"><span class="tz">${escHtml(buchTitel)}</span> <span class="sep">&mdash;</span> <span class="tz">${escHtml(monat.tz)}</span> <span class="sep">&middot;</span> <span class="mz">${escHtml(monat.mz)}</span></div>
-              <div class="ev-title">${buchNum === '1' ? 'Vier Resonanz-Begabte kommen nach Vael' : 'Wiedervereinigung der Welten'}</div>
+              <div class="ev-time"><span class="tz">${escHtml(monat.buch)}</span></div>
             </div>`;
           }
+          const { groups, ungrouped } = groupByKapitel(thalEvents);
+          const groupedHtml = groups.map(g => renderKapitelGroup(g, 'thal')).join('');
+          const ungroupedHtml = ungrouped.map(e => renderEvent(e, 'thal')).join('');
           tl.innerHTML += `<div class="col-body thal"><div class="tl-line">
             ${bookMarker}
-            ${thalEvents.map(e => renderEvent(e, 'thal')).join('')}
+            ${groupedHtml}
+            ${ungroupedHtml}
           </div></div>`;
         }
 
-        // Moragh column
+        // Moragh column — grouped by Kapitel
         if (moraghEvents.length === 0) {
           tl.innerHTML += `<div class="empty-col moragh">&mdash;</div>`;
         } else {
           let bookMarker = '';
           if (monat.buch && (monat.buch.includes('Buch 2') || monat.buch.includes('Buch 3'))) {
-            const buchTitel = monat.buch;
-            const isB2 = monat.buch.includes('Buch 2');
             bookMarker = `<div class="book-marker">
-              <div class="ev-time"><span class="mz">${escHtml(buchTitel)}</span> <span class="sep">&mdash;</span> <span class="mz">${escHtml(monat.mz)}</span> <span class="sep">&middot;</span> <span class="tz">${escHtml(monat.tz)}</span></div>
-              <div class="ev-title">${isB2 ? 'Vier Überlebende in einer Welt im Krieg.' : 'Alphina, Vesper, Runa — gealtert in Moragh-Zeit'}</div>
+              <div class="ev-time"><span class="mz">${escHtml(monat.buch)}</span></div>
             </div>`;
           }
+          const { groups, ungrouped } = groupByKapitel(moraghEvents);
+          const groupedHtml = groups.map(g => renderKapitelGroup(g, 'moragh')).join('');
+          const ungroupedHtml = ungrouped.map(e => renderEvent(e, 'moragh')).join('');
           tl.innerHTML += `<div class="col-body moragh"><div class="tl-line">
             ${bookMarker}
-            ${moraghEvents.map(e => renderEvent(e, 'moragh')).join('')}
+            ${groupedHtml}
+            ${ungroupedHtml}
           </div></div>`;
         }
 
