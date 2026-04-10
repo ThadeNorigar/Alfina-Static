@@ -256,17 +256,17 @@
       }
     },
     {
-      "label": "MZ ~-6",
-      "tz": "TZ ~-1.449",
-      "mz": "MZ ~-6 bis -5",
+      "label": "MZ ~-4,25",
+      "tz": "TZ ~-1.149",
+      "mz": "MZ ~-4,25",
       "events": {
         "thalassien": [],
         "moragh": [
           {
-            "tz": -1449,
-            "mz": -5,
+            "tz": -1149,
+            "mz": -4.25,
             "titel": "Varens Leylinien-Experiment scheitert",
-            "detail": "Varen (Velmar-Forscher) versucht drei benachbarte Quellen unter Mar-Keth zu koppeln um magiefreie Flaechen besiedelbar zu machen (Motiv: Expansion der bewohnbaren Zonen, nicht akute Ueberbevoelkerung). Unfall. 3 Reservoir-Quellen kollabieren unwiederbringlich: Mar-Keth (riesig, ~120.000 Einwohner, Varens Herkunftsstadt), Dulrath-Ost (groß), Reshkol (groß). Städte verdorren, ~200.000 Menschen heimatlos. Velmar weiss und vertuscht (Ausstoß Varens ohne offizielle Anklage). Bund und Thar wissen nichts, halten es für Naturkatastrophe.",
+            "detail": "Varen (Velmar-Forscher) versucht drei benachbarte Quellen unter Mar-Keth zu koppeln um magiefreie Flaechen besiedelbar zu machen (Motiv: Expansion der bewohnbaren Zonen, nicht akute Ueberbevoelkerung). Unfall. 3 Reservoir-Quellen kollabieren unwiederbringlich: Mar-Keth (riesig, ~120.000 Einwohner, Varens Herkunftsstadt), Dulrath-Ost (gross), Reshkol (gross). Staedte verdorren, ~200.000 Menschen heimatlos. Velmar weiss und vertuscht (Ausstoss Varens ohne offizielle Anklage). Bund und Thar wissen nichts, halten es fuer Naturkatastrophe.",
             "typen": [
               "schlüssel",
               "tschechow"
@@ -290,7 +290,7 @@
             "tz": -1049,
             "mz": -4,
             "titel": "Der Krieg beginnt — Orath vs. Thar vs. Velmar",
-            "detail": "Ausloeser: Das Thar-Konglomerat glaubt, der Bund von Orath habe die Explosion absichtlich ausgeloest und sie angegriffen. Es gibt genug Quellen -- der Krieg beginnt nicht aus Ressourcenknappheit, sondern aus Misstrauen und Vergeltung. Dauert 4 MZ-Jahre (= ~1.600 TZ). Drei Fraktionen, drei Philosophien, keine Sieger. Die Vier erfahren in Buch 2 zunaechst die Konglomerat-Version.",
+            "detail": "~3 MZ-Monate nach der Quellen-Explosion. Das Thar-Konglomerat glaubt, der Bund von Orath habe die Explosion absichtlich ausgeloest und sie angegriffen. Es gibt genug Quellen -- der Krieg beginnt nicht aus Ressourcenknappheit, sondern aus Misstrauen und Vergeltung. Dauert 4 MZ-Jahre (= ~1.600 TZ). Drei Fraktionen, drei Philosophien, keine Sieger. Velmar haelt sich raus, verhandelt mit der Thar, hat durch die kaputten Quellen eine gute Verteidigungsposition (keine Nachschublinie fuer Thar-Armeen). Die Vier erfahren in Buch 2 zunaechst die Konglomerat-Version.",
             "typen": [
               "schlüssel"
             ],
