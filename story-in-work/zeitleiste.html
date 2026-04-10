@@ -373,6 +373,13 @@
           const mzVal = allKapEvents.find(e => e.mz !== undefined)?.mz;
           const mzText = mzVal !== undefined ? 'MZ ' + mzVal : '';
 
+          // Build date from datum_text or from tz/mz values
+          if (!info.datum && allKapEvents.length > 0) {
+            const ev0 = allKapEvents[0];
+            if (ev0.tz !== undefined) info.datum = 'TZ ' + ev0.tz;
+            if (ev0.mz !== undefined) info.datum = (info.datum || '') + (info.datum ? '' : 'MZ ' + ev0.mz);
+          }
+
           // Date marker if date changed
           if (info.datum && info.datum !== lastDate) {
             lastDate = info.datum;
