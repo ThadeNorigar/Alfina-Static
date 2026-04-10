@@ -55,9 +55,9 @@ Er holte die Lupe, Messingrand, gutes Glas aus Nachtholm, und prüfte die Platte
 
 Die Hypothese, die er sich zuerst geben konnte, war einfach. Sein Gedächtnis hatte gekippt. Er war in den letzten Wochen jemand geworden, der sie fotografierte, ohne sich daran zu erinnern. Dagegen gab es Medizin, Pausen, Schlaf. Aber diese Hypothese trug nicht weit — die Platten aus Nachtholm waren drei Monate alt, und vor drei Monaten hatte er keinen Namen gesucht, der so aussah wie ihrer.
 
-Die zweite Hypothese hielt er seit der Poller-Nacht unter einem Deckel. *Die Kamera sieht mehr als meine Augen.* Er hatte den Satz nach der ersten Vael-Platte gedacht, hatte ihn in den Wochen danach wiedergekaut und ihn nach der Nacht mit der Frau am leeren Kai fast akzeptiert. Jetzt legte er den Deckel weg.
+Die zweite Hypothese hielt er seit der Poller-Nacht unter einem Deckel. Jetzt legte er den Deckel weg.
 
-Die Kamera fing ein, was seine Augen nicht sahen. Das Silber war sensitiver als das Auge. Vielleicht gab es Frequenzen, Schichten, Zeiten, die nicht in der Sichtbarkeit eines Menschen lagen. Das war die Lüge, die er sich erzählte. Dahinter lag etwas, an das er nicht gehen wollte. Ohne Wort gab es keinen zweiten Gedanken.
+Er hatte den Kai abgesucht, zwei Minuten bevor er belichtet hatte. Er hatte gesehen, was dort war. Das Silber gab zurück, was er ihm gegeben hatte. Das war die Lüge, die er sich erzählte. Dahinter lag etwas, an das er nicht gehen wollte. Ohne Wort gab es keinen zweiten Gedanken.
 
 Also blieb der erste.
 
@@ -159,7 +159,7 @@ Er schloss den Mund. Der Satz blieb, wo er war.
 
 Ihr Blick fiel auf seine linke Hand. Er sah die Verschiebung in ihren Augen — denselben kurzen Suchgang, den sie an der Tür gemacht hatte. Diesmal fand sie den Handrücken. Der Verband war weg. Die Haut war rosa und glatt, die Stelle, wo der Schorf gesessen hatte, heller als der Rest. Er hatte den Verband am zweiten Tag abgenommen, weil die Wunde darunter aussah, als wäre sie seit Wochen am Heilen, nicht seit Tagen. Er hatte keine Erklärung gesucht.
 
-Sie blieb stehen. Er blieb auch stehen. Sie nahm seine linke Hand, ohne zu fragen, drehte sie im Gaslicht, den Handrücken nach oben. Ihr Daumen lag auf der Stelle, wo der Verband gewesen war. Die Berührung war leicht, fachlich, so wie ein Handwerker ein Material prüft — und gleichzeitig nicht. Sein Atem ging flacher, ohne dass er es beschlossen hatte.
+Sie blieb stehen. Er blieb auch stehen. Sie nahm seine linke Hand, ohne zu fragen, drehte sie im Gaslicht, den Handrücken nach oben. Ihr Daumen lag auf der Stelle, wo der Verband gewesen war. Die Berührung war leicht, sehr konzentriert, zu ruhig für eine Untersuchung. Sein Atem ging flacher, ohne dass er es beschlossen hatte.
 
 "Drei Tage", sagte sie leise. Nicht als Frage. Als Feststellung einer Unmöglichkeit.
 
@@ -177,9 +177,9 @@ Ihr Schritt wurde langsamer. "Wie bewegen?"
 
 Sie schwieg drei Schritte lang. Er spürte, wie die Stille sich verdichtete — nicht leer, sondern voll, auf eine Art, die er von Platten kannte, wenn der Entwickler anfing, ein Bild freizugeben, das man noch nicht ganz sehen konnte.
 
-"Das passt", sagte sie schließlich. Mehr nicht. Aber die Art, wie sie es sagte — knapp, ruhig, mit dem halben Gewicht einer Frau, die gerade ein Puzzlestück an eine Stelle gelegt hatte, an die es gehörte — diese Art sagte ihm, dass sie etwas wusste, das er nicht wusste, und dass sie nicht vorhatte, es ihm heute zu erzählen.
+"Das passt", sagte sie schließlich. Mehr nicht. Er ließ den Gedanken, der dahinter wartete, unberührt.
 
-Sie kamen an die Treppe, an der die Hafengegend in die Oberstadt überging. Breite Stufen aus Purpurstein, Gaslampen an den oberen Kanten. Von hier sah man die Grauwe, weit hinten, eine flache Fläche unter dem Abendhimmel, und dazwischen den Dunst, der immer da war.
+Sie kamen an die Treppe, an der die Hafengegend in die Oberstadt überging. Breite Stufen aus Purpurstein, der Mörtelgeruch kälter hier, der Wind von der Grauwe her. Von hier sah man die Grauwe, weit hinten, eine flache Fläche unter dem Abendhimmel, und dazwischen den Dunst, der immer da war.
 
 Sie stieg die ersten zwei Stufen hinauf und drehte sich zu ihm.
 
