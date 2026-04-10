@@ -157,11 +157,6 @@
       "mz": "MZ -200",
       "tz_range": "TZ -79.449",
       "events": {
-        "sync": {
-          "tz": "TZ -79.449",
-          "mz": "MZ -200",
-          "label": "Portal ← Flucht nach Thalassien"
-        },
         "thalassien": [
           {
             "tz": -79449,
@@ -205,11 +200,7 @@
             "luecke": "~78.000 TZ — keine Aufzeichnungen. Evolution: kleiner, heller, Resonanz statt Magie."
           }
         ],
-        "moragh": [
-          {
-            "luecke": "~198 MZ — Städte, Quellen, Zivilisation, Magie als Handwerk"
-          }
-        ]
+        "moragh": []
       }
     },
     {
