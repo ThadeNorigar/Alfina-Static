@@ -160,7 +160,7 @@
         "sync": {
           "tz": "TZ -79.449",
           "mz": "MZ -200",
-          "label": "Portal → Flucht nach Thalassien"
+          "label": "Portal ← Flucht nach Thalassien"
         },
         "thalassien": [
           {
@@ -2563,7 +2563,7 @@
         "sync": {
           "tz": "TZ ~651",
           "mz": "MZ ~0,25",
-          "label": "Portal → Maren geht nach Thalassien"
+          "label": "Portal ← Maren geht nach Thalassien"
         },
         "thalassien": [
           {
