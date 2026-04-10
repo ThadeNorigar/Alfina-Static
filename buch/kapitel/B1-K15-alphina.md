@@ -104,7 +104,7 @@ Nicht schnell. Nicht langsam. Sie drehte sich um und ging den Steg zurück, die 
 
 In ihren Fingerspitzen, als sie das Steggeländer streifte, lag ein Zug. Fein, kaum da, ein Nachlaufen in den Sehnen. Die Farne hinter ihr drehten sich ihr nach. Sie sah es nicht. Aber sie spürte es in den Handwurzeln, in den Sehnen, in dem schmalen Gewebe unter der Haut — ein Drehen, das ihrem Drehen folgte, ein Nachziehen, das sie kannte und das sie nicht gewollt hatte und das trotzdem kam, jedes Mal, an jedem Steg, an jedem Geländer.
 
-An der Hafenmauer blieb sie stehen und legte die Hände auf den Stein. Der Purpur war feucht und kühl und rau unter den Handflächen, und sie drückte die Finger dagegen, bis sie die Kante der Fugen spürte. Die Luft war salzig und roch nach nassem Holz und nach dem Tang, der in Klumpen am Mauergrund hing. Ihr Herzschlag war gleichmäßig.
+An der Hafenmauer blieb sie stehen. Sie stand einen Moment, ohne etwas zu tun, die Hände an den Seiten, und wartete darauf, dass ihr Herzschlag sich beruhigte. Er brauchte fünf Atemzüge. Dann legte sie die Hände auf den Stein. Der Purpur war feucht und kühl und rau unter den Handflächen, und sie drückte die Finger dagegen, bis sie die Kante der Fugen spürte. Die Luft war salzig und roch nach nassem Holz und nach dem Tang, der in Klumpen am Mauergrund hing.
 
 Er hatte entschieden zu schweigen. Sie hatte ihm die Wahl gelassen, und er hatte sie nicht genutzt. Und das Schweigen war geblieben, hatte sich zwischen ihnen eingerichtet, Wurzeln geschlagen in einen Boden, den keiner von beiden gepflügt hatte.
 
@@ -160,4 +160,4 @@ Das war kein Tier. Kein Fressverhalten, keine Flucht, keine Aggression. Kein Tro
 
 Das hatte Absicht.
 
-Sie schloss das Notizbuch. Ihre Hände lagen flach auf dem Ledereinband, und die Wärme ihrer Handflächen ging in das Material und blieb dort, in allem was sie berührte. Die Kerze brannte gleichmäßig. Draußen, vor dem Fenster des Anker, lag Vael im Nebel, und der Nebel lag auf den Dächern und auf den Gassen und auf dem Wasser, und irgendwo in der Stadt standen die Wesen — die kleinen auf den Dächern und der große im Garten und das Humanoide in den Gassen — und warteten auf etwas, das sie nicht benennen konnte und das den Kopf nach ihr neigte.
+Sie schloss das Notizbuch. Ihre Hände lagen flach auf dem Ledereinband, und die Wärme ihrer Handflächen ging in das Material und blieb dort, in allem was sie berührte. Die Kerze brannte gleichmäßig. Draußen, vor dem Fenster des Anker, lag Vael im Nebel, und der Nebel lag auf den Dächern und auf den Gassen und auf dem Wasser. Irgendwo in der Stadt standen die Wesen — die kleinen auf den Dächern, der große im Garten, das Humanoide in den Gassen — und warteten auf etwas, das sie nicht benennen konnte und das den Kopf nach ihr neigte.
