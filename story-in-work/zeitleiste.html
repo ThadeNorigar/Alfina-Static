@@ -318,8 +318,8 @@
       const monthIdx = Math.min(Math.floor(frac * 8), 7);
       const dayFrac = (frac * 8 - monthIdx);
       const day = Math.max(1, Math.round(dayFrac * 36));
-      if (frac === 0 || frac < 0.01) return `${year}`;
-      return `${day}. ${MZ_MONATE[monthIdx]} ${year}`;
+      if (frac === 0 || frac < 0.01) return `${year} MZ`;
+      return `${day}. ${MZ_MONATE[monthIdx]} ${year} MZ`;
     }
 
     function renderTimeline(data) {
