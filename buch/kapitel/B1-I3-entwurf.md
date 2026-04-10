@@ -1,7 +1,7 @@
 # B1-I3 — Elke — Entwurf
 
 **POV:** Elke van der Holt (3. Person nah, Präteritum)
-**Timeline:** Frostmond, 154 TZ / 3634 MZ — ca. 2-3 Monate nach I2
+**Timeline:** Frostmond, 154 TZ / 3634 MZ — wenige Wochen nach I2 (I2 spielt ebenfalls Frostmond)
 **Wortziel Ausarbeitung:** 2.000–2.500 W (Interludium-Format, kürzer als Hauptkapitel)
 **Gänsehaut-Moment:** Das Portal öffnet sich — Varen sieht Elke auf der Moragh-Seite und kappt die Schemen-Bindung; das Feuer stirbt im selben Atemzug. Drei Herzschläge Stille.
 
@@ -25,7 +25,7 @@
 **Beats:**
 1. Elke liegt im Dunkeln, lauscht dem Stein. Das Summen hat sich in den letzten Tagen verändert — nicht mehr gleichmäßig, sondern stoßweise, wie ein Herzschlag der stolpert.
 2. Kaspar klopft — zwei Knöchel, kurz, wie ein Handwerker der weiß ob jemand schläft. Elke kennt das Klopfen. Sie lässt ihn rein.
-3. Kurze Einordnung: Kaspar ist Maler, 34 Jahre, die Hände dauerfleckig mit Pigmenten die nie ganz rausgehen. Sein letztes Bild: ein Hafen, Nacht, zwei Figuren am Kai. In den Schatten unter dem Steg — Hohlräume, Augen. Er hat die Stelle zweimal abgekratzt. Beide Male erschien sie wieder, dunkler als zuvor.
+3. Kurze Einordnung: Kaspar ist Maler, 34 Jahre, vor drei Wochen in Vael angekommen — der vierte Resonanz-Träger, auf den Aldert gewartet hatte. Die Hände dauerfleckig mit Pigmenten die nie ganz rausgehen. Sein letztes Bild: ein Hafen, Nacht, zwei Figuren am Kai. In den Schatten unter dem Steg — Hohlräume, Augen. Er hat die Stelle zweimal abgekratzt. Beide Male erschien sie wieder, dunkler als zuvor.
 4. Kein Gespräch über Zukunft. Kein Versprechen. Beide wissen was morgen kommen wird — vergangene Woche hatten alle vier geredet: Keldan hat Schemen am Hafen gezählt (sieben, mehr als bisher), Lene hat ein Klopfen unter dem Werftboden gehört, rhythmisch, nicht von den Wellen. Die Stadt schläft. Sie tun so als ob.
 5. **Schlussbild der Szene:** Durch das Fenster, auf der Gasse gegenüber: drei Schemen. Reglos. Keine Tier-Form wie bisher — aufrecht, schmal, schwarz gegen das Kopfsteinpflaster. Kaspar sagt: "Seit drei Stunden." Elke zieht den Vorhang zu, aber sie spürt sie noch — durch den Stein, durch den Boden, durch die Außenwand.
 
@@ -57,11 +57,11 @@
 
 **Beats:**
 1. Elke und Kaspar laufen. Keldan ist schon auf der Straße — er hat das Feuer durch die Esse gespürt, bevor es sichtbar war.
-2. Kurzer Plan am Brunnen: Keldan hält die Schemen auf. Lene ist schon weg — in Richtung Hafen, zur Werft, weg von der Unterstadt. Kaspar deckt Elke. Elke muss zum Riss, zum Garten. Nicht weil sie weiß warum — der Stein zieht sie. Das Summen ist jetzt laut genug für die Ohren.
+2. Kurzer Plan am Brunnen: Keldan hält die Schemen auf. Lene hat beim Plan-Gespräch gesagt: "Ich gehe zur Werft — tiefer Keller, Steinboden." Sie ist bereits weg. Kaspar deckt Elke. Elke muss zum Riss, zum Garten. Nicht weil sie weiß warum — der Stein zieht sie. Das Summen ist jetzt laut genug für die Ohren.
 3. **Keldans Tod:** Einer der Feuer-Schemen dreht sich nach ihm. Keldan hält einen Amboss-Eisenarm als Schild — er hat ihn aus der Schmiede geholt, das Metall reagiert auf ihn, hält die Wärme besser als es sollte. Aber die Hitze dieses Schems ist zu konzentriert. Das Eisen schmilzt. Nicht sofort — einen Atemzug lang hält es. Dann schlägt der Aufprall Keldan zurück. Er fällt an der Mauer. Steht nicht wieder auf.
 4. Elke rennt. Im Augenwinkel: Kaspar macht etwas mit Licht — ein Aufblitzen, wie wenn eine Spiegelscherbe die Sonne wirft, aber es ist mitten in der Nacht. Das Licht kommt aus ihm. Der zweite Schem hält inne, einen Herzschlag lang, als würde er geblendet. Dann trifft er Kaspar in die Brust.
 5. Elke sieht Kaspars Fall, dreht sich nicht um. Läuft weiter. Das ist kein Verrat — das ist der Plan. Das war immer der Plan.
-6. Beim Botanischen Garten: Das Tor ist offen (wer hat es geöffnet?). Elke durch die Pforte, Hände auf den Purpurstein-Boden im Garten. Der Stein redet — nicht in Worten, in Frequenz, in Vibration. Und darunter: das Portal ist offen. Etwas hat es von der anderen Seite aufgemacht. Eine Öffnung, die sie nicht selbst kann, die von unten kommt.
+6. Beim Botanischen Garten: Das Tor ist offen — ein Schem hat die Eisenstäbe verbogen, der Rahmen hängt schief. Elke durch die Pforte, Hände auf den Purpurstein-Boden im Garten. Der Stein redet — nicht in Worten, in Frequenz, in Vibration. Und darunter: das Portal ist offen. Etwas hat es von der anderen Seite aufgemacht. Eine Öffnung, die sich ohne ihr Zutun aufgetan hat, die von unten kommt.
 7. Der dritte Schem ist hinter ihr. Elke springt.
 
 **Dialog-Informationen:**
@@ -97,7 +97,7 @@
 1. Elke liegt auf dem Boden. Stein — schwarzer Basalt, glatt, warm. Ihr Knie schmerzt. Sie richtet sich auf.
 2. Ein Mann sitzt fünf Schritte entfernt, zwischen Geräten die sie nicht einordnen kann — keine Zangen, kein Amboss, kein Werkzeug das sie kennt. Er schaut auf. Sein Gesicht tut etwas, das Elke noch nie bei einem erwachsenen Menschen gesehen hat: erschrecken, einfrieren, dann etwas das aussieht wie Schuld.
 3. Er tippt auf eines der Geräte. Ein Leuchten erlischt. Und in demselben Moment — das Brennen unter Elkes Haut lässt nach. Als hätte jemand eine Hand weggezogen. Die Feuer-Schemen, wo immer sie jetzt sind: gekappt.
-4. Stille. Der Mann sagt ein Wort in einer Sprache die wie ihre eigene klingt, verdreht, aus einem Traum. Dann, auf Thalassisch, mit einem Akzent den sie von Aldert kennt: "Das war nicht — ich habe nicht gewusst dass jemand —" Er redet nicht weiter.
+4. Stille. Der Mann sagt ein Wort in einer Sprache die wie ihre eigene klingt, verdreht, aus einem Traum. Dann, auf Thalassisch, mit einem Akzent den sie nicht einordnen kann: "Das war nicht — ich habe nicht gewusst dass jemand —" Er redet nicht weiter.
 5. **Gänsehaut-Moment:** Elke versteht: dieser Mann hat die Schemen geschickt. Dieser Mann hat Keldan und Kaspar getötet. Und jetzt sitzt er auf dem Boden und schaut aus wie jemand, der sich schämt. Das ist der falscheste Moment den sie je erlebt hat.
 6. Sie steht auf, trotz des Knies. Schaut ihn an. Fragt auf Thalassisch: "Wie heißt Ihr?"
 7. Der Mann: "Varen."
