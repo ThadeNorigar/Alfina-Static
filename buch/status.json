@@ -417,7 +417,8 @@
       "I3": {
         "titel": "Das Grosse Feuer",
         "pov": "Elke",
-        "status": "szenenplan",
+        "status": "entwurf",
+        "entwurfs_datei": "B1-I3-entwurf.md",
         "woerter": null,
         "text": "Varen schickt drei Feuer-Schemen durch den Riss. In Vael als Feuerdaemonen verstanden. Teile der Stadt brennen. Kaspar und Keldan sterben im Kampf. Elke oeffnet das Portal und geht durch nach Moragh. Lene ueberlebt allein, schreibt das Manuskript."
       }
