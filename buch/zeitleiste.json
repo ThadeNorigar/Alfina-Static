@@ -1812,17 +1812,20 @@
             "mz": 3635,
             "kapitel": "16",
             "typen": [
-              "hintergrund"
+              "erkenntnis",
+              "schlüssel"
             ],
-            "titel": "Sorels Steg-Fotos zeigen Alphina hinter ihm",
+            "titel": "Sorel entdeckt seine Resonanz — belichtet Platten durch Gedanken",
             "pov": "Kap 16 - Sorel",
             "buch": "B1",
             "kapitel_status": "szenenplan",
-            "detail": "Auf jeder Platte steht Alphina, obwohl sie nicht dort war. Resonanz-Projektion. Er erkennt es nicht.",
+            "detail": "Sorel gruebelt ueber Doppelbelichtungen auf seinen Platten. Schliesst eigene Fehler aus. Geistesblitz: testet eine unbelichtete Platte. Erleichterung als ein Bild erscheint — denkt die Platten waren vorbelichtet. Dann erkennt er sich selbst auf der Platte, beim Entwickeln, seinen eigenen Gedankengang. Paranoia: wer fotografiert ihn? Entwickelt eine weitere — zeigt seine Angst. Daemmert ihm. Bewusster Test: er stellt sich das Bild vor, nach dem er sich seit Wochen sehnt. Die Platte zeigt es. Letzter Satz enthuellt: Alphina. Sehnsucht kippt in Vertrauensbruch.",
             "tz_tag": 152,
             "datum_text": "1. Lichtmond 551 TZ",
             "tags": [
-              "Tschechow: Steg-Fotos feuern K25"
+              "Tschechow: Resonanz-Missbrauch",
+              "Setup K21 Dunkelkammer",
+              "Setup Sorels Tod"
             ]
           },
           {
@@ -1830,25 +1833,23 @@
             "mz": 3635,
             "kapitel": "17",
             "typen": [
-              "begegnung",
-              "schlüssel"
+              "begegnung"
             ],
-            "titel": "Alle vier treffen sich erstmals gemeinsam im Botanischen Garten",
-            "pov": "Kap 17 · Alle",
+            "titel": "Vesper bringt Maren die Schiffsuhr — erster ehrlicher Austausch ueber das Unmoegliche",
+            "pov": "Kap 17 - Maren",
             "tz_tag": 158,
             "datum_text": "7. Lichtmond 551 TZ",
             "figuren": [
-              "Alphina",
-              "Sorel",
               "Vesper",
               "Maren"
             ],
-            "intensitaet": "fluechtig",
-            "ort": "Botanischer Garten, Vael",
-            "detail": "Vier Resonanzen auf engstem Raum. Die Schemen verschwinden schlagartig. Pochen unter der Erde — Herzschlag. Varens Augen sehen durch die Schemen: er weiss jetzt dass alle vier da sind.",
+            "intensitaet": "bekannt",
+            "ort": "Marens Werft",
+            "detail": "Vesper bringt die reparierte Schiffsuhr zur Werft — weil er sie sehen will, nicht weil die Uhr es verlangt. Maren hat Runas Flugblatt gesehen, die Standuhr wird erwaehnt. Sie fragt. Er erzaehlt offen — die Standuhr, was dabei passiert ist. Sein Koerper reagiert spaeter als seine Worte: Haende die still werden, Luft die er einzieht. Maren hoert zu, sagt nichts. Dann zeigt sie es ihm wortlos: Tee wird wieder heiss, ein Strudel in der Tasse. Sie spuert etwas dabei — ein Ziehen, eine Waerme — aber keine Erschoepfung, keine Kosten. Vesper starrt eine Sekunde zu lang. Sein Innehalten loest etwas in Maren aus — die Haende aus K14, jetzt mit einer konkreten Geste in der Gegenwart. BDSM-Wuensche weben sich in ihre Wahrnehmung: wie er die Uhr haelt, wie er wartet bevor er spricht. Vesper sagt: sie muss Alphina kennenlernen. Er verabschiedet sich.",
             "tags": [
-              "Schluesselereignis: Vier zusammen",
-              "Tschechow: Vier Resonanzen"
+              "Beziehung: Vesper + Maren",
+              "Resonanz-Enthuellung: Maren",
+              "Setup: Alle vier treffen sich (K19)"
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
@@ -1858,17 +1859,24 @@
             "mz": 3635,
             "kapitel": "18",
             "typen": [
+              "begegnung",
               "erkenntnis"
             ],
-            "titel": "Vesper allein mit der Standuhr — Halvards unmoegliche Verletzungen",
+            "titel": "Sorel sucht Vesper — zwei Maenner legen Puzzleteile zusammen",
             "pov": "Kap 18 · Vesper",
             "tz_tag": 162,
             "datum_text": "11. Lichtmond 551 TZ",
-            "ort": "Tidemoor-Haus, abends Gasthaus",
-            "detail": "Vesper im Tidemoor-Haus. Die Standuhr laeuft rein wie seit Mai, fuer ihn abgeschlossener Fall. Auf dem Reparaturtisch: Vespers Tabelle der sechzehn anderen Vael-Uhren, die er seit Kap 11 weitermisst. Die Driftwerte wachsen gleichmaessig, alle Ringe expandieren im selben Verhaeltnis. Er rechnet die Zuwachsraten zum ersten Mal hoch und findet die Grundfrequenz des Systems: vier Minuten dreiunddreissig pro Tag, nicht als Messwert einer einzelnen Uhr, sondern als Atem des Gesamtmusters, das alle sechzehn gleichzeitig zieht. Er unterstreicht die Zahl nicht. Er weiss noch nicht, was er damit machen soll. Abends Halvard im Gasthaus: kauterisierte Kratzer bei einem Kind, Verbrennungen ohne Hitzequelle, Knochenbrueche ohne Sturz. Vespers Notizbuch fuellt sich mit Mustern. Keine Esther, kein Manuskript (die Esther-Szene ist aus einem frueheren Entwurf und wird separat behandelt).",
+            "figuren": [
+              "Sorel",
+              "Vesper"
+            ],
+            "intensitaet": "bekannt",
+            "ort": "Vael (Ort offen — kein Tidemoor-Haus)",
+            "detail": "Sorel sucht Vesper aus eigenem Antrieb. Er weiss, dass etwas nicht stimmt: Schemen-Angriff (K10), Brandwunde ohne Feuer, Alphinas Heilung (K12/13), Platten ohne Kamera (K16, verschweigt das letzte Bild). Vesper bringt: Uhren-Drift, Grundfrequenz 4:33, Marens Tee-Strudel (K17). Beide reden ueber Alphina — unabhaengig voneinander haben sie etwas an ihr beobachtet. Puzzleteile die zusammenpassen ohne dass einer das Gesamtbild sieht. Vesper am Ende: wir muessen uns alle treffen. Setup fuer K19 Garten-Treffen.",
             "tags": [
-              "Tschechow: 4:33-Muster",
-              "Halvards unmoegliche Verletzungen"
+              "Bruecke: Sorel + Vesper",
+              "Setup: Garten-Treffen K19",
+              "Informationsfluss: Alphina als gemeinsames Thema"
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
@@ -1878,16 +1886,29 @@
             "mz": 3635,
             "kapitel": "19",
             "typen": [
-              "begegnung"
+              "begegnung",
+              "schlüssel",
+              "kampf"
             ],
-            "titel": "Vesper bringt Maren die Schiffsuhr zur Werft",
-            "pov": "Kap 19 - Maren",
+            "titel": "Alle vier im Garten — erster Kampf gegen einen Waechter-Schemen",
+            "pov": "Kap 19 · Alle",
             "tz_tag": 165,
             "datum_text": "14. Lichtmond 551 TZ",
-            "ort": "Gasthaus Zum Anker (Vespers Reparaturtisch), dann Stadtarchiv",
-            "detail": "Saegemehl, Tee auf Holzkisten. Arm-Beruehrung. Erster ehrlicher Austausch ueber das Unmoegliche -- Standuhr, Boot, Schemen.",
+            "figuren": [
+              "Alphina",
+              "Sorel",
+              "Vesper",
+              "Maren"
+            ],
+            "intensitaet": "bekannt",
+            "ort": "Botanischer Garten, Vael",
+            "detail": "Vesper hat das Treffen arrangiert. Alle vier zum ersten Mal zusammen. Ein Riss in der Substanz oeffnet sich — kurzer verzerrter Blick auf Moragh, dann ein Waechter-Schemen (3-4m, tierisch-humanoid, Schattenmagie). Maren steht direkt am Riss, wird ueberrumpelt und verletzt (Schulter). Vesper geht zu ihr, der Schemen stuermt auf ihn zu, Vesper verlangsamt ihn unabsichtlich (Zeitresonanz). Sorel versucht gebuendeltes Licht wie beim Katzen-Schemen in K10 — wird geschluckt. Zieht Alphina instinktiv weg (Hand an Schulter, ihr Koerper gehorcht bevor ihr Kopf widerspricht — Setup K21/K36). Dann Umdenken: flutet die Szene mit diffusem Raumlicht. Alphina will Wurzeln, kriegt nur schnell wachsendes Gras. Konzentriert sich, schickt Wurzeln durch die Beine des verlangsamten Schemens in seinen Koerper. Vesper schaltet: verlangsamt das Tier, beschleunigt Alphinas Wurzeln. Feines Wurzelgespinst durchzieht den Schemen, die Magiebindung bricht, er loest sich in Rauch auf der durch hunderte Stellen im Raum abgesogen wird. Uebrig: die Wurzeln in der Luft, geformt wie der Koerper des Schemens. Alle vier erschoepft, schwarz vor Augen. Aber sie fuehlen sich maechtig — das wird sie in Moragh unvorsichtig machen. Varen hat beobachtet und bekommen was er wollte.",
             "tags": [
-              "Beziehung: Vesper + Maren"
+              "Schluesselereignis: Erster Kampf",
+              "Tschechow: Sorels Beschuetzer-Reflex → K36 Tod",
+              "Tschechow: Selbstueberschaetzung → Moragh",
+              "Tschechow: Riss-Blick auf Moragh",
+              "Varen testet die Vier"
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
@@ -1901,7 +1922,7 @@
               "schluessel",
               "tschechow"
             ],
-            "titel": "Maren zeigt Vesper Harons Zettel -- gemeinsam ins Archiv",
+            "titel": "Maren bringt Vesper Harons Symbolblatt — gemeinsam ins Archiv",
             "pov": "Kap 20 - Maren",
             "tz_tag": 171,
             "datum_text": "20. Lichtmond 551 TZ",
@@ -1910,12 +1931,12 @@
               "Maren"
             ],
             "intensitaet": "bekannt",
-            "ort": "Werft Dahl",
-            "detail": "Maren zeigt Vesper den Zettel aus Harons Werkstatt (schon frueher gefunden). Vesper: Das gehoert ins Stadtarchiv. Gemeinsam hin. Esther Voss erkennt eine Handschrift, holt das 400-jaehrige Manuskript. Jara schiebt Vesper wortlos einen zweiten Folianten zu. Maren sieht es. Marens Gedanken von K14 kommen zurueck, schaerfer.",
+            "ort": "Gasthaus Zum Anker (Vespers Reparaturtisch), dann Stadtarchiv",
+            "detail": "Maren hat Harons Symbolblatt seit K08 — ein einzelnes Blatt mit einer Steinkreis-Zeichnung. Hatte nur niemanden zum Reden. Nach dem Kampf in K19 erkennt sie den Steinkreis wieder. Bringt das Blatt zu Vesper. Kontrolle abgeben: 'Ich kann das nicht lesen. Du schon.' Im Archiv assistiert Maren Vesper — reicht Seiten bevor er fragt, sortiert Stapel, arbeitet ihm zu. Nicht auf Befehl, freiwillig. Es macht sie ruhig. Wie Holz das nach der Koernung greift. Vesper bemerkt es — ein Blick, keine Worte, als haette er etwas gesehen das er schon vermutet hatte. Maren spuert seinen Blick wie Waerme am Hals. Esther Voss erkennt den Namen Dahl in einem Register. Jara Voss im Hintergrund — hoert alles. Das Manuskript wird hier noch NICHT gefunden (erst K23). Nur der Faden gelegt.",
             "tags": [
-              "Schluesselereignis: Manuskript-Verbindung",
-              "Tschechow: Harons Papiere",
-              "Tschechow: Jara weiss mehr"
+              "Tschechow: Harons Symbolblatt → K23 Manuskript",
+              "Beziehung: Vesper + Maren (Sub-Dynamik im Alltag)",
+              "Setup: Archiv/Esther/Jara fuer K23"
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
@@ -1928,14 +1949,16 @@
               "erotik",
               "erkenntnis"
             ],
-            "titel": "Alphina und Sorel: Dunkelkammer, erste intime Szene",
+            "titel": "Alphina und Sorel: Dunkelkammer — Enthuuellung, Gestaendnis, erste intime Szene",
             "pov": "Kap 21 · Alphina",
             "tz_tag": 175,
             "datum_text": "24. Lichtmond 551 TZ",
-            "detail": "Sorel zeigt ihr die Platten: Schemen hinter ihr auf jeder. Kontrollverlust. Farne brechen durch Kellerwaende.",
+            "detail": "Alphina besucht Sorel unerwartet in der Dunkelkammer. Findet neunzehn Platten von sich — aus Winkeln die sie nie eingenommen hat. Zuletzt: sie nackt, Projektion, sein inneres Bild. Wut und Begehren ununterscheidbar. Er kommt rein, luegt nicht, entschuldigt sich nicht. 'Ich begehre dich. Seit dem Steg. Seit dem Garten. Ich wollte nicht aufhoeren.' Alphina hin und hergerissen — verdammt, du Arsch — aber sein Blick weicht nicht aus. Ihr Koerper erinnert sich an K19 (seine Hand an ihrer Schulter). Sie zieht ihn zu sich. Kontrollverlust der sich anfuehlt wie Ankommen. Handgelenke-Callback K19. Farne wachsen durch die Kellerwaende, leise, wie Atmen — ihre Magie und ihr Koerper wollen zum ersten Mal dasselbe. Danach: Du statt Sie, nicht als Entscheidung, als Tatsache. Er sagt etwas Beilaeufiges, Zukuenftiges — ein Versprechen das er nicht weiss dass er gibt. Die Leserin erinnert sich wenn er stirbt.",
             "tags": [
               "Erotik: Alphina + Sorel",
-              "Erkenntnis: Schemen folgen NUR Alphina"
+              "Du/Sie-Wechsel: ab hier Du",
+              "Tschechow: Sorels Versprechen → sein Tod",
+              "Farne: Magie + Koerper = dasselbe"
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
