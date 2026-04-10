@@ -283,12 +283,14 @@
 
     function portalDirection(ev, fromWorld) {
       const text = (ev.titel || '') + ' ' + (ev.tags || []).join(' ') + ' ' + (ev.detail || '');
+      // Explizite Richtung im Text
       if (/nach Moragh|→\s*Moragh|Thal.*→.*Moragh/i.test(text)) return 'thal_to_moragh';
       if (/nach Thalassien|→\s*Thal|Moragh\s*→\s*Thal/i.test(text)) return 'moragh_to_thal';
-      // Default: if event is in thalassien and describes arrival → from moragh
-      if (fromWorld === 'thal' && /Ankunft|komm/i.test(text)) return 'moragh_to_thal';
-      if (fromWorld === 'moragh' && /schickt|sendet|öffnet/i.test(text)) return 'moragh_to_thal';
-      // Fallback based on world
+      // Kontext-Erkennung
+      if (fromWorld === 'thal' && /Ankunft|kommt durch|kommen durch/i.test(text)) return 'moragh_to_thal';
+      if (fromWorld === 'thal' && /gehen durch|geht durch|gehen nach|zerstoert/i.test(text)) return 'thal_to_moragh';
+      if (fromWorld === 'moragh' && /schickt|sendet|oeffnet/i.test(text)) return 'moragh_to_thal';
+      // Fallback
       return fromWorld === 'thal' ? 'moragh_to_thal' : 'thal_to_moragh';
     }
 
