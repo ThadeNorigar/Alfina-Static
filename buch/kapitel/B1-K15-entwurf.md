@@ -13,7 +13,7 @@
 
 Alphina arbeitet im Garten wie in den letzten Wochen — Routine, Hände in der Erde, Henriks gemurmelten Kommentare im Rücken. Aber heute ist etwas anders: es ist der fünfte Nebeltag in Folge, und die Schemen sind tagsüber da.
 
-Nicht viele. Zwei, drei in den Schatten zwischen den Beeten — schattenhaft, nur wenn man nicht direkt hinschaut zu sehen. Henrik sieht sie nicht. Alphina hat längst aufgehört zu prüfen ob er es tut. Die Tiere — katzengroß in K12, jetzt größer, wolfshaft — bewegen sich nicht, fressen nichts, greifen nichts an. Sie sitzen und schauen. Der Wolfshaft-Schem sitzt auf dem Rand des Steinkreises. Direkt auf dem Rand. Raucht leicht an den Schultern. Er ist der erste Schem, den Alphina am Steinkreis selbst sieht. Nicht hinter ihm, nicht davor — auf ihm.
+Nicht viele. Zwei, drei in den Schatten zwischen den Beeten — schattenhaft, nur wenn man nicht direkt hinschaut zu sehen. Henrik sieht sie nicht. Alphina hat längst aufgehört zu prüfen ob er es tut. Die Tiere — katzengroß in K12, jetzt größer, wolfshaft — bewegen sich nicht, fressen nichts, greifen nichts an. Sie sitzen und schauen. Der wolfshaft-große Schemen sitzt auf dem Rand des Steinkreises. Direkt auf dem Rand. Raucht leicht an den Schultern. Er ist der erste Schemen, den Alphina am Steinkreis selbst sieht. Nicht hinter ihm, nicht davor — auf ihm.
 
 Sie geht weiter. Hände in den Lavendel. Henriks Messer auf dem Steckling-Brett. Sie stellt sich so, dass der Steinkreis in ihrem peripheren Sichtfeld bleibt.
 
@@ -27,10 +27,10 @@ Alphina sagt nichts. Henrik kommt mit dem Gießkrug. Das Gespräch verliert sich
 - Runa erfährt: nichts Neues, sie bringt Informationen
 - Alphina erfährt: zwanzig Sichtungsberichte mit Adressen; das Muster konzentriert sich auf den Garten; Vesper Greve ist eine der Quellen (d.h. er sieht die Schemen auch, oder etwas Vergleichbares)
 - Runas Erkenntnis die sie nicht ausspricht: sie meint Alphina ist der Mittelpunkt, nicht der Garten
-- Alphinas Erkenntnis am Ende: der Schem auf dem Steinkreis ist dort weil er wartet. Nicht auf den Garten. Auf sie.
+- Alphinas Erkenntnis am Ende: der Schemen auf dem Steinkreis ist dort weil er wartet. Nicht auf den Garten. Auf sie.
 
 **Tschechow-Waffen geladen:**
-- Wolfshafter Schem auf dem Steinkreis-Rand (erste Besetzung des Kreises durch einen Schem — Vorläufer für Akt III)
+- Wolfshafter Schem auf dem Steinkreis-Rand (erste Besetzung des Kreises durch einen Schemen — Vorläufer für Akt III)
 - Runas "der Mittelpunkt liegt hier" (unausgesprochenes Wissen, das sie Alphina nicht direkt sagt — feuert wenn Runa es endlich ausspricht)
 - Vesper Greve in Runas Sichtungsliste (er hat der Wäscherin etwas erzählt, oder jemand hat ihn beobachtet — Cross-POV-Anker zu K18)
 
@@ -73,7 +73,7 @@ Das hier ist keine Erst-Begegnung. Das weiß sie. Er weiß es. Das Schweigen ist
 - Sorels "ich weiß einen Grad mehr als sie" (K13-Schuldschein): er hält es weiter — das Schweigen bestätigt die Schublade bleibt zu
 
 **Cross-POV-Ankerpunkte:**
-- K16 (Sorel-POV): er entwickelt an diesem Nachmittag Platten → diese Szene am Steg taucht auf einer Platte auf (er hat sie fotografiert oder die Platte zeigt sie ohne dass er sie bewusst fotografiert hat). Muss aus Sorels Sicht konsistent sein: was hat er in dieser Szene tatsächlich fotografiert?
+- K16 (Sorel-POV): Kamera ist auf die Grauwe gerichtet — keine absichtliche Aufnahme von Alphina. Wenn ein Steg-Bild auf einer Platte erscheint, entsteht es durch Resonanz, nicht durch Absicht. K16 muss das als Entdeckung erzählen, nicht als Beweis bewusster Beobachtung.
 
 ---
 
@@ -134,6 +134,6 @@ Das ist alles was sie schreibt. Aber was sie denkt: das war kein Tier. Das hatte
 
 **Was darf sie NICHT wissen (Sorel-Prinzip):**
 - Dass Sorel sie seit Wochen auf Platten hat (K13 — Schublade)
-- Dass er sie an diesem Nachmittag möglicherweise fotografiert hat (K16 zeigt es aus seiner Sicht)
+- Dass K16 eine Platte von ihr zeigen wird — entstanden durch Resonanz, nicht durch absichtliche Aufnahme (das ist der Unterschied zum alten Narrativ)
 - Varens Name, Herkunft, Absicht
 - Was die Schemen in Moragh sind oder woher sie kommen
