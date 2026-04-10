@@ -76,38 +76,31 @@
     .ev-tags { display: flex; gap: 0.25rem; margin-top: 0.3rem; flex-wrap: wrap; }
     .tag { font-family: 'Inter', sans-serif; font-size: 0.48rem; padding: 0.08rem 0.35rem; border-radius: 2px; text-transform: uppercase; }
     .pov { font-family: 'Inter', sans-serif; font-size: 0.48rem; padding: 0.06rem 0.25rem; border-radius: 2px; background: rgba(107,58,58,0.05); color: var(--smoke); margin-left: 0.25rem; }
-    /* Kapitel-Sektion */
-    .kap-section {
-      background: rgba(255,255,255,0.5); border: 1px solid rgba(107,58,58,0.1);
-      border-radius: 3px; margin-bottom: 1rem; overflow: hidden;
-    }
-    .kap-section:last-child { margin-bottom: 0; }
+    /* Kapitel-Sektion (volle Breite, wie Buch-Sektion) */
     .kap-header {
-      display: flex; align-items: center; gap: 0.6rem; padding: 0.6rem 0.8rem;
-      background: rgba(107,58,58,0.05); border-bottom: 1px solid rgba(107,58,58,0.08);
-      cursor: pointer; user-select: none;
+      grid-column: 1 / -1;
+      display: flex; align-items: center; gap: 0.6rem;
+      padding: 0.4rem 1.8rem;
+      background: rgba(107,58,58,0.06);
+      border-top: 1px solid rgba(107,58,58,0.1);
+      border-bottom: 1px solid rgba(107,58,58,0.06);
     }
-    .kap-header:hover { background: rgba(107,58,58,0.08); }
     .kap-id {
-      font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; font-weight: 700;
-      color: var(--paper); background: var(--accent); padding: 0.15rem 0.4rem;
-      border-radius: 2px; letter-spacing: 0.05em; min-width: 3.5rem; text-align: center;
+      font-family: 'JetBrains Mono', monospace; font-size: 0.65rem; font-weight: 700;
+      color: var(--paper); background: var(--accent); padding: 0.12rem 0.35rem;
+      border-radius: 2px; letter-spacing: 0.05em;
     }
-    .kap-pov { font-family: 'Cormorant Garamond', serif; font-size: 0.95rem; font-weight: 600; color: var(--ink); flex: 1; }
+    .kap-pov { font-family: 'Cormorant Garamond', serif; font-size: 0.9rem; font-weight: 600; color: var(--ink); }
     .kap-status {
-      font-family: 'Inter', sans-serif; font-size: 0.5rem; padding: 0.1rem 0.4rem;
+      font-family: 'Inter', sans-serif; font-size: 0.48rem; padding: 0.08rem 0.35rem;
       border-radius: 2px; text-transform: uppercase; letter-spacing: 0.08em; font-weight: 600;
     }
     .kap-status.final { background: rgba(90,122,90,0.15); color: #4a6a4a; }
     .kap-status.szenenplan { background: rgba(107,98,89,0.1); color: var(--smoke); }
     .kap-status.lektorat { background: rgba(184,134,11,0.12); color: #8b6914; }
     .kap-status.idee { background: rgba(107,98,89,0.06); color: var(--smoke); }
-    .kap-datum { font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; color: var(--smoke); }
-    .kap-body { padding: 0.5rem 0.8rem 0.6rem; }
-    .kap-body .ev { margin-bottom: 0.5rem; padding-bottom: 0.5rem; border-bottom: 1px solid rgba(107,58,58,0.04); }
-    .kap-body .ev:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
-    .kap-body .ev::before { display: none; }
-    .kap-empty { padding: 0.3rem 0.5rem; font-style: italic; color: var(--smoke); opacity: 0.3; font-size: 0.7rem; }
+    .kap-datum { font-family: 'JetBrains Mono', monospace; font-size: 0.55rem; color: var(--smoke); margin-left: auto; }
+    .kap-empty { padding: 0.6rem 1rem; font-style: italic; color: var(--smoke); opacity: 0.25; font-size: 0.7rem; }
 
     .book-marker { background: rgba(107,58,58,0.04); border: 1px solid rgba(107,58,58,0.08); border-radius: 3px; padding: 0.4rem 0.5rem; margin-bottom: 1rem; }
     .thal .book-marker { border-color: rgba(184,134,11,0.12); background: rgba(184,134,11,0.04); }
@@ -338,22 +331,36 @@
           kapMap.get(k)[ev._world].push(ev);
         }
 
-        // Render each kapitel as a row spanning both columns
+        // Render each kapitel: full-width header, then two columns for events
         kapOrder.forEach(kapId => {
           const kap = kapMap.get(kapId);
-          const thalGroup = kap.thal.length > 0 ? buildGroup(kap.thal, kapId) : null;
-          const moraghGroup = kap.moragh.length > 0 ? buildGroup(kap.moragh, kapId) : null;
+          const allKapEvents = [...kap.thal, ...kap.moragh];
+          const info = buildGroup(allKapEvents, kapId);
+          const kapLabel = kapId.startsWith('I') ? kapId : 'K' + kapId;
+          const statusClass = info.status || 'szenenplan';
+          const statusText = info.status || '';
 
-          const leftHtml = thalGroup
-            ? renderKapitelGroup(thalGroup, 'thal')
+          // Kapitel header (full width)
+          tl.innerHTML += `
+            <div class="kap-header">
+              <span class="kap-id">${kapLabel}</span>
+              <span class="kap-pov">${escHtml(info.pov)}</span>
+              ${statusText ? `<span class="kap-status ${statusClass}">${statusText}</span>` : ''}
+              ${info.datum ? `<span class="kap-datum">${escHtml(info.datum)}</span>` : ''}
+            </div>
+          `;
+
+          // Events in two columns
+          const leftHtml = kap.thal.length > 0
+            ? kap.thal.map(e => renderEvent(e, 'thal')).join('')
             : '<div class="kap-empty">&mdash;</div>';
-          const rightHtml = moraghGroup
-            ? renderKapitelGroup(moraghGroup, 'moragh')
+          const rightHtml = kap.moragh.length > 0
+            ? kap.moragh.map(e => renderEvent(e, 'moragh')).join('')
             : '<div class="kap-empty">&mdash;</div>';
 
           tl.innerHTML += `
-            <div class="col-body thal">${leftHtml}</div>
-            <div class="col-body moragh">${rightHtml}</div>
+            <div class="col-body thal"><div class="tl-line">${leftHtml}</div></div>
+            <div class="col-body moragh"><div class="tl-line">${rightHtml}</div></div>
           `;
         });
       });
