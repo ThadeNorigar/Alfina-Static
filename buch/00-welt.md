@@ -262,7 +262,7 @@ Moragh hat **Reservoir-Quellen** — Energiepunkte in der Erde, vergleichbar mit
 | **Dulrath-Ost** | Groß | Bund von Orath | Östliches Grenzland | Handelsstadt verdorrt. Flüchtlinge nach Orath. Lag nahe der Velmar-Grenze und wurde in die Kettenreaktion mit hineingezogen |
 | **Reshkol** | Groß | Velmar-Randgebiet | Velmar-Grenze zu Orath | Velmar verlor ein Fünftel seiner Magiekapazität. Kastensystem verschärfte sich |
 
-Die Städte auf diesen Quellen verdorrten. Das Gleichgewicht kippte. Der Krieg begann.
+Die Städte auf diesen Quellen verdorrten. ~200.000 Menschen wurden heimatlos. Aber es gibt genug Quellen — der Krieg begann nicht aus Ressourcenknappheit. Das Thar-Konglomerat glaubte, der Bund von Orath habe die Explosion absichtlich ausgelöst. Misstrauen und Vergeltung, nicht Mangel. Velmar wusste die Wahrheit (Varens Experiment) und vertuschte — stieß Varen verdeckt aus, ohne offizielle Anklage. Bund und Thar hielten es für eine Naturkatastrophe oder feindlichen Angriff.
 
 ### Moragh im Krieg
 

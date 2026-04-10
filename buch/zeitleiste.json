@@ -195,9 +195,9 @@
       }
     },
     {
-      "label": "MZ -200 bis -6",
-      "tz": "TZ -79.449 bis -1.449",
-      "mz": "~194 MZ-Jahre",
+      "label": "MZ -200 bis -2",
+      "tz": "TZ -79.449 bis -249",
+      "mz": "~198 MZ-Jahre",
       "events": {
         "thalassien": [
           {
@@ -205,7 +205,21 @@
             "mz": -200,
             "titel": null,
             "luecke": "~78.000 TZ — keine Aufzeichnungen. Evolution: kleiner, heller, Resonanz statt Magie."
-          },
+          }
+        ],
+        "moragh": [
+          {
+            "luecke": "~198 MZ — Städte, Quellen, Zivilisation, Magie als Handwerk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "TZ -249",
+      "tz": "TZ -249",
+      "mz": "MZ ~-2",
+      "events": {
+        "thalassien": [
           {
             "tz": -249,
             "mz": -2,
@@ -217,7 +231,17 @@
             "tags": [
               "Schlüsselereignis"
             ]
-          },
+          }
+        ],
+        "moragh": []
+      }
+    },
+    {
+      "label": "TZ 0",
+      "tz": "TZ 0",
+      "mz": "MZ ~-1,38",
+      "events": {
+        "thalassien": [
           {
             "tz": 0,
             "mz": -1.38,
@@ -230,11 +254,7 @@
             ]
           }
         ],
-        "moragh": [
-          {
-            "luecke": "~194 MZ — Städte, Quellen, Zivilisation, Magie als Handwerk"
-          }
-        ]
+        "moragh": []
       }
     },
     {
