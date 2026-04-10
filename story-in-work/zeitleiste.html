@@ -309,6 +309,19 @@
       </div>`;
     }
 
+    // MZ-Dezimalwert → Moragh-Monatsname
+    const MZ_MONATE = ['Torash','Ashral','Keldath','Reshvan','Dravon','Gormath','Nyrath','Shelkam'];
+    function formatMz(mzVal) {
+      if (mzVal === null || mzVal === undefined) return '';
+      const year = Math.floor(mzVal);
+      const frac = mzVal - year;
+      const monthIdx = Math.min(Math.floor(frac * 8), 7);
+      const dayFrac = (frac * 8 - monthIdx);
+      const day = Math.max(1, Math.round(dayFrac * 36));
+      if (frac === 0 || frac < 0.01) return `${year} MZ`;
+      return `${day}. ${MZ_MONATE[monthIdx]} ${year} MZ`;
+    }
+
     function renderTimeline(data) {
       const tl = document.getElementById('timeline');
       tl.innerHTML = '';
@@ -377,9 +390,9 @@
 
         // Kapitel nach Nummer sortieren (damit K36-41 korrekt geordnet sind)
         kapOrder.sort((a, b) => {
+          if (a === KEY_NONE && b === KEY_NONE) return 0;
           if (a === KEY_NONE) return -1;
-          if (b === KEY_NONE) return -1;
-          // Interludien (I1-I9) und B2/B3-Kapitel: nach Originalreihenfolge
+          if (b === KEY_NONE) return 1;
           const parseKey = k => {
             if (k.startsWith('I')) return parseFloat(k.slice(1)) + 0.5;
             if (k.startsWith('B')) return 1000 + parseFloat(k.replace(/^B\d-/, ''));
@@ -400,7 +413,7 @@
             const status = allKapEvents.find(e => e.kapitel_status)?.kapitel_status || '';
             const datum = allKapEvents.find(e => e.datum_text)?.datum_text || '';
             const mzVal = allKapEvents.find(e => e.mz !== undefined)?.mz;
-            const mzText = mzVal !== undefined ? 'MZ ' + mzVal : '';
+            const mzText = mzVal !== undefined ? formatMz(mzVal) : '';
 
             // Datum aus tz/mz ableiten wenn kein datum_text
             let dateDisplay = datum;
