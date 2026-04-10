@@ -83,10 +83,10 @@
     .s-szenenplan .dot { background: #8B7355; }
     .s-entwurf .dot, .s-entwurf { color: #B8860B; }
     .s-entwurf .dot { background: #B8860B; }
-    .s-council .dot, .s-council { color: #CD853F; }
-    .s-council .dot { background: #CD853F; }
-    .s-logik-check .dot, .s-logik-check { color: #6B8E23; }
-    .s-logik-check .dot { background: #6B8E23; }
+    .s-council .dot, .s-council { color: #B8860B; }
+    .s-council .dot { background: #B8860B; }
+    .s-logik-check .dot, .s-logik-check { color: #B8860B; }
+    .s-logik-check .dot { background: #B8860B; }
     .s-ausarbeitung .dot, .s-ausarbeitung { color: #B07D3B; }
     .s-ausarbeitung .dot { background: #B07D3B; }
     .s-lektorat .dot, .s-lektorat { color: #4682B4; }
@@ -117,8 +117,6 @@
       <div class="legend-item"><div class="legend-dot" style="background:#666"></div> Idee</div>
       <div class="legend-item"><div class="legend-dot" style="background:#8B7355"></div> Szenenplan</div>
       <div class="legend-item"><div class="legend-dot" style="background:#B8860B"></div> Entwurf</div>
-      <div class="legend-item"><div class="legend-dot" style="background:#CD853F"></div> Council</div>
-      <div class="legend-item"><div class="legend-dot" style="background:#6B8E23"></div> Logik-Check</div>
       <div class="legend-item"><div class="legend-dot" style="background:#B07D3B"></div> Ausarbeitung</div>
       <div class="legend-item"><div class="legend-dot" style="background:#4682B4"></div> Lektorat</div>
       <div class="legend-item"><div class="legend-dot" style="background:#2E8B57"></div> Fin</div>
@@ -130,17 +128,18 @@
   <script>
     const STATUS_LABEL = {
       'idee': 'Idee', 'szenenplan': 'Szenenplan',
-      'entwurf': 'Entwurf', 'entwurf-checked': 'Entwurf', 'entwurf-ok': 'Entwurf ✓',
+      'entwurf': 'Entwurf', 'entwurf-checked': 'Entwurf ⏳', 'entwurf-ok': 'Entwurf ✓',
       'ausarbeitung': 'Ausarbeitung',
-      'council': 'Council', 'checked': 'Council',
-      'logik-check': 'Logik-Check',
+      'council': 'Entwurf ⏳', 'checked': 'Entwurf ⏳',
+      'logik-check': 'Entwurf ⏳',
       'lektorat': 'Lektorat',
       'final': 'Fin'
     };
     const STATUS_CSS = {
-      'entwurf-checked': 'entwurf', 'entwurf-ok': 'entwurf', 'checked': 'council'
+      'entwurf-checked': 'entwurf', 'entwurf-ok': 'entwurf',
+      'council': 'entwurf', 'checked': 'entwurf', 'logik-check': 'entwurf'
     };
-    const IN_ARBEIT = ['entwurf','entwurf-checked','entwurf-ok','ausarbeitung','council','checked','logik-check','lektorat'];
+    const IN_ARBEIT = ['szenenplan','entwurf','entwurf-checked','entwurf-ok','ausarbeitung','council','checked','logik-check','lektorat'];
 
     fetch('/buch/status.json')
       .then(r => r.json())
