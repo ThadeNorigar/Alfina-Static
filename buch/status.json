@@ -307,14 +307,14 @@
         "pov": "Maren",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Eine Moragh-Stadt. Größere Menschen, dunkle Augen, feingliedrig. Ein älterer Mann — purpurne Augen — mustert sie. Sagt in gebrochenem Thalassisch: 'Elke?" Führt sie durch die Stadt."
+        "text": "Eine Moragh-Stadt. Größere Menschen, dunkle Augen, feingliedrig. Ein älterer Mann — purpurne Augen — mustert sie. Sagt in gebrochenem Thalassisch: 'Elke?' Führt sie durch die Stadt."
       },
       "40": {
         "titel": "Alphina",
         "pov": "Alphina",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Ein Garten. Pflanzen aus beiden Welten. Eine Frau mit erdigen Händen. altes Thalassisch, nach Monaten zum ersten Mal laut: 'Woher—" Alphina fällt auf die Knie. Sorel ist tot. Die Welt ist fremd. Und jemand spricht ihre Sprache."
+        "text": "Ein Garten. Pflanzen aus beiden Welten. Eine Frau mit erdigen Händen. altes Thalassisch, nach Monaten zum ersten Mal laut: 'Woher—' Alphina fällt auf die Knie. Sorel ist tot. Die Welt ist fremd. Und jemand spricht ihre Sprache."
       },
       "41": {
         "titel": "Epilog",
@@ -336,7 +336,7 @@
         "pov": "Sorel",
         "status": "final",
         "woerter": 3932,
-        "text": "Nachtholm. Sorel entwickelt Glasplatten aus dem Nachlass eines Sammlers. Auf Platte 7: ein Hafenbild aus Vael, Jahrzehnte alt — mit seinem eigenen Gesicht im Hintergrund. Auf der Rückseite verblasste Tinte: 'Vael, Lichthaus, Keller." Die Platte war in einer Auktion platziert. Von wem, weiß Sorel nicht.",
+        "text": "Nachtholm. Sorel entwickelt Glasplatten aus dem Nachlass eines Sammlers. Auf Platte 7: ein Hafenbild aus Vael, Jahrzehnte alt — mit seinem eigenen Gesicht im Hintergrund. Auf der Rückseite verblasste Tinte: 'Vael, Lichthaus, Keller.' Die Platte war in einer Auktion platziert. Von wem, weiß Sorel nicht.",
         "datei": "02-sorel.md"
       },
       "03": {
@@ -505,7 +505,7 @@
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Drei Wochen in der Gilden-Stadt. Alphina lernt die Sprache, sucht Spuren von Varen. Die Trauer um Sorel: ein Wurzelwerk, darunter Wut. Die Älteste warnt: 'Lass ihn." Alphina lässt nicht."
+        "text": "Drei Wochen in der Gilden-Stadt. Alphina lernt die Sprache, sucht Spuren von Varen. Die Trauer um Sorel: ein Wurzelwerk, darunter Wut. Die Älteste warnt: 'Lass ihn.' Alphina lässt nicht."
       },
       "12": {
         "titel": "Vesper: Muster und Zeit",
@@ -540,7 +540,7 @@
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Beide schlaflos, zwei Monde. FWB: hitzig, direkt, kein romantisches Versprechen. Runas Hände auf ihrer Haut, warm, immer warm. Kein Wald bricht aus. Keine Farne. Stille. 'Bei Sorel hat die Welt geblüht. Bei Runa ist sie still.""
+        "text": "Beide schlaflos, zwei Monde. FWB: hitzig, direkt, kein romantisches Versprechen. Runas Hände auf ihrer Haut, warm, immer warm. Kein Wald bricht aus. Keine Farne. Stille. 'Bei Sorel hat die Welt geblüht. Bei Runa ist sie still.'"
       },
       "17": {
         "titel": "Vesper: Der Binder-Spion",
@@ -554,7 +554,7 @@
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
-        "text": "Nyr kommt: Thar-Pilotin einer Magitech-Bestie, Geruch nach heißem Eisen. Bestie Kessler, 40 Tonnen. 'Du bist der der Muster sieht." Vesper ist fasziniert — ihre Effizienz, ihre Ordnung, ihre Disziplin."
+        "text": "Nyr kommt: Thar-Pilotin einer Magitech-Bestie, Geruch nach heißem Eisen. Bestie Kessler, 40 Tonnen. 'Du bist der der Muster sieht.' Vesper ist fasziniert — ihre Effizienz, ihre Ordnung, ihre Disziplin."
       },
       "19": {
         "titel": "Alphina: Der Schlaf-Wald",
@@ -568,7 +568,7 @@
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Nach dem Dorf-Desaster. Runa: 'Du hast Angst vor dir selbst." FWB: hitzig, direkt. Runas Hände glühen auf Alphinas Haut. Kein Wald bricht aus. Bei Runa ist die Welt still. Der Binder-Spion wird enttarnt."
+        "text": "Nach dem Dorf-Desaster. Runa: 'Du hast Angst vor dir selbst.' FWB: hitzig, direkt. Runas Hände glühen auf Alphinas Haut. Kein Wald bricht aus. Bei Runa ist die Welt still. Der Binder-Spion wird enttarnt."
       },
       "21": {
         "titel": "Alphina: Das Schlachtfeld",
@@ -582,14 +582,14 @@
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Alphina ist Varens Gefangene. Sein Quartier: Bücher, Karten, Ley-Linien. Die 3 toten Quellen rot markiert. Er spricht altes Thalassisch. Nicht grausam — interessiert. 'Du hast ihn sterben lassen." — 'Ja." Keine Entschuldigung. Nie."
+        "text": "Alphina ist Varens Gefangene. Sein Quartier: Bücher, Karten, Ley-Linien. Die 3 toten Quellen rot markiert. Er spricht altes Thalassisch. Nicht grausam — interessiert. 'Du hast ihn sterben lassen.' — 'Ja.' Keine Entschuldigung. Nie."
       },
       "23": {
         "titel": "Alphina: Die Wahrheit",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Tage, Wochen. Er zeigt ihr die Karten. Sein Experiment, die Überladung, die Kettenreaktion. Drei Städte die verdorrten. 'Niemand weiß es. Nur du. Jetzt." Die Daten stimmen. Varens Gesicht wenn er über die Quellen spricht — das ist keine Lüge."
+        "text": "Tage, Wochen. Er zeigt ihr die Karten. Sein Experiment, die Überladung, die Kettenreaktion. Drei Städte die verdorrten. 'Niemand weiß es. Nur du. Jetzt.' Die Daten stimmen. Varens Gesicht wenn er über die Quellen spricht — das ist keine Lüge."
       },
       "24": {
         "titel": "Alphina: Sie fängt an zu glauben",
@@ -617,7 +617,7 @@
         "pov": "Talven",
         "status": "idee",
         "woerter": null,
-        "text": "Talven verlässt die Stadt, findet Varen. 'Die Thalassierin wächst einen Hain im Schlaf und es kostet sie nichts. Ich will wissen warum." Varen zeigt ihm Resonanz-Ernte. Erste Lektion bis zum Morgengrauen. Milchiger Fleck im Auge."
+        "text": "Talven verlässt die Stadt, findet Varen. 'Die Thalassierin wächst einen Hain im Schlaf und es kostet sie nichts. Ich will wissen warum.' Varen zeigt ihm Resonanz-Ernte. Erste Lektion bis zum Morgengrauen. Milchiger Fleck im Auge."
       },
       "28": {
         "titel": "Maren: Durchbruch",
@@ -652,7 +652,7 @@
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
-        "text": "Vesper bei der Thar mit Nyr. Effizienz, Ordnung, Kommandokette. Nyr pilotiert Kessler mit unvergleichlicher Präzision. Vesper gibt der Thar Daten über die Gilden. Kalkulation. 'Ich habe gerechnet.""
+        "text": "Vesper bei der Thar mit Nyr. Effizienz, Ordnung, Kommandokette. Nyr pilotiert Kessler mit unvergleichlicher Präzision. Vesper gibt der Thar Daten über die Gilden. Kalkulation. 'Ich habe gerechnet.'"
       },
       "33": {
         "titel": "Runa: Die Presse",
@@ -666,7 +666,7 @@
         "pov": "Talven",
         "status": "idee",
         "woerter": null,
-        "text": "Talven verteilt geerntete Resonanz. Ein alter Beschwörer ruft ein Lichtwesen und weint. 'Resonanz für alle." Talven wird zum Helden. Milchige Augen hinter dunkler Brille. 'Gegen die Sonne.""
+        "text": "Talven verteilt geerntete Resonanz. Ein alter Beschwörer ruft ein Lichtwesen und weint. 'Resonanz für alle.' Talven wird zum Helden. Milchige Augen hinter dunkler Brille. 'Gegen die Sonne.'"
       },
       "35": {
         "titel": "Alphina + Varen: Die Quellen",
@@ -735,7 +735,7 @@
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Elke van der Holt — zu alt für ihr Gesicht, zu jung für ihre Augen. Erde/Stein-Resonanz. Ihr Garten: Pflanzen aus beiden Welten. Sie sieht Alphinas Schlaf-Hain. 'Das kostet dich nichts, oder?" Elkes Gesicht: etwas zwischen Neid und Angst."
+        "text": "Elke van der Holt — zu alt für ihr Gesicht, zu jung für ihre Augen. Erde/Stein-Resonanz. Ihr Garten: Pflanzen aus beiden Welten. Sie sieht Alphinas Schlaf-Hain. 'Das kostet dich nichts, oder?' Elkes Gesicht: etwas zwischen Neid und Angst."
       },
       "08": {
         "titel": "Maren: Das Portal ist zu",
@@ -749,7 +749,7 @@
         "pov": "Runa",
         "status": "idee",
         "woerter": null,
-        "text": "Runa experimentiert nachts. Messing wird weich, formbar, glüht — Hitze aus ihren Händen. Sie formt eine Buchstabentype: ein A, perfekt. Elke: 'Feuer-Resonanz. Schwach, aber da." Runa: 'Ich bin Druckerin." Elke: 'Hier bist du mehr.""
+        "text": "Runa experimentiert nachts. Messing wird weich, formbar, glüht — Hitze aus ihren Händen. Sie formt eine Buchstabentype: ein A, perfekt. Elke: 'Feuer-Resonanz. Schwach, aber da.' Runa: 'Ich bin Druckerin.' Elke: 'Hier bist du mehr.'"
       },
       "20b": {
         "titel": "Vesper + Nyr: Zur Thar",
@@ -872,14 +872,14 @@
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
-        "text": "Vesper bei den Thar. Thalassien-Technik bedroht Moraghs Kultur. Drohnen kartieren Reservoir-Quellen. KI analysiert Magie-Muster. Konzern-Vertreter reden von 'Effizienzoptimierung." Klingt wie industrielle Logik, angewandt auf eine fremde Kultur."
+        "text": "Vesper bei den Thar. Thalassien-Technik bedroht Moraghs Kultur. Drohnen kartieren Reservoir-Quellen. KI analysiert Magie-Muster. Konzern-Vertreter reden von 'Effizienzoptimierung.' Klingt wie industrielle Logik, angewandt auf eine fremde Kultur."
       },
       "45": {
         "titel": "Talven: Der Held",
         "pov": "Talven",
         "status": "idee",
         "woerter": null,
-        "text": "Marktplatz, Hunderte Menschen. Talven verteilt Resonanz. Ein Tischler formt Holz mit bloßen Händen, eine Mutter heilt die Verbrennung ihres Kindes. Unter der Brille: beide Augen milchig. 'Resonanz für alle.""
+        "text": "Marktplatz, Hunderte Menschen. Talven verteilt Resonanz. Ein Tischler formt Holz mit bloßen Händen, eine Mutter heilt die Verbrennung ihres Kindes. Unter der Brille: beide Augen milchig. 'Resonanz für alle.'"
       },
       "46": {
         "titel": "Iven: Das Interface",
@@ -921,28 +921,28 @@
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
-        "text": "Die Entnahme korreliert mit der Verteilung. Eine Einzelperson. Ein Lehrling der Magie verschenkt. 'Talven." Die Verteilung kostet Moragh doppelt — Entnahme plus Zerfall."
+        "text": "Die Entnahme korreliert mit der Verteilung. Eine Einzelperson. Ein Lehrling der Magie verschenkt. 'Talven.' Die Verteilung kostet Moragh doppelt — Entnahme plus Zerfall."
       },
       "52": {
         "titel": "Alphina: Die Konfrontation",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Alphina findet Talven nachts im toten Hain, kniend, erntend. Milchige Augen, dünnes Haar, zitternde Hände. 'Du wächst einen Hain im Schlaf. Es kostet dich nichts. Ich bezahle mit Augen." Er hat Recht. Und es ist falsch. Beides gleichzeitig."
+        "text": "Alphina findet Talven nachts im toten Hain, kniend, erntend. Milchige Augen, dünnes Haar, zitternde Hände. 'Du wächst einen Hain im Schlaf. Es kostet dich nichts. Ich bezahle mit Augen.' Er hat Recht. Und es ist falsch. Beides gleichzeitig."
       },
       "53": {
         "titel": "Runa: Die Wahrheit drucken",
         "pov": "Runa",
         "status": "idee",
         "woerter": null,
-        "text": "Runa druckt Vespers Daten auf Moragh-Papier, in drei Sprachen. 'Wer zahlt für kostenlose Magie?" Talvens Geschichte, die Kosten der Resonanz-Ernte. Talven sieht die Druckbögen. 'Du druckst Lügen." Runa: 'Ich drucke Zahlen.""
+        "text": "Runa druckt Vespers Daten auf Moragh-Papier, in drei Sprachen. 'Wer zahlt für kostenlose Magie?' Talvens Geschichte, die Kosten der Resonanz-Ernte. Talven sieht die Druckbögen. 'Du druckst Lügen.' Runa: 'Ich drucke Zahlen.'"
       },
       "54": {
         "titel": "Vesper + Nyr: Bestien-Wahrheit",
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
-        "text": "Nyr findet den Bauplan: die Thar wollen Resonanz-Begabte permanent in Käfigen an Maschinen anschließen. 'Das sind Menschen. An Maschinen. Permanent." Sie nimmt ihre Bestie und geht. Vesper geht mit ihr."
+        "text": "Nyr findet den Bauplan: die Thar wollen Resonanz-Begabte permanent in Käfigen an Maschinen anschließen. 'Das sind Menschen. An Maschinen. Permanent.' Sie nimmt ihre Bestie und geht. Vesper geht mit ihr."
       },
       "55": {
         "titel": "Maren: Zwischen den Welten",
@@ -956,7 +956,7 @@
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
-        "text": "Vesper und Nyr verlassen die Thar. Maren schlägt Vesper ins Gesicht, das Wasser explodiert. 'Du hast uns verkauft." Vesper: 'Ich habe gerechnet." Runa: 'Setzt euch. Es gibt Tee.""
+        "text": "Vesper und Nyr verlassen die Thar. Maren schlägt Vesper ins Gesicht, das Wasser explodiert. 'Du hast uns verkauft.' Vesper: 'Ich habe gerechnet.' Runa: 'Setzt euch. Es gibt Tee.'"
       },
       "57": {
         "titel": "Elke: Der Stein schweigt",
@@ -984,7 +984,7 @@
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Die Gilden wollen den Riss schließen. Thalassien-Technik bedroht ihre Machtstruktur. Drohnen sind Waffen die kein Reservoir brauchen. Die Älteste: 'Wir haben vierhundert Jahre ohne sie überlebt." Alphina denkt an Vael — dieselbe Frage, umgekehrt."
+        "text": "Die Gilden wollen den Riss schließen. Thalassien-Technik bedroht ihre Machtstruktur. Drohnen sind Waffen die kein Reservoir brauchen. Die Älteste: 'Wir haben vierhundert Jahre ohne sie überlebt.' Alphina denkt an Vael — dieselbe Frage, umgekehrt."
       },
       "61": {
         "titel": "Vesper: Die Riss-Frage",
@@ -1005,7 +1005,7 @@
         "pov": "Talven",
         "status": "idee",
         "woerter": null,
-        "text": "Talven an der Seite der Gruppe. Blind, zitternd, aber er kennt die Resonanz von innen. Fühlt den Fluss — Alphinas Signatur warm und grün, Marens kalt und salzig, Runas heiß und metallisch. 'Ich habe einem Wald das Leben gestohlen und es für gerecht gehalten.""
+        "text": "Talven an der Seite der Gruppe. Blind, zitternd, aber er kennt die Resonanz von innen. Fühlt den Fluss — Alphinas Signatur warm und grün, Marens kalt und salzig, Runas heiß und metallisch. 'Ich habe einem Wald das Leben gestohlen und es für gerecht gehalten.'"
       },
       "64": {
         "titel": "Alle: Die Verhandlung",
@@ -1047,7 +1047,7 @@
         "pov": "Alle",
         "status": "idee",
         "woerter": null,
-        "text": "Maren in Thalassien, alt, am Hafen. Vesper bei den Thar mit Nyr. Runa an ihrer Hybrid-Presse, Alphinas Worte in einer Kiste. Talven unterrichtet blind: 'Magie kostet. Immer." Er lebt in Elkes Garten. Der Stein spricht — leise, aber da."
+        "text": "Maren in Thalassien, alt, am Hafen. Vesper bei den Thar mit Nyr. Runa an ihrer Hybrid-Presse, Alphinas Worte in einer Kiste. Talven unterrichtet blind: 'Magie kostet. Immer.' Er lebt in Elkes Garten. Der Stein spricht — leise, aber da."
       },
       "EP": {
         "titel": "Epilog",
