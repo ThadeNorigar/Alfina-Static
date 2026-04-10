@@ -111,13 +111,14 @@
       padding: 0.25rem 1.8rem;
       background: rgba(107,58,58,0.02);
     }
-    .date-marker::before, .date-marker::after {
-      content: ''; flex: 1; height: 1px; background: rgba(107,58,58,0.08);
-    }
+    .date-marker .date-marker-text:first-child ~ .date-marker-text:last-child { margin-left: auto; }
+    .date-marker .date-marker-text:first-child::before { content: ''; flex: 0; }
     .date-marker-text {
-      font-family: 'JetBrains Mono', monospace; font-size: 0.55rem;
-      color: var(--smoke); letter-spacing: 0.08em; white-space: nowrap;
+      font-family: 'JetBrains Mono', monospace; font-size: 0.6rem;
+      letter-spacing: 0.08em; white-space: nowrap; font-weight: 500;
     }
+    .date-marker-text.tz { color: var(--thal); }
+    .date-marker-text.mz { color: var(--moragh); margin-left: auto; }
 
     .book-marker { background: rgba(107,58,58,0.04); border: 1px solid rgba(107,58,58,0.08); border-radius: 3px; padding: 0.4rem 0.5rem; margin-bottom: 1rem; }
     .thal .book-marker { border-color: rgba(184,134,11,0.12); background: rgba(184,134,11,0.04); }
@@ -378,6 +379,7 @@
             tl.innerHTML += `
               <div class="date-marker">
                 <span class="date-marker-text tz">${escHtml(info.datum)}</span>
+                ${mzText ? `<span class="date-marker-text mz">${escHtml(mzText)}</span>` : ''}
               </div>
             `;
           }
@@ -385,11 +387,9 @@
           // Kapitel header (full width)
           tl.innerHTML += `
             <div class="kap-header">
-              ${info.datum ? `<span class="kap-datum tz">${escHtml(info.datum)}</span>` : ''}
               <span class="kap-id">${kapLabel}</span>
               <span class="kap-pov">${escHtml(info.pov)}</span>
               ${statusText ? `<span class="kap-status ${statusClass}">${statusText}</span>` : ''}
-              ${mzText ? `<span class="kap-datum mz">${escHtml(mzText)}</span>` : ''}
             </div>
           `;
 
