@@ -349,17 +349,7 @@
         const moraghEvents = monat.events.moragh || [];
         if (thalEvents.length === 0 && moraghEvents.length === 0) return;
 
-        // Buch-Marker wenn neues Buch beginnt
-        const buchName = monat.buch || '';
-        if (buchName && buchName !== currentBuch) {
-          currentBuch = buchName;
-          tl.innerHTML += `
-            <div class="buch-section">
-              <div class="buch-section-title">${escHtml(buchName)}</div>
-              <div class="buch-section-time">${escHtml(monat.tz || '')} · ${escHtml(monat.mz || '')}</div>
-            </div>
-          `;
-        }
+        // (Buch-Sektionen entfernt — nur Kapitel werden gebuendelt)
 
         // Monats-Marker (TZ links, MZ rechts)
         const monatTz = monat.tz || '';
