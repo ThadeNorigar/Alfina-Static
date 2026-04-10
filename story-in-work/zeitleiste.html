@@ -99,7 +99,9 @@
     .kap-status.szenenplan { background: rgba(107,98,89,0.1); color: var(--smoke); }
     .kap-status.lektorat { background: rgba(184,134,11,0.12); color: #8b6914; }
     .kap-status.idee { background: rgba(107,98,89,0.06); color: var(--smoke); }
-    .kap-datum { font-family: 'JetBrains Mono', monospace; font-size: 0.55rem; color: var(--smoke); margin-left: auto; }
+    .kap-datum { font-family: 'JetBrains Mono', monospace; font-size: 0.55rem; }
+    .kap-datum.tz { color: var(--thal); }
+    .kap-datum.mz { color: var(--moragh); margin-left: auto; }
     .kap-empty { padding: 0.6rem 1rem; font-style: italic; color: var(--smoke); opacity: 0.25; font-size: 0.7rem; }
 
     /* Datums-Marker (volle Breite, zwischen Kapiteln) */
@@ -366,12 +368,16 @@
           const statusClass = info.status || 'szenenplan';
           const statusText = info.status || '';
 
+          // Get MZ value from events
+          const mzVal = allKapEvents.find(e => e.mz !== undefined)?.mz;
+          const mzText = mzVal !== undefined ? 'MZ ' + mzVal : '';
+
           // Date marker if date changed
           if (info.datum && info.datum !== lastDate) {
             lastDate = info.datum;
             tl.innerHTML += `
               <div class="date-marker">
-                <span class="date-marker-text">${escHtml(info.datum)}</span>
+                <span class="date-marker-text tz">${escHtml(info.datum)}</span>
               </div>
             `;
           }
@@ -379,10 +385,11 @@
           // Kapitel header (full width)
           tl.innerHTML += `
             <div class="kap-header">
+              ${info.datum ? `<span class="kap-datum tz">${escHtml(info.datum)}</span>` : ''}
               <span class="kap-id">${kapLabel}</span>
               <span class="kap-pov">${escHtml(info.pov)}</span>
               ${statusText ? `<span class="kap-status ${statusClass}">${statusText}</span>` : ''}
-              ${info.datum ? `<span class="kap-datum">${escHtml(info.datum)}</span>` : ''}
+              ${mzText ? `<span class="kap-datum mz">${escHtml(mzText)}</span>` : ''}
             </div>
           `;
 
