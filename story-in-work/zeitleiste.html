@@ -266,7 +266,7 @@
     }
 
     function renderKapitelGroup(group, side) {
-      const kapLabel = group.kapitel.startsWith('I') ? group.kapitel : 'K' + group.kapitel;
+      const kapLabel = group.kapitel.startsWith('Kanon') ? group.kapitel : group.kapitel.startsWith('I') ? group.kapitel : 'K' + group.kapitel;
       const buchLabel = group.buch || '';
       const statusClass = group.status || 'szenenplan';
       const statusText = group.status === 'final' ? 'final' : group.status === 'lektorat' ? 'lektorat' : group.status || '';
@@ -363,7 +363,7 @@
           const kap = kapMap.get(kapId);
           const allKapEvents = [...kap.thal, ...kap.moragh];
           const info = buildGroup(allKapEvents, kapId);
-          const kapLabel = kapId.startsWith('I') ? kapId : 'K' + kapId;
+          const kapLabel = kapId.startsWith('Kanon') ? kapId : kapId.startsWith('I') ? kapId : 'K' + kapId;
           const statusClass = info.status || 'szenenplan';
           const statusText = info.status || '';
 
