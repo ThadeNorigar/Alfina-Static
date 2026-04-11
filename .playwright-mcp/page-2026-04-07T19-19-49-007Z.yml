@@ -1,0 +1,249 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - heading "MORAGH EDITOR" [level=2] [ref=e3]
+    - heading "Fraktion zuweisen" [level=3] [ref=e4]
+    - button "Bund von Orath" [ref=e5] [cursor=pointer]
+    - button "Konglomerat der Thar" [ref=e6] [cursor=pointer]
+    - button "Velmar" [ref=e7] [cursor=pointer]
+    - button "Freie Stadt" [ref=e8] [cursor=pointer]
+    - button "Tote Zone" [ref=e9] [cursor=pointer]
+    - heading "Quellengröße" [level=3] [ref=e10]
+    - button "Riesig" [ref=e11] [cursor=pointer]
+    - button "Groß" [ref=e12] [cursor=pointer]
+    - button "Mittel" [ref=e13] [cursor=pointer]
+    - button "Klein" [ref=e14] [cursor=pointer]
+    - button "Tot" [ref=e15] [cursor=pointer]
+    - generic [ref=e17]: Klick auf eine Stadt zum Bearbeiten
+    - heading "Ansicht" [level=3] [ref=e18]
+    - generic [ref=e19]:
+      - button "Politisch" [ref=e20] [cursor=pointer]
+      - button "Magiestärke" [ref=e21] [cursor=pointer]
+    - heading "Aktionen" [level=3] [ref=e22]
+    - generic [ref=e23]:
+      - button "+ Stadt" [ref=e24] [cursor=pointer]
+      - button "Löschen" [ref=e25] [cursor=pointer]
+      - button "Export JSON" [ref=e26] [cursor=pointer]
+      - button "Reset Ansicht" [ref=e27] [cursor=pointer]
+      - button "Reset Daten" [ref=e28] [cursor=pointer]
+    - generic [ref=e29]:
+      - text: Klick Stadt auswählen
+      - text: Ziehen Stadt verschieben
+      - text: "Doppelklick auf Karte: neue Stadt"
+      - text: Entf ausgewählte Stadt löschen
+      - text: 1-5 Fraktion wechseln
+      - text: Scroll Zoom · Rechtsklick+Ziehen Pan
+  - img [ref=e31]:
+    - generic [ref=e213]:
+      - generic: Thar-Kem
+      - generic: Thar-Kem
+      - generic: Draveth
+      - generic: Draveth
+      - generic: Sulkara
+      - generic: Sulkara
+      - generic: Neth-Kol
+      - generic: Neth-Kol
+      - generic: Harath
+      - generic: Harath
+      - generic: Veshan
+      - generic: Veshan
+      - generic: Tormund
+      - generic: Tormund
+      - generic: Kalveth
+      - generic: Kalveth
+      - generic: Drenn
+      - generic: Drenn
+      - generic: Solvak
+      - generic: Solvak
+      - generic: Keshara
+      - generic: Keshara
+      - generic: Tulmek
+      - generic: Tulmek
+      - generic: Vareth
+      - generic: Vareth
+      - generic: Grennik
+      - generic: Grennik
+      - generic: Dulmara
+      - generic: Dulmara
+      - generic: Heskol
+      - generic: Heskol
+      - generic: Raveth
+      - generic: Raveth
+      - generic: Tornesh
+      - generic: Tornesh
+      - generic: Kulmeth
+      - generic: Kulmeth
+      - generic: Ashvan
+      - generic: Ashvan
+      - generic: Drethik
+      - generic: Drethik
+      - generic: Velmar
+      - generic: Velmar
+      - generic: Eshkara
+      - generic: Eshkara
+      - generic: Dulveth
+      - generic: Dulveth
+      - generic: Kalmaren
+      - generic: Kalmaren
+      - generic: Reshken
+      - generic: Reshken
+      - generic: Valmeth
+      - generic: Valmeth
+      - generic: Sulvaren
+      - generic: Sulvaren
+      - generic: Teshkol
+      - generic: Teshkol
+      - generic: Grenmar
+      - generic: Grenmar
+      - generic: Dulmen
+      - generic: Dulmen
+      - generic: Orath
+      - generic: Orath
+      - generic: Kethmar
+      - generic: Kethmar
+      - generic: Halvaren
+      - generic: Halvaren
+      - generic: Sulmen
+      - generic: Sulmen
+      - generic: Dravaren
+      - generic: Dravaren
+      - generic: Teshvaren
+      - generic: Teshvaren
+      - generic: Kolmeth
+      - generic: Kolmeth
+      - generic: Narveth
+      - generic: Narveth
+      - generic: Reshmar
+      - generic: Reshmar
+      - generic: Dulkara
+      - generic: Dulkara
+      - generic: Halvesh
+      - generic: Halvesh
+      - generic: Grenven
+      - generic: Grenven
+      - generic: Tormaren
+      - generic: Tormaren
+      - generic: Keshven
+      - generic: Keshven
+      - generic: Dulrath
+      - generic: Dulrath
+      - generic: Varmen
+      - generic: Varmen
+      - generic: Teshkal
+      - generic: Teshkal
+      - generic: Reshven
+      - generic: Reshven
+      - generic: Kolvar
+      - generic: Kolvar
+      - generic: Narthek
+      - generic: Narthek
+      - generic: Halvek
+      - generic: Halvek
+      - generic: Grendul
+      - generic: Grendul
+      - generic: Torshek
+      - generic: Torshek
+      - generic: Sulvar
+      - generic: Sulvar
+      - generic: Dravek
+      - generic: Dravek
+      - generic: Kethven
+      - generic: Kethven
+      - generic: Nalmeth
+      - generic: Nalmeth
+      - generic: Reshkal
+      - generic: Reshkal
+      - generic: Halvek-Kel
+      - generic: Halvek-Kel
+      - generic: Dulven
+      - generic: Dulven
+      - generic: Tormen
+      - generic: Tormen
+      - generic: Varshek
+      - generic: Varshek
+      - generic: Nalmaren
+      - generic: Nalmaren
+      - generic: Torshara
+      - generic: Torshara
+      - generic: Keshdul
+      - generic: Keshdul
+      - generic: Halvek-Mar
+      - generic: Halvek-Mar
+      - generic: Reshkara
+      - generic: Reshkara
+      - generic: Grenval
+      - generic: Grenval
+      - generic: Dulshara
+      - generic: Dulshara
+      - generic: Sulketh
+      - generic: Sulketh
+      - generic: Varmen-Kel
+      - generic: Varmen-Kel
+      - generic: Dravmen
+      - generic: Dravmen
+      - generic: Kethshara
+      - generic: Kethshara
+      - generic: Narvaren
+      - generic: Narvaren
+      - generic: Teshmen
+      - generic: Teshmen
+      - generic: Halvara
+      - generic: Halvara
+      - generic: Kolshek
+      - generic: Kolshek
+      - generic: Reshdul
+      - generic: Reshdul
+      - generic: Grenmen
+      - generic: Grenmen
+      - generic: Sulvek
+      - generic: Sulvek
+      - generic: Torkal
+      - generic: Torkal
+      - generic: Dulvar
+      - generic: Dulvar
+      - generic: Keshmen
+      - generic: Keshmen
+      - generic: Halveth
+      - generic: Halveth
+      - generic: Torven
+      - generic: Torven
+      - generic: Dulmek
+      - generic: Dulmek
+      - generic: Reshven-Süd
+      - generic: Reshven-Süd
+      - generic: Kolveth
+      - generic: Kolveth
+      - generic: Narvek
+      - generic: Narvek
+      - generic: Sulmen-Kel
+      - generic: Sulmen-Kel
+      - generic: Teshvar
+      - generic: Teshvar
+      - generic: Halvmen
+      - generic: Halvmen
+      - generic: Grenvar
+      - generic: Grenvar
+      - generic: Dulshek
+      - generic: Dulshek
+      - generic: Kethmen
+      - generic: Kethmen
+      - generic: Varkal
+      - generic: Varkal
+      - generic: Reshmar-Kel
+      - generic: Reshmar-Kel
+      - generic: Torshek-Kel
+      - generic: Torshek-Kel
+      - generic: Nalmek
+      - generic: Nalmek
+      - generic: Kolmen
+      - generic: Kolmen
+      - generic: Halvara-Kel
+      - generic: Halvara-Kel
+      - generic: Sulvar-Kel
+      - generic: Sulvar-Kel
+      - generic: Dravmen-Kel
+      - generic: Dravmen-Kel
+      - generic: Keshvar
+      - generic: Keshvar
+    - generic [ref=e391]:
+      - generic: Steinplatz
+      - generic: Steinplatz

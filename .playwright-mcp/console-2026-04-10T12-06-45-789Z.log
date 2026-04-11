@@ -1,0 +1,2 @@
+[     297ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://alphina.net/favicon.ico:0
+[     349ms] Expected double-quoted property name in JSON at position 11015 (line 348 column 7)

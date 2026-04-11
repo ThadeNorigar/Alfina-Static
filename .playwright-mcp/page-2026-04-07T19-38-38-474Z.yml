@@ -1,0 +1,34 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - heading "MORAGH EDITOR" [level=2] [ref=e3]
+    - heading "Fraktion zuweisen" [level=3] [ref=e4]
+    - button "Bund von Orath" [ref=e5] [cursor=pointer]
+    - button "Konglomerat der Thar" [ref=e6] [cursor=pointer]
+    - button "Velmar" [ref=e7] [cursor=pointer]
+    - button "Freie Stadt" [ref=e8] [cursor=pointer]
+    - button "Tote Zone" [ref=e9] [cursor=pointer]
+    - heading "Quellengröße" [level=3] [ref=e10]
+    - button "Riesig" [ref=e11] [cursor=pointer]
+    - button "Groß" [ref=e12] [cursor=pointer]
+    - button "Mittel" [ref=e13] [cursor=pointer]
+    - button "Klein" [ref=e14] [cursor=pointer]
+    - button "Tot" [ref=e15] [cursor=pointer]
+    - generic [ref=e17]: Klick auf eine Stadt zum Bearbeiten
+    - heading "Ansicht" [level=3] [ref=e18]
+    - generic [ref=e19]:
+      - button "Politisch" [ref=e20] [cursor=pointer]
+      - button "Magiestärke" [ref=e21] [cursor=pointer]
+    - heading "Aktionen" [level=3] [ref=e22]
+    - generic [ref=e23]:
+      - button "+ Stadt" [ref=e24] [cursor=pointer]
+      - button "Löschen" [ref=e25] [cursor=pointer]
+      - button "Export JSON" [ref=e26] [cursor=pointer]
+      - button "Reset Ansicht" [ref=e27] [cursor=pointer]
+    - generic [ref=e28]:
+      - text: Klick Stadt auswählen
+      - text: Ziehen Stadt verschieben
+      - text: "Doppelklick auf Karte: neue Stadt"
+      - text: Entf ausgewählte Stadt löschen
+      - text: 1-5 Fraktion wechseln
+      - text: Scroll Zoom · Rechtsklick+Ziehen Pan
+  - img [ref=e30]

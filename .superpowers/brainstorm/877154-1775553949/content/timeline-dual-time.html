@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zeitleiste — Thalassien &amp; Moragh</title>
+  <link rel="stylesheet" href="/styles.css">
+  <style>
+    :root {
+      --cream: #f5f0e8; --ink: #1e1c19; --muted: #6b6259;
+      --accent: #6b3a3a; --deep: #0f0e0c; --smoke: #8a8279;
+      --paper: #f8f4ee; --paper-edge: #e8e0d4;
+      --thal: #b8860b; --thal-faint: rgba(184,134,11,0.08);
+      --moragh: #6b3a3a; --moragh-faint: rgba(107,58,58,0.08);
+      --c-portal: #8b4513; --c-begegnung: #4a6a7a; --c-erkenntnis: #6a5080;
+      --c-erotik: #8b3a5a; --c-schlüssel: #b8860b; --c-tod: #6b6259;
+      --c-tschechow: #5a7a5a; --c-hintergrund: #555;
+    }
+    body {
+      background: var(--deep); display: flex; justify-content: center;
+      padding: 2rem 1rem; min-height: 100vh;
+    }
+    nav { display: none; }
+    .wrap { width: 100%; max-width: 960px; }
+
+    .page-title {
+      text-align: center; padding: 1rem 0 0.3rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.7rem;
+      letter-spacing: 0.4em; text-transform: uppercase; color: var(--smoke);
+    }
+    .page-subtitle {
+      text-align: center; padding: 0 0 1.2rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.85rem;
+      color: var(--smoke); letter-spacing: 0.05em;
+    }
+
+    /* Filter */
+    .filter-bar {
+      display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap;
+      padding: 0 0 1.5rem;
+    }
+    .filter-btn {
+      display: flex; align-items: center; gap: 0.35rem;
+      padding: 0.25rem 0.6rem; border-radius: 2px;
+      font-family: 'Inter', sans-serif; font-size: 0.6rem;
+      letter-spacing: 0.03em; cursor: pointer; user-select: none;
+      border: 1px solid rgba(255,255,255,0.06);
+      background: rgba(255,255,255,0.03);
+      color: var(--smoke); transition: all 0.2s;
+    }
+    .filter-btn:hover { background: rgba(255,255,255,0.06); }
+    .filter-btn.active { border-color: rgba(255,255,255,0.15); background: rgba(255,255,255,0.06); }
+    .filter-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+
+    /* Two-column card */
+    .tl-card {
+      background: var(--paper);
+      border-radius: 2px 6px 6px 2px;
+      box-shadow: 0 0 0 1px var(--paper-edge), 0 12px 40px rgba(0,0,0,0.3);
+      overflow: hidden; position: relative;
+    }
+    .tl-card::before {
+      content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+      background: linear-gradient(180deg, var(--thal) 0%, var(--moragh) 100%);
+    }
+    .tl-columns { display: grid; grid-template-columns: 1fr 1fr; }
+
+    /* Column headers */
+    .col-header { padding: 1.2rem 1.8rem 0.8rem; border-bottom: 1px solid rgba(107,58,58,0.06); }
+    .col-header.thal { background: var(--thal-faint); }
+    .col-header.moragh { background: var(--moragh-faint); }
+    .col-header-num {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.6rem;
+      letter-spacing: 0.35em; text-transform: uppercase;
+    }
+    .col-header.thal .col-header-num { color: var(--thal); }
+    .col-header.moragh .col-header-num { color: var(--moragh); }
+    .col-header-title {
+      font-family: 'Cormorant Garamond', serif; font-size: 1.15rem;
+      font-weight: 400; letter-spacing: 0.06em; color: var(--ink);
+    }
+    .col-header-sub {
+      font-family: 'Inter', sans-serif; font-size: 0.62rem;
+      color: var(--smoke); margin-top: 0.15rem;
+    }
+
+    /* Column bodies */
+    .col-body { padding: 1.2rem 1.8rem 1.5rem; }
+    .col-body.thal { background: var(--thal-faint); border-right: 1px solid rgba(107,58,58,0.04); }
+    .col-body.moragh { background: var(--moragh-faint); }
+
+    /* Timeline line */
+    .tl-line { position: relative; padding-left: 1.8rem; }
+    .tl-line::before {
+      content: ''; position: absolute; left: 0; top: 0.5rem; bottom: 0.5rem; width: 1px;
+    }
+    .thal .tl-line::before { background: linear-gradient(180deg, var(--thal), rgba(184,134,11,0.15)); }
+    .moragh .tl-line::before { background: linear-gradient(180deg, var(--moragh), rgba(107,58,58,0.15)); }
+
+    /* Events */
+    .ev {
+      position: relative; margin-bottom: 1.3rem; padding-bottom: 1.3rem;
+      border-bottom: 1px solid rgba(107,58,58,0.04);
+    }
+    .ev:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+    .ev::before {
+      content: ''; position: absolute; left: -1.95rem; top: 0.4rem;
+      width: 5px; height: 5px; border-radius: 50%;
+    }
+    .thal .ev::before { background: var(--thal); }
+    .moragh .ev::before { background: var(--moragh); }
+    .ev.t-portal::before { background: var(--c-portal); width: 7px; height: 7px; left: -2.05rem; top: 0.3rem; }
+    .ev.t-begegnung::before { background: var(--c-begegnung); }
+    .ev.t-erkenntnis::before { background: var(--c-erkenntnis); }
+    .ev.t-erotik::before { background: var(--c-erotik); }
+    .ev.t-schlüssel::before { background: var(--c-schlüssel); }
+    .ev.t-tod::before { background: var(--c-tod); }
+    .ev.t-tschechow::before { background: var(--c-tschechow); }
+    .ev.t-hintergrund::before { background: var(--c-hintergrund); }
+    .ev.t-hintergrund { opacity: 0.55; }
+
+    /* Dual time display */
+    .ev-time {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.65rem; font-weight: 300;
+      color: var(--smoke); letter-spacing: 0.03em;
+      margin-bottom: 0.15rem;
+      display: flex; gap: 0.5rem; align-items: baseline; flex-wrap: wrap;
+    }
+    .tz { color: var(--thal); }
+    .mz { color: var(--moragh); }
+    .ev-time .sep { color: rgba(107,98,89,0.3); }
+
+    .ev-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.92rem; font-weight: 500;
+      color: var(--ink); line-height: 1.35;
+    }
+    .ev-detail {
+      font-family: 'Inter', sans-serif; font-size: 0.72rem; font-weight: 300;
+      color: var(--muted); line-height: 1.65; margin-top: 0.15rem;
+    }
+    .ev-tags { display: flex; gap: 0.3rem; margin-top: 0.35rem; flex-wrap: wrap; }
+    .tag {
+      font-family: 'Inter', sans-serif; font-size: 0.5rem; font-weight: 400;
+      padding: 0.1rem 0.4rem; border-radius: 2px;
+      letter-spacing: 0.04em; text-transform: uppercase;
+    }
+    .tag-portal     { background: rgba(139,69,19,0.08); color: var(--c-portal); }
+    .tag-begegnung  { background: rgba(74,106,122,0.08); color: var(--c-begegnung); }
+    .tag-erkenntnis { background: rgba(106,80,128,0.08); color: var(--c-erkenntnis); }
+    .tag-erotik     { background: rgba(139,58,90,0.08); color: var(--c-erotik); }
+    .tag-schlüssel { background: rgba(184,134,11,0.08); color: var(--c-schlüssel); }
+    .tag-tod        { background: rgba(107,98,89,0.08); color: var(--c-tod); }
+    .tag-tschechow  { background: rgba(90,122,90,0.08); color: var(--c-tschechow); }
+    .tag-hintergrund{ background: rgba(85,85,85,0.06); color: var(--c-hintergrund); }
+
+    .pov-badge {
+      font-family: 'Inter', sans-serif; font-size: 0.5rem;
+      padding: 0.08rem 0.3rem; border-radius: 2px;
+      background: rgba(107,58,58,0.05); color: var(--smoke);
+      margin-left: 0.3rem;
+    }
+
+    /* Book marker */
+    .book-marker {
+      background: rgba(107,58,58,0.04); border: 1px solid rgba(107,58,58,0.08);
+      border-radius: 3px; padding: 0.5rem 0.6rem; margin-bottom: 1.3rem;
+    }
+    .thal .book-marker { border-color: rgba(184,134,11,0.12); background: rgba(184,134,11,0.04); }
+    .book-marker .ev-time { font-size: 0.6rem; letter-spacing: 0.1em; text-transform: uppercase; }
+    .thal .book-marker .ev-time .tz { color: var(--thal); }
+    .moragh .book-marker .ev-time .mz { color: var(--moragh); }
+
+    /* Time gap */
+    .tl-gap {
+      position: relative; text-align: center;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.72rem; font-style: italic;
+      color: var(--smoke); opacity: 0.45;
+      padding: 0.5rem 0; margin-bottom: 1.3rem;
+    }
+    .tl-gap::before {
+      content: ''; position: absolute; left: -1.8rem; top: 0; bottom: 0;
+      width: 1px; border-left: 1px dashed rgba(107,58,58,0.12);
+    }
+
+    /* Sync bridge */
+    .sync-bridge-row {
+      grid-column: 1 / -1;
+      display: grid; grid-template-columns: 1fr auto 1fr;
+      align-items: center; padding: 0.5rem 1.8rem;
+      background: rgba(139,69,19,0.04);
+      border-top: 1px solid rgba(139,69,19,0.08);
+      border-bottom: 1px solid rgba(139,69,19,0.08);
+    }
+    .sync-left {
+      text-align: right; padding-right: 1rem;
+      font-family: 'JetBrains Mono', monospace; font-size: 0.65rem; color: var(--thal);
+    }
+    .sync-center {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.8rem;
+      color: var(--c-portal); text-align: center; white-space: nowrap;
+      padding: 0.2rem 0.8rem;
+      border-left: 1px dashed var(--c-portal); border-right: 1px dashed var(--c-portal);
+    }
+    .sync-right {
+      text-align: left; padding-left: 1rem;
+      font-family: 'JetBrains Mono', monospace; font-size: 0.65rem; color: var(--moragh);
+    }
+
+    @media (max-width: 700px) {
+      .tl-columns { grid-template-columns: 1fr; }
+      .sync-bridge-row { grid-template-columns: auto 1fr auto; padding: 0.4rem 1rem; }
+      .col-body { padding: 1rem 1.2rem 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="grain"></div>
+  <div class="wrap">
+    <div class="page-title">Zeitleiste</div>
+    <div class="page-subtitle">TZ = Thalassien-Zeit (Jahr 0 = Uhrwerk) &middot; MZ = Moragh-Zeit &middot; 1 MZ-Jahr = 400 TZ-Jahre</div>
+
+    <div class="filter-bar">
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-portal)"></span> Portal</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-begegnung)"></span> Begegnung</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-erkenntnis)"></span> Erkenntnis</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-erotik)"></span> Erotik</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-schlüssel)"></span> Schlüssel</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-tod)"></span> Tod</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-tschechow)"></span> Tschechow</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-hintergrund)"></span> Hintergrund</div>
+    </div>
+
+    <div class="tl-card">
+      <div class="tl-columns">
+
+        <!-- HEADERS -->
+        <div class="col-header thal">
+          <div class="col-header-num">Thalassien</div>
+          <div class="col-header-title">Die Welt ohne Magie</div>
+          <div class="col-header-sub">TZ &mdash; Jahr 0 = Erfindung des Uhrwerks</div>
+        </div>
+        <div class="col-header moragh">
+          <div class="col-header-num">Moragh</div>
+          <div class="col-header-title">Die Welt mit Magie</div>
+          <div class="col-header-sub">MZ &mdash; Moragh-Zeit &middot; 1 MZ = 400 TZ</div>
+        </div>
+
+        <!-- SYNC: Flucht -->
+        <div class="sync-bridge-row">
+          <div class="sync-left">TZ -79.449</div>
+          <div class="sync-center">&larr; Portal &rarr; Flucht nach Thalassien</div>
+          <div class="sync-right">MZ -200</div>
+        </div>
+
+        <!-- THALASSIEN: Vorgeschichte -->
+        <div class="col-body thal">
+          <div class="tl-line">
+            <div class="ev t-schlüssel">
+              <div class="ev-time"><span class="tz">TZ -79.449</span> <span class="sep">&middot;</span> <span class="mz">MZ -200</span></div>
+              <div class="ev-title">Ankunft der Flüchtlinge</div>
+              <div class="ev-detail">Ohne Technologie, ohne Magie. Beginn der menschlichen Geschichte in Thalassien.</div>
+              <div class="ev-tags"><span class="tag tag-schlüssel">Schlüsselereignis</span></div>
+            </div>
+            <div class="tl-gap">~79.200 TZ &mdash; keine Aufzeichnungen</div>
+            <div class="ev t-schlüssel">
+              <div class="ev-time"><span class="tz">TZ -249</span> <span class="sep">&middot;</span> <span class="mz">MZ -2</span></div>
+              <div class="ev-title">Gründung von Vael</div>
+              <div class="ev-detail">Offiziell. Der Steinkreis ist älter.</div>
+            </div>
+            <div class="ev t-schlüssel">
+              <div class="ev-time"><span class="tz">TZ 0</span> <span class="sep">&middot;</span> <span class="mz">MZ -1,4</span></div>
+              <div class="ev-title">Erfindung des Uhrwerks</div>
+              <div class="ev-detail">Beginn der Thalassischen Zeitrechnung.</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- MORAGH: Vorgeschichte -->
+        <div class="col-body moragh">
+          <div class="tl-line">
+            <div class="ev t-schlüssel">
+              <div class="ev-time"><span class="mz">MZ -200</span> <span class="sep">&middot;</span> <span class="tz">TZ -79.449</span></div>
+              <div class="ev-title">Flüchtlinge gehen nach Thalassien</div>
+              <div class="ev-detail">Kriegsfluechtlinge. In Moragh noch in Erinnerung.</div>
+            </div>
+            <div class="tl-gap">~195 MZ &mdash; Städte, Quellen, Zivilisation</div>
+            <div class="ev t-schlüssel">
+              <div class="ev-time"><span class="mz">MZ ~-5</span> <span class="sep">&middot;</span> <span class="tz">TZ ~-1.449</span></div>
+              <div class="ev-title">Varens Leylinien-Experiment</div>
+              <div class="ev-detail">3 Reservoir-Quellen kollabieren. Niemand weiß dass Varen schuld ist.</div>
+              <div class="ev-tags">
+                <span class="tag tag-schlüssel">Schlüsselereignis</span>
+                <span class="tag tag-tschechow">Tschechow: Varens Schuld</span>
+              </div>
+            </div>
+            <div class="ev t-schlüssel">
+              <div class="ev-time"><span class="mz">MZ ~-4</span> <span class="sep">&middot;</span> <span class="tz">TZ ~-1.049</span></div>
+              <div class="ev-title">Der Krieg beginnt</div>
+              <div class="ev-detail">Orath vs. Thar vs. Velmar. Dauert 4 MZ (= ~1.600 TZ).</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- SYNC: Großes Feuer / Elke -->
+        <div class="sync-bridge-row">
+          <div class="sync-left">TZ 154</div>
+          <div class="sync-center">&larr; Portal &rarr; Das Große Feuer / Elke</div>
+          <div class="sync-right">MZ ~-1</div>
+        </div>
+
+        <!-- THALASSIEN: 154 -->
+        <div class="col-body thal">
+          <div class="tl-line">
+            <div class="ev t-portal">
+              <div class="ev-time"><span class="tz">TZ 154</span> <span class="sep">&middot;</span> <span class="mz">MZ ~-1</span></div>
+              <div class="ev-title">Das Große Feuer von Vael</div>
+              <div class="ev-detail">Varen öffnet das Tor, 3 Feuer-Schemen. Kaspar + Johann sterben. Elke geht durch. Lene überlebt allein.</div>
+              <div class="ev-tags">
+                <span class="tag tag-portal">Portal: Elke &rarr; Moragh</span>
+                <span class="tag tag-tod">Tod: Kaspar, Johann</span>
+                <span class="tag tag-begegnung">Erste Begegnung: Feuer-Schemen</span>
+              </div>
+            </div>
+            <div class="tl-gap">~331 TZ &mdash; Vael baut wieder auf</div>
+            <div class="ev t-portal">
+              <div class="ev-time"><span class="tz">TZ ~485</span> <span class="sep">&middot;</span> <span class="mz">MZ ~-0,17</span></div>
+              <div class="ev-title">Haron Dahl kommt durch</div>
+              <div class="ev-detail">Varens Agent. Übernimmt die Werft, lebt ein ganzes Leben, stirbt an Alter.</div>
+              <div class="ev-tags"><span class="tag tag-portal">Portal: Moragh &rarr; Thal.</span></div>
+            </div>
+            <div class="ev t-portal">
+              <div class="ev-time"><span class="tz">TZ ~500&ndash;540</span> <span class="sep">&middot;</span> <span class="mz">MZ ~-0,13 bis -0,03</span></div>
+              <div class="ev-title">Weitere Agenten kommen durch</div>
+              <div class="ev-detail">Uhrmacher, Artikel-Verfasser, Platten-Fälscher. Köder fuer die Vier.</div>
+              <div class="ev-tags">
+                <span class="tag tag-portal">Portal: Moragh &rarr; Thal.</span>
+                <span class="tag tag-tschechow">Tschechow: Köder</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- MORAGH: Elke-Zeit -->
+        <div class="col-body moragh">
+          <div class="tl-line">
+            <div class="ev t-portal">
+              <div class="ev-time"><span class="mz">MZ ~-1</span> <span class="sep">&middot;</span> <span class="tz">TZ 154</span></div>
+              <div class="ev-title">Varen öffnet das Tor</div>
+              <div class="ev-detail">3 Feuer-Schemen nach Thalassien. Elke kommt in Moragh an.</div>
+              <div class="ev-tags"><span class="tag tag-portal">Portal</span></div>
+            </div>
+            <div class="ev t-begegnung t-erotik">
+              <div class="ev-time"><span class="mz">MZ ~-1 bis ~-0,5</span> <span class="sep">&middot;</span> <span class="tz">TZ ~154&ndash;354</span></div>
+              <div class="ev-title">Elke + Varen: 6 Monate</div>
+              <div class="ev-detail">Liebe, Forschung, Thalassisch-Unterricht. Dann Trennung.</div>
+              <div class="ev-tags">
+                <span class="tag tag-begegnung">Erste Begegnung: Varen</span>
+                <span class="tag tag-erotik">Erotik: Beziehung</span>
+                <span class="tag tag-erkenntnis">Erkenntnis: Elke durchschaut Varen</span>
+              </div>
+            </div>
+            <div class="ev t-portal">
+              <div class="ev-time"><span class="mz">MZ ~-0,17</span> <span class="sep">&middot;</span> <span class="tz">TZ ~485</span></div>
+              <div class="ev-title">Agenten werden nach Thalassien geschickt</div>
+              <div class="ev-detail">Haron Dahl u.a. Für Varen Wochen &mdash; fuer sie Jahrzehnte.</div>
+              <div class="ev-tags"><span class="tag tag-portal">Portal: Moragh &rarr; Thal.</span></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- SYNC: Buch 1 / Durchgang -->
+        <div class="sync-bridge-row">
+          <div class="sync-left">TZ ~551</div>
+          <div class="sync-center">&larr; Portal &rarr; Die Vier + Runa nach Moragh</div>
+          <div class="sync-right">MZ 0</div>
+        </div>
+
+        <!-- THALASSIEN: Buch 1 -->
+        <div class="col-body thal">
+          <div class="tl-line">
+            <div class="book-marker">
+              <div class="ev-time"><span class="tz">Beginn Buch 1</span> <span class="sep">&mdash;</span> <span class="tz">TZ ~551</span> <span class="sep">&middot;</span> <span class="mz">MZ ~0</span></div>
+              <div class="ev-title">Der Riss</div>
+            </div>
+            <div class="ev t-begegnung">
+              <div class="ev-time"><span class="tz">TZ ~551</span> <span class="sep">&middot;</span> <span class="mz">MZ ~0</span> <span class="pov-badge">Alphina</span></div>
+              <div class="ev-title">Alphina kommt in Vael an</div>
+              <div class="ev-detail">Folgt dem Farn-Artikel. Spürt die Pflanzen.</div>
+              <div class="ev-tags"><span class="tag tag-begegnung">Erste Begegnung: Vael</span></div>
+            </div>
+            <div class="ev t-schlüssel">
+              <div class="ev-time"><span class="tz">TZ ~551</span> <span class="sep">&middot;</span> <span class="mz">MZ ~0</span> <span class="pov-badge">Sorel</span></div>
+              <div class="ev-title">Sorel findet die Glasplatte</div>
+              <div class="ev-detail">Sein Gesicht. Schärfer als moeglich.</div>
+              <div class="ev-tags">
+                <span class="tag tag-schlüssel">Schlüsselereignis</span>
+                <span class="tag tag-tschechow">Tschechow: Glasplatte</span>
+              </div>
+            </div>
+            <div class="ev t-begegnung">
+              <div class="ev-time"><span class="tz">TZ ~551</span> <span class="sep">&middot;</span> <span class="mz">MZ ~0</span> <span class="pov-badge">Alphina</span></div>
+              <div class="ev-title">Alphina + Sorel: erste Berührung</div>
+              <div class="ev-tags">
+                <span class="tag tag-begegnung">Erste Begegnung: Sorel</span>
+                <span class="tag tag-erotik">Erotik: Tension</span>
+              </div>
+            </div>
+            <div class="ev t-erkenntnis">
+              <div class="ev-time"><span class="tz">TZ ~551</span> <span class="sep">&middot;</span> <span class="mz">MZ ~0</span> <span class="pov-badge">Vesper</span></div>
+              <div class="ev-title">Die Standuhr verliert exakt 4:33</div>
+              <div class="ev-tags">
+                <span class="tag tag-erkenntnis">Erkenntnis: 4:33</span>
+                <span class="tag tag-tschechow">Tschechow: 4:33</span>
+              </div>
+            </div>
+            <div class="ev t-hintergrund">
+              <div class="ev-time"><span class="tz">TZ ~551</span> <span class="sep">&middot;</span> <span class="mz">MZ ~0</span></div>
+              <div class="ev-title">Fischerboote: leerer Fang</div>
+              <div class="ev-detail">Der Vaeler Atem wird dichter.</div>
+              <div class="ev-tags"><span class="tag tag-hintergrund">Hintergrund</span></div>
+            </div>
+            <div class="ev t-portal">
+              <div class="ev-time"><span class="tz">TZ ~551</span> <span class="sep">&middot;</span> <span class="mz">MZ 0</span> <span class="pov-badge">Alphina</span></div>
+              <div class="ev-title">Portal-Durchgang. Sorel stirbt.</div>
+              <div class="ev-detail">4:33 offen. Runa schlüpft durch. Vael beginnt zu heilen.</div>
+              <div class="ev-tags">
+                <span class="tag tag-portal">Portal &rarr; Moragh</span>
+                <span class="tag tag-tod">Tod: Sorel</span>
+                <span class="tag tag-schlüssel">Schlüsselereignis</span>
+              </div>
+            </div>
+            <div class="tl-gap">~90 TZ &mdash; Nebel lichtet, Industrialisierung</div>
+          </div>
+        </div>
+
+        <!-- MORAGH: Buch 2 -->
+        <div class="col-body moragh">
+          <div class="tl-line">
+            <div class="book-marker">
+              <div class="ev-time"><span class="mz">Beginn Buch 2</span> <span class="sep">&mdash;</span> <span class="mz">MZ 0</span> <span class="sep">&middot;</span> <span class="tz">TZ ~551</span></div>
+              <div class="ev-title">Das Auge</div>
+            </div>
+            <div class="ev t-tod">
+              <div class="ev-time"><span class="mz">MZ 0, Stunde 1</span> <span class="sep">&middot;</span> <span class="tz">TZ ~551</span></div>
+              <div class="ev-title">Sorel stirbt</div>
+              <div class="ev-detail">Varens Bindungsmagie. Die Falle schließt sich.</div>
+              <div class="ev-tags">
+                <span class="tag tag-tod">Tod: Sorel</span>
+                <span class="tag tag-erkenntnis">Erkenntnis: Die Falle</span>
+              </div>
+            </div>
+            <div class="ev t-begegnung">
+              <div class="ev-time"><span class="mz">MZ 0</span> <span class="sep">&middot;</span> <span class="tz">TZ ~551</span></div>
+              <div class="ev-title">Elke findet die Überlebenden</div>
+              <div class="ev-detail">Führt sie durch Moragh. Kennt die Welt, die Sprache.</div>
+              <div class="ev-tags"><span class="tag tag-begegnung">Erste Begegnung: Elke</span></div>
+            </div>
+            <div class="ev t-begegnung">
+              <div class="ev-time"><span class="mz">MZ 0&ndash;0,08</span> <span class="sep">&middot;</span> <span class="tz">TZ ~551&ndash;583</span></div>
+              <div class="ev-title">Erste Begegnung mit Varen</div>
+              <div class="ev-detail">Mächtig, gut genährt. Legt die Hand an Alphinas Kinn.</div>
+              <div class="ev-tags">
+                <span class="tag tag-begegnung">Erste Begegnung: Varen</span>
+                <span class="tag tag-schlüssel">Schlüsselereignis</span>
+              </div>
+            </div>
+            <div class="ev t-erkenntnis">
+              <div class="ev-time"><span class="mz">MZ 0,08&ndash;0,25</span> <span class="sep">&middot;</span> <span class="tz">TZ ~583&ndash;651</span></div>
+              <div class="ev-title">Alphinas Macht wächst unkontrolliert</div>
+              <div class="ev-detail">Resonanz ohne Preis. Alle Fraktionen wollen sie.</div>
+              <div class="ev-tags"><span class="tag tag-erkenntnis">Erkenntnis: kostenlose Resonanz</span></div>
+            </div>
+            <div class="ev t-erotik">
+              <div class="ev-time"><span class="mz">MZ 0,08&ndash;0,25</span> <span class="sep">&middot;</span> <span class="tz">TZ ~583&ndash;651</span></div>
+              <div class="ev-title">Alphina + Runa</div>
+              <div class="ev-detail">Aus Freundschaft wird mehr. Anders als bei Sorel.</div>
+              <div class="ev-tags"><span class="tag tag-erotik">Erotik: Beziehung</span></div>
+            </div>
+            <div class="ev t-portal">
+              <div class="ev-time"><span class="mz">MZ ~0,25</span> <span class="sep">&middot;</span> <span class="tz">TZ ~651</span></div>
+              <div class="ev-title">Maren öffnet Portal, geht nach Thalassien</div>
+              <div class="ev-detail">Vesper bleibt. Maren geht &mdash; absichtlich gestrandet.</div>
+              <div class="ev-tags">
+                <span class="tag tag-portal">Portal &rarr; Thalassien</span>
+                <span class="tag tag-schlüssel">Schlüsselereignis</span>
+              </div>
+            </div>
+            <div class="tl-gap">~5 MZ &mdash; Krieg, Alphina altert</div>
+          </div>
+        </div>
+
+        <!-- SYNC: Maren -->
+        <div class="sync-bridge-row">
+          <div class="sync-left">TZ ~651</div>
+          <div class="sync-center">&larr; Portal &rarr; Maren kehrt zurück</div>
+          <div class="sync-right">MZ ~0,25</div>
+        </div>
+
+        <!-- SYNC: Buch 3 -->
+        <div class="sync-bridge-row">
+          <div class="sync-left">TZ ~2.751</div>
+          <div class="sync-center">&larr; Portal &rarr; Wiedervereinigung</div>
+          <div class="sync-right">MZ ~5,5</div>
+        </div>
+
+        <!-- THALASSIEN: Buch 3 -->
+        <div class="col-body thal">
+          <div class="tl-line">
+            <div class="ev t-portal">
+              <div class="ev-time"><span class="tz">TZ ~651</span> <span class="sep">&middot;</span> <span class="mz">MZ ~0,25</span></div>
+              <div class="ev-title">Maren kommt an &mdash; allein</div>
+              <div class="ev-detail">~100 TZ seit dem Durchgang. Gestrandet.</div>
+            </div>
+            <div class="tl-gap">~2.100 TZ</div>
+            <div class="book-marker">
+              <div class="ev-time"><span class="tz">Beginn Buch 3</span> <span class="sep">&mdash;</span> <span class="tz">TZ ~2.751</span> <span class="sep">&middot;</span> <span class="mz">MZ ~5,5</span></div>
+              <div class="ev-title">Die Quelle</div>
+            </div>
+            <div class="ev t-portal">
+              <div class="ev-time"><span class="tz">TZ ~2.751</span> <span class="sep">&middot;</span> <span class="mz">MZ ~5,5</span></div>
+              <div class="ev-title">Portal öffnet sich erneut</div>
+              <div class="ev-detail">Wissenschaftler verstehen das Tor. Vael ist Großstadt.</div>
+              <div class="ev-tags"><span class="tag tag-portal">Portal</span></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- MORAGH: Buch 3 -->
+        <div class="col-body moragh">
+          <div class="tl-line">
+            <div class="book-marker">
+              <div class="ev-time"><span class="mz">Beginn Buch 3</span> <span class="sep">&mdash;</span> <span class="mz">MZ ~5,5</span> <span class="sep">&middot;</span> <span class="tz">TZ ~2.751</span></div>
+              <div class="ev-title">Die Quelle</div>
+            </div>
+            <div class="ev t-schlüssel">
+              <div class="ev-time"><span class="mz">MZ ~5,5</span> <span class="sep">&middot;</span> <span class="tz">TZ ~2.751</span></div>
+              <div class="ev-title">Thalassien-Wissenschaftler kommen</div>
+              <div class="ev-detail">Erkennen die Moragh-&bdquo;Sonne&ldquo; als Schwarzes Loch.</div>
+              <div class="ev-tags"><span class="tag tag-erkenntnis">Erkenntnis: Schwarzes Loch</span></div>
+            </div>
+            <div class="ev t-tod">
+              <div class="ev-time"><span class="mz">MZ Buch 3</span> <span class="sep">&middot;</span> <span class="tz">TZ ~2.751</span></div>
+              <div class="ev-title">Alphina stirbt</div>
+              <div class="ev-detail">Die Pflanzen wachsen ein letztes Mal. Dann Stille.</div>
+              <div class="ev-tags">
+                <span class="tag tag-tod">Tod: Alphina</span>
+                <span class="tag tag-schlüssel">Schlüsselereignis</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</body>
+</html>

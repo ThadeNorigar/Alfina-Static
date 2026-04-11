@@ -1,0 +1,16 @@
+[  240846ms] [LOG] 19 Städte in Landmasse verschoben @ http://localhost:57150/:753
+[  779991ms] [LOG] 19 Städte in Landmasse verschoben @ http://localhost:57150/:753
+[  902244ms] [LOG] 19 Städte in Landmasse verschoben @ http://localhost:57150/:763
+[  902772ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:57150/data:0
+[  902773ms] [WARNING] Speichern fehlgeschlagen: SyntaxError: Unexpected token 'N', "Not found" is not valid JSON @ http://localhost:57150/:722
+[  912272ms] Unexpected end of input
+[  921461ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:57150/data:0
+[  921462ms] [LOG] Server nicht erreichbar, nutze eingebaute Daten @ http://localhost:57150/:737
+[  921463ms] [LOG] 19 Städte in Landmasse verschoben @ http://localhost:57150/:765
+[  921988ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:57150/data:0
+[  921989ms] [WARNING] Speichern fehlgeschlagen: SyntaxError: Unexpected token 'N', "Not found" is not valid JSON @ http://localhost:57150/:722
+[  929911ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:57150/data:0
+[  929912ms] [LOG] Server nicht erreichbar, nutze eingebaute Daten @ http://localhost:57150/:736
+[  929913ms] [LOG] 19 Städte in Landmasse verschoben @ http://localhost:57150/:764
+[  930437ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:57150/data:0
+[  930438ms] [WARNING] Speichern fehlgeschlagen: SyntaxError: Unexpected token 'N', "Not found" is not valid JSON @ http://localhost:57150/:721

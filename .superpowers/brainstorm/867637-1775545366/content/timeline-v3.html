@@ -1,0 +1,340 @@
+<style>
+  .tl-container {
+    display: flex;
+    gap: 0;
+    font-family: system-ui, sans-serif;
+    color: #ddd;
+    font-size: 13px;
+    position: relative;
+  }
+  .tl-col {
+    flex: 1;
+    padding: 16px 20px;
+  }
+  .tl-col.thal { background: rgba(184,134,11,0.08); }
+  .tl-col.moragh { background: rgba(107,58,58,0.08); }
+  .tl-col h3 {
+    text-align: center;
+    margin: 0 0 4px 0;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .tl-col.thal h3 { color: #b8860b; }
+  .tl-col.moragh h3 { color: #9b4d4d; }
+  .tl-col .sub { text-align: center; color: #666; font-size: 11px; margin-bottom: 20px; }
+
+  .tl-line {
+    border-left: 2px solid #444;
+    margin-left: 50px;
+    padding-left: 16px;
+  }
+  .tl-col.thal .tl-line { border-color: rgba(184,134,11,0.4); }
+  .tl-col.moragh .tl-line { border-color: rgba(107,58,58,0.4); }
+
+  .tl-event {
+    position: relative;
+    margin-bottom: 16px;
+    padding: 4px 0;
+  }
+  .tl-event::before {
+    content: '';
+    position: absolute;
+    left: -21px;
+    top: 8px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #555;
+  }
+  .tl-col.thal .tl-event::before { background: #b8860b; }
+  .tl-col.moragh .tl-event::before { background: #9b4d4d; }
+
+  .tl-event.portal::before {
+    background: #e74c3c !important;
+    box-shadow: 0 0 8px rgba(231,76,60,0.6);
+    width: 12px; height: 12px;
+    left: -22px; top: 7px;
+  }
+  .tl-event.portal .ev-title { color: #e8c170; }
+
+  .tl-event.era { margin-bottom: 22px; }
+  .tl-event.era::before { width: 14px; height: 14px; left: -23px; top: 5px; }
+
+  .tl-time {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: #777;
+    margin-bottom: 1px;
+  }
+  .ev-title { font-weight: 600; line-height: 1.3; }
+  .ev-detail { font-size: 11px; color: #888; margin-top: 2px; line-height: 1.4; }
+
+  .tl-gap {
+    text-align: center;
+    color: #444;
+    font-style: italic;
+    font-size: 11px;
+    padding: 10px 0;
+    border-left: 2px dashed rgba(255,255,255,0.1);
+    margin-left: 50px;
+  }
+  .tl-col.thal .tl-gap { border-color: rgba(184,134,11,0.15); }
+  .tl-col.moragh .tl-gap { border-color: rgba(107,58,58,0.15); }
+
+  .book-marker {
+    border: 1px solid rgba(184,134,11,0.3);
+    border-radius: 6px;
+    padding: 8px 8px 8px 0;
+    background: rgba(184,134,11,0.05);
+    margin-bottom: 20px;
+  }
+  .tl-col.moragh .book-marker {
+    border-color: rgba(107,58,58,0.3);
+    background: rgba(107,58,58,0.05);
+  }
+
+  .legend {
+    display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;
+    margin: 12px 0 20px; padding: 10px; font-size: 11px; color: #888;
+    background: rgba(255,255,255,0.03); border-radius: 6px;
+  }
+  .legend span { display: flex; align-items: center; gap: 5px; }
+  .legend .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
+
+  /* Sync bridge rows */
+  .sync-row {
+    display: flex; align-items: center; gap: 0;
+    padding: 4px 12px;
+    font-size: 11px;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+  }
+  .sync-row:last-child { border-bottom: none; }
+  .sync-thal { flex: 1; text-align: right; color: #b8860b; padding-right: 12px; }
+  .sync-bridge { width: 60px; border-top: 2px dashed #e74c3c; position: relative; }
+  .sync-bridge::after {
+    content: '\2194';
+    position: absolute;
+    top: -10px; left: 50%;
+    transform: translateX(-50%);
+    color: #e74c3c;
+    font-size: 14px;
+  }
+  .sync-moragh { flex: 1; text-align: left; color: #9b4d4d; padding-left: 12px; }
+  .sync-label { flex: 2; color: #ccc; font-size: 11px; padding-left: 16px; }
+</style>
+
+<h2>Zeitleiste — Thalassien &amp; Moragh</h2>
+<p class="subtitle">Jahr 0 = Erfindung des Uhrwerks. Keine Realwelt-Jahre.</p>
+
+<div class="legend">
+  <span><span class="dot" style="background:#b8860b"></span> Thalassien</span>
+  <span><span class="dot" style="background:#9b4d4d"></span> Moragh</span>
+  <span><span class="dot" style="background:#e74c3c; box-shadow: 0 0 6px rgba(231,76,60,0.5)"></span> Portal-Durchgang</span>
+  <span><span style="border-top: 2px dashed #e74c3c; width: 24px; height: 0; margin: 5px 0;"></span> Synchron</span>
+</div>
+
+<div class="tl-container">
+
+  <!-- ========== THALASSIEN ========== -->
+  <div class="tl-col thal">
+    <h3>Thalassien</h3>
+    <div class="sub">Jahr 0 = Erfindung des Uhrwerks</div>
+    <div class="tl-line">
+
+      <div class="tl-event era portal">
+        <div class="tl-time">~Jahr -79.449</div>
+        <div class="ev-title" style="color:#e8c170;">Ankunft der Fluechtlinge aus Moragh</div>
+        <div class="ev-detail">Ohne Technologie, ohne Magie. Beginn der menschlichen Geschichte in Thalassien.</div>
+      </div>
+
+      <div class="tl-gap">~79.200 Jahre — keine Aufzeichnungen<br>Evolution, Sprachdrift, Resonanz entsteht</div>
+
+      <div class="tl-event era">
+        <div class="tl-time">~Jahr -249</div>
+        <div class="ev-title">Gruendung von Vael</div>
+        <div class="ev-detail">Offiziell. Der Steinkreis ist aelter — niemand weiss woher.</div>
+      </div>
+
+      <div class="tl-event era">
+        <div class="tl-time">Jahr 0</div>
+        <div class="ev-title" style="color:#b8860b; font-size: 14px;">Erfindung des Uhrwerks</div>
+        <div class="ev-detail">Beginn der Thalassischen Zeitrechnung.</div>
+      </div>
+
+      <div class="tl-gap">~154 Jahre</div>
+
+      <div class="tl-event era portal">
+        <div class="tl-time">Jahr 154</div>
+        <div class="ev-title" style="color:#e8c170;">Das Grosse Feuer von Vael</div>
+        <div class="ev-detail">Varen oeffnet das Tor, schickt 3 Feuer-Schemen. Die Vier von 154: Elke, Johann, Kaspar, Lene. Kaspar + Johann sterben. <strong>Elke geht durch &rarr; Moragh.</strong> Lene ueberlebt allein, schreibt das Manuskript.</div>
+      </div>
+
+      <div class="tl-gap">~331 Jahre — Vael baut wieder auf</div>
+
+      <div class="tl-event portal">
+        <div class="tl-time">~Jahr 485</div>
+        <div class="ev-title" style="color:#e8c170;">Haron Dahl kommt durch</div>
+        <div class="ev-detail">Varens Agent. Jung, Moragh-Mann. Baut Werft, lebt ganzes Leben in Vael. Stirbt an Alter + Schwerkraft.</div>
+      </div>
+
+      <div class="tl-event portal">
+        <div class="tl-time">~Jahr 500-540</div>
+        <div class="ev-title" style="color:#e8c170;">Weitere Agenten kommen durch</div>
+        <div class="ev-detail">Uhrmacher-Fremder (Koeder Vesper), Artikel-Verfasser (Koeder Alphina), Platten-Faelscher (Koeder Sorel). Fuer Varen Wochen — fuer sie Jahrzehnte.</div>
+      </div>
+
+      <div class="tl-event book-marker era portal">
+        <div class="tl-time" style="font-size:13px; color:#b8860b;">JAHR ~551 — BUCH 1: DER RISS</div>
+        <div class="ev-title">Die Vier kommen nach Vael</div>
+        <div class="ev-detail">Alphina, Sorel, Vesper, Maren — jeder einem Koeder folgend.</div>
+      </div>
+
+      <div class="tl-event">
+        <div class="tl-time">Jahr ~551</div>
+        <div class="ev-title">Handlung Buch 1 — Akt I-IV</div>
+        <div class="ev-detail">Ankunft, Zusammenfinden, Eskalation, Das Tor.</div>
+      </div>
+
+      <div class="tl-event portal">
+        <div class="tl-time">Jahr ~551 — Ende Buch 1</div>
+        <div class="ev-title" style="color:#e8c170;">Portal-Durchgang &rarr; Moragh</div>
+        <div class="ev-detail">4 + Runa gehen durch. 4:33 offen. Sorel stirbt. Tor schliesst sich. Vael beginnt zu heilen.</div>
+      </div>
+
+      <div class="tl-gap">~90 Jahre — Nebel lichtet, Grauwe fliesst vorwaerts, Industrialisierung</div>
+
+      <div class="tl-event portal">
+        <div class="tl-time">~Jahr 641</div>
+        <div class="ev-title" style="color:#e8c170;">Maren kehrt zurueck — allein</div>
+        <div class="ev-detail">Oeffnet Portal von Moragh-Seite. Gestrandet — zu wenig Resonanz allein fuer Rueckweg. Absichtlich.</div>
+      </div>
+
+      <div class="tl-gap">~2.130 Jahre</div>
+
+      <div class="tl-event portal era">
+        <div class="tl-time">~Jahr 2.771</div>
+        <div class="ev-title" style="color:#e8c170;">BUCH 3: DIE QUELLE</div>
+        <div class="ev-detail">Portal oeffnet sich erneut. Wissenschaftler verstehen das Tor. Vael = Grossstadt. Alphina stirbt.</div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ========== MORAGH ========== -->
+  <div class="tl-col moragh">
+    <h3>Moragh</h3>
+    <div class="sub">Eigene Zeitrechnung. 1 M-Jahr = 400 Thal.-Jahre</div>
+    <div class="tl-line">
+
+      <div class="tl-event era portal">
+        <div class="tl-time">~200 M-J. v.Z.</div>
+        <div class="ev-title" style="color:#e8c170;">Fluechtlinge gehen nach Thalassien</div>
+        <div class="ev-detail">Kriegsfluechtlinge. Portal-Durchgang. In Moragh noch in Erinnerung — in Thalassien vorgeschichtlich.</div>
+      </div>
+
+      <div class="tl-gap">~195 M-Jahre — Staedte, Quellen, Zivilisation</div>
+
+      <div class="tl-event">
+        <div class="tl-time">~5 M-J. v.Z.</div>
+        <div class="ev-title">Varens Leylinien-Experiment</div>
+        <div class="ev-detail">Versuch Quellen zu koppeln. 3 Reservoir-Quellen kollabieren. Staedte verdorren. Niemand weiss dass Varen schuld ist.</div>
+      </div>
+
+      <div class="tl-event era">
+        <div class="tl-time">~4 bis ~0 M-J. v.Z.</div>
+        <div class="ev-title">Der Krieg beginnt (4 M-Jahre)</div>
+        <div class="ev-detail">Gilden vs. Thar vs. Binder. Kampf um verbleibende Quellen. = ~1.600 Thalassien-Jahre.</div>
+      </div>
+
+      <div class="tl-event portal">
+        <div class="tl-time">~1 M-J. v.Z.</div>
+        <div class="ev-title" style="color:#e8c170;">Varen oeffnet das Tor (= Thal. Jahr 154)</div>
+        <div class="ev-detail">Schickt 3 Feuer-Schemen. Elke kommt an. 6 Monate Beziehung Elke+Varen. Trennung.</div>
+      </div>
+
+      <div class="tl-event portal">
+        <div class="tl-time">~2 M-Monate v.Z.</div>
+        <div class="ev-title" style="color:#e8c170;">Agenten werden nach Thalassien geschickt</div>
+        <div class="ev-detail">Haron Dahl u.a. Fuer Varen: Wochen Vorbereitung. Fuer die Agenten: ganze Leben in Thalassien.</div>
+      </div>
+
+      <div class="tl-event book-marker era portal">
+        <div class="tl-time" style="font-size:13px; color:#9b4d4d;">MONAT 0 — BUCH 1 ENDE / BUCH 2</div>
+        <div class="ev-title" style="color:#e8c170;">Die Vier + Runa kommen an</div>
+        <div class="ev-detail">Sorel stirbt in der ersten Stunde (Varens Bindungsmagie). Elke findet die Ueberlebenden. Fuehrt sie.</div>
+      </div>
+
+      <div class="tl-event">
+        <div class="tl-time">Monat 1-3</div>
+        <div class="ev-title">Handlung Buch 2 — Das Auge</div>
+        <div class="ev-detail">Alphina trauert, Macht waechst. Runa = Gegengewicht. Fraktionen kaempfen um Resonanz-Begabte. Vesper + Maren: Dom/Sub.</div>
+      </div>
+
+      <div class="tl-event portal">
+        <div class="tl-time">~Monat 3</div>
+        <div class="ev-title" style="color:#e8c170;">Maren oeffnet Portal &rarr; Thalassien</div>
+        <div class="ev-detail">Vesper bleibt bei Nyr und der Thar. Maren geht — absichtlich, allein, gestrandet.</div>
+      </div>
+
+      <div class="tl-gap">~5 M-Jahre — Krieg geht weiter. Alphina, Vesper, Runa altern.</div>
+
+      <div class="tl-event portal era">
+        <div class="tl-time">~M-Jahr 5,5</div>
+        <div class="ev-title" style="color:#e8c170;">BUCH 3: DIE QUELLE</div>
+        <div class="ev-detail">Portal oeffnet erneut. Thalassien-Wissenschaftler kommen. "Sonne" = Schwarzes Loch. Alphina stirbt. Die Quelle bleibt offen.</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<!-- Portal Sync Table -->
+<div style="margin-top: 24px; padding: 16px; background: rgba(231,76,60,0.06); border: 1px solid rgba(231,76,60,0.15); border-radius: 8px;">
+  <h3 style="color: #e74c3c; margin: 0 0 12px 0; font-size: 14px;">Portal-Verbindungen — synchrone Momente</h3>
+
+  <div class="sync-row" style="font-weight:600; color:#999; font-size:10px; text-transform:uppercase; letter-spacing:1px;">
+    <div class="sync-thal">Thalassien</div>
+    <div style="width:60px;"></div>
+    <div class="sync-moragh">Moragh</div>
+    <div class="sync-label">Ereignis</div>
+  </div>
+
+  <div class="sync-row">
+    <div class="sync-thal">Jahr -79.449</div>
+    <div class="sync-bridge"></div>
+    <div class="sync-moragh">-200 M-J.</div>
+    <div class="sync-label">Flucht nach Thalassien</div>
+  </div>
+  <div class="sync-row">
+    <div class="sync-thal">Jahr 154</div>
+    <div class="sync-bridge"></div>
+    <div class="sync-moragh">~-1 M-J.</div>
+    <div class="sync-label">Grosses Feuer / Elke &rarr; Moragh</div>
+  </div>
+  <div class="sync-row">
+    <div class="sync-thal">Jahr ~485</div>
+    <div class="sync-bridge"></div>
+    <div class="sync-moragh">~-2 M-Mon.</div>
+    <div class="sync-label">Haron Dahl + Agenten &rarr; Thalassien</div>
+  </div>
+  <div class="sync-row" style="background: rgba(231,76,60,0.08);">
+    <div class="sync-thal" style="font-weight:700;">Jahr ~551</div>
+    <div class="sync-bridge"></div>
+    <div class="sync-moragh" style="font-weight:700;">Monat 0</div>
+    <div class="sync-label" style="font-weight:600;">Die Vier + Runa &rarr; Moragh (Buch 1 Ende)</div>
+  </div>
+  <div class="sync-row">
+    <div class="sync-thal">Jahr ~641</div>
+    <div class="sync-bridge"></div>
+    <div class="sync-moragh">~Monat 3</div>
+    <div class="sync-label">Maren &rarr; Thalassien (allein)</div>
+  </div>
+  <div class="sync-row">
+    <div class="sync-thal">Jahr ~2.771</div>
+    <div class="sync-bridge"></div>
+    <div class="sync-moragh">~M-J. 5,5</div>
+    <div class="sync-label">Wiedervereinigung (Buch 3)</div>
+  </div>
+</div>

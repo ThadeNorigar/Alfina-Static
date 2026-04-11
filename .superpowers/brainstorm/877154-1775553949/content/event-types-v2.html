@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zeitleiste — Event-Typen</title>
+  <link rel="stylesheet" href="/styles.css">
+  <style>
+    :root {
+      --cream: #f5f0e8; --ink: #1e1c19; --muted: #6b6259;
+      --accent: #6b3a3a; --deep: #0f0e0c; --smoke: #8a8279;
+      --paper: #f8f4ee; --paper-edge: #e8e0d4;
+      --thal: #b8860b; --moragh: #6b3a3a;
+      --c-portal: #8b4513; --c-begegnung: #4a6a7a; --c-erkenntnis: #6a5080;
+      --c-erotik: #8b3a5a; --c-schluessel: #b8860b; --c-tod: #6b6259;
+      --c-tschechow: #5a7a5a; --c-hintergrund: #555;
+    }
+    body {
+      background: var(--deep); display: flex; justify-content: center;
+      padding: 2rem 1rem; min-height: 100vh;
+    }
+    nav { display: none; }
+    .wrap { width: 100%; max-width: 860px; }
+
+    .page-title {
+      text-align: center; padding: 1rem 0 0.3rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.7rem;
+      letter-spacing: 0.4em; text-transform: uppercase; color: var(--smoke);
+    }
+    .page-subtitle {
+      text-align: center; padding: 0 0 1.5rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.85rem;
+      color: var(--smoke); letter-spacing: 0.05em;
+    }
+
+    /* Filter bar */
+    .filter-bar {
+      display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap;
+      padding: 0 0 1.5rem;
+    }
+    .filter-btn {
+      display: flex; align-items: center; gap: 0.35rem;
+      padding: 0.25rem 0.6rem; border-radius: 2px;
+      font-family: 'Inter', sans-serif; font-size: 0.6rem;
+      letter-spacing: 0.03em; cursor: pointer; user-select: none;
+      border: 1px solid rgba(255,255,255,0.06);
+      background: rgba(255,255,255,0.03);
+      color: var(--smoke); transition: all 0.2s;
+    }
+    .filter-btn:hover { background: rgba(255,255,255,0.06); }
+    .filter-btn.active { border-color: rgba(255,255,255,0.15); background: rgba(255,255,255,0.06); }
+    .filter-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+
+    /* Timeline card */
+    .tl-card {
+      background: var(--paper);
+      border-radius: 2px 6px 6px 2px;
+      box-shadow: 0 0 0 1px var(--paper-edge), 0 12px 40px rgba(0,0,0,0.3);
+      margin-bottom: 1.5rem; overflow: hidden; position: relative;
+    }
+    .tl-card::before {
+      content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+      background: linear-gradient(180deg, var(--paper-edge) 0%, #c8bfb0 50%, var(--paper-edge) 100%);
+    }
+
+    .tl-header {
+      padding: 1.2rem 2rem;
+      border-bottom: 1px solid rgba(107,58,58,0.06);
+    }
+    .tl-header-num {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.65rem;
+      letter-spacing: 0.35em; text-transform: uppercase; color: var(--smoke);
+    }
+    .tl-header-title {
+      font-family: 'Cormorant Garamond', serif; font-size: 1.3rem;
+      font-weight: 400; letter-spacing: 0.08em; color: var(--ink);
+    }
+
+    /* Timeline entries */
+    .tl-body { padding: 1rem 2rem 1.5rem; }
+
+    .tl-line {
+      position: relative;
+      padding-left: 2rem;
+    }
+    .tl-line::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 0.5rem; bottom: 0.5rem;
+      width: 1px;
+      background: linear-gradient(180deg, var(--accent), transparent);
+    }
+
+    .ev {
+      position: relative;
+      margin-bottom: 1.5rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid rgba(107,58,58,0.04);
+    }
+    .ev:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+
+    .ev::before {
+      content: '';
+      position: absolute;
+      left: -2.15rem; top: 0.45rem;
+      width: 5px; height: 5px;
+      border-radius: 50%;
+      background: var(--accent);
+    }
+
+    /* Type-specific dot colors */
+    .ev.t-portal::before { background: var(--c-portal); width: 7px; height: 7px; left: -2.25rem; top: 0.35rem; }
+    .ev.t-begegnung::before { background: var(--c-begegnung); }
+    .ev.t-erkenntnis::before { background: var(--c-erkenntnis); }
+    .ev.t-erotik::before { background: var(--c-erotik); }
+    .ev.t-schluessel::before { background: var(--c-schluessel); }
+    .ev.t-tod::before { background: var(--c-tod); }
+    .ev.t-tschechow::before { background: var(--c-tschechow); }
+    .ev.t-hintergrund::before { background: var(--c-hintergrund); }
+    .ev.t-hintergrund { opacity: 0.6; }
+
+    .ev-time {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.7rem; font-weight: 300;
+      color: var(--smoke); letter-spacing: 0.05em;
+      margin-bottom: 0.15rem;
+    }
+    .ev-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1rem; font-weight: 500;
+      color: var(--ink); line-height: 1.4;
+    }
+    .ev-detail {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.78rem; font-weight: 300;
+      color: var(--muted); line-height: 1.7;
+      margin-top: 0.2rem;
+    }
+
+    .ev-tags {
+      display: flex; gap: 0.35rem; margin-top: 0.4rem; flex-wrap: wrap;
+    }
+    .tag {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.55rem; font-weight: 400;
+      padding: 0.12rem 0.45rem; border-radius: 2px;
+      letter-spacing: 0.04em; text-transform: uppercase;
+    }
+    .tag-portal     { background: rgba(139,69,19,0.08); color: var(--c-portal); }
+    .tag-begegnung  { background: rgba(74,106,122,0.08); color: var(--c-begegnung); }
+    .tag-erkenntnis { background: rgba(106,80,128,0.08); color: var(--c-erkenntnis); }
+    .tag-erotik     { background: rgba(139,58,90,0.08); color: var(--c-erotik); }
+    .tag-schluessel { background: rgba(184,134,11,0.08); color: var(--c-schluessel); }
+    .tag-tod        { background: rgba(107,98,89,0.08); color: var(--c-tod); }
+    .tag-tschechow  { background: rgba(90,122,90,0.08); color: var(--c-tschechow); }
+    .tag-hintergrund{ background: rgba(85,85,85,0.06); color: var(--c-hintergrund); }
+
+    .pov-badge {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.55rem; font-weight: 400;
+      padding: 0.1rem 0.35rem; border-radius: 2px;
+      background: rgba(107,58,58,0.04); color: var(--smoke);
+      margin-left: 0.4rem; letter-spacing: 0.03em;
+    }
+
+    /* Gap / time skip */
+    .tl-gap {
+      position: relative;
+      text-align: center;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.78rem; font-style: italic;
+      color: var(--smoke); opacity: 0.5;
+      padding: 0.6rem 0;
+      margin-bottom: 1.5rem;
+    }
+    .tl-gap::before {
+      content: '';
+      position: absolute;
+      left: -2rem; top: 0; bottom: 0;
+      width: 1px;
+      border-left: 1px dashed rgba(107,58,58,0.15);
+    }
+
+    /* Sync bridge */
+    .sync-section {
+      background: var(--paper);
+      border-radius: 2px 6px 6px 2px;
+      box-shadow: 0 0 0 1px var(--paper-edge), 0 12px 40px rgba(0,0,0,0.3);
+      padding: 1.2rem 2rem; position: relative;
+    }
+    .sync-section::before {
+      content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+      background: linear-gradient(180deg, var(--c-portal) 0%, var(--paper-edge) 100%);
+    }
+    .sync-title {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.65rem;
+      letter-spacing: 0.35em; text-transform: uppercase; color: var(--c-portal);
+      margin-bottom: 0.8rem;
+    }
+    .sync-row {
+      display: grid; grid-template-columns: 1fr 30px 1fr;
+      align-items: center; gap: 0.5rem;
+      padding: 0.35rem 0;
+      border-bottom: 1px solid rgba(107,58,58,0.04);
+      font-family: 'Inter', sans-serif; font-size: 0.72rem; font-weight: 300;
+    }
+    .sync-row:last-child { border-bottom: none; }
+    .sync-thal { text-align: right; color: var(--thal); }
+    .sync-moragh { text-align: left; color: var(--moragh); }
+    .sync-bridge {
+      text-align: center; color: var(--c-portal);
+      font-family: 'Cormorant Garamond', serif; font-size: 0.9rem;
+    }
+    .sync-label {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.82rem;
+      color: var(--ink); font-style: italic; padding-left: 0.8rem;
+    }
+
+    @media (max-width: 600px) {
+      .tl-body { padding: 1rem 1.2rem 1.5rem; }
+      .tl-header { padding: 1rem 1.2rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="grain"></div>
+  <div class="wrap">
+    <div class="page-title">Zeitleiste</div>
+    <div class="page-subtitle">Thalassien &middot; Moragh &middot; Jahr 0 = Erfindung des Uhrwerks</div>
+
+    <div class="filter-bar">
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-portal)"></span> Portal</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-begegnung)"></span> Begegnung</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-erkenntnis)"></span> Erkenntnis</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-erotik)"></span> Erotik</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-schluessel)"></span> Schluessel</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-tod)"></span> Tod</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-tschechow)"></span> Tschechow</div>
+      <div class="filter-btn active"><span class="filter-dot" style="background:var(--c-hintergrund)"></span> Hintergrund</div>
+    </div>
+
+    <!-- THALASSIEN -->
+    <div class="tl-card">
+      <div class="tl-header">
+        <div class="tl-header-num">Thalassien</div>
+        <div class="tl-header-title">Buch I &mdash; Der Riss &mdash; Jahr ~551</div>
+      </div>
+      <div class="tl-body">
+        <div class="tl-line">
+
+          <div class="ev t-begegnung">
+            <div class="ev-time">Kap. 01 <span class="pov-badge">Alphina</span></div>
+            <div class="ev-title">Alphina kommt in Vael an</div>
+            <div class="ev-detail">Folgt dem Farn-Artikel. Erste Nacht. Spuert die Pflanzen im Botanischen Garten.</div>
+            <div class="ev-tags">
+              <span class="tag tag-begegnung">Erste Begegnung: Vael</span>
+            </div>
+          </div>
+
+          <div class="ev t-schluessel">
+            <div class="ev-time">Kap. 02 <span class="pov-badge">Sorel</span></div>
+            <div class="ev-title">Sorel findet die Glasplatte mit seinem Gesicht</div>
+            <div class="ev-detail">Im Sammlernachlass. Die Dunkelkammer im Lichthaus. Das Bild ist schaerfer als moeglich.</div>
+            <div class="ev-tags">
+              <span class="tag tag-schluessel">Schluesselereignis</span>
+              <span class="tag tag-tschechow">Tschechow: Glasplatte</span>
+            </div>
+          </div>
+
+          <div class="ev t-begegnung">
+            <div class="ev-time">Kap. 05 <span class="pov-badge">Alphina</span></div>
+            <div class="ev-title">Alphina und Sorel: erste Beruehrung</div>
+            <div class="ev-detail">Im Botanischen Garten. Koerperliche Naehe, Spannung.</div>
+            <div class="ev-tags">
+              <span class="tag tag-begegnung">Erste Begegnung: Sorel</span>
+              <span class="tag tag-erotik">Erotik: Tension</span>
+            </div>
+          </div>
+
+          <div class="ev t-erkenntnis">
+            <div class="ev-time">Kap. 08 <span class="pov-badge">Vesper</span></div>
+            <div class="ev-title">Vesper erkennt: die Standuhr verliert exakt 4:33</div>
+            <div class="ev-detail">Nicht zufaellig. Ein Muster. Vesper beginnt zu messen.</div>
+            <div class="ev-tags">
+              <span class="tag tag-erkenntnis">Erkenntnis: 4:33-Muster</span>
+              <span class="tag tag-tschechow">Tschechow: 4:33</span>
+            </div>
+          </div>
+
+          <div class="ev t-hintergrund">
+            <div class="ev-time">Kap. 08</div>
+            <div class="ev-title">Vaeler Fischerboote kehren mit leerem Fang zurueck</div>
+            <div class="ev-detail">Drittes Mal diese Woche. Der Vaeler Atem wird dichter. Weltatmosphaere.</div>
+            <div class="ev-tags">
+              <span class="tag tag-hintergrund">Hintergrund</span>
+            </div>
+          </div>
+
+          <div class="ev t-erotik">
+            <div class="ev-time">Kap. 12 <span class="pov-badge">Alphina</span></div>
+            <div class="ev-title">Alphina und Sorel: erste Nacht</div>
+            <div class="ev-detail">Alphina dominiert, Sorel hat Grenzen. Emotionaler Kern.</div>
+            <div class="ev-tags">
+              <span class="tag tag-erotik">Erotik: Explizit</span>
+            </div>
+          </div>
+
+          <div class="tl-gap">&middot; &middot; &middot;</div>
+
+          <div class="ev t-portal">
+            <div class="ev-time">Ende Buch 1 <span class="pov-badge">Alphina</span></div>
+            <div class="ev-title">Portal-Durchgang. Sorel stirbt.</div>
+            <div class="ev-detail">4:33 offen. Runa schluepft durch. Varens Bindungsmagie toetet Sorel in der ersten Stunde.</div>
+            <div class="ev-tags">
+              <span class="tag tag-portal">Portal &rarr; Moragh</span>
+              <span class="tag tag-tod">Tod: Sorel</span>
+              <span class="tag tag-schluessel">Schluesselereignis</span>
+              <span class="tag tag-erkenntnis">Erkenntnis: Die Falle</span>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- SYNC -->
+    <div class="sync-section" style="margin-bottom: 1.5rem;">
+      <div class="sync-title">Portal-Verbindungen</div>
+      <div class="sync-row">
+        <div class="sync-thal">Jahr -79.449</div>
+        <div class="sync-bridge">&harr;</div>
+        <div class="sync-moragh">-200 M-J.</div>
+        <div class="sync-label">Flucht nach Thalassien</div>
+      </div>
+      <div class="sync-row">
+        <div class="sync-thal">Jahr 154</div>
+        <div class="sync-bridge">&harr;</div>
+        <div class="sync-moragh">~-1 M-J.</div>
+        <div class="sync-label">Grosses Feuer / Elke geht durch</div>
+      </div>
+      <div class="sync-row">
+        <div class="sync-thal">Jahr ~551</div>
+        <div class="sync-bridge">&harr;</div>
+        <div class="sync-moragh">Monat 0</div>
+        <div class="sync-label">Die Vier + Runa gehen nach Moragh</div>
+      </div>
+      <div class="sync-row">
+        <div class="sync-thal">Jahr ~641</div>
+        <div class="sync-bridge">&harr;</div>
+        <div class="sync-moragh">~Monat 3</div>
+        <div class="sync-label">Maren kehrt zurueck</div>
+      </div>
+      <div class="sync-row">
+        <div class="sync-thal">Jahr ~2.771</div>
+        <div class="sync-bridge">&harr;</div>
+        <div class="sync-moragh">~M-J. 5,5</div>
+        <div class="sync-label">Wiedervereinigung</div>
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>

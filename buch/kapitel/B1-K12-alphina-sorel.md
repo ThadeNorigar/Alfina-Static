@@ -181,6 +181,10 @@ Dann sah er sie im Mondlicht.
 
 Dunkles Haar, der Mantel halb offen, die Hände locker an den Seiten. Sie war nicht zurückgewichen, als er hervorgetreten war. Sie hatte die Schultern nicht gehoben, die Knie nicht gebeugt, keine Bewegung nach hinten gemacht. Sie stand und wartete, dass er vollständig da war.
 
+Und dann kam das Bild. Nicht von den Platten an der Kellerwand — von weiter weg, von einem anderen Licht, dem flachen, körnigen Licht einer Druckpresse. Der *Vaeler Anzeiger*, ausgebreitet auf dem Tresen des Wirtshauses, vor wenigen Tagen erst, ein Artikel über den Botanischen Garten, den er nicht gelesen hatte. Aber das Bild hatte er gesehen, weil er gedruckte Bilder immer sah. Der Garten von oben, die Farnkolonie, ein Rahmen, den der Fotograf zu weit gefasst hatte. Und im Hintergrund, am Rand des Weges, eine Frau, stehend, dunkles Haar, Farnwedel in der Hand, halb abgewandt. Er hatte sie damals nicht bewusst registriert. Sein Auge hatte sie abgelegt, an der Stelle, an der Augen Dinge ablegten, die keinen Namen trugen.
+
+Die Frau auf der Druckseite war die Frau auf Platte 14. Die Frau auf Platte 14 stand vor ihm.
+
 Seine Mutter war nachts allein durch die Holzviertel von Nachtholm gegangen und war nie angesprochen worden von jemandem, der es nicht gut meinte. Sorel hatte als Junge nie verstanden, warum. Jetzt sah er es zum zweiten Mal in seinem Leben.
 
 Sein Brustkorb ließ einen halben Zentimeter Luft raus, den er seit dem ersten *Hallo* festgehalten hatte.

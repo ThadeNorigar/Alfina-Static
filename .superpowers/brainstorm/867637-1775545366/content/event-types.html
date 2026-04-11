@@ -1,0 +1,202 @@
+<style>
+  .filter-bar {
+    display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;
+    margin: 16px 0 24px; padding: 12px;
+    background: rgba(255,255,255,0.03); border-radius: 8px;
+  }
+  .filter-btn {
+    display: flex; align-items: center; gap: 5px;
+    padding: 5px 12px; border-radius: 4px;
+    font-size: 12px; cursor: pointer;
+    border: 1px solid rgba(255,255,255,0.1);
+    background: rgba(255,255,255,0.05);
+    color: #ccc;
+    transition: all 0.2s;
+  }
+  .filter-btn:hover { background: rgba(255,255,255,0.1); }
+  .filter-btn.active { border-color: currentColor; background: rgba(255,255,255,0.08); }
+  .filter-btn .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+
+  .demo-timeline {
+    border-left: 2px solid rgba(184,134,11,0.4);
+    margin-left: 50px;
+    padding-left: 16px;
+    font-size: 13px;
+    color: #ddd;
+  }
+  .ev {
+    position: relative;
+    margin-bottom: 14px;
+    padding: 8px 12px;
+    border-radius: 6px;
+    background: rgba(255,255,255,0.02);
+    border-left: 3px solid transparent;
+  }
+  .ev::before {
+    content: '';
+    position: absolute;
+    left: -26px; top: 12px;
+    width: 10px; height: 10px;
+    border-radius: 50%;
+  }
+  .ev .time { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: #666; }
+  .ev .title { font-weight: 600; margin: 2px 0; }
+  .ev .detail { font-size: 11px; color: #888; line-height: 1.4; }
+  .ev .tags { display: flex; gap: 4px; margin-top: 4px; flex-wrap: wrap; }
+  .tag {
+    font-size: 9px; padding: 1px 6px; border-radius: 3px;
+    text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600;
+  }
+
+  /* Event type colors */
+  .ev.portal { border-left-color: #e74c3c; }
+  .ev.portal::before { background: #e74c3c; box-shadow: 0 0 6px rgba(231,76,60,0.5); }
+  .tag.portal { background: rgba(231,76,60,0.2); color: #e74c3c; }
+
+  .ev.begegnung { border-left-color: #3498db; }
+  .ev.begegnung::before { background: #3498db; }
+  .tag.begegnung { background: rgba(52,152,219,0.2); color: #3498db; }
+
+  .ev.erkenntnis { border-left-color: #9b59b6; }
+  .ev.erkenntnis::before { background: #9b59b6; }
+  .tag.erkenntnis { background: rgba(155,89,182,0.2); color: #9b59b6; }
+
+  .ev.erotik { border-left-color: #e91e63; }
+  .ev.erotik::before { background: #e91e63; }
+  .tag.erotik { background: rgba(233,30,99,0.2); color: #e91e63; }
+
+  .ev.schluessel { border-left-color: #b8860b; }
+  .ev.schluessel::before { background: #b8860b; }
+  .tag.schluessel { background: rgba(184,134,11,0.2); color: #b8860b; }
+
+  .ev.tod { border-left-color: #95a5a6; }
+  .ev.tod::before { background: #95a5a6; }
+  .tag.tod { background: rgba(149,165,166,0.2); color: #95a5a6; }
+
+  .ev.hintergrund { border-left-color: #555; opacity: 0.7; }
+  .ev.hintergrund::before { background: #555; }
+  .tag.hintergrund { background: rgba(255,255,255,0.08); color: #777; }
+
+  .ev.tschechow { border-left-color: #27ae60; }
+  .ev.tschechow::before { background: #27ae60; }
+  .tag.tschechow { background: rgba(39,174,96,0.2); color: #27ae60; }
+
+  .pov-badge {
+    font-size: 9px; padding: 1px 5px; border-radius: 3px;
+    font-weight: 600; margin-left: 6px;
+  }
+  .pov-alphina { background: rgba(184,134,11,0.15); color: #b8860b; }
+  .pov-sorel { background: rgba(100,100,140,0.2); color: #8888bb; }
+  .pov-vesper { background: rgba(107,58,58,0.2); color: #9b6b6b; }
+  .pov-maren { background: rgba(52,152,219,0.15); color: #5dade2; }
+  .pov-varen { background: rgba(120,50,50,0.25); color: #c0392b; }
+  .pov-elke { background: rgba(39,174,96,0.15); color: #27ae60; }
+
+  .section-note {
+    margin-top: 24px; padding: 14px;
+    background: rgba(255,255,255,0.04); border-radius: 6px;
+    font-size: 12px; color: #999; line-height: 1.6;
+  }
+</style>
+
+<h2>Event-Typen &amp; Filter</h2>
+<p class="subtitle">Wie sollen die verschiedenen Ereignis-Arten visuell unterschieden werden?</p>
+
+<!-- Filter bar -->
+<div class="filter-bar">
+  <div class="filter-btn active" style="color:#e74c3c;"><span class="dot" style="background:#e74c3c"></span> Portal</div>
+  <div class="filter-btn active" style="color:#3498db;"><span class="dot" style="background:#3498db"></span> Begegnung</div>
+  <div class="filter-btn active" style="color:#9b59b6;"><span class="dot" style="background:#9b59b6"></span> Erkenntnis</div>
+  <div class="filter-btn active" style="color:#e91e63;"><span class="dot" style="background:#e91e63"></span> Erotik</div>
+  <div class="filter-btn active" style="color:#b8860b;"><span class="dot" style="background:#b8860b"></span> Schluessel</div>
+  <div class="filter-btn active" style="color:#95a5a6;"><span class="dot" style="background:#95a5a6"></span> Tod</div>
+  <div class="filter-btn active" style="color:#27ae60;"><span class="dot" style="background:#27ae60"></span> Tschechow</div>
+  <div class="filter-btn active" style="color:#777;"><span class="dot" style="background:#555"></span> Hintergrund</div>
+</div>
+
+<!-- Demo: How events look -->
+<h3 style="color:#b8860b; font-size:14px; margin-bottom:12px;">Beispiel — Thalassien, Jahr ~551 (Buch 1)</h3>
+
+<div class="demo-timeline">
+
+  <div class="ev begegnung">
+    <div class="time">Kap. 01 <span class="pov-badge pov-alphina">Alphina</span></div>
+    <div class="title">Alphina kommt in Vael an</div>
+    <div class="detail">Folgt dem Farn-Artikel. Erste Nacht im Gasthof. Spuert die Pflanzen im Botanischen Garten.</div>
+    <div class="tags">
+      <span class="tag begegnung">Erste Begegnung: Vael</span>
+    </div>
+  </div>
+
+  <div class="ev schluessel begegnung">
+    <div class="time">Kap. 02 <span class="pov-badge pov-sorel">Sorel</span></div>
+    <div class="title">Sorel findet die Glasplatte mit seinem Gesicht</div>
+    <div class="detail">Im Sammlernachlass. Die Dunkelkammer im Lichthaus. Das Bild ist schaerfer als moeglich.</div>
+    <div class="tags">
+      <span class="tag schluessel">Schluesselereignis</span>
+      <span class="tag tschechow">Tschechow: Glasplatte</span>
+    </div>
+  </div>
+
+  <div class="ev begegnung erotik">
+    <div class="time">Kap. 05 <span class="pov-badge pov-alphina">Alphina</span></div>
+    <div class="title">Alphina + Sorel: erste Beruehrung</div>
+    <div class="detail">Im Botanischen Garten. Koerperliche Naehe, Spannung. Noch nicht explizit.</div>
+    <div class="tags">
+      <span class="tag begegnung">Erste Begegnung: Sorel</span>
+      <span class="tag erotik">Erotik: Tension</span>
+    </div>
+  </div>
+
+  <div class="ev erkenntnis">
+    <div class="time">Kap. 08 <span class="pov-badge pov-vesper">Vesper</span></div>
+    <div class="title">Vesper erkennt: die Standuhr verliert exakt 4:33</div>
+    <div class="detail">Nicht zufaellig. Ein Muster. Vesper beginnt zu messen.</div>
+    <div class="tags">
+      <span class="tag erkenntnis">Erkenntnis: 4:33-Muster</span>
+      <span class="tag tschechow">Tschechow: 4:33</span>
+    </div>
+  </div>
+
+  <div class="ev hintergrund">
+    <div class="time">Kap. 08 <span style="font-size:9px; color:#666;">(Hintergrund)</span></div>
+    <div class="title">Vaeler Fischerboote kehren mit leerem Fang zurueck</div>
+    <div class="detail">Drittes Mal diese Woche. Der Vaeler Atem wird dichter. Nicht handlungsrelevant — Weltatmosphaere.</div>
+    <div class="tags">
+      <span class="tag hintergrund">Hintergrund</span>
+    </div>
+  </div>
+
+  <div class="ev erotik">
+    <div class="time">Kap. 12 <span class="pov-badge pov-alphina">Alphina</span></div>
+    <div class="title">Alphina + Sorel: erste Nacht</div>
+    <div class="detail">Explizite Szene. Alphina dominiert, Sorel hat Grenzen. Emotionaler Kern.</div>
+    <div class="tags">
+      <span class="tag erotik">Erotik: Explizit</span>
+    </div>
+  </div>
+
+  <div class="ev portal tod schluessel">
+    <div class="time">Ende Buch 1 <span class="pov-badge pov-alphina">Alphina</span></div>
+    <div class="title">Portal-Durchgang. Sorel stirbt.</div>
+    <div class="detail">4:33 offen. Runa schluepft durch. Varens Bindungsmagie toetet Sorel in der ersten Stunde.</div>
+    <div class="tags">
+      <span class="tag portal">Portal &rarr; Moragh</span>
+      <span class="tag tod">Tod: Sorel</span>
+      <span class="tag schluessel">Schluesselereignis</span>
+      <span class="tag erkenntnis">Erkenntnis: Die Falle</span>
+    </div>
+  </div>
+
+</div>
+
+<div class="section-note">
+  <strong>Das System:</strong><br>
+  &bull; Jedes Event hat einen <strong>Primaertyp</strong> (bestimmt Dot-Farbe + linken Rand)<br>
+  &bull; Zusaetzliche Typen erscheinen als <strong>Tags</strong> unter dem Event (ein Event kann mehrere haben)<br>
+  &bull; <strong>Filter-Leiste</strong> oben: ein/ausblenden nach Typ<br>
+  &bull; <strong>POV-Badge</strong> zeigt wer die Szene erlebt (figuren-farbig)<br>
+  &bull; <strong>Hintergrund-Events</strong> sind gedimmt (opacity), klar als nicht-handlungsrelevant markiert<br>
+  &bull; <strong>Tschechow-Tags</strong> markieren Waffen die spaeter feuern — Regelwerk-Funktion<br>
+  &bull; Erotik-Tags unterscheiden: <em>Tension</em> / <em>Explizit</em> / <em>Aftermath</em>
+</div>

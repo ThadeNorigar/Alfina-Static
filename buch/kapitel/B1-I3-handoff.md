@@ -1,26 +1,32 @@
 # Handoff — B1-I3
 
-**Von Phase:** entwurf → **Zu Phase:** ausarbeitung
+**Von Phase:** ausarbeitung → **Zu Phase:** lektorat-fix
 **Erstellt:** 2026-04-11
-**Status beim Handoff:** entwurf-ok
+**Status beim Handoff:** lektorat
 
 ## Modell-Empfehlung
-claude --model opus
+claude --model sonnet
+(oder claude --model haiku für Mikro-Fixes)
 
 ## Aufruf für nächste Session
-/ausarbeitung B1-I3
+/lektorat-fix B1-I3
 
-## Kontext für nächste Session
+## Kontext
+- Datei: buch/kapitel/B1-I3-elke.md
 - POV: Elke van der Holt (3. Person nah, Präteritum)
-- Wortziel: 1.600–2.000 W
-- Timeline-Anker: Frostmond, 154 TZ / 3634 MZ — wenige Wochen nach I2
-- Freigegebener Entwurf: buch/kapitel/B1-I3-entwurf.md
-- Ton-Referenz: buch/kapitel/I1-elke.md (oder nächstgelegenes Elke-Kapitel)
+- Wortzahl: 1631W
+- Phase: Lektorat-Fixes (Autor-getrieben, kleine Edits)
+- Kein neuer Stil-Check, kein Council. Nur was der Autor anfasst.
 
 ## Anweisungen
-- Prosa aus dem Entwurf ausarbeiten, Plot nicht verändern
-- Jeder Dialog-Info-Punkt aus dem Entwurf muss in der Prosa landen
-- Schwarzes-Loch-Wahrnehmung: wie jemand aus 1600 — kein Vokabular, nur Phänomenologie
-- Keine Plot-Änderung ohne Rückkehr zu /entwurf
-- Elke/Varen-Begegnung wird NICHT gezeigt — Entwurf endet mit Lenes Szene
-- **Canon:** Quelle ist indifferent (pulsiert gleichmäßig, reagiert nicht auf Menschen)
+- Edit-Tool bevorzugt vor Write-Tool
+- Kein ungefragtes Umformulieren
+- Bei größeren Wünschen: Hinweis auf Rückstufung zu /ausarbeitung
+- Status final NUR auf explizite Autor-Freigabe
+
+## Council-Ergebnisse (Zusammenfassung)
+- Stil-Check: BESTANDEN (nach Fixes)
+- Stilkritiker: BESTANDEN
+- Dark-Romance-Leserin: Funktioniert
+- Romantasy-Leserin: Stark
+- Fixes eingearbeitet: Haron entfernt, Schwarzes Loch gestrafft, Aftermath-Beats ergänzt, Schemen-an-Boot entfernt

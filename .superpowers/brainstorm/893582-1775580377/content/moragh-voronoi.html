@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Moragh — Weltkarte</title>
+<script src="https://cdn.jsdelivr.net/npm/d3-delaunay@6"></script>
+<style>
+  body { margin: 0; background: #1a1714; overflow: hidden; font-family: 'Inter', Georgia, serif; }
+  #map-container { width: 100vw; height: 100vh; cursor: grab; }
+  #map-container:active { cursor: grabbing; }
+  svg { width: 100%; height: 100%; }
+  .legend {
+    position: fixed; top: 12px; left: 12px; background: rgba(26,23,20,0.94);
+    border: 1px solid rgba(255,255,255,0.1); border-radius: 6px;
+    padding: 12px 16px; color: #c8bfb0; font-size: 11px; line-height: 1.9; z-index: 10;
+    max-width: 200px;
+  }
+  .legend h3 { margin: 0 0 6px; font-size: 14px; color: #f0e6d8; font-weight: 400; letter-spacing: 0.15em; }
+  .legend-item { display: flex; align-items: center; gap: 8px; }
+  .legend-rect { width: 14px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+  .legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+  .controls { position: fixed; bottom: 12px; right: 12px; display: flex; gap: 6px; z-index: 10; }
+  .ctrl-btn { width: 32px; height: 32px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.1); background: rgba(26,23,20,0.9); color: #c8bfb0; font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center; }
+  .ctrl-btn:hover { background: rgba(60,50,40,0.9); }
+  .info { position: fixed; bottom: 12px; left: 12px; color: #6b6259; font-size: 10px; z-index: 10; }
+</style>
+</head>
+<body>
+
+<div class="legend">
+  <h3>MORAGH</h3>
+  <div class="legend-item"><div class="legend-rect" style="background:#8b5e3c"></div> Konglomerat der Thar</div>
+  <div class="legend-item"><div class="legend-rect" style="background:#6b4a6b"></div> Velmar</div>
+  <div class="legend-item"><div class="legend-rect" style="background:#a08030"></div> Bund von Orath</div>
+  <div class="legend-item"><div class="legend-rect" style="background:#5a7a5a"></div> Freie Städte</div>
+  <div class="legend-item"><div class="legend-rect" style="background:#3a3a3a"></div> Tote Zonen</div>
+  <hr style="border:none;border-top:1px solid rgba(255,255,255,0.08);margin:6px 0;">
+  <div class="legend-item"><div class="legend-dot" style="background:#f0e6d8;width:11px;height:11px;"></div> Riesig (80k-200k)</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#c8bfb0;width:8px;height:8px;"></div> Groß (25k-80k)</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#8a8279;width:5px;height:5px;"></div> Mittel (5k-25k)</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#e74c3c;"></div> Tote Quelle</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#b8860b;border:2px solid #e74c3c;width:8px;height:8px;"></div> Steinplatz (Portal)</div>
+</div>
+
+<div class="controls">
+  <div class="ctrl-btn" onclick="zoomIn()">+</div>
+  <div class="ctrl-btn" onclick="zoomOut()">−</div>
+  <div class="ctrl-btn" onclick="resetView()">⌂</div>
+</div>
+<div class="info">Scrollen · Ziehen · +/−</div>
+
+<div id="map-container">
+<svg id="map" viewBox="0 0 1600 1100"></svg>
+</div>
+
+<script>
+// Continent outline — realistic coastline with bays, peninsulas, inlets
+const coastline = [
+  // Nordwest — Fjorde und Klippen
+  [340,155],[355,140],[380,128],[405,118],[415,105],[430,98],[460,102],[475,95],
+  [495,100],[510,92],[535,98],[548,88],[570,92],[585,85],[610,90],[625,82],
+  // Nord — Halbinsel ragt raus
+  [650,78],[670,72],[695,75],[710,68],[730,72],[745,65],[760,70],[780,75],
+  [795,68],[815,72],[830,80],[840,72],[855,78],[870,85],
+  // Nordost-Bucht (einschnitt)
+  [890,92],[905,100],[915,112],[908,125],[900,135],[910,142],[925,138],
+  [940,130],[960,125],[980,118],[1000,115],[1020,112],[1040,118],
+  // Ost-Halbinsel
+  [1060,125],[1080,130],[1095,138],[1110,128],[1130,135],[1150,145],
+  [1165,158],[1180,168],[1195,182],[1210,200],[1225,218],
+  // Ost-Küste (Klippen, zerklüftet)
+  [1238,240],[1245,260],[1255,280],[1262,305],[1270,328],[1278,350],
+  [1285,375],[1282,395],[1290,418],[1295,445],[1290,470],
+  // Ost-Bucht
+  [1282,488],[1272,502],[1265,515],[1270,530],[1280,545],[1288,565],
+  [1282,585],[1270,605],[1258,625],[1248,642],[1235,658],
+  // Südost — breite Küstenebene
+  [1218,672],[1200,688],[1185,698],[1168,710],[1148,722],[1130,732],
+  [1108,740],[1085,748],[1060,755],[1040,762],[1015,768],
+  // Süd — große Bucht
+  [990,775],[968,780],[945,778],[928,785],[910,792],[888,798],
+  [865,802],[840,808],[818,812],[795,808],[775,815],[752,818],
+  // Süd-Halbinsel
+  [730,822],[712,828],[695,835],[680,842],[665,838],[652,845],[638,840],
+  [622,835],[608,828],[598,820],
+  // Südwest — Inseln vorgelagert, zerklüftete Küste
+  [582,815],[565,808],[548,800],[535,792],[520,785],[505,778],
+  [492,768],[478,755],[468,742],[458,728],[448,712],[440,698],
+  // West-Fjord (tief eingeschnitten)
+  [432,682],[420,670],[410,655],[398,645],[388,635],[380,620],
+  [375,605],[378,588],[385,572],[380,558],[372,542],[365,525],
+  [360,505],[355,488],[352,468],
+  // Nordwest — Klippen hoch
+  [348,448],[345,428],[348,408],[352,388],[355,368],[360,348],
+  [368,328],[372,308],[378,288],[385,268],[390,248],
+  // Zurück zum Start — kleine Bucht
+  [388,232],[382,218],[375,202],[368,188],[358,175],[348,165],[340,155]
+];
+
+// Faction colors
+const factionColors = {
+  thar:  { fill: '#3d2a1a', stroke: '#8b5e3c', light: '#6b4530' },
+  velmar:{ fill: '#2d1a2d', stroke: '#6b4a6b', light: '#4a2a4a' },
+  orath: { fill: '#2d2810', stroke: '#a08030', light: '#5a4a20' },
+  frei:  { fill: '#1a2a1a', stroke: '#5a7a5a', light: '#2a4a2a' },
+  tot:   { fill: '#1a1a1a', stroke: '#4a4a4a', light: '#2a2a2a' }
+};
+
+// City data: [x, y, name, size, faction]
+// size: 3=riesig, 2=groß, 1=mittel, 0=klein/winzig (for voronoi fill)
+const cities = [
+  // === THAR (east, contiguous) ===
+  [1120,380,"Thar-Kem",3,"thar"],[1170,500,"Draveth",3,"thar"],[1080,280,"Sulkara",3,"thar"],
+  [1200,330,"Neth-Kol",2,"thar"],[1070,460,"Harath",2,"thar"],[1220,440,"Veshan",2,"thar"],
+  [1140,590,"Tormund",2,"thar"],[1040,210,"Kalveth",2,"thar"],
+  [1100,340,"Drenn",1,"thar"],[1180,270,"Solvak",1,"thar"],[1248,375,"Keshara",1,"thar"],
+  [1060,545,"Tulmek",1,"thar"],[1210,580,"Vareth",1,"thar"],[1120,250,"Grennik",1,"thar"],
+  [1265,490,"Dulmara",1,"thar"],[1040,390,"Heskol",1,"thar"],[1170,640,"Raveth",1,"thar"],
+  [1090,670,"Tornesh",1,"thar"],[1220,235,"Kulmeth",1,"thar"],[1020,325,"Ashvan",1,"thar"],
+  [1150,460,"Drethik",1,"thar"],
+  // Thar fill points (small/tiny, no label)
+  [1130,300,null,0,"thar"],[1200,400,null,0,"thar"],[1250,310,null,0,"thar"],
+  [1180,550,null,0,"thar"],[1100,440,null,0,"thar"],[1060,600,null,0,"thar"],
+  [1230,550,null,0,"thar"],[1150,200,null,0,"thar"],[1050,260,null,0,"thar"],
+  [1190,650,null,0,"thar"],[1260,420,null,0,"thar"],[1090,520,null,0,"thar"],
+  [1030,450,null,0,"thar"],[1140,650,null,0,"thar"],[1200,180,null,0,"thar"],
+
+  // === VELMAR (südlich der toten Zonen, grenzt an Orath + Thar) ===
+  [900,540,"Velmar",3,"velmar"],
+  [935,510,"Eshkara",2,"velmar"],[870,575,"Dulveth",2,"velmar"],[930,570,"Kalmaren",2,"velmar"],
+  [880,525,"Reshken",1,"velmar"],[955,545,"Valmeth",1,"velmar"],[895,590,"Sulvaren",1,"velmar"],
+  [855,555,"Teshkol",1,"velmar"],[960,520,"Grenmar",1,"velmar"],[915,495,"Dulmen",1,"velmar"],
+  // Velmar fill
+  [885,560,null,0,"velmar"],[940,535,null,0,"velmar"],[865,540,null,0,"velmar"],
+  [950,565,null,0,"velmar"],[910,510,null,0,"velmar"],[850,585,null,0,"velmar"],
+
+  // === ORATH (west/central, patchwork) ===
+  [410,430,"Orath",3,"orath"],[550,305,"Kethmar",3,"orath"],[630,510,"Halvaren",3,"orath"],
+  [470,615,"Sulmen",3,"orath"],[940,330,"Dravaren",3,"orath"],
+  [390,345,"Teshvaren",2,"orath"],[510,415,"Kolmeth",2,"orath"],[450,525,"Narveth",2,"orath"],
+  [590,595,"Reshmar",2,"orath"],[350,495,"Dulkara",2,"orath"],[660,455,"Halvesh",2,"orath"],
+  [570,265,"Grenven",2,"orath"],[850,390,"Tormaren",2,"orath"],
+  [430,375,"Keshven",1,"orath"],[380,465,"Dulrath",1,"orath"],[490,335,"Varmen",1,"orath"],
+  [540,475,"Teshkal",1,"orath"],[610,345,"Reshven",1,"orath"],[470,465,"Kolvar",1,"orath"],
+  [330,415,"Narthek",1,"orath"],[560,555,"Halvek",1,"orath"],[690,495,"Grendul",1,"orath"],
+  [400,555,"Torshek",1,"orath"],[520,545,"Sulvar",1,"orath"],[650,395,"Dravek",1,"orath"],
+  [440,655,"Kethven",1,"orath"],[920,380,"Nalmeth",1,"orath"],[360,595,"Reshkal",1,"orath"],
+  [610,275,"Halvek-Kel",1,"orath"],[500,585,"Dulven",1,"orath"],[570,435,"Tormen",1,"orath"],
+  [710,365,"Varshek",1,"orath"],
+  // Orath-Städte ÖSTLICH der toten Zonen (Kontakt mit Thar)
+  [960,395,"Orath-Ost",1,"orath"],[900,355,"Kelvaren",1,"orath"],[935,450,"Dulmaren-Ost",1,"orath"],
+  // Orath fill — mit freien Lücken für Flickenteppich
+  [420,480,null,0,"orath"],[500,370,null,0,"orath"],[380,400,null,0,"orath"],
+  [560,320,null,0,"orath"],[620,450,null,0,"orath"],
+  [340,450,null,0,"orath"],[480,620,null,0,"orath"],
+  [690,440,null,0,"orath"],[370,340,null,0,"orath"],
+  // Orath fill östlich (Kontakt mit Thar)
+  [970,360,null,0,"orath"],[940,420,null,0,"orath"],[910,400,null,0,"orath"],
+  [930,310,null,0,"orath"],[880,330,null,0,"orath"],
+  // Freie Städte INNERHALB des Orath-Gebiets (Flickenteppich)
+  [450,560,null,0,"frei"],[530,510,null,0,"frei"],[600,530,null,0,"frei"],
+  [410,600,null,0,"frei"],[550,590,null,0,"frei"],[740,400,null,0,"frei"],
+  [470,410,null,0,"frei"],[580,480,null,0,"frei"],[650,360,null,0,"frei"],
+  // Freie im Orath-Ost-Gebiet (Flickenteppich auch dort)
+  [950,370,null,0,"frei"],[890,390,null,0,"frei"],
+
+  // === FREE CITIES (scattered) ===
+  [510,195,"Nalmaren",3,"frei"],[790,235,"Torshara",3,"frei"],[350,275,"Keshdul",3,"frei"],
+  [850,750,"Halvek-Mar",3,"frei"],[590,755,"Reshkara",3,"frei"],[820,540,"Grenval",3,"frei"],
+  [720,620,"Dulshara",3,"frei"],[670,215,"Sulketh",3,"frei"],
+  [440,225,"Varmen-Kel",2,"frei"],[860,255,"Dravmen",2,"frei"],[310,365,"Kethshara",2,"frei"],
+  [840,695,"Narvaren",2,"frei"],[570,185,"Teshmen",2,"frei"],[750,295,"Halvara",2,"frei"],
+  [790,770,"Kolshek",2,"frei"],[660,795,"Reshdul",2,"frei"],[870,525,"Grenmen",2,"frei"],
+  [430,715,"Sulvek",2,"frei"],[760,490,"Torkal",2,"frei"],[630,645,"Dulvar",2,"frei"],
+  [390,208,"Keshmen",1,"frei"],[610,168,"Halveth",1,"frei"],[730,188,"Torven",1,"frei"],
+  [930,245,"Dulmek",1,"frei"],[288,318,"Reshven-Süd",1,"frei"],[840,298,"Kolveth",1,"frei"],
+  [770,545,"Narvek",1,"frei"],[910,598,"Sulmen-Kel",1,"frei"],[860,678,"Teshvar",1,"frei"],
+  [790,768,"Halvmen",1,"frei"],[560,698,"Grenvar",1,"frei"],[378,678,"Dulshek",1,"frei"],
+  [448,168,"Kethmen",1,"frei"],[978,748,"Varkal",1,"frei"],[320,578,"Reshmar-Kel",1,"frei"],
+  [500,758,"Torshek-Kel",1,"frei"],[690,298,"Nalmek",1,"frei"],[810,435,"Kolmen",1,"frei"],
+  [950,328,"Halvara-Kel",1,"frei"],[358,238,"Sulvar-Kel",1,"frei"],[760,638,"Dravmen-Kel",1,"frei"],
+  [530,658,"Keshvar",1,"frei"],
+  // Free fill
+  [480,150,null,0,"frei"],[650,140,null,0,"frei"],[820,180,null,0,"frei"],
+  [920,180,null,0,"frei"],[400,150,null,0,"frei"],[560,130,null,0,"frei"],
+  [870,350,null,0,"frei"],[830,400,null,0,"frei"],[900,450,null,0,"frei"],
+  [950,400,null,0,"frei"],[780,330,null,0,"frei"],[850,550,null,0,"frei"],
+  [920,520,null,0,"frei"],[830,630,null,0,"frei"],[750,750,null,0,"frei"],
+  [650,780,null,0,"frei"],[550,780,null,0,"frei"],[450,750,null,0,"frei"],
+  [380,720,null,0,"frei"],[350,640,null,0,"frei"],[310,540,null,0,"frei"],
+  [295,440,null,0,"frei"],[330,300,null,0,"frei"],[430,130,null,0,"frei"],
+  [700,160,null,0,"frei"],[990,680,null,0,"frei"],[940,780,null,0,"frei"],
+  [1000,600,null,0,"frei"],[870,800,null,0,"frei"],[480,800,null,0,"frei"],
+
+  // === DEAD ZONES (nebeneinander, Narbe zwischen den Fraktionen) ===
+  // 2x ehemals Orath, 1x ehemals Velmar
+  [840,420,null,-1,"tot"],  // ehem. Orath (riesig)
+  [880,450,null,-1,"tot"],  // ehem. Orath (groß)
+  [860,475,null,-1,"tot"]   // ehem. Velmar (groß)
+];
+
+// Portal
+// Steinplatz nahe Grendul (mittlere Orath-Stadt bei 690,495)
+const portal = [705,510,"Steinplatz"];
+
+const svg = document.getElementById('map');
+const ns = 'http://www.w3.org/2000/svg';
+
+function el(tag, attrs) {
+  const e = document.createElementNS(ns, tag);
+  for (const [k,v] of Object.entries(attrs)) e.setAttribute(k, v);
+  return e;
+}
+
+// Build continent path string
+const coastPath = 'M ' + coastline.map(p => p.join(',')).join(' L ') + ' Z';
+
+// Clip definition
+const defs = el('defs', {});
+const clipPath = el('clipPath', { id: 'continent-clip' });
+clipPath.appendChild(el('path', { d: coastPath }));
+defs.appendChild(clipPath);
+
+// Glow filter
+defs.innerHTML += `
+  <filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="shadow"><feDropShadow dx="0" dy="1" stdDeviation="2" flood-opacity="0.5"/></filter>
+`;
+svg.appendChild(defs);
+
+// Ocean
+svg.appendChild(el('rect', { width: 1600, height: 1100, fill: '#0d1015' }));
+
+// Ocean pattern
+const oceanG = el('g', { opacity: '0.15' });
+for (let y = 0; y < 1100; y += 30) {
+  const offset = (y / 30 % 2) * 15;
+  oceanG.appendChild(el('path', {
+    d: `M ${offset},${y} Q ${offset+200},${y-5} ${offset+400},${y} Q ${offset+600},${y+5} ${offset+800},${y} Q ${offset+1000},${y-5} ${offset+1200},${y} Q ${offset+1400},${y+5} ${offset+1600},${y}`,
+    fill: 'none', stroke: '#1a2535', 'stroke-width': '0.5'
+  }));
+}
+svg.appendChild(oceanG);
+
+// Continent base
+svg.appendChild(el('path', { d: coastPath, fill: '#2a2520', stroke: '#4a4035', 'stroke-width': '1.5', filter: 'url(#shadow)' }));
+
+// Voronoi tessellation
+const points = cities.map(c => [c[0], c[1]]);
+const delaunay = d3.Delaunay.from(points);
+const voronoi = delaunay.voronoi([200, 60, 1350, 880]);
+
+// Draw Voronoi cells clipped to continent
+const cellGroup = el('g', { 'clip-path': 'url(#continent-clip)' });
+
+for (let i = 0; i < cities.length; i++) {
+  const cell = voronoi.cellPolygon(i);
+  if (!cell) continue;
+  const faction = cities[i][4];
+  const colors = factionColors[faction];
+  const d = 'M ' + cell.map(p => p[0]+','+p[1]).join(' L ') + ' Z';
+
+  // Cell fill
+  cellGroup.appendChild(el('path', {
+    d, fill: colors.fill, stroke: colors.stroke, 'stroke-width': '0.5', 'stroke-opacity': '0.6'
+  }));
+}
+svg.appendChild(cellGroup);
+
+// Continent border on top
+svg.appendChild(el('path', { d: coastPath, fill: 'none', stroke: '#5a5045', 'stroke-width': '2' }));
+
+// Vorgelagerte Inseln (unbewohnt, Klippen)
+const islands = [
+  'M 580,850 C 590,845 605,848 610,855 C 612,862 600,868 590,865 C 582,860 578,855 580,850 Z',
+  'M 540,838 C 548,835 558,838 560,845 C 558,850 548,852 542,848 C 538,844 538,840 540,838 Z',
+  'M 310,160 C 318,155 330,158 332,165 C 330,172 320,175 314,170 C 308,166 308,162 310,160 Z',
+  'M 280,195 C 290,190 302,194 305,202 C 302,210 292,212 285,208 C 278,202 278,198 280,195 Z',
+  'M 1295,420 C 1305,415 1315,420 1318,430 C 1315,438 1305,440 1298,435 C 1292,428 1292,424 1295,420 Z',
+  'M 1050,775 C 1060,770 1075,774 1078,782 C 1075,790 1062,792 1055,788 C 1048,782 1048,778 1050,775 Z',
+];
+const islandG = el('g', { opacity: '0.6' });
+islands.forEach(d => {
+  islandG.appendChild(el('path', { d, fill: '#2a2520', stroke: '#4a4035', 'stroke-width': '1' }));
+});
+svg.appendChild(islandG);
+
+// Topo lines inside continent
+const topoG = el('g', { 'clip-path': 'url(#continent-clip)', opacity: '0.08' });
+const topoLines = [
+  'M 450,250 C 550,230 750,220 950,240 C 1100,260 1200,310 1240,380 C 1260,470 1220,580 1100,680 C 950,750 750,740 600,710 C 470,680 390,580 380,460 C 375,370 410,280 450,250 Z',
+  'M 530,340 C 630,320 780,310 900,330 C 1020,345 1100,390 1140,460 C 1160,530 1120,620 1000,670 C 880,710 730,700 630,660 C 530,620 480,540 480,450 C 480,390 510,350 530,340 Z',
+  'M 620,430 C 700,420 800,425 880,440 C 950,455 990,490 1000,530 C 1010,570 980,610 920,630 C 850,650 760,645 700,620 C 640,595 610,550 610,500 C 610,460 615,440 620,430 Z'
+];
+topoLines.forEach(d => topoG.appendChild(el('path', { d, fill: 'none', stroke: '#fff', 'stroke-width': '0.8' })));
+svg.appendChild(topoG);
+
+// Rivers (subtle)
+const riverG = el('g', { 'clip-path': 'url(#continent-clip)', opacity: '0.2' });
+const rivers = [
+  'M 550,130 C 560,200 540,300 520,400 C 510,460 530,520 560,580 C 580,640 610,700 640,760 C 660,800 670,830 680,840',
+  'M 850,100 C 840,180 830,260 810,340 C 790,410 760,480 740,540 C 720,600 710,660 700,700',
+  'M 400,300 C 420,360 430,420 420,480 C 410,530 390,580 370,640 C 355,690 345,730 340,760',
+  'M 1000,130 C 1010,200 1030,280 1060,360 C 1080,420 1090,480 1080,540 C 1070,600 1050,660 1040,720 C 1030,760 1025,790 1020,800'
+];
+rivers.forEach(d => riverG.appendChild(el('path', { d, fill: 'none', stroke: '#4a6a8a', 'stroke-width': '1.5', 'stroke-linecap': 'round' })));
+svg.appendChild(riverG);
+
+// Dead zone markers (nebeneinander, 2x Orath + 1x Velmar)
+const deadG = el('g', {});
+[[840,420,38],[880,450,28],[860,475,25]].forEach(([x,y,r]) => {
+  deadG.appendChild(el('circle', { cx:x, cy:y, r, fill:'none', stroke:'#e74c3c', 'stroke-width':'1', 'stroke-dasharray':'4,4', opacity:'0.5' }));
+  deadG.appendChild(el('circle', { cx:x, cy:y, r:4, fill:'#e74c3c', opacity:'0.6' }));
+});
+deadG.appendChild(el('text', Object.assign(document.createElementNS(ns,'text'), {textContent:''}).attributes ? {} : { x:880, y:468, 'text-anchor':'middle', fill:'#e74c3c', 'font-size':'8', opacity:'0.7' }));
+// Dead labels via innerHTML
+const deadLabels = el('g', { opacity: '0.7' });
+deadLabels.innerHTML = `
+  <text x="840" y="405" text-anchor="middle" fill="#e74c3c" font-size="8" font-style="italic">Tot (Orath)</text>
+  <text x="895" y="448" text-anchor="middle" fill="#e74c3c" font-size="7" font-style="italic">Tot (Orath)</text>
+  <text x="845" y="490" text-anchor="middle" fill="#e74c3c" font-size="7" font-style="italic">Tot (Velmar)</text>
+  <text x="860" y="440" text-anchor="middle" fill="#a04040" font-size="10" font-weight="600" letter-spacing="0.2em">TOTE ZONE</text>
+`;
+svg.appendChild(deadG);
+svg.appendChild(deadLabels);
+
+// Cities
+const cityGroup = el('g', {});
+cities.forEach(([x, y, name, size, faction]) => {
+  if (size < 0) return; // dead
+  if (size === 0) {
+    // Tiny dot for fill points
+    cityGroup.appendChild(el('circle', { cx:x, cy:y, r:1.5, fill:'#5a5550', opacity:'0.4' }));
+    return;
+  }
+  const r = size === 3 ? 5 : size === 2 ? 3.5 : 2.5;
+  const fillColor = size === 3 ? '#f0e6d8' : size === 2 ? '#c8bfb0' : '#8a8279';
+  const attrs = { cx:x, cy:y, r, fill: fillColor };
+  if (size === 3) attrs.filter = 'url(#glow)';
+  cityGroup.appendChild(el('circle', attrs));
+
+  if (name) {
+    const fontSize = size === 3 ? 9 : size === 2 ? 7.5 : 6.5;
+    const textColor = size === 3 ? '#f0e6d8' : size === 2 ? '#b0a898' : '#7a7269';
+    const weight = size === 3 ? '600' : '400';
+    const t = el('text', { x: x + r + 4, y: y + 3, fill: textColor, 'font-size': fontSize, 'font-weight': weight });
+    t.textContent = name;
+    cityGroup.appendChild(t);
+  }
+});
+svg.appendChild(cityGroup);
+
+// Portal
+const portalG = el('g', { filter: 'url(#glow)' });
+portalG.appendChild(el('circle', { cx: portal[0], cy: portal[1], r: 6, fill: '#b8860b', stroke: '#e74c3c', 'stroke-width': '2.5' }));
+const pt = el('text', { x: portal[0]+10, y: portal[1]-2, fill: '#e8c170', 'font-size': '9', 'font-weight': '600' });
+pt.textContent = portal[2];
+portalG.appendChild(pt);
+const pt2 = el('text', { x: portal[0]+10, y: portal[1]+10, fill: '#9e958b', 'font-size': '7' });
+pt2.textContent = '(Portal nach Thalassien)';
+portalG.appendChild(pt2);
+svg.appendChild(portalG);
+
+// Compass
+svg.innerHTML += `
+  <g transform="translate(1500,80)">
+    <line x1="0" y1="18" x2="0" y2="-18" stroke="#6b6259" stroke-width="1"/>
+    <line x1="-18" y1="0" x2="18" y2="0" stroke="#6b6259" stroke-width="0.5"/>
+    <polygon points="0,-22 -5,-10 5,-10" fill="#8a8279"/>
+    <text x="0" y="-28" text-anchor="middle" fill="#a09888" font-size="10">N</text>
+  </g>
+  <g transform="translate(1350,1050)">
+    <line x1="0" y1="0" x2="100" y2="0" stroke="#6b6259" stroke-width="1"/>
+    <line x1="0" y1="-4" x2="0" y2="4" stroke="#6b6259" stroke-width="1"/>
+    <line x1="50" y1="-2" x2="50" y2="2" stroke="#6b6259" stroke-width="0.5"/>
+    <line x1="100" y1="-4" x2="100" y2="4" stroke="#6b6259" stroke-width="1"/>
+    <text x="50" y="14" text-anchor="middle" fill="#6b6259" font-size="8">~500 km</text>
+  </g>
+  <text x="800" y="40" text-anchor="middle" fill="#8a8279" font-size="13" letter-spacing="0.4em" font-weight="300">MORAGH</text>
+  <text x="800" y="58" text-anchor="middle" fill="#5a5550" font-size="8">~10 Mio. km² · ~17 Mio. Einwohner · ~700 Siedlungen</text>
+`;
+
+// Pan/Zoom
+let vb = { x: 0, y: 0, w: 1600, h: 1100 };
+let isPanning = false, sp = { x: 0, y: 0 };
+
+function updateVB() { svg.setAttribute('viewBox', `${vb.x} ${vb.y} ${vb.w} ${vb.h}`); }
+
+svg.addEventListener('wheel', e => {
+  e.preventDefault();
+  const s = e.deltaY > 0 ? 1.1 : 0.9;
+  const r = svg.getBoundingClientRect();
+  const mx = (e.clientX - r.left) / r.width, my = (e.clientY - r.top) / r.height;
+  const nw = vb.w * s, nh = vb.h * s;
+  vb.x += (vb.w - nw) * mx; vb.y += (vb.h - nh) * my;
+  vb.w = nw; vb.h = nh;
+  updateVB();
+});
+
+svg.addEventListener('mousedown', e => { isPanning = true; sp = { x: e.clientX, y: e.clientY }; });
+svg.addEventListener('mousemove', e => {
+  if (!isPanning) return;
+  const r = svg.getBoundingClientRect();
+  vb.x -= (e.clientX - sp.x) / r.width * vb.w;
+  vb.y -= (e.clientY - sp.y) / r.height * vb.h;
+  sp = { x: e.clientX, y: e.clientY };
+  updateVB();
+});
+svg.addEventListener('mouseup', () => isPanning = false);
+svg.addEventListener('mouseleave', () => isPanning = false);
+
+function zoomIn() { vb.x += vb.w*0.15; vb.y += vb.h*0.15; vb.w *= 0.7; vb.h *= 0.7; updateVB(); }
+function zoomOut() { vb.x -= vb.w*0.2; vb.y -= vb.h*0.2; vb.w *= 1.4; vb.h *= 1.4; updateVB(); }
+function resetView() { vb = { x: 0, y: 0, w: 1600, h: 1100 }; updateVB(); }
+</script>
+
+</body>
+</html>
