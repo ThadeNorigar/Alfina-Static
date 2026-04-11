@@ -1,7 +1,7 @@
 # B1-K18 — Vesper — Entwurf
 
 **POV:** Vesper (3. Person nah, Präteritum)
-**Timeline:** 11. Lichtmond 551 TZ · 10 Wochen 6 Tage in Vael
+**Timeline:** 21. Blütenmond 551 TZ · 7 Wochen 6 Tage in Vael
 **Vorgänger:** K17 (Vesper bringt Uhr zurück, Maren zeigt Wasser-Resonanz), K16 (Sorel entdeckt seine Resonanz)
 **Wortziel Ausarbeitung:** 4.000–4.500 W
 **Gänsehaut-Moment:** Der schwarze Schachturm — fünfzehn Wochen in Vespers Tasche, immer kalt, hat seine Körperwärme nie angenommen — wird für einen einzigen Atemzug warm, während Vesper die vierte Resonanz nennt. Dann wieder kalt.

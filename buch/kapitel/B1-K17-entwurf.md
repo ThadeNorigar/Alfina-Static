@@ -1,7 +1,7 @@
 # B1-K17 — Maren — Entwurf
 
 **POV:** Maren (3. Person nah, Präteritum)
-**Timeline:** 7. Lichtmond 551 TZ · 10 Wochen 6 Tage in Vael
+**Timeline:** 20. Blütenmond 551 TZ · 8 Wochen 2 Tage in Vael (gleichzeitig mit K15, K16)
 **Vorgänger:** K14 (Maren bringt Schiffsuhr zu Vesper), K16 (Sorel entdeckt seine Resonanz)
 **Wortziel Ausarbeitung:** 4.000–4.500 W
 **Gänsehaut-Moment:** Der Tee-Strudel gegen den Uhrzeigersinn, ohne Rühren, ohne Kosten — und Vespers gesamter Körper hält inne, die Lupe-am-Auge-Konzentration jetzt auf sie gerichtet, wie vor einem Muster das er bereits kennt.

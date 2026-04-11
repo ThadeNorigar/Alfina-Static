@@ -1,7 +1,7 @@
 # B1-K20 — Maren — Entwurf
 
 **POV:** Maren (3. Person nah, Präteritum)
-**Timeline:** 20. Lichtmond 551 TZ · 12 Wochen 5 Tage in Vael
+**Timeline:** 23. Blütenmond 551 TZ · 8 Wochen 5 Tage in Vael (gleichzeitig mit K21)
 **Vorgänger:** K19 (Kampf, Wurzel-Skulptur, alle vier erschöpft)
 **Wortziel Ausarbeitung:** 4.500–5.000 W
 **Gänsehaut-Moment:** Esther Voss schlägt das Register auf und zeigt Maren: der Name "Dahl" erscheint nicht einmal — er erscheint dreimal, in drei verschiedenen Schreibweisen, über einen Zeitraum von zweihundert Jahren. Die letzte Eintragung ist zwei Jahre vor Harons ersten Briefen an Maren.

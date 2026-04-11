@@ -1,7 +1,7 @@
 # B1-K19 — Alle (Alphina-Anker) — Entwurf
 
 **POV:** Ensemble · Alphina als primärer Anker, alle vier POV-Figuren aktiv
-**Timeline:** 14. Lichtmond 551 TZ · 11 Wochen 6 Tage in Vael (Alphina)
+**Timeline:** 22. Blütenmond 551 TZ · 8 Wochen 4 Tage in Vael (Alphina)
 **Vorgänger:** K18 (Vesper und Sorel beschließen das Treffen), K17 (Vesper sagt Maren "Du musst Alphina kennenlernen")
 **Wortziel Ausarbeitung:** 5.500–6.500 W (größtes Kapitel des Akts)
 **Gänsehaut-Moment:** Die Wurzel-Skulptur — lebendiges Holz in der exakten Form des Schemen-Körpers, niemand hat sie gemeißelt, niemand hat sie bestellt. Sie stehen davor und verstehen: das haben vier Menschen erschaffen, ohne es zu wollen.

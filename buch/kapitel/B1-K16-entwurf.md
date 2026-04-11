@@ -1,7 +1,7 @@
 # B1-K16 — Sorel — Entwurf
 
 **POV:** Sorel (3. Person nah, Präteritum)
-**Timeline:** 1. Lichtmond 551 TZ · 9 Wochen 4 Tage in Vael
+**Timeline:** 20. Blütenmond 551 TZ · 7 Wochen 6 Tage in Vael (gleichzeitig mit K15, K17)
 **Vorgänger:** K15 (Alphina am Hafen, Sorel fotografiert, Blickkontakt ohne Wort)
 **Wortziel Ausarbeitung:** 4.000–4.500 W
 **Gänsehaut-Moment:** Eine unbelichtete Platte aus versiegelter Fabrik-Schachtel zeigt Sorels eigenes Gesicht — seine jetzige Angst, verzerrt, von innen gesehen, fixiert auf Glas bevor die Platte die Dunkelkammer verlassen hat.
