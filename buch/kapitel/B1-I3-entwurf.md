@@ -7,7 +7,7 @@
 
 ## Grundprinzipien für die Ausarbeitung (Canon)
 
-- **Quelle ist indifferent.** Pulsiert gleichmäßig, reagiert nicht auf Menschen, gibt keine Impulse. Kein "Summen das sie zieht", kein "Drängen der anderen Seite". Das ist Elkes eigene Wahrnehmung ihrer Resonanz — nicht die Quelle die redet.
+- **Quelle ist indifferent.** Pulsiert gleichmäßig, reagiert nicht auf Menschen, gibt keine Impulse. Kein Anziehen, kein Drängen der anderen Seite. Das ist Elkes eigene Wahrnehmung ihrer Resonanz — nicht die Quelle die redet.
 - **Portal: kein Tunnel, keine Höhle.** Räumliche Verschiebung im Gartenraum selbst. Der Riss öffnet sich in der Luft.
 - **Instabiler Riss ≠ sauberes Portal.** Was die Vier erzeugen ist kein kontrollierter Durchgang — eine Wunde im Raum. Unberechenbar. Wer durchgeht, riskiert nicht anzukommen.
 - **Varen weiß nicht was auf der anderen Seite ist.** Er schickt Schemen durch sein Portal als Experiment — kein gezielter Angriff. Die richten Schaden an. Er erfährt es erst als Elke durchkommt.
@@ -84,7 +84,7 @@
 
 **Tschechow-Waffen abgefeuert:**
 - "Als würde der Raum nachgeben" (Szene 1) → tut er jetzt tatsächlich
-- Keldans Metall-Resonanz (I2: summender Barren) → hält nicht
+- Keldans Metall-Resonanz (I2: Eisenbarren als Resonanz-Werkzeug) → hält nicht
 - Vier Resonanzen erzeugen den Riss → bestätigt die Mechanik die Vesper in 551 TZ versteht und kontrolliert
 
 ---
