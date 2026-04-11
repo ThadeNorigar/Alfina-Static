@@ -34,23 +34,19 @@ Elke zog den Vorhang zu.
 
 Das Feuer kam vor dem Morgengrauen.
 
-Elke stand am Steinkreis, als der Himmel über dem Hafen orange wurde — kein Sonnenaufgang, zu früh, zu grell, und der Geruch war falsch: Pech und Holz und etwas Scharfes, das in den Augen brannte. Drei Feuergestalten traten aus einer Öffnung in der Luft, hundert Schritt östlich des Kreises, dort wo der Garten in die Wildnis überging. Die Öffnung war kaum mannshoch, und sie schloss sich hinter ihnen wie ein Mund, der ein Wort zurücknahm. Die Gestalten brannten nicht — sie trugen das Feuer wie einen Mantel, und wo sie gingen, fing der Boden Feuer.
+Sie knieten zu viert am Steinkreis: Elke, Lene, Kaspar, Keldan. Handflächen auf dem Fels, wie sie es in den letzten Wochen gelernt hatten. Kein Ritual. Keine Worte. Nur drücken, alle gleichzeitig, und der Raum gab nach. Die Luft über dem Kreis fing an zu flimmern — ein Beben, das man nicht sah, sondern spürte, in den Zähnen, im Kieferknochen, in den Fußsohlen auf dem kalten Stein.
 
-Keldan trat vor.
+Dann wurde der Himmel über dem Hafen orange — kein Sonnenaufgang, zu früh, zu grell, und der Geruch war falsch: Pech und Holz und etwas Scharfes, das in den Augen brannte. Drei Feuergestalten traten aus einer Öffnung in der Luft, hundert Schritt östlich des Kreises, dort wo der Garten in die Wildnis überging. Die Öffnung war kaum mannshoch, und sie schloss sich hinter ihnen wie ein Mund, der ein Wort zurücknahm. Die Gestalten brannten nicht — sie trugen das Feuer wie einen Mantel, und wo sie gingen, fing der Boden Feuer.
 
-Er hatte den Eisenarm, den er sich vor Wochen geschmiedet hatte — ein Schild, breiter als seine Schulter, aus einem Stück gehämmert, und das Eisen sang in seiner Hand, wie es sang, wenn Keldan es hielt. Er stellte sich zwischen die Wesen und den Kreis, und Elke sah sein Gesicht im Feuerschein: ruhig, konzentriert, die Augen eines Mannes, der sein Material kannte. Die Hitze erreichte den Steinkreis. Elkes Handflächen brannten auf dem Fels.
+Keldan stand auf. Er hatte den Eisenarm, den er sich vor Wochen geschmiedet hatte — ein Schild, breiter als seine Schulter, aus einem Stück gehämmert, und das Eisen sang in seiner Hand, wie es sang, wenn Keldan es hielt. Er stellte sich zwischen die Wesen und den Kreis, und Elke sah sein Gesicht im Feuerschein: ruhig, konzentriert, die Augen eines Mannes, der sein Material kannte. Die Hitze erreichte den Steinkreis. Elkes Handflächen brannten auf dem Fels.
 
-"Jetzt", sagte Elke.
-
-Lene und Kaspar legten die Hände auf den Stein, links und rechts neben ihr. Kein Ritual. Keine Worte. Nur das, was sie in den letzten Wochen gelernt hatten: drücken, alle gleichzeitig, und der Raum gab nach. Die Luft über dem Kreis fing an zu flimmern — ein Beben, das man nicht sah, sondern spürte, in den Zähnen, im Kieferknochen, in den Fußsohlen auf dem kalten Stein.
+Drei Hände statt vier. Aber das Flimmern hielt.
 
 Eines der Wesen drehte sich nach Keldan.
 
 Das Eisen schmolz. Nicht langsam — es hörte auf, fest zu sein, in der Zeit, die man brauchte, um einzuatmen. Keldan fiel. Das Eisen tropfte von seinen Fingern, und er stand nicht auf.
 
-Das Flimmern brach ab.
-
-Drei Hände statt vier. Der Raum, der eben noch nachgegeben hatte, gab nicht mehr nach. Elke drückte fester, die Handflächen in den Stein gepresst, und der Stein war kalt und taub unter ihren Fingern, und nichts geschah.
+Das Flimmern brach ab. Der Raum, der eben noch nachgegeben hatte, gab nicht mehr nach. Elke drückte fester, die Handflächen in den Stein gepresst, und der Stein war kalt und taub unter ihren Fingern, und nichts geschah.
 
 *Nein.*
 
