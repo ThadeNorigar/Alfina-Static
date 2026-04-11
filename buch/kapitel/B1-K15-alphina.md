@@ -20,7 +20,7 @@ Henrik kam um die Hortensie, Gießkrug in beiden Händen, die Brille vorn auf de
 
 "Schwer zu sagen. Irgendwas stimmt mit dem Wuchs nicht. Vielleicht siehst du's." Er tippte an die Mütze und ging zurück zum Treibhaus.
 
-Alphina blieb knien. Der Lavendelstängel in ihrer Hand war warm, der Schnittgeruch grün und scharf. Der Schemen saß noch auf dem Steinkreis, und sie stellte fest, dass sein Dasein aufgehört hatte, sie zu erschrecken. Irgendwann zwischen den drei auf der Mauer und dem hier, zwischen Mai und Mai, war die Angst in etwas anderes übergegangen — in eine Aufmerksamkeit, die wacher war als Angst und weniger laut. Sie legte den Stängel ab und richtete sich halb auf, um die Knie zu entlasten.
+Alphina blieb knien. Der Lavendelstängel in ihrer Hand war warm, der Schnittgeruch grün und scharf. Sie legte den Stängel ab und richtete sich halb auf, um die Knie zu entlasten.
 
 Schritte auf dem Kies. Leichter als Henriks, schneller, ohne Schleifen. Alphina drehte sich um.
 
@@ -36,9 +36,9 @@ Runa kam den Hauptweg hoch, das Notizbuch unter dem Arm, die Haare noch nicht ga
 
 Alphina legte die Schere in die Erde und ging zu ihr. Sie setzte sich neben Runa auf die Bank, dort wo die zweite abgewetzte Stelle war, und wartete.
 
-"Zwanzig Berichte seit dem letzten Flugblatt." Runa fuhr mit dem Finger über die Einträge und las vor, ohne die Stimme zu heben. "Fischer der Grauwe, erstes Dock, nachts: drei schemenhafte Tiere auf den Pollern, sind verschwunden als er die Lampe hob. Wäscherin aus der Flechtergasse — Lena Brack, die mit dem Frostbrand — hat diesmal zwei Gestalten vor ihrem Schlafzimmerfenster gesehen, im dritten Stock, wo kein Sims ist. Drei Kinder im Hafenviertel haben auf dem Heimweg von der Schule ein Tier beschrieben, das sich von einer Hauswand gelöst hat, flach zuerst, dann dreidimensional. Vesper Greve —" Runa hielt kurz, schaute auf, als wollte sie prüfen ob der Name bei Alphina landete, "— hat Frau Tidemoor erzählt, er hätte im Salon etwas gesehen, das er nicht benennen konnte. Etwas das zwischen den Uhren stand."
+"Zwanzig Berichte seit dem letzten Flugblatt." Runa fuhr mit dem Finger über die Einträge und las vor, ohne die Stimme zu heben. "Fischer der Grauwe, erstes Dock, nachts: drei Tiere auf den Pollern, durchscheinend, kaum da, sind verschwunden als er die Lampe hob. Wäscherin aus der Flechtergasse — Lena Brack, die mit dem Frostbrand — hat diesmal zwei Gestalten vor ihrem Schlafzimmerfenster gesehen, im dritten Stock, wo kein Sims ist. Drei Kinder im Hafenviertel haben auf dem Heimweg von der Schule ein Tier beschrieben, das sich von einer Hauswand gelöst hat, flach zuerst, dann dreidimensional. Vesper Greve —" Runa hielt kurz, schaute auf, als wollte sie prüfen ob der Name bei Alphina landete, "— die Tidemoor-Magd hat Frau Kvist erzählt, er hätte die Standuhr im Salon repariert. Nur durch Handauflegen. Seitdem läuft sie im Takt."
 
-Alphina kannte den Namen. Vesper Greve — Stockwerknachbar im Anker, der Uhrmacher aus Karst, mit dem sie über Steinkreis und Messringe und die Zahl gesprochen hatte die er nicht erklären konnte. Dass er im Tidemoor-Salon etwas gesehen hatte, hatte er ihr nicht erzählt. Er hatte von der Uhr gesprochen, von den Ringen, vom Behalten des Schlags. Nicht von einer Gestalt zwischen den Uhren.
+Alphina kannte den Namen. Vesper Greve — Stockwerknachbar im Anker, der Uhrmacher aus Karst, mit dem sie am Steinkreis die Schläge gemessen und seine Ringradien auf Karten übertragen hatte. Die Geschichte der Tidemoor-Uhr kannte sie. Vesper hatte sie ihr selbst erzählt, an dem Abend im Flur — die Hand auf dem Gehäuse, der Takt der blieb, die Magd die zugesehen hatte. Was sie nicht gewusst hatte: dass es bis zu Runa gelangt war.
 
 "Die Adressen", sagte Runa. Sie legte das Notizbuch auf die Bank, zwischen ihre Knie. "Die Adressen sind das Problem. Ich hab sie auf eine Karte übertragen, gestern Nacht, als ich nicht schlafen konnte. Druckerschwärze auf Straßennamen." Sie schaute Alphina an. "Es ist ein Kreis. Die Meldungen kommen von überall in der Stadt, aber die Dichte — die meisten, die häufigsten, die deutlichsten — liegen alle auf einer Linie. Und die Linie läuft um den Hang herum. Den Hang unterhalb von hier."
 
@@ -58,13 +58,13 @@ Am Gartentor drehte Runa sich um und winkte, kurz, mit der Hand, die nicht das N
 
 Alphina saß still. Das Klicken von Henriks Schere kam von irgendwo hinter dem Treibhaus. Der Nebel hatte sich nicht bewegt, seit sie sich heute Morgen hingekniet hatte — er lag auf dem Garten, schwer und reglos, den ganzen Tag schon.
 
-Als Runa das Tor geschlossen hatte — der schwere hölzerne Klang, dem ein leises Nachschwingen folgte — erschien der Wolfshaft-Schem am Gartenrand.
+Als Runa das Tor geschlossen hatte — das metallische Klappen, dem ein feines Nachschwingen im Rahmen folgte — erschien die große Gestalt am Gartenrand.
 
 Nicht nah. Dort wo die Hortensienreihe in den Nebel auslief, dreißig Schritte entfernt, kaum mehr als eine Linie im Grau — die Schultern nach vorne gebeugt, der Rücken an den Rändern rauchend. Zwei kleinere Gestalten zwischen den Kübeln, katzengroß, reglos. Sie schaute sie nicht direkt an. Sie hatte gelernt, dass sie gingen wenn man sie ansah — also ließ sie den Blick seitlich gleiten und hielt die Konturen.
 
 Sie waren tagsüber da, am fünften Nebeltag in Folge.
 
-Der Wolfshaft-Schem drehte den Kopf auf sie. Langsam, mit einer Trägheit die nicht Müdigkeit war, und blieb. Er wartete nicht auf den Garten. Er wartete auf sie. Und Runa hatte den Mittelpunkt auf den Boden gezeigt, aber der Mittelpunkt war nicht der Boden.
+Die Gestalt drehte den Kopf auf sie. Langsam, mit einer Trägheit die nicht Müdigkeit war, und blieb. Er wartete nicht auf den Garten. Er wartete auf sie. Und Runa hatte den Mittelpunkt auf den Boden gezeigt, aber der Mittelpunkt war nicht der Boden.
 
 Sie stand auf. Das steife rechte Knie meldete sich kurz. Sie nahm die Schere und ging zurück zu den Lavendelbüschen, weil Arbeit das war, was sie kannte, und weil Hände in der Erde das Geländer waren, das sie brauchte.
 
@@ -116,7 +116,7 @@ Die Gassen östlich des Hafens rochen nach Seepech und nassem Stein und nach den
 
 Alphina ging den Weg zum Anker, den sie seit Wochen kannte — die schmale Gasse an der Fischerei vorbei, rechts in die Böttchergasse, dann den Hügel hoch. Die Häuser standen dicht, drei Stockwerke, die Fensterläden halb geschlossen, und das Pflaster unter ihren Sohlen war uneben, die Steine von Karrenrädern ausgehöhlt. Es war noch nicht ganz dunkel, aber der Nebel machte das Licht grau genug, dass die Gaslampen schon brannten, kleine gelbe Kreise in der Feuchtigkeit, die nichts erhellten und alles markierten. Ihre Schritte hallten auf dem Pflaster, ein einsames Geräusch in einer Gasse, die um diese Stunde leer war. Irgendwo in einem der Häuser schlug eine Tür zu. Ein Hund bellte, einmal, dann war er still.
 
-Im Augenwinkel, auf einem Dachvorsprung: ein Schemen. Klein, katzengroß, die Silhouette zusammengeduckt. Sie sah nicht hin. Zwei Häuser weiter: ein zweiter, in einem Toreingang, der Kopf auf den Pfoten, die Augen auf sie gerichtet, gelb in der Dämmerung. Sie ging weiter. Das war inzwischen normal. Die Wesen folgten ihr durch die Stadt, ohne Eile, ohne Aggression, mit der stillen Beharrlichkeit von etwas, das mehr Zeit hatte als sie.
+Im Augenwinkel, auf einem Dachvorsprung: etwas. Klein, katzengroß, die Silhouette zusammengeduckt. Sie sah nicht hin. Zwei Häuser weiter: ein zweiter, in einem Toreingang, der Kopf auf den Pfoten, die Augen auf sie gerichtet, gelb in der Dämmerung. Sie ging weiter. Das war inzwischen normal. Die Wesen folgten ihr durch die Stadt, ohne Eile, ohne Aggression, mit der stillen Beharrlichkeit von etwas, das mehr Zeit hatte als sie.
 
 Dann stand die Gestalt in der Gasse.
 
@@ -134,13 +134,13 @@ Nicht reflexartig. Langsam. Der Kopf kippte zur Seite, schwer, träge, und blieb
 
 Alphinas Hände zitterten. Nicht vor Kälte. Die Kälte war im Brustkorb, dort wo die Tür saß, die sich selten öffnete, und sie war diesmal nicht zugeklappt, sie war aufgegangen, und was dahinter lag war kein Schrecken, es war ein Stillstehen, das keinen Namen hatte. Ihre Finger schlossen sich um den Mantelstoff, um etwas zu halten, weil Hände ein Geländer brauchten.
 
-Die Gestalt machte keine Bewegung auf sie zu. Keine Geste, die auf Angriff hinwies. Keine Zähne, kein Fauchen, kein Feuerball. Nur das Stehen, und das Warten, und die schwarzen Augen, die nicht blinzelten, und der geneigte Kopf, und der Rauch der von den Rändern aufstieg und sich im Nebel verlor. Alphinas Atem ging flach. Die Kälte im Brustkorb hatte sich in die Schultern gefressen, in den Nacken, in die Kopfhaut, und die Gasse war eng und still und roch nach dem süßen Geruch, der jetzt überall war.
+Die Gestalt machte keine Bewegung auf sie zu. Keine Geste, die auf Aggression hinwies. Nur das Stehen, und das Warten, und die schwarzen Augen, die nicht blinzelten, und der geneigte Kopf, und der Rauch der von den Rändern aufstieg und sich im Nebel verlor. Alphinas Atem ging flach. Die Kälte im Brustkorb hatte sich in die Schultern gefressen, in den Nacken, in die Kopfhaut, und die Gasse war eng und still und roch nach dem süßen Geruch, der jetzt überall war.
 
 Drei Atemzüge. Vier.
 
 Dann löste sie sich auf. Nicht plötzlich. Die Ränder zerfaserten zuerst, die Schultern, die Arme, dann der Rumpf, und zuletzt der Kopf mit den schwarzen Augen, und der Nebel nahm sie zurück, langsam, rückholend. An der Stelle wo die Gestalt gestanden hatte, lag nichts als feuchtes Pflaster und das gelbe Laternenlicht.
 
-Alphina stand dreißig Atemzüge lang still. Ihre Hände hörten auf zu zittern irgendwann zwischen dem zehnten und dem fünfzehnten. Die Gasse war leer. Die Stelle auf dem Pflaster, wo die Gestalt gestanden hatte, war nass, und nichts an dem Stein verriet, dass etwas dort gewesen war — kein Abdruck, kein Geruch, kein Nachbild. Nur die Gaslampe über der Stelle, deren Flamme gleichmäßig brannte, ungerührt. Die zwei kleinen Schemen auf den Dächern waren noch da, katzengroß, die Augen gelb und ruhig, und sie schauten nicht auf die Stelle, wo die große Gestalt verschwunden war. Sie schauten auf Alphina.
+Alphina stand dreißig Atemzüge lang still. Ihre Hände hörten auf zu zittern irgendwann zwischen dem zehnten und dem fünfzehnten. Die Gasse war leer. Die Stelle auf dem Pflaster, wo die Gestalt gestanden hatte, war nass, und nichts an dem Stein verriet, dass etwas dort gewesen war — kein Abdruck, kein Geruch, kein Nachbild. Nur die Gaslampe über der Stelle, deren Flamme gleichmäßig brannte, ungerührt. Die zwei kleinen Gestalten auf den Dächern waren noch da, katzengroß, die Augen gelb und ruhig, und sie schauten nicht auf die Stelle, wo die große Gestalt verschwunden war. Sie schauten auf Alphina.
 
 Die Luft in der Gasse roch nach Seepech und feuchtem Mauerwerk und nach dem süßen Geruch, der keinen Namen hatte — schwächer hier als im Garten, aber da, ein Faden der durch die Gassen lief und den sie in den letzten Wochen gelernt hatte zu empfangen statt zu suchen. Sie atmete ihn ein. Sie atmete ihn aus.
 
