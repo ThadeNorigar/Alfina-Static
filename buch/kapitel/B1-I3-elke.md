@@ -50,7 +50,7 @@ Das Flimmern brach ab. Der Raum, der eben noch nachgegeben hatte, gab nicht mehr
 
 *Nein.*
 
-Dann kam es zurück. Instabiler, zuckend, als würde es von innen gerissen. Ein Riss in der Luft des Gartens, drei Schritt über dem Boden, dort wo eben noch Nacht gewesen war. Nicht sauber — eine Wunde. Dahinter: anderes Licht. Zwei Monde, bleich, in einem Himmel, der die falsche Farbe hatte. Zwei Atemzüge lang. Dann schloss sich der Riss, und die Nacht war zurück, und die Gestalten drehten sich zum Steinkreis.
+Dann kam es zurück. Instabiler, zuckend, als würde es von innen gerissen. Ein Riss in der Luft des Gartens, drei Schritt über dem Boden, dort wo eben noch Nacht gewesen war. Nicht sauber — eine Wunde. Dahinter: anderes Licht, fremd, in einer Farbe die keinen Namen hatte. Zwei Atemzüge lang. Dann schloss sich der Riss, und die Nacht war zurück, und die Gestalten drehten sich zum Steinkreis.
 
 Lene brach weg. Sie versuchte, eines der Wesen vom Kreis wegzudrängen, Schulter voran, und das Wesen warf sie zu Boden, als wäre sie nichts. Ihr Knie schlug auf den Stein. Sie robbte zurück, die Zähne zusammengebissen, und legte die Hände wieder auf den Fels.
 
@@ -60,11 +60,11 @@ Sie trat an den Rand.
 
 Durch den Riss sah sie hindurch, und was sie sah, war nichts, was sie kannte.
 
-Keine zwei Monde. Kein fremdes Licht. Hinter dem Riss war Schwärze — nicht Nacht, nicht die Abwesenheit von Licht, die man kannte, wenn die Kerze ausging. Es war eine Stelle, an der Raum aufgehört hatte zu sein. Selbst der tiefste Brunnen hatte eine Stelle, an der das Seil endete. Das dort hatte kein Ende, weil es nie angefangen hatte.
+Hinter dem Riss war Schwärze — nicht Nacht, nicht die Abwesenheit von Licht, die man kannte, wenn die Kerze ausging. Es war eine Stelle, an der Raum aufgehört hatte zu sein. Selbst der tiefste Brunnen hatte eine Stelle, an der das Seil endete. Das dort hatte kein Ende, weil es nie angefangen hatte.
 
 Und um dieses Aufgehörthaben, an seinem Rand: ein Bogen aus Licht. Weiß, zu hell, gebogen, als würde er hineingezogen und an der Kante gleichzeitig festgehalten, und er brannte mit einer Stille, die schlimmer war als jedes Geräusch. Der Saum. Die Naht, an der die Welt noch versuchte, Welt zu sein, und es nicht mehr schaffte.
 
-Elke sah hindurch und verstand nichts. Aber sie sah, dass die Dinge von dort kamen. Dass was auch immer die Dinger schickte, in dieser Schwärze saß.
+Elke sah hindurch und verstand nichts. Aber sie sah, dass die Wesen von dort kamen. Dass was auch immer sie schickte, in dieser Schwärze saß.
 
 "Ich komme mit", sagte Kaspar hinter ihr.
 
@@ -82,7 +82,7 @@ Lene lag am Boden.
 
 Der Riss war zu. Die Luft über dem Steinkreis war wieder Luft, kalt und unbewegt, als wäre nichts gewesen. Keldan lag drei Schritt entfernt, das geschmolzene Eisen neben ihm, erstarrt in einer Form, die kein Schmied gewollt hätte. Von Kaspar war nichts geblieben. Keine Stelle, an der er gefallen wäre. Kein Körper, den man hätte begraben können.
 
-Vom Hafen kamen Schreie, dann Feuer. Ein Block in der Unterstadt. Pechfässer, vielleicht, oder Funkenflug — so würde die Stadt es sich erklären. Die Stadt hatte keine andere Sprache.
+Aus der Oberstadt kamen Schreie, dann Feuer. Ein Block hinter dem Handelshaus. Pechfässer, vielleicht, oder Funkenflug — so würde die Stadt es sich erklären. Die Stadt hatte keine andere Sprache.
 
 Das letzte Wesen stand am Rand des Gartens. Keine Richtung mehr, kein Auftrag. Es wanderte in die Gassen, und Lene hörte das Feuer ihm folgen, von Dach zu Dach, und die Schreie wurden lauter und dann leiser und dann war es still.
 
