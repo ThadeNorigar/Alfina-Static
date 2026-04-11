@@ -24,7 +24,7 @@ Sein letztes Bild: ein Hafen. Nacht. Hohlräume in den Schatten, und in den Hohl
 
 Elke legte die Hand auf seine. Die Pigmentkörner waren rau unter ihren Fingerspitzen, seine Haut warm, und unter der Wärme schlug sein Puls zu schnell für einen Mann, dessen Hände so ruhig auf den Knien lagen. Sie drückte seine Finger, kurz, fest, wie man einen Riss im Stein abklopft. Ihr eigener Puls war plötzlich lauter als seiner, lauter als der Wind, und einen Moment lang wusste sie nicht mehr welcher von beiden schlug. Ließ nicht los.
 
-Durch das Fenster fiel der schwache Schein der Fackel aus der Gasse, und in dem Licht standen drei Gestalten. Aufrecht. Reglos. Die Schultern rauchten.
+Durch das Fenster fiel der schwache Schein der Fackel aus der Gasse, und in dem Licht stand eine Gestalt. Aufrecht. Reglos. Die Schultern rauchten.
 
 "Seit drei Stunden", sagte Kaspar.
 
@@ -36,13 +36,13 @@ Das Feuer kam vor dem Morgengrauen.
 
 Sie knieten zu viert am Steinkreis: Elke, Lene, Kaspar, Keldan. Handflächen auf dem Fels, wie sie es in den letzten Wochen gelernt hatten. Kein Ritual. Keine Worte. Nur drücken, alle gleichzeitig, und der Raum gab nach. Die Luft über dem Kreis fing an zu flimmern — ein Beben, das man nicht sah, sondern spürte, in den Zähnen, im Kieferknochen, in den Fußsohlen auf dem kalten Stein.
 
-Dann wurde die Luft über dem Handelshaus orange — kein Sonnenaufgang, zu früh, zu grell, und der Geruch war falsch: Pech und Holz und etwas Scharfes, das in den Augen brannte. Drei Feuergestalten traten aus einer Öffnung in der Luft, zwischen dem Handelshaus und dem Kreis, dort wo der Garten in die Wildnis überging. Die Öffnung war kaum mannshoch, und sie schloss sich hinter ihnen wie ein Mund, der ein Wort zurücknahm. Die Gestalten brannten nicht — sie trugen das Feuer wie einen Mantel, und wo sie gingen, fing der Boden Feuer.
+Dann wurde die Luft über dem Handelshaus orange — kein Sonnenaufgang, zu früh, zu grell, und der Geruch war falsch: Pech und Holz und etwas Scharfes, das in den Augen brannte. Eine Feuergestalt trat aus einer Öffnung in der Luft, zwischen dem Handelshaus und dem Kreis, dort wo der Garten in die Wildnis überging. Die Öffnung war kaum mannshoch, und sie schloss sich hinter ihr wie ein Mund, der ein Wort zurücknahm. Die Gestalt brannte nicht — sie trug das Feuer wie einen Mantel, und wo sie ging, fing der Boden Feuer.
 
-Keldan stand auf. Er hatte den Eisenarm, den er sich vor Wochen geschmiedet hatte — ein Schild, breiter als seine Schulter, aus einem Stück gehämmert, und das Eisen sang in seiner Hand, wie es sang, wenn Keldan es hielt. Er stellte sich zwischen die Wesen und den Kreis, und Elke sah sein Gesicht im Feuerschein: ruhig, konzentriert, die Augen eines Mannes, der sein Material kannte. Die Hitze erreichte den Steinkreis. Elkes Handflächen brannten auf dem Fels.
+Keldan stand auf. Er hatte den Eisenarm, den er sich vor Wochen geschmiedet hatte — ein Schild, breiter als seine Schulter, aus einem Stück gehämmert, und das Eisen sang in seiner Hand, wie es sang, wenn Keldan es hielt. Er stellte sich zwischen das Wesen und den Kreis, und Elke sah sein Gesicht im Feuerschein: ruhig, konzentriert, die Augen eines Mannes, der sein Material kannte. Die Hitze erreichte den Steinkreis. Elkes Handflächen brannten auf dem Fels.
 
 Drei Hände statt vier. Aber das Flimmern hielt.
 
-Eines der Wesen drehte sich nach Keldan.
+Das Wesen drehte sich nach Keldan.
 
 Das Eisen schmolz. Nicht langsam — es hörte auf, fest zu sein, in der Zeit, die man brauchte, um einzuatmen. Keldan fiel. Das Eisen tropfte von seinen Fingern, und er stand nicht auf.
 
@@ -50,21 +50,19 @@ Das Flimmern brach ab. Der Raum, der eben noch nachgegeben hatte, gab nicht mehr
 
 *Nein.*
 
-Dann kam es zurück. Instabiler, zuckend, als würde es von innen gerissen. Ein Riss in der Luft des Gartens, drei Schritt über dem Boden, dort wo eben noch Nacht gewesen war. Nicht sauber — eine Wunde. Dahinter: anderes Licht, fremd, in einer Farbe die keinen Namen hatte. Zwei Atemzüge lang. Dann schloss sich der Riss, und die Nacht war zurück, und die Gestalten drehten sich zum Steinkreis.
+Dann kam es zurück. Instabiler, zuckend, als würde es von innen gerissen. Ein Riss in der Luft des Gartens, drei Schritt über dem Boden, dort wo eben noch Nacht gewesen war. Nicht sauber — eine Wunde. Dahinter: anderes Licht, fremd, in einer Farbe die keinen Namen hatte. Zwei Atemzüge lang. Dann schloss sich der Riss, und die Nacht war zurück, und das Wesen drehte sich zum Steinkreis.
 
-Lene brach weg. Sie versuchte, eines der Wesen vom Kreis wegzudrängen, Schulter voran, und das Wesen warf sie zu Boden, als wäre sie nichts. Ihr Knie schlug auf den Stein. Sie robbte zurück, die Zähne zusammengebissen, und legte die Hände wieder auf den Fels.
+Lene brach weg. Sie versuchte, das Wesen vom Kreis wegzudrängen, Schulter voran, und es warf sie zu Boden, als wäre sie nichts. Ihr Knie schlug auf den Stein. Sie robbte zurück, die Zähne zusammengebissen, und legte die Hände wieder auf den Fels.
 
-Der Riss öffnete sich wieder. Weiter als zuvor, instabil, zuckend — eine Wunde, die nicht hielt. Das dritte Wesen drehte sich auf Elke zu.
+Der Riss öffnete sich wieder. Weiter als zuvor, instabil, zuckend — eine Wunde, die nicht hielt. Das Wesen drehte sich auf Elke zu.
 
 Sie trat an den Rand.
 
 Durch den Riss sah sie hindurch, und was sie sah, war nichts, was sie kannte.
 
-Hinter dem Riss war Schwärze — nicht Nacht, nicht die Abwesenheit von Licht, die man kannte, wenn die Kerze ausging. Es war eine Stelle, an der Raum aufgehört hatte zu sein. Selbst der tiefste Brunnen hatte eine Stelle, an der das Seil endete. Das dort hatte kein Ende, weil es nie angefangen hatte.
+Hinter dem Riss war Schwärze — nicht Nacht, nicht die Abwesenheit von Licht, die man kannte, wenn die Kerze ausging. Eine saugende Dunkelheit, perfekt und still, als hätte jemand ein Loch in den Himmel geschnitten. Und um dieses Loch, an seinem Rand: ein Bogen aus Licht. Nicht weiß — eine Seite bläulich, grell, die andere kupfern bis dunkelrot, und dazwischen ein Verlauf, der über den halben Himmel reichte. Das Licht warf keine Schatten. Es fiel von überall gleichzeitig, weich, als gäbe es keine Quelle und keinen Rand, und die Luft darunter war bernsteinfarben und dicht.
 
-Und um dieses Aufgehörthaben, an seinem Rand: ein Bogen aus Licht. Weiß, zu hell, gebogen, als würde er hineingezogen und an der Kante gleichzeitig festgehalten, und er brannte mit einer Stille, die schlimmer war als jedes Geräusch. Der Saum. Die Naht, an der die Welt noch versuchte, Welt zu sein, und es nicht mehr schaffte.
-
-Elke sah hindurch und verstand nichts. Aber sie sah, dass die Wesen von dort kamen. Dass was auch immer sie schickte, in dieser Schwärze saß.
+Elke sah hindurch und verstand nichts. Aber sie sah, dass das Wesen von dort kam. Und sollte es eine Chance geben es aufzuhalten, dann dort.
 
 "Ich komme mit", sagte Kaspar hinter ihr.
 
@@ -84,9 +82,7 @@ Der Riss war zu. Die Luft über dem Steinkreis war wieder Luft, kalt und unbeweg
 
 Aus der Oberstadt kamen Schreie, dann Feuer. Ein Block hinter dem Handelshaus. Pechfässer, vielleicht, oder Funkenflug — so würde die Stadt es sich erklären. Die Stadt hatte keine andere Sprache.
 
-Das letzte Wesen stand am Rand des Gartens. Keine Richtung mehr, kein Auftrag. Es wanderte in die Gassen, und Lene hörte das Feuer ihm folgen, von Dach zu Dach, und die Schreie wurden lauter und dann leiser und dann war es still.
-
-Irgendwann — sie wusste nicht, wie lange — stand das Wesen. Drehte sich. Löste sich auf. Wurde dünner, durchsichtiger, bis nichts mehr da war. Kein Grund erkennbar. Die Stadt würde es nicht sehen. Lene sah es, allein im Garten, das verletzte Knie angewinkelt, die Hände auf dem kalten Stein.
+Das Wesen stand am Rand des Gartens. Dann drehte es sich um und ging in die Gassen. Lene hörte das Feuer ihm folgen, von Dach zu Dach, und die Schreie wurden lauter und dann leiser und dann war es still.
 
 Sie stand auf. Das Knie hielt. Notdürftig. Sie ging zu Keldan, blieb stehen, schaute ihn an, lang genug um sich sein Gesicht einzuprägen. Dann ging sie in die Stadt. Nicht nach Hause. Woanders hin.
 
