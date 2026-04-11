@@ -4,7 +4,7 @@
 
 Die Schemen waren anders geworden.
 
-Drei Wochen zurück: Lene hatte einen in ihrer Werft gesehen, der an einem halbfertigen Boot weiterarbeitete — die Hände breiter als Menschenhände, knotig, und das Holz fügte sich unter ihnen wie Talg. Zwei Wochen zurück: Keldan hatte am Hafen sieben gezählt, in einer einzigen Nacht, mehr als in den ganzen Monaten davor, und seine Stimme war dabei ruhig gewesen, die Stimme eines Mannes, der Eisen kannte und nicht leicht erschrak. Letzte Woche: der Schemen an der Klippe. Kein Tier mehr. Aufrecht, schmal, und er war ihr gefolgt, zwanzig Schritt, dreißig, mit der Geduld von etwas, das wusste, wohin sie ging.
+Drei Wochen zurück: Lene hatte einen auf dem Klippenweg gesehen, mitten am Tag, reglos zwischen den Felsen, den Kopf in ihre Richtung gedreht. Zwei Wochen zurück: Keldan hatte am Hafen sieben gezählt, in einer einzigen Nacht, mehr als in den ganzen Monaten davor, und seine Stimme war dabei ruhig gewesen, die Stimme eines Mannes, der Eisen kannte und nicht leicht erschrak. Letzte Woche: der Schemen an der Klippe. Kein Tier mehr. Aufrecht, schmal, und er war ihr gefolgt, zwanzig Schritt, dreißig, mit der Geduld von etwas, das wusste, wohin sie ging.
 
 Elke saß auf der Bettkante und hörte den Wind gegen die Fensterläden drücken. Das Talgfeuer der Kerze warf einen gelben Kreis auf die Decke, und der Kreis zitterte, wenn der Zug durch die Ritzen kam. Die Quelle pulsierte unter dem Stein wie immer, gleichmäßig, geduldig — nicht schneller, nicht langsamer, seit dem Tag, an dem Elke zum ersten Mal die Hand auf den Fels gelegt hatte. Das hier kam nicht von der Quelle. Das kam von woanders.
 
