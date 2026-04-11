@@ -2,8 +2,8 @@
 
 **POV:** Elke van der Holt (3. Person nah, Präteritum)
 **Timeline:** Frostmond, 154 TZ / 3634 MZ — wenige Wochen nach I2
-**Wortziel Ausarbeitung:** 2.000–2.500 W (Interludium-Format)
-**Gänsehaut-Moment:** Elke springt durch den instabilen Riss. Kaspar schafft es nicht.
+**Wortziel Ausarbeitung:** 1.600–2.000 W (Interludium-Format)
+**Gänsehaut-Moment:** Elke sieht durch den Riss — absolute Schwärze, durchzogen von einem gleißenden Bogen aus Licht. Kein Mond. Kein Licht. Das Schwarze Loch. Der dritte Schemen dreht sich auf sie. Sie springt. Kaspar schafft es nicht.
 
 ## Grundprinzipien für die Ausarbeitung (Canon)
 
@@ -22,7 +22,7 @@
 
 ## Szene 1 — Die Nacht vor dem Feuer (Elkes Zimmer, Oberstadt)
 
-**Wortziel:** 600–700 W
+**Wortziel:** 500–600 W
 
 **Exposition:** Die Schemen werden häufiger. Nicht das Pulsieren der Quelle — das ist gleichmäßig wie immer. Die Angriffe.
 
@@ -50,11 +50,26 @@
 **Ausarbeitungs-Hinweis:**
 - 2–3 sensorische Details die zeigen was Elke diese Nacht mit Kaspar hat — kein Sex, aber Textur: Wärme, Geruch, wo er sitzt, wie er riecht wenn er schläft oder nicht schläft. Der Leser muss fühlen was sie verliert.
 
+**Ausarbeitungs-Hinweis (Szene 2 — Das Schwarze Loch, Elkes Wahrnehmung):**
+
+Elke steht in 154 TZ — frühes 15. Jahrhundert-Äquivalent. Kein wissenschaftliches Vokabular. Kein Begriff für Gravitation, Akkretionsscheibe, Photonensphäre. Was sie sieht, muss sie mit dem beschreiben was sie kennt.
+
+Sie kennt:
+- Sonnenfinsternisse — den Moment wenn der Mond die Sonne verdeckt und nur der Kranz bleibt, weiß und still, das Licht das sich nicht löschen lässt
+- Das Nichts als theologisches Konzept — vor der Schöpfung war Nichts, aber das Nichts hat nie eine Form gehabt
+- Den Abgrund — Schlund, Schlot, den Grund eines Brunnens wo das Licht aufhört
+
+Was sie sieht: Das Firmament ist kaputt. Nicht dunkel — dunkel hat Tiefe, hat Richtung, hat die Möglichkeit von Licht dahinter. Das dort hat keine Möglichkeit mehr. Es ist das Ende des Raumes, eine Stelle wo Welt aufgehört hat zu sein. Und um dieses Aufgehörthaben: ein Bogen aus Feuer, weiß, zu hell, der sich krümmt als würde er hineingezogen und gleichzeitig an dieser einen Kante zurückgehalten. Der Saum der Welt. Die Naht.
+
+Sie denkt nicht: Gottesauge, Teufelsschlund. Elke ist praktisch. Sie sieht es, sie versteht nichts davon, und sie springt.
+
+Wichtig: KEINE Erklärung, KEINE Benennung, KEINE Einordnung. Die Leserin darf begreifen was Elke nicht begreifen kann. Elke beschreibt es wie einen unbekannten Gegenstand — Größe, Form, Verhalten — mit den Wörtern die sie hat. Kein "es war wie" wenn es kein Vergleich gibt. Das Schwarze Loch hat keinen Vergleich. Das ist der Gänsehaut-Punkt.
+
 ---
 
 ## Szene 2 — Der Riss (Botanischer Garten / Unterstadt)
 
-**Wortziel:** 1.000–1.200 W
+**Wortziel:** 800–1.000 W
 
 **Exposition:** Die nächste Nacht. Kein Plan — die Schemen kommen.
 
@@ -64,7 +79,7 @@
 3. **Keldans Tod:** Einer der Schemen dreht sich nach ihm. Das Eisen schmilzt. Keldan fällt. Steht nicht auf.
 4. Das Flimmern bricht kurz ab ohne Keldan — Lene und Kaspar und Elke drücken weiter. Das Flimmern kommt zurück, instabiler, zuckend. Dann: ein Riss. Nicht sauber — eine Wunde in der Luft des Gartens. Dahinter: anderes Licht. Zwei Monde. Für Sekunden. Dann schließt er sich wieder.
 5. Die Schemen drehen sich Richtung Portal-Rest. Lene bricht weg — kein Verrat, sie versucht einen Schemen vom Steinkreis wegzudrängen, wird dabei zu Boden geworfen. Ihr Knie. Sie kann noch drücken, kaum.
-6. Elke und Kaspar: der Riss öffnet sich wieder, für Sekunden. Weiter als vorher. Instabil — zuckt, atmet, als würde er sich selbst wieder schließen wollen. Elke sieht hindurch. Dort ist die Quelle. Was auch immer Schemen schickt, es ist dort.
+6. Der Riss öffnet sich wieder, weiter als vorher. Instabil — zuckt, atmet. Der dritte Schemen dreht sich auf Elke zu. Sie tritt an den Riss und sieht hindurch: keine zwei Monde, kein fremdes Licht. Absolute Schwärze — nicht Nacht, nicht Dunkel, das Aufgehörthaben von Raum selbst. Und um diese Schwärze: ein gleißender Bogen aus Licht, gebogen, weiß, zu hell, als würde er sich an der Kante des Nichts festkrallen. Das Schwarze Loch. Kein Name dafür. Elke hat nie etwas gesehen das aufgehört hat zu existieren — aber sie erkennt, dass die Dinge von dort kommen. Dass was auch immer die Schemen schickt, es in diesem Dunkel sitzt.
 7. Kaspar sagt: "Ich komme mit." Elke: kein Wort. Sie greifen gleichzeitig in den Riss.
 8. **Kaspars Tod im Übergang:** Der Riss schließt sich WÄHREND sie durchgehen. Instabil — er hält einen Atemzug zu kurz. Elke kommt durch. Kaspar nicht. Was von ihm ankommt, ist nicht mehr Kaspar.
 9. Lene am Steinkreis, verletzt, allein. Der letzte Schemen steht vor dem nichts. Dreht sich. Geht in die Stadt.
@@ -78,7 +93,7 @@
 **Tschechow-Waffen geladen:**
 - Elke kann nicht zurück (Keldan tot, Kaspar tot, braucht alle vier für Thalassien-Seite)
 - Lene allein, verletzt → schreibt das Manuskript; Kaspars Bild darin
-- Letzter Schemen wütet ohne Bindungs-Kontrolle durch die Stadt (Varen kappt es erst als er Elke sieht, Verzögerung durch Portal-Dämpfung)
+- Letzter Schemen wütet ohne Bindungs-Kontrolle durch die Stadt — löst sich irgendwann auf (Grund liegt in Moragh, wird hier nicht gezeigt)
 - Instabiler Riss als Vorläufer des kontrollierten Portals in Buch 1 — die Vier in 551 TZ machen es besser, weil Vesper die Zeitkomponente versteht
 - Kaspars Ende IM Übergang → neue Art von Tod, die Elke nie verarbeiten kann (kein Leichnam, keine Stelle, kein Grab)
 
@@ -89,48 +104,32 @@
 
 ---
 
-## Szene 3 — Moragh / Varen
+## Szene 3 — Lene (Botanischer Garten / Unterstadt)
 
-**Wortziel:** 400–500 W
+**Wortziel:** 300–400 W
 
-**Exposition:** Elke landet in Moragh. Allein.
+**Exposition:** Elke ist weg. Der Riss ist zu. Lene ist allein.
 
 **Beats:**
-1. Zwei Monde. Anderes Licht. Schwarzer Basalt, warm, glatt. Kein Nebel. Luft riecht nach Stein und Kupfer. Elke liegt auf dem Boden. Sie dreht sich um — hinter ihr: nichts. Der Riss ist zu. Kaspar ist nicht da.
-2. ~100 Schritt entfernt: ein Mann zwischen Geräten die sie nicht einordnen kann. Er schaut auf. Sein Gesicht macht etwas das Elke noch nie bei einem erwachsenen Menschen gesehen hat: erschrecken — einfrieren — und dann, langsam, etwas das aussieht wie Begreifen. Als würde er zum ersten Mal verstehen was er getan hat.
-3. Er greift zu einem der Geräte. Ein Leuchten erlischt. Das Brennen das Elke noch gespürt hat — Reste der Schemen-Verbindung durch den Riss — lässt nach. (In Vael: der letzte Schemen dreht sich, läuft ohne Richtung. Minuten später löst er sich auf.)
-4. Stille. Der Mann sagt etwas in einer Sprache die wie ihre eigene klingt, verdreht, falsch. Dann auf Thalassisch, Akzent den sie nicht einordnen kann: "Das war nicht — ich wusste nicht dass dort —" Er bricht ab.
-5. Elke versteht: Dieser Mann hat die Dinge geschickt. Er wusste nicht was auf der anderen Seite ist. Er hat experimentiert und Keldan und Kaspar getötet ohne zu wissen, dass da Menschen sind. Das ist das falscheste was sie je gehört hat — schlimmer als Absicht.
-6. Sie steht auf. Fragt: "Wie heißt Ihr?"
-7. "Varen."
+1. Der Riss schließt sich. Lene am Boden, Knie. Keldan liegt drei Schritt entfernt. Kaspar ist nicht da — kein Leichnam, keine Stelle, nichts. Das Nicht-da-Sein ist schlimmer als ein Leichnam.
+2. Der letzte Schemen wandert durch die Stadt. Keine Richtung mehr, kein Auftrag. Lene hört: Schreie, dann Feuer vom Hafen. Ein Block. Pechfässer, vielleicht, oder Funkenflug — so wird die Stadt es sich erklären. Sie erklärt es sich so, weil sie keine andere Sprache hat.
+3. Irgendwann — sie weiß nicht wie lange — steht der Schemen, dreht sich, löst sich auf. Kein Grund erkennbar. Die Stadt wird es nicht sehen. Sie sieht es, allein im Garten.
+4. Lene steht auf. Das Knie hält. Notdürftig. Sie geht zu Keldan. Bleibt kurz stehen. Geht dann in die Stadt — nicht nach Hause. Woanders hin. Sie hat Kaspars Bild noch, das er ihr gegeben hat.
+5. In Vael beginnt der Morgen: Feuergeruch, Asche, Leute die löschen. Die Stadt erklärt sich: Funkenflug. Schlechte Lagerung. Unglück. Beginnt zu bauen. Das Große Feuer wird ein Datum in den Chroniken — kein Wesen, kein Fluch, kein Schicksal. Ein Datum. Lene ist die einzige die weiß was in dieser Nacht wirklich war.
+6. Sie setzt sich hin — wo, ist egal — und öffnet das Bild. Der Hafen, Nacht, Hohlräume im Schatten, Augen. Das Manuskript beginnt hier.
 
 **Dialog-Informationen:**
-- Varen erfährt: Es gibt Menschen auf der anderen Seite. Seine Schemen haben sie angegriffen. Eine Frau hat es durch einen instabilen Riss geschafft — jemand der mit ihr gegangen ist, nicht.
-- Elke erfährt: Er hat es nicht gewusst. Das macht es nicht besser. Es macht es komplizierter.
-- Elkes Erkenntnis: Absicht wäre einfacher. Das hier — ein Experiment ohne Konsequenzen-Vorstellung — ist etwas anderes. Sie weiß noch nicht was sie damit anfangen soll.
+- Kein Dialog. Lene allein.
 
 **Tschechow-Waffen geladen:**
-- Varens Nicht-Wissen → macht die 6-Monate-Beziehung möglich (sie bleibt weil er nicht böse war, nur rücksichtslos)
-- Varens Begreifen-Gesicht → feuert in Buch 3 wenn Alphina die Wahrheit über die zerstörten Quellen erfährt (dasselbe Gesicht, andere Katastrophe)
-- "Das war nicht — ich wusste nicht dass dort —" → Varens erstes Schuldgeständnis, unfertig
-- Kaspars Fehlen → Elke dreht sich nach ihm um und er ist nicht da. Das ist der eigentliche Bruch. Varen ist nur die Person die zufällig anwesend ist.
+- Das Manuskript beginnt in dieser Nacht → Buch 1, K09 Archiv
+- Kaspars Bild im Manuskript → Sorel erkennt es K10
+- "Die einzige die weiß was war" → Lenes Isolation; warum das Manuskript nie öffentlich wurde
+- Das Große Feuer als Datum in Vaels Chroniken → Buch 1 Figuren kennen es als historisches Ereignis, nicht als Übergang
 
 **Tschechow-Waffen abgefeuert:**
-- Varen schickt Schemen durch Portal ohne zu wissen was auf der anderen Seite ist (Canon) → bestätigt
-- Elke kommt in Moragh an, trifft Varen (zeitleiste.json) → umgesetzt
-
----
-
-## Nachbild (Notiz für Ausarbeitung)
-
-Wird aus Elkes Perspektive nicht gezeigt — sie ist in Moragh, sieht nichts. Aber der Leser weiß:
-- Letzter Schemen wütet einige Minuten in der Stadt, dann löst er sich auf (Bindung gekappt, Verzögerung durch Portal-Dämpfung)
-- Teile der Unterstadt brennen — Hafen, ein Block nahe dem Garten
-- Lene überlebt verletzt. Schreibt das Manuskript. Kaspars Bild (das er ihr gegeben hat) kommt rein.
-- Keine neuen Schemen danach. Keine neuen Phänomene. Der Spuk ist erstmal vorbei.
-- Die Stadt erklärt es sich als Gottesblitz, Feuerdämonen, Strafe.
-
-**Kaspars Ende braucht in der Ausarbeitung keinen Satz der erklärt was passiert ist.** Elke dreht sich um und er ist nicht da. Das reicht. Kein Leichnam, keine Stelle. Nur das Nicht-da-Sein.
+- Lene allein, verletzt (Szene 2) → steht auf, geht
+- Kaspar gibt Lene das Bild (Szene 1) → sie hat es noch
 
 ---
 
@@ -138,14 +137,18 @@ Wird aus Elkes Perspektive nicht gezeigt — sie ist in Moragh, sieht nichts. Ab
 
 **Was weiß Elke am Anfang:** Vier Resonanz-Träger. Experimente am Steinkreis haben Wirkung. Schemen werden gefährlicher.
 
-**Was weiß sie am Ende:** Varen existiert. Er wusste nicht was auf der anderen Seite ist. Keldan tot. Kaspar nicht angekommen. Lene wahrscheinlich noch in Vael — ob sie überlebt hat, weiß Elke nicht. Sie kann nicht zurück.
+**Was weiß Elke am Ende:** Elke ist durch den Riss. Was in Moragh passiert — wer Varen ist, was zwischen ihnen entsteht, wie lange sie bleibt — wird in I3 nicht gezeigt. Offen für spätere Ausarbeitung.
 
-**Was darf sie NICHT wissen (Sorel-Prinzip):**
-- Varens Fraktion / Herkunft / was er sonst noch angerichtet hat (lernt sie in 6 Monaten)
-- Was Moragh ist — Städte, Fraktionen, Geschichte
-- Ob Lene überlebt hat
-- Varens Experiment mit den zerstörten Quellen (erfährt sie in der Beziehung, verlässt ihn dann)
-- TZ/MZ-Differenz
+**Was weiß Lene am Ende:** Keldan tot. Kaspar verschwunden — kein Leichnam. Elke durch den Riss. Sie ist allein. Die Phänomene haben aufgehört. Die Stadt schläft.
+
+**Was darf Lene NICHT wissen (Sorel-Prinzip):**
+- Ob Elke angekommen ist
+- Was Kaspar im Übergang passiert ist
+- Wer oder was die Schemen geschickt hat
+- Ob es wieder passiert
+
+**Bewusst offen gelassen:**
+- Elkes Geschichte in Moragh (Varen, Dauer, Rückkehr oder Nicht-Rückkehr) — wird an anderer Stelle erzählt oder nicht erzählt. I3 endet vor dieser Begegnung.
 
 ---
 
