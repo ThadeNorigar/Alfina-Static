@@ -282,8 +282,13 @@ Die Riss-Quelle zu zerstören ist dieselbe Handlung wie jede andere Quellen-Übe
 **Wer kann Portale öffnen:**
 - **Varen** — Druckmanipulation (Velmar-Binder-Kaste) + angelernte Zeitmanipulation (2 Jahre Portalforschung, MZ -3 bis -1). Erste Versuche brachial und unsicher.
 - **Vesper** — Resonanz Muster/Zeit. Schwerkraftmanipulation IST Zeitmanipulation. Kann die Portalmagie intuitiv begreifen. Liefert die zweite Komponente wenn die Vier das Portal von Thalassien-Seite öffnen.
-- **Elke** — Resonanz Erde/Stein = reine Raummanipulation. Kann KEIN Portal öffnen. Kam durch Varens Portal.
+- **Elke** — Resonanz Erde/Stein = reine Raummanipulation. Kann KEIN Portal allein öffnen. Kam durch das von den Vier gemeinsam geöffnete Thalassien-Portal (I3) — alle vier Resonanzen zusammen ersetzen die fehlende Zeitkomponente durch Masse.
 - **Maren** — Resonanz Wasser/Fluss = Raummanipulation, nicht Zeit. Kann nach dieser Regel **kein** Portal öffnen. Rückweg in Buch 2 offen (siehe `19-varen.md`, offene Frage).
+
+**Portal-Geometrie:**
+- Kein Tunnel, keine Höhle — räumliche Verschiebung im offenen Raum (im Botanischen Garten, nicht darunter).
+- Austrittsort: nie exakt am Einstieg — ~500m-Radius um die Ziel-Quelle. In Vael typisch 50–200m Versatz (Garten ist klein, beide Öffnungen enden nah beieinander).
+- Beide Seiten können gleichzeitig offen sein: je eigene Öffnung, je eigene Richtung. Kein automatischer Zweiwegverkehr.
 
 **Historisches Verbot:** Vor ~200 MZ-Jahren sind ~350 Menschen durch ein Quellenportal nach Thalassien geflohen. Keiner kam zurück (Canon-Hypothese: der Zeit-Begabte starb auf der anderen Seite). Seitdem ist Portalmagie **von allen Fraktionen verboten** — gilt als unkontrollierbar, gefährlich, religiös unrein. Einer der wenigen Konsenspunkte zwischen Bund, Velmar und Thar.
 
