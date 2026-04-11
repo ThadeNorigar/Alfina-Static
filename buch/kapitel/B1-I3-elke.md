@@ -36,7 +36,7 @@ Das Feuer kam vor dem Morgengrauen.
 
 Sie knieten zu viert am Steinkreis: Elke, Lene, Kaspar, Keldan. Handflächen auf dem Fels, wie sie es in den letzten Wochen gelernt hatten. Kein Ritual. Keine Worte. Nur drücken, alle gleichzeitig, und der Raum gab nach. Die Luft über dem Kreis fing an zu flimmern — ein Beben, das man nicht sah, sondern spürte, in den Zähnen, im Kieferknochen, in den Fußsohlen auf dem kalten Stein.
 
-Dann wurde die Luft über dem Handelshaus orange — kein Sonnenaufgang, zu früh, zu grell, und der Geruch war falsch: Pech und Holz und etwas Scharfes, das in den Augen brannte. Eine Feuergestalt trat aus einer Öffnung in der Luft, zwischen dem Handelshaus und dem Kreis, dort wo der Garten in die Wildnis überging. Die Öffnung war kaum mannshoch, und sie schloss sich hinter ihr wie ein Mund, der ein Wort zurücknahm. Die Gestalt brannte nicht — sie trug das Feuer wie einen Mantel, und wo sie ging, fing der Boden Feuer.
+Eine Gestalt trat aus einer Öffnung in der Luft, zwischen dem Handelshaus und dem Kreis, dort wo der Garten in die Stadt überging. Die Öffnung war kaum mannshoch, und sie schloss sich hinter ihr wie ein Mund, der ein Wort zurücknahm. Die Gestalt brannte nicht selbst — sie trug das Feuer wie einen Mantel, und wo sie ging, fing der Boden Feuer. Die Luft über dem Handelshaus wurde orange, zu früh, zu grell, und der Geruch war falsch: Pech und Holz und etwas Scharfes, das in den Augen brannte.
 
 Keldan stand auf. Er hatte den Eisenarm, den er sich vor Wochen geschmiedet hatte — ein Schild, breiter als seine Schulter, aus einem Stück gehämmert, und das Eisen sang in seiner Hand, wie es sang, wenn Keldan es hielt. Er stellte sich zwischen das Wesen und den Kreis, und Elke sah sein Gesicht im Feuerschein: ruhig, konzentriert, die Augen eines Mannes, der sein Material kannte. Die Hitze erreichte den Steinkreis. Elkes Handflächen brannten auf dem Fels.
 
@@ -78,11 +78,9 @@ Elke stand auf fremdem Boden und ihre Knie gaben nach. Der Stein unter ihr war w
 
 Lene lag am Boden.
 
-Der Riss war zu. Die Luft über dem Steinkreis war wieder Luft, kalt und unbewegt, als wäre nichts gewesen. Keldan lag drei Schritt entfernt, das geschmolzene Eisen neben ihm, erstarrt in einer Form, die kein Schmied gewollt hätte. Von Kaspar war nichts geblieben. Keine Stelle, an der er gefallen wäre. Kein Körper, den man hätte begraben können.
+Der Riss war zu. Die Luft über dem Steinkreis war wieder Luft, kalt und unbewegt, als wäre nichts gewesen. Keldan lag drei Schritt entfernt, das geschmolzene Eisen neben ihm, erstarrt in einer Form, die kein Schmied gewollt hätte. Elke und Kaspar waren verschwunden.
 
-Aus der Oberstadt kamen Schreie, dann Feuer. Ein Block hinter dem Handelshaus. Pechfässer, vielleicht, oder Funkenflug — so würde die Stadt es sich erklären. Die Stadt hatte keine andere Sprache.
-
-Das Wesen stand am Rand des Gartens. Dann drehte es sich um und ging in die Gassen. Lene hörte das Feuer ihm folgen, von Dach zu Dach, und die Schreie wurden lauter und dann leiser und dann war es still.
+Das Wesen stand am Rand des Gartens. Dann drehte es sich um und ging in die Gassen. Lene hörte das Feuer ihm folgen, von Dach zu Dach. Aus der Oberstadt kamen Schreie, dann Feuer. Ein Block hinter dem Handelshaus. Pechfässer, vielleicht, oder Funkenflug — so würde die Stadt es sich erklären. Die Stadt hatte keine andere Sprache. Die Schreie wurden lauter und dann leiser und dann war es still.
 
 Sie stand auf. Das Knie hielt. Notdürftig. Sie ging zu Keldan, blieb stehen, schaute ihn an, lang genug um sich sein Gesicht einzuprägen. Dann ging sie in die Stadt. Nicht nach Hause. Woanders hin.
 
@@ -90,4 +88,4 @@ In Vael begann der Morgen. Feuergeruch, Asche, Leute die löschten und Leute die
 
 Sie setzte sich auf eine Stufe am Marktplatz. Der Stein war kalt unter ihr. Sie öffnete das Bild, das Kaspar ihr gegeben hatte — der Hafen, Nacht, Hohlräume im Schatten, Augen — und schaute es an, lange, bis das Licht des Morgens die Farben veränderte und die Augen in den Schatten blasser wurden, aber nicht verschwanden.
 
-Das Manuskript begann hier.
+
