@@ -1,7 +1,7 @@
 # B1-K21 — Alphina — Entwurf
 
 **POV:** Alphina (3. Person nah, Präteritum)
-**Timeline:** 24. Blütenmond 551 TZ · Ein Tag nach K20, zwei Tage nach K19 (dem Kampf im Garten)
+**Timeline:** 23. Blütenmond 551 TZ · Parallel zu K20 (Maren+Vesper im Archiv), einen Tag nach K19 (dem Kampf im Garten)
 **Wortziel Ausarbeitung:** 4.000–4.500 W
 **Gänsehaut-Moment:** Das Nacktbild ist keine Fotografie — es ist eine Projektion aus seinem Inneren. Sie existiert auf Platten, bei denen sie nie war. Das Silber hat sich nach seinem Bild von ihr geformt. Physisch unmöglich. Gleichzeitig das Zärtlichste und das Erschreckendste, was je mit ihr gemacht wurde.
 
@@ -51,6 +51,8 @@ Die zwanzigste Platte legt er nicht sofort hin. Kurzes Zögern — dann legt er 
 
 Er erklärt es nicht in akademischer Sprache. Er sagt: "Das ist nicht die Kamera. Das bin ich." Und dann sagt er: "Ich begehre dich. Seit dem Steg. Seit dem Garten. Ich wollte nicht aufhören." Er entschuldigt sich nicht. Er lügt nicht. Er wartet.
 
+*(Präzisierung für Ausarbeitung: Er weiß seit K16, dass er die Platten selbst macht — das ist kein Geheimnis mehr für ihn. Was er in K21 zum ersten Mal begreift: dass sein Bild von ihr so vollständig und so präzise ist, dass das Silber es annimmt. Das ist kein technischer Erkenntnismoment, sondern ein existenzieller: er hat sie in sich getragen, vollständig, ohne es zu benennen. "Er hat sie gerade erst benannt" bedeutet: nicht die Resonanz, sondern das Ausmaß der Obsession.)*
+
 Alphinas innerer Zustand: Sie ist wütend. Weil er sie nicht gefragt hat. Weil sie auf einer Platte existiert die sie nie für ihn freigegeben hat — und zwar so vollständig, so präzise, dass er offenbar mehr von ihr weiß als sie von sich selbst. Gleichzeitig: ihr Körper erinnert sich an K19. Seine Hände an ihren Handgelenken, der Kampf, seine Wärme nah. Das Begehren ist nicht neu. Es war da bevor sie seinen Namen kannte. *Verdammt, du Arsch.* Sein Blick weicht nicht aus.
 
 Sie zieht ihn zu sich. Nicht als ausgesprochene Entscheidung — als etwas das schon entschieden war bevor sie den Keller betrat. Kontrollverlust der sich anfühlt wie Ankommen. Er hält ihre Handgelenke — derselbe Griff wie K19, aber jetzt ohne Kampf, jetzt als Frage, jetzt als Warten.
@@ -60,7 +62,7 @@ Die Szene ist dringend, atemlos, intim. Erotik-Grad: die Ausarbeitung entscheide
 Farne wachsen durch die Kellerwände. Leise, langsam, ungerufen. Durch den Putz, zwischen Steinen, in einem Keller der kein Licht kennt. Ihre Magie und ihr Körper wollen zum ersten Mal dasselbe. Sie bemerkt es nicht sofort. Irgendwann sieht sie es — oder er sieht es zuerst. Keiner nennt es Wunder. Keiner nennt es überhaupt.
 
 **Dialog-Informationen:**
-- Alphina erfährt: Sorels Resonanz ist Licht-Formung — sein Bild von ihr hat das Silber geformt. Nicht gezielt, nicht böswillig. Er hat es selbst gerade erst verstanden.
+- Alphina erfährt: Sorels Resonanz ist Licht-Formung — sein Bild von ihr hat das Silber geformt. Nicht böswillig. Er wusste, dass er die Platten macht (seit K16). Was er erst jetzt begreift: dass er sie in sich trägt, vollständig, seit Wochen — und wie präzise dieses Bild ist. Das ist der eigentliche Erkenntnismoment.
 - Alphina erfährt: Das Begehren ist seit dem Steg (eine frühe Begegnung, vor K12). Nicht neu. Nur endlich ausgesprochen.
 - Sorel erfährt: Alphinas Kontrolle bricht. Das hat sie noch nie getan.
 - Alphinas Erkenntnis am Ende: Hingabe und Kontrolle sind nicht entgegengesetzt. Hingabe war immer die tiefere Form von Kontrolle — sie hat sie nur noch nie jemandem gegeben.
@@ -115,6 +117,8 @@ Alphina geht. Die Farne bleiben.
 ---
 
 ## Kontinuitäts-Notizen
+
+**Plattenzahl-Notiz:** K13 etabliert ~11 Platten, K16 fügt eine zwölfte hinzu (Akt-Platte, bewusst erzeugt). Im Entwurf liegen 19+1=20 Platten. Differenz: 7–8 Platten zwischen K16 und K21 (ca. 4 Wochen). Das ist plausibel — Sorel hat unbewusst weiter projiziert. Die Zahl muss beim ersten Vorkommen in der Ausarbeitung konsistent mit dem sein, was in K13/K16 etabliert wurde. Entweder ~12–14 (sicherer) oder "neunzehn" mit expliziter Begründung im Kontext-Kommentar.
 
 **Was weiß Alphina am Anfang?**
 - Sorel fotografiert, hat seltsame Platten von ihr — sie weiß es nicht, ahnt es nicht
