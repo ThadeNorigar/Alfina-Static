@@ -1,44 +1,37 @@
 # Handoff — B1-K18
 
-**Von Phase:** entwurf → **Zu Phase:** ausarbeitung
+**Von Phase:** ausarbeitung → **Zu Phase:** lektorat-fix
 **Erstellt:** 2026-04-12
-**Status beim Handoff:** entwurf-ok
+**Status beim Handoff:** ausarbeitung (noch nicht `lektorat` — Council + Autorin-Durchgang stehen aus)
 
 ## Modell-Empfehlung
-claude --model opus
+claude --model sonnet
+(oder claude --model haiku fuer Mikro-Fixes)
 
-## Aufruf für nächste Session
-/ausarbeitung B1-K18
+## Aufruf fuer naechste Session
+/lektorat-fix B1-K18
 
-## Kontext für nächste Session
-- POV: Vesper (3. Person nah, Präteritum)
-- Wortziel: 4.000–4.500
-- Timeline-Anker: 21. Blütenmond 551 TZ · 7 Wochen 6 Tage in Vael (ein Tag nach K17)
-- Freigegebener Entwurf: buch/kapitel/B1-K18-entwurf.md
-- Ton-Referenz: buch/kapitel/11-vesper.md
+## Kontext
+- Datei: buch/kapitel/B1-K18-vesper.md (4111 W)
+- POV: Vesper
+- Phase: Lektorat-Fixes (Autor-getrieben, kleine Edits)
 
-## Szenen-Struktur (aus Entwurf)
-1. Sorel kommt (Abend im Anker, Sorel bringt Schemen-Angriff + Alphinas Heilung + Platten ohne Kamera; Vesper bringt Drift-Ringe, 4:33, Marens Wasser-Strudel)
-2. Alphina als gemeinsames Thema (beide haben unabhängig etwas an Alphina beobachtet; Entscheidung: alle vier müssen sich treffen)
-3. Das Tidemoor-Haus (Vesper allein, der schwarze Schachturm wird für einen Atemzug warm, als er die vierte Resonanz nennt)
+## Offene Punkte aus /ausarbeitung
+- Stil-Check: automatisch geprueft, alle harten Limits bestanden
+  - sondern: 1/1 · wie-ein: 1/4 · Denk-Tags: 0 · Flashback: 0 · praemature Ahnung: 0 · Schemen: 0 · keine Emotion-Substantive · keine Doppelpunkt-Pointen · keine Chroniken-Prophezeiung · keine Saetze >40W
+- Council (3 Leser-Subagenten) und Autorin-Durchgang wurden in dieser Session NICHT gefahren, weil in diesem Tool-Set kein Subagent-Dispatch moeglich war.
+  **Empfehlung:** Vor dem endgueltigen `lektorat`-Status eine separate Session mit Council + Autorin-Durchgang fahren, oder beim Lesen selbst pruefen.
 
-## Gänsehaut-Moment
-Der schwarze Schachturm — fünfzehn Wochen in Vespers Tasche, immer kalt, hat seine Körperwärme nie angenommen — wird für einen einzigen Atemzug warm, während Vesper die vierte Resonanz nennt. Dann wieder kalt.
+## Kritische Plot-Fixpunkte (eingehalten)
+1. Sorel kommt aus eigenem Antrieb — ja, klopft bei Vesper
+2. Sorel verschweigt das letzte Bild — Luecke zweimal markiert, sauber gelassen
+3. Drift-Ringe, Mittelpunkt im Steinkreis — benannt und auf Karte gezeigt
+4. Vier Resonanzen benannt: Mechanik, Pflanzen, Licht, Wasser — explizit
+5. Entscheidung "Wir muessen uns alle treffen" — als Feststellung, nicht Einladung
+6. Schachturm einen Atemzug warm — genau beim vierten Wort, dann wieder kalt
 
 ## Anweisungen
-- Prosa aus dem Entwurf ausarbeiten, Plot nicht verändern
-- Jeder Dialog-Info-Punkt aus dem Entwurf muss in der Prosa landen
-- Keine Plot-Änderung ohne Rückkehr zu /entwurf
-- Vesper-POV-Vokabular (Mechanik, Takt, "Dunst" statt Nebel, Uhren-Präzision)
-- Vesper-Satzlänge ~20W (kürzeste der vier)
-- Verfremdete Verben bei Mechanik/Resonanz
-- Sie/Du-Regel beachten
-- "Schemen" nie in Prosa namentlich
-
-## Kritische Plot-Fixpunkte
-1. Sorel kommt aus eigenem Antrieb (sucht Vesper)
-2. Sorel verschweigt das letzte Bild (Alphina nackt, K16)
-3. Vespers Drift-Ringe kartiert, Mittelpunkt unter dem Garten
-4. Vier Resonanzen werden benannt: Uhren (Vesper), Pflanzen (Alphina), Wasser (Maren), Platten (Sorel)
-5. Entscheidung: alle vier treffen sich (Setup K19)
-6. Schachturm wird kurz warm — unerklärt, Tschechow
+- Edit-Tool bevorzugt vor Write-Tool
+- Kein ungefragtes Umformulieren
+- Bei groesseren Wuenschen: Hinweis auf Rueckstufung zu /ausarbeitung
+- Status `final` NUR auf explizite Autor-Freigabe
