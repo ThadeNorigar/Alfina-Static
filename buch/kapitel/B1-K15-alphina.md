@@ -1,6 +1,6 @@
 # B1-K15 — Alphina
 
-*20. Mai 551 · 8 Wochen 2 Tage in Vael*
+*20. Bluetenmond 551 · 8 Wochen 2 Tage in Vael*
 
 Der Nebel kam am fünften Morgen zurück, als hätte er nie aufgehört. Alphina kniete zwischen den Lavendelreihen der westlichen Anlage und schnitt die welken Stängel aus den Büschen, die Henrik gestern markiert hatte — kleine Kerben im Holz, kaum sichtbar, ein System das er ihr nie erklärt hatte und das sie trotzdem lesen konnte. Die Erde unter ihren Knien war feucht und warm, wärmer als der Nebel erlaubte, und sie hatte aufgehört sich zu fragen warum. Die Schere klickte. Ein Stängel fiel. Der Lavendelduft hing schwer zwischen den Reihen, dicker als sonst, weil der Nebel stillstand und nichts weitertrug.
 
@@ -68,7 +68,7 @@ Sie zeigte auf den Garten-Boden. Ihre Hand zitterte nicht, aber sie zog sie schn
 
 Alphina sagte nichts. Ihre Hand lag auf der Bank, neben dem Notizbuch, und das Holz unter der Handfläche wurde wärmer, weil ihr Körper wärmer wurde, nicht viel, nicht so dass Runa es hätte bemerken können. Sie schaute auf den Boden. Der Boden war Erde, feucht, dunkel, mit dem Geruch den sie kannte und der süß war und nicht faulte.
 
-Henrik kam mit dem Gießkrug zurück und begann die Stecklinge zu wässern. Er nickte Runa zu, die er kannte, weil sie einmal im Monat vorbeikam und nach den Fuchsien fragte, die am Gartentor wuchsen. Das Gespräch verlor sich im Alltag — Runa fragte nach den Farnen, Alphina gab kurze Antworten, Henrik kommentierte das Wetter und die Feuchtigkeit und den Mehltau an den Rosen, der in diesem Mai hartnäckiger war als im letzten. Die Sätze waren Oberfläche. Darunter lag Runas Karte. Darunter der Kreis. Darunter der Boden.
+Henrik kam mit dem Gießkrug zurück und begann die Stecklinge zu wässern. Er nickte Runa zu, die er kannte, weil sie einmal im Monat vorbeikam und nach den Fuchsien fragte, die am Gartentor wuchsen. Das Gespräch verlor sich im Alltag — Runa fragte nach den Farnen, Alphina gab kurze Antworten, Henrik kommentierte das Wetter und die Feuchtigkeit und den Mehltau an den Rosen, der in diesem Bluetenmond hartnäckiger war als im letzten. Die Sätze waren Oberfläche. Darunter lag Runas Karte. Darunter der Kreis. Darunter der Boden.
 
 Runa blieb noch eine halbe Stunde. Sie redeten über das dritte Flugblatt, das Runa setzen wollte. Über Papier und Preise. Über die Wäscherin Lena Brack, die seit dem Frostbrand nicht mehr schlief. Runa faltete das Notizbuch zu, schob es unter den Arm, stand auf, strich den Mantel glatt. Alphina blieb auf der Bank sitzen.
 
