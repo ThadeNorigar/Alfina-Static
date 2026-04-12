@@ -111,6 +111,22 @@ Pro Szene aus dem Entwurf:
    - Eigennamen im Text eingefuehrt (Sorel-Prinzip)
 4. **KEIN Szenen-Council zwischendurch.** Die Pruefungen kommen am Ende.
 
+### Anti-Patterns waehrend des Schreibens aktiv vermeiden
+
+Siehe `buch/01-autorin-stimme.md` Kapitel 8. Die folgenden Muster entstehen beim Schreiben unbewusst und mussten bei 8 Kapiteln (K09–K16) rueckwirkend in ~200 Findings korrigiert werden. Beim Schreiben aktiv vermeiden:
+
+1. **Scharnier-Aphorismen:** Letzter Satz nach einem starken Bild, der das Bild deutet. Wenn das Bild arbeitet, braucht es keinen Schlusskommentar. `X. Das war Y.` am Absatz-Ende ist verdaechtig.
+2. **Figur redet ueber sich:** "Sie war eine von diesen." / "Er wusste, dass er im Weg stand. Er wusste, dass sie wusste, dass er im Weg stand." Statt Selbstkommentar: Koerper, Handlung, Ellipse.
+3. **Metapher + Erklaer-Nachsatz:** Bild, dann Nachsatz der das Bild wiederholt. HARTES VERBOT. Das Bild arbeitet allein.
+4. **Anaphern-Kaskade >3:** "Darunter... Darunter... Darunter..." Max 2 in Folge.
+5. **Emotionen als Substantiv** im Erzaehler: "Sehnsucht", "Obsession", "Scham", "Fuersorge", "das Unheimliche", "die Neugier". VERBOTEN, auch als Nomen.
+6. **Mind-Reading:** Die POV-Figur darf Gesten sehen, aber nicht Absichten anderer deuten. "als wollte sie pruefen, ob..." → streichen.
+7. **"Es gab Dinge, die..."** / "Manche [X], und sie war eine von diesen." → VERBOTEN (generalisierender Aphorismus).
+8. **Doppelpunkt-Pointe-Tic:** `X. Das war Y.` max 2/Kapitel, nie zwei in 10 Zeilen.
+9. **Chroniken-Prophezeiung:** "wuerde ein Datum in den Chroniken werden" / "wuerde er sich spaeter erinnern" — Sorel-Prinzip.
+
+**Test nach jeder Szene:** Letzten Satz jedes Absatzes anschauen. Wenn er das vorhergehende Bild kommentiert oder generalisiert — streichen.
+
 ### Harte Regeln waehrend der Ausarbeitung
 
 - **Jeder Plot-Beat aus dem Entwurf MUSS in der Prosa landen.** Dialog-Info-Punkte werden in echten Dialog/Aktion umgesetzt — keine darf verloren gehen.

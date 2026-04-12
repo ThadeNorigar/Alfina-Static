@@ -257,6 +257,13 @@ Lange Reflexion → Stakkato. Frage → Stille. Bandwurm → harter Kurzsatz. De
 | `sie wusste noch nicht, dass...` (prämature Ahnung) | **0** |
 | Berufslinsen-Bruch (z.B. Alphina nennt Tonwerte) | **0** |
 | Direkte Emotionsbenennung im Innenleben (`sie war traurig`) | **0** |
+| `Es gab Dinge, die...` (generalisierender Aphorismus) | **0** |
+| `Beide wussten das` / `Keiner sagte es` (Mind-Reading-Floskel) | **0** |
+| `Er wusste, dass [er/sie] wusste` (verschachtelte Meta-Reflexion) | **0** |
+| Emotions-Substantiv als Autoren-Nominalisierung (`Sehnsucht`, `Obsession`, `Scham`, `Fürsorge`, `das Unheimliche`) in Erzählstimme | **0** |
+| Anaphern-Kaskade: 3+ aufeinanderfolgende Sätze mit identischem Wort-Anfang (`Darunter... Darunter... Darunter...`, `Heute... Heute... Heute...`) | **0** (max 2 in Folge) |
+| Doppelpunkt-Pointe `X. Das war Y.` am Absatz-Ende | max 2/Kapitel |
+| `würde ... werden in den Chroniken` (prämature Prophezeiung) | **0** |
 
 ## Register-Wechsel (Council April 2026)
 

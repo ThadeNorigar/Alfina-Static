@@ -83,7 +83,68 @@ Folgende Stilmittel sind DEFAULT VERBOTEN. Einsatz nur nach bewusster Entscheidu
 | „sie dachte" / „er fragte sich" | VERBOTEN | NIE. Erlebte Rede. |
 | Adverb-Tags | VERBOTEN | NIE. |
 
-## 8. Referenz-Autorinnen
+## 8. Anti-Patterns beim Schreiben (Autorin-Durchgang April 2026, ~200 Findings über 8 Kapitel)
+
+Die folgenden Muster sind in allen Kapiteln K09–K16 mehrfach aufgetreten. Sie sind der Grund, warum die Prosa sich an Scharnieren "klug" anhört statt zu tragen. Beim Schreiben aktiv vermeiden:
+
+### Scharnier-Aphorismen (häufigstes Problem)
+Letzter Satz eines Absatzes nach einem starken Bild, der das Bild deutet oder die Pointe setzt. **Default: verboten.** Wenn das Bild arbeitet, braucht es keinen Schlusskommentar.
+
+Konkrete Muster die IMMER auftauchen:
+- `X. Das war Y.` ("Er war nicht Beobachter. Er war Medium.")
+- `Es gab Dinge, die...` (generalisierend)
+- `Das war das [abstraktes Substantiv].` ("Das war das Unheimliche.")
+- `Beide wussten das. Keiner sagte es.` (Mind-Reading-Floskel)
+
+### Figur redet über sich selbst
+Die Figur kommentiert das eigene Verhalten, die eigene Wahrnehmung, den eigenen Konflikt. **Default: verboten.**
+
+Tote Muster:
+- `Er wusste, dass er im Weg stand. Er wusste, dass sie wusste, dass er im Weg stand.`
+- `Sie war eine von diesen.`
+- `Ihr Körper sagte etwas, das ihr Kopf eine halbe Minute später formulieren würde.`
+- `Er hatte beschlossen, X nicht zu tun, um Y nicht zu verlieren.`
+
+Ersatz: Körper, Handlung, Ellipse.
+
+### Metapher + Erklär-Nachsatz (semantische Doppelung)
+Starkes Bild, dann ein Nachsatz, der das Bild in anderen Worten wiederholt. **Hartes Verbot.**
+
+Tot:
+- `das feine Silber in der Schicht eingeschlossen wie Salz in Wasser` (Salz löst sich, passt nicht)
+- `Warm wie eine Hand, die lange in einer anderen Hand gelegen hatte, ohne loszulassen.` (Erklär-Nachsatz)
+- `ein Nagel, der stand. Ein Nagel, der noch nicht eingetrieben war.`
+
+### Anaphern-Kaskade >3 gleicher Start
+Drei oder mehr aufeinanderfolgende Sätze/Phrasen mit identischem Anfang. **Max 2 in Folge.**
+
+Tot:
+- `Darunter lag Runas Karte. Darunter der Kreis. Darunter der Boden.`
+- `Heute war sie ausgeruht. Heute hatte sie gegessen. Heute hatte sie geschlafen...`
+- `Er entwickelte zwölf Platten. Siebzehn. Dann hörte er auf.` (Stakkato-Fragment-Tic)
+
+### Benannte Emotion als Substantiv
+Emotionen als Nomen in die Erzählstimme einzuführen ist verboten auch als Substantiv (nicht nur als Tag). Keine "Sehnsucht", "Obsession", "Scham", "Panik", "Fürsorge", "Wahrheit" (als Gefühls-Ersatz), "das Unheimliche", "die Neugier der jungen Jahre".
+
+### Doppelpunkt-Pointe als Tic
+`X. Das war Y.` oder `X: Y.` als Absatz-Schluss. Max 2 pro Kapitel. Nie zwei in Folge innerhalb von 10 Zeilen.
+
+### Cross-POV-Mindreading
+Die POV-Figur liest die Motive anderer Figuren. **Default: verboten.** Die POV-Figur darf Gesten sehen, aber nicht Absichten deuten.
+
+Tot:
+- `eine Geduld, die von innen kam, nicht eine, die ein Mann sich aufsetzte` (woher weiß sie das?)
+- `als wollte sie prüfen ob der Name bei Alphina landete`
+- `die Augen eines Mannes, der sein Material kannte`
+
+### Meta-Kommentar / Chroniken-Prophezeiung
+Der Erzähler weiß, was später passiert. **Default: verboten** (Sorel-Prinzip).
+
+Tot:
+- `Das Große Feuer würde ein Datum in den Chroniken werden.`
+- `weil das der billigste Beat gewesen wäre, den ein Mann in seiner Lage hätte spielen können.`
+
+## 9. Referenz-Autorinnen
 
 Die Stimme von „Der Riss" ist ein MEDLEY:
 - **King:** Erzähldichte, mundane Details, das Unwichtige das wichtig wird
