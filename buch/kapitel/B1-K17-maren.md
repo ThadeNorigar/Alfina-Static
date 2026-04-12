@@ -2,7 +2,7 @@
 
 *20. Blütenmond 551 · 7 Wochen 6 Tage in Vael*
 
-Maren hatte den Morgen schon eine Stunde alt gemacht, als sie ihn kommen hörte. Schritte über das Pflaster der Hafengasse, die auf der Werft anders klangen als in der Stadt — das Holz des Bodens unter der Sohle, die Spanplatten am Eingang, die knarrende Schwelle, auf der Edric jeden Morgen mit dem linken Fuß zuerst stand. Dies war ein anderer Fuß. Ein gleichmäßiger Gang, nicht eilig, nicht schlendernd, ein Schritt der seine Länge kannte.
+Der Morgen war eine Stunde alt, als sie ihn kommen hörte. Schritte über das Pflaster der Hafengasse, die auf der Werft anders klangen als in der Stadt — das Holz des Bodens unter der Sohle, die Spanplatten am Eingang, die knarrende Schwelle, auf der Edric jeden Morgen mit dem linken Fuß zuerst stand. Dies war ein anderer Fuß. Ein gleichmäßiger Gang, nicht eilig, nicht schlendernd, ein Schritt der seine Länge kannte.
 
 Sie hob den Kopf nicht sofort. Der Hobel lag schief, die letzte Welle in der Lärche wollte nicht nachgeben, das Holz hatte einen Knoten zwei Finger unter der Oberfläche, den sie gestern schon gespürt hatte und heute umgehen musste. Sie setzte den Druck neu, nahm die Späne ab, ließ die Faser arbeiten. Erst dann drehte sie sich um.
 
@@ -20,7 +20,7 @@ Er kam rein. Sechs Schritte, die ihn mitten in den Schuppen trugen, dort wo das 
 
 "Ja."
 
-"Sauber." Er sagte es wie eine Messung. Keine Schmeichelei, kein Lob, eine Feststellung. Dann ging er weiter zur Werkbank, wickelte das Tuch auf und legte die Schiffsuhr darauf.
+"Gleichmäßig." Er sagte es wie eine Messung. Keine Schmeichelei, kein Lob, eine Feststellung. Dann ging er weiter zur Werkbank, wickelte das Tuch auf und legte die Schiffsuhr darauf.
 
 Das Messing war poliert, die Tiefe zwischen den Gravuren war sauber gezogen, der Glasdeckel neu, kein Riss. Er hatte den kleinen Zeiger auf die Zwölf gestellt, und das Werk lief — sie hörte es erst, als er die Hände wegnahm und der Raum um die Uhr herum still wurde. Das Ticken war leise, gleichmäßig, ein kleiner, warmer Schlag neben dem Sägemehl.
 
@@ -44,7 +44,7 @@ Maren stand hinter ihm, eine Armlänge entfernt, und schaute auf seine Hände. S
 
 Er war fertig. Er hätte die Kajüte verlassen können. Er drehte sich um, prüfte den Sitz noch einmal mit den Augen — Rechteck zur Wand, Uhrgehäuse bündig, Schrauben flach —, und erst dann ging er rückwärts durch die Öffnung, ließ sie vorausgehen.
 
-Wieder in der Halle war die Luft größer. Die Schiebetür stand offen, die Sonne lag jetzt ein Stück weiter östlich, die Säulen der Bohlen zeichneten lange Streifen auf den Werftboden. Vesper setzte sich nicht. Aber er ging auch nicht. Er blieb neben der Werkbank stehen, die Hand leicht auf dem Holz.
+Wieder in der Halle hatte der Raum Breite. Die Schiebetür stand offen, die Sonne lag jetzt ein Stück weiter östlich, die Säulen der Bohlen zeichneten lange Streifen auf den Werftboden. Vesper setzte sich nicht. Aber er ging auch nicht. Er blieb neben der Werkbank stehen, die Hand leicht auf dem Holz.
 
 "Vier Silber zwanzig." Er nannte den Preis ohne Überleitung. "Zwanzig weniger, weil ich das Unruhrad aus eigenem Bestand hatte."
 
@@ -52,7 +52,7 @@ Sie ging zur kleinen Dose auf dem Regalbrett über der Werkbank, zählte das Gel
 
 Er hatte den Grund, warum er noch da war, nicht benannt. Sie hatte den Grund, warum sie nicht gefragt hatte, auch nicht benannt. Die Stille verlangte nichts.
 
-Sie ging zum Wasserkessel auf der kleinen Esse in der Ecke, wo Edric morgens den Kaffee machte. Der Kessel war kalt. Sie goss den Inhalt nicht weg. Sie legte ein Stück Holzkohle in die Esse, blies einmal in die Glut, die von gestern noch warm war, und der Tag fand weiter.
+Sie ging zum Wasserkessel auf der kleinen Esse in der Ecke. Der Kessel war kalt. Sie goss den Inhalt nicht weg. Sie legte ein Stück Holzkohle in die Esse, blies einmal in die Glut, die von gestern noch warm war, und der Tag fand weiter.
 
 "Darf ich etwas fragen?"
 
@@ -82,7 +82,7 @@ Sie hörte zu.
 
 Er sah kurz auf das Werkzeug auf der Bank, als prüfe er, ob etwas dazwischenlag.
 
-"Der Besitzer des Tidemoor-Hauses hat mich geholt, weil die Uhr im Saal täglich vorging. Vier Minuten dreiunddreißig. Ich habe den Abstand gemessen, ohne sie zu berühren. Dann habe ich sie berührt. Die Drift war weg, solange meine Hand auf dem Gehäuse lag. Ich habe das sieben Tage wiederholt. Dieselbe Zahl, immer." Die Stimme hatte keinen Bruch. "Ich habe dem Besitzer gesagt, dass es am Raum liegt, nicht an der Uhr. Er hat mir geglaubt. Es liegt nicht am Raum."
+"Der Besitzer des Tidemoor-Hauses hat mich geholt, weil die Uhr im Saal täglich vorging. Vier Minuten dreiunddreißig. Ich habe den Abstand gemessen, ohne sie zu berühren. Dann habe ich sie berührt. Die Drift war weg, solange meine Hand auf dem Gehäuse lag. Ich habe das sieben Tage wiederholt. Dieselbe Zahl, immer." Die Stimme hatte keinen Bruch. "Ich habe dem Besitzer gesagt, dass es am Raum liegt, nicht an der Uhr. Es liegt nicht am Raum."
 
 Sie hörte, wie er die Sache aus sich herauslegte, Satz für Satz, wie man ein Werkzeug aus einer Schublade nahm. Die Werkbank zwischen ihnen trug, was er hinlegte.
 
@@ -92,29 +92,23 @@ Er sah sie an. Einen Moment, in dem er die Entscheidung traf, etwas zu sagen, da
 
 Sie hätte jetzt fragen können, wer Alphina war. Sie fragte nicht.
 
-"Danke." Sie sagte es einmal, leise, ohne Nachsatz. Dann drehte sie sich zum Kessel, hob ihn auf die Esse. Das Wasser begann langsam zu denken.
+"Danke." Sie sagte es einmal, leise, ohne Nachsatz.
 
 ---
 
-Der Tee zog. Sie hatte zwei Becher genommen, aus Steingut, schwer, die Edric zurückgelassen hatte. Auf der Werkbank stand die geöffnete Büchse mit dem schwarzen Tee aus Solha, den sie immer dabei hatte, seit sie aus Solha weg war, und von dem ein Bündel reichte, bis sie in einem halben Jahr einen Fischer fand, der von dort zurückkehrte. Ein Bündel auf zwei Becher. Kochendes Wasser. Drei Minuten. Sie stellte die Becher hin, den einen vor ihn, den anderen vor sich, und setzte sich auf die zweite Kiste neben der Werkbank.
+Sie nahm zwei Becher — Steingut, schwer — und füllte sie mit dem Krug aus dem Eimer neben der Werkbank. Das Wasser war kalt, vom frühen Morgen. Sie gab in jeden eine Prise aus der Büchse mit dem schwarzen Tee aus Solha.
 
-Er nahm den Becher zwischen beide Hände. Hielt ihn so, wie man ein Messgerät hielt, von dem man die Temperatur ablas. Trank nicht.
+Sie stellte seinen Becher auf das Tuch vor ihm, neben der Ecke, die er zurückgeklappt hatte. Den eigenen behielt sie in der Hand. Setzte sich auf die zweite Kiste neben der Werkbank.
 
-Der Tee dampfte, die ersten Sekunden. Dann setzte sich die Wärme, der Dampf wurde dünn. In drei Minuten wäre der Tee lauwarm, so war es immer, der Werftmorgen war zugig, das Steingut speicherte schlecht. Maren schaute auf ihren Becher, auf seinen, auf die Linie des Dampfes, die kürzer wurde. Edric war noch nicht zurück. Ihr Körper wusste, dass sie allein waren — nicht verriegelt, nicht verborgen, das Tor stand offen, die Gasse lief weiter, aber in diesem Schuppen war nur sie und er und das Ticken aus der Kajüte, das jetzt, wo man nicht mehr sprach, auf dem Grund des Raumes saß.
+Er sah auf den Becher. Das Wasser stand klar und kalt, das Teeblatt hatte sich noch nicht geöffnet.
 
-Sie legte die Finger an den Becher. Nicht um ihn, nur daran. Linke Hand, drei Fingerkuppen am Steingut, die vierte am Rand. Sie hatte das schon zweimal gemacht, in der Küche im *Anker*, als die Wirtsfrau weg gewesen war, einmal am Steg, als Tohl sich umgedreht hatte. Sie hatte dabei nie lange nachgedacht. Ihr Körper wusste den Griff. Er war flach, unaufwendig, nicht mehr Druck als das Anlegen einer Tasse.
+Das Wasser in seinem Becher bewegte sich zuerst. Eine kleine Drehung, gegen den Uhrzeigersinn, das Blatt hob sich vom Grund und drehte sich langsam, als hätte eine Hand darunter gerührt, die keinen Löffel brauchte. Der Strudel hielt — zwanzig Sekunden, dreißig, eine halbe Minute. Dann kamen die ersten Dämpffäden: dünn, kaum zu sehen, aus einer Oberfläche, die kalt gewesen war.
 
-Das Wasser in ihrem Becher klärte sich nach oben. Der Dampf kam wieder. Nicht schlagartig — wie eine Stelle im Fluss, die sich entschied, den Strom umzukehren. Und dann kam im Tee die Bewegung: ein kleiner Sog, gegen den Uhrzeigersinn, das Teeblatt, das sich auf den Grund gesenkt hatte, hob sich einen halben Finger und drehte sich, langsam, als hätte eine Hand unter dem Becher gerührt, die keinen Löffel brauchte.
+Er starrte. Nicht kurz. Nicht höflich. Sein ganzer Körper war stehengeblieben, der Becher vor ihm auf dem Tuch, die Hände flach zu beiden Seiten, und nichts an ihm bewegte sich. Seine Augen lagen auf dem Strudel, dann auf ihren Händen, dann auf ihrem Gesicht. Die Konzentration, die sie aus dem *Anker* kannte, die Lupe-am-Auge, die Stille in seinen Handgelenken, lag jetzt auf ihr.
 
-Sie spürte das Ziehen in den Handflächen. Etwas wollte von ihr in die Tasse, und sie ließ es. Eine Wärme, die nicht aus ihren Handflächen kam, weil die Handflächen nicht zu warm waren — eine Wärme, die durch sie hindurchging, in eine Richtung, die sie nicht vorgegeben hatte. Ihre Schultern blieben, wo sie waren.
+Das Bild kam. Nicht als Gedanke — sie formulierte es nicht, sie bat es nicht herzu —, sondern als Strömung, die durch sie lief, und die Strömung hatte eine Hand, und die Hand gehörte ihm. Seine Fingerkuppen, die sich eben am Schraubenkopf geprüft hatten, jetzt an ihrem Handgelenk, innen, dort wo der Puls lief. Nicht fest. Nur gesetzt. Ein Gewicht, das wartete. Seine Stimme, die ihr etwas sagte — kein Wort, das sie hörte, nur die Art, wie die Luft vor seinem Mund die Richtung wechselte. Seine Aufmerksamkeit, die sie hielt, ohne sie zu drücken. Das Stillwerden ihrer eigenen Schultern, die auf etwas gewartet hatten, von dem sie nicht gewusst hatte, dass es kommen würde.
 
-Sie hob den Blick.
-
-Er starrte. Nicht kurz. Nicht höflich. Sein ganzer Körper war stehengeblieben, der Becher zwischen seinen Händen, die Fingerkuppen am Steingut, der Daumen ruhte oben an der Kante, und nichts an ihm bewegte sich. Seine Augen lagen auf dem Strudel, dann auf ihrer Hand, dann auf ihrem Gesicht. Die Konzentration, die sie aus dem *Anker* kannte, die Lupe-am-Auge, die Stille in seinen Handgelenken, lag jetzt auf ihr.
-
-Das Bild kam. Nicht als Gedanke — sie formulierte es nicht, sie bat es nicht herzu —, sondern als Strömung, die durch sie lief, in derselben Richtung wie die Wärme, und die Richtung hatte eine Hand, und die Hand gehörte ihm. Seine Fingerkuppen, die sich eben am Schraubenkopf geprüft hatten, jetzt an ihrem Handgelenk, innen, dort wo der Puls lief. Nicht fest. Nur gesetzt. Ein Gewicht, das wartete. Seine Stimme, die ihr etwas sagte — kein Wort, das sie hörte, nur die Art, wie die Luft vor seinem Mund die Richtung wechselte. Seine Aufmerksamkeit, die sie hielt, ohne sie zu drücken. Das Stillwerden ihrer eigenen Schultern, die auf etwas gewartet hatten, von dem sie nicht gewusst hatte, dass es kommen würde.
-
-Sie griff nach dem Schieben, wie sie es seit dreißig Jahren bei zwei Männern getan und einmal gehalten hatte. Der Griff fand sich nicht. Das Bild blieb.
+Sie kannte den Griff. Dreißig Jahre, zweimal ein Mann — das Bild wegschieben, bevor es Form annimmt. Sie griff danach. Sie fand ihn nicht. Das Bild blieb.
 
 Das Bild wurde schärfer, weil sie es nicht schob. Seine Fingerkuppen drückten sich nicht — sie lagen. Sein Daumen an ihrem Puls wartete, bis der Puls sich ihm anpasste, nicht umgekehrt. Er würde nichts sagen, was er hätte begründen müssen. Er würde warten, bis sie den Satz zu Ende geatmet hatte, bevor der nächste kam. Der Schuppen um sie beide war weit weg, die Esse mit der Glut war weit weg, das Ticken aus der Kajüte war weit weg. Nur der Becher in ihrer Hand stand noch in der Nähe, und durch das Steingut zog die Wärme in beide Richtungen.
 
@@ -122,13 +116,9 @@ Ihre Lippen hatten sich ein wenig geöffnet. Sie schloss sie nicht hastig. Ihr A
 
 Er blinzelte einmal. Die Sekunde war zu Ende.
 
-Der Becher in seinen Händen war wieder heiß. Die Oberfläche im Tee strudelte nicht mehr. Das Blatt hatte sich wieder gesetzt. Die Luft zwischen ihnen war dichter, oder er hatte die Luft an sich gezogen, sie wusste nicht, welches von beidem. Er sagte nichts zuerst. Als er sprach, war die Stimme dieselbe wie vorher — nicht warm, nicht kalt, nur gleichmäßiger vielleicht, als hätte er sie beim Sprechen nachgestellt.
+Der Becher auf dem Tuch vor ihm war heiß. Die Oberfläche im Tee strudelte nicht mehr. Das Blatt hatte sich wieder gesetzt. Die Luft zwischen ihnen war dichter, oder er hatte die Luft an sich gezogen, sie wusste nicht, welches von beidem. Er sagte nichts zuerst. Als er sprach, war die Stimme dieselbe wie vorher — nicht warm, nicht kalt, nur gleichmäßiger vielleicht, als hätte er sie beim Sprechen nachgestellt.
 
-"Sie bezahlen nichts?"
-
-"Nein." Sie hörte sich selbst. Die Stimme hielt. "Nichts, das ich merke."
-
-Er nickte einmal, knapp. Sein Daumen bewegte sich am Becher, einmal, eine halbe Umdrehung. Das war die erste Bewegung, die er in seiner Hand machte, seit er zu ihr geschaut hatte.
+Sein Daumen bewegte sich am Becher auf dem Tuch, einmal, eine halbe Umdrehung. Das war die erste Bewegung, die er in seiner Hand machte, seit er zu ihr geschaut hatte.
 
 "Seit wann?"
 
@@ -144,17 +134,17 @@ Er schaute eine Sekunde auf den Becher, als wäre er dort nicht fertig gelesen. 
 
 Sie hörte den Namen zum zweiten Mal. Diesmal kam er nicht umhüllt. Er kam auf den Tisch.
 
-"Sie wohnt im *Anker*. Botanikerin aus Velde. Sie arbeitet im Botanischen Garten oben auf der Klippe." Er machte eine Pause, kurz, um den nächsten Satz gerade zu setzen. "Ich kenne jemanden, der etwas mit Pflanzen macht. Ähnlich. Ich denke, Sie beide sollten miteinander reden."
+"Sie wohnt im *Anker*. Botanikerin aus Velde. Sie arbeitet im Botanischen Garten oben auf der Klippe." Er machte eine kurze Pause. "Sie macht etwas mit Pflanzen. Ähnlich."
 
 Sie nickte.
 
-Er stellte den Becher ab. Stand auf. Es war nicht abrupt, aber es war endgültig. Er trank nicht. Er hatte nichts getrunken, die ganze Zeit. Sie sah es jetzt — der Tee war fast voll, ein schwarzer Kreis unter dem Dampf, das Blatt am Grund.
+Er stand auf. Es war nicht abrupt, aber es war endgültig. Er trank nicht. Er hatte nichts getrunken, die ganze Zeit. Sie sah es jetzt — der Tee war fast voll, ein schwarzer Kreis unter dem Dampf, das Blatt am Grund.
 
 "Ich schicke Alphina vorbei. Oder ich bringe Sie hin."
 
 "Beides geht."
 
-Er ging zur Tür. Blieb eine halbe Sekunde im Rahmen stehen, drehte sich halb zurück, sagte nichts mehr. Dann war er draußen. Die Schritte auf dem Pflaster der Hafengasse wurden kleiner, stetig, nicht eilig.
+Er ging zur Tür. Blieb eine halbe Sekunde im Rahmen stehen, drehte sich halb zurück. "Vesper." Er sagte es einmal, knapp. Dann war er draußen. Die Schritte auf dem Pflaster der Hafengasse wurden kleiner, stetig, nicht eilig.
 
 Sie saß auf der Kiste, den Becher zwischen den Händen, und hörte den Schritten nach, bis sie im Geräusch des Hafens untergingen.
 
@@ -176,7 +166,7 @@ Sie setzte sich auf die letzte Planke, die Füße über der Kante. Die Stiefel h
 
 Sie bemerkte es. Sagte nichts. Legte die Hände auf die Oberschenkel und atmete.
 
-Das halbfertige Boot lag zwanzig Schritt hinter ihr in dem offenen Schuppen, die drei Viertel fertige Seite zum Tor, die offene Seite dem Wasser abgekehrt. Es würde fertig. Mit wessen Händen, wusste sie nicht. Sie hatte in dreißig Jahren zwei Boote zu Ende gebracht und bei drei anderen die letzten zwei Wochen abgegeben, weil Zeit knapp geworden war; Das Holz war geduldig.
+Das halbfertige Boot lag zwanzig Schritt hinter ihr in dem offenen Schuppen, die drei Viertel fertige Seite zum Tor, die offene Seite dem Wasser abgekehrt. Es würde fertig. Mit wessen Händen, wusste sie nicht. Sie hatte in dreißig Jahren zwei Boote zu Ende gebracht und bei drei anderen die letzten zwei Wochen abgegeben, weil Zeit knapp geworden war. Das Holz war geduldig.
 
 Ihr Körper war es nicht.
 
@@ -192,15 +182,15 @@ In der Kajüte tickte die Uhr.
 
 Sie hörte es erst, als sie an der Leiter stand — ein kleiner, warmer Schlag, der den Schuppen in eine Zeit setzte, die er vor heute morgen nicht gehabt hatte. Sie kletterte nicht hoch. Sie stand unten, die Hand am Holz der Leiter, und hörte eine Minute dem Ticken zu.
 
-Dann ging sie in den *Anker*, den Umweg über die Unterstadt, die Gassen voll mit der abendlichen Wärme, der Purpurstein warm unter ihrer Handfläche, als sie einmal, kurz, mit der Hand eine Wand berührte. Der Stein nahm nichts von ihr und gab nichts zurück.
+Dann nahm sie den Abendweg durch die Unterstadt, die Gassen voll mit der abendlichen Wärme, den Purpurstein warm unter ihrer Handfläche, als sie einmal, kurz, mit der Hand eine Wand berührte. Der Stein nahm nichts von ihr und gab nichts zurück.
 
 Auf dem Marktplatz brannte schon eine Gaslampe, früh, die erste des Abends. Unter der Lampe standen zwei Männer, die Schirme auf dem Rücken, und redeten halblaut über etwas, das sie nicht interessierte. An der Ecke der Anker-Gasse hing das geschmiedete Anker-Zeichen schief, wie immer. Das Scharnier war trocken. Sie hätte es in einer Viertelstunde richten können, mit dem Öl aus der Werft. Sie richtete es nicht. Ihre Hände waren heute nicht für fremde Angeln.
 
-In ihrem Zimmer zog sie die Stiefel aus. Setzte sich auf die Bettkante. Die Handgelenke innen waren noch warm.
+In ihrer Wohnung zog sie die Stiefel aus. Setzte sich auf die Bettkante. Die Handgelenke innen waren noch warm.
 
 Sie hatte einen Namen bekommen an diesem Morgen. *Alphina.* Sie hatte ihn noch nicht gebraucht. Sie würde ihn morgen oder übermorgen brauchen, wenn die Frau, die Pflanzen dazu brachte, etwas zu tun, das sie nicht sollten, den Weg zur Werft fand oder sie den Weg dorthin.
 
-Sie hatte einen zweiten Namen heute nicht bekommen, aber er stand neben dem ersten. *V. Greve*, der Zettel mit der Initiale, der noch auf der Werkbank unter dem Hammer lag, darunter inzwischen der Splitter von vor drei Tagen. Der Vorname, den er nicht gegeben hatte, war heute auch nicht gegeben worden. Sie wusste ihn trotzdem nicht. Aber ihr Körper wusste, wem der Nachname gehörte, und er wusste, dass der Nachname keine Schwielen an den Händen hatte — Schwielen, die klein und alt waren, Schwielen für feine Arbeit, Schwielen, die sie vor drei Tagen gelesen hatte und heute wieder gesehen hatte.
+Sie hatte einen zweiten Namen heute bekommen. *Vesper.* Er hatte ihn ihr im Türrahmen gegeben, knapp, einmal, dann war er draußen gewesen. *V. Greve*, der Zettel auf der Werkbank, lag noch unter dem Hammer, darunter der Splitter von vor drei Tagen. Ihr Körper wusste, wem der Nachname gehörte, und er wusste, dass der Nachname keine Schwielen an den Händen hatte — Schwielen, die klein und alt waren, Schwielen für feine Arbeit, die sie vor drei Tagen gelesen hatte und heute wieder gesehen hatte.
 
 Sie legte sich nicht hin. Sie saß lange so.
 
