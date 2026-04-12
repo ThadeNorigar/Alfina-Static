@@ -312,12 +312,12 @@
       .prose p { font-size: 1.05rem; line-height: 1.9; }
     }
 
-    /* ===== Comment UI (nur WIP-Modus) ===== */
+    /* ===== Comment UI ===== */
     .prose p { position: relative; }
 
     .comment-trigger {
       position: absolute;
-      right: 0.3rem;
+      right: -2.2rem;
       top: 0.25em;
       width: 1.4rem;
       height: 1.4rem;
@@ -339,6 +339,10 @@
     .prose p:hover .comment-trigger { opacity: 0.7; }
     .prose p.has-comments .comment-trigger { opacity: 0.8; border-color: var(--accent); color: var(--accent); }
     .prose p.has-comments { border-left: 2px solid var(--accent); padding-left: 0.6rem; margin-left: -0.8rem; }
+
+    @media (max-width: 600px) {
+      .comment-trigger { right: -1.6rem; }
+    }
 
     .comment-popup {
       position: relative;
@@ -602,13 +606,11 @@
             const lines = md.split('\n');
             const container = document.getElementById('chapter');
             container.innerHTML = useEntwurf ? renderEntwurf(lines) : renderProsa(lines);
-            if (isWip) {
-              const commentModus = useEntwurf ? 'entwurf' : (ch.status === 'lektorat' ? 'lektorat' : 'final');
-              container.dispatchEvent(new CustomEvent('chapter-rendered', {
-                bubbles: true,
-                detail: { container, commentModus }
-              }));
-            }
+            const commentModus = useEntwurf ? 'entwurf' : 'final';
+            container.dispatchEvent(new CustomEvent('chapter-rendered', {
+              bubbles: true,
+              detail: { container, commentModus }
+            }));
           });
       });
 
@@ -678,11 +680,23 @@
       setTimeout(() => { window.location.href = url; }, 500);
     }
 
-    // ===== Comment UI (nur WIP-Modus) =====
-    if (isWip) {
+    // ===== Comment UI — privat pro Leser =====
+    {
       const COMMENT_API = '/api/comments';
       const commentsByIdx = {};
       let activePopup = null;
+
+      // Pro-Browser User-ID aus localStorage (anonym, persistiert)
+      function getUserId() {
+        let uid = localStorage.getItem('alphina_reader_id');
+        if (!uid) {
+          uid = (crypto.randomUUID ? crypto.randomUUID()
+                 : Date.now().toString(36) + Math.random().toString(36).slice(2));
+          localStorage.setItem('alphina_reader_id', uid);
+        }
+        return uid;
+      }
+      const USER_ID = getUserId();
 
       function formatDate(iso) {
         const d = new Date(iso);
@@ -738,7 +752,7 @@
           try {
             const r = await fetch(COMMENT_API, {
               method: 'POST',
-              headers: { 'Content-Type': 'application/json' },
+              headers: { 'Content-Type': 'application/json', 'X-User-Id': USER_ID },
               body: JSON.stringify({ kapitel_id: kapId, modus: modus, absatz_idx: idx, absatz_text: absatzText, text }),
             });
             if (!r.ok) throw new Error('Fehler ' + r.status);
@@ -760,7 +774,9 @@
       }
 
       function initComments(container, modus) {
-        fetch(COMMENT_API + '?kapitel=' + kapId + '&modus=' + modus)
+        fetch(COMMENT_API + '?kapitel=' + kapId + '&modus=' + modus, {
+          headers: { 'X-User-Id': USER_ID }
+        })
           .then(r => r.json())
           .then(comments => {
             comments.forEach(c => {
