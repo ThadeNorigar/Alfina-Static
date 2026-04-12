@@ -8,7 +8,7 @@ Er hatte die Lupe am Auge und die Pinzette in der rechten Hand, als die Schläge
 
 Vesper legte die Pinzette neben die Samtrolle. Er schob die Lupe nach oben, stellte die Lampe eine Viertelumdrehung niedriger, damit der Besucher nicht gleich in die Helligkeit trat. Dann ging er zur Tür und öffnete sie einen Spalt — halb, nicht ganz. Die alte Gewohnheit.
 
-Im Flur stand ein Mann, den er nicht kannte. Groß, schmal in den Schultern, den Kragen noch hoch, als wäre er gerade erst vom Hafen hochgekommen. Das Gesicht trug die Spuren des Lampenlichts von hinten — eine harte Linie am Kiefer, die Augen im Halbschatten. Die Hände hielt er vor dem Mantel, die rechte über dem linken Handgelenk, die Art Griff, die Vesper aus seinem eigenen Repertoire kannte. Ein Mann, der die Hände stillhielt, weil sie es von alleine nicht taten.
+Im Flur stand ein Mann, den er nicht kannte. Groß, schmal in den Schultern, den Kragen noch hoch, als wäre er gerade erst vom Hafen hochgekommen. Das Gesicht trug die Spuren des Lampenlichts von hinten — eine harte Linie am Kiefer, die Augen im Halbschatten. Die Hände hielt er vor dem Mantel, die rechte über dem linken Handgelenk, die Art Griff, die Vesper aus seinem eigenen Repertoire kannte.
 
 "Guten Abend. Mein Name ist Sorel Varlan. Ich wohne im Lichthaus am Hafen. Alphina hat mir gesagt, wo Sie zu finden sind."
 
@@ -40,7 +40,7 @@ Sorel sprach weiter. Er kam auf Alphina. Er sagte ihren Namen nicht sofort — e
 
 "Sie hat sie nicht geheilt. Sie hat sie vorgezogen. Das ist ein Unterschied."
 
-Es war der erste Satz, den Sorel mit einer Betonung sagte. Der Rest seines Berichts kam in derselben flachen Tonspur wie zuvor, aber diesen einen Satz ließ er sich ausbuchten.
+Sorel ließ diesen Satz sich ausbuchten; der Rest kam in derselben flachen Tonspur wie zuvor.
 
 Vesper registrierte, dass Sorel Fotograf war. Er hatte es an der Sprache gehört, bevor er es wusste. *Vorziehen. Auszug. Schicht.* Der Wortschatz eines Mannes, der mit Entwicklerlösung arbeitete und im Kopf in Schritten rechnete — Bad eins, Bad zwei, Fixierung, Spülung.
 
@@ -48,11 +48,11 @@ Dann kamen die Platten. Sorel sprach jetzt langsamer, weil er die Reihenfolge im
 
 "Die Platten reagieren. Nicht auf den Ort. Nicht auf die Kamera. Auf mich. Die Kamera war zweimal gar nicht dabei, und die Bilder sind trotzdem erschienen."
 
-Er sagte *erschienen*, nicht *entstanden*. Vesper registrierte auch das. Ein Mann, der sein Vokabular kannte und den Unterschied zwischen Entstehen und Erscheinen nicht verwechselte.
+Er sagte *erschienen*, nicht *entstanden*. Vesper registrierte auch das.
 
 Sorel erzählte drei der Bilder. Das Lichthaus bei Dämmerung. Alphina im Garten am Farn. Ein drittes, das er nur andeutete — ein Innenraum, sagte er. Die Skizze verschwimmt. Er brach ab und kam nicht darauf zurück.
 
-Die Lücke war sauber. Vesper sah sie so deutlich, als hätte Sorel sie mit dem Finger umrandet. Ein Mann, der in einem systematischen Bericht genau einen Punkt aussparte, hatte diesen Punkt nicht vergessen. Er hatte sich entschieden, ihn auszusparen. Vesper fragte nicht nach. Er legte die Auslassung neben die anderen Teile auf den Tisch und ließ sie dort liegen.
+Die Lücke war sauber. Vesper sah sie so deutlich, als hätte Sorel sie mit dem Finger umrandet. Er fragte nicht nach. Er legte die Auslassung neben die anderen Teile auf den Tisch und ließ sie dort liegen.
 
 "Das ist, was ich habe", sagte Sorel am Ende. "Ich weiß nicht, warum ich damit zu Ihnen komme. Alphina hat Ihren Namen gesagt. Sie sagte, wenn jemand in dieser Stadt wüsste, wie man einen Systemfehler liest, dann Sie."
 
@@ -92,7 +92,7 @@ Er ließ den Satz einen Atemzug stehen. Sorel sagte nichts.
 
 "Sie hat es mir gezeigt. Einfach so. Als wüsste sie, dass ich es nicht weitertragen würde. Oder als wäre es gleichgültig, wer es wüsste."
 
-Vesper hob den Blick von der Karte auf Sorels Gesicht. Sorel war einen halben Grad weißer um den Mund herum als vor fünf Minuten. Er hatte einen Namen gehört, den er vorher nicht gehört hatte, und er war in einem Moment, in dem Vesper die Namen der Beteiligten allmählich auf einen Tisch legte.
+Vesper hob den Blick von der Karte auf Sorels Gesicht. Sorel war einen halben Grad weißer um den Mund herum als vor fünf Minuten.
 
 "Maren Dahl."
 
@@ -138,9 +138,9 @@ Sorel nickte langsam. Vesper sah, wie er den Kopf drei Sekunden zu lange nach un
 
 "Mechanik", sagte Vesper und sah wieder auf die Karte. "Pflanzen. Licht. Wasser."
 
-Er benannte es zum ersten Mal. Er hatte es seit zwei Tagen im Kopf gehabt, seit er die Tasse in Marens Schürze hatte dampfen sehen, und er hatte es bis zu diesem Abend nicht ausgesprochen. Vier Worte in einer Reihe, weil vier Bereiche sich in einer Stadt verdichteten, die reagierte.
+Er benannte es zum ersten Mal. Er hatte es seit zwei Tagen im Kopf gehabt, seit er die Tasse in Marens Schürze hatte dampfen sehen, und bis zu diesem Abend nicht ausgesprochen.
 
-Er zog den schwarzen Turm aus der linken Außentasche des Mantels. Legte ihn neben die Karte, auf den Velinrand. Er drehte ihn nicht. Er hatte den Impuls, ihn zu drehen, und er ließ ihn. Sorel sah den Turm, kannte das Holz nicht, kannte die Form. Er sagte nichts dazu, weil es nicht an ihm war.
+Er zog den schwarzen Turm aus der linken Außentasche des Mantels. Legte ihn neben die Karte, auf den Velinrand. Er drehte ihn nicht. Er hatte den Impuls, ihn zu drehen, und er ließ ihn. Sorel sah den Turm, kannte das Holz nicht, kannte die Form. Er sagte nichts dazu.
 
 "Vier Resonanzen an einem Ort, an dem die Stadt schon reagiert. Ein Steinkreis, unter dem die Drift am stärksten ist. Vier Menschen, die sich noch nicht vollständig kennengelernt haben. Wir sind seit sechs Wochen in dieser Stadt, Sie etwas länger, Maren war immer hier. Alphina genauso lange wie ich."
 
@@ -160,7 +160,7 @@ Sein Blick ging zu Sorel. Sorel rührte sich nicht.
 
 "Wasser."
 
-Unter seiner Handfläche wurde der Turm warm. Eine halbe Sekunde, vielleicht weniger. Holzwärme, wie jemand, der einen lange in der Hand gehaltenen Kiesel aus der Faust nahm. Nicht heiß. Nur nicht kalt. Dann wieder das alte Temperaturniveau der Außentasche.
+Unter seiner Handfläche wurde der Turm warm. Eine halbe Sekunde, vielleicht weniger. Nicht heiß. Nur nicht kalt. Dann wieder das alte Temperaturniveau der Außentasche.
 
 Er nahm die Hand nicht weg. Er ließ sie drei Atemzüge auf dem Turm liegen. Der Turm blieb kalt.
 
@@ -177,8 +177,6 @@ Vesper sagte es in den Raum hinein, weder zu Sorel noch zu der Lampe noch zum Tu
 "Der Garten wäre der Ort. Nicht das Anker. Nicht das Lichthaus. Der Garten, weil der Mittelpunkt dort ist, und weil eine der vier ohnehin dort arbeitet. Die anderen drei müssen hinkommen. Das organisiert Alphina, wenn ich sie darum bitte. In den nächsten Tagen. Drei, vielleicht vier."
 
 Sorel nickte. Nur einmal. Er schluckte trocken und sagte: "Ja."
-
-Vesper sah ihn an. Sorel war ein Mann, der von seinem Gesicht aus die Welt abtastete und sie in Graustufen sortierte. Er sah im Moment nicht die Welt in Graustufen. Er sah einen Tisch, eine Karte, einen schwarzen Turm. Vesper sah das in den Augen seines Gegenübers mit derselben Klarheit, mit der er Lager sah, die trocken liefen.
 
 "Ich frage Alphina morgen früh", sagte Vesper. "Sie werden das Datum über den Wirt des Ankers erfahren. Er kennt Sie seit wann?"
 
@@ -202,11 +200,9 @@ Er legte die Hand neben den schwarzen Turm und hob ihn nicht auf. Er wartete dre
 
 ---
 
-Er ging zum Tidemoor-Haus, weil der Weg dorthin ihn daran erinnerte, woran er war.
+Es war nach zehn, als er das Gasthaus verließ und zum Tidemoor-Haus ging. Die Hafengasse lag in dem dünnen Dunst, der im Blütenmond abends aufkam und vor Mitternacht wieder abzog. Die Gaslaternen standen in Abständen von zwölf Schritten. Er zählte sie, weil sein Kopf Schritte zählte, wenn er keine Zahnräder vor sich hatte. Zwölf bis zur ersten, zwölf bis zur zweiten. An der dritten bog er links in die schmale Seitengasse, die bis zum Grauwe-Ufer führte. Der Boden wurde weicher. Keine Erde kam dazu; die Pflastersteine waren hier älter und hatten unter den Jahren eine Handbreit nachgegeben.
 
-Es war nach zehn. Die Hafengasse lag in dem dünnen Dunst, der im Blütenmond abends aufkam und vor Mitternacht wieder abzog. Die Gaslaternen standen in Abständen von zwölf Schritten. Er zählte sie, weil sein Kopf Schritte zählte, wenn er keine Zahnräder vor sich hatte. Zwölf bis zur ersten, zwölf bis zur zweiten. An der dritten bog er links in die schmale Seitengasse, die bis zum Grauwe-Ufer führte. Der Boden wurde weicher. Keine Erde kam dazu; die Pflastersteine waren hier älter und hatten unter den Jahren eine Handbreit nachgegeben.
-
-Das Haus stand wie immer. Schlüssel in der Innentasche des Mantels. Die Magd hatte ihm den Ersatzschlüssel gegeben, als er beim zweiten Besuch nicht klopfen wollte, weil die Tante halb taub war. Er schloss die Seitentür auf, betrat den schmalen Gang, stand einen Atemzug still und hörte. Das Haus war still. Das Ticken der Standuhr im Flur drang durch die Wand als ein schwaches, regelmäßiges Geräusch. Es war das Ticken, das er kannte. Es war richtig.
+Das Haus stand wie immer. Schlüssel in der Innentasche des Mantels. Die Magd hatte ihm den Ersatzschlüssel gegeben, als er beim zweiten Besuch nicht klopfen wollte, weil die Tante halb taub war. Er schloss die Seitentür auf, betrat den schmalen Gang, stand einen Atemzug still und hörte. Das Haus war still. Das Ticken der Standuhr im Flur drang durch die Wand als ein schwaches, regelmäßiges Geräusch. Es war das Ticken, das er kannte.
 
 Er ging zuerst in den Keller.
 
@@ -232,23 +228,19 @@ Er hätte die Hand wegnehmen können. Er nahm sie nicht weg.
 
 Er stand dort eine Minute länger, als er es sich vorgenommen hatte. Dann zwei Minuten. Nicht aus Sentimentalität. Er brauchte den Kontakt mit dem System, bevor er vier Menschen in denselben Garten brachte, über dessen Kreis die stärkste Drift der Stadt lag. Die Tidemoor-Uhr war das älteste bekannte Muster, das er in Vael gefunden hatte. Wenn die Quelle unter der Stadt schon jahrzehntelang sickerte, dann tickte dieses Gehäuse seit Jahrzehnten mit dem Widerstand dagegen an. Er wollte es hören, bevor er den Rest organisierte.
 
-Die Hand unter dem Messing wurde langsam warm, wie die Hand unter jedem Messing warm wurde, das man lange genug anfasste. Nichts Ungewöhnliches. Nur ein Mann an einem Uhrengehäuse, der zuhörte.
+Die Hand unter dem Messing wurde langsam warm, wie jede Hand an jedem Messing, das man lange genug anfasste.
 
 Er zählte die Schläge, weil sein Kopf die Schläge zählte. Einer pro Sekunde. Exakt. Die Hemmung griff bei jedem Schlag auf denselben Zahn.
 
-Er dachte das Wort nicht laut, das Sorel zweimal beinahe gesagt hatte und nicht gesagt hatte — das Wort für den Ort, an dem die Drift entstand. Er hatte es in den Drucksachen aus Moragh, die er vor einem Jahr in Karst gesehen hatte, gelesen, und er hatte es seitdem nicht mehr gebraucht. Er brauchte es jetzt auch nicht.
-
 Er hatte in dreißig Jahren Schachpartien immer gewusst, wann ein Zug unumkehrbar war. Es war kein Gefühl. Es war die Stellung. Wenn man einen Turm auf eine offene Linie stellte, konnte man ihn zurückziehen. Wenn man ihn auf eine offene Linie stellte und dabei einen Bauern hergab, war die Stellung danach eine andere. Der Turm ließ sich zurückziehen. Der Bauer nicht.
 
-Er stellte gerade den Turm.
+Er stellte gerade den Turm. Den Preis kannte er als Stellung, nicht in Einzelheiten.
 
-Er wusste, was es kostete. Er wusste es nicht in den Einzelheiten. Er wusste es als Stellung.
-
-Er nahm die Hand vom Gehäuse. Die Uhr tickte weiter. Der Schlag blieb sauber. Er hatte ihr den Takt vorgelegt, und sie hielt ihn jetzt ohne seine Hand. Das bedeutete, dass der Zug, den er vor zwei Wochen gemacht hatte, schon gehalten hatte. Es bedeutete nicht, dass der nächste halten würde.
+Er nahm die Hand vom Gehäuse. Die Uhr tickte weiter. Der Schlag blieb sauber. Er hatte ihr den Takt vorgelegt, und sie hielt ihn jetzt ohne seine Hand. Der Zug vor zwei Wochen hatte gehalten. Über den nächsten sagte das nichts.
 
 Er ging zur Haustür, schloss sie von innen zu, verließ durch die Seitentür das Grundstück. Der Dunst über der Grauwe hatte sich verdichtet. Die Laternen an der Flussseite warfen ihr Licht als schmale Trapeze auf die Pflastersteine, und er ging durch die Trapeze, eins nach dem anderen, zurück zum Anker.
 
-In seiner Außentasche lag der Turm. Er streifte ihn beim Gehen einmal mit der Daumenkuppe. Kalt. Wie immer. Das, was vor einer Stunde im Zimmer gewesen war, war nicht wieder da.
+In seiner Außentasche lag der Turm. Er streifte ihn beim Gehen einmal mit der Daumenkuppe. Kalt. Wie immer.
 
 Er ging weiter. Die siebte Stufe seiner Gasthaus-Treppe knarrte. Er hörte sie knarren und stieg darüber hinweg, ohne sie zu vermeiden.
 
