@@ -1,45 +1,39 @@
 # Handoff — B1-K21
 
-**Von Phase:** entwurf → **Zu Phase:** ausarbeitung  
+**Von Phase:** ausarbeitung → **Zu Phase:** lektorat-fix  
 **Erstellt:** 2026-04-12  
-**Status beim Handoff:** entwurf-ok
+**Status beim Handoff:** lektorat
 
 ## Modell-Empfehlung
-claude --model opus
+```
+claude --model sonnet
+```
+(oder `claude --model haiku` für Mikro-Fixes)
 
 ## Aufruf für nächste Session
-/ausarbeitung B1-K21
+```
+/lektorat-fix B1-K21
+```
 
-## Kontext für nächste Session
-- POV: Alphina (3. Person nah, Präteritum)
-- Wortziel: 4.000–4.500 W
-- Timeline-Anker: 23. Blütenmond 551 TZ (parallel zu K20, Tag nach K19)
-- Freigegebener Entwurf: buch/kapitel/B1-K21-entwurf.md
-- Ton-Referenz: B1-K15-alphina.md (letztes fertiges Alphina-Kapitel)
+## Kontext
+- **Datei:** buch/kapitel/B1-K21-alphina.md (3827 W)
+- **POV:** Alphina, 23. Blütenmond 551
+- **Phase:** Lektorat-Fixes (Autor-getrieben, kleine Edits)
+- **Umfang:** Kein neuer Stil-Check, kein Council. Nur was der Autor anfasst.
 
-## Szenen-Struktur
-1. **Ankunft im Lichthaus-Keller** (900–1.200 W): Ankunft unangekündigt, Dunkelkammer-Eingang, erste Plattenerkennung
-2. **Die Schublade** (1.800–2.200 W): 20 Platten offenbaren, Licht-Formung-Erkenntnis, Körper-Handlung, Farne wachsen
-3. **Danach** (600–800 W): Stille, Schem-Beobachtung, Du-Form, beiläufiges Versprechen
+## Council + Autorin-Durchgang abgeschlossen
+- Stil-Check: Findings eingearbeitet (Wut-Streichung, Hypothetische -5, Aphorismen -9)
+- Stilkritiker: ✓ bestanden
+- Dark-Romance-Leserin: ✓ bestanden
+- Romantasy-Leserin: ✓ bestanden
+- Autorin-Durchgang (Opus): 9 Streichungen + 11 Umformulierungen eingearbeitet
 
-## Ausarbeitung-Pflichten (vom Council)
-- Körperlicher Trigger zwischen Wut und Hingabe (vor "sie zieht ihn zu sich"): Körperimpuls statt nur emotional
-- Schem-Intentionalität auf Körperwahrnehmung zurückbauen: Er ist da, beobachtet, tut nichts
-- "Verdammt, du Arsch" durch Körperimpuls ersetzen (Wut→Begehren-Übergang)
-- "Schemen" nie als Wort in Alphinas Wahrnehmung verwenden
-- **Plattenzahl:** K13/K16 = ~12 Platten. Entwurf = 20. In Ausarbeitung konsistent halten (15–16 als Kompromiss oder explizite Begründung der Steigerung)
-
-## Kritische Dialog-Infos (müssen in Prosa landen)
-- Sorels Erklärung: "Das ist nicht die Kamera. Das bin ich."
-- Das Begehren seit dem Steg (Callback K12)
-- Alphinas Erkenntnis: Hingabe als tiefere Form von Kontrolle
-- Schem-Moment: Beobachtung ohne Aggression, Auflösung ohne Dramatik
-- Du-Form als Tatsache (nicht Entscheidung)
-
-## Kontinuität
-- Cross-POV K23 (Sorel): Varen auf Kampfplatten — Alphina sieht das nicht
-- Tschechow K19 Callback: Handgelenke-Griff
-- Farne als Magie-Anker für Moragh
+## Anweisungen
+- Edit-Tool bevorzugt vor Write-Tool
+- Kein ungefragtes Umformulieren
+- Bei größeren Wünschen: Hinweis auf Rückstufung zu `/ausarbeitung`
+- Status `final` nur auf explizite Autor-Freigabe hin
 
 ---
-**Maximale Token-Sparsamkeit:** Nur Handoff-Header und Szenen-Übersicht. Entwurf ist Quelle der Wahrheit.
+
+**Nach Fertigstellung:** `git add buch/kapitel/B1-K21-alphina.md` → `commit` → `push` → `ssh-deploy`
