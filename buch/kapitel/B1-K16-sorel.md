@@ -1,11 +1,11 @@
 # B1-K16 — Sorel
 
-*20. Mai 551 · 7 Wochen 6 Tage in Vael*
+*20. Bluetenmond 551 · 7 Wochen 6 Tage in Vael*
 
 
 Zwei Tage hatte er nicht entwickelt. Er war morgens aus dem Lichthaus-Keller hinaufgegangen, einen Umweg über den Markt gemacht, Kaffee bei der Kräuterfrau genommen, zurück unter die Erde. Er hatte den Entwicklertisch aufgeräumt, den er schon aufgeräumt hatte. Er hatte die Emulsionen inventarisiert, obwohl der Bestand seit einer Woche unverändert war. Er hatte den Messinghahn auseinandergeschraubt, den Dichtungsring geprüft, den Hahn wieder zusammengeschraubt. Jede Bewegung war eine saubere Verrichtung mit einem sauberen Anfang und einem sauberen Ende, und die Summe dieser Verrichtungen war, dass er nichts entwickelt hatte.
 
-In der Schublade unter dem Entwicklertisch lagen elf Platten, drei Tage alt. Auf jeder stand Alphina — im Hintergrund zwischen zwei Pollern, am Becken in Nachtholm, im Mittelgrund einer Oberstadt-Gasse, an Orten, an denen sie nicht gestanden hatte, als er den Verschluss gelöst hatte. Er hatte sie in die Schublade gelegt, den Holzkeil gedreht, und seitdem nicht mehr geöffnet. Die Erklärung, die übrigblieb, wenn alle anderen fielen, wollte er nicht anfassen. Also musste er die anderen abarbeiten, eine nach der anderen. Vorbelichtete Charge. Emulsionsdefekt. Eine Apparatur, die jemand in seinem Keller angebracht hatte, ohne dass er es bemerkt hätte. Fehler in seinem Gedächtnis. Jede Möglichkeit hatte einen Test. So hatte er es immer gemacht, wenn eine Platte nicht zeigte, was sie hätte zeigen sollen.
+In der Schublade unter dem Entwicklertisch lagen elf Platten, drei Tage alt. Auf jeder stand Alphina — im Hintergrund zwischen zwei Pollern, am Becken in Nachtholm, im Mittelgrund einer Oberstadt-Gasse, an Orten, an denen sie nicht gestanden hatte, als er den Verschluss gelöst hatte. Er hatte sie in die Schublade gelegt, den Holzkeil gedreht, und seitdem nicht mehr geöffnet. Die Erklärung, die übrigblieb, wenn alle anderen fielen, wollte er nicht anfassen. Also musste er die anderen abarbeiten, eine nach der anderen. Vorbelichtete Charge. Emulsionsdefekt. Fehler in seinem Gedächtnis. Jede Möglichkeit hatte einen Test. So hatte er es immer gemacht, wenn eine Platte nicht zeigte, was sie hätte zeigen sollen.
 
 Am dritten Morgen zwang er sich, damit anzufangen.
 
@@ -55,7 +55,7 @@ Er hob die Hände und sah auf sie.
 
 Er hob sie nicht zur Prüfung. Er hob sie, weil er sehen musste, dass sie zu ihm gehörten. Sie gehörten zu ihm. Die Kerbe am linken Mittelfinger, die Brandstelle am linken Handrücken, die blassrosa Haut, die in drei Tagen geheilt war, wo sie in drei Wochen hätte heilen müssen — alles an der richtigen Stelle.
 
-Er belichtete die Platten. Er. Nicht die Kamera, nicht ein Spion an der Decke, der nicht existierte. Was in ihm saß, wenn er die Hände über die Schale hielt, ging in das Silber, und das Silber hielt es fest.
+Er belichtete die Platten. Er. Nicht die Kamera. Jede Platte, die er lange genug in der Hand hielt, nahm auf, was in seiner Vorstellung war, und das Silber hielt es fest.
 
 Der Gedanke war still. Er hatte keinen Aufprall. Er saß, wo er hingehörte, tief, in einem Raum, den er seit Nachtholm nicht geöffnet hatte.
 
@@ -97,7 +97,7 @@ Er war der Punkt, aus dem die Bilder kamen. Er war es seit Nachtholm. Er war es 
 
 Der Geruch des Nachtholmer Kellers stieg ihm in die Nase, ohne dass etwas im Raum dafür da war. Feuchter Kalk, ein Hauch Leim von den Bücherrücken, die alte Werkstatt des Onkels, in der er angefangen hatte. Er war siebzehn gewesen, als die erste Platte zerbrach. Er hatte sie zum Entwickeln in der Hand gehabt, einen Moment zu fest gegriffen, das Glas hatte einen Knacks bekommen und war beim Weiterarbeiten entlang der Linie auseinandergefallen. Auf beiden Hälften, in den Bruchkanten, hatte sein eigenes Gesicht gestanden. Er hatte die Stücke zusammengeklebt und in eine Schublade gelegt. Dreizehn Jahre lang war er davon ausgegangen, dass ihm das passiert war. Er hatte nie bedacht, dass er sie gemacht haben könnte.
 
-Die Resonanz war alt. Er hatte sie in jeder Dunkelkammer seines Lebens eingesetzt, ohne zu wissen, dass er es tat. Die feinen Unschärfen, die er sich als gute Emulsion angerechnet hatte. Die kleinen Verschiebungen im Licht, die er für Glück gehalten hatte. Die Bilder, die besser wurden, wenn er fest genug wollte. Jeder Fotograf, den er kannte, hätte an seiner Stelle geglaubt, es sei Handwerk.
+Er hatte es in jeder Dunkelkammer seines Lebens eingesetzt, ohne zu wissen, dass er es tat. Die feinen Unschärfen, die er sich als gute Emulsion angerechnet hatte. Die kleinen Verschiebungen im Licht, die er für Glück gehalten hatte. Die Bilder, die besser wurden, wenn er fest genug wollte. Jeder Fotograf, den er kannte, hätte an seiner Stelle geglaubt, es sei Handwerk.
 
 Die elf Platten lagen in der Schublade hinter ihm. Er brauchte sie nicht herauszunehmen, um zu wissen, was auf ihnen stand. Alphina, an Orten, an denen sie nicht gewesen war. Im Hintergrund zwischen zwei Pollern, nachts am Becken in Nachtholm, im Mittelgrund einer Oberstadt-Gasse, wo die Wand stand, wie sie stehen sollte. Ihre Sehne am linken Handgelenk. Die Bewegung ihrer Hand am Stein. Dies war nicht das erste Mal, dass er sie auf Glas zog. Er hatte es Monat für Monat getan, in dem Teil seines Willens, dem er keine Stimme gegeben hatte.
 
@@ -117,7 +117,7 @@ Er versuchte, es nicht zu denken.
 
 Er dachte es trotzdem.
 
-Der Gedanke kam nicht als Bild zuerst, sondern als ein Nachlassen — die Schultern, die er seit einer Stunde oben hielt, sanken einen halben Fingerbreit, und in den freigewordenen Raum fiel, was er seit Wochen nicht hineinließ, wenn er die Platten in der Schublade anstarrte. Alphina, wie sie stand, wenn niemand sie ansah. Alphina, wie sie aussah, wenn die Dunkelkammer leer war und die Nacht lang. Das Bild, das er sich selbst durch andere Gedanken gedeckt hatte — die drei Schemen auf der Mauer, die Nachtholm-Frage, der Schuldschein, den er ihr schuldete —, legte sich offen. Die Blende blieb offen.
+Der Gedanke kam nicht als Bild zuerst, sondern als ein Nachlassen — die Schultern, die er seit einer Stunde oben hielt, sanken einen halben Fingerbreit, und in den freigewordenen Raum fiel, was er seit der Druckseite des *Vaeler Anzeigers* nicht hineinließ, seit der Frau am Rand des Farnbildes, die er abgelegt hatte, ohne sie zu kennen. Alphina, wie sie stand, wenn niemand sie ansah. Alphina, wie sie aussah, wenn die Dunkelkammer leer war und die Nacht lang. Das Bild, das er sich selbst durch andere Gedanken gedeckt hatte — die drei Schemen auf der Mauer, die Nachtholm-Frage, der Schuldschein, den er ihr schuldete —, legte sich offen. Die Blende blieb offen.
 
 Er nahm eine Platte aus der Schachtel. Siebte. Legte sie in den Entwickler.
 
@@ -125,7 +125,13 @@ Er wusste, was er sehen würde, bevor das Silber begann. Er atmete nicht schnell
 
 Die Platte kam.
 
-Sie kam nicht schnell. Sie kam, wie sie kommen sollte, mit dem Vorlauf der Schatten, den mittleren Tonwerten, der langsamen Erschließung der Bildfläche von außen nach innen. Kein Raum im Hintergrund. Kein Ort. Kein Datum, das sich hätte nachrechnen lassen. Nur sie. Nicht fotografisch. Intimer als das. Die Art, wie das Licht auf einer Schulter saß, die keine Kamera je hätte so sehen können, weil keine Kamera je so nah gewesen war. Die Linie von Hüfte und Taille in einem Winkel, den man nur sah, wenn man stand, wo er nicht gestanden hatte. Die Schicht hielt, was er gehalten hatte.
+Sie kam nicht schnell. Sie kam, wie sie kommen sollte, mit dem Vorlauf der Schatten, den mittleren Tonwerten, der langsamen Erschließung der Bildfläche von außen nach innen. Kein Raum im Hintergrund. Kein Ort. Kein Datum, das sich hätte nachrechnen lassen. Nur sie.
+
+Sie lag. Auf der linken Seite, das Gewicht auf dem Unterarm, den Kopf ein wenig in die Hand gestützt, sodass das Haar über die Schulter fiel und eine dunkle Fläche neben dem Gesicht bildete, ein zweiter Körper aus Schwarz an ihrem Körper aus Hell. Das Licht kam von links oben, schräg, nicht hart — ein Fensterlicht, wie er es für einen Akt gewählt hätte, weil es die Übergänge weich machte und die Schatten nicht erschlug. Es fiel auf die Stirn, lief über den Jochbogen, fand das Grübchen über dem Schlüsselbein, sammelte sich in der Senke zwischen den Brüsten, zog dann weiter über die Linie der Rippen und verlor sich am Bauch in einem Grauwert, den er im Entwickler dreimal geprüft hätte, um sicherzugehen, dass er die Weichheit traf.
+
+Die Schulter, die oben lag, war frei. Die Rundung ging in den Oberarm, der Oberarm in den Ellbogen, der Ellbogen hielt die Pose. Die Brust, die oben lag, lag schwer, nicht gestellt, natürlich in dem Winkel, den der Körper ihr gab, wenn er nicht für ein Bild gestellt wurde. Die Brustwarze war ein dunkler Punkt im Mittelgrund, und er hatte ihn nicht hart gezeichnet, sondern weich, weil er sie so dachte, wenn er sie dachte. Die Taille lief in einer Linie, die keine Kamera je aufgenommen hätte, weil keine Kamera je so lange gehalten hätte. Die Hüfte ruhte, das eine Bein lag gestreckt, das andere leicht angewinkelt, sodass der Übergang von Oberschenkel zu Hüfte eine Kurve bildete, die er im Kopf getragen hatte, ohne sie je gesehen zu haben.
+
+Ihr Gesicht war zu ihm gewendet. Nicht zum Betrachter — zu ihm. Die Augen waren halb geschlossen, die Lippen nicht gelächelt, leicht geöffnet, die Spannung um den Mund war die Spannung eines Menschen, der wusste, dass er angesehen wurde, und dem es gleich war. Sie hielt die Pose für ihn, weil er sie so gehalten hatte. Er hatte sie in Szene gesetzt, Licht und Winkel und Pose, jeder Millimeter eine Entscheidung, die er nicht bewusst getroffen hatte und die trotzdem seine war. Die Schicht hielt, was er gehalten hatte.
 
 Er nahm die Platte in das Fixierbad. Seine Hände waren kalt. Der Puls saß im Nacken, zu hoch.
 
@@ -139,9 +145,9 @@ Er zog die Schublade nicht weit auf. Er schob sie einen Spalt, gerade weit genug
 
 Er ging raus.
 
-Er schloss den Keller zweimal ab, wie immer, aber er zog diesmal den Schlüssel aus der Tasche, bevor er die Treppe hinaufstieg, drehte ihn in der Hand, fühlte das warme Metall, steckte ihn wieder ein. Oben im Flur stand das Mailicht in dem schmalen Fenster neben der Tür, weiß und breit, und er blinzelte einmal gegen den Tonwertunterschied, den seine Augen nach einer Stunde Rotlicht nicht verarbeiten konnten. Er stieß die Haustür auf. Die Hafengasse roch nach Seil und Teer und der ersten warmen Sonne des Jahres auf Purpurstein. Unten am Kai stand ein Fuhrwerk mit Fässern, der Fuhrmann sortierte Leinen auf dem Bock. Zwei Kinder liefen an Sorel vorbei, das eine mit einem Stock in der Hand, das andere barfuß, beide laut. Er ging ihnen aus dem Weg, ohne sie anzusehen.
+Er schloss den Keller zweimal ab, wie immer, aber er zog diesmal den Schlüssel aus der Tasche, bevor er die Treppe hinaufstieg, drehte ihn in der Hand, fühlte das warme Metall, steckte ihn wieder ein. Oben im Flur stand das weiche Licht des Bluetenmonds in dem schmalen Fenster neben der Tür, weiß und breit, und er blinzelte einmal gegen den Tonwertunterschied, den seine Augen nach einer Stunde Rotlicht nicht verarbeiten konnten. Er stieß die Haustür auf. Die Hafengasse roch nach Seil und Teer und der ersten warmen Sonne des Jahres auf Purpurstein. Unten am Kai stand ein Fuhrwerk mit Fässern, der Fuhrmann sortierte Leinen auf dem Bock. Zwei Kinder liefen an Sorel vorbei, das eine mit einem Stock in der Hand, das andere barfuß, beide laut. Er ging ihnen aus dem Weg, ohne sie anzusehen.
 
-Am Hafen war die Kaimauer warm. Nicht heiß — warm in der Art, die Stein im Mai gegen Abend trägt, wenn die Sonne den halben Tag drauf gestanden hat. Er ging bis zum Bollwerk, legte die Hand auf den Poller, der zuletzt in seinem Bild gestanden hatte, und schaute auf die Grauwe. Der Dunst oben am Himmel war dünner als sonst um diese Zeit. Drei Möwen lagen im Wind, eine am höchsten, die anderen tiefer, wie die Reihen in einem Chor. Das Wasser zwischen den Pollern war dunkler als die offene Fläche dahinter, wo das Licht einen breiten Streifen über die Grauwe legte. Er roch das Salz. Er roch Fisch, alt, aus den Reusen, die an der Kaiwand hingen. Er roch seine eigene Haut, die nach Pyrogallol roch, der Geruch saß unter den Fingernägeln.
+Am Hafen war die Kaimauer warm. Nicht heiß — warm in der Art, die Stein im Bluetenmond gegen Abend trägt, wenn die Sonne den halben Tag drauf gestanden hat. Er ging bis zum Bollwerk, legte die Hand auf den Poller, der zuletzt in seinem Bild gestanden hatte, und schaute auf die Grauwe. Der Dunst oben am Himmel war dünner als sonst um diese Zeit. Drei Möwen lagen im Wind, eine am höchsten, die anderen tiefer, wie die Reihen in einem Chor. Das Wasser zwischen den Pollern war dunkler als die offene Fläche dahinter, wo das Licht einen breiten Streifen über die Grauwe legte. Er roch das Salz. Er roch Fisch, alt, aus den Reusen, die an der Kaiwand hingen. Er roch seine eigene Haut, die nach Pyrogallol roch, der Geruch saß unter den Fingernägeln.
 
 Irgendwo am Steg ging jemand, weit hinten. Der Gang. Die Schultern. Er dachte: sie. Es war nicht sie. Eine Frau mit zwei Fischkörben, die keine Fischkörbe trug wie Alphina einen Korb tragen würde, die den Kopf in einem Winkel hielt, den Alphina nicht hielt, die ein anderes Gesicht hatte, als sie näherkam. Er hatte trotzdem zu lang geschaut. Er sah es an sich selbst, an der Art, wie die Halsmuskulatur einen halben Schlag zu spät entspannte, als sein Kopf begriff, dass das Bild nicht stimmte. Die Fischfrau ging an ihm vorbei. Ihre Körbe dampften leicht, die Reste vom Fangwasser, eine Schuppe an ihrer Wange. Sie sah ihn nicht an.
 
@@ -151,7 +157,7 @@ Er lehnte sich gegen den Poller, legte die Hand in den Nacken, drückte die Wirb
 
 Er konnte es nicht abschalten.
 
-Er stand eine Weile. Das Wasser der Grauwe schlug gegen die Kaimauer in einem mittleren Rhythmus, der keinen besonderen Grund hatte. Die Fischfrau passierte zehn Schritte weiter, nickte nicht, sah ihn nicht an. Das Licht fiel weiß über das Wasser, nicht flirrend, noch nicht flirrend, der Mai ließ es nicht so weit.
+Er stand eine Weile. Das Wasser der Grauwe schlug gegen die Kaimauer in einem mittleren Rhythmus, der keinen besonderen Grund hatte. Die Fischfrau passierte zehn Schritte weiter, nickte nicht, sah ihn nicht an. Das Licht fiel weiß über das Wasser, nicht flirrend, noch nicht flirrend, der Bluetenmond ließ es nicht so weit.
 
 Er dachte an die Platten im Keller. Er dachte an die, die er sich vorstellen könnte, wenn er jetzt weiterdenken würde — mehr von ihr, an Orten, an denen sie nie gewesen war, Momente, die er sich nie selbst zugegeben hatte, dass er sie wollte. Die Vorstellungen kamen wie Schauer auf der Haut, ungerufen. Er schob sie weg, und er wusste, während er sie wegschob, dass das Wegschieben nichts verhinderte, was in der Schublade schon lag, und nichts, was sich heute nacht neu in das Silber legen konnte, wenn er in den Keller zurückging, ohne es zu wollen.
 
