@@ -25,6 +25,8 @@ Der Mann auf der Platte war er.
 
 Der Winkel, aus dem das Bild genommen war, ging nicht. Er ging physikalisch nicht. Die Kamera hätte über dem Entwicklertisch hängen müssen, hoch oben, schräg hinter seiner rechten Schulter, in einer Position, die keine Wand und kein Regal hergab. Er drehte den Kopf, ohne die Platte aus der Schale zu nehmen, und schaute an die Decke. Balken. Haken für die Trockenleine. Der Docht der Kerosinlampe, der gerade zu lang war und flackerte. Nichts, wo etwas hätte sitzen können. Kein Loch im Putz. Kein Linsenglanz.
 
+Er atmete einmal aus, langsam, wie er bei langen Belichtungen ausatmete. Die Luft roch nach Pyrogallol. Der Hocker knackte, als sein Gewicht sich verlagerte. Die Platte in seinen Fingern war kühl und glatt, und seine Daumenkuppe fand den kleinen Grat am Rand, den jede Ostenfelder Platte hatte.
+
 Er nahm die Platte in die Fixierschale, ohne den Blick von der Decke zu nehmen. Als sie fixiert war, trug er sie an die Wand und hängte sie nicht auf, sondern lehnte sie gegen die Kante, mit dem Rücken zur Wand, das Glas nach vorn. Er ging den Keller ab.
 
 Ecke für Ecke. Er schob das Regal rechts vom Tisch drei Finger von der Wand, sah dahinter, schob es zurück. Er hob die Öllampe von ihrem Haken, hielt sie in die linke Hand und ging unter die Balken, leuchtete jede Kerbe aus, jede Nagelstelle, die nicht mehr genutzt wurde. Die alte Eisenkralle an der Südbalken-Ecke, die schon da gewesen war, als er einzog, der rostige Haken über dem Rauchabzug, das kleine Loch im Putz an der Westwand, an dem jemand einmal einen Nagel falsch gesetzt hatte — er prüfte alles und stellte fest, dass keine dieser Stellen eine Linse trug, keine einen Draht, keine auch nur den Umriss dessen, was eine Apparatur gewesen sein könnte. Er prüfte den Rauchabzug, die zwei Lüftungsschlitze in Bodennähe, den kleinen Fensterschlitz an der Nordwand, der seit seinem Einzug zugenagelt war. Er prüfte ihn trotzdem. Die Nägel saßen. Der Putz war unberührt. Er schob den Hocker zur Seite, ging in die Knie und strich mit der Handfläche unter der Kante des Entwicklertischs entlang, links nach rechts, rechts nach links, bis seine Finger den Übergang von Holz zu Eisen an jedem Punkt kannten. Er stand wieder auf, hob die Emulsionskiste vom oberen Regal, sah in den Zwischenraum, stellte die Kiste zurück. Er zählte die Chemikalienflaschen nach Position. Die Positionen stimmten. Nichts hatte sich verschoben.
@@ -53,7 +55,7 @@ Er hob die Hände und sah auf sie.
 
 Er hob sie nicht zur Prüfung. Er hob sie, weil er sehen musste, dass sie zu ihm gehörten. Sie gehörten zu ihm. Die Kerbe am linken Mittelfinger, die Brandstelle am linken Handrücken, die blassrosa Haut, die in drei Tagen geheilt war, wo sie in drei Wochen hätte heilen müssen — alles an der richtigen Stelle.
 
-Er belichtete die Platten. Er. Nicht die Kamera. Nicht eine Charge. Nicht ein Spion an der Decke, der nicht existierte. Was in ihm saß, wenn er die Hände über die Schale hielt, ging in das Silber, und das Silber hielt es fest. Er war nicht Beobachter. Er war Medium.
+Er belichtete die Platten. Er. Nicht die Kamera, nicht ein Spion an der Decke, der nicht existierte. Was in ihm saß, wenn er die Hände über die Schale hielt, ging in das Silber, und das Silber hielt es fest.
 
 Der Gedanke war still. Er hatte keinen Aufprall. Er saß, wo er hingehörte, tief, in einem Raum, den er seit Nachtholm nicht geöffnet hatte.
 
@@ -81,13 +83,13 @@ Er machte weitere.
 
 Die Treppe zur Oberstadt. Purpursteinstufen, der Geländerkopf oben mit dem Kratzer aus einem Sturz, den er nicht gemacht hatte, die schiefe Laterne am ersten Absatz, der Staub, der auf der dritten Stufe im Gegenlicht hing, wenn man morgens hinaufstieg. Er hielt das Bild. Die Platte nahm, was er hielt. Sie gab die Stufen in weichen Grauwerten zurück, die Laterne in dem schiefen Winkel, den seine Augen gewohnt waren, das Geländer mit dem Kratzer klar an der richtigen Stelle — der Staub fehlte, weil er ihn gedacht hatte, ohne ihn zu halten, und die Schicht war ehrlicher als seine Absicht.
 
-Das Lichthaus von außen. Der Winkel, den er sonst nur auf dem Weg zurück vom Markt hatte, wenn er aus der Hafengasse trat und das Haus gegen den Himmel stand. Die schmale Westseite, das eine blinde Fenster im zweiten Stock, der Wetterhahn, der sich immer halb nach Nordost lehnte. Die Platte kam dunkler, als er sie gedacht hatte, vielleicht weil die Stelle, an der er stand, in seinem Gedächtnis eher der Abend war, nicht der Mittag. Er schrieb den Befund in das kleine Buch. *Test 3: leichtes Untervermögen bei Mittagslicht.* Er hörte sich selbst, wie er in Fotografensprache schrieb, als sei das, was er gerade tat, eine Emulsionsprüfung, und er ließ sich das, weil er sonst nichts zum Festhalten hatte.
+Er schrieb den Befund in das kleine Buch. *Test 2: leichtes Untervermögen bei Details außerhalb des aktiven Gedächtnisses.* Er hörte sich selbst, wie er in Fotografensprache schrieb, als sei das, was er gerade tat, eine Emulsionsprüfung, und er ließ sich das, weil er sonst nichts zum Festhalten hatte.
 
 Der Steinkreis im Garten. Er zögerte bei dem. Er nahm ihn trotzdem, weil das Testen keine Ausnahmen machte, wenn es brauchbar sein sollte, und weil er sich nicht selbst bescheißen wollte an der Stelle, an der er anfangen musste, sich selbst zu vertrauen, um zu wissen, woran er nicht zu vertrauen war. Der Hügel kam schwach. Der Stein oben, der immer im Sucher den Atemrhythmus hatte, kam ohne den Rhythmus auf die Platte — er stand, flach, sieben Druckstellen in gleichmäßigem Grauwert, Unterschied zwischen Gedachtem und Gesehenem deutlich. Sein Kopf konnte nicht mit-belichten, was seine Augen nicht erreichten. Die Platte hielt nur, was er wirklich gesehen hatte.
 
 Das System gehorchte. Dem Willen, dem bewussten und präzisen.
 
-Er legte die vierte, fünfte, sechste Platte an die Wand. Die Erkenntnis sackte durch, während die Hände arbeiteten — eine tiefer laufende Linie, die mit den Platten nichts zu tun hatte, die aber an ihnen entlang eine Form fand.
+Er legte die vierte, fünfte, sechste Platte an die Wand. Die Erkenntnis sackte durch, während die Hände arbeiteten.
 
 Seit Nachtholm.
 
@@ -97,7 +99,7 @@ Die Antwort lag nicht in Vael. Sie lag in ihm.
 
 Er war der Punkt, aus dem die Bilder kamen. Er war es seit Nachtholm. Er war es vielleicht länger — die Vael-Platte war älter als seine erste eigene Kamera, aber das war eine Frage, die sich von dieser Seite nicht lösen ließ, und er ließ sie stehen, weil er einen Fuß vor den anderen setzen musste und nicht zwei gleichzeitig.
 
-Der Geruch des Nachtholmer Kellers stieg ihm in die Nase, ohne dass etwas im Raum dafür da war. Feuchter Kalk, ein Hauch Leim von den Bücherrücken, die alte Werkstatt des Onkels, in der er angefangen hatte. Er war siebzehn gewesen, als die erste Platte zerbrach. Er hatte sie zum Entwickeln in der Hand gehabt, einen Moment zu fest gegriffen, das Glas hatte einen Knacks bekommen und war beim Weiterarbeiten entlang der Linie auseinandergefallen. Auf beiden Hälften, in den Bruchkanten, hatte sein eigenes Gesicht gestanden, an einem Kai, den er nicht kannte, unter einem Lichthaus, das er damals nicht identifizieren konnte. Er hatte die Stücke zusammengeklebt, so weit es ging, und in eine Schublade gelegt. Er war dreizehn Jahre lang davon ausgegangen, dass ihm das passiert war. Dass die Platte ihm passiert war, wie ein Unfall. Er hatte nie bedacht, dass er sie gemacht haben könnte.
+Der Geruch des Nachtholmer Kellers stieg ihm in die Nase, ohne dass etwas im Raum dafür da war. Feuchter Kalk, ein Hauch Leim von den Bücherrücken, die alte Werkstatt des Onkels, in der er angefangen hatte. Er war siebzehn gewesen, als die erste Platte zerbrach. Er hatte sie zum Entwickeln in der Hand gehabt, einen Moment zu fest gegriffen, das Glas hatte einen Knacks bekommen und war beim Weiterarbeiten entlang der Linie auseinandergefallen. Auf beiden Hälften, in den Bruchkanten, hatte sein eigenes Gesicht gestanden. Er hatte die Stücke zusammengeklebt und in eine Schublade gelegt. Dreizehn Jahre lang war er davon ausgegangen, dass ihm das passiert war. Er hatte nie bedacht, dass er sie gemacht haben könnte.
 
 Die Resonanz war alt. Er hatte sie in jeder Dunkelkammer seines Lebens eingesetzt, ohne zu wissen, dass er es tat. Die feinen Unschärfen, die er sich als gute Emulsion angerechnet hatte. Die kleinen Verschiebungen im Licht, die er für Glück gehalten hatte. Die Bilder, die besser wurden, wenn er fest genug wollte. Jeder Fotograf, den er kannte, hätte an seiner Stelle geglaubt, es sei Handwerk. Er hatte es auch geglaubt.
 
@@ -121,7 +123,7 @@ Er versuchte, es nicht zu denken.
 
 Er dachte es trotzdem.
 
-Der Gedanke kam nicht als Bild zuerst, sondern als ein Nachlassen — die Schultern, die er seit einer Stunde oben hielt, sanken einen halben Fingerbreit, und in den freigewordenen Raum fiel, was er seit Wochen nicht hineinließ, wenn er die Platten in der Schublade anstarrte. Alphina, wie sie stand, wenn niemand sie ansah. Alphina, wie sie aussah, wenn die Dunkelkammer leer war und die Nacht lang. Seine Sehnsucht, die er vor sich selbst durch andere Gedanken gedeckt hatte — die drei Schemen auf der Mauer, die Nachtholm-Frage, der Schuldschein, den er ihr schuldete —, legte sich hin. Er hatte keine Hand mehr frei, um sie zurückzuhalten.
+Der Gedanke kam nicht als Bild zuerst, sondern als ein Nachlassen — die Schultern, die er seit einer Stunde oben hielt, sanken einen halben Fingerbreit, und in den freigewordenen Raum fiel, was er seit Wochen nicht hineinließ, wenn er die Platten in der Schublade anstarrte. Alphina, wie sie stand, wenn niemand sie ansah. Alphina, wie sie aussah, wenn die Dunkelkammer leer war und die Nacht lang. Das Bild, das er sich selbst durch andere Gedanken gedeckt hatte — die drei Schemen auf der Mauer, die Nachtholm-Frage, der Schuldschein, den er ihr schuldete —, legte sich offen. Er hatte keine Hand mehr frei, um die Blende zu schließen.
 
 Er nahm eine Platte aus der Schachtel. Siebte. Legte sie in den Entwickler.
 
@@ -129,9 +131,9 @@ Er wusste, was er sehen würde, bevor das Silber begann. Er atmete nicht schnell
 
 Die Platte kam.
 
-Sie kam nicht schnell. Sie kam, wie sie kommen sollte, mit dem Vorlauf der Schatten, den mittleren Tonwerten, der langsamen Erschließung der Bildfläche von außen nach innen. Kein Raum im Hintergrund. Kein Ort. Kein Datum, das sich hätte nachrechnen lassen. Nur sie. Nicht fotografisch. Intimer als das. Die Art, wie das Licht auf einer Schulter saß, die keine Kamera je hätte so sehen können, weil keine Kamera je so nah gewesen war. Die Linie von Hüfte und Taille in einem Winkel, den man nur sah, wenn man stand, wo er nicht gestanden hatte. Die Schicht hielt, was er gehalten hatte. Das Silber war ehrlich.
+Sie kam nicht schnell. Sie kam, wie sie kommen sollte, mit dem Vorlauf der Schatten, den mittleren Tonwerten, der langsamen Erschließung der Bildfläche von außen nach innen. Kein Raum im Hintergrund. Kein Ort. Kein Datum, das sich hätte nachrechnen lassen. Nur sie. Nicht fotografisch. Intimer als das. Die Art, wie das Licht auf einer Schulter saß, die keine Kamera je hätte so sehen können, weil keine Kamera je so nah gewesen war. Die Linie von Hüfte und Taille in einem Winkel, den man nur sah, wenn man stand, wo er nicht gestanden hatte. Die Schicht hielt, was er gehalten hatte. Das Silber log nicht.
 
-Er nahm die Platte in das Fixierbad. Seine Hände waren kalt. Sein Mund war trocken. Das leise Würgen hinter dem Zwerchfell saß klein und stetig, etwas, das er sich jederzeit hätte unterdrücken können, wenn er weniger verstanden hätte, was er sah.
+Er nahm die Platte in das Fixierbad. Seine Hände waren kalt. Der Puls saß im Nacken, zu hoch.
 
 Er hielt die Platte lange.
 
@@ -159,7 +161,7 @@ Er stand eine Weile. Das Wasser der Grauwe schlug gegen die Kaimauer in einem mi
 
 Er dachte an die Platten im Keller. Er dachte an die, die er sich vorstellen könnte, wenn er jetzt weiterdenken würde — mehr von ihr, an Orten, an denen sie nie gewesen war, Momente, die er sich nie selbst zugegeben hatte, dass er sie wollte. Die Vorstellungen kamen wie Schauer auf der Haut, ungerufen. Er schob sie weg, und er wusste, während er sie wegschob, dass das Wegschieben nichts verhinderte, was in der Schublade schon lag, und nichts, was sich heute nacht neu in das Silber legen konnte, wenn er in den Keller zurückging, ohne es zu wollen. Die Resonanz war nicht etwas, das man abschaltete. Sie war etwas, das man trug.
 
-Er sah die Hände an, die neben dem Poller hingen. Er hatte sie heute morgen als seine eigenen bestätigt. Sie waren es immer noch. Die Kerbe am Mittelfinger, die geheilte Stelle am Handrücken. Die Werkzeuge, mit denen er die Platte in die Schublade gelegt hatte, waren die Werkzeuge, mit denen er die Platte in die Schublade gelegt hatte. Er wollte den Gedanken simpel halten. Er kam nicht simpel heraus.
+Er sah die Hände an, die neben dem Poller hingen. Er hatte sie heute morgen als seine eigenen bestätigt. Sie waren es immer noch. Die Kerbe am Mittelfinger, die geheilte Stelle am Handrücken. Dieselben Hände, die die Platte in die Schublade gelegt hatten. Es gab keine zweite Gruppe.
 
 Er ging zurück.
 
@@ -167,6 +169,6 @@ Die Tür zum Lichthaus fiel hinter ihm zu. Er stieg die Treppe in den Keller, dr
 
 Die Schublade lag, wie er sie gelassen hatte. Auf Anschlag. Nicht abgeschlossen.
 
-Er stand davor und sah sie an.
+Er stand davor. Er hob die rechte Hand. Der Holzkeil saß auf seiner Achse, zwei Fingerbreit vom Rand der Schublade, und er brauchte einen halben Handgriff, um ihn zu drehen. Er sah seine Finger, wie sie sich auf den Keil zubewegten. Er sah, wie sie stehenblieben, drei Fingerbreit davor.
 
-Er drehte den Keil nicht.
+Er zog die Hand zurück.
