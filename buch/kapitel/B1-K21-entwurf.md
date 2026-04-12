@@ -1,7 +1,7 @@
 # B1-K21 — Alphina — Entwurf
 
 **POV:** Alphina (3. Person nah, Präteritum)
-**Timeline:** 23. Blütenmond 551 TZ · Ein Tag nach K20, zwei Tage nach K19 (dem Kampf im Garten)
+**Timeline:** 24. Blütenmond 551 TZ · Ein Tag nach K20, zwei Tage nach K19 (dem Kampf im Garten)
 **Wortziel Ausarbeitung:** 4.000–4.500 W
 **Gänsehaut-Moment:** Das Nacktbild ist keine Fotografie — es ist eine Projektion aus seinem Inneren. Sie existiert auf Platten, bei denen sie nie war. Das Silber hat sich nach seinem Bild von ihr geformt. Physisch unmöglich. Gleichzeitig das Zärtlichste und das Erschreckendste, was je mit ihr gemacht wurde.
 
@@ -109,7 +109,7 @@ Alphina geht. Die Farne bleiben.
 - K09: Schemen folgen Alphina persönlich — der Schem im Keller bestätigt: jemand weiß wo sie sind
 
 **Cross-POV-Ankerpunkte:**
-- K22 (Maren-POV): Pflanze im Treppenhaus — der Riss sickert parallel. Beide Szenen spielen am selben Tag.
+- K22 (Maren-POV): Pflanze im Treppenhaus — der Riss sickert parallel weiter, Tag nach K21.
 - K23 (Sorel-POV): Er findet morgen Varen auf den Kampfplatten, in diesem Keller, am nächsten Morgen.
 
 ---

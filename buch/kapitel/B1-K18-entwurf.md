@@ -14,7 +14,7 @@
 
 Abend, Vespers Reparaturtisch im Anker. Petroleumlampe, Samtrolle, Werkzeug auf dem Holz. Er arbeitet an einem Taschenchronometer, der Besitzer kommt morgen. Ruhige Arbeit, ein Abend wie andere.
 
-Sorel klopft. Vesper hat den Namen von Alphina gehört — der Fotograf aus Nachtholm, der Mann aus dem Garten-Vorfall. Er hat erwartet, dass jemand irgendwann klopft; er hat nicht erwartet, wann.
+Sorel klopft. Vesper hat den Namen von Alphina gehört — der Fotograf, der Mann aus dem Garten-Vorfall. Er hat erwartet, dass jemand irgendwann klopft; er hat nicht erwartet, wann.
 
 Sorel kommt rein. Er ist ruhig, aber die Hände sind es nicht — er hält sie bewusst still, die Art Kontrolle die verrät, was unter ihr ist. Vesper sieht es sofort. Er räumt Platz auf dem Tisch frei. Macht keine Geste des Willkommens. Wartet.
 
@@ -103,7 +103,7 @@ Die Standuhr tickt. Gleichmäßig. Die Uhr weiß, was sie ist.
 - Schemen: weiß von den Sichtungen über Runas Flugblatt, hat keine direkte Erfahrung
 
 **Was weiß Vesper am Ende von K18?**
-- Sorel: Name, Fotograf aus Nachtholm, Platten-Anomalie, überlebter Schemen-Angriff, Verbindung zu Alphina
+- Sorel: Name, Fotograf, Platten-Anomalie, überlebter Schemen-Angriff, Verbindung zu Alphina
 - Vier Resonanzen: Mechanik (er), Pflanzen (Alphina), Wasser (Maren), Licht/Platten (Sorel)
 - Das Treffen ist beschlossen. Er führt es herbei.
 - Der Turm war einen Atemzug warm. Er hat es registriert, nicht kommentiert.

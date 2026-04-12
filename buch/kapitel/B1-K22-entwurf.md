@@ -1,7 +1,7 @@
 # B1-K22 — Maren — Entwurf
 
 **POV:** Maren (3. Person nah, Präteritum)
-**Timeline:** 24. Blütenmond 551 TZ · Tag nach K21, zwei Tage nach K19 (dem Kampf)
+**Timeline:** 25. Blütenmond 551 TZ · Tag nach K21, drei Tage nach K19 (dem Kampf)
 **Wortziel Ausarbeitung:** 2.500–3.000 W (kurzes Kapitel, kein Wendepunkt — Nachglut und Eskalations-Saat)
 **Gänsehaut-Moment:** Alphina — die Botanikerin, die seit dreißig Jahren jede Pflanze der Grauküste kennt — schüttelt den Kopf. Kein Name. Kein Vergleich. Kein "sieht aus wie". Einfach: nichts.
 
