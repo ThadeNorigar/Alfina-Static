@@ -603,9 +603,10 @@
             const container = document.getElementById('chapter');
             container.innerHTML = useEntwurf ? renderEntwurf(lines) : renderProsa(lines);
             if (isWip) {
+              const commentModus = useEntwurf ? 'entwurf' : (ch.status === 'lektorat' ? 'lektorat' : 'final');
               container.dispatchEvent(new CustomEvent('chapter-rendered', {
                 bubbles: true,
-                detail: { container }
+                detail: { container, commentModus }
               }));
             }
           });
@@ -693,7 +694,7 @@
         if (activePopup) { activePopup.remove(); activePopup = null; }
       }
 
-      function renderPopup(p, idx) {
+      function renderPopup(p, idx, modus) {
         closeActivePopup();
         const popup = document.createElement('div');
         popup.className = 'comment-popup';
@@ -734,19 +735,18 @@
           submitBtn.disabled = true;
           submitBtn.textContent = '…';
           const absatzText = p.textContent.slice(0, 120);
-          const modus = showEntwurf ? 'entwurf' : 'final';
           try {
             const r = await fetch(COMMENT_API, {
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
-              body: JSON.stringify({ kapitel_id: kapId, modus, absatz_idx: idx, absatz_text: absatzText, text }),
+              body: JSON.stringify({ kapitel_id: kapId, modus: modus, absatz_idx: idx, absatz_text: absatzText, text }),
             });
             if (!r.ok) throw new Error('Fehler ' + r.status);
             if (!commentsByIdx[idx]) commentsByIdx[idx] = [];
             commentsByIdx[idx].push({ text, created_at: new Date().toISOString() });
             p.classList.add('has-comments');
             closeActivePopup();
-            renderPopup(p, idx);
+            renderPopup(p, idx, modus);
           } catch (e) {
             submitBtn.disabled = false;
             submitBtn.textContent = 'Fehler — nochmal';
@@ -759,8 +759,7 @@
         textarea.focus();
       }
 
-      function initComments(container) {
-        const modus = showEntwurf ? 'entwurf' : 'final';
+      function initComments(container, modus) {
         fetch(COMMENT_API + '?kapitel=' + kapId + '&modus=' + modus)
           .then(r => r.json())
           .then(comments => {
@@ -780,7 +779,7 @@
                 if (activePopup && parseInt(activePopup.dataset.idx) === idx) {
                   closeActivePopup();
                 } else {
-                  renderPopup(p, idx);
+                  renderPopup(p, idx, modus);
                 }
               };
               p.appendChild(btn);
@@ -800,7 +799,7 @@
       }
 
       document.addEventListener('chapter-rendered', (e) => {
-        initComments(e.detail.container);
+        initComments(e.detail.container, e.detail.commentModus);
       });
     }
   </script>
