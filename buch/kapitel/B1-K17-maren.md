@@ -8,7 +8,7 @@ Sie hob den Kopf nicht sofort. Der Hobel lag schief, die letzte Welle in der Lä
 
 Er stand in der offenen Schiebetür, eine Hand am Rahmen, in der anderen ein Tuch aus ungebleichter Leinwand, eng um etwas Rechteckiges gewickelt. Das Licht hinter ihm war der Spätfrühling, hell und rau, die Luft trug Salz und den Tang der rückläufigen Tide. Die Sonne saß seinen Schultern auf und ließ sein Gesicht halb im Schatten.
 
-"Guten Morgen." Seine Stimme kam mit demselben Takt, den sie aus dem *Anker* kannte. Sätze die fertig waren, bevor er sie sprach. "Ich wollte die Uhr selbst bringen."
+"Guten Morgen." Seine Stimme kam mit demselben Takt, den sie aus dem *Anker* kannte. Sätze, die nicht nachgebessert wurden. "Ich wollte die Uhr selbst bringen."
 
 Sie nickte. Legte den Hobel ab, sauber, Klinge nach oben, auf dem Platz auf der Werkbank, an dem er jeden Morgen lag. Wischte die Hände an der Schürze ab — die Hornspäne klebten an der Innenfläche, das war jetzt egal, aber es war die Bewegung, die Zeit verschaffte.
 
@@ -22,7 +22,7 @@ Er kam rein. Sechs Schritte, die ihn mitten in den Schuppen trugen, dort wo das 
 
 "Sauber." Er sagte es wie eine Messung. Keine Schmeichelei, kein Lob, eine Feststellung. Dann ging er weiter zur Werkbank, wickelte das Tuch auf und legte die Schiffsuhr darauf.
 
-Das Messing war poliert, die Tiefe zwischen den Gravuren war sauber gezogen, der Glasdeckel neu, kein Riss. Er hatte den kleinen Zeiger auf die Zwölf gestellt, und das Werk lief — sie hörte es erst, als er die Hände wegnahm und der Raum um die Uhr herum still wurde. Das Ticken war leise, gleichmäßig, ein kleiner, warmer Schlag der direkt neben dem Sägemehl saß und sich nicht davon stören ließ.
+Das Messing war poliert, die Tiefe zwischen den Gravuren war sauber gezogen, der Glasdeckel neu, kein Riss. Er hatte den kleinen Zeiger auf die Zwölf gestellt, und das Werk lief — sie hörte es erst, als er die Hände wegnahm und der Raum um die Uhr herum still wurde. Das Ticken war leise, gleichmäßig, ein kleiner, warmer Schlag neben dem Sägemehl.
 
 "Das Unruhrad habe ich ersetzt." Er sprach ohne Lupe, ohne Werkzeug, die Hände flach auf dem Tuch, links und rechts der Uhr. "Der Spannungsriss war tiefer als auf den ersten Blick. Die Spirale habe ich gerichtet und neu eingespannt. Der Zapfen unten war korrodiert, das habe ich getauscht."
 
@@ -50,7 +50,7 @@ Wieder in der Halle war die Luft größer. Die Schiebetür stand offen, die Sonn
 
 Sie ging zur kleinen Dose auf dem Regalbrett über der Werkbank, zählte das Geld ab, legte es auf das Tuch neben die eine Ecke, die er zurückgeklappt hatte. Vier Silbermünzen, zwei kleine Kupferstücke. Er nahm sie, prüfte die Prägungen mit einem Blick, steckte sie in die Brusttasche. Sah dann auf den Boden. Auf die Tür. Auf das Boot. Auf sie.
 
-Er hatte den Grund, warum er noch da war, nicht benannt. Sie hatte den Grund, warum sie nicht gefragt hatte, auch nicht benannt. Die Stille zwischen ihnen war weder leer noch schwer; sie lag zwischen Werkbank und Schuppenwand und verlangte nichts.
+Er hatte den Grund, warum er noch da war, nicht benannt. Sie hatte den Grund, warum sie nicht gefragt hatte, auch nicht benannt. Die Stille verlangte nichts.
 
 Sie ging zum Wasserkessel auf der kleinen Esse in der Ecke, wo Edric morgens den Kaffee machte. Der Kessel war kalt. Sie goss den Inhalt nicht weg. Sie legte ein Stück Holzkohle in die Esse, blies einmal in die Glut, die von gestern noch warm war, und der Tag fand weiter.
 
@@ -62,7 +62,7 @@ Sie wischte sich noch einmal die Hände. Drehte sich zu ihm. Er stand, wie er im
 
 "Was haben Sie mit der Standuhr in Tidemoor gemacht?"
 
-Seine Hand auf dem Werkbankholz wurde still. Sie hatte nicht gewusst, dass eine Hand stiller werden konnte, als sie schon war; seine war es. Die Luft, die er einzog, war einen halben Atemzug länger als nötig. Die Schultern, die ihn bis hierher getragen hatten, senkten sich um eine Nuance — das Lösen einer Spannung, die er seit Wochen gehalten hatte, ohne dass jemand es gewusst hätte.
+Seine Hand auf dem Werkbankholz wurde still. Sie hatte nicht gewusst, dass eine Hand stiller werden konnte, als sie schon war; seine war es. Die Luft, die er einzog, war einen halben Atemzug länger als nötig. Die Schultern, die ihn bis hierher getragen hatten, senkten sich um eine Nuance.
 
 Er sah auf das Boot. Die offene Seite, die Spanten, die gestern eingebaute Planke. Dann auf sie.
 
@@ -86,9 +86,9 @@ Er sah kurz auf das Werkzeug auf der Bank, als prüfe er, ob etwas dazwischenlag
 
 "Der Besitzer des Tidemoor-Hauses hat mich geholt, weil die Uhr im Saal täglich vorging. Vier Minuten dreiunddreißig. Ich habe den Abstand gemessen, ohne sie zu berühren. Dann habe ich sie berührt. Die Drift war weg, solange meine Hand auf dem Gehäuse lag. Ich habe das sieben Tage wiederholt. Dieselbe Zahl, immer." Die Stimme hatte keinen Bruch. "Ich habe dem Besitzer gesagt, dass es am Raum liegt, nicht an der Uhr. Er hat mir geglaubt. Es liegt nicht am Raum."
 
-Sie hörte, wie er die Sache aus sich herauslegte, Satz für Satz, wie man ein Werkzeug aus einer Schublade nahm, von dem man nicht sicher war, ob es sich in ein anderes Licht trauen würde. Die Werkbank zwischen ihnen trug alles, was er hinlegte. Sie stand dazu und urteilte nicht.
+Sie hörte, wie er die Sache aus sich herauslegte, Satz für Satz, wie man ein Werkzeug aus einer Schublade nahm. Die Werkbank zwischen ihnen trug, was er hinlegte.
 
-Sie nickte einmal. Fragte nicht weiter. Sagte ihm nicht, dass sie verstand, weil Sagen die Sache kleiner gemacht hätte. Sie hatte in dreißig Jahren am Wasser gelernt, wann ein Mensch auf einem Satz balancierte wie auf einer frischgelegten Planke — still bleiben, ihn gehen lassen, nicht stoßen.
+Sie nickte einmal. Fragte nicht weiter. Sagte ihm nicht, dass sie verstand, weil Sagen die Sache kleiner gemacht hätte.
 
 Er sah sie an. Einen Moment, in dem er die Entscheidung traf, etwas zu sagen, das er seit Wochen nicht gesagt hatte. "Ich habe es Alphina erzählt." Der Name kam gerade, ohne Erläuterung. "Sonst niemandem."
 
@@ -113,8 +113,6 @@ Sie spürte das Ziehen in den Handflächen. Etwas wollte von ihr in die Tasse, u
 Sie hob den Blick.
 
 Er starrte. Nicht kurz. Nicht höflich. Sein ganzer Körper war stehengeblieben, der Becher zwischen seinen Händen, die Fingerkuppen am Steingut, der Daumen ruhte oben an der Kante, und nichts an ihm bewegte sich. Seine Augen lagen auf dem Strudel, dann auf ihrer Hand, dann auf ihrem Gesicht. Die Konzentration, die sie aus dem *Anker* kannte, die Lupe-am-Auge, das vollständige Sehen eines Mannes, der ein Uhrwerk aufmachte und zuhörte, lag jetzt auf ihr.
-
-Sie hatte gewusst, dass er es sehen würde. Sie hatte nicht gewusst, dass er so sehen würde.
 
 Das Bild kam. Nicht als Gedanke — sie formulierte es nicht, sie bat es nicht herzu —, sondern als Strömung, die durch sie lief, in derselben Richtung wie die Wärme, und die Richtung hatte eine Hand, und die Hand gehörte ihm. Seine Fingerkuppen, die sich eben am Schraubenkopf geprüft hatten, jetzt an ihrem Handgelenk, innen, dort wo der Puls lief. Nicht fest. Nur gesetzt. Ein Gewicht, das wartete. Seine Stimme, die ihr etwas sagte — kein Wort, das sie hörte, nur die Art, wie die Luft vor seinem Mund die Richtung wechselte. Seine Aufmerksamkeit, die sie hielt, ohne sie zu drücken. Das Stillwerden ihrer eigenen Schultern, die auf etwas gewartet hatten, von dem sie nicht gewusst hatte, dass es kommen würde.
 
@@ -150,9 +148,9 @@ Sie hörte den Namen zum zweiten Mal. Diesmal kam er nicht umhüllt. Er kam auf 
 
 "Sie wohnt im *Anker*. Botanikerin aus Velde. Sie arbeitet im Botanischen Garten oben auf der Klippe." Er machte eine Pause, kurz, um den nächsten Satz gerade zu setzen. "Ich kenne jemanden, der etwas mit Pflanzen macht. Ähnlich. Ich denke, Sie beide sollten miteinander reden."
 
-Sie nickte. Nicht weil sie die Sache verstand; sie nickte, weil sein Satz eine Frage beantwortet hatte, die sie bis zu diesem Morgen nicht gestellt hatte.
+Sie nickte.
 
-Er stellte den Becher ab. Stand auf. Es war nicht abrupt, aber es war endgültig. Er trank nicht. Er hatte nichts getrunken, die ganze Zeit. Sie sah es jetzt — der Tee war fast voll, ein schwarzer Kreis unter dem Dampf, das Blatt am Grund. Er hatte nicht gewusst, dass er nicht trinken würde, als er die Tasse nahm. Er wusste es jetzt.
+Er stellte den Becher ab. Stand auf. Es war nicht abrupt, aber es war endgültig. Er trank nicht. Er hatte nichts getrunken, die ganze Zeit. Sie sah es jetzt — der Tee war fast voll, ein schwarzer Kreis unter dem Dampf, das Blatt am Grund.
 
 "Ich schicke Alphina vorbei. Oder ich bringe Sie hin."
 
@@ -180,13 +178,13 @@ Sie setzte sich auf die letzte Planke, die Füße über der Kante. Die Stiefel h
 
 Sie bemerkte es. Sagte nichts. Legte die Hände auf die Oberschenkel und atmete.
 
-Das halbfertige Boot lag zwanzig Schritt hinter ihr in dem offenen Schuppen, die drei Viertel fertige Seite zum Tor, die offene Seite dem Wasser abgekehrt. Es würde fertig. Mit wessen Händen, wusste sie nicht. Sie hatte in dreißig Jahren zwei Boote zu Ende gebracht und bei drei anderen die letzten zwei Wochen abgegeben, weil Zeit knapp geworden war; sie wusste, dass ein Boot nicht fragte, wer es fertigstellte. Das Holz war geduldig.
+Das halbfertige Boot lag zwanzig Schritt hinter ihr in dem offenen Schuppen, die drei Viertel fertige Seite zum Tor, die offene Seite dem Wasser abgekehrt. Es würde fertig. Mit wessen Händen, wusste sie nicht. Sie hatte in dreißig Jahren zwei Boote zu Ende gebracht und bei drei anderen die letzten zwei Wochen abgegeben, weil Zeit knapp geworden war; Das Holz war geduldig.
 
 Ihr Körper war es nicht.
 
 Sie spürte unter den Rippen den Ort, an dem vor drei Tagen im *Anker* der erste Schlag gesessen hatte, und sie spürte, dass dieser Ort sich nicht zurückgezogen hatte. Er war nicht kleiner geworden durch den Abstand. Er war breiter geworden durch den zweiten Morgen. Ihre Handgelenke waren warm, die Innenseiten, dort wo drei Tage lang ab und zu ein Nachklang gelegen hatte, jetzt in einer Wärme, die nicht ging.
 
-Sie hatte in der sechsten Woche gewusst, dass sie nicht gehen würde. Das war nicht neu. Was neu war: das Bleiben hatte heute einen Grund, der sprechen konnte. Einen Grund, der bis heute morgen ihr Boot nicht betreten hatte, und der jetzt eine Schraube in ihre Kajüte gedreht hatte, vier Schrauben, in der richtigen Reihenfolge, und der eine Tasse in den Händen gehalten hatte, ohne daraus zu trinken.
+Sie hatte in der sechsten Woche gewusst, dass sie nicht gehen würde. Der Grund, der bis heute morgen ihr Boot nicht betreten hatte, hatte jetzt eine Schraube in ihre Kajüte gedreht, vier Schrauben, in der richtigen Reihenfolge, und eine Tasse in den Händen gehalten, ohne daraus zu trinken.
 
 Die Flut kam. Das Wasser stieg um eine Daumenbreite an den Stegpfählen. Unter ihrer Sohle war die Mulde weg.
 
