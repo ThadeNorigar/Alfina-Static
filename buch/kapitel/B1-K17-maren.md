@@ -14,7 +14,7 @@ Sie nickte. Legte den Hobel ab, sauber, Klinge nach oben, auf dem Platz auf der 
 
 "Kommen Sie rein."
 
-Er kam rein. Sechs Schritte, die ihn mitten in den Schuppen trugen, dort wo das Boot auf den Böcken lag, drei Viertel fertig, die offene Seite dem Tor zugekehrt. Er sah das Boot an, kurz, ohne zu bewerten. Sein Blick ging über die Spanten, die Reihenfolge der Planken, die kleinen Schnittmarken an den Innenseiten, die sie gesetzt hatte. Er zählte etwas. Sie sah es an der Art, wie seine Augen kurz stehenblieben, dann weitergingen.
+Er kam rein. Sechs Schritte, die ihn mitten in den Schuppen trugen, dort wo das Boot auf den Böcken lag, drei Viertel fertig, die offene Seite dem Tor zugekehrt. Er sah das Boot an, kurz, ohne zu bewerten. Sein Blick ging über die Spanten, die Reihenfolge der Planken, die kleinen Schnittmarken an den Innenseiten, die sie gesetzt hatte. Seine Augen hielten an zwei Stellen, gingen weiter.
 
 "Haben Sie den Kiel selbst gelegt?"
 
@@ -70,9 +70,7 @@ Er sah auf das Boot. Die offene Seite, die Spanten, die gestern eingebaute Plank
 
 Sie hörte zu.
 
-"Ich habe das Werk dreimal auseinandergenommen. Es ist einwandfrei. Die Hemmung greift, die Unruh schlägt, die Feder ist sauber. Die Toleranzen stimmen. Der Fehler ist nicht im Mechanismus." Er machte eine Pause, kurz, nicht aus Unsicherheit, aus Präzision. "Der Fehler ist nicht im Mechanismus."
-
-Er hatte den Satz zweimal gesagt. Sie registrierte das wie eine Wellenrichtung.
+"Ich habe das Werk dreimal auseinandergenommen. Es ist einwandfrei. Die Hemmung greift, die Unruh schlägt, die Feder ist sauber. Die Toleranzen stimmen. Der Fehler ist nicht im Mechanismus." Er machte eine Pause, kurz, nicht aus Unsicherheit, aus Präzision. "Der Fehler ist nicht hier."
 
 "Seit wann?"
 
@@ -108,15 +106,15 @@ Sie legte die Finger an den Becher. Nicht um ihn, nur daran. Linke Hand, drei Fi
 
 Das Wasser in ihrem Becher klärte sich nach oben. Der Dampf kam wieder. Nicht schlagartig — wie eine Stelle im Fluss, die sich entschied, den Strom umzukehren. Und dann kam im Tee die Bewegung: ein kleiner Sog, gegen den Uhrzeigersinn, das Teeblatt, das sich auf den Grund gesenkt hatte, hob sich einen halben Finger und drehte sich, langsam, als hätte eine Hand unter dem Becher gerührt, die keinen Löffel brauchte.
 
-Sie spürte das Ziehen in den Handflächen. Etwas wollte von ihr in die Tasse, und sie ließ es. Eine Wärme, die nicht aus ihren Handflächen kam, weil die Handflächen nicht zu warm waren — eine Wärme, die durch sie hindurchging, in eine Richtung, die sie nicht vorgegeben hatte. Kein Ziehen in den Schläfen. Keine Schwere in den Beinen. Kein Preis.
+Sie spürte das Ziehen in den Handflächen. Etwas wollte von ihr in die Tasse, und sie ließ es. Eine Wärme, die nicht aus ihren Handflächen kam, weil die Handflächen nicht zu warm waren — eine Wärme, die durch sie hindurchging, in eine Richtung, die sie nicht vorgegeben hatte. Ihre Schultern blieben, wo sie waren.
 
 Sie hob den Blick.
 
-Er starrte. Nicht kurz. Nicht höflich. Sein ganzer Körper war stehengeblieben, der Becher zwischen seinen Händen, die Fingerkuppen am Steingut, der Daumen ruhte oben an der Kante, und nichts an ihm bewegte sich. Seine Augen lagen auf dem Strudel, dann auf ihrer Hand, dann auf ihrem Gesicht. Die Konzentration, die sie aus dem *Anker* kannte, die Lupe-am-Auge, das vollständige Sehen eines Mannes, der ein Uhrwerk aufmachte und zuhörte, lag jetzt auf ihr.
+Er starrte. Nicht kurz. Nicht höflich. Sein ganzer Körper war stehengeblieben, der Becher zwischen seinen Händen, die Fingerkuppen am Steingut, der Daumen ruhte oben an der Kante, und nichts an ihm bewegte sich. Seine Augen lagen auf dem Strudel, dann auf ihrer Hand, dann auf ihrem Gesicht. Die Konzentration, die sie aus dem *Anker* kannte, die Lupe-am-Auge, die Stille in seinen Handgelenken, lag jetzt auf ihr.
 
 Das Bild kam. Nicht als Gedanke — sie formulierte es nicht, sie bat es nicht herzu —, sondern als Strömung, die durch sie lief, in derselben Richtung wie die Wärme, und die Richtung hatte eine Hand, und die Hand gehörte ihm. Seine Fingerkuppen, die sich eben am Schraubenkopf geprüft hatten, jetzt an ihrem Handgelenk, innen, dort wo der Puls lief. Nicht fest. Nur gesetzt. Ein Gewicht, das wartete. Seine Stimme, die ihr etwas sagte — kein Wort, das sie hörte, nur die Art, wie die Luft vor seinem Mund die Richtung wechselte. Seine Aufmerksamkeit, die sie hielt, ohne sie zu drücken. Das Stillwerden ihrer eigenen Schultern, die auf etwas gewartet hatten, von dem sie nicht gewusst hatte, dass es kommen würde.
 
-Sie schob das Bild nicht weg. Sie hatte das in dreißig Jahren bei zwei Männern versucht und einmal geschafft. Heute versuchte sie es nicht.
+Sie griff nach dem Schieben, wie sie es seit dreißig Jahren bei zwei Männern getan und einmal gehalten hatte. Der Griff fand sich nicht. Das Bild blieb.
 
 Das Bild wurde schärfer, weil sie es nicht schob. Seine Fingerkuppen drückten sich nicht — sie lagen. Sein Daumen an ihrem Puls wartete, bis der Puls sich ihm anpasste, nicht umgekehrt. Er würde nichts sagen, was er hätte begründen müssen. Er würde warten, bis sie den Satz zu Ende geatmet hatte, bevor der nächste kam. Der Schuppen um sie beide war weit weg, die Esse mit der Glut war weit weg, das Ticken aus der Kajüte war weit weg. Nur der Becher in ihrer Hand stand noch in der Nähe, und durch das Steingut zog die Wärme in beide Richtungen.
 
