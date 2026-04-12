@@ -576,9 +576,9 @@
           {
             "tz": 154,
             "mz": 3634,
-            "titel": "Kaspars Bild zeigt Hohlraeume und Gestalt mit schwarzen Augen",
+            "titel": "Kespers Bild zeigt Hohlraeume und Gestalt mit schwarzen Augen",
             "detail": "Er kratzt die Stelle ab. Am Morgen ist sie wieder da, dunkler.",
-            "pov": "Kaspar",
+            "pov": "Kesper",
             "typen": [
               "tschechow"
             ],
@@ -589,7 +589,7 @@
           {
             "tz": 154,
             "mz": 3634,
-            "titel": "Elke und Kaspar: Nacht vor dem Kampf",
+            "titel": "Elke und Kesper: Nacht vor dem Kampf",
             "detail": "Nicht Liebe — weil morgen der Tod kommen könnte. Schemen beobachten vor den Fenstern.",
             "pov": "Elke",
             "typen": [
@@ -602,8 +602,8 @@
           {
             "tz": 154,
             "mz": 3634,
-            "titel": "Das Große Feuer — Kaspar und Keldan sterben, Elke geht durch",
-            "detail": "Varen schickt 3 Feuer-Schemen. Kaspar + Keldan fallen. Elke → Moragh. Lene überlebt allein, schreibt das Manuskript.",
+            "titel": "Das Große Feuer — Kesper und Keldan sterben, Elke geht durch",
+            "detail": "Varen schickt 3 Feuer-Schemen. Kesper + Keldan fallen. Elke → Moragh. Lene überlebt allein, schreibt das Manuskript.",
             "pov": "I3 · Elke",
             "typen": [
               "portal",
@@ -612,7 +612,7 @@
             ],
             "tags": [
               "Portal: Elke → Moragh",
-              "Tod: Kaspar, Keldan",
+              "Tod: Kesper, Keldan",
               "Schlüsselereignis"
             ],
             "kapitel": "I3",

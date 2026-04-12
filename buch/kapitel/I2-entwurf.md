@@ -50,5 +50,5 @@
 |--------|------|-----------|
 | Farnmuster im Eisen | Barren formt Spirale | I5/I7 — Keldans Hammer im Kampf, das Metall erinnert sich |
 | Resonanzen verstärken sich gegenseitig | Elkes Hand + Keldans Eisen = sofortige Reaktion | Portal-Ritual — vier Resonanzen gleichzeitig |
-| "Es gibt noch zwei" | Elke weiß von Aldert | I3 (Lene), I4 (Kaspar) — die Vier finden zusammen |
+| "Es gibt noch zwei" | Elke weiß von Aldert | I3 (Lene), I4 (Kesper) — die Vier finden zusammen |
 | Hitze von unten | Die Esse brennt heißer als sie sollte | Riss-Quelle — Purpurstein unter der Stadt |
