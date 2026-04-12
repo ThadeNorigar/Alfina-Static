@@ -54,13 +54,11 @@ Sorel erzählte drei der Bilder. Das Lichthaus bei Dämmerung. Alphina im Garten
 
 Die Lücke war sauber. Vesper sah sie so deutlich, als hätte Sorel sie mit dem Finger umrandet. Er fragte nicht nach. Er legte die Auslassung neben die anderen Teile auf den Tisch und ließ sie dort liegen.
 
-"Das ist, was ich habe", sagte Sorel am Ende. "Ich weiß nicht, warum ich damit zu Ihnen komme. Alphina hat Ihren Namen gesagt. Sie sagte, wenn jemand in dieser Stadt wüsste, wie man einen Systemfehler liest, dann Sie."
+"Das ist, was ich habe", sagte Sorel am Ende. "Alphina hat Ihren Namen gesagt. Sie sagte, wenn jemand in dieser Stadt wüsste, wie man einen Systemfehler liest, dann Sie."
 
 Vesper legte die Fingerspitzen aufeinander. Die Pinzette rollte ein halbes Zehntel nach rechts und blieb wieder liegen. Er ließ Sorels letzten Satz drei Atemzüge zwischen ihnen stehen.
 
 ---
-
-"Ich werde Ihnen meine Teile zeigen. Dann haben wir beide mehr als vorher."
 
 Er zog das Notizbuch aus der Innentasche des Mantels, der über der Stuhllehne hing. Er schlug die hintere Einlage auf, löste die Karte aus der Falz, faltete sie auf dem Reparaturtisch auseinander. Die Velinkopie, die er vor zwei Wochen neben Runas Adressen gezeichnet hatte. Sechzehn Uhren. Ein siebzehnter Kreuzpunkt am unteren Kartenrand. Vier Bögen in vier Stärken um einen Mittelpunkt in der Oberstadt.
 
@@ -88,11 +86,11 @@ Sorel schwieg jetzt zwei ganze Atemzüge. Dann tippte er selbst auf die Karte, n
 
 "Es gibt einen dritten Teil", sagte Vesper. "Er passt nicht in die Ringe. Er passt daneben. Ich habe gestern mittag auf der Werft eine Frau gesehen. Sie heißt Maren Dahl. Sie baut Boote. Sie hat mir, ohne dass ich sie darum gebeten hätte, gezeigt, wie sie einen Strudel in eine Tasse Tee bringt, ohne sie anzufassen. Das Wasser in der Tasse war vorher kalt gewesen. Als sie aufhörte, dampfte es."
 
-Er ließ den Satz einen Atemzug stehen. Sorel sagte nichts.
+Seine Finger auf dem Kartenrand waren flach geworden, ohne dass er sie flachgelegt hätte. Er nahm den Druck nicht zurück. Er ließ ihn dort, wo er war.
 
 "Sie hat es mir gezeigt. Einfach so. Als wüsste sie, dass ich es nicht weitertragen würde. Oder als wäre es gleichgültig, wer es wüsste."
 
-Vesper hob den Blick von der Karte auf Sorels Gesicht. Sorel war einen halben Grad weißer um den Mund herum als vor fünf Minuten.
+Vesper hob den Blick von der Karte auf Sorels Gesicht. Die Haut um Sorels Mund stand weiß.
 
 "Maren Dahl."
 
@@ -138,8 +136,6 @@ Sorel nickte langsam. Vesper sah, wie er den Kopf drei Sekunden zu lange nach un
 
 "Mechanik", sagte Vesper und sah wieder auf die Karte. "Pflanzen. Licht. Wasser."
 
-Er benannte es zum ersten Mal. Er hatte es seit zwei Tagen im Kopf gehabt, seit er die Tasse in Marens Schürze hatte dampfen sehen, und bis zu diesem Abend nicht ausgesprochen.
-
 Er zog den schwarzen Turm aus der linken Außentasche des Mantels. Legte ihn neben die Karte, auf den Velinrand. Er drehte ihn nicht. Er hatte den Impuls, ihn zu drehen, und er ließ ihn. Sorel sah den Turm, kannte das Holz nicht, kannte die Form. Er sagte nichts dazu.
 
 "Vier Resonanzen an einem Ort, an dem die Stadt schon reagiert. Ein Steinkreis, unter dem die Drift am stärksten ist. Vier Menschen, die sich noch nicht vollständig kennengelernt haben. Wir sind seit sechs Wochen in dieser Stadt, Sie etwas länger, Maren war immer hier. Alphina genauso lange wie ich."
@@ -164,7 +160,7 @@ Unter seiner Handfläche wurde der Turm warm. Eine halbe Sekunde, vielleicht wen
 
 Er nahm die Hand nicht weg. Er ließ sie drei Atemzüge auf dem Turm liegen. Der Turm blieb kalt.
 
-Er hob die Hand. Legte sie neben die Karte. Der Turm war wieder wie seit fünfzehn Wochen. Ein Stück Holz, das seine Körperwärme nicht angenommen hatte.
+Er hob die Hand. Legte sie neben die Karte. Der Turm war wieder wie seit fünfzehn Wochen.
 
 Vesper atmete einmal durch die Nase. Nicht tief. Nicht hörbar. Er hatte keinen Satz dafür, also suchte er keinen. Er registrierte den Wert und legte ihn zu den anderen messbaren Werten des Abends. Ein halber Grad Wärme, ein halber Atemzug lang, unmittelbar nach dem vierten Wort.
 
