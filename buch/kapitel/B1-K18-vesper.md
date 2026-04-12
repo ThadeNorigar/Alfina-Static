@@ -42,13 +42,13 @@ Sorel sprach weiter. Er kam auf Alphina. Er sagte ihren Namen nicht sofort — e
 
 Sorel ließ diesen Satz sich ausbuchten; der Rest kam in derselben flachen Tonspur wie zuvor.
 
-Vesper registrierte, dass Sorel Fotograf war. Er hatte es an der Sprache gehört, bevor er es wusste. *Vorziehen. Auszug. Schicht.* Der Wortschatz eines Mannes, der mit Entwicklerlösung arbeitete und im Kopf in Schritten rechnete — Bad eins, Bad zwei, Fixierung, Spülung.
+Vesper registrierte, dass Sorel Fotograf war. *Vorziehen. Auszug. Schicht.* Der Wortschatz eines Mannes, der mit Entwicklerlösung arbeitete und im Kopf in Schritten rechnete — Bad eins, Bad zwei, Fixierung, Spülung.
 
 Dann kamen die Platten. Sorel sprach jetzt langsamer, weil er die Reihenfolge im Kopf neu ordnete, während er sprach. Er hatte ein Bild von ihr gemacht, im Garten, eine Frau am Farn, sauber belichtet. Er hatte die Platte entwickelt und dabei ein zweites Bild gefunden, das er nicht fotografiert hatte. Dasselbe Negativ, dieselbe Emulsion, zwei Bilder übereinander. Er hatte gedacht: vorbelichtete Charge. Er hatte eine ungeöffnete Platte aus demselben Karton getestet — sie war leer geblieben. Die Charge war sauber.
 
 "Die Platten reagieren. Nicht auf den Ort. Nicht auf die Kamera. Auf mich. Die Kamera war zweimal gar nicht dabei, und die Bilder sind trotzdem erschienen."
 
-Er sagte *erschienen*, nicht *entstanden*. Vesper registrierte auch das.
+Er sagte *erschienen*, nicht *entstanden*. Vesper registrierte es.
 
 Sorel erzählte drei der Bilder. Das Lichthaus bei Dämmerung. Alphina im Garten am Farn. Ein drittes, das er nur andeutete — ein Innenraum, sagte er. Die Skizze verschwimmt. Er brach ab und kam nicht darauf zurück.
 
@@ -118,8 +118,6 @@ Vesper nickte einmal. Er wartete.
 
 "Und die Platten. Sie erscheint auf Platten, auf denen sie nicht hätte sein dürfen. Sie war nicht im Rahmen. Ich habe die Kamera gerichtet auf —" Er hielt einen Moment und fand eine andere Formulierung. "Auf etwas anderes. Sie steht auf dem Bild trotzdem. Einmal lehnend, einmal mit dem Gesicht zur Seite. Einmal —" Wieder Bruch. Er kam nicht darauf zurück.
 
-Die Lücke war dieselbe wie vorhin. Vesper ließ sie an derselben Stelle liegen.
-
 "Sie erscheint, weil Sie fotografieren", sagte Vesper nach einem Atemzug. "Nicht, weil Ihre Kamera fotografiert. Das sagten Sie vorhin. Das ist der Punkt."
 
 "Ja."
@@ -162,13 +160,13 @@ Er nahm die Hand nicht weg. Er ließ sie drei Atemzüge auf dem Turm liegen. Der
 
 Er hob die Hand. Legte sie neben die Karte. Der Turm war wieder wie seit fünfzehn Wochen.
 
-Vesper atmete einmal durch die Nase. Nicht tief. Nicht hörbar. Er hatte keinen Satz dafür, also suchte er keinen. Er registrierte den Wert und legte ihn zu den anderen messbaren Werten des Abends. Ein halber Grad Wärme, ein halber Atemzug lang, unmittelbar nach dem vierten Wort.
+Vesper atmete einmal durch die Nase. Nicht tief. Nicht hörbar. Er registrierte den Wert und legte ihn zu den anderen messbaren Werten des Abends. Ein halber Grad Wärme, ein halber Atemzug lang, unmittelbar nach dem vierten Wort.
 
 Sorel hatte es nicht gesehen. Sorel hatte die Karte angeschaut.
 
 "Wir müssen uns alle treffen."
 
-Vesper sagte es in den Raum hinein, weder zu Sorel noch zu der Lampe noch zum Turm. Es war keine Frage. Es war kein Vorschlag. Der Satz, den er die letzten zwei Wochen im Kopf hin und her geschoben hatte, bis er an seinem Platz saß.
+Vesper sagte es in den Raum hinein, weder zu Sorel noch zu der Lampe noch zum Turm. Es war keine Frage.
 
 "Der Garten wäre der Ort. Nicht das Anker. Nicht das Lichthaus. Der Garten, weil der Mittelpunkt dort ist, und weil eine der vier ohnehin dort arbeitet. Die anderen drei müssen hinkommen. Das organisiert Alphina, wenn ich sie darum bitte. In den nächsten Tagen. Drei, vielleicht vier."
 
@@ -218,21 +216,19 @@ Kein Verlust.
 
 Beim ersten Besuch hatte die Uhr unter seiner Hand die ersten drei Minuten rein getickt und vierhundertdreiundsiebzig Sekunden pro Tag verloren, sobald er die Hand wegnahm. Beim zweiten Besuch, vor zwei Wochen, hatte er ihr den sauberen Schlag aus der eigenen Brust durch die Handfläche vorgelegt — nicht als Hand, als Form. Als ein stiller Satz: *So. Genau so. Behalte diesen Schlag.* Seitdem lief sie ohne Unterbrechung rein. Kvarns Taschenuhr in seinem Zimmer hatte seit jenem Abend ebenfalls keine Drift mehr gezeigt.
 
-Er ließ die Hand liegen. Die Uhr tickte weiter. Sie kannte ihn inzwischen.
-
-Er hätte die Hand wegnehmen können. Er nahm sie nicht weg.
+Er ließ die Hand liegen. Die Uhr tickte weiter.
 
 Er stand dort eine Minute länger, als er es sich vorgenommen hatte. Dann zwei Minuten. Nicht aus Sentimentalität. Er brauchte den Kontakt mit dem System, bevor er vier Menschen in denselben Garten brachte, über dessen Kreis die stärkste Drift der Stadt lag. Die Tidemoor-Uhr war das älteste bekannte Muster, das er in Vael gefunden hatte. Wenn die Quelle unter der Stadt schon jahrzehntelang sickerte, dann tickte dieses Gehäuse seit Jahrzehnten mit dem Widerstand dagegen an. Er wollte es hören, bevor er den Rest organisierte.
 
-Die Hand unter dem Messing wurde langsam warm, wie jede Hand an jedem Messing, das man lange genug anfasste.
+Die Hand unter dem Messing wurde langsam warm.
 
 Er zählte die Schläge, weil sein Kopf die Schläge zählte. Einer pro Sekunde. Exakt. Die Hemmung griff bei jedem Schlag auf denselben Zahn.
 
 Er hatte in dreißig Jahren Schachpartien immer gewusst, wann ein Zug unumkehrbar war. Es war kein Gefühl. Es war die Stellung. Wenn man einen Turm auf eine offene Linie stellte, konnte man ihn zurückziehen. Wenn man ihn auf eine offene Linie stellte und dabei einen Bauern hergab, war die Stellung danach eine andere. Der Turm ließ sich zurückziehen. Der Bauer nicht.
 
-Er stellte gerade den Turm. Den Preis kannte er als Stellung, nicht in Einzelheiten.
+Er stellte gerade den Turm.
 
-Er nahm die Hand vom Gehäuse. Die Uhr tickte weiter. Der Schlag blieb sauber. Er hatte ihr den Takt vorgelegt, und sie hielt ihn jetzt ohne seine Hand. Der Zug vor zwei Wochen hatte gehalten. Über den nächsten sagte das nichts.
+Er nahm die Hand vom Gehäuse. Die Uhr tickte weiter. Der Schlag blieb sauber. Er hatte ihr den Takt vorgelegt, und sie hielt ihn jetzt ohne seine Hand. Der Zug vor zwei Wochen hatte gehalten.
 
 Er ging zur Haustür, schloss sie von innen zu, verließ durch die Seitentür das Grundstück. Der Dunst über der Grauwe hatte sich verdichtet. Die Laternen an der Flussseite warfen ihr Licht als schmale Trapeze auf die Pflastersteine, und er ging durch die Trapeze, eins nach dem anderen, zurück zum Anker.
 
