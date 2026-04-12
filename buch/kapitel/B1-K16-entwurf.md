@@ -12,7 +12,7 @@
 
 **Wortziel:** 1.400–1.600 W
 
-Sorel in der Dunkelkammer. Lichthaus-Keller. Hochsommer, draußen hell und warm, hier drinnen die übliche Finsternis. Er hat seit Wochen gewusst, dass mit den Platten etwas nicht stimmt — seit K13 hat er es gewusst und sich geweigert, die einzige Erklärung anzusehen, die übrig bleibt.
+Sorel in der Dunkelkammer. Lichthaus-Keller. Spätfrühling, draußen hell und warm, hier drinnen die übliche Finsternis. Er hat seit Wochen gewusst, dass mit den Platten etwas nicht stimmt — seit K13 hat er es gewusst und sich geweigert, die einzige Erklärung anzusehen, die übrig bleibt.
 
 Systematisches Debugging. Er geht methodisch vor, wie er immer vorgeht: schließt die einfachen Erklärungen aus, bevor er auf die komplizierten zusteuert. Neue Charge Nassplatten aus einer versiegelten Fabrik-Schachtel (nie geöffnet, Papier-Siegel intakt). Er belegt jede Platte ab und bringt sie in die Entwicklerschale. Entspannung: ein Bild erscheint. Dann sieht er genauer hin.
 
@@ -71,7 +71,7 @@ Er hält die Platte lange. Kalte Hände. Trockener Mund. Das leise Würgen hinte
 
 Er legt die Platte in die Schublade neben die anderen. Schließt sie nicht ab.
 
-Dann geht er raus. Hafen. Hochsommer, das Licht flach und breit über dem Wasser. Er steht am Bollwerk und schaut auf die Grauwe. Irgendwo am Steg geht jemand, von weitem. Der Gang, die Schultern — er denkt: sie. Ist es nicht. Eine Frau mit Fischkörben. Er schaut zu lang.
+Dann geht er raus. Hafen. Nachmittag im Blütenmond, das Licht weiß und breit über dem Wasser. Er steht am Bollwerk und schaut auf die Grauwe. Irgendwo am Steg geht jemand, von weitem. Der Gang, die Schultern — er denkt: sie. Ist es nicht. Eine Frau mit Fischkörben. Er schaut zu lang.
 
 Die Übelkeit bleibt. Er ist nicht der Jäger. Er ist eine Kamera, die sich auf ein Motiv ausgerichtet hat, das er selbst programmiert hat — seit Monaten, seit Nachtholm, seit dem ersten Tag in dieser Stadt. Die Frage ist keine Frage mehr: er kann es nicht abschalten. Die Resonanz gehorcht ihm nicht vollständig. Sie gehorcht dem, was er ist.
 
