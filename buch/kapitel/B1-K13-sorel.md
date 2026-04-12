@@ -3,12 +3,11 @@
 *18. Mai 551 · 7 Wochen 4 Tage in Vael*
 
 
-Drei Tage lang hatten die Kassetten im Regal gestanden, ausgerichtet nach Datum, beschriftet in seiner eigenen knappen Schrift, ungeöffnet. Er war zweimal an ihnen vorbeigegangen, ohne die Hand zu heben; einmal hatte er an der dritten von links angesetzt, die Finger auf dem Metallrand gespürt, dann zurückgenommen und sich eine Weile am Rand des Entwicklertischs festgehalten. Der Grund, warum er sie nicht entwickelte, war derselbe, den er sich nicht aussprach: dass er schon wusste, was die erste zeigen würde.
+Drei Tage lang hatten die Kassetten im Regal gestanden, ausgerichtet nach Datum, beschriftet in seiner eigenen knappen Schrift, ungeöffnet. Er war zweimal an ihnen vorbeigegangen, ohne die Hand zu heben; einmal hatte er an der dritten von links angesetzt, die Finger auf dem Metallrand gespürt, dann zurückgenommen und sich eine Weile am Rand des Entwicklertischs festgehalten. Er hatte sie nicht entwickelt, weil er wusste, was die erste zeigen würde.
 
 Am vierten Morgen zwang er sich.
 
-Rotlicht an. Pyrogallol links, Fixierbad rechts, der scharfe Kaliumzyanid-Geruch schon an der Decke. Wasserbad unter dem Tischrand, wo der Stein im Mai noch kühl blieb. Zwölf Handgriffe, dieselbe Reihenfolge, dieselbe Atempause nach dem dritten. Der Körper wusste, was er tat; der Kopf hing einen halben Schritt dahinter.
-
+Rotlicht an. Pyrogallol links, Fixierbad rechts, der scharfe Kaliumzyanid-Geruch schon an der Decke. Wasserbad unter dem Tischrand, wo der Stein im Mai noch kühl blieb. Zwölf Handgriffe, dieselbe Reihenfolge, dieselbe Atempause nach dem dritten.
 Er nahm die erste Kassette aus der Reihe.
 
 Punkt einundzwanzig. Routineaufnahme vom Kai, vor zehn Tagen, frühabends, Stativ auf der dritten Kante, Blende elf, Belichtung fünfzehn Sekunden. Er kannte das Bild aus dem Gedächtnis — der Poller, das Lichthaus von unten, die Grauwe als mittlerer Tonwert im Hintergrund, kein Wind, kein Rauch. Er hatte die Platte damals belichtet, weil er Testmaterial für eine neue Kassettenfabrik brauchte; die Emulsion war etwas weicher als sonst, das Silber etwas langsamer. Nichts Besonderes. Er wusste, was drauf sein musste.
@@ -41,9 +40,9 @@ Die Platte kam heraus. Der Kai auf der anderen Seite des Beckens, die Schiffsmas
 
 Er war allein gewesen an diesem Becken. Er war allein. Er hatte Platten belichtet, auf denen Masten, Wasser und Nichts waren. Nachtholm lag drei Tage Reise von Vael entfernt, und Anfang März hatte es die Frau für ihn nicht gegeben — keinen Namen, kein Gesicht, keine Sehne am Daumenansatz. Nichts, das auf einer Platte hätte stehen können.
 
-Er legte die Platte auf die zweite. Seine Hände arbeiteten weiter. Nicht schneller, nicht langsamer. Die Präzision nahm sogar zu, was er registrierte wie eine Messung, die nicht zu seinem eigenen Puls passte — sein Körper antwortete der Entdeckung, indem er sich in die Routine härter hineinarbeitete, statt aus ihr herauszufallen. Das war das Unheimliche. Nicht die Frauen auf den Platten. Dass sein Körper das Unheimliche schon gekannt hatte, bevor sein Kopf es sehen durfte.
+Er legte die Platte auf die zweite. Seine Hände arbeiteten weiter. Nicht schneller, nicht langsamer. Die Präzision nahm sogar zu, was er registrierte wie eine Messung, die nicht zu seinem eigenen Puls passte — sein Körper antwortete der Entdeckung, indem er sich in die Routine härter hineinarbeitete, statt aus ihr herauszufallen.
 
-Er entwickelte zwölf Platten. Siebzehn. Dann hörte er auf zu zählen und entwickelte die ganze Reihe.
+Er entwickelte zwölf Platten, dann siebzehn, dann hörte er auf zu zählen.
 
 Auf elf von ihnen stand sie.
 
@@ -53,17 +52,13 @@ Die Platten ohne sie hängte er auf. Es waren wenige: der Marktplatz am Morgen, 
 
 Er holte die Lupe, Messingrand, gutes Glas aus Nachtholm, und prüfte die Platten eine nach der anderen unter dem Rotlicht. Er suchte einen Nachdruck, eine Retusche, einen Bleichfleck — etwas, das darauf hindeutete, dass jemand die Platte nach der Belichtung angefasst hatte. Die Körner lagen sauber. Das Silber saß in der Emulsion, eingebrannt beim Entwickeln, nicht darüber. Es war kein Trick.
 
-Die Hypothese, die er sich zuerst geben konnte, war einfach. Sein Gedächtnis hatte gekippt. Er war in den letzten Wochen jemand geworden, der sie fotografierte, ohne sich daran zu erinnern. Dagegen gab es Medizin, Pausen, Schlaf. Aber diese Hypothese trug nicht weit — die Platten aus Nachtholm waren drei Monate alt, und vor drei Monaten hatte er keinen Namen gesucht, der so aussah wie ihrer.
+Die Hypothese, die er sich zuerst geben konnte, war einfach. Sein Gedächtnis hatte gekippt. Er war in den letzten Wochen jemand geworden, der sie fotografierte, ohne sich daran zu erinnern. Dagegen gab es Medizin, Pausen, Schlaf. Aber diese Hypothese trug nicht weit — die Platten aus Nachtholm waren drei Monate alt, und vor drei Monaten hatte er ihren Namen nicht gekannt.
 
-Die zweite Hypothese hielt er seit der Poller-Nacht unter einem Deckel. Jetzt legte er den Deckel weg.
-
-Er hatte den Kai abgesucht, zwei Minuten bevor er belichtet hatte. Er hatte gesehen, was dort war. Das Silber gab zurück, was er ihm gegeben hatte. Das war die Lüge, die er sich erzählte. Dahinter lag etwas, an das er nicht gehen wollte. Ohne Wort gab es keinen zweiten Gedanken.
-
-Also blieb der erste.
+Er hatte den Kai abgesucht, zwei Minuten bevor er belichtet hatte. Er hatte gesehen, was dort war. Das Silber gab zurück, was er ihm gegeben hatte.
 
 Zuletzt die Platte aus der Nacht im Garten. Die, die er einhändig belichtet hatte, weil sein linker Handrücken unter dem Verband brannte und die Finger die Kassette nicht halten konnten. Der Schärfering war damals schräg gewesen, die Optik auf einem Winkel, den er nie bewusst gewählt hätte. Er hatte wackeliges Material erwartet. Körnung, Unschärfe, ein fehlgeleiteter Fokus über die Kante.
 
-Er entwickelte sie mit mehr Ruhe als alle anderen. Er wusste, warum er sie zuletzt ließ. Er benannte es nicht.
+Er entwickelte sie mit mehr Ruhe als alle anderen.
 
 Das Bild kam sauber heraus. Der Purpurstein im Hintergrund, der Rand des Hügels, der Ansatz der Farnwand dahinter — alles in den mittleren Grauwerten, leicht unscharf an den Ecken, das wackelige Schärfemuster sichtbar in der Verschiebung der Bildkante. Wie erwartet. Und im Zentrum, dort, wo der Ring seine Hauptebene hielt, zwei Hände. Flach auf dem Stein. Daumen nach außen, Finger leicht gespreizt, die linke Hand eine Spur weiter vom Rand als die rechte, als hätte sie einen Puls gesucht, den die rechte noch nicht gefunden hatte.
 
@@ -73,7 +68,7 @@ Nicht nur scharf im Rahmen dessen, was ein wackeliger einhändiger Schuss liefer
 
 Er stand lange vor dieser Platte.
 
-Länger als vor allen anderen zusammen. Sein Kopf war leer auf eine bestimmte Art, die er aus langen Belichtungen kannte — er hatte an nichts zu denken, weil das, was er sah, alles ausfüllte, was zu denken gewesen wäre. Im Hintergrund seines Körpers arbeitete etwas, das sich einer Wahrheit näherte, die er nicht heben wollte, und eine Schulter, ein Gelenk, ein kleiner Muskel im Nacken hielten diese Wahrheit zurück. Er wusste nicht, woran er sie festhielt. Er wusste nur, dass er sie festhielt.
+Länger als vor allen anderen zusammen. Sein Kopf war leer wie bei einer langen Belichtung. Eine Schulter, ein Gelenk, ein Muskel im Nacken hielten etwas, das er nicht heben wollte.
 
 Er legte die Hände-Platte zu den anderen.
 
@@ -85,7 +80,6 @@ Er wusch die Hände.
 
 Das Wasser aus dem Messinghahn war kalt. Der Chemiegeruch saß noch in den Fingerkuppen, zog nicht mehr in die Nasenschleimhaut, nur noch in das Gedächtnis an den Geruch. Er hörte seinen eigenen Puls in den Ohren, als er die Hände unter den Strahl hielt. Er hörte ihn zu laut. Er zählte bis zehn, zählte noch einmal bis zehn, und dann drehte er das Wasser ab.
 
-Der Keller war unverändert. Die Wand war nicht.
 
 
 ---
@@ -93,7 +87,7 @@ Der Keller war unverändert. Die Wand war nicht.
 
 Am späten Nachmittag räumte er auf.
 
-Er nahm die drei verbliebenen Platten von der Wand, legte sie in das untere Fach des Schranks, wo er unbelichtetes Material lagerte. Er löschte das Rotlicht und drehte die Öllampe an der Decke hoch, bis der Keller wieder in gelblichem, normalem Licht lag, in dem ein Besucher sich umsehen konnte, ohne etwas zu sehen, das nicht für ihn war. Er überprüfte die Schublade unter dem Entwicklertisch. Sie saß. Er zog noch einmal an der Vorderseite; sie gab nicht nach. Er wischte den Rand des Entwicklertischs mit dem Leinentuch ab, wo Wasser aus dem Fixierbad eine matte Linie hinterlassen hatte. Er machte den Raum in einen Zustand, in dem jemand ihn betreten konnte, ohne zu sehen, was er gesehen hatte. Warum — stand nicht zur Frage. Er tat es.
+Er nahm die drei verbliebenen Platten von der Wand, legte sie in das untere Fach des Schranks, wo er unbelichtetes Material lagerte. Er löschte das Rotlicht und drehte die Öllampe an der Decke hoch, bis der Keller wieder in gelblichem, normalem Licht lag, in dem ein Besucher sich umsehen konnte, ohne etwas zu sehen, das nicht für ihn war. Er überprüfte die Schublade unter dem Entwicklertisch. Sie saß. Er zog noch einmal an der Vorderseite; sie gab nicht nach. Er wischte den Rand des Entwicklertischs mit dem Leinentuch ab, wo Wasser aus dem Fixierbad eine matte Linie hinterlassen hatte. Er machte den Raum in einen Zustand, in dem jemand ihn betreten konnte, ohne zu sehen, was er gesehen hatte.
 
 Dann das Klopfen.
 
@@ -107,13 +101,13 @@ Er öffnete einen Spalt. Nicht breit. Gerade weit genug, dass sein Gesicht zu se
 
 Alphina.
 
-Die Tasche über der Schulter, der Mantel offen, das dunkle Haar ein bisschen zurückgeworfen, als hätte sie auf dem Weg herunter die Stufen schneller genommen als üblich. Der Blick geradeaus, nicht suchend, nicht fragend — sie hatte ihn schon lokalisiert, bevor die Tür aufging. Sein Kopf berechnete den Winkel, den ihr Gesicht im gelben Öllicht machte, weil sein Kopf nichts Besseres tat, wenn er stand: Kontrast mittel, Ton warm, kein Schlagschatten an der linken Wange. Dann hörte er sich selbst rechnen und hörte auf.
+Die Tasche über der Schulter, der Mantel offen, das dunkle Haar ein bisschen zurückgeworfen, als hätte sie auf dem Weg herunter die Stufen schneller genommen als üblich. Der Blick geradeaus, nicht suchend, nicht fragend — sie hatte ihn schon lokalisiert, bevor die Tür aufging. Sein Kopf maß den Winkel, den ihr Gesicht im gelben Öllicht machte: Kontrast mittel, Ton warm, kein Schlagschatten an der linken Wange. Er hörte auf.
 
 "Ich war in der Nähe", sagte sie.
 
-Der Anker lag zehn Minuten die Gasse hoch. Das stimmte. Der Grund, warum sie hier stand, lag woanders. Beide wussten das. Keiner sagte es.
+Der Anker lag zehn Minuten die Gasse hoch.
 
-Er lehnte sich minimal weiter in den Türspalt, nicht so weit, dass es nach Bereitschaft aussah, gerade genug, dass sein Körper den Rest füllte. Seine rechte Hand blieb auf dem Türrahmen. Die linke Hand hielt die Innenkante. Er stand im Weg. Er wusste, dass er im Weg stand. Er wusste, dass sie wusste, dass er im Weg stand.
+Er lehnte sich minimal weiter in den Türspalt, nicht so weit, dass es nach Bereitschaft aussah, gerade genug, dass sein Körper den Rest füllte. Seine rechte Hand blieb auf dem Türrahmen. Die linke Hand hielt die Innenkante. Er stand im Weg.
 
 Ihr Blick ging einmal kurz an ihm vorbei. Nicht lang. Nicht auffällig. Aber er sah die Verschiebung in der Pupille — ein winziger Suchgang in den Spalt, in den Schein des Öllichts auf dem Entwicklertisch, auf die leere Wand dahinter, auf die Stelle, wo die Schublade unter dem Tisch saß. Ihr Blick kam zurück auf sein Gesicht. Sie sagte nichts zu dem, was sie gesehen oder nicht gesehen hatte. Aber sie bemerkte es. Er wusste, dass sie es bemerkt hatte, so wie er das Silberkorn unter einer Platte kannte, ohne die Lupe zu benutzen.
 
@@ -125,7 +119,7 @@ Sie nickte langsam, als hätte er eine andere Frage beantwortet. Sie hätte gehe
 
 "Dann kommen Sie raus."
 
-Er griff nach dem Mantel am Haken neben der Tür, zog ihn mit der rechten Hand über die Schulter, ließ die linke Hand den Ärmel suchen. Er trat in die Gasse, zog die Tür hinter sich zu. Der Schlüssel steckte. Er drehte ihn einmal. Er drehte ihn ein zweites Mal. Das zweite Mal war nicht nötig, das zweite Mal war die Bewegung, mit der er sich selbst etwas sagte, das er sich nicht in Worten sagen wollte. Das Metall war warm von seiner Handfläche, als er den Schlüssel wieder in die Tasche steckte. Er merkte, dass er die Finger fester um das Metall schloss als nötig.
+Er griff nach dem Mantel am Haken neben der Tür, zog ihn mit der rechten Hand über die Schulter, ließ die linke Hand den Ärmel suchen. Er trat in die Gasse, zog die Tür hinter sich zu. Der Schlüssel steckte. Er drehte ihn einmal. Er drehte ihn ein zweites Mal. Das zweite Mal war nicht nötig. Das Metall war warm von seiner Handfläche, als er den Schlüssel wieder in die Tasche steckte. Er merkte, dass er die Finger fester um das Metall schloss als nötig.
 
 Sie wartete zwei Schritte weiter in der Gasse, nicht nah, nicht fern. Er ging zu ihr. Sie gingen los.
 
@@ -135,10 +129,8 @@ Sie wartete zwei Schritte weiter in der Gasse, nicht nah, nicht fern. Er ging zu
 
 Sie gingen die Hafengasse entlang, die Gaslampen vor ihnen in einer Reihe, hinter ihnen das Lichthaus, das im Abendlicht einen mittleren Grauwert gegen den Himmel warf. Er wusste nicht, wer die Richtung vorgab — er folgte ihrem Schritt, sie folgte seinem Zögern, und so kamen sie trotzdem irgendwohin.
 
-Sie ging links von ihm. Ihr Schritt war ruhig. Seiner nicht. Er zählte seine Atemzüge, tiefer Atem für ruhige Hände, die Gewohnheit eines Fotografen, der bei langen Belichtungen nicht zittern darf. Es funktionierte nicht. Seine Hände waren nicht am Problem.
-
-Sie redeten zuerst nicht. Das Schweigen war voll; beide wussten es.
-
+Sie ging links von ihm. Ihr Schritt war ruhig. Seiner nicht. Er zählte seine Atemzüge, tiefer Atem für ruhige Hände, die Gewohnheit eines Fotografen, der bei langen Belichtungen nicht zittern darf. Es funktionierte nicht. 
+Sie redeten zuerst nicht. 
 "Die drei auf der Mauer." Sie sagte es in die Gasse hinein, den Blick geradeaus. "Was haben Sie gesehen?"
 
 Seine Schritte stockten einen halben Takt. Er hatte drei Tage lang darauf gewartet, dass jemand diese Frage stellte, und gleichzeitig gehofft, dass niemand sie stellen würde. "Den Rauch", sagte er. "An den Schultern. Eine dünne Schicht, die aufstieg, ohne Quelle." Er hörte sich selbst, hörte wie technisch es klang, als beschriebe er eine Platte. "Die Konturen waren weich. Zu weich für festes Material."
@@ -153,8 +145,7 @@ Er schaute sie an. Sie schaute geradeaus, in die Gasse, als beschriebe sie den A
 
 Er wartete, ob sie mehr sagen würde. Sie sagte nicht mehr.
 
-Er öffnete den Mund. Das Wort *Feuer* saß hinter den Zähnen, fertig, mit einem Gewicht, das er in der Zunge spürte. Eines dieser Wesen hatte ihn verbrannt. Vor zwei Wochen. Im Garten, zwischen den Hortensien. Ein Feuerball, präzise, auf den linken Handrücken. Er hätte es sagen können. Es war ein Satz, vier Wörter, und er hätte ihn beiden ein Stück Boden gegeben, auf dem sie hätten stehen können.
-
+Er öffnete den Mund. Das Wort *Feuer* saß hinter den Zähnen, fertig, mit einem Gewicht, das er in der Zunge spürte. Eines dieser Wesen hatte ihn verbrannt. Vor zwei Wochen. Im Garten, zwischen den Hortensien. Ein Feuerball, präzise, auf den linken Handrücken. Er hätte es sagen können.
 Er schloss den Mund. Der Satz blieb, wo er war.
 
 Ihr Blick fiel auf seine linke Hand. Er sah die Verschiebung in ihren Augen — denselben kurzen Suchgang, den sie an der Tür gemacht hatte. Diesmal fand sie den Handrücken. Der Verband war weg. Die Haut war rosa und glatt, die Stelle, wo der Schorf gesessen hatte, heller als der Rest. Er hatte den Verband am zweiten Tag abgenommen, weil die Wunde darunter aussah, als wäre sie seit Wochen am Heilen, nicht seit Tagen. Er hatte keine Erklärung gesucht.
@@ -163,11 +154,11 @@ Sie blieb stehen. Er blieb auch stehen. Sie nahm seine linke Hand, ohne zu frage
 
 "Drei Tage", sagte sie leise. Nicht als Frage. Als Feststellung einer Unmöglichkeit.
 
-Er zog die Hand nicht weg. Er hätte sie wegziehen müssen, weil eine Frau, die seine Hand im Gaslicht drehte, eine Frau war, die etwas suchte, und er wusste nicht, ob er wollte, dass sie es fand. Er zog sie nicht weg.
+Er zog die Hand nicht weg.
 
 Sie ließ ihn los. Ihre Finger lösten sich von seinem Handgelenk, einer nach dem anderen, und jeder Finger hinterließ einen warmen Punkt auf der Haut, der nach dem Loslassen noch drei Atemzüge blieb.
 
-Sie gingen weiter. An einer engen Stelle der Gasse mussten sie nebeneinander passieren. Ihre Arme streiften sich — der Stoff seiner Jacke gegen den Stoff ihres Mantels. Keiner zog zurück. Keiner beschleunigte. Drei Schritte lang gingen sie in einem Abstand, der weniger war als ein Arm, und sein Körper legte das Gewebe-an-Gewebe neben die Erinnerung an ihre Hand auf seinem Knie, auf der Bank, drei Nächte vorher, als die Silhouetten auf der Mauer saßen. Er hatte damals beschlossen, die Hand nicht zu sehen, um sie nicht wegzunehmen. Jetzt sah er den Arm. Er sah ihn und ging weiter, und der halbe Schlag, den sein Atem aussetzte, kam erst zwei Schritte später, als die Gasse wieder breit genug war und der Stoff den Stoff nicht mehr berührte.
+Sie gingen weiter. An einer engen Stelle der Gasse mussten sie nebeneinander passieren. Ihre Arme streiften sich — der Stoff seiner Jacke gegen den Stoff ihres Mantels. Keiner zog zurück. Keiner beschleunigte. Drei Schritte lang gingen sie in einem Abstand, der weniger war als ein Arm, und das Gewebe-an-Gewebe lag neben der Erinnerung an ihre Hand auf seinem Knie, drei Nächte vorher. Jetzt sah er den Arm. Er sah ihn und ging weiter, und der halbe Schlag, den sein Atem aussetzte, kam erst zwei Schritte später, als die Gasse wieder breit genug war und der Stoff den Stoff nicht mehr berührte.
 
 "Die Steine im Garten", sagte er, weil er etwas sagen musste, bevor das Schweigen ihn verriet. "Im Sucher bewegen sie sich."
 
@@ -195,7 +186,7 @@ Er hätte es sagen können. Die Platte aus Nachtholm. Drei Monate alt. Eine Frau
 
 *Ich habe Sie seit Wochen.* Das sagte er nicht.
 
-Etwas in ihrem Gesicht verschob sich einen halben Tonwert nach unten — ein Moment, der nicht lange genug dauerte, um ihn sicher zu lesen. Dann war sie wieder ruhig.
+Etwas in ihrem Gesicht verschob sich einen halben Tonwert nach unten. Dann war sie wieder ruhig.
 
 "Ich muss weiter." Sie stieg die nächsten Stufen hinauf, drehte sich halb um. "Ich bin neugierig auf das, was Sie sehen."
 
