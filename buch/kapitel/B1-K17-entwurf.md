@@ -44,7 +44,7 @@ Vesper erzählt. Nicht alles auf einmal — aber er erzählt. Die Drift (4:33 t�
 
 Maren macht Tee. Einfacher Handgriff, der dritte in dieser Stunde, Teekochen auf der Werft ist so üblich wie Sägemehl.
 
-Sie zeigt es ihm. Wortlos. Kein Vorlauf, keine Erklärung. Sie greift nach dem Krug — Wasser vom Morgen, kalt, unberührt seit Sonnenaufgang. Schüttet es über das Teeblatt in eine leere Tasse. Hält sie Vesper hin. Noch während er die Tasse nimmt, steigt Dampf auf. Im Tee ein Strudel, langsam, gegen den Uhrzeigersinn, ohne dass jemand rührt. Kein Preis. Keine Kosten. Als wäre Wasser-Wärme so natürlich wie Atemholen.
+Sie zeigt es ihm. Wortlos. Kein Vorlauf, keine Erklärung. Sie greift nach dem Krug — Wasser vom Morgen, kalt, unberührt seit Sonnenaufgang. Schüttet es über das Teeblatt in eine leere Tasse. Hält sie Vesper hin. Noch während er die Tasse nimmt, steigt Dampf auf. Im Tee ein Strudel, langsam, gegen den Uhrzeigersinn, ohne dass jemand rührt. Als wäre Wasser-Wärme so natürlich wie Atemholen.
 
 Vesper starrt. Nicht höflich, nicht kurz — er starrt eine Sekunde zu lang, und in dieser Sekunde hält sein ganzer Körper inne. Die Lupe-am-Auge-Konzentration die Maren aus K14 kennt (Hände auf dem Uhrgehäuse, vollständige Aufmerksamkeit), jetzt auf sie gerichtet, auf die Tasse, auf ihre Finger.
 

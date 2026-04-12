@@ -14,17 +14,17 @@
 
 **Wortziel:** 1.500–1.800 W
 
-Botanischer Garten, Nachmittag, Hochsommer. Vesper hat den Ort gewählt — neutral, genug Platz, nah am Steinkreis. Er ist als Erster da. Dann Alphina (sie kennt den Garten, hat den Schlüssel). Dann Maren. Dann Sorel, als Letzter, als habe er so lange wie möglich gewartet.
+Botanischer Garten, Nachmittag, Spätfrühling. Vesper hat den Ort gewählt — neutral, genug Platz, nah am Steinkreis. Er ist als Erster da. Dann Alphina (sie kennt den Garten, hat den Schlüssel). Dann Maren. Dann Sorel, als Letzter, als habe er so lange wie möglich gewartet.
 
-[ALPHINA-ANKER] Die Pflanzen stehen still. Zum ersten Mal seit Wochen — keine Farne die sich nach ihr drehen, kein Gras das ihre Schritte registriert. Als hätte die Anwesenheit der vier Resonanzen die Anomalien neutralisiert, einander aufgehoben. Sie spürt es sofort. Die Stille ist nicht beruhigend. Sie ist eine Warnung.
+[ALPHINA-ANKER] Die Pflanzen reagieren zu intensiv. Zu sehr. Alphina sagt ihnen still zu sein — kein laut gesprochenes Wort, eher ein Wille der durch die Fußsohlen läuft, durch die Erde, den gewohnten Kanal. Die Farne gehorchen sofort. Das hat sie noch nie so direkt getan. Die Stille die folgt ist nicht beruhigend. Sie ist eine Warnung.
 
-Kurze Vorstellungen. Vesper moderiert, ohne zu moderieren — er nennt Namen, setzt Kontexte, gibt nichts preis was die anderen nicht selbst teilen wollen. Maren kennt Alphina und Sorel noch nicht; Sorel kennt Maren noch nicht; alle vier kennen Vesper.
+Kurze Vorstellungen. Vesper moderiert, ohne zu moderieren — er nennt Namen, setzt Kontexte, gibt nichts preis was die anderen nicht selbst teilen wollen. Maren kennt Alphina und Sorel noch nicht; Alphina kennt Maren noch nicht; Sorel kennt Maren noch nicht; alle vier kennen Vesper.
 
 Alphina und Sorel im selben Raum. Sie haben sich seit K13 nicht gesehen (nur den kurzen Steg-Moment in K15, kein Wort). Keine explizite Geste. Die Stille zwischen ihnen ist erkennbar für jeden der schaut — Vesper schaut. Maren schaut.
 
-Atmosphäre: Die Luft riecht nach feuchter Erde und nach etwas, das keiner benennen kann. Süßlich, nicht Obst, nicht Honig. Die Schemen-Tiere die seit Wochen im Garten sind — heute nicht. Der Garten ist leer. Das ist seltsamer als ihre Anwesenheit.
+Atmosphäre: Die Luft riecht nach feuchter Erde und nach etwas, das keiner benennen kann. Süßlich, nicht Obst, nicht Honig. Die Tiere die seit Wochen im Garten sind — heute nicht. Der Garten ist leer. Das ist seltsamer als ihre Anwesenheit.
 
-Informationsaustausch, knapp. Vesper hält ihn kurz — nicht weil die Information nicht wichtig ist, sondern weil ein zu langer Austausch die Erschöpfung bringt bevor das Handeln kommt. Jeder legt eine Karte auf den Tisch: Alphina (Steinkreis-Puls, Heilung an Sorels Hand, Farne). Sorel (Platten-Anomalie, Verbrennung). Vesper (Uhren-Ringe, 4:33). Maren (Wasser-Strudel, halbfertiges Boot das sich selbst baut).
+Informationsaustausch, knapp. Vesper hält ihn kurz — nicht weil die Information nicht wichtig ist, sondern weil ein zu langer Austausch die Erschöpfung bringt bevor das Handeln kommt. Jeder legt eine Karte auf den Tisch: Alphina (Steinkreis-Puls, Heilung an Sorels Hand, Farne). Sorel (Platten-Anomalie, Verbrennung). Vesper (Uhren-Ringe, 4:33). Maren (Wasser-Strudel, Wasser erwärmen).
 
 Schweigen danach. Das Schweigen ist kein Nicht-Wissen. Es ist das Zurückhalten der Konsequenz.
 
@@ -47,21 +47,23 @@ Schweigen danach. Das Schweigen ist kein Nicht-Wissen. Es ist das Zurückhalten 
 
 [ALPHINA-ANKER, dann Wechsel zu anderen Perspektiven]
 
+Maren will etwas sagen — sie hat den Steinkreis in Harons Zeichnung wiedererkannt, der Satz ist schon im Mund — da zerreißt hinter ihr die Luft.
+
 Der Riss öffnet sich. Keine Warnung, kein Ton, kein Licht — eine Verzerrung in der Substanz der Luft, als würde das Licht an einer Stelle falsch brechen. Durch die Öffnung, drei Atemzüge lang: Moragh. Farben zu intensiv, ein Himmel der sich bewegt, Bäume die nicht aus Thalassien kommen. Alphina sieht in einen Wald der so dicht ist wie etwas das wächst, ohne Rücksicht. Dann schließt sich der Riss.
 
-Der Wächter-Schem ist da. Drei bis vier Meter groß, tierisch-humanoid, Schatten-Magie wie geronnene Dunkelheit. Er ist nicht hindurchgekommen — er war schon hier. Er ist der Wächter des Riss-Ortes, nicht ein Eindringling.
+Der Wächter-Schemen ist da. Drei bis vier Meter groß, tierisch-humanoid, Schatten wie geronnene Dunkelheit. Er ist nicht hindurchgekommen — er war schon hier. Er ist der Wächter des Riss-Ortes, nicht ein Eindringling.
 
-[MAREN-MOMENT] Maren steht direkt am Riss-Ort. Der Schem schlägt zu — Schattenklaue, Schulter getroffen. Blut am Stoff. Der Schmerz kommt verzögert, wie Schmerz kommt wenn der Körper noch kämpft. Sie taumelt, hält sich. Sie fällt nicht.
+[MAREN-MOMENT] Maren steht direkt am Riss-Ort. Der Schemen schlägt zu — Schattenklaue, Schulter. Maren fliegt. Zwei, drei Meter, Rücken auf den Boden, der Schmerz kommt sofort. Blut am Stoff. Sie liegt. Sie steht wieder auf.
 
-[SOREL-MOMENT] Sorel reagiert ohne Nachdenken. Gebündeltes Licht — er nimmt das Nachmittagssonnenlicht durch die Baumkronen, zieht es zusammen, wirft es auf den Schem. Der Schem schluckt es. Licht geht hinein und kommt nicht zurück. Sorel greift nach Alphina und zieht sie weg vom Schem, ein Reflex. Beschützer-Instinkt, direkt im Körper, nicht im Kopf. (Das ist der Instinkt der in K36 sein Tod sein wird.)
+[SOREL-MOMENT] Sorel reagiert ohne Nachdenken. Gebündeltes Licht — er nimmt das Nachmittagssonnenlicht durch die Baumkronen, zieht es zusammen, wirft es auf den Schemen. Der Schemen schluckt es. Licht geht hinein wie in Wasser das sich schließt — und kommt nicht zurück. Keine Ablenkung, kein Zurückwerfen, kein Flimmern. Das Licht hört auf zu sein. Sorel greift nach Alphina und zieht sie weg vom Schemen, ein Reflex. Beschützer-Instinkt, direkt im Körper, nicht im Kopf. (Das ist der Instinkt der in K36 sein Tod sein wird.)
 
-[VESPER-MOMENT] Vesper spürt den Schem als Frequenz — falsch, zu schnell, außerhalb jedes Takts. Sein Körper beginnt gegenzuhalten, bevor sein Kopf den Befehl gibt. Die Hände in der Luft, eine Geste die nichts greift und trotzdem etwas hält. Der Schem wird langsamer. Nicht gestoppt — aber seine Bewegungen werden zähflüssig, seine Schläge kommen einen Herzschlag zu spät.
+[VESPER-MOMENT] Vesper spürt den Schemen als Frequenz — falsch, zu schnell, außerhalb jedes Takts. Sein Körper beginnt gegenzuhalten, bevor sein Kopf den Befehl gibt. Die Hände in der Luft, eine Geste die nichts greift und trotzdem etwas hält. Der Schemen wird langsamer. Nicht gestoppt — aber seine Bewegungen werden zähflüssig, seine Schläge kommen einen Herzschlag zu spät.
 
 [ALPHINA-MOMENT — und der Durchbruch] Alphina will Wurzeln. Sie kennt das — sie hat es im Garten gemacht, mit Lavendel, mit Klee. Sie konzentriert sich auf den Boden, auf die Farne, auf die Erde unter dem Steinkreis. Sie bekommt Gras. Dünne Halme, nutzlos. Sorel sieht es. Er schaltet um: nicht gebündeltes Licht, das der Schem schluckt. Diffuses Licht, gleichmäßig in alle Richtungen, wie in einem Gewächshaus unter Glas. Das Licht liegt über dem Boden wie ein Atem.
 
-Alphinas zweiter Versuch. Jetzt kommen die Wurzeln. Durch die Erde, durch ihre Beine, durch den Garten — dick, holzig, lebendig. Gleichzeitig: Vesper synchronisiert. Zwei Takte, sein Körper zwischen dem Frequenz-Senken des Schemen und dem Rhythmus der Wurzeln. Er hält beides gleichzeitig, zehn Sekunden, zwanzig.
+Alphinas zweiter Versuch. Panische Angst — und das verstärkt es. Der Gedanke ist nicht bewusst formuliert, er sitzt im Körper: *haltet es fest.* Jetzt kommen die Wurzeln. Durch die Erde, durch den Garten — dick, holzig, lebendig. Vesper denkt: *bleib stehen.* Er synchronisiert: zwei Takte, sein Körper zwischen dem Frequenz-Senken des Schemen und dem Rhythmus der Wurzeln. Er hält beides gleichzeitig, zehn Sekunden, zwanzig.
 
-Das Wurzelgespinst durchzieht den Schem, von unten nach oben, durch die Schattensubstanz. Die Bindung bricht. Der Schem löst sich in Rauch auf — lautlos, wie ein Feuer das erstickt wird.
+Das Wurzelgespinst durchzieht den Schemen, von unten nach oben, durch die Schattensubstanz. Die Bindung bricht. Der Schem löst sich in Rauch auf — lautlos, wie ein Feuer das erstickt wird.
 
 **Dialog-Informationen:**
 - Alphina erfährt: ihre Resonanz braucht manchmal die richtige Frequenz von außen (Sorels Licht hat das Wachstum ermöglicht)
@@ -132,7 +134,7 @@ Unter der Erschöpfung, unter der Erschütterung: das Gefühl, mächtig zu sein.
 **Was wissen alle vier am Ende von K19?**
 - Alle vier kennen sich jetzt persönlich.
 - Ihre Resonanzen arbeiten zusammen.
-- Ein Wächter-Schem ist mit vier Resonanzen besiegt worden.
+- Ein Wächter-Schemen ist mit vier Resonanzen besiegt worden.
 - Durch den offenen Riss haben sie Moragh drei Atemzüge lang gesehen.
 - Die Skulptur beweist: ihre Magie hinterlässt Spuren in der Welt.
 

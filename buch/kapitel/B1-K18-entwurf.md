@@ -22,7 +22,7 @@ Sorel erzählt. Systematisch, mit einer Fotografen-Logik die Vesper respektiert:
 
 Vesper hört zu. Sortiert. Sorels Geschichte steht für sich — kein Drift-Muster, kein Ring. Ein anderer Mechanismus: die Platten reagieren auf ihn, nicht auf den Ort. Vesper macht keine Notizen. Er hält alles im Kopf, weil der Kopf das Muster erkennt, bevor der Stift es aufschreibt.
 
-Dann bringt er seine eigenen Teile. Die Uhren-Drift in sechzehn Vaeler Häusern, kartiert nach Stadtgebiet, konzentrische Ringe um einen Mittelpunkt im Garten. Die Anomalie: 4:33 täglich — ein Muster, das sich erst zeigt, wenn man es kartiert. Und: Marens Tee-Strudel. *"Eine Frau in der Werft. Schiffsbauerin. Sie macht es mit Wasser — ohne Berühren, ohne Kosten. Sie hat es mir gezeigt. Einfach so."*
+Dann bringt er seine eigenen Teile. Die Uhren-Drift in sechzehn Vaeler Häusern, kartiert nach Stadtgebiet, konzentrische Ringe um einen Mittelpunkt im Garten. Die Anomalie: 4:33 täglich — ein Muster, das sich erst zeigt, wenn man es kartiert. Und: Marens Tee-Strudel. *"Eine Frau in der Werft. Schiffsbauerin. Sie macht es mit Wasser — ohne Berühren. Sie hat es mir gezeigt. Einfach so."*
 
 **Dialog-Informationen:**
 - Sorel erfährt: Vesper hat die Uhren kartiert, Mittelpunkt unter dem Botanischen Garten
@@ -40,7 +40,7 @@ Dann bringt er seine eigenen Teile. Die Uhren-Drift in sechzehn Vaeler Häusern,
 
 **Wortziel:** 1.400–1.600 W
 
-Beide reden über Alphina, ohne es so zu nennen. Nicht das Zentrum — das Zentrum liegt unter dem Garten, im Steinkreis. Aber sie ist die Person, auf die beide gestoßen sind, und die Farne folgen ihr ungebeten.
+Beide reden über Alphina, ohne es so zu nennen. Sie ist die Person, auf die beide gestoßen sind, und die Farne folgen ihr ungebeten.
 
 Sorel: die Farne. Die Art wie sie sich nach ihr richten, auch wenn sie vorbeigeht ohne zu schauen. Die Platten auf denen sie erscheint, ohne dass er sie fotografiert hat. Er fängt an, es als Kamera-Anomalie zu rahmen — bricht ab. Er ist die Quelle. Nicht das Gerät. Vesper hört zu, ohne zu korrigieren.
 

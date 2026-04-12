@@ -14,10 +14,10 @@ Ruft alle Anmerkungen ab die Leser:innen auf der WIP-Seite hinterlassen haben.
 ### Mit Kapitel-Argument (`/kommentare B1-K17`)
 
 1. Kapitel-ID aus Argument ableiten: `B1-K17` → Slug `17`, `B1-KI3` → Slug `I3`
-2. API-Aufruf via Bash:
+2. API-Aufruf via Bash (Admin-Key für alle Kommentare aller Nutzer):
    ```bash
-   curl -s "https://alphina.net/api/comments?kapitel=17&modus=entwurf"
-   curl -s "https://alphina.net/api/comments?kapitel=17&modus=final"
+   curl -s "https://alphina.net/api/comments?kapitel=17&modus=entwurf" -H "X-User-Id: 21c7ef896af35a6ce31b79c1f712b94a4f1d523b911de20e"
+   curl -s "https://alphina.net/api/comments?kapitel=17&modus=final" -H "X-User-Id: 21c7ef896af35a6ce31b79c1f712b94a4f1d523b911de20e"
    ```
 3. Ergebnisse zusammenführen und nach `absatz_idx` gruppieren
 4. Ausgabe als übersichtliche Liste:
@@ -28,7 +28,7 @@ Ruft alle Anmerkungen ab die Leser:innen auf der WIP-Seite hinterlassen haben.
 ### Ohne Argument (`/kommentare`)
 
 1. Alle Kapitel-IDs aus `buch/status.json` sammeln die `entwurfs_datei` oder `datei` haben
-2. Pro Kapitel: `curl -s "https://alphina.net/api/comments?kapitel={id}&modus=entwurf"` + `modus=final`
+2. Pro Kapitel: `curl -s "https://alphina.net/api/comments?kapitel={id}&modus=entwurf" -H "X-User-Id: 21c7ef896af35a6ce31b79c1f712b94a4f1d523b911de20e"` + `modus=final`
 3. Nur Kapitel mit mindestens einem Kommentar anzeigen
 4. Format: `K17 · 3 Anmerkungen (entwurf)`, `K21 · 1 Anmerkung (final)`
 

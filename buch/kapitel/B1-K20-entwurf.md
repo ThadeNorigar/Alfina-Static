@@ -12,11 +12,11 @@
 
 **Wortziel:** 1.200–1.400 W
 
-Tage nach K19. Maren auf der Werft. Edric arbeitet, das halbfertige Boot liegt im Wasser, der Hochsommer liegt über dem Hafen. Die Verletzung an ihrer Schulter heilt — Alphina hat die Hand darauf gelegt, der Prozess sitzt in der Wunde als eine Art Wärme die von innen kommt.
+Tage nach K19. Maren auf der Werft. Edric ist nicht da. Das halbfertige Boot liegt im Wasser, der Spätfrühling liegt über dem Hafen. Die Verletzung an ihrer Schulter heilt — Alphina hat die Hand darauf gelegt, der Prozess sitzt in der Wunde als eine Art Wärme die von innen kommt.
 
-Sie nimmt das Symbolblatt aus der Jacke. Sie hat es seit K08 bei sich — ein einzelnes Blatt in Harons Handschrift, Symbole die keinem Thalassien-Alphabet folgen, eine Steinkreis-Zeichnung in der Mitte. Sieben Steine. Die Mitte hohl.
+Sie holt das Symbolblatt aus der Werkbank-Leiste — wo sie es seit K08 versteckt hat. Den Steinkreis auf der Zeichnung hat sie gestern gesehen, in der Form der Wurzel-Skulptur. Der Gedanke kommt jetzt, nicht damals: das Blatt hält sie gegen das Licht. Ein einzelnes Blatt in Harons Handschrift, Symbole die keinem Thalassien-Alphabet folgen, eine Steinkreis-Zeichnung in der Mitte. Sieben Steine. Die Mitte hohl.
 
-Die Zeichnung und die Skulptur. Beides liegt übereinander, als sie es nebeneinander hält. Die Wurzelskulptur aus K19 stand dort, wo der Steinkreis liegt. Harons Zeichnung zeigt denselben Ort. Haron wusste etwas. Haron hat es aufgeschrieben. In einer Sprache die sie nicht lesen kann.
+Die Zeichnung und die Skulptur. Beides liegt übereinander. Haron wusste etwas. Haron hat es aufgeschrieben. In einer Sprache die sie nicht lesen kann.
 
 Sie geht ins Anker. Vespers Reparaturtisch. Sie legt das Blatt auf das Holz, ohne Erklärung. *"Ich kann das nicht lesen. Du schon."*
 
@@ -26,9 +26,9 @@ Vesper nimmt das Blatt. Hält es gegen das Lampenlicht. Seine Finger über die L
 
 **Dialog-Informationen:**
 - Maren erfährt (von sich selbst): Kontrolle abgeben, gezielt, an eine Person die sie vertraut, ist kein Verlust. Das ist das erste Mal dass sie das über etwas das ihr gehört.
-- Vesper erfährt: Maren hat das Symbolblatt seit Wochen. Hat es nicht gezeigt. Hat es jetzt gebracht.
-- Vesper erfährt: Harons Handschrift in einer fremden Schrift. Die Zeichnung zeigt den Steinkreis.
-- Vesper's Erkenntnis: Haron Dahl hat in einer Sprache geschrieben, die aus Moragh kommt. Haron wusste vom Riss. Schon lange.
+- Vesper erfährt: Maren hat das Symbolblatt seit Wochen — hat es erst jetzt gebracht, weil die Verbindung zum Steinkreis ihr erst nach K19 klar wurde.
+- Vesper erfährt: Harons Handschrift in einer fremden Schrift. Die Zeichnung zeigt den Steinkreis. Vesper kennt Haron Dahl nicht.
+- Vespers Erkenntnis: Jemand hat etwas gewusst. Wer das war und was er wusste — das steht noch offen.
 
 **Tschechow-Waffen geladen:** Harons Symbolblatt → Stadtarchiv → Manuskript (feuert K23); Haron als Varens Agent (feuert Buch 2 wenn Maren die Wahrheit erfährt)
 **Tschechow-Waffen abgefeuert:** Symbolblatt aus K08 (Maren versteckt es in der Werkbank-Leiste) → K20: sie holt es raus, gibt es weiter; Wurzel-Skulptur K19 → Steinkreis-Zeichnung erkennbar
@@ -47,13 +47,13 @@ Die Sub-Dynamik. Marens Aufmerksamkeit liegt auf seinem nächsten Handgriff, sei
 
 Vesper bemerkt es. Ein Blick, nicht länger als ein Herzschlag. Er sieht was sie tut. Er sieht was es mit ihr macht. Er sagt nichts. Sein Schweigen ist keine Ablehnung — es ist eine Entscheidung. Er lässt es. Er hält es bewusst im Raum.
 
-*"Ins Archiv."* Er sagt es so wie er alles sagt — als Feststellung, nicht als Frage. Er hat einen Hinweis: in den Symbolen ist eine Zahl, dreimal wiederholt, die er aus Vaeler Rathaus-Dokumenten kennt. Eine Registriernummer.
+Er schaut Maren an. *"Was siehst du?"* Sie schaut auf die Symbole, auf die Zahl die dreimal wiederholt vorkommt. Sie nennt, was ihr auffällt. Er bestätigt ruhig: *"Schlaues Mädchen."* Dann: *"Ins Archiv."* Er hat eine Registriernummer aus Vaeler Rathaus-Dokumenten erkannt. Das Symbolblatt verweist auf ein Dokument das in Vael aufbewahrt wird.
 
 **Dialog-Informationen:**
 - Maren erfährt (von sich selbst): Still sein in seiner Nähe ist anders als sonst still sein. Ihr Kopf hört auf zu laufen. Das ist ein Zustand den sie noch nie gesucht hat.
 - Vesper erfährt (über Maren): Sie ist sub. Er braucht kein Wort dafür, er sieht das Muster.
-- Vesper's Erkenntnis: Er könnte jetzt. Er wartet ab — nicht aus Zögern, sondern weil er weiß wann Geduld schärfer ist als Bewegung.
-- Vesper's Erkenntnis (Symbole): Eine Registriernummer. Das Symbolblatt verweist auf ein Dokument, das in Vael aufbewahrt wird.
+- Vespers Erkenntnis: Er könnte jetzt. Er wartet ab — nicht aus Zögern, sondern weil er weiß wann Geduld schärfer ist als Bewegung.
+- Vespers Erkenntnis (Symbole): Eine Registriernummer. Das Symbolblatt verweist auf ein Dokument, das in Vael aufbewahrt wird.
 
 **Tschechow-Waffen geladen:**
 - Sub-Dynamik explizit sichtbar (feuert K26: Dom/Sub-Nacht im Archiv)
@@ -72,15 +72,16 @@ Im Hintergrund sortiert eine jüngere Frau Akten — Jara, Esthers Nichte. Still
 
 Esther nimmt das Symbolblatt, hält es gegen das Licht. Ihr Ausdruck verändert sich. Nicht aufgeregt — konzentriert. *"Dahl. Den Namen habe ich in unseren Registern gesehen."* Sie geht zum Regal, zieht drei verschiedene Bände heraus, legt sie übereinander auf den Tresen.
 
-Dreimal der Name "Dahl." Erste Eintragung: 157 Jahre vor Harons Tod. Zweite: achtzig Jahre vor Harons Tod. Dritte: zwei Jahre vor Harons ersten Briefen an Maren. Verschiedene Schreibweisen, verschiedene Kontexte — aber derselbe Name, periodisch auftauchend, wie ein Muster das nicht aufhört.
+Dreimal der Name "Dahl." In verschiedenen Schreibweisen, verschiedenen Kontexten, über einen Zeitraum von zweihundert Jahren. Die jüngste Eintragung: zwei Jahre vor Harons ersten Briefen an Maren.
 
-Esther: *"Dahl ist kein Vaeler Familienname. Er taucht auf und verschwindet. Als käme jemand für eine Weile, und geht dann wieder."* Ihre Stimme ist ruhig. Sie zieht kein Gewicht daraus. Sie ist Archivarin — sie beschreibt.
+Esther: *"Dahl ist ein Vaeler Name — Lene Dahls Familie hat die Werft seit fast vierhundert Jahren. Aber die anderen Einträge... das ist nicht dieselbe Familie. Der Name taucht auf, und dann ist die Person wieder weg. Als käme jemand für eine Weile."* Sie hält inne. *"Der letzte Träger dieses Namens — der bevor Ihrer — hat ihn angenommen, als er die Werft übernahm. Vorher hatte er einen anderen."* Ihre Stimme ist ruhig. Sie beschreibt, sie wertet nicht.
 
 Das Symbolblatt bleibt da. Esther will in den alten Registern nachschlagen. *"Das wird ein paar Tage dauern. Ich schicke Ihnen Nachricht."* Das Manuskript kommt noch nicht — erst K23, wenn Esther ihre vollständige Suche abgeschlossen hat.
 
 **Dialog-Informationen:**
-- Maren erfährt: Haron Dahl war nicht der erste seines Namens in Vael. Der Name taucht seit 157 Jahren periodisch auf.
-- Maren erfährt: "Dahl" ist kein Vaeler Familienname. Er kommt von woanders.
+- Maren erfährt: Dahl ist eigentlich ein Vaeler Familienname (Lene Dahls Werft, ~400 Jahre). Haron hat den Namen bei der Werft-Übernahme angenommen. Er hieß vorher anders.
+- Maren erfährt: Der Name taucht in den Registern mehrfach auf, in verschiedenen Schreibweisen, über 200 Jahre — immer Menschen die kommen und wieder verschwinden.
+- Maren erfährt: Haron sprach die Sprache kaum, kam als Fremder. Der Name war Tarnung oder Anpassung.
 - Vesper erfährt: Es gibt ein Registriersystem für unbekannte Schriften in Vaeler Archiv-Dokumenten. Das Symbolblatt ist nicht das erste.
 - Maren registriert: Jara Voss. Die Hände zu gleichmäßig. Fragt nicht nach. Merkt es.
 
