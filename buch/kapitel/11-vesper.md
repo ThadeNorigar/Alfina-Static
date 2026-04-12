@@ -6,7 +6,7 @@ Siebzehn Uhren, sortiert nach der Größe ihrer Abweichung.
 
 Vesper hatte die Liste zum vierten Mal in neuen Spalten untereinander geschrieben, weil die ersten drei Versionen ihm nichts verraten hatten. Jetzt, am Tisch rechts im Schankraum des Anker, lag sie unter seinen Händen und sagte zum ersten Mal etwas, das kein Uhrmacher gerne hörte: dass die Uhren nicht voneinander abhingen, aber auch nicht zufällig waren.
 
-Ganz unten in der Reihe, mit einem Querstrich abgetrennt und in einer anderen Tinte: die Tidemoor-Uhr. Vier Minuten und dreiunddreißig Sekunden pro Tag, in der ganzen Größenordnung ohne Vergleich. Er hatte sie aus der Reihenfolge herausgenommen, weil sie offensichtlich nicht in dasselbe System gehörte wie die anderen sechzehn. Sein Instinkt sagte ihm seit Wochen, dass Tidemoor ein Sonderfall war, und Instinkte dieser Art ignorierte er nicht.
+Ganz unten in der Reihe, mit einem Querstrich abgetrennt und in einer anderen Tinte: die Tidemoor-Uhr. Vier Minuten und dreiunddreißig Sekunden pro Tag, in der ganzen Größenordnung ohne Vergleich. Er hatte sie aus der Reihenfolge herausgenommen, weil sie offensichtlich nicht in dasselbe System gehörte wie die anderen sechzehn. Tidemoor war ein Sonderfall. Er hatte das seit Wochen gewusst, ohne es ausgesprochen zu haben.
 
 Die übrigen sechzehn gingen alle nach. Keine lief vor. Die kleinste Abweichung lag bei elf Sekunden pro Tag, in einer Wanduhr eines Lederwarenhändlers unten am Hafen. Die größte, wenn man Tidemoor beiseite ließ, waren zwei Minuten und dreiundzwanzig Sekunden, in einer alten Tischuhr in einem Haus am hinteren Marktplatz. Dazwischen ein Spektrum, das Vesper bisher für chaotisch gehalten hatte.
 
@@ -18,7 +18,7 @@ Weil die großen Zahlen nicht zufällig verteilt waren.
 
 Sie lagen näher beieinander. Und die kleinen Zahlen lagen auch näher beieinander — nur in einem anderen Gebiet, weiter außen, an den Rändern seiner Karte. Wer eine Uhr in Hafennähe besaß, hatte elf, zwölf, fünfzehn Sekunden zu wenig. Wer eine Uhr in der Mitte der Stadt hatte, hatte dreißig, fünfzig Sekunden, manchmal eine Minute. Und wer eine Uhr in der Oberstadt hatte — drei der sechzehn lagen dort — hatte ein bis zwei Minuten, der höchste Wert zwei Minuten dreiundzwanzig.
 
-Kein Uhrmacher in Vael hätte eine solche Verteilung für Zufall gehalten. Auch kein nicht-Uhrmacher, der fünf Minuten darüber nachdachte.
+Kein Uhrmacher in Vael hätte eine solche Verteilung für Zufall gehalten.
 
 ---
 
@@ -56,11 +56,10 @@ Vier Gruppen, vier verschiedene Zeichen. Die kleinsten Abweichungen, elf bis fü
 
 Er hielt den Stift still und schaute auf das Papier.
 
-Die vier Formen lagen nicht perfekt verteilt — einige der Punkte in jeder Gruppe saßen ein Stück neben dem, was eine saubere Kreislinie ergeben hätte. Aber keine der Gruppen war zufällig. Jede bildete einen ungefähren Bogen um denselben unsichtbaren Mittelpunkt. Die kleinsten Abweichungen außen, die größten innen. Vier Schalen, eine um die andere, wie Ringe im Wasser, wenn man einen Stein hineinwarf — und wenn man den Stein sehen wollte, schaute man dorthin, wo die Ringe am engsten beieinanderlagen.
+Die vier Formen lagen nicht perfekt verteilt — einige der Punkte in jeder Gruppe saßen ein Stück neben dem, was eine saubere Kreislinie ergeben hätte. Aber keine der Gruppen war zufällig. Jede bildete einen ungefähren Bogen um denselben unsichtbaren Mittelpunkt. Die kleinsten Abweichungen außen, die größten innen. Vier Schalen, eine um die andere. Ringe im Wasser um einen Stein, den er noch nicht sah.
 
 Vesper zog leichte Bogenlinien durch jede der vier Gruppen und setzte einen winzigen Punkt in die Mitte. Der Mittelpunkt lag in der Oberstadt, hinter dem Handelshaus, in einem Viertel, in dem er in fünf Wochen kein einziges Mal gewesen war, weil er dort weder einen Uhrenhändler vermutete noch einen Standuhrenbesitzer. Ein blinder Fleck auf seiner Karte — keine Namen, keine Gebäude, nur die groben Umrisse der Häuserreihen, die er sich von einem ausliegenden Stadtplan beim Wirt abgemalt hatte.
 
-Der Punkt hatte keinen Namen. Er hatte nur eine Richtung.
 
 ---
 
@@ -80,17 +79,17 @@ Die Tintenflecken am Zeigefinger und Mittelfinger der rechten Hand hatte er vor 
 
 Heute war an ihren Händen etwas, das er vorher nicht gesehen hatte. An der linken, unter dem Nagel des Zeigefingers und im Halbmond des Daumennagels, saß dunkle Erde, die nicht wegging. Trocken, eingearbeitet, das schmale Stück dunkler als der Rest der Hand. Sie drehte die Stahlfeder zwischen den Fingern, tunkte sie, schrieb zwei Zeilen, hielt inne.
 
-Er wusste nichts über sie außer dem, was sich zählen ließ — die Zeit am Tisch, die Position des Teelöffels, die Art, wie ihr Rücken sich nie an die Lehne legte. Eine Frau, die aufrecht saß, weil sie aufrecht saß, nicht weil sie gesehen werden wollte.
+Er wusste nichts über sie außer dem, was sich zählen ließ — die Zeit am Tisch, die Position des Teelöffels, die Art, wie ihr Rücken sich nie an die Lehne legte.
 
 Der Wirt hatte sie zweimal beim Vornamen genannt, aber Vesper war gerade an einer Ankerschraube gewesen und hatte nicht aufgesehen. Er hätte fragen können. Er hatte nicht gefragt. Er redete nicht mit Fremden, solange sie nicht seine Kunden waren, und die Frau am Fenstertisch war keine Kundin.
 
-Er schrieb nichts über sie ins Notizbuch. Siebzehn Uhren waren siebzehn Uhren, und eine Frau am Fenstertisch war ein Mensch, und Vesper hatte gelernt, Punkte auf Karten von Menschen getrennt zu halten.
+Er schrieb nichts über sie ins Notizbuch. Punkte auf Karten und Menschen im Schankraum gehörten nicht auf dieselbe Seite.
 
 ---
 
-Er klappte die Karte zusammen, drückte sie in die Innenfalte des Notizbuchs zurück und schlug das Notizbuch zu. Kvarns Uhr lag unberührt in der Samtrolle unter dem schmalen Samtlappen, wo er sie seit gestern Abend nicht mehr angefasst hatte. Er würde sie heute Nachmittag dort lassen. Die Welle war nicht das Problem des Vormittags. Das Problem des Vormittags war das Papier.
+Er klappte die Karte zusammen, drückte sie in die Innenfalte des Notizbuchs zurück und schlug das Notizbuch zu. Kvarns Uhr lag unberührt in der Samtrolle unter dem schmalen Samtlappen, wo er sie seit gestern Abend nicht mehr angefasst hatte. Er würde sie heute Nachmittag dort lassen. Das Problem des Vormittags war das Papier.
 
-Er brauchte schmales Papier. Fest und glatt, für Linien, die eine Hausreihe trennen konnten und nicht verwischen durften. Der halbe Finger Unschärfe am Mittelpunkt seiner groben Karte war in Vaeler Maßstab eine ganze Häuserreihe, und eine ganze Häuserreihe war der Unterschied zwischen einer Adresse und einem Viertel.
+Er brauchte schmales Papier. Fest und glatt, für Linien, die eine Hausreihe trennen konnten und nicht verwischen durften. Der halbe Finger Unschärfe bedeutete in Vaeler Maßstab eine ganze Häuserreihe — den Unterschied zwischen Adresse und Viertel.
 
 Der Turm in seiner linken Außentasche war so kalt wie am Morgen. Kein Grad wärmer, kein Grad kälter, nur die Kälte eines Stücks Holz, das seit fünf Wochen seine Körperwärme nicht angenommen hatte. Er streifte ihn mit der Daumenkuppe, registrierte die Temperatur, ließ ihn dort.
 
@@ -114,11 +113,11 @@ Die Oberstadt lag im Mittagslicht. Vesper ging die siebte Stufe der Treppe in de
 
 Er drückte die Klinke. Die Tür war offen. Aus dem Inneren kam ein gleichmäßiges Geräusch, schwer und leise, das er in der Schwelle als das Klacken einer Tiegelpresse erkannte.
 
-Drinnen war es heller, als er erwartet hatte. Drei hohe Fenster zur Gasse, ein viertes nach hinten in einen Hof. Der Raum war groß genug für zwei Pressen und so vollgestellt, dass er für eineinhalb reichte. Vesper blieb in der Tür stehen, eine Sekunde, weil seine Augen zuerst die Mechanik finden mussten, bevor sie irgendetwas anderes finden konnten.
+Drinnen war es heller, als er erwartet hatte. Drei hohe Fenster zur Gasse, ein viertes nach hinten in einen Hof. Der Raum war groß genug für zwei Pressen und so vollgestellt, dass er für eineinhalb reichte. Vesper blieb eine Sekunde in der Tür. Seine Augen fanden zuerst die Mechanik.
 
 Eine Kniehebelpresse aus Gusseisen, vielleicht zehn Jahre alt, der Lack an den Säulen abgegriffen dort, wo die Hände immer wieder anfassten. Das große runde Eisenteil über der Form war kein Schwungrad, was ein Laie vermutet hätte — es war das Gegengewicht des Kniehebels, gegossen in einer Form, die er aus einem Werkstattkatalog in Karst kannte. An der Walzenachse über dem Tiegel saß ein Lager, das ein leises Quietschen abgab. Trockenes Lager. Das Öl müsste erneuert werden, spätestens morgen. Er registrierte es und vergaß es.
 
-Hinter der Presse, vor einem schräg gestellten Setzpult, stand eine Frau. Klein, kein Kopf größer als sein Brustbein, in einer Schürze aus rohem Leinen, die vorne von der Schwärze schwarz war und an den Seiten noch in der Farbe des Stoffs. Ihre rechte Hand war im Setzkasten. Die linke hielt einen Winkelhaken, in dem die ersten Zeilen einer neuen Form schon standen. Vesper sah, wie ihre rechten Finger einen Buchstaben aus dem Fach holten, ihn in den Winkelhaken setzten, und schon im selben Moment den nächsten griffen, ohne in den Kasten zu schauen. Drei Bewegungen pro Sekunde, vielleicht dreieinhalb. Sie kannte die Lage jedes Kästchens auswendig, und ihre Finger wussten den Weg ohne ihre Augen.
+Hinter der Presse, vor einem schräg gestellten Setzpult, stand eine Frau. Klein, kein Kopf größer als sein Brustbein, in einer Schürze aus rohem Leinen, die vorne von der Schwärze schwarz war und an den Seiten noch in der Farbe des Stoffs. Ihre rechte Hand war im Setzkasten. Die linke hielt einen Winkelhaken, in dem die ersten Zeilen einer neuen Form schon standen. Vesper sah, wie ihre rechten Finger einen Buchstaben aus dem Fach holten, ihn in den Winkelhaken setzten, und schon im selben Moment den nächsten griffen, ohne in den Kasten zu schauen. Drei Bewegungen pro Sekunde, vielleicht dreieinhalb. Ihre Finger wussten den Weg ohne ihre Augen.
 
 Sie hatte ihn nicht gehört. Er wartete, bis sie eine Zeile gesetzt und den Haken auf das Pult gelegt hatte, weil er nicht in eine Bewegung hineinsprechen wollte, die Präzision verlangte.
 
@@ -190,7 +189,7 @@ Die Ringe stimmten.
 
 Vesper hielt den Bogen am Rand mit den Fingerspitzen, damit die Schwärze nicht abgab, und las die sechste Adresse noch einmal. *Grauwe-Ufer 4.* Das war weit draußen, am Fluss, fast schon außerhalb der Stadt. Nichts, das in seine Uhren-Ringe passte — aber auch nicht in einem Gebiet, in dem er Uhren gemessen hatte. Grauwe-Ufer vier lag zwei Häuser vom Tidemoor-Haus entfernt, am selben Flusslauf, am selben Rand der Stadt.
 
-Sein Körper war einen halben Grad kälter als zwei Minuten zuvor, und er kannte das Gefühl. Er hatte es schon einmal gehabt, an einem Morgen, an dem in seiner Werkstatt sechsundzwanzig Uhren gleichzeitig stehengeblieben waren und alle auf 4:33. Damals hatte sein Körper früher gewusst als sein Kopf.
+Sein Körper war einen halben Grad kälter als zwei Minuten zuvor, und er kannte das Gefühl. Er hatte es schon einmal gehabt, an einem Morgen, an dem in seiner Werkstatt sechsundzwanzig Uhren gleichzeitig stehengeblieben waren und alle auf 4:33.
 
 Vier Überlappungen auf seinen Ringen. Eine Anomalie außerhalb der Ringe, an derselben Stelle, an der die Tidemoor-Uhr stand.
 
@@ -242,7 +241,7 @@ Er nickte einmal. Sie hob den Blick von der Türschwelle und sah ihm zum ersten 
 
 "Ich bin Botanikerin aus Velde und arbeite seit drei Wochen im Botanischen Garten der Oberstadt. Ich bin hier, weil Runa Kvist mir vor drei Tagen eine Erzählung gegeben hat. Über eine alte Standuhr in einem Haus am Grauwe-Ufer, die seit Jahrzehnten vier Minuten dreiunddreißig pro Tag verliert. Und über einen Uhrmacher aus Karst, der sie einmal angefasst hat. Die Erzählung hat Runa von einer Magd, die in dem Haus dient. Mir hat sie den Namen des Uhrmachers gegeben, und in welchem Gasthaus er wohnt."
 
-Vesper hörte den Satz und hörte vor allem, was er nicht enthielt. Kein *ich glaube an Geister*. Kein *ich habe etwas Seltsames gesehen*. Die Sätze einer Frau, die eine Erzählung auf die Waage gelegt und sie nicht leicht gefunden hatte.
+Vesper hörte, was der Satz nicht enthielt. Kein *ich glaube an Geister*. Kein *ich habe etwas Seltsames gesehen*.
 
 "Darf ich Sie fragen, Herr —"
 
@@ -266,7 +265,7 @@ Er sah an Alphina vorbei auf die Wand hinter ihr. Es war leichter, das zu erzäh
 
 "Und dann habe ich etwas getan, das ich vorher nie getan hatte. Ich habe nicht gemessen. Ich habe in mir den Takt gesucht, den eine Ankerhemmung dieser Bauart haben sollte. Zwei Halbschwünge pro Sekunde, rein, unbeladen. Diesen Takt habe ich nach dreizehn Jahren Werkbank in der Brust. Ich kenne ihn besser als meinen eigenen Puls. Und ich habe ihn dem Werk vorgelegt. Nicht gedacht, nicht gesagt — gehalten, als Form in der Brust, durch die Handfläche ins Messing. Zwanzig, dreißig Atemzüge lang. Dann drei Sätze innerlich, sehr knapp, weil mir in dem Augenblick nichts anderes einfiel. *So. Genau so. Behalte diesen Schlag.*"
 
-Er hörte sein eigenes Wort *behalte* und spürte sofort, dass es zu weit gegangen war — zu weit für einen Mann, der Uhren reparierte und keine Beschwörungen aussprach. Er sagte es trotzdem zu Ende.
+Er hörte sein eigenes Wort *behalte*. Uhrmacher sprachen keine Beschwörungen aus. Er sagte es trotzdem zu Ende.
 
 "Dann habe ich die Hand weggenommen und bin gegangen. Ich habe mir selbst nicht geglaubt, nicht in dem Moment, nicht danach. Sieben Tage sind es jetzt. Ich bin in diesen sieben Tagen jeden zweiten Tag im Salon gewesen, weil der Hausherr mir ein paar Kupfermünzen dafür zahlt, dass ich ein Auge auf das Werk werfe. Jedes Mal war der Schlag sauber. Jedes Mal null Drift gegen meine Taschenuhr. Jedes Mal ohne dass ich sie noch einmal angefasst hätte."
 
@@ -312,13 +311,13 @@ Vesper stand einen Atemzug still. Die Pinzette hinter ihm auf dem Tisch machte k
 
 "Beim ersten Mal in Tidemoor habe ich nichts gegeben. Ich habe die Hand aufgelegt und gesehen, was passiert. Das war Hören. Die Uhr hat unter der Hand reagiert, solange sie den Kontakt hatte. Hand weg, Kontakt weg, Reaktion weg. Beim zweiten Mal habe ich gegeben. Einen konkreten Takt, den sie übernehmen konnte, weil er einer Bauart entsprach, für die sie gebaut war. Deshalb hat sie ihn behalten."
 
-"Ich habe ein Wachstum gegeben. Einen konkreten Wachstumsrhythmus, den die Farne übernehmen konnten, weil er einer Pflanze entsprach, für die sie Zellen haben. Deshalb haben sie ihn behalten." Ihre Mundwinkel wurden weicher, nicht zu einem Lächeln. "Wir reden gerade über dasselbe Prinzip in zwei verschiedenen Sprachen."
+"Ich habe ein Wachstum gegeben. Einen konkreten Wachstumsrhythmus, den die Farne übernehmen konnten, weil er einer Pflanze entsprach, für die sie Zellen haben. Deshalb haben sie ihn behalten." Ihre Mundwinkel wurden weicher, nicht zu einem Lächeln.
 
 "Werkbank und Gewächshaus."
 
 "Messing und Mittelnerv."
 
-Sie schauten einander zwei, drei Atemzüge lang an, ohne dass einer etwas hinzufügte. Vesper hatte die Tür in der Zwischenzeit nicht weiter geöffnet. Der Abstand zwischen ihnen war trotzdem kleiner geworden, auf eine Weise, die keinen Raum brauchte.
+Sie schauten einander zwei, drei Atemzüge lang an, ohne dass einer etwas hinzufügte. Vesper hatte die Tür in der Zwischenzeit nicht weiter geöffnet.
 
 "Eines müssen Sie noch sehen", sagte er.
 
@@ -330,7 +329,7 @@ Er tippte mit der Fingerspitze neben den winzigen Punkt in der Mitte, ohne ihn z
 
 "Der Mittelpunkt liegt irgendwo in der Oberstadt, hinter dem Handelshaus. Ein Viertel, in dem ich in fünf Wochen kein einziges Mal war. Ich weiß nicht, was dort steht."
 
-Alphinas Gesicht veränderte sich nicht in Überraschung. Es veränderte sich in einer Art Anerkennen — wie jemand, der ein Loch in einer Hecke findet, von dem er schon geahnt hatte, dass es da war.
+Alphinas Gesicht veränderte sich nicht. Nur die Linie zwischen den Brauen ging etwas tiefer.
 
 "Das Viertel hinter dem Handelshaus ist der Botanische Garten. Der Hügel im westlichen Drittel steht ziemlich genau an der Stelle, wohin Ihre Bögen zeigen. Sieben Steine, hüfthoch. Der Stein, auf den ich meine Hand gelegt habe, ist Ihr Mittelpunkt."
 
@@ -356,7 +355,7 @@ Sie standen einen Atemzug lang zwischen zwei Sätzen.
 
 "Dieselbe. Ich habe sie am ersten Tag registriert und kein Wort dafür gehabt."
 
-Drei Punkte in seinem Kopf, die er bisher als drei verschiedene Tatsachen abgelegt hatte, legten sich jetzt aufeinander: das Gehäuse im Tidemoor-Salon, die Rillen im Kellerholz unter dem Tidemoor-Haus, der Stein unter Alphinas Handfläche. Drei Orte, eine Wärme. Es war kein Gespräch mehr über siebzehn Uhren. Es war eines über ein Prinzip.
+Drei Punkte in seinem Kopf, die er bisher als drei verschiedene Tatsachen abgelegt hatte, legten sich jetzt aufeinander: das Gehäuse im Tidemoor-Salon, die Rillen im Kellerholz unter dem Tidemoor-Haus, der Stein unter Alphinas Handfläche. Drei Orte, eine Wärme.
 
 "Ich würde den Hügel gerne sehen", sagte er.
 
@@ -400,7 +399,7 @@ Die Wärme kam ihm entgegen.
 
 Sie kam aus dem Messing in seine Handfläche und kroch in sein Handgelenk. Weiter in den Unterarm. Eine dichte, ruhige Wärme, die nicht pulsierte und die er trotzdem nicht für Raumtemperatur halten konnte — die Wärme eines Körpers, der zu lange in einem Sessel gesessen hat. Dieselbe Wärme wie das Gehäuse der Tidemoor-Standuhr unter seiner Hand. Dieselbe Wärme wie die Rillen im Kellerholz. Dieselbe Wärme wie die Handkante einer Druckerin, die ihm am Nachmittag einen Umschlag gereicht hatte.
 
-Was er vor einer Woche auf das Tidemoor-Gehäuse gelegt hatte, lag jetzt in Kvarns Taschenuhr. Er hatte es nicht vorgelegt. Nicht als Form, nicht als Satz, nicht als das knappe *behalte diesen Schlag*, das er gerade zum ersten Mal vor einem anderen Menschen ausgesprochen hatte. Er hatte seit anderthalb Stunden an der Welle gearbeitet, den Takt in der Brust, weil man eine Welle nicht dreht, ohne den Takt zu hören, auf den man dreht. Er hatte ihn nicht gesendet. Er hatte ihn gehabt, während das Werk unter seinen Händen lag, und das hatte gereicht.
+Was er vor einer Woche auf das Tidemoor-Gehäuse gelegt hatte, lag jetzt in Kvarns Taschenuhr. Er hatte es nicht vorgelegt. Nicht als Form, nicht als Satz, nicht als das knappe *behalte diesen Schlag*, das er gerade zum ersten Mal vor einem anderen Menschen ausgesprochen hatte. Er hatte seit anderthalb Stunden an der Welle gearbeitet, den Takt in der Brust. Man drehte keine Welle, ohne den Takt zu hören. Er hatte ihn nicht gesendet. Er hatte ihn gehabt, während das Werk unter seinen Händen lag, und das hatte gereicht.
 
 Die anderen sechzehn Uhren in der Stadt waren in derselben Zeit weiter falsch gegangen. Nur Tidemoor war rein geblieben. Seit dem zweiten Auflegen, ohne Unterbrechung. Und jetzt Kvarn.
 
@@ -408,7 +407,7 @@ Es war nicht der Raum gewesen. Nicht das Klima. Nicht seine Anwesenheit.
 
 Es war der Takt in seiner Brust, den er an ein Werk weitergab, ohne es zu wissen.
 
-Vesper nahm die Hand von Kvarns Uhr. Die Wärme blieb einen Atemzug auf der Haut, dann verlor sie sich. Das Ticken lief weiter, sauber, im Takt seiner eigenen Taschenuhr. Er wusste jetzt, ohne es ausgerechnet zu haben, dass dieser Takt nicht mehr weglaufen würde. Morgen nicht, übermorgen nicht. Die Welle war nicht das gewesen, was den Schlag rein gemacht hatte. Er war es.
+Vesper nahm die Hand von Kvarns Uhr. Die Wärme blieb einen Atemzug auf der Haut, dann verlor sie sich. Das Ticken lief weiter, sauber, im Takt seiner eigenen Taschenuhr. Er wusste jetzt, ohne es ausgerechnet zu haben, dass dieser Takt nicht mehr weglaufen würde. Morgen nicht, übermorgen nicht.
 
 Er griff nach dem Notizbuch, zog es zu sich, schlug es bei der nächsten leeren Seite auf, vor dem Ring-Blatt. Tunkte den Stift in das kleine Tintenfass am Rand des Klapptisches. Hielt die Spitze einen Moment über dem Papier.
 
@@ -416,7 +415,7 @@ Seine Hand schrieb, bevor sein Kopf den Satz ordnete:
 
 *Tidemoor erneut prüfen. Dann die Uhr des Fischhändlers an Kvarn zurückgeben.*
 
-Er las den Satz. Die Schrift war seine — der gleiche Neigungswinkel, derselbe Druck am unteren Bogen des *t*, dieselbe Verkürzung des Schluss-*s*. Aber die Sätze waren nicht das, was er sich zu schreiben überlegt hätte. Sie waren eine Reihenfolge, die sein Kopf gerade nicht interessierte. Sie waren eine Erinnerung an sich selbst — an den, der er bis heute früh gewesen war, und der morgen noch einen Rest von Routine brauchte.
+Er las den Satz. Die Schrift war seine — der gleiche Neigungswinkel, derselbe Druck am unteren Bogen des *t*, dieselbe Verkürzung des Schluss-*s*. Aber die Sätze waren nicht das, was er sich zu schreiben überlegt hätte. Sie waren eine Erinnerung an den, der er bis heute früh gewesen war.
 
 Er setzte den Stift noch einmal an und schrieb darunter, in zwei Zeilen, ohne Umweg:
 
@@ -431,7 +430,7 @@ Seine Hände lagen flach auf dem Tisch, zu beiden Seiten des aufgeschlagenen Buc
 
 Vor dem Fenster ging die dritte Gaslaterne an. Der Druck der Gasleitung schob die Flamme in den Mantel mit einem kleinen Ruck, dann pendelte sich das Licht ein. Im Schankraum unter ihm schlug jemand ein Glas zu deutlich auf die Theke. Zwei Türen weiter knarrte ein Dielenbrett unter einem Schritt — Alphinas Schritt, der zu ihrem Fenster ging und dort verharrte. Dann Stille.
 
-Vesper streifte mit der Daumenkuppe den Turm in der linken Außentasche, ohne hinzuschauen. Das Holz war kalt, dieselbe Kälte wie heute morgen. Aber zum ersten Mal seit fünfunddreißig Tagen war die Kälte nicht mehr fremd. Sie gehörte zu ihm wie seine Hand zu ihm gehörte. Die Erkenntnis darüber kam als ruhige Feststellung eines Messwerts in seiner eigenen Ordnung, nicht als Aufregung.
+Vesper streifte mit der Daumenkuppe den Turm in der linken Außentasche, ohne hinzuschauen. Das Holz war kalt, dieselbe Kälte wie heute morgen. Aber zum ersten Mal seit fünfunddreißig Tagen war die Kälte nicht mehr fremd. Die Erkenntnis darüber kam als ruhige Feststellung eines Messwerts in seiner eigenen Ordnung, nicht als Aufregung.
 
 Er saß am Klapptisch. Kvarns Uhr ging rein. Vor ihm lag die Karte, auf der das Zentrum des Kreises hinter dem Handelshaus stand. Unter seinem Brustbein lag das Wissen, dass er morgen Vormittag um halb zehn am grünen Tor eines Gartens stehen würde, in den er nie vorgehabt hatte zu gehen, neben einer Frau, deren Namen er seit zwanzig Minuten kannte.
 
