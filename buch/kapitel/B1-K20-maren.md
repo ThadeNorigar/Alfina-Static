@@ -6,7 +6,7 @@ Die Schulter hielt. Sie prüfte es bei jedem Aufheben — die Kiste mit den Düb
 
 Edric war auf dem Markt. Lärche, hatte er gesagt, schon vor Sonnenaufgang, und das Tor der Werft hatte hinter ihm zugeschoben, leise, weil er es so mochte. Die Halle war still. Nur die Grauwe redete draußen, leise, gegen die Stegpfähle, und in der Kajüte des halbfertigen Bootes tickte die Schiffsuhr, die seit zwei Wochen in der Stirnwand saß, vier Schrauben, in der richtigen Reihenfolge.
 
-Sie hatte die Werkbank-Leiste aufgeschoben, als sie den Hobel zurücklegte. Das Geräusch war das, was sie hergeholt hatte — Holz auf Holz, eine Nut, die sie seit Wochen nicht geöffnet hatte, weil sie wusste, was darin lag, und weil sie lange nicht gewusst hatte, was sie damit tun sollte. Jetzt schob sie die Leiste weiter, und das Papier lag darin, wie es seit den ersten Maitagen darin gelegen hatte. Ein einzelnes Blatt, ungefaltet, das Format kleiner als eine Hand, leicht rau am Rand, wo Haron es aus einem größeren Bogen getrennt hatte.
+Sie hatte die Werkbank-Leiste aufgeschoben, als sie den Hobel zurücklegte. Das Geräusch war das, was sie hergeholt hatte — Holz auf Holz, eine Nut, die sie seit Wochen nicht geöffnet hatte. Jetzt schob sie die Leiste weiter, und das Papier lag darin, wie es seit den ersten Maitagen darin gelegen hatte. Ein einzelnes Blatt, ungefaltet, das Format kleiner als eine Hand, leicht rau am Rand, wo Haron es aus einem größeren Bogen getrennt hatte.
 
 Sie hob es heraus. Hielt es gegen das Fenster. Das Licht ging durch das Papier, und die Tinte wurde dunkler, wo sie dicker saß, und heller, wo sie den Bogen nur berührt hatte. Die Schrift war Harons Schrift. Sie hatte fünf Jahre seine Briefe gelesen, sie kannte die Art, wie er den Abstrich beim *n* schräg zog, sie kannte die kleinen Lücken zwischen Wort und Interpunktion, die er immer ließ, als misstraue er dem Punkt. Diese Schrift war seine Schrift, und sie war es nicht — die Zeichen, die er hier gezogen hatte, folgten keinem Alphabet, das Maren kannte. Schnörkel, die sich umdrehten und wieder aufnahmen, was sie verlassen hatten. Kurze Striche, die nicht Buchstaben waren. Punkte, die oberhalb der Zeile standen, zwischen den Zeichen, nicht über ihnen.
 
@@ -38,7 +38,7 @@ Er saß am Tisch, den Rücken zur Tür, eine Lupe am Auge, über dem Werk einer 
 
 "Maren."
 
-Sie trat ein, schloss die Tür hinter sich — nicht ganz, einen halben Finger breit offen, wie es Haltung verlangte — und ging zu seinem Tisch. Holte das Blatt aus der Innentasche. Legte es auf das freie Ende des Samtstoffs, weg vom Uhrwerk, aber auf dieselbe Fläche. Sie faltete es nicht auf. Er würde es auffalten.
+Sie trat ein, schloss die Tür hinter sich — nicht ganz, einen halben Finger breit offen — und ging zu seinem Tisch. Holte das Blatt aus der Innentasche. Legte es auf das freie Ende des Samtstoffs, weg vom Uhrwerk, aber auf dieselbe Fläche. Sie faltete es nicht auf. Er würde es auffalten.
 
 "Ich kann das nicht lesen." Sie sah ihn dabei nicht an. Sie sah auf das Blatt. "Du schon."
 
@@ -54,7 +54,7 @@ Er antwortete nicht sofort. Er sah auf das Blatt. Dann auf sie. Dann wieder auf 
 
 Er griff mit beiden Händen, an den Kanten, und hob das Papier an, so wie er Uhrengläser hob — ohne zu reiben, ohne den Druck der Fingerkuppen direkt auf die Tinte. Er hielt es ein kurzes Stück vor sich, dann legte er es zurück auf den Samt, drehte die Petroleumlampe eine halbe Umdrehung höher, sodass das Licht auf den Bogen fiel. Dann beugte er sich darüber.
 
-Seine Augen gingen zuerst an den Rand. Umrundeten das Blatt, links oben nach rechts oben, rechts oben nach rechts unten, die langsame Bewegung eines Mannes, der einen Raum vermisst, bevor er ihn betritt. Erst dann die Mitte. Erst dann die Zeichnung.
+Seine Augen gingen zuerst an den Rand. Umrundeten das Blatt, links oben nach rechts oben, rechts oben nach rechts unten, langsam. Erst dann die Mitte. Erst dann die Zeichnung.
 
 Er sagte nichts. Seine linke Hand lag flach neben dem Blatt, die rechte am unteren Rand. Er hatte die Lupe nicht wieder ans Auge genommen. Sie bemerkte, dass er ohne Lupe las — ob Schrift oder Form, sie wusste es nicht.
 
@@ -78,11 +78,11 @@ Sie reichte ihm das Papier mit dem langen Maß, bevor er danach griff. Reichte i
 
 Etwas in ihr war still. Das Schlagen, mit dem sie jeden Morgen auf der Werft gegen das Holz anlief, bis die Hände taub waren und der Kopf nichts mehr formulierte, war hier nicht. Ihr Kopf formulierte auch nichts. Er war auf etwas ausgerichtet, das außerhalb von ihr lag. Ihre Aufmerksamkeit lag auf seiner nächsten Bewegung. Nur darauf.
 
-Sie merkte, dass er einmal aufsah. Nicht lang. Nicht prüfend. Ein Blick, der dauerte, so lang ein Blick dauerte, wenn man etwas ansah, das man schon kannte, und jetzt noch einmal ansah, um zu bestätigen, dass es war, wie man es sich gemerkt hatte. Sie senkte den Kopf nicht. Sie konnte sich nicht erinnern, wann sie zum letzten Mal einen Blick ertragen hatte, ohne den Kopf zu senken — in Solha nicht, auf dem Fischerboot nicht, nicht in der ersten Woche auf der Werft. Jetzt saß sie, und er sah sie an, und die Haut an ihrem Hals wurde einen halben Grad wärmer, als wäre die Luft dort in Bewegung gekommen.
+Sie merkte, dass er einmal aufsah. Nicht lang. Nicht prüfend. Ein Blick, der einen Atemzug länger dauerte als nötig. Sie senkte den Kopf nicht. Sie konnte sich nicht erinnern, wann sie zum letzten Mal einen Blick ertragen hatte, ohne den Kopf zu senken — in Solha nicht, auf dem Fischerboot nicht, nicht in der ersten Woche auf der Werft. Jetzt saß sie, und er sah sie an, und die Haut an ihrem Hals wurde einen halben Grad wärmer, als wäre die Luft dort in Bewegung gekommen.
 
 Er sah wieder auf das Blatt.
 
-Er sagte nichts, obwohl er etwas gesehen hatte. Er behielt es im Raum, nicht in seinem Mund. Ihr Nacken, die Stelle unter den Haaren, spürte den Blick noch, nachdem der Blick schon weg war.
+Er sagte nichts. Ihr Nacken, die Stelle unter den Haaren, spürte den Blick noch, nachdem der Blick schon weg war.
 
 "Hier." Er zeigte mit dem Bleistift auf drei kleine Zeichen am Rand der Zeichnung, über der Steinkreis-Linie. "Die kommen dreimal vor. Unten links, oben rechts, unten Mitte." Der Bleistift ging mit. "Was fällt dir auf?"
 
