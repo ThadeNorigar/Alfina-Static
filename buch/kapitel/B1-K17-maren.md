@@ -44,13 +44,11 @@ Maren stand hinter ihm, eine Armlänge entfernt, und schaute auf seine Hände. S
 
 Er war fertig. Er hätte die Kajüte verlassen können. Er drehte sich um, prüfte den Sitz noch einmal mit den Augen — Rechteck zur Wand, Uhrgehäuse bündig, Schrauben flach —, und erst dann ging er rückwärts durch die Öffnung, ließ sie vorausgehen.
 
-Wieder in der Halle hatte der Raum Breite. Die Schiebetür stand offen, die Sonne lag jetzt ein Stück weiter östlich, die Säulen der Bohlen zeichneten lange Streifen auf den Werftboden. Vesper setzte sich nicht. Aber er ging auch nicht. Er blieb neben der Werkbank stehen, die Hand leicht auf dem Holz.
+Wieder in der Halle war Platz. Die Schiebetür stand offen, die Sonne lag jetzt ein Stück weiter östlich, die Säulen der Bohlen zeichneten lange Streifen auf den Werftboden. Vesper setzte sich nicht. Aber er ging auch nicht. Er blieb neben der Werkbank stehen, die Hand leicht auf dem Holz.
 
 "Vier Silber zwanzig." Er nannte den Preis ohne Überleitung. "Zwanzig weniger, weil ich das Unruhrad aus eigenem Bestand hatte."
 
 Sie ging zur kleinen Dose auf dem Regalbrett über der Werkbank, zählte das Geld ab, legte es auf das Tuch neben die eine Ecke, die er zurückgeklappt hatte. Vier Silbermünzen, zwei kleine Kupferstücke. Er nahm sie, prüfte die Prägungen mit einem Blick, steckte sie in die Brusttasche. Sah dann auf den Boden. Auf die Tür. Auf das Boot. Auf sie.
-
-Sie ging zum Wasserkessel auf der kleinen Esse in der Ecke. Der Kessel war kalt. Sie goss den Inhalt nicht weg. Sie legte ein Stück Holzkohle in die Esse, blies einmal in die Glut, die von gestern noch warm war, und der Tag fand weiter.
 
 "Darf ich etwas fragen?"
 
@@ -76,11 +74,11 @@ Sie hörte zu.
 
 "Und vorher?"
 
-"Vorher waren es kleinere Dinge. Ein Pendel, das zu früh einschlug. Eine Spieluhr, die sich selbst aufzog. Ich dachte, das liegt am Material, am Wetter, am Glück." Seine Hand lag noch auf dem Holz, die Finger hatten sich nicht bewegt, seit sie die Frage gestellt hatte. "Es liegt nicht am Material."
+"Vorher nichts. Tidemoor war das erste." Seine Hand lag noch auf dem Holz, die Finger hatten sich nicht bewegt, seit sie die Frage gestellt hatte.
 
 Er sah kurz auf das Werkzeug auf der Bank, als prüfe er, ob etwas dazwischenlag.
 
-"Der Besitzer des Tidemoor-Hauses hat mich geholt, weil die Uhr im Saal täglich vorging. Vier Minuten dreiunddreißig. Ich habe den Abstand gemessen, ohne sie zu berühren. Dann habe ich sie berührt. Die Drift war weg, solange meine Hand auf dem Gehäuse lag. Ich habe das sieben Tage wiederholt. Dieselbe Zahl, immer." Die Stimme hatte keinen Bruch. "Ich habe dem Besitzer gesagt, dass es am Raum liegt, nicht an der Uhr. Es liegt nicht am Raum."
+"Der Besitzer des Tidemoor-Hauses hat mich geholt, weil die Uhr im Saal täglich Zeit verlor. Vier Minuten dreiunddreißig. Ich habe den Abstand gemessen, ohne sie zu berühren. Dann habe ich sie berührt. Die Drift war weg, solange meine Hand auf dem Gehäuse lag. Ich habe das sieben Tage wiederholt. Dieselbe Zahl, immer." Die Stimme hatte keinen Bruch. "Ich habe dem Besitzer gesagt, dass es am Raum liegt, nicht an der Uhr. Es liegt nicht am Raum."
 
 Sie nickte einmal. Fragte nicht weiter.
 
@@ -92,13 +90,13 @@ Sie hätte jetzt fragen können, wer Alphina war. Sie fragte nicht.
 
 ---
 
-Sie nahm zwei Becher — Steingut, schwer — und füllte sie mit dem Krug aus dem Eimer neben der Werkbank. Das Wasser war kalt, vom frühen Morgen. Sie gab in jeden eine Prise aus der Büchse mit dem schwarzen Tee aus Solha.
+Sie nahm zwei Becher — Steingut, schwer — und füllte sie mit dem Krug aus dem Eimer neben der Werkbank. Das Wasser war kalt, vom frühen Morgen. Sie gab in jeden ein Blatt aus der Büchse mit dem schwarzen Tee aus Solha.
 
 Sie stellte seinen Becher auf das Tuch vor ihm, neben der Ecke, die er zurückgeklappt hatte. Den eigenen behielt sie in der Hand. Setzte sich auf die zweite Kiste neben der Werkbank.
 
 Er sah auf den Becher. Das Wasser stand klar und kalt, das Teeblatt hatte sich noch nicht geöffnet.
 
-Das Wasser in seinem Becher bewegte sich zuerst. Eine kleine Drehung, gegen den Uhrzeigersinn, das Blatt hob sich vom Grund und drehte sich langsam, als hätte eine Hand darunter gerührt, die keinen Löffel brauchte. Der Strudel hielt — zwanzig Sekunden, dreißig, eine halbe Minute. Dann kamen die ersten Dämpffäden: dünn, kaum zu sehen, aus einer Oberfläche, die kalt gewesen war.
+Das Wasser in seinem Becher bewegte sich zuerst. Eine kleine Drehung, gegen den Uhrzeigersinn, das Blatt hob sich vom Grund und drehte sich langsam, als hätte eine Hand darunter gerührt, die keinen Löffel brauchte. Der Strudel hielt — zwanzig Sekunden, dreißig. Dann kamen die ersten Dämpffäden: dünn, kaum zu sehen, aus einer Oberfläche, die kalt gewesen war.
 
 Er starrte. Nicht kurz. Nicht höflich. Sein ganzer Körper war stehengeblieben, der Becher vor ihm auf dem Tuch, die Hände flach zu beiden Seiten, und nichts an ihm bewegte sich. Seine Augen lagen auf dem Strudel, dann auf ihren Händen, dann auf ihrem Gesicht. Die Konzentration, die sie aus dem *Anker* kannte, die Lupe-am-Auge, die Stille in seinen Handgelenken, lag jetzt auf ihr.
 
@@ -106,9 +104,9 @@ Seine Hände lagen flach auf dem Tuch, links und rechts des Bechers. Er berührt
 
 In ihrem Kopf kam trotzdem ein Bild. Seine Fingerkuppen, die sich eben am Schraubenkopf geprüft hatten, jetzt an ihrem Handgelenk, innen, dort wo der Puls lief. Nicht fest. Nur gesetzt. Ein Gewicht, das wartete. Seine Stimme, ohne Wort, nur die Art, wie die Luft vor seinem Mund die Richtung wechselte. Seine Aufmerksamkeit, die sie hielt, ohne sie zu drücken. Das Stillwerden ihrer eigenen Schultern, die auf etwas gewartet hatten, von dem sie nicht gewusst hatte, dass es kommen würde.
 
-Sie versuchte, das Bild wegzuschieben. Zweimal in dreißig Jahren hatte sie das gekannt — Begehren, Wärme unter den Rippen, Hände, die ruhiger wurden statt unruhiger; beide Male hatte sie es aus dem Kopf geschoben, bevor es Form annahm. Diesmal ging es nicht.
+Sie versuchte, das Bild wegzuschieben. Zweimal in dreißig Jahren hatte sie das gekannt — das Begehren, gehalten zu werden; Wärme unter den Rippen, Hände, die ruhiger wurden statt unruhiger; beide Male hatte sie es aus dem Kopf geschoben, bevor es Form annahm. Diesmal ging es nicht.
 
-Es wurde schärfer, weil sie es nicht schob. Draußen, vor ihr, lagen seine Hände auf dem Tuch. In ihrem Kopf lagen seine Fingerkuppen an ihrem Puls. Der Schuppen um sie beide war weit weg, die Esse mit der Glut war weit weg. Das Ticken aus der Kajüte hörte sie nicht mehr. Nur der Becher in ihrer Hand stand noch in der Nähe, und durch das Steingut zog die Wärme in beide Richtungen.
+Weil sie es zuließ, wurde es schärfer. Draußen, vor ihr, lagen seine Hände auf dem Tuch. In ihrem Kopf lagen seine Fingerkuppen an ihrem Puls. Der Schuppen um sie beide war weit weg, die Esse mit der Glut war weit weg. Das Ticken aus der Kajüte hörte sie nicht mehr. Nur der Becher in ihrer Hand stand noch in der Nähe, und durch das Steingut zog die Wärme in beide Richtungen.
 
 Ihre Lippen hatten sich ein wenig geöffnet. Sie schloss sie nicht hastig. Ihr Atem ging durch die Nase. Das Salz, das sie immer auf den Lippen hatte — Werftsalz, Seesalz, die Morgenluft — lag auf ihrer Oberlippe, sie konnte es schmecken, weil ihre Zunge sich einen halben Moment lang an die Innenseite der Oberlippe legte, und mit dem Salz kam ein feiner Geschmack von Metall, den sie schon aus der *Anker*-Stunde kannte.
 
@@ -180,7 +178,7 @@ Sie hörte es erst, als sie an der Leiter stand — ein kleiner, warmer Schlag, 
 
 Dann nahm sie den Abendweg durch die Unterstadt, die Gassen voll mit der abendlichen Wärme, den Purpurstein warm unter ihrer Handfläche, als sie einmal, kurz, mit der Hand eine Wand berührte. Der Stein nahm nichts von ihr und gab nichts zurück.
 
-Auf dem Marktplatz brannte schon eine Gaslampe, früh, die erste des Abends. Unter der Lampe standen zwei Männer, die Schirme auf dem Rücken, und redeten halblaut über etwas, das sie nicht interessierte. An der Ecke der Anker-Gasse hing das geschmiedete Anker-Zeichen schief, wie immer. Das Scharnier war trocken. Sie hätte es in einer Viertelstunde richten können, mit dem Öl aus der Werft. Sie richtete es nicht. Ihre Hände waren heute nicht für fremde Angeln.
+Auf dem Marktplatz brannte schon eine Gaslampe, früh, die erste des Abends. Unter der Lampe standen zwei Männer und redeten halblaut über etwas, das sie nicht interessierte. An der Ecke der Anker-Gasse hing das geschmiedete Anker-Zeichen schief, wie immer. Das Scharnier war trocken. Sie hätte es in einer Viertelstunde richten können, mit dem Öl aus der Werft. Sie richtete es nicht. Ihre Hände waren heute nicht für fremde Angeln.
 
 In ihrer Wohnung zog sie die Stiefel aus. Setzte sich auf die Bettkante. Die Handgelenke innen waren noch warm.
 
