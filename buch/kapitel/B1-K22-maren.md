@@ -16,7 +16,7 @@ Dann blieb sie noch zwei, drei Atemzüge in der Hocke. Sah das Ganze nicht an. S
 
 "Das wächst hier nicht."
 
-Kein Nachsatz. Sie griff nach dem Notizbuch, schlug eine leere Seite auf, nahm den Bleistift aus der Bindung. Zeichnete. Schnell — drei flache Umrisse für die Blätter, eine Linie für den Stängel, die Fuge in Schraffur. Dazu ein kurzes Wort, das Maren nicht las, weil sie nicht nah genug stand. Alphina stand auf, das Notizbuch offen in der linken Hand, und sah die Pflanze jetzt aus der Höhe an, die Hände ruhig an den Seiten. Kein Ekel in ihrem Gesicht. Kein Schreck. Ihre Hände blieben ruhig an den Seiten.
+Kein Nachsatz. Sie griff nach dem Notizbuch, schlug eine leere Seite auf, nahm den Bleistift aus der Bindung. Zeichnete. Schnell — drei flache Umrisse für die Blätter, eine Linie für den Stängel, die Fuge in Schraffur. Dazu ein kurzes Wort, das Maren nicht las, weil sie nicht nah genug stand. Alphina stand auf, das Notizbuch offen in der linken Hand, und sah die Pflanze jetzt aus der Höhe an, die Hände ruhig an den Seiten. Kein Ekel in ihrem Gesicht. Kein Schreck.
 
 Maren wartete. Alphina sagte nichts mehr. Klappte das Notizbuch zu. Ging an Maren vorbei, die Stufen hinauf, leise auf Strümpfen, und die Tür zu ihrem Zimmer schloss hinter ihr, ohne zu klappen.
 
@@ -58,11 +58,11 @@ Heute nicht. Keine Vorrede. Die Pflanze war einfach da gewesen, und das Wasser w
 
 Sie setzte den Hobel ab. Strich mit der flachen Hand über die Planke, prüfte die Linie — glatt, die Wölbung war weg. Drei Striche. Genug. Sie nahm das Schleifpapier, legte die Fläche mit der rechten Hand leicht dagegen, zog zweimal von Bug nach Heck.
 
-Eine Planke gab nach, oder sie hielt. Es gab keinen mittleren Zustand. Wasser arbeitete gleichmäßig. Wenn man aufhörte, die Planke zu prüfen, kippte sie eines Tages, und dann war es zu spät. Maren kannte dieses Kippen.
+Eine Planke gab nach, oder sie hielt. Maren kannte das Kippen.
 
 Sie hörte ihre eigene Atmung. Das tiefe Knarren des Stegs hinter der Halle, das war die Flut, die jetzt höher stand als gestern um diese Zeit. Tohls Pfeife nicht mehr. Er war weg.
 
-Etwas gab nach. Irgendwo. Nicht hier, nicht im Boot, nicht in der Halle. Woanders, unter der Stadt, unter dem Hafen, unter dem Garten, unter dem Treppenhaus des *Anker*. Eine Planke im Boden von Vael drückte sich. Der Millimeter war überschritten, oder er wurde gerade überschritten. Maren kannte den Zustand. Heute war er nicht Lärche.
+Etwas gab nach. Irgendwo. Nicht hier, nicht im Boot, nicht in der Halle. Woanders, unter dem Hafen, unter dem Garten. Eine Planke im Boden von Vael drückte sich. Der Millimeter war überschritten, oder er wurde gerade überschritten. Maren kannte den Zustand. Heute war er nicht Lärche.
 
 Sie legte den Hobel zurück in den Halter, die Zinke nach unten, wie immer. Zog die Jacke an. Den Zettel schrieb sie diesmal nicht; Edric würde heute später kommen. Sie schloss das Tor auf die halbe Breite, ging zurück durch die Hafengasse. Die Pflanze oben im Treppenhaus war noch da. Sie hatte nicht nachgesehen, sie wusste es.
 
