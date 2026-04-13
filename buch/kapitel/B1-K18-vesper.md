@@ -8,7 +8,7 @@ Die Hand auf dem Tuch war ruhig. Der Mechanismus auch. Trotzdem hatte er sich in
 
 Das Bild war da, ob er es rief oder nicht: der Becher auf dem Tuch, das Teeblatt, das sich ohne Rühren gehoben hatte, der Dampf aus einem Becher, der kalt gewesen war. Ihre Finger, die sich nicht bewegt hatten. Die Konzentration auf ihrem Gesicht.
 
-Dann das andere Bild, das er sich nicht geholt hatte. Wie dieser Körper — der Schlagstöße kannte und Holz und dreißig Jahre Handwerk — sich gesenkt haben würde. Knie auf dem Schuppenboden. Die Hände auf den Oberschenkeln, die Handflächen nach oben, offen.
+Dann das andere Bild, das er sich nicht geholt hatte. Wie dieser Körper sich gesenkt haben würde. Knie auf dem Schuppenboden. Die Hände auf den Oberschenkeln, die Handflächen nach oben, offen.
 
 Er legte die Lupe zur Seite. Das Federhauslager war noch nicht fertig. Er nahm die Lupe wieder.
 
@@ -30,7 +30,11 @@ Vesper räumte die Samtrolle an den Rand des Reparaturtischs, legte die Pinzette
 
 "Setzen Sie sich."
 
-Sorel setzte sich, den Mantel lehnte er nicht ab. Er legte die Hände auf die Tischkante und dann, als er bemerkte, dass er sie dort zu lange liegen ließ, in den Schoß. Vesper zählte die Sekunden nicht, aber sein Kopf zählte. Acht, bis Sorel den ersten Satz fand.
+Sorel setzte sich, den Mantel legte er nicht ab. Er legte die Hände auf die Tischkante und dann, als er bemerkte, dass er sie dort zu lange liegen ließ, in den Schoß. Vesper zählte die Sekunden nicht, aber sein Kopf zählte. Acht, bis Sorel den ersten Satz fand.
+
+"Alphina sagte, Sie hören, wenn Uhren falsch laufen."
+
+Vesper neigte den Kopf. Eine halbe Bewegung.
 
 "Ich werde Ihnen etwas erzählen. Systematisch. Ich habe es so aufgeschrieben, wie man eine Entwicklungsreihe aufschreibt — was beobachtet, was ausgeschlossen, was übrig. Ich bitte Sie, zuzuhören, bevor Sie antworten."
 
@@ -44,13 +48,9 @@ Er zeigte es nicht. Er beschrieb es. Vesper sah die Geste trotzdem vor sich, so 
 
 Vesper hielt den Blick auf dem Tischholz. Die Pinzette lag quer über der Samtrolle, und an der Kante lag ein Staubkorn, das er beim ersten Durchgang übersehen hatte.
 
-Sorel sprach weiter. Er kam auf Alphina. Sie hatte die Wunde an seinem Handrücken angefasst. Drei Sekunden, vielleicht vier. Die Stelle war nicht weniger geworden und nicht mehr. Sie war eine andere Stelle geworden. Narbe am nächsten Morgen, die nicht hätte dort sein dürfen. Er hatte sie seitdem zweimal untersucht. Eine Brandnarbe von zwei Wochen, nicht eine Brandwunde von einer Nacht.
+Sorel sprach weiter. Er kam auf Alphina. Sie hatte die Wunde an seinem Handrücken angefasst. Drei Sekunden, vielleicht vier. Die Wunde war nicht weniger geworden und nicht mehr. Sie war älter geworden. Narbe am nächsten Morgen, die nicht hätte dort sein dürfen. Er hatte sie seitdem zweimal untersucht. Eine Brandnarbe von zwei Wochen, nicht eine Brandwunde von einer Nacht.
 
-"Sie hat sie nicht geheilt. Sie hat sie vorgezogen. Das ist ein Unterschied."
-
-Sorel ließ diesen Satz sich ausbuchten; der Rest kam in derselben flachen Tonspur wie zuvor.
-
-Vesper registrierte, dass Sorel Fotograf war. *Vorziehen. Auszug. Schicht.* Der Wortschatz eines Mannes, der mit Entwicklerlösung arbeitete.
+"Sie hat sie nicht geheilt. Sie hat sie alt gemacht. Das ist ein Unterschied."
 
 Dann kamen die Platten. Sorel sprach jetzt langsamer, weil er die Reihenfolge im Kopf neu ordnete, während er sprach. Er hatte ein Bild von ihr gemacht, im Garten, eine Frau am Farn, sauber belichtet. Er hatte die Platte entwickelt und dabei ein zweites Bild gefunden, das er nicht fotografiert hatte. Dasselbe Negativ, dieselbe Emulsion, zwei Bilder übereinander. Er hatte gedacht: vorbelichtete Charge. Er hatte eine ungeöffnete Platte aus demselben Karton getestet — sie war leer geblieben. Die Charge war sauber.
 
@@ -62,7 +62,7 @@ Sorel erzählte drei der Bilder. Das Lichthaus bei Dämmerung. Alphina im Garten
 
 Die Lücke war sauber. Vesper sah sie so deutlich, als hätte Sorel sie mit dem Finger umrandet. Er fragte nicht nach. Er legte die Auslassung neben die anderen Teile auf den Tisch und ließ sie dort liegen.
 
-"Das ist, was ich habe", sagte Sorel am Ende. "Alphina hat Ihren Namen gesagt. Sie sagte, wenn jemand in dieser Stadt wüsste, wie man einen Systemfehler liest, dann Sie."
+"Das ist, was ich habe", sagte Sorel am Ende. "Alphina sagte, Sie hören anders zu als die meisten."
 
 Vesper legte die Fingerspitzen aufeinander. Die Pinzette rollte ein halbes Zehntel nach rechts und blieb wieder liegen. Er ließ Sorels letzten Satz drei Atemzüge zwischen ihnen stehen.
 
@@ -70,7 +70,7 @@ Vesper legte die Fingerspitzen aufeinander. Die Pinzette rollte ein halbes Zehnt
 
 Er zog das Notizbuch aus der Innentasche des Mantels, der über der Stuhllehne hing. Er schlug die hintere Einlage auf, löste die Karte aus der Falz, faltete sie auf dem Reparaturtisch auseinander. Die Velinkopie, die er in der vergangenen Woche neben Runas Adressen gezeichnet hatte. Sechzehn Uhren. Ein siebzehnter Kreuzpunkt am unteren Kartenrand. Vier Bögen in vier Stärken um einen Mittelpunkt in der Oberstadt.
 
-"Ich habe seit sechs Wochen siebzehn Uhren in Vael gemessen. Sechzehn von ihnen verlieren pro Tag zwischen elf Sekunden und zwei Minuten dreiundzwanzig. Die siebzehnte, unten am Grauwe-Ufer, verliert täglich exakt vier Minuten dreiunddreißig — immer. Sie ist der älteste Datenpunkt in der Stadt und passt in keines der Muster der anderen sechzehn."
+"Ich habe seit sechs Wochen siebzehn Uhren in Vael gemessen. Sechzehn von ihnen verlieren pro Tag zwischen elf Sekunden und zwei Minuten dreiundzwanzig. Die siebzehnte, unten am Grauwe-Ufer, hat stündlich exakt vier Minuten dreiunddreißig verloren — immer denselben Betrag, bis ich sie vor zwei Wochen wieder rein eingestellt habe. Sie ist der älteste Datenpunkt in der Stadt und passt in keines der Muster der anderen sechzehn."
 
 Er drehte die Karte so, dass sie für Sorel lesbar war, ohne sie ganz herumzuschieben.
 
@@ -88,15 +88,15 @@ Sorel atmete einmal ein, länger als vorher. Er sagte nichts. Vesper wartete, bi
 
 Er strich mit dem Finger den Flussverlauf entlang bis zu dem Kreuz am unteren Kartenrand.
 
-"Die siebzehnte Uhr verliert zwei Minuten siebenundzwanzig. Weniger als die Standuhr im Tidemoor-Haus war. Wenn die Tidemoor-Uhr im Mittelpunkt eines zweiten Musters säße, dann säße sie gleichzeitig im Zentrum und am Rand der Stadt. Beides ist möglich. Beides ist nicht Zufall."
+"Die nähere von beiden verliert stündlich eine Minute zwölf, die andere stündlich vierzig Sekunden. Beide weniger als die Tidemoor-Uhr. Wenn die Tidemoor-Uhr im Mittelpunkt eines zweiten Musters säße, dann säße sie gleichzeitig im Zentrum und am Rand der Stadt. Beides ist möglich. Beides ist nicht Zufall."
 
 Sorel schwieg jetzt zwei ganze Atemzüge. Dann tippte er selbst auf die Karte, nicht auf den Mittelpunkt, sondern auf jenen Punkt, an dem sein Lichthaus lag. Vesper sah es und nickte. Der Punkt lag auf dem äußersten Ring, am Rand. Die Drift dort war klein. Nicht klein genug, um sie zu ignorieren.
 
-"Es gibt einen dritten Teil", sagte Vesper. "Er passt nicht in die Ringe. Er passt daneben. Ich habe gestern mittag auf der Werft eine Frau gesehen. Sie heißt Maren Ilves. Sie baut Boote. Sie hat mir, ohne dass ich sie darum gebeten hätte, gezeigt, wie sie einen Strudel in eine Tasse Tee bringt, ohne sie anzufassen. Das Wasser in der Tasse war vorher kalt gewesen. Als sie aufhörte, dampfte es."
+"Es gibt einen dritten Teil", sagte Vesper. "Er passt nicht in die Ringe. Er passt daneben. Ich habe gestern mittag auf der Werft eine Frau gesehen. Sie heißt Maren Ilves. Sie baut Boote. Sie hat mir gezeigt, wie sie einen Strudel in eine Tasse Tee bringt, ohne sie anzufassen. Das Wasser in der Tasse war vorher kalt gewesen. Als sie aufhörte, dampfte es."
 
 Seine Finger auf dem Kartenrand waren flach geworden, ohne dass er sie flachgelegt hätte. Er nahm den Druck nicht zurück. Er ließ ihn dort, wo er war.
 
-"Sie hat es mir gezeigt. Nachdem ich ihr erzählt hatte, was ich kann. Sie hat zugehört. Dann hat sie mir den Becher hingestellt."
+"Sie hat es mir gezeigt. Nachdem ich ihr erzählt hatte, was ich kann. Sie hat zugehört."
 
 Vesper hob den Blick von der Karte auf Sorels Gesicht. Die Haut um Sorels Mund stand weiß.
 
@@ -118,23 +118,19 @@ Das war keine Frage. Vesper antwortete trotzdem.
 
 ---
 
-Sorel lehnte sich das erste Mal am Abend zurück. Der Stuhl unter ihm gab nach einer Sekunde den leisen Laut aus, den alte Gasthausstühle im Anker im Winter gaben und im Mai fast nicht mehr. Vesper registrierte es und legte es zu den anderen kleinen Tönen des Raums — das Dampfen der Petroleumlampe, das Knarren der Diele vor der Tür, ein Gespräch zwei Zimmer weiter, bei dem er die Worte nicht verstand, nur den Rhythmus.
+Sorel lehnte sich das erste Mal am Abend zurück. Der Stuhl unter ihm gab nach einer Sekunde den leisen Laut aus, den alte Gasthausstühle im Anker im Winter gaben und im Blütenmond fast nicht mehr. Vesper registrierte es und legte es zu den anderen kleinen Tönen des Raums — das Dampfen der Petroleumlampe, das Knarren der Diele vor der Tür, ein Gespräch zwei Zimmer weiter, bei dem er die Worte nicht verstand, nur den Rhythmus.
 
-"Alphina." Sorel sagte es wie jemand, der den Namen behutsam aus einer Tasche nahm. "Ich habe sie im Garten gesehen, weil die Farne sich nach ihr drehen. Zuerst dachte ich, das ist Wind. Dann habe ich darauf gewartet, dass es Wind war. Es war keiner. Die Farne drehen sich nach ihr, auch wenn sie vorbeigeht, ohne hinzusehen. Die drei Wedel, die ich zu verschiedenen Tageszeiten beobachtet habe, drehen jedes Mal."
+"Alphina." Sorel sagte es wie jemand, der den Namen behutsam aus einer Tasche nahm. "Die Farne drehen sich nach ihr. Drei Wedel, zu verschiedenen Tageszeiten. Jedes Mal. Kein Wind."
 
 Vesper nickte einmal. Er wartete.
 
-"Und die Platten. Sie erscheint auf Platten, auf denen sie nicht hätte sein dürfen. Sie war nicht im Rahmen. Ich habe die Kamera gerichtet auf —" Er hielt einen Moment und fand eine andere Formulierung. "Auf etwas anderes. Sie steht auf dem Bild trotzdem. Einmal lehnend, einmal mit dem Gesicht zur Seite. Einmal —" Wieder Bruch. Er kam nicht darauf zurück.
+"Auf den Platten steht sie auch dort, wo ich sie nicht fotografiert habe."
 
-"Sie erscheint, weil Sie fotografieren", sagte Vesper nach einem Atemzug. "Nicht, weil Ihre Kamera fotografiert. Das sagten Sie vorhin. Das ist der Punkt."
+"Weil Sie fotografieren", sagte Vesper. "Nicht die Kamera. Das sagten Sie vorhin."
 
 "Ja."
 
-"Ich habe einen dazu. Der Mittelpunkt meiner Ringe liegt im Steinkreis, das sagte ich. Ich habe nicht gesagt, warum. Die Pflanzen im Garten verhalten sich seit Wochen anders — das hat mir Alphina gezeigt, beim letzten Mal, als ich dort war. Runa druckt die Berichte, und einer der Berichte betrifft den Garten. Ich habe die Drift-Anomalien im Umkreis des Gartens selbst gemessen. Der stärkste Ring — die zwei Minuten am Tag — liegt genau über dem Kreis. Wenn eine Person mit einer —" Er suchte das Wort drei Atemzüge lang. "— mit einer Neigung zum Wachstum in einem Haushalt wohnt, das im Mittelpunkt der stärksten Drift steht, dann frage ich mich, was passiert."
-
-Er sah Sorel an.
-
-"Sie arbeitet dort." Er wusste das. "Sie wohnt hier, zwei Türen weiter."
+Vesper tippte auf den Mittelpunkt der Ringe. "Die Pflanzen im Garten verhalten sich seit Wochen anders. Das hat sie mir selbst gezeigt. Der stärkste Ring liegt direkt über dem Steinkreis. Dort arbeitet sie jeden Tag."
 
 Sorel nickte langsam. Vesper sah, wie er den Kopf drei Sekunden zu lange nach unten hielt, bevor er ihn wieder hob.
 
@@ -206,7 +202,7 @@ Er ging zuerst in den Keller.
 
 Die Stufen waren acht, auf der fünften saß ein lockeres Brett. Er setzte die Ferse auf den festen Rand und ging weiter. Unten war die Luft warm. Keine Heizung im Haus. Eine Wärme, die aus dem Stein kam, als arbeitete etwas unter ihm, das er nicht sehen konnte. Er ging drei Schritte bis zur Rohrleitung, hob die Hand und hielt sie eine Handbreit unter das Eisenrohr. Das Rohr war warm. Er öffnete den Hahn an der Wand, ließ einen Finger Wasser in die Schale fließen, hielt ihn hinein. Dampfend. Er schloss den Hahn wieder.
 
-Das Wasser kam aus einer Leitung, die keinen Kessel hatte. Vesper hatte das an seinem ersten Besuch zwei Stunden lang durchgeprüft, mit dem Mann, der im Haus für die Rohre zuständig war. Es gab keinen Kessel im Haus. Es gab keinen Warmwasserspeicher. Das Wasser, das in dieses Rohr lief, kam aus dem städtischen Brunnensystem unter dem Grauwe-Ufer, und das Grauwe-Wasser im Mai hatte elf Grad. Das Wasser hier hatte fünfzig.
+Das Wasser kam aus einer Leitung, die keinen Kessel hatte. Vesper hatte das an seinem ersten Besuch zwei Stunden lang durchgeprüft, mit dem Mann, der im Haus für die Rohre zuständig war. Es gab keinen Kessel im Haus. Es gab keinen Warmwasserspeicher. Das Wasser, das in dieses Rohr lief, kam aus dem städtischen Brunnensystem unter dem Grauwe-Ufer, und das Grauwe-Wasser im Blütenmond hatte elf Grad. Das Wasser hier hatte fünfzig.
 
 Er ging ans Kellerfenster. Drei Rillen im Holz, in das Holz hineingeschnitten. Er legte die Daumenkuppe auf die mittlere. Warm. Nicht heiß. Die Temperatur, die Sorel ihm vorhin beschrieben hatte — der Schlag auf den Handrücken, die Hitze, die kein Feuer gebraucht hatte, um zu brennen. Er hatte es beim Zuhören registriert, ohne es mit der Kerbe hier zu verbinden. Jetzt verband er.
 
@@ -218,7 +214,7 @@ Er legte die Hand auf das Gehäuse, auf die Höhe, auf der der Zeiger stand. Die
 
 Kein Verlust.
 
-Beim ersten Besuch hatte die Uhr unter seiner Hand die ersten drei Minuten rein getickt und zweihundertdreiundsiebzig Sekunden pro Tag verloren, sobald er die Hand wegnahm. Beim zweiten Besuch, vor zwei Wochen, hatte er ihr den sauberen Schlag aus der eigenen Brust durch die Handfläche vorgelegt — nicht als Hand, als Form. Als ein stiller Satz: *So. Genau so. Behalte diesen Schlag.* Seitdem lief sie ohne Unterbrechung rein. Kvarns Taschenuhr in seinem Zimmer hatte seit jenem Abend ebenfalls keine Drift mehr gezeigt.
+Beim ersten Besuch hatte die Uhr unter seiner Hand die ersten drei Minuten rein getickt und stündlich zweihundertdreiundsiebzig Sekunden verloren, sobald er die Hand wegnahm. Beim zweiten Besuch, vor zwei Wochen, hatte er ihr den sauberen Schlag aus der eigenen Brust durch die Handfläche vorgelegt — nicht als Hand, als Form. Als ein stiller Satz: *So. Genau so. Behalte diesen Schlag.* Seitdem lief sie ohne Unterbrechung rein. Kvarns Taschenuhr in seinem Zimmer hatte seit jenem Abend ebenfalls keine Drift mehr gezeigt.
 
 Er ließ die Hand liegen. Die Uhr tickte weiter.
 
