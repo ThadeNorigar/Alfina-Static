@@ -12,7 +12,9 @@ import os
 import re
 import html
 
-# Mapping: Kapitel-ID -> (Datei, Commit-mit-Aenderung)
+# Mapping: Kapitel-ID -> (Datei, Basis-Commit)
+# Basis = der erste Lektorats-Commit dieser Session. Kopf ist IMMER HEAD,
+# damit spaetere Folge-Commits (auch manuelle) automatisch mit angezeigt werden.
 CHAPTERS = [
     ("B1-K17", "buch/kapitel/B1-K17-maren.md", "f49dd66"),
     ("B1-K18", "buch/kapitel/B1-K18-vesper.md", "f46be4e"),
@@ -21,6 +23,7 @@ CHAPTERS = [
     ("B1-K21", "buch/kapitel/B1-K21-alphina.md", "40ab43b"),
     ("B1-K22", "buch/kapitel/B1-K22-maren.md", "b67cd9b"),
 ]
+HEAD_REF = "HEAD"
 
 OUT_DIR = "story-in-work/lektorat-diffs"
 
@@ -101,17 +104,19 @@ def make_nav():
         parts.append(f'<a href="{kid}.html">{kid}</a>')
     return f'<div class="nav">{" ".join(parts)}</div>'
 
-def render(kid, path, commit):
-    old = get_file_at(f"{commit}^", path)
-    new = get_file_at(commit, path)
+def render(kid, path, base):
+    old = get_file_at(f"{base}^", path)
+    new = get_file_at(HEAD_REF, path)
     body = diff_inline(old, new)
 
-    msg = subprocess.check_output(
-        ["git", "log", "-1", "--format=%s", commit],
+    # Liste aller Commits zwischen Basis^ und HEAD, die diese Datei veraendert haben
+    log = subprocess.check_output(
+        ["git", "log", "--format=%h %s", f"{base}^..{HEAD_REF}", "--", path],
         text=True, encoding="utf-8",
     ).strip()
 
     nav = make_nav()
+    log_html = "<br>".join(html.escape(line) for line in log.splitlines()) or "(keine Aenderungen)"
     html_out = f"""<!DOCTYPE html>
 <html lang="de"><head>
 <meta charset="utf-8">
@@ -120,11 +125,12 @@ def render(kid, path, commit):
 </head><body>
 {nav}
 <h1>Lektorat-Diff: {kid}</h1>
-<div class="meta">Commit: {commit} &middot; {html.escape(msg)}</div>
+<div class="meta">Basis: {base}^ &middot; Kopf: HEAD</div>
 <div class="legend">
   <strong>Legende:</strong>
   <del>geloeschter Text</del> &nbsp; <ins>neuer Text</ins> &nbsp;
   <span class="unchanged">unveraenderte Absaetze</span>
+  <div style="margin-top:0.6rem;font-size:0.8rem;color:#888;"><strong>Commits in diesem Bereich:</strong><br>{log_html}</div>
 </div>
 {body}
 </body></html>"""
@@ -135,10 +141,10 @@ def main():
 
     # Index-Seite
     index_links = []
-    for kid, path, commit in CHAPTERS:
+    for kid, path, base in CHAPTERS:
         out_path = os.path.join(OUT_DIR, f"{kid}.html")
         with open(out_path, "w", encoding="utf-8") as f:
-            f.write(render(kid, path, commit))
+            f.write(render(kid, path, base))
         index_links.append(f'<li><a href="{kid}.html">{kid}</a></li>')
         print(f"  -> {out_path}")
 
