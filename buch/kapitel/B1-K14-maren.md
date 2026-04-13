@@ -1,6 +1,6 @@
 # B1-K14 — Maren
 
-*19. Mai 551 · 8 Wochen 1 Tag in Vael*
+*17. Blütenmond 551 · 7 Wochen 3 Tage in Vael*
 
 Die Schiffsuhr lag warm in ihrer Hosentasche, eine Kante aus Messing gegen den Schenkel, das die Hitze ihres eigenen Körpers nahm und zurückgab. Maren hatte sie heute morgen aus Harons Werkzeugschublade geholt, unter einem Bund Schnurkeile, unter einer Rolle Wachsgarn. Sie hatte die Uhr einmal geschüttelt. Still. Sie hatte die Uhr ans Ohr gehalten. Still. Der Glasdeckel hatte einen feinen Riss, schräg von der Elf zur Sechs, so fein dass man ihn nicht sah, bevor man ihn suchte. Sie wusste nicht, ob die Uhr je gegangen war. Sie wusste nur, dass ein Boot, das auf seinen Böcken lag und auf Wasser wartete, eine funktionierende Schiffsuhr brauchte.
 
