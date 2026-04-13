@@ -26,7 +26,7 @@ Sie hatte es seit acht Wochen in der Leiste liegen. Sie hatte niemanden gehabt, 
 
 Sie schlug das Blatt einmal zusammen, sehr vorsichtig, entlang einer Linie, die Haron selbst gezogen hatte, damit es sich falten ließ, ohne dass die Zeichnung brach. Sie legte es in die Innentasche ihrer Jacke. Holte den Schlüssel vom Haken. Schob das Tor der Werft auf die halbe Breite, wie sie es immer tat, wenn sie weg musste und Edric noch nicht da war. Der Zettel mit dem *In der Stadt* lag schon auf der Bank, sie schrieb ihn nie neu.
 
-Der Weg zum *Anker* war acht Minuten durch die Hafengasse, am Steg vorbei, wo die Flut höher stand als sie am Morgen gestanden hatte. Die Luft trug Salz und etwas anderes, die Algen, die in der Nacht an die Pfähle gedrückt worden waren. Sie ging schnell. Ihre Schultern waren schon vor dem ersten Schritt weiter gewesen als sie.
+Der Weg zum *Anker* war acht Minuten durch die Hafengasse, am Steg vorbei, wo die Flut höher stand als sie am Morgen gestanden hatte. Die Luft trug Salz und etwas anderes, die Algen, die in der Nacht an die Pfähle gedrückt worden waren. Sie ging schnell. Ihre Schultern drängten vorwärts, bevor die Füße mitkamen.
 
 Im *Anker* war es noch früh genug, dass der Mittagsbetrieb nicht angefangen hatte. Die Wirtsfrau nickte ihr zu, sie nickte zurück, ging durch den Schankraum in den kleinen Nebenraum, in dem Vesper seinen Reparaturtisch hatte. Die Tür stand einen Spalt offen, wie immer. Ein Streifen Licht aus dem Fenster lag auf dem Holz des Flurs.
 
@@ -56,7 +56,7 @@ Er griff mit beiden Händen, an den Kanten, und hob das Papier an, so wie er Uhr
 
 Seine Augen gingen zuerst an den Rand. Umrundeten das Blatt, links oben nach rechts oben, rechts oben nach rechts unten, die langsame Bewegung eines Mannes, der einen Raum vermisst, bevor er ihn betritt. Erst dann die Mitte. Erst dann die Zeichnung.
 
-Er sagte nichts. Seine linke Hand lag flach neben dem Blatt, die rechte am unteren Rand. Er hatte die Lupe nicht wieder ans Auge genommen. Sie bemerkte, dass er die Schrift ohne Vergrößerung las, oder die Form ohne Vergrößerung las — sie wusste nicht, was er las, sie sah nur, dass er es ohne Lupe tat.
+Er sagte nichts. Seine linke Hand lag flach neben dem Blatt, die rechte am unteren Rand. Er hatte die Lupe nicht wieder ans Auge genommen. Sie bemerkte, dass er ohne Lupe las — ob Schrift oder Form, sie wusste es nicht.
 
 Sie stand eine halbe Minute dort, ohne zu wissen, wohin mit sich. Dann sah sie das Notizbuch neben seinem Ellbogen, aufgeschlagen, an der Seite mit den Zählzeichen, die er seit Wochen führte, und sie sah, wie zwischen den Notizbuch-Seiten drei lose Blätter herausstanden, in falscher Reihenfolge. Sie griff danach. Zog sie heraus. Sortierte die Zahlenspalten nach Datum — oben stand das Datum, er schrieb es immer oben rechts — und legte sie in der richtigen Reihenfolge zurück. Er sah kurz auf, sah was sie tat, sah wieder auf das Blatt. Kein Nicken. Kein Dank. Seine linke Hand hatte sich nicht bewegt.
 
@@ -162,7 +162,7 @@ Sie stand eine Sekunde still, ohne dass sie die Sekunde bemerkte. Der Name, den 
 
 Sie spürte Vespers Schulter, nicht weil sie sie berührte — er stand zwei Handbreit von ihr entfernt —, sondern weil seine Jacke einen Laut machte, als er sich weiter beugte, um die dritte Zeile nachzulesen. Der Stoff gegen Stoff, sein Ärmel gegen die Innenkante seines Mantels. Ein kurzes Geräusch. Er legte die linke Hand flach auf den Tresen, zwei Finger breit neben ihrer. Er sah weiter auf das Buch. Er sagte nichts.
 
-Maren atmete einmal ein. Das Brustbein richtete sich. Das Holz war nicht Holz gewesen. Gut, jetzt wusste sie es. Sie sah auf das dritte Buch, las den Randvermerk noch einmal.
+Maren atmete einmal ein. Das Brustbein richtete sich. Der Name war kein Halt gewesen. Gut, jetzt wusste sie es. Sie sah auf das dritte Buch, las den Randvermerk noch einmal.
 
 "Dahl ist ein Vaeler Name." Frau Voss sprach ruhig, sie wertete nicht. "Lene Dahls Familie hat die Werft seit fast vierhundert Jahren, eine ununterbrochene Linie. Die anderen Eintragungen — die von einhundertneunundvierzig, die von zweihundertfünfundvierzig — sind nicht dieselbe Familie. Der Name taucht auf. Die Person ist eine Weile da. Dann ist sie wieder weg."
 
@@ -202,7 +202,7 @@ Maren ging ein wenig vor. Oder neben ihm. Der Abstand zwischen ihnen hatte sich 
 
 Sie blieb stehen. Setzte sich nicht — sie hockte sich an den Rand, wo der Weg zwei Handbreit über dem Wasser lag, die Füße flach auf dem Holz, die Ellbogen auf den Knien, eine Hand ausgestreckt, eine Daumenbreite über der Oberfläche. Sie hatte das nicht geplant. Ihre Hand war dort, bevor sie überlegt hatte, ob sie dort sein wollte.
 
-Das Wasser antwortete. Ohne dass sie die Finger senkte. Eine Kräuselung, dort, wo ihre Hand in der Luft stand. Ein leises Drehen der Wellen gegen die Strömung, die zum Meer zog — ein halbfacher Kreis, groß wie eine Suppenschüssel, der sich schloss, sich wieder öffnete, noch einmal schloss. Das Wasser tat es. Sie sah zu. Sie rief es nicht. Sie hielt es nicht. Es geschah, und sie bemerkte es, so wie man bemerkt, dass der eigene Atem in einem Moment tiefer ging als im Moment davor.
+Das Wasser antwortete. Ohne dass sie die Finger senkte. Eine Kräuselung, dort, wo ihre Hand in der Luft stand. Ein leises Drehen der Wellen gegen die Strömung, die zum Meer zog — ein halber Kreis, groß wie eine Suppenschüssel, der sich schloss, sich wieder öffnete, noch einmal schloss. Das Wasser tat es. Sie sah zu. Sie rief es nicht. Sie hielt es nicht. Es geschah, und sie bemerkte es, so wie man bemerkt, dass der eigene Atem in einem Moment tiefer ging als im Moment davor.
 
 Vesper stand zwei Schritte hinter ihr. Er sprach nicht. Die Sohle seines Stiefels setzte nicht um. Er sah das Wasser. Oder er sah ihren Rücken. Sie wusste nicht, was er sah. Sie brauchte es nicht zu wissen.
 

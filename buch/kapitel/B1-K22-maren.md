@@ -22,7 +22,7 @@ Maren wartete. Alphina sagte nichts mehr. Klappte das Notizbuch zu. Ging an Mare
 
 Maren stand im Treppenhaus. Die Pflanze stand da. Keiner von ihnen hatte sie herausgerissen.
 
-Ich kenne sie nicht war etwas. Das wächst hier nicht war etwas anderes.
+*Ich kenne sie nicht* wäre eine Antwort gewesen. *Das wächst hier nicht* war eine andere.
 
 Sie ging weiter nach unten, durch den Schankraum, in dem die Wirtsfrau das Frühstücksholz schon in den Ofen geschoben hatte, und hinaus in die Hafengasse. Das Tor schloss sie hinter sich. Die Pflanze ließ sie stehen.
 
@@ -54,7 +54,7 @@ Hände auf Holz. Sie atmete langsam.
 
 Pflanze, die nicht hierher gehört. Wasser, das zu warm ist. Sie hatte die Gestalten gesehen an diesem Boot — nachts, drei Wochen her jetzt. Sie hatte das Wasser rückwärts fließen sehen, Tohl hatte es ihr gezeigt. Sie hatte das Pochen gespürt, unter der Erde, eine Nacht, einmal. Jedes dieser Dinge war angekündigt worden. Immer hatte etwas nachgegeben, bevor das Nächste kam.
 
-Heute nicht. Keine Vorrede. Die Pflanze war einfach da gewesen, und das Wasser war einfach warm. Sie kamen durch.
+Heute nicht. Keine Vorrede. Die Pflanze war einfach da gewesen, und das Wasser war einfach warm. Etwas drückte durch.
 
 Sie setzte den Hobel ab. Strich mit der flachen Hand über die Planke, prüfte die Linie — glatt, die Wölbung war weg. Drei Striche. Genug. Sie nahm das Schleifpapier, legte die Fläche mit der rechten Hand leicht dagegen, zog zweimal von Bug nach Heck.
 
