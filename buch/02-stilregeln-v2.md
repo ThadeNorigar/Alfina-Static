@@ -214,16 +214,18 @@ Kursiv ist für **kurze, fast ausgesprochene** Einwürfe — Dinge, die die Figu
 
 ### Berufslinse
 
-Jede sensorische Beobachtung geht durch die **Berufslinse** der POV-Figur — und nur durch sie.
+Die **Berufslinse** ist ein **verfügbares Register**, kein Zwang. Jede Figur hat ihren Fachwortschatz — aber sie ist auch ein normaler Mensch und greift ihn nicht in jedem zweiten Satz. Die Linse schärft Beobachtungen in relevanten Momenten (Figur schaut auf ihr Material, Figur arbeitet, Figur übersetzt die Welt für sich) — in alltäglichen Momenten spricht und denkt sie wie jede andere Person auch.
 
-| Figur | Welt erscheint als |
+| Figur | Fachwortschatz (verfügbar, nicht verpflichtend) |
 |-------|---------------------|
 | Alphina (Botanikerin) | Wachstum, Wurzeln, Druck, Risse, Verwitterung |
 | Sorel (Fotograf) | Licht, Kontrast, Belichtung, Bildkante, Tonwert |
 | Vesper (Uhrmacher) | Toleranz, Eingriff, Passung, Zahnrad, Hemmung |
 | Maren (Schiffbauerin) | Strömung, Druck, Auftrieb, Salz, Holzfaser |
 
-**Eine Steinleserin sieht Risse, nicht Farnnamen.** Bruch der POV-Linse = Finding.
+**Dosierung:** Pro Kapitel 3-5 starke Berufslinsen-Momente — dort, wo der Fachwortschatz etwas zeigt, das andere Wörter nicht zeigen würden (Maren sieht "Tiefgangslinie", wo eine Städterin "Wasserlinie" sähe). Dazwischen: normale Sprache. Wenn der Ton dauerhaft fachsprachlich wird, wird die Figur zur Karikatur.
+
+**Bruch der Linse** ist ein Finding (z.B. Alphina nennt Tonwerte = fremdes Register einmischen). **Abwesenheit der Linse** in Alltagsszenen ist dagegen korrekt — die Figur muss nicht ständig übersetzen.
 
 ### Innerer Konflikt durch Widerspruch zeigen
 

@@ -75,7 +75,8 @@ Folgende Stilmittel sind DEFAULT VERBOTEN. Einsatz nur nach bewusster Entscheidu
 | Stakkato (Fragmentsätze <4W) | VERBOTEN | Schock, Inventur, einzelner Hammerschlag |
 | Erklärende Nachsätze | VERBOTEN | Gedankengang der Figur braucht es als Erkenntnis |
 | Metapher + Erklärung | VERBOTEN | NIE. Bild stehen lassen. |
-| Emotionen benennen | VERBOTEN | NIE. Körper zeigen. |
+| Emotionen benennen (Narrator-Tag von außen) | VERBOTEN | NIE. Körper zeigen. |
+| Emotionen benennen (Figuren-Selbsterkenntnis) | ERLAUBT | Wenn die Figur selbst das Gefühl erkennt — IMMER gekoppelt mit Körper-Markern aus ihrem POV-Register |
 | Analyse in Kontrollverlust-Momenten | VERBOTEN | Die Figur darf nicht denken wenn der Körper übernimmt |
 | Tempo-Monotonie (nur 1 Register) | VERBOTEN | NIE. Min. 2 Register pro Kapitel |
 | Begehren nur über Puls/Handgelenke | VERBOTEN | Breiteres POV-spezifisches Register verwenden |
