@@ -84,3 +84,8 @@ if warnings:
     print('\\n'.join(warnings))
 print(f'generate-lesen: {count} Kapitel-Seiten generiert')
 " 2>&1
+
+# Lektorats-Versions-JSON aktualisieren (fuer Aenderungen-Toggle im Reader)
+if [ -f scripts/lektorat-versions.py ]; then
+  "$PYTHON" scripts/lektorat-versions.py 2>&1 | tail -3 || echo "  (lektorat-versions: Fehler ignoriert)"
+fi

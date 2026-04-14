@@ -6,7 +6,26 @@
       "mcp__plugin_playwright_playwright__browser_evaluate",
       "mcp__plugin_playwright_playwright__browser_take_screenshot",
       "mcp__plugin_playwright_playwright__browser_run_code",
-      "Skill(update-config)"
+      "Skill(update-config)",
+      "Bash(mv /c/Users/micro/.claude/commands/model.md /c/Users/micro/.claude/commands/model-django.md)",
+      "Bash(mv /c/Users/micro/.claude/command-sets/django/model.md /c/Users/micro/.claude/command-sets/django/model-django.md)"
     ]
-  }
+  },
+  "enabledPlugins": {
+    "pyright-lsp@claude-plugins-official": false,
+    "security-guidance@claude-plugins-official": false,
+    "playwright@claude-plugins-official": false,
+    "frontend-design@claude-plugins-official": false,
+    "superpowers@claude-plugins-official": false,
+    "beads@beads-marketplace": false,
+    "github@claude-plugins-official": false
+  },
+  "disabledMcpjsonServers": [
+    "pencil",
+    "claude_ai_Atlassian",
+    "claude_ai_Gmail",
+    "claude_ai_Google_Calendar",
+    "claude_ai_Hugging_Face"
+  ],
+  "hooks": {}
 }

@@ -312,6 +312,88 @@
       .prose p { font-size: 1.05rem; line-height: 1.9; }
     }
 
+    /* ===== Diff-Modus ===== */
+    .diff-panel {
+      display: none;
+      padding: 0.8rem 2.5rem 0.8rem 3.5rem;
+      border-bottom: 1px solid var(--accent-faint);
+      background: rgba(107,58,58,0.03);
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.8rem;
+      color: var(--muted);
+      align-items: center;
+      gap: 0.6rem;
+      flex-wrap: wrap;
+    }
+    .diff-panel.active { display: flex; }
+    .diff-toggle-row {
+      padding: 0.5rem 2.5rem 0.5rem 3.5rem;
+      text-align: right;
+      border-bottom: 1px solid var(--accent-faint);
+      background: rgba(107,58,58,0.01);
+    }
+    .diff-toggle {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.72rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--smoke);
+      background: transparent;
+      border: 1px solid var(--paper-edge);
+      padding: 0.3rem 0.8rem;
+      border-radius: 2px;
+      cursor: pointer;
+      transition: color 0.2s, border-color 0.2s;
+    }
+    .diff-toggle:hover { color: var(--accent); border-color: var(--accent); }
+    .diff-toggle.active { color: var(--accent); border-color: var(--accent); background: rgba(107,58,58,0.05); }
+    .diff-pick-btn {
+      background: transparent;
+      border: 1px solid var(--paper-edge);
+      color: var(--muted);
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.8rem;
+      padding: 0.25rem 0.55rem;
+      border-radius: 2px;
+      cursor: pointer;
+      line-height: 1;
+    }
+    .diff-pick-btn:hover:not(:disabled) { color: var(--accent); border-color: var(--accent); }
+    .diff-pick-btn:disabled { opacity: 0.3; cursor: default; }
+    .diff-pick-select {
+      background: var(--paper);
+      border: 1px solid var(--paper-edge);
+      color: var(--ink);
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.85rem;
+      padding: 0.25rem 0.4rem;
+      border-radius: 2px;
+      flex-grow: 1;
+      min-width: 200px;
+    }
+    .diff-pick-label {
+      font-size: 0.7rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--smoke);
+    }
+    .prose ins { background: rgba(46,139,87,0.15); color: #2E8B57; text-decoration: none; padding: 0 2px; border-radius: 2px; }
+    .prose del { background: rgba(176,0,0,0.08); color: #962525; text-decoration: line-through; padding: 0 2px; border-radius: 2px; }
+    .prose .diff-deleted-block {
+      text-indent: 0;
+      margin: 0.4rem 0;
+      padding: 0.4rem 0.8rem;
+      background: rgba(176,0,0,0.03);
+      border-left: 2px solid rgba(176,0,0,0.3);
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1rem;
+      line-height: 1.7;
+      color: #8a5454;
+      font-style: italic;
+    }
+    .prose .diff-deleted-block del { background: transparent; color: inherit; }
+    .prose .diff-inserted { border-left: 2px solid rgba(46,139,87,0.3); padding-left: 0.6rem; margin-left: -0.8rem; }
+
     /* ===== Comment UI ===== */
     .prose p { position: relative; }
 
@@ -424,6 +506,16 @@
       <h1 class="chapter-title" id="ch-title"></h1>
       <div class="chapter-ornament">— · —</div>
       <div class="draft-badge" id="draft-badge"></div>
+    </div>
+
+    <div class="diff-toggle-row" id="diff-toggle-row" style="display:none;">
+      <button class="diff-toggle" id="diff-toggle" type="button">Änderungen ansehen</button>
+    </div>
+    <div class="diff-panel" id="diff-panel">
+      <span class="diff-pick-label">Version</span>
+      <button class="diff-pick-btn" id="diff-prev" type="button" title="Vorherige Version">◂</button>
+      <select class="diff-pick-select" id="diff-select"></select>
+      <button class="diff-pick-btn" id="diff-next" type="button" title="Nächste Version">▸</button>
     </div>
 
     <div class="prose" id="chapter"></div>
@@ -816,6 +908,120 @@
 
       document.addEventListener('chapter-rendered', (e) => {
         initComments(e.detail.container, e.detail.commentModus);
+      });
+    }
+
+    // ===== Diff-Modus — Lektorats-Versionen durchblättern =====
+    {
+      let versionsData = null;      // {base, versions:[...]}
+      let currentIdx = -1;          // Index in versionsData.versions
+      let diffActive = false;
+      let originalHtml = null;       // snapshot des aktuellen renderProsa-HTML
+
+      const toggleRow = document.getElementById('diff-toggle-row');
+      const toggle = document.getElementById('diff-toggle');
+      const panel = document.getElementById('diff-panel');
+      const selectEl = document.getElementById('diff-select');
+      const prevBtn = document.getElementById('diff-prev');
+      const nextBtn = document.getElementById('diff-next');
+      const prose = document.getElementById('chapter');
+
+      function formatDateShort(iso) {
+        const d = new Date(iso);
+        return d.toLocaleDateString('de-DE', { day: '2-digit', month: '2-digit', year: '2-digit' })
+          + ' ' + d.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' });
+      }
+
+      async function loadVersions() {
+        if (versionsData) return versionsData;
+        try {
+          const r = await fetch(`/story-in-work/lektorat-versions/${kapIdFull()}.json`);
+          if (!r.ok) return null;
+          versionsData = await r.json();
+          return versionsData;
+        } catch { return null; }
+      }
+
+      function kapIdFull() {
+        // "18" -> "B1-K18"; "I1" -> "B1-KI1". Nur Buch 1 unterstützt derzeit.
+        return `B1-K${kapId}`;
+      }
+
+      function populateSelect() {
+        selectEl.innerHTML = '';
+        versionsData.versions.forEach((v, i) => {
+          const opt = document.createElement('option');
+          opt.value = String(i);
+          opt.textContent = `${formatDateShort(v.date)} · ${v.short} — ${v.message.replace(/^fix\([^)]+\):\s*/, '').slice(0, 50)}`;
+          selectEl.appendChild(opt);
+        });
+        currentIdx = versionsData.versions.length - 1;
+        selectEl.value = String(currentIdx);
+      }
+
+      function showVersion(idx) {
+        currentIdx = idx;
+        selectEl.value = String(idx);
+        prevBtn.disabled = idx <= 0;
+        nextBtn.disabled = idx >= versionsData.versions.length - 1;
+        prose.innerHTML = versionsData.versions[idx].diffHtml;
+        // Reset Kommentar-Listener (bleiben in prose-p erhalten, aber keine Trigger hinzugefügt)
+      }
+
+      function restoreOriginal() {
+        if (originalHtml !== null) {
+          prose.innerHTML = originalHtml;
+          prose.dispatchEvent(new CustomEvent('chapter-rendered', {
+            bubbles: true,
+            detail: { container: prose, commentModus: 'final' }
+          }));
+        }
+      }
+
+      async function activate() {
+        const data = await loadVersions();
+        if (!data || !data.versions || data.versions.length === 0) {
+          toggle.textContent = 'Keine Änderungen';
+          toggle.disabled = true;
+          return;
+        }
+        originalHtml = prose.innerHTML;
+        populateSelect();
+        panel.classList.add('active');
+        toggle.classList.add('active');
+        toggle.textContent = 'Fertigen Text ansehen';
+        diffActive = true;
+        showVersion(currentIdx);
+      }
+
+      function deactivate() {
+        panel.classList.remove('active');
+        toggle.classList.remove('active');
+        toggle.textContent = 'Änderungen ansehen';
+        diffActive = false;
+        restoreOriginal();
+      }
+
+      toggle.addEventListener('click', () => {
+        if (diffActive) deactivate(); else activate();
+      });
+      selectEl.addEventListener('change', () => {
+        showVersion(parseInt(selectEl.value, 10));
+      });
+      prevBtn.addEventListener('click', () => {
+        if (currentIdx > 0) showVersion(currentIdx - 1);
+      });
+      nextBtn.addEventListener('click', () => {
+        if (currentIdx < versionsData.versions.length - 1) showVersion(currentIdx + 1);
+      });
+
+      // Toggle-Row nur im WIP-Modus und bei Lektorat/Final anzeigen
+      document.addEventListener('chapter-rendered', async (e) => {
+        if (!isWip) return;
+        const data = await loadVersions();
+        if (data && data.versions && data.versions.length > 0) {
+          toggleRow.style.display = 'block';
+        }
       });
     }
   </script>

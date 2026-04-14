@@ -30,11 +30,11 @@ Vesper räumte die Samtrolle an den Rand des Reparaturtischs, legte die Pinzette
 
 "Setzen Sie sich."
 
-Sorel setzte sich, den Mantel legte er nicht ab. Er legte die Hände auf die Tischkante und dann, als er bemerkte, dass er sie dort zu lange liegen ließ, in den Schoß. Vesper zählte die Sekunden nicht, aber sein Kopf zählte. Acht, bis Sorel den ersten Satz fand.
+Sorel setzte sich, den Mantel zog er nicht aus. Er legte die Hände auf die Tischkante und dann, als er bemerkte, dass er sie dort zu lange liegen ließ, in den Schoß. Vesper zählte die Sekunden nicht, aber sein Kopf zählte. Acht, bis Sorel den ersten Satz fand.
 
 "Alphina sagte, Sie hören, wenn Uhren falsch laufen."
 
-Vesper neigte den Kopf. Eine halbe Bewegung.
+Vesper neigte den Kopf. Eine halbe Bewegung. "Was haben Sie beobachtet?"
 
 "Ich werde Ihnen etwas erzählen. Systematisch. Ich habe es so aufgeschrieben, wie man eine Entwicklungsreihe aufschreibt — was beobachtet, was ausgeschlossen, was übrig. Ich bitte Sie, zuzuhören, bevor Sie antworten."
 
@@ -50,13 +50,13 @@ Vesper hielt den Blick auf dem Tischholz. Die Pinzette lag quer über der Samtro
 
 Sorel sprach weiter. Er kam auf Alphina. Sie hatte die Wunde an seinem Handrücken angefasst. Drei Sekunden, vielleicht vier. Die Wunde war nicht weniger geworden und nicht mehr. Sie war älter geworden. Narbe am nächsten Morgen, die nicht hätte dort sein dürfen. Er hatte sie seitdem zweimal untersucht. Eine Brandnarbe von zwei Wochen, nicht eine Brandwunde von einer Nacht.
 
-"Sie hat sie nicht geheilt. Sie hat sie alt gemacht. Das ist ein Unterschied."
+"Sie hat sie nicht geheilt. Sie hat sie gealtert. Das ist ein Unterschied."
 
 Dann kamen die Platten. Sorel sprach jetzt langsamer, weil er die Reihenfolge im Kopf neu ordnete, während er sprach. Er hatte ein Bild von ihr gemacht, im Garten, eine Frau am Farn, sauber belichtet. Er hatte die Platte entwickelt und dabei ein zweites Bild gefunden, das er nicht fotografiert hatte. Dasselbe Negativ, dieselbe Emulsion, zwei Bilder übereinander. Er hatte gedacht: vorbelichtete Charge. Er hatte eine ungeöffnete Platte aus demselben Karton getestet — sie war leer geblieben. Die Charge war sauber.
 
 "Die Platten reagieren. Nicht auf den Ort. Nicht auf die Kamera. Auf mich. Die Kamera war zweimal gar nicht dabei, und die Bilder sind trotzdem erschienen."
 
-Er sagte *erschienen*, nicht *entstanden*. Vesper registrierte es.
+Er sagte *erschienen*, nicht *entstanden*.
 
 Sorel erzählte drei der Bilder. Das Lichthaus bei Dämmerung. Alphina im Garten am Farn. Ein drittes, das er nur andeutete — ein Innenraum, sagte er. Die Skizze verschwimmt. Er brach ab und kam nicht darauf zurück.
 
@@ -106,7 +106,7 @@ Vesper hob den Blick von der Karte auf Sorels Gesicht. Die Haut um Sorels Mund s
 
 "Sie ist die Werfterbin."
 
-"Sie ist die Erbin. Sie kennt Alphina nicht. Sie hat mit der Werft eine Wohnung in Werftnähe geerbt — und die beiden sind sich noch nicht begegnet, soweit ich weiß."
+"Sie ist die Erbin. Sie und Alphina kennen sich noch nicht. Sie hat mit der Werft eine Wohnung in Werftnähe geerbt — und die beiden sind sich noch nicht begegnet, soweit ich weiß."
 
 Sorel hob die Hand von der Tischkante. Er drehte sie kurz in der Luft, wie jemand, der etwas in der Handfläche wiegt, das nicht da ist. Dann legte er sie wieder hin.
 
