@@ -90,7 +90,7 @@ Er strich mit dem Finger den Flussverlauf entlang bis zu dem Kreuz am unteren Ka
 
 "Die nähere von beiden verliert stündlich eine Minute zwölf, die andere stündlich vierzig Sekunden. Beide weniger als die Tidemoor-Uhr. Wenn die Tidemoor-Uhr im Mittelpunkt eines zweiten Musters säße, dann säße sie gleichzeitig im Zentrum und am Rand der Stadt. Beides ist möglich. Beides ist nicht Zufall."
 
-Sorel schwieg jetzt zwei ganze Atemzüge. Dann tippte er selbst auf die Karte, nicht auf den Mittelpunkt, sondern auf jenen Punkt, an dem sein Lichthaus lag. Vesper sah es und nickte. Der Punkt lag auf dem äußersten Ring, am Rand. Die Drift dort war klein. Nicht klein genug, um sie zu ignorieren.
+Sorel schwieg jetzt zwei ganze Atemzüge. Dann tippte er selbst auf die Karte, nicht auf den Mittelpunkt, sondern auf jenen Punkt, an dem sein Lichthaus lag. Vesper sah es und nickte. Der Punkt lag auf dem äußersten Ring, am Rand. Die Abweichung dort war klein. Nicht klein genug, um sie zu ignorieren.
 
 "Es gibt einen dritten Teil", sagte Vesper. "Er passt nicht in die Ringe. Er passt daneben. Ich habe gestern mittag auf der Werft eine Frau gesehen. Sie heißt Maren Ilves. Sie baut Boote. Sie hat mir gezeigt, wie sie einen Strudel in eine Tasse Tee bringt, ohne sie anzufassen. Das Wasser in der Tasse war vorher kalt gewesen. Als sie aufhörte, dampfte es."
 
@@ -100,7 +100,7 @@ Seine Finger auf dem Kartenrand waren flach geworden, ohne dass er sie flachgele
 
 Vesper hob den Blick von der Karte auf Sorels Gesicht. Die Haut um Sorels Mund stand weiß.
 
-"Maren Dahl."
+"Maren Ilves."
 
 "Ja."
 
@@ -214,11 +214,11 @@ Er legte die Hand auf das Gehäuse, auf die Höhe, auf der der Zeiger stand. Die
 
 Kein Verlust.
 
-Beim ersten Besuch hatte die Uhr unter seiner Hand die ersten drei Minuten rein getickt und stündlich zweihundertdreiundsiebzig Sekunden verloren, sobald er die Hand wegnahm. Beim zweiten Besuch, vor zwei Wochen, hatte er ihr den sauberen Schlag aus der eigenen Brust durch die Handfläche vorgelegt — nicht als Hand, als Form. Als ein stiller Satz: *So. Genau so. Behalte diesen Schlag.* Seitdem lief sie ohne Unterbrechung rein. Kvarns Taschenuhr in seinem Zimmer hatte seit jenem Abend ebenfalls keine Drift mehr gezeigt.
+Beim ersten Besuch hatte die Uhr unter seiner Hand die ersten drei Minuten rein getickt und stündlich zweihundertdreiundsiebzig Sekunden verloren, sobald er die Hand wegnahm. Beim zweiten Besuch, vor zwei Wochen, hatte er ihr den sauberen Schlag aus der eigenen Brust durch die Handfläche vorgelegt — nicht als Hand, als Form. Als ein stiller Satz: *So. Genau so. Behalte diesen Schlag.* Seitdem lief sie ohne Unterbrechung rein. Kvarns Taschenuhr in seinem Zimmer hatte seit jenem Abend ebenfalls keinen Verlust mehr gezeigt.
 
 Er ließ die Hand liegen. Die Uhr tickte weiter.
 
-Er stand dort eine Minute länger, als er es sich vorgenommen hatte. Dann zwei Minuten. Er brauchte den Kontakt mit dem System, bevor er vier Menschen in denselben Garten brachte, über dessen Kreis die stärkste Drift der Stadt lag. Die Tidemoor-Uhr war das älteste bekannte Muster, das er in Vael gefunden hatte. Wenn die Quelle unter der Stadt schon jahrzehntelang sickerte, dann tickte dieses Gehäuse seit Jahrzehnten mit dem Widerstand dagegen an. Er wollte es hören, bevor er den Rest organisierte.
+Er stand dort eine Minute länger, als er es sich vorgenommen hatte. Dann zwei Minuten. Er brauchte den Kontakt mit dem System, bevor er vier Menschen in denselben Garten brachte, über dessen Kreis die stärkste Abweichung der Stadt lag. Die Tidemoor-Uhr war das älteste bekannte Muster, das er in Vael gefunden hatte. Wenn die Quelle unter der Stadt schon jahrzehntelang sickerte, dann tickte dieses Gehäuse seit Jahrzehnten mit dem Widerstand dagegen an. Er wollte es hören, bevor er den Rest organisierte.
 
 Die Hand unter dem Messing wurde langsam warm.
 
