@@ -312,12 +312,64 @@
       .prose p { font-size: 1.05rem; line-height: 1.9; }
     }
 
+    /* ===== Floating-Toolbar ===== */
+    .floating-toolbar {
+      position: fixed;
+      top: 1rem; right: 1rem;
+      display: none;
+      align-items: center;
+      gap: 0.35rem;
+      background: rgba(248, 244, 238, 0.95);
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
+      border: 1px solid var(--paper-edge);
+      border-radius: 4px;
+      padding: 0.3rem 0.5rem;
+      z-index: 200;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+    }
+    .floating-toolbar.active { display: flex; }
+    .ft-btn {
+      background: transparent;
+      border: none;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.88rem;
+      color: var(--smoke);
+      cursor: pointer;
+      padding: 0.3rem 0.65rem;
+      border-radius: 2px;
+      line-height: 1;
+      transition: color 0.15s, background 0.15s;
+    }
+    .ft-btn:hover:not(:disabled) { color: var(--accent); background: rgba(107,58,58,0.06); }
+    .ft-btn:disabled { opacity: 0.25; cursor: default; }
+    .ft-btn.active { color: var(--accent); background: rgba(107,58,58,0.1); }
+    .ft-sep { width: 1px; height: 1.2rem; background: var(--paper-edge); }
+    .ft-info { font-size: 0.72rem; color: var(--smoke); padding: 0 0.25rem; letter-spacing: 0.05em; }
+    .ft-ico { font-size: 1rem; }
+
+    /* Sticky Commit-Picker, wenn Diff aktiv */
+    .diff-panel.active {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+
+    @media (max-width: 600px) {
+      .floating-toolbar {
+        top: auto; bottom: 0.5rem; right: 0.5rem; left: 0.5rem;
+        justify-content: center;
+        flex-wrap: wrap;
+      }
+    }
+
     /* ===== Diff-Modus ===== */
     .diff-panel {
       display: none;
       padding: 0.8rem 2.5rem 0.8rem 3.5rem;
       border-bottom: 1px solid var(--accent-faint);
-      background: rgba(107,58,58,0.03);
+      background: rgba(107,58,58,0.96);
+      background: rgba(237,230,218,0.98);
       font-family: 'Cormorant Garamond', serif;
       font-size: 0.8rem;
       color: var(--muted);
@@ -553,6 +605,14 @@
       <div class="draft-badge" id="draft-badge"></div>
     </div>
 
+    <div class="floating-toolbar" id="floating-toolbar">
+      <button class="ft-btn" id="ft-prev" type="button" title="Voriges Kapitel"><span class="ft-ico">◂</span></button>
+      <span class="ft-info" id="ft-info">—</span>
+      <button class="ft-btn" id="ft-next" type="button" title="Nächstes Kapitel"><span class="ft-ico">▸</span></button>
+      <span class="ft-sep" id="ft-sep-wip"></span>
+      <button class="ft-btn" id="ft-edit" type="button" title="Absätze editieren">✎ Editieren</button>
+      <button class="ft-btn" id="ft-diff" type="button" title="Änderungen ansehen">Δ Änderungen</button>
+    </div>
     <div class="diff-toggle-row" id="diff-toggle-row" style="display:none;">
       <button class="diff-toggle" id="edit-toggle" type="button" style="margin-right:0.4rem;">Absätze editieren</button>
       <button class="diff-toggle" id="diff-toggle" type="button">Änderungen ansehen</button>
@@ -736,6 +796,22 @@
 
         document.getElementById('nav').innerHTML = navHtml;
         document.getElementById('nav-top').innerHTML = navHtml;
+
+        // Floating-Toolbar aufsetzen (nur WIP)
+        if (isWip) {
+          const fToolbar = document.getElementById('floating-toolbar');
+          const fPrev = document.getElementById('ft-prev');
+          const fNext = document.getElementById('ft-next');
+          const fInfo = document.getElementById('ft-info');
+          fInfo.textContent = (isInterludium ? 'Int. ' : '') + kapId;
+          const prevUrl = (prevId && canLink(prevCh)) ? lesenUrl(prevId) : null;
+          const nextUrl = (nextId && canLink(nextCh)) ? lesenUrl(nextId) : null;
+          fPrev.disabled = !prevUrl;
+          fNext.disabled = !nextUrl;
+          fPrev.onclick = () => { if (prevUrl) turnPage({preventDefault(){}}, 'back', prevUrl); };
+          fNext.onclick = () => { if (nextUrl) turnPage({preventDefault(){}}, 'forward', nextUrl); };
+          fToolbar.classList.add('active');
+        }
 
         // Fetch and render the markdown — uses targetDatei (entwurfs_datei or datei)
         fetch('/buch/kapitel/' + targetDatei)
@@ -1240,6 +1316,58 @@
           editToggle.style.display = 'none';
         }
       });
+    }
+
+    // ===== Floating-Toolbar Verdrahtung =====
+    {
+      const fEdit = document.getElementById('ft-edit');
+      const fDiff = document.getElementById('ft-diff');
+      const fSepWip = document.getElementById('ft-sep-wip');
+      const editT = document.getElementById('edit-toggle');
+      const diffT = document.getElementById('diff-toggle');
+
+      // Klick auf Floating-Button leitet an Original-Toggle weiter
+      fEdit.addEventListener('click', () => editT.click());
+      fDiff.addEventListener('click', () => diffT.click());
+
+      // Active-State syncen: MutationObserver auf die Original-Buttons
+      function sync() {
+        fEdit.classList.toggle('active', editT.classList.contains('active'));
+        fDiff.classList.toggle('active', diffT.classList.contains('active'));
+      }
+      const obs = new MutationObserver(sync);
+      obs.observe(editT, { attributes: true, attributeFilter: ['class'] });
+      obs.observe(diffT, { attributes: true, attributeFilter: ['class'] });
+
+      // Text der Floating-Buttons an Original-Button anpassen (wechselt zwischen "ansehen" und "beenden")
+      const obsText = new MutationObserver(() => {
+        fEdit.textContent = editT.classList.contains('active') ? '✎ Fertig' : '✎ Editieren';
+        fDiff.textContent = diffT.classList.contains('active') ? 'Δ Fertig' : 'Δ Änderungen';
+      });
+      obsText.observe(editT, { attributes: true, attributeFilter: ['class'] });
+      obsText.observe(diffT, { attributes: true, attributeFilter: ['class'] });
+
+      // WIP-Buttons nur sichtbar wenn Toggle-Row aktiv (Lektorat/Final mit Versions-JSON)
+      function syncWipVisibility() {
+        const toggleRow = document.getElementById('diff-toggle-row');
+        const show = toggleRow && toggleRow.style.display !== 'none';
+        fEdit.style.display = show ? '' : 'none';
+        fDiff.style.display = show ? '' : 'none';
+        fSepWip.style.display = show ? '' : 'none';
+      }
+      const obsVis = new MutationObserver(syncWipVisibility);
+      const toggleRow = document.getElementById('diff-toggle-row');
+      if (toggleRow) {
+        obsVis.observe(toggleRow, { attributes: true, attributeFilter: ['style'] });
+      }
+      // Initial hide (wird aktiviert sobald Versions-JSON geladen ist)
+      syncWipVisibility();
+
+      // Edit-Button im Floating auch ausblenden wenn editToggle versteckt (entwurf-modus)
+      const obsEditVis = new MutationObserver(() => {
+        if (editT.style.display === 'none') fEdit.style.display = 'none';
+      });
+      obsEditVis.observe(editT, { attributes: true, attributeFilter: ['style'] });
     }
   </script>
 </body>
