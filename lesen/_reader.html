@@ -585,6 +585,30 @@
     }
     .comment-submit:hover { background: var(--accent); color: var(--paper); }
     .comment-submit:disabled { opacity: 0.4; cursor: default; }
+
+    .comment-quick-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem;
+      margin: 0.5rem 0 0.4rem 0;
+    }
+    .comment-quick-tag {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.68rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      background: none;
+      border: 1px solid var(--paper-edge);
+      color: var(--smoke);
+      padding: 0.12rem 0.45rem;
+      border-radius: 2px;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s, border-color 0.15s;
+    }
+    .comment-quick-tag:hover:not(:disabled) { background: var(--accent); color: var(--paper); border-color: var(--accent); }
+    .comment-quick-tag.tag-gut { border-color: #6b8e6b; color: #6b8e6b; }
+    .comment-quick-tag.tag-gut:hover:not(:disabled) { background: #6b8e6b; border-color: #6b8e6b; color: var(--paper); }
+    .comment-quick-tag:disabled { opacity: 0.35; cursor: default; }
   </style>
 </head>
 <body>
@@ -946,9 +970,54 @@
         }
         popup.appendChild(list);
 
+        // Quick-Tags — ein Klick genügt, kein Tippen
+        const QUICK_TAGS = [
+          { label: 'ABSTRACT',  text: 'ABSTRACT — zu vage, kein konkretes Bild' },
+          { label: 'ERKLÄRT',   text: 'ERKLÄRT — Auswertung vor den Daten (announced interpretation)' },
+          { label: 'SCHARNIER', text: 'SCHARNIER — Aphorismus der erklärt was das Bild schon sagt' },
+          { label: 'GRAMMAR',   text: 'GRAMMAR — verquere oder gebrochene Satzkonstruktion' },
+          { label: 'REGISTER',  text: 'REGISTER — falsches POV-Vokabular, Berufslinse gebrochen' },
+          { label: 'RHYTHMUS',  text: 'RHYTHMUS — falsches Tempo für diese Szene' },
+          { label: 'BEGEHREN',  text: 'BEGEHREN — Attraction declared, nicht demonstrated' },
+          { label: 'GUT ✓',     text: 'GUT — sitzt, nicht anfassen', cls: 'tag-gut' },
+        ];
+
+        async function postComment(text) {
+          const absatzText = p.textContent.slice(0, 120);
+          const r = await fetch(COMMENT_API, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', 'X-User-Id': USER_ID },
+            body: JSON.stringify({ kapitel_id: kapId, modus: modus, absatz_idx: idx, absatz_text: absatzText, text }),
+          });
+          if (!r.ok) throw new Error('Fehler ' + r.status);
+          if (!commentsByIdx[idx]) commentsByIdx[idx] = [];
+          commentsByIdx[idx].push({ text, created_at: new Date().toISOString() });
+          p.classList.add('has-comments');
+        }
+
+        const quickTagsDiv = document.createElement('div');
+        quickTagsDiv.className = 'comment-quick-tags';
+        QUICK_TAGS.forEach(tag => {
+          const btn = document.createElement('button');
+          btn.className = 'comment-quick-tag' + (tag.cls ? ' ' + tag.cls : '');
+          btn.textContent = tag.label;
+          btn.onclick = async (e) => {
+            e.stopPropagation();
+            btn.disabled = true;
+            try {
+              await postComment(tag.text);
+              closeActivePopup();
+            } catch (_) {
+              btn.disabled = false;
+            }
+          };
+          quickTagsDiv.appendChild(btn);
+        });
+        popup.appendChild(quickTagsDiv);
+
         const textarea = document.createElement('textarea');
         textarea.className = 'comment-textarea';
-        textarea.placeholder = 'Anmerkung …';
+        textarea.placeholder = 'Oder freier Text …';
         popup.appendChild(textarea);
 
         const submitBtn = document.createElement('button');
@@ -959,17 +1028,8 @@
           if (!text) return;
           submitBtn.disabled = true;
           submitBtn.textContent = '…';
-          const absatzText = p.textContent.slice(0, 120);
           try {
-            const r = await fetch(COMMENT_API, {
-              method: 'POST',
-              headers: { 'Content-Type': 'application/json', 'X-User-Id': USER_ID },
-              body: JSON.stringify({ kapitel_id: kapId, modus: modus, absatz_idx: idx, absatz_text: absatzText, text }),
-            });
-            if (!r.ok) throw new Error('Fehler ' + r.status);
-            if (!commentsByIdx[idx]) commentsByIdx[idx] = [];
-            commentsByIdx[idx].push({ text, created_at: new Date().toISOString() });
-            p.classList.add('has-comments');
+            await postComment(text);
             closeActivePopup();
             renderPopup(p, idx, modus);
           } catch (e) {

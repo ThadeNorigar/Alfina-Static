@@ -125,8 +125,22 @@ Siehe `buch/01-autorin-stimme.md` Kapitel 8. Die folgenden Muster entstehen beim
 7. **"Es gab Dinge, die..."** / "Manche [X], und sie war eine von diesen." → VERBOTEN (generalisierender Aphorismus).
 8. **Doppelpunkt-Pointe-Tic:** `X. Das war Y.` max 2/Kapitel, nie zwei in 10 Zeilen.
 9. **Chroniken-Prophezeiung:** "wuerde ein Datum in den Chroniken werden" / "wuerde er sich spaeter erinnern" — Sorel-Prinzip.
+10. **Announced Interpretation (ERKLÄRT):** Das Urteil steht vor den Daten. `"Die Stille war zu sauber."` → dann kommen drei Zeilen spaeter die konkreten Details (keine Eidechse, keine Wespe). Das ist rueckwaerts. Entweder: Urteil streichen (Details leisten die Arbeit), oder: Details zuerst, Urteil kommt aus ihnen. NIEMALS: Urteil → Daten.
+11. **Spezifizitaets-Test (ABSTRACT):** Kann dieser Satz durch einen generischeren ersetzt werden ohne Informationsverlust? `"Die Stille war seltsam."` = kein Informationsverlust = zu vage. Ein konkretes Bild muss so spezifisch sein, dass es NUR in diesem Raum, NUR bei dieser Figur, NUR in diesem Moment stimmt. Test: Koennte dieser Satz unveraendert in einem anderen Dark-Fantasy-Roman stehen? Wenn ja → zu generisch.
+12. **Weasel-Words:** `schien`, `wirkte`, `war irgendwie`, `fuehlte sich an als` — verweigern Information statt sie zu geben. Max 2 pro Kapitel. Starkes Verb > Weasel-Word + Adjektiv.
+13. **Begehren deklariert (BEGEHREN):** Die POV-Figur sagt explizit was sie fuehlt (`"Sie wollte ihn so sehr"`, `"Er zog sie an wie..."` als direktes Label). Koerper liefert die Daten — Kopf liefert keine Auswertung. Der Leser zieht die Schlussfolgerung, nicht die Figur.
+14. **Generic-Darkness-Test:** Atmosphaere-Saetze pruefen: Klingt dieser Satz nach diesem spezifischen Garten / dieser Figur / diesem Moment? Oder nach Dark Fantasy im Allgemeinen? Bardugo: `"yellowy blister in need of lancing"` — das ist nur Ketterdam, nicht jede dunkle Stadt. Wenn der Satz austauschbar ist: konkreter.
 
-**Test nach jeder Szene — Inhalt:** Letzten Satz jedes Absatzes anschauen. Wenn er das vorhergehende Bild kommentiert oder generalisiert — streichen.
+**Test nach jeder Szene — Inhalt:** Letzten Satz jedes Absatzes anschauen. Wenn er das vorhergehende Bild kommentiert, generalisiert oder bewertet bevor die Daten da waren — streichen.
+
+**Pro-Absatz Qualitaets-Check (alle 500 Woerter, ZWINGEND):**
+Nach jeweils ~500 geschriebenen Woertern: Jeden Absatz der letzten 500W einzeln pruefen:
+- Enthaelt dieser Absatz mindestens EIN konkretes, spezifisches Bild? (Sinne: Was genau riecht/fuehlt/schmeckt/hoert/sieht die Figur?)
+- Steht irgendwo ein Urteil vor den Daten? (ERKLAERT-Pattern)
+- Ist ein Begehren deklariert statt koerperlich demonstriert? (BEGEHREN-Pattern)
+- Weasel-Word vorhanden? → ersetzen
+- Generic-Darkness? → konkretisieren
+Absaetze die keinen der ersten Punkt erfuellen sind Fuelltexte → kuerzen oder streichen.
 
 ### Grammatik-Klarheits-Test (nach jeder Szene, ZWINGEND)
 

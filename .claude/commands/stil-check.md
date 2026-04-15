@@ -202,6 +202,48 @@ Gehe das Kapitel Absatz für Absatz durch:
 - Körper → Raum → Stille → Frage
 - Finding wenn direkt nach dem Peak zum Kapitelende gesprungen wird
 
+## Phase 3.7: Qualitative Prosa-Prüfung (Pro-Absatz, ZWINGEND)
+
+Gehe jeden Absatz durch und prüfe die folgenden 5 Qualitäts-Dimensionen. Diese sind gleichwertig zu den harten Zählungen — ein Kapitel das hier scheitert besteht den Check nicht.
+
+**1. Announced Interpretation (ERKLÄRT-Pattern):**
+- Steht irgendwo ein abstraktes Urteil VOR den konkreten Daten die es belegen?
+- Muster: `"[Bewertung]."` → `[drei Zeilen später]` `[konkrete Details]` → FINDING
+- Beispiel-Bruch: `"Die Stille war zu sauber."` → zwei Absätze später: keine Eidechse, keine Wespe, keine Amsel. Die Details hätten das Urteil überflüssig gemacht.
+- Fix: Urteilssatz streichen. Details allein erzeugen die Wirkung. Oder: Details zuerst, Urteil folgt organisch als letzte Zeile des Absatzes (nie als Eröffnung).
+
+**2. Spezifizitäts-Test (ABSTRACT-Pattern):**
+- Jeden Atmosphäre- und Beschreibungssatz fragen: Kann dieser Satz durch einen generischeren ersetzt werden ohne Informationsverlust?
+- Test: Könnte dieser Satz unverändert in einem anderen Dark-Fantasy-Roman stehen? → zu generisch.
+- Bardugo-Maßstab: `"yellowy blister in need of lancing"` — das ist nur Ketterdam. `"Der Mond schien bleich"` — das ist überall.
+- FINDING wenn ein Atmosphäre-Satz kein konkretes, verortetes Detail enthält.
+- Besonders prüfen: Eröffnungsabsatz, Stimmungs-Übergänge, Aftermath-Beschreibungen.
+
+**3. Weasel-Words (ABSTRACT-Pattern):**
+- Grep nach: `schien`, `wirkte`, `war irgendwie`, `fühlte sich an`, `hatte etwas`, `lag etwas`
+- Diese Wörter verweigern Information statt sie zu liefern. Max 3 pro Kapitel.
+- Fix: Konkretes Verb statt Weasel + Adjektiv. `"Es wirkte bedrohlich"` → was genau: Winkel, Gewicht, Geräusch, Geruch?
+
+**4. Begehren deklariert (BEGEHREN-Pattern):**
+- Suche nach expliziten Begehren-Labels durch die POV-Figur: `"Sie wollte ihn"`, `"Er zog sie an"` als direkte Aussage, `"sie spürte Verlangen"`.
+- Das Begehren zeigt sich durch Körper-Daten (Wärme, Atem, Blickrichtung, Distanz), nicht durch Selbst-Diagnose.
+- FINDING wenn die Figur ihr eigenes Begehren benennt statt es zu zeigen.
+
+**5. Generic-Darkness-Test (ABSTRACT-Pattern):**
+- Atmosphäre-Sätze prüfen: Ist das Bild spezifisch für diesen Raum / diese Figur / diesen Moment?
+- `"Die Luft war schwer und still"` → generisch. `"Die Luft roch nicht nach Garten"` → spezifisch, weil es sagt was fehlt, nicht was da ist.
+- FINDING wenn ein Stimmungs-Satz austauschbar gegen eine beliebige Dark-Fantasy-Szene ist.
+
+**Ausgabe dieser Phase im Gate-Bericht:**
+```
+### Qualitative Prosa-Prüfung
+| Absatz | Typ | Problem | Fix |
+|--------|-----|---------|-----|
+| ~Z.14 | ERKLÄRT | "Die Stille war zu sauber" vor den Tier-Details | Streichen |
+| ~Z.XX | ABSTRACT | "Die Luft war schwer" — generisch | Konkreter |
+```
+FINDING-Schwelle: >3 Qualitäts-Findings → NICHT BESTANDEN unabhängig von formalen Checks.
+
 ## Phase 4: Vergleich mit Referenzkapitel
 
 Kurzer Abgleich mit Kapitel 1:
@@ -226,6 +268,8 @@ POV: [Figur] | Perspektive: [Ich/3.P] | Wörter: [N]
 | Satzlängen: KURZ/MITTEL/LANG | N%/N%/N% | MITTEL >20% | OK/UNTER |
 | Begehren-Wort-Wiederholung | [Wort]: Nx | 3 | OK/ÜBER |
 | Geschmack in Nähe-Szenen | ja/nein | min. 1 | OK/FEHLT |
+| Weasel-Words (schien/wirkte/irgendwie) | N | 3 | OK/ÜBER |
+| Qualitäts-Findings (ERKLÄRT/ABSTRACT/BEGEHREN) | N | 3 | OK/ÜBER |
 
 ### Findings
 
