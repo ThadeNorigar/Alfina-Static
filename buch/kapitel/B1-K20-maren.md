@@ -4,6 +4,10 @@
 
 Die Schulter hielt. Sie prüfte es bei jedem Aufheben — die Kiste mit den Dübeln, den Hobel, den Eimer mit Pech — und die Schulter hielt. Drei Tage nach dem Abend im Garten. Eine Wärme saß noch in der Wunde, nicht scharf, nicht fremd. Durch Alphinas Finger war sie gezogen wie Feuchte durch ein Brett. In Marens Schulter kam sie an als Wärme aus Erde.
 
+In den drei Tagen hatten sie sich öfter gesehen. Nicht alle vier zugleich — aber einer von ihnen war jedesmal in der Nähe gewesen. Alphina war am Morgen nach dem Garten in die Werft gekommen, hatte die Hand auf die Schulter gelegt, ohne die Jacke wegzuziehen, und gefragt, ob sie hielt. Sorel hatte sie zweimal gegrüßt, beide Male knapp, einmal am Hafen, einmal im *Anker*-Flur, mit einer Mappe unter dem Arm, die nach Chemikalien roch.
+
+Vesper war öfter da gewesen. Oder sie war öfter dort gewesen. Im Schankraum, wenn die Mittagsglut den Hof leer zog. Am Reparaturtisch, wenn die Tür einen Spalt offenstand. Sie hatte ihm einmal einen Tee hingestellt, den er nicht angerührt hatte, der eine halbe Stunde dort gestanden hatte, bevor er ihn trank, ohne aufzusehen. Einmal war er an der Werft vorbeigegangen, mit einer Frage zur Schiffsuhr, die er nicht hatte stellen müssen. Einmal ohne Frage. Es waren keine Verabredungen gewesen. Die Wege liefen so.
+
 Edric war auf dem Markt. Lärche, hatte er gesagt, schon vor Sonnenaufgang, und das Tor der Werft hatte hinter ihm zugeschoben, leise, weil er es so mochte. Die Halle war still. Nur die Grauwe redete draußen, leise, gegen die Stegpfähle, und in der Kajüte des halbfertigen Bootes tickte die Schiffsuhr, die seit zwei Wochen in der Stirnwand saß, vier Schrauben, in der richtigen Reihenfolge.
 
 Sie hatte die Werkbank-Leiste aufgeschoben, als sie den Hobel zurücklegte. Das Geräusch war das, was sie hergeholt hatte — Holz auf Holz, eine Nut, die sie seit Wochen nicht geöffnet hatte. Jetzt schob sie die Leiste weiter, und das Papier lag darin, wie es seit den ersten Maitagen darin gelegen hatte. Ein einzelnes Blatt, ungefaltet, das Format kleiner als eine Hand, leicht rau am Rand, wo Haron es aus einem größeren Bogen getrennt hatte.
