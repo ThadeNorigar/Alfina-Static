@@ -55,6 +55,23 @@ Aus `status.json` den Status lesen.
 
 Parameter `B1-K12` parsen, in `status.json` nachschlagen, POV-Figur ermitteln.
 
+### 0.5 Entwurf-Reife-Check
+
+Lies `{ID}-entwurf.md` und prüfe: Ist dieser Entwurf ausarbeitungsreif?
+
+| Kriterium | Prüfung |
+|-----------|---------|
+| Keine Platzhalter | Keine „und dann passiert X"-Stellen — jede Szene ist ausgeschrieben |
+| Beats vollständig | Jede Szene hat Anfang, Konfliktkern, Ende |
+| Dialog skizziert | Mindestens Kern-Repliken pro Dialog-Szene vorhanden |
+| Sorel-Prinzip | POV-Figur weiß nur was sie wissen kann — keine Platzhalter-Allwissenheit |
+| Tschechow-Elemente | Mindestens ein Detail das in dieser oder späterer Szene feuern soll |
+
+Wenn zwei oder mehr Kriterien nicht erfüllt:
+> STOPP — Entwurf nicht ausarbeitungsreif: [konkrete Lücken nennen]. Empfehlung: zurück zu `/entwurf`, Lücken schließen.
+
+Bei allen Kriterien erfüllt: weiter zu Phase 1.
+
 ## Phase 1: Kontext laden — POV-fokussiert
 
 **Schritt 1: Kontext-Extraktor ausfuehren (Bash):**
@@ -94,23 +111,56 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
 
 ### Vorgehen
 
-Die Autorin-Stimme (`01-autorin-stimme.md`) definiert drei Register (Langsam/Normal/Schnell). Jede Szene beginnt im passenden Register. Wechsel zwischen Registern sind bewusste Entscheidungen. Normal (10-20W Sätze) ist der häufigste Modus.
+Die Autorin-Stimme (`01-autorin-stimme.md`) definiert drei Register (Langsam/Normal/Schnell). Jede Szene beginnt im passenden Register. Wechsel zwischen Registern sind bewusste Entscheidungen. Normal (10–20W Sätze) ist der häufigste Modus.
 
-Pro Szene aus dem Entwurf:
+**Wortziel:** 1.200–1.600 W pro Szene, 4.000–4.500 W Kapitel gesamt.
 
-1. **Szene schreiben** als zusammenhaengende Prosa direkt in die Ziel-Datei.
-   - Wortziel: 1.200-1.600 W pro Szene
-   - Gesamtziel Kapitel: 4.000-4.500 W
-2. **Wortzaehlung** (`wc -w`) sofort danach.
-3. **Selbst-Check der Szene** (kurz, Stilregeln-Highlights):
-   - Keine Adverb-Tags ("sagte sie wuetend") — max 0
-   - Keine Denk-Tags ("sie dachte, dass") — max 0
-   - Keine benannten Emotionen ("sie war traurig") — max 0
-   - Stakkato-Limit eingehalten (max 2-3 Fragmentpassagen)
-   - POV-Berufslinse durchgehalten (Botanikerin sieht Wachstum, nicht Belichtung)
-   - Eigennamen im Text eingefuehrt (Sorel-Prinzip)
-   - **Grammatik-Klarheits-Test ausgeführt** (Doppelrelativpronomen, Tautologien, Sinnfrage, KonjunktivII-Klauseln, Berufslinsen-Metaphern — siehe Abschnitt unten)
-4. **KEIN Szenen-Council zwischendurch.** Die Pruefungen kommen am Ende.
+#### Schritt 1: Pre-Writing — 3 Fragen vor jeder Szene
+
+Bevor ein Wort Prosa geschrieben wird — diese drei Fragen beantworten und dem Autor vorlegen:
+
+1. **Spannung:** Was will [Figur] in dieser Szene — und was blockiert das konkret?
+2. **Spezifizität:** Welches sensorische Detail ist so spezifisch, dass es nur hier, jetzt, bei ihr stimmt?
+3. **Verschiebung:** Wo ist der eine Moment, wo sich etwas verändert — Wissen, Machtgefälle, Körper, Entscheidung?
+
+Wenn die Antworten zu vage sind → STOPP. Szene nicht ausarbeitungsreif. Autor informieren, zurück zum Entwurf.
+
+**Autor antwortet: "ok" oder gibt Korrekturen. Erst bei "ok" weiter.**
+
+#### Schritt 2: Block-für-Block schreiben
+
+Pro Block: **5–10 Sätze (~100–200 Wörter)**. Nicht mehr. Dann STOP.
+
+1. Block schreiben
+2. Block-Selbst-Check intern ausführen (siehe unten) — Probleme direkt inline fixen, nicht erst nachher
+3. Block dem Autor zeigen
+4. Warten auf: **"ok"** oder **Anmerkung des Autors**
+   - **"ok"** → nächster Block
+   - **Anmerkung** → Fix einarbeiten, gefixten Block zeigen, auf "ok" warten — erst dann nächster Block
+
+**Block-Selbst-Check (intern, vor dem Zeigen):**
+- Adverb-Tag? (`sagte sie wütend`) → direkt streichen
+- Denk-Tag? (`sie dachte, dass`) → direkt in erlebte Rede umschreiben
+- Benannte Emotion? (`sie war traurig`) → direkt durch Körperbild ersetzen
+- ERKLÄRT-Pattern? (Urteil vor den Daten) → Urteil streichen oder nach die Daten setzen
+- Scharnier-Aphorismus? (letzter Satz erklärt das Bild) → letzten Satz streichen
+- Begehren deklariert? → durch Körperbild ersetzen
+- Weasel-Word? (`schien`, `wirkte`, `war irgendwie`) → starkes Verb
+- Kein konkretes sensorisches Bild im Absatz? → Detail einfügen oder Absatz kürzen
+- Generic-Darkness? → konkretisieren (Bardugo-Test: wäre dieser Satz in jedem Dark-Fantasy-Roman möglich?)
+- Grammatik: Doppelrelativpronomen, KonjunktivII-Kette, verschachtelte Relativkette → aufbrechen
+- Sorel-Prinzip: behauptet der Narrator etwas über das Unbewusste der Figur? (`ohne zu wissen, dass sie es tat`) → streichen
+
+**KEIN Szenen-Council zwischendurch.**
+
+#### Schritt 3: Post-Scene Dialog-Check
+
+Nach Abschluss jeder Szene die Dialog enthält — 2 Fragen dem Autor vorlegen:
+
+1. **Stimmdifferenzierung:** Erkennst du jede Figur am Satz ohne den Namen? Wenn nein → welche Stelle klingt falsch, welche Figur?
+2. **Subtext:** Was wird in diesem Dialog NICHT gesagt? Wenn alles direkt ausgesprochen wird → kein Subtext. Konkrete Stelle nennen.
+
+Bei Problemen: Fixes einarbeiten, Autor-Freigabe abwarten.
 
 ### Anti-Patterns waehrend des Schreibens aktiv vermeiden
 
@@ -133,14 +183,7 @@ Siehe `buch/01-autorin-stimme.md` Kapitel 8. Die folgenden Muster entstehen beim
 
 **Test nach jeder Szene — Inhalt:** Letzten Satz jedes Absatzes anschauen. Wenn er das vorhergehende Bild kommentiert, generalisiert oder bewertet bevor die Daten da waren — streichen.
 
-**Pro-Absatz Qualitaets-Check (alle 500 Woerter, ZWINGEND):**
-Nach jeweils ~500 geschriebenen Woertern: Jeden Absatz der letzten 500W einzeln pruefen:
-- Enthaelt dieser Absatz mindestens EIN konkretes, spezifisches Bild? (Sinne: Was genau riecht/fuehlt/schmeckt/hoert/sieht die Figur?)
-- Steht irgendwo ein Urteil vor den Daten? (ERKLAERT-Pattern)
-- Ist ein Begehren deklariert statt koerperlich demonstriert? (BEGEHREN-Pattern)
-- Weasel-Word vorhanden? → ersetzen
-- Generic-Darkness? → konkretisieren
-Absaetze die keinen der ersten Punkt erfuellen sind Fuelltexte → kuerzen oder streichen.
+**Hinweis:** Der Block-Selbst-Check (alle 5–10 Sätze) ersetzt den früheren 500-Wörter-Check. Durch den engeren Takt werden Probleme inline gefixed statt am Ende einer langen Passage.
 
 ### Grammatik-Klarheits-Test (nach jeder Szene, ZWINGEND)
 
