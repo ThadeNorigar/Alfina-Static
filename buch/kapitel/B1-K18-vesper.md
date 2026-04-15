@@ -1,6 +1,6 @@
 # B1-K18 — Vesper
 
-*21. Blütenmond 551 · 8 Wochen 0 Tage in Vael*
+*21. Blütenmond 551 · 7 Wochen 6 Tage in Vael*
 
 Die Petroleumlampe stand auf der dritten Rille des Reparaturtischs, weil das Licht von dort am saubersten auf die Samtrolle fiel. Vesper hatte vor einer halben Stunde die Krone aus dem Chronometer gezogen und die Welle freigelegt. Der Besitzer, ein Hafenmeister von der Reede, wollte sie morgen um neun abholen. Das Werk war nicht schwer — ein trockenes Federhauslager, das schon zweimal zuvor trocken geworden war und das er diesmal ein letztes Mal schmieren, beim übernächsten Mal aber austauschen würde.
 

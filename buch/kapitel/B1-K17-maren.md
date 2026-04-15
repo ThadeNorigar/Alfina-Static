@@ -1,6 +1,6 @@
 # B1-K17 — Maren
 
-*20. Blütenmond 551 · 7 Wochen 6 Tage in Vael*
+*20. Blütenmond 551 · 8 Wochen 2 Tage in Vael*
 
 Der Morgen war eine Stunde alt, als sie ihn kommen hörte. Schritte über das Pflaster der Hafengasse, die auf der Werft anders klangen als in der Stadt — das Holz des Bodens unter der Sohle, die Spanplatten am Eingang, die knarrende Schwelle, auf der Edric jeden Morgen mit dem linken Fuß zuerst stand. Dies war ein anderer Fuß. Ein gleichmäßiger Gang, nicht eilig, nicht schlendernd, ein Schritt der seine Länge kannte.
 
