@@ -3,7 +3,7 @@
 *22. Blütenmond 551 · 8 Wochen 4 Tage in Vael*
 
 
-Alphina trat als Zweite durch das grüne Haupttor. Sie hatte den Schlüssel eine halbe Stunde früher als verabredet in das Schloss geführt, allein, und war die ersten Schritte auf den Kies gegangen, um den Garten vor den anderen zu haben. Nachmittagssonne stand schräg zwischen den Blättern der großen Kastanie am Hauptweg, die Hitze saß tief über dem Kies, und irgendwo zwischen zwei Beeten hing der süße vierte Geruch — heute stärker als am Morgen, nicht Honig, nicht Frucht.
+Alphina trat als Erste durch das grüne Haupttor. Sie hatte den Schlüssel eine halbe Stunde früher als verabredet in das Schloss geführt, allein, und war die ersten Schritte auf den Kies gegangen, um den Garten vor den anderen zu haben. Nachmittagssonne stand schräg zwischen den Blättern der großen Kastanie am Hauptweg, die Hitze saß tief über dem Kies, und irgendwo zwischen zwei Beeten hing der süße vierte Geruch — heute stärker als am Morgen, nicht Honig, nicht Frucht.
 
 Die Pflanzen reagierten zu schnell.
 
