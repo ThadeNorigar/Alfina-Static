@@ -1,6 +1,6 @@
 # B1-K19 — Alle
 
-*22. Blütenmond 551 · 8 Wochen 4 Tage in Vael*
+*20. Blütenmond 551 · 8 Wochen 2 Tage in Vael*
 
 
 Alphina trat als Erste durch das grüne Haupttor. Sie hatte den Schlüssel eine halbe Stunde früher als verabredet in das Schloss geführt, allein, und war die ersten Schritte auf den Kies gegangen, um den Garten vor den anderen zu haben. Nachmittagssonne stand schräg zwischen den Blättern der großen Kastanie am Hauptweg, die Hitze saß tief über dem Kies, und irgendwo zwischen zwei Beeten hing der süße vierte Geruch — heute stärker als am Morgen, nicht Honig, nicht Frucht.
@@ -11,7 +11,7 @@ Das hatte sie schon an den letzten vier Tagen bemerkt, in kleinen Übertreibunge
 
 Sie legte die Hand auf den Kies und sprach in sich hinein den Satz. *Ruhig jetzt.* Kein lautes Wort, eher ein Wille, der durch die Fußsohlen in die Erde ging, den gewohnten Kanal. Die Farne an der Nordmauer zogen die Wedel ein, einer nach dem anderen. Die Hortensien erstarrten.
 
-Sie blieb auf dem Kies, einen Atemzug. Die Stille, die danach kam, war nicht Ruhe. Sie war zu sauber.
+Sie blieb auf dem Kies, einen Atemzug.
 
 Sie hörte den Schlüssel nicht. Aber sie hörte Sorel.
 
