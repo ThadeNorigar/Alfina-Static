@@ -9,13 +9,13 @@ Die Pflanzen reagierten zu schnell.
 
 Das hatte sie schon an den letzten vier Tagen bemerkt, in kleinen Übertreibungen: ein Farn, der seinen Wedel einen halben Finger zu weit zur Seite kippte, wenn sie vorbeiging; ein Ableger am Nordrand, der zu prompt auf ihren Blick antwortete. Heute standen die Hortensien am Weg in einer Haltung, die man nicht hätte Haltung nennen dürfen, wenn es Pflanzen waren. Sie gingen nicht auf sie zu. Sie standen zu ihr hin.
 
-Sie legte die Hand auf den Kies und sprach in sich hinein den Satz. *Ruhig jetzt.* Kein lautes Wort, eher ein Wille, der durch die Fußsohlen in die Erde ging, den gewohnten Kanal. Die Farne an der Nordmauer gaben nach, einer nach dem anderen, und die Hortensien setzten sich eine halbe Daumenbreit zurück.
+Sie legte die Hand auf den Kies und sprach in sich hinein den Satz. *Ruhig jetzt.* Kein lautes Wort, eher ein Wille, der durch die Fußsohlen in die Erde ging, den gewohnten Kanal. Die Farne an der Nordmauer zogen die Wedel ein, einer nach dem anderen. Die Hortensien erstarrten.
 
 Sie blieb auf dem Kies, einen Atemzug. Die Stille, die danach kam, war nicht Ruhe. Sie war zu sauber.
 
 Sie hörte den Schlüssel nicht. Aber sie hörte Sorel.
 
-Er kam von der Klippenseite, den Hauptweg herauf. Das Stativ am Riemen über der rechten Schulter, die kleine Kamera unter demselben Arm, die linke Hand locker am Körper, die Bandage am Handrücken durch das Leinen frischer als sonst, weil er sie vor dem Weg gewechselt hatte. Er blieb zwei Schritte vor ihr stehen.
+Er kam von der Klippenseite, den Hauptweg herauf. Das Stativ am Riemen über der rechten Schulter, die kleine Kamera unter demselben Arm, die linke Hand locker am Körper. Er blieb zwei Schritte vor ihr stehen.
 
 Er sagte nichts, bis er vor ihr stand.
 
@@ -31,7 +31,7 @@ Vesper kam als Erster durch den Bogen, mit dem gleichmäßigen Maß eines Mannes
 
 "Ich weiß."
 
-Maren trat hinter ihm durch den Bogen — sie blieb einen halben Schritt innerhalb des Bogens stehen, nahm den Garten in einem Blick auf und ging dann weiter. Werftjacke. Am linken Handgelenk ein Lederriemen, an dem etwas hing, das Alphina auf die Entfernung nicht lesen konnte. Die Hände hingen ruhig, mit der ruhenden Bereitschaft von Händen, die wussten, wann sie gebraucht würden.
+Eine Frau trat hinter ihm durch den Bogen — sie blieb einen halben Schritt innerhalb des Bogens stehen, nahm den Garten in einem Blick auf und ging dann weiter. Werftjacke. Am linken Handgelenk ein Lederriemen, an dem etwas hing, das Alphina auf die Entfernung nicht lesen konnte. Die Hände hingen ruhig, mit der ruhenden Bereitschaft von Händen, die wussten, wann sie gebraucht würden.
 
 "Maren Ilves." Vesper sprach ihren Namen, kurz. "Alphina Veit. Sorel Varlan."
 
@@ -75,7 +75,7 @@ Alphina hörte ihre eigene Stimme zu früh einsetzen, eine halbe Phrase zu früh
 
 "Ich bin Botanikerin. Pflanzen reagieren auf mich. Ich habe die Hand an einen der Steine gelegt und drei Pulsstöße bekommen. Ich habe einem Farn eine Form gegeben, die er vorher nicht hatte. Und" — hier sah sie zum ersten Mal an Sorel vorbei, nicht zu ihm — "ich habe eine Verbrennung geschlossen, ohne zu wissen, was ich tat."
 
-Sorel hob die linke Hand einen halben Finger, zeigte die Bandage, ließ sie sinken.
+Sorel hob die linke Hand einen halben Finger, zeigte den Handrücken — die Haut dort heller als die Umgebung, neu —, ließ sie sinken.
 
 "Das war ich. Ich fotografiere." Er sprach zu einer Stelle zwischen Maren und Vesper, nicht zu Alphina. "Meine Platten zeigen, was nicht vor der Linse stand. Ich habe ein Bild von einer Stadt, in der ich vor diesen Wochen nicht war — Gassen, die ich nie gegangen bin, und ein Gesicht am Kai, das mein eigenes ist. Ich habe ein Bild von ihr, bevor ich sie sah." Eine Pause, in der er nicht auswich. "Im Mai habe ich gebündeltes Licht gegen ein Wesen am Mauerrand geworfen. Ich habe die Sonne zwischen den Fingern genommen, als wäre sie ein Werkzeug. Das Wesen hat mit Feuer geantwortet, auf meine linke Hand, ohne zu brennen. Die Hand ist geschlossen worden, an einem Morgen, den ich nicht beschreiben will."
 
@@ -107,7 +107,9 @@ Sie sah Sorel an. Einen Lidschlag. Er sah zurück. Die Haltung seiner Schultern 
 
 Sie drehte den Kopf fort, zur Mitte des Kreises, wo nichts war.
 
-Hinter Maren zerriß die Luft.
+Maren sah auf den Boden des Kreises. "Ich glaube, ich kenne —"
+
+Hinter ihr zerriß die Luft.
 
 
 ---
@@ -149,9 +151,9 @@ Das Licht traf.
 
 Das Licht kam nicht zurück.
 
-Keine Reflexion, kein Flimmern, kein Versprühen an den Kanten. Licht ging in diese Schulter hinein, und die Schulter schloss sich über ihm, bevor es Reflex werden konnte. Dorthin, wo das Licht war, war es nicht mehr. Die Schulter blieb dunkel.
+Keine Reflexion, kein Flimmern, kein Versprühen. Licht ging in diese Schulter hinein — und verschwand. Nicht gestreut. Ausgelöscht. Die Schulter schluckte es, wie eine Öffnung schluckt, ohne Boden, ohne Wiederkehr, und blieb dunkel. Dorthin, wo das Licht gewesen war, war Nichts. Nicht Schatten. Nichts.
 
-Sorel machte einen Schritt rückwärts. Die linke Hand zog an der Bandage — er hatte sie vergessen, sie erinnerte sich jetzt. Die rechte Hand fasste, ohne dass er es ihr befahl, nach Alphinas Ellbogen. Die Hand lag an der Innenseite ihres Arms, und er zog sie einen halben Schritt aus der Schusslinie, drei Finger breit.
+Sorel machte einen Schritt rückwärts. Die linke Hand streckte sich in den alten Reflex — Die rechte Hand fasste, ohne dass er es ihr befahl, nach Alphinas Ellbogen. Die Hand lag an der Innenseite ihres Arms, und er zog sie einen halben Schritt aus der Schusslinie, drei Finger breit.
 
 Ihr Körper folgte, bevor ihr Kopf wusste, dass er gezogen wurde.
 
@@ -179,7 +181,7 @@ Sie war nicht in die Hocke gegangen, sie war auf die Knie gegangen, und die Knie
 
 Sie bekam Gras.
 
-Dünne, blass­grüne Halme, fingerdick aus der Erde, die dem Wesen bis ans Schienbein gingen und das Schienbein nicht hielten. Sie riss die Hände hoch, wie sie sie in Velde hochgerissen hatte, wenn eine Saat nicht ging. Noch einmal, und sie bekam dieselben Halme, noch zahlreicher, noch weniger fest.
+Dünne, blass­grüne Halme, fingerdick aus der Erde, die dem Wesen bis ans Schienbein gingen und das Schienbein nicht hielten. Sie riss die Hände hoch. Ihre Kehle war eng. Noch einmal, Hände in die Erde, der Wille hart und zu groß für den Kanal — und sie bekam dieselben Halme, noch zahlreicher, noch weniger fest.
 
 "Sorel."
 
@@ -204,6 +206,8 @@ Die Wurzeln kamen.
 Sie kamen von drei Seiten, in einer Geschwindigkeit, die nichts mit ihrer Wurzelarbeit in den Treibhäusern zu tun hatte. Sie waren holzig, fingerdick, dann daumen­dick, dann handgelenk­stark, und sie kannten den Ort des Wesens, auch wenn sie unterirdisch liefen. Sie wuchsen durch die Grasnarbe im Kreis, wie Finger durch einen Stoff, und gruppierten sich um die beiden schweren Füße des Wesens, und stiegen an ihnen auf.
 
 Vesper hielt den Takt.
+
+*Bleib stehen.*
 
 Er hielt zwei Takte, die nichts miteinander zu tun hatten. Den Verlangsamungs-Takt für das Wesen, den sauberen, den er aus der eigenen Brust nahm. Und den Beschleunigungs-Takt für die Wurzeln, der kein Menschen­takt war — er lag über dem Puls, war das, was Wurzeln brauchten, wenn sie Jahre in Sekunden machen sollten. Zwischen den zwei Takten lag sein Körper, zwischen den zwei Takten war er die Strecke, und die Strecke zog an jeder Rippe. Seine Hände, beide, waren jetzt in der Luft, die Finger gespreizt in einer Form, die er aus keiner Werkstatt kannte. Seine Schultern brannten.
 
