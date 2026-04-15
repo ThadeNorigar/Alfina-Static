@@ -73,7 +73,7 @@ Vesper sah sie an.
 
 Alphina hörte ihre eigene Stimme zu früh einsetzen, eine halbe Phrase zu früh, und ließ sie trotzdem stehen.
 
-"Ich bin Botanikerin. Die Pflanzen hier sprechen zurück. Ich habe die Hand an einen der Steine gelegt und drei Pulsstöße bekommen. Ich habe einem Farn eine Form gegeben, die er vorher nicht hatte. Und" — hier sah sie zum ersten Mal an Sorel vorbei, nicht zu ihm — "ich habe eine Verbrennung geschlossen, ohne zu wissen, was ich tat."
+"Ich bin Botanikerin. Pflanzen reagieren auf mich. Ich habe die Hand an einen der Steine gelegt und drei Pulsstöße bekommen. Ich habe einem Farn eine Form gegeben, die er vorher nicht hatte. Und" — hier sah sie zum ersten Mal an Sorel vorbei, nicht zu ihm — "ich habe eine Verbrennung geschlossen, ohne zu wissen, was ich tat."
 
 Sorel hob die linke Hand einen halben Finger, zeigte die Bandage, ließ sie sinken.
 
