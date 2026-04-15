@@ -367,7 +367,7 @@ In Moragh: eine Naturgewalt. Alphina hebt die Hand und ein Wald wächst. In Minu
 
 ## Die vier Protagonisten
 
-### Alphina — aus Velde (Tidelände)
+### Alphina Fenne — aus Velde (Tidelände)
 
 **Steckbrief:**
 | | |
