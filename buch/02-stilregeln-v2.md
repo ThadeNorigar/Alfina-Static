@@ -5,7 +5,7 @@
 | Muster | Max pro Kapitel |
 |--------|----------------|
 | "nicht X — sondern Y" | **1.** Die Konstruktion ist ein rhetorisches Signal ("Leserin, merk auf"). Einmal pro Kapitel als Akzent. Mehr ist Predigt. |
-| "wie etwas das..." Vergleiche | 4 |
+| "wie etwas das..." / "wie ein..." Vergleiche | **2** (verschärft April 2026, war 4). Nur wenn das Vergleichsbild konkreter ist als das Verglichene. |
 | Erklärende Nachsätze ("weil...", "nicht weil... sondern weil...") | Nur wenn Alphinas Gedankengang es BRAUCHT. Sonst: Handlung stehen lassen. |
 | Deppenapostrophe (Haron's, Klaus's, Vesper's) | **0.** Deutsch: Harons Boot, Vespers Uhr. Apostroph NUR bei Namen auf s/z: "Voss' Nichte", "Edrics Werkbank." |
 | Markante Phrase wiederholt ("dreizehn Jahre", "die Routine") | 3-4 pro Kapitel. Jede an eigenem Zweck. |
@@ -364,6 +364,60 @@ Stilmittel sind **DEFAULT VERBOTEN** bis sie bewusst freigegeben werden. Die fol
 | "wie etwas das..." Vergleiche >4 | VERBOTEN | 4 ist das Limit |
 
 **Prinzip:** Wenn ein Stilmittel nicht in der "Erlaubt wenn"-Spalte eine explizite Ausnahme hat, ist es verboten. Im Zweifel: nicht verwenden.
+
+## Konkretheits-Regeln (Ding vor Bild) — April 2026
+
+**Grundproblem:** Die Prosa ist zu abstrakt/verkünstelt geworden. Bilder stapeln sich auf Abstrakta, Abstrakta stapeln sich auf Abstrakta. Die Leserin sieht nichts mehr — nur "Stille", "Kälte", "Schwere", "Ferne".
+
+**Gegenprinzip:** Jeder Absatz braucht ein Ding mit Material, Farbe, Gewicht, Textur. Das Ding kommt zuerst. Das Bild darf erst, wenn das Ding steht.
+
+### Harte Regeln
+
+| Regel | Limit |
+|-------|-------|
+| Material-Erstnennung pro Absatz | **min. 1** benanntes Ding (Kupfer, Leinen, Birkenrinde, Messing, Kalkstein, Ruß, Tusche, Talg, Zinn, Schiefer, etc.) |
+| Abstrakte Nomina pro Absatz (Stille, Kälte, Schwere, Leere, Ferne, Ewigkeit, Dunkelheit, Unendlichkeit, Unheimliches, Abgrund, Raum als Metapher) | **max. 1** |
+| Abstraktum + Abstraktum in einem Satz (*"die Stille des Abgrunds"*, *"die Kälte der Leere"*) | **0** |
+| Metapher ohne Boden (Bild ohne schon benanntes Ding) | **0** |
+| "wie X"-Vergleich (verschärft von 4) | **max. 2 pro Kapitel**. Nur wenn X konkreter als das Verglichene. |
+| Zwei Metaphern im selben Absatz für dasselbe Referenzobjekt | **0** |
+| Metapher direkt nach Emotion-Erkenntnis | **0**. Körperbild reicht. |
+
+### Das Material-Vokabular
+
+Jeder POV hat sein Material-Register, das beiläufig auftaucht:
+
+| POV | Materialien (Beispiele, nicht erschöpfend) |
+|-----|---------------------------------------------|
+| Alphina | Kalkstein, Humus, Birkenrinde, Flechten, Talkum, Rotkohl, Leinen, Kupfer |
+| Sorel | Silberbromid, Glasplatte, Messing, Samt, Tusche, Leinwand, Wachs |
+| Vesper | Messing, Stahl, Rubin-Lagerstein, Walöl, Schellack, Glas, Zink |
+| Maren | Eiche, Teer, Hanfseil, Leinöl, Salzkruste, Zinn, Kiefer |
+
+### Tests
+
+**Ding-Test (pro Absatz):**
+> Zeige mir ein benanntes Material im Absatz. Wenn keins da ist — fehlt Konkretheit.
+
+**Stäubchen-Test:**
+> Wenn eine Handwerkerin den Text liest — kann sie das Ding auf der Seite greifen, riechen, wiegen? Wenn nur "Gefühl" da ist, ist der Absatz zu abstrakt.
+
+**Bild-Boden-Test:**
+> Jede Metapher zurück zum Referenzgegenstand verfolgen. Ist der Gegenstand im selben Absatz konkret benannt worden? Wenn nein — entweder Gegenstand nachliefern oder Bild streichen.
+
+### Beispiel
+
+**Tot:**
+> Eine Stille lag über dem Raum, wie ein Gewicht, das nicht zu sehen war, und in ihr wuchs etwas, das sie nicht benennen konnte.
+
+Drei Abstrakta (Stille, Gewicht, etwas), kein Ding, zwei Metaphern ohne Boden.
+
+**Lebendig:**
+> Im Regal tickte keine einzige Uhr. Vespers Hand lag auf dem Messing der Werkbank, kalt, und unter den Fingern spürte er den Staub der Feile.
+
+Zwei Dinge benannt (Uhr, Messing-Werkbank, Feile-Staub). Zustand über Handlung und Material, nicht über Abstrakta.
+
+---
 
 ## Quellen (Recherche April 2026)
 

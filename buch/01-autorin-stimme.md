@@ -2,7 +2,9 @@
 
 ## 1. Leitprinzip
 
-King-Erzähldichte (radikale Spezifität, mundane Details die später feuern) + sinnliche Dichte von Dark Romance (Gibson, SenLinYu) + emotionale Brutalität (Kuang). Die Prosa ist das Kunstwerk UND das Fenster — man sieht hindurch, aber das Glas hat Textur. 3. Person nah/Präteritum, erlebte Rede als Default. Der Narrator klebt an der Figur, sieht nur was sie sieht, denkt nur was sie denkt. Keine Distanz, kein Kommentar, kein Wissen von außen. Wenn Alphina den Raum betritt, riecht sie ihn bevor sie ihn beschreibt.
+**Konkretheit vor Bild.** King-Erzähldichte (radikale Spezifität, mundane Details die später feuern) + Bardugo-POV-Signatur (Tempo, Einzeldetails) + Körperlichkeit in Action/Intimität (Yarros, Reisz). Die Prosa ist das Fenster — man sieht hindurch, das Glas hat Textur, aber die Textur ist **Material**, nicht Metapher. 3. Person nah/Präteritum, erlebte Rede als Default. Der Narrator klebt an der Figur, sieht nur was sie sieht, denkt nur was sie denkt. Keine Distanz, kein Kommentar, kein Wissen von außen. Wenn Alphina den Raum betritt, riecht sie ihn bevor sie ihn beschreibt — und sie riecht **Kalkstein, nicht "die Kälte des Steins"**.
+
+**Verschlankung April 2026:** Das breite Autoren-Medley (SenLinYu-Yearning, Gibson-Lyrik, Simone-fremde-Register, Black-verfremdete-Verben) hat zu verkünstelter Prosa geführt. Diese Referenzen sind gestrichen. Die neue Konkretheits-Referenz steht in `01-referenz-konkretheit.md` — eine Dark-Fantasy-Autorin, die Dinge mit Material benennt, Körperbeats vor Dialog stellt, Vorfeld-Inversion gegen Subjekt-Monotonie einsetzt und Sinnes-Trias in 3er-Takt liefert.
 
 ## 2. Die drei Register
 
@@ -145,12 +147,79 @@ Tot:
 - `Das Große Feuer würde ein Datum in den Chroniken werden.`
 - `weil das der billigste Beat gewesen wäre, den ein Mann in seiner Lage hätte spielen können.`
 
-## 9. Referenz-Autorinnen
+### Verkünstelung / Abstrakta-Stapel (NEU April 2026)
+Der häufigste Stilfehler des Projekts. Bilder werden auf Abstrakta aufgebaut, Abstrakta auf Abstrakta. Die Leserin sieht nichts Konkretes, nur „Stille", „Kälte", „Leere", „Ferne". **Default: verboten.** Die Konkretheits-Regeln (`02-stilregeln-v2.md`) sind verbindlich.
 
-Die Stimme von „Der Riss" ist ein MEDLEY:
-- **King:** Erzähldichte, mundane Details, das Unwichtige das wichtig wird
-- **Gibson (A Dowry of Blood):** Lyrische Kadenz, Erotik durch Sinne, Gothic-Ton
-- **SenLinYu (Alchemised):** Yearning, Trauma als Zustand nicht Plotdevice, Kontrollverlust
-- **Schwab (A Darker Shade of Magic):** Magie sensorisch, Farbe als System, Ökonomie
-- **Kuang (Babel):** Stil folgt Stoff, Gewalt durch Akkumulation
-- **Bardugo (Six of Crows):** POV-Differenzierung, Tempo-Wechsel, Atmosphäre durch Einzeldetails
+**Tote Muster:**
+- `Eine Stille lag über dem Raum, wie ein Gewicht, das nicht zu sehen war.` (zwei Abstrakta, kein Ding)
+- `Die Kälte des Abgrunds griff nach ihr.` (Abstraktum + Abstraktum in einer Phrase)
+- `Etwas wuchs in ihr, das sie nicht benennen konnte, eine Sehnsucht, die keinen Namen hatte.` (Bild-auf-Bild, kein Ding)
+- `Die Schwere des Moments lag auf seinen Schultern wie eine Last.` (Abstraktum + Abstraktum + Metapher ohne Boden)
+- `Der Raum füllte sich mit einer Stille, die lauter war als jedes Wort.` (Synästhesie-Klischee, kein Material)
+
+**Fix-Richtung:** Ding vor Bild. Material benennen (Kupfer, Kalk, Leinen, Messing). Körperteil als Subjekt statt Gefühl. Bild nur auf schon benanntem Gegenstand. Max 1 Abstraktum pro Absatz. Siehe `01-referenz-konkretheit.md`.
+
+## 9. Referenz-Autorinnen (gestrafft April 2026)
+
+Die Stimme von „Der Riss" war früher ein breites Medley (King/Gibson/SenLinYu/Simone/Yarros/Douglas/Black/Bardugo/Kuang/Schwab). Das hat zu verkünstelter Prosa geführt — zu viele Zielrichtungen, Bilder die sich stapeln, Abstrakta als Ersatz für Dinge. Der Kern ist jetzt reduziert:
+
+- **King:** Erzähldichte, mundane Details, das Unwichtige das wichtig wird. **Kern-Referenz.**
+- **Bardugo (Six of Crows):** POV-Differenzierung, Tempo-Wechsel, Atmosphäre durch benannte Einzeldetails. **Kern-Referenz.**
+- **Yarros (Fourth Wing):** Körper in Action/Intimität — kein Kopf-Kommentar wenn der Körper übernimmt. Moderat.
+- **Reisz / Douglas:** BDSM als Charakter-Enthüllung, nicht Dekoration. Leise. Moderat.
+- **Kuang (Babel):** Stil folgt Stoff — aber sparsam. Keine Gewalts-Akkumulation als Selbstzweck.
+
+**Ergänzt durch:** `01-referenz-konkretheit.md` — Konkretheits-Kanon aus einer Dark-Fantasy-Übersetzungs-Referenz. Material-Erstnennung, Körperbeat-Dialog, Vorfeld-Inversion, Sinnes-3er-Takt, Körper-als-Subjekt.
+
+**Gestrichen (zu viel Drift in Abstraktion/Verfremdung):**
+- Gibson-Lyrik / *A Dowry of Blood* — Kadenz zog die Prosa in Lyrik, weg von Ding.
+- SenLinYu-Yearning / *Alchemised* — erzeugte Abstrakta-Stapel ("Sehnsucht", "Obsession", "Scham" als Nominalisierungen).
+- Sierra Simone-fremde-Register — erzeugte gesuchte Metaphern (Botanik fürs Innenleben, Mechanik für Nähe).
+- Holly Black-verfremdete-Verben — gesuchte Wortwahl, keine konkrete Benennung.
+- Schwab-Farb-System — nicht falsch, aber nicht Kern.
+
+## 10. Dialog-Handwerk und Ensemble-Szenen
+
+### McKee-Regel: Dialog ist verbale Handlung
+
+Jede Replik muss **etwas tun** — nicht informieren, sondern wirken. Die Frage nach jedem Gesprächsbeitrag: Was hat sich durch diesen Satz verändert? Wenn nichts — Replik streichen oder durch Handlung ersetzen.
+
+**Vier Kategorien verbaler Handlung:**
+1. **Schieben:** Die Figur drängt auf etwas zu / erzwingt eine Reaktion
+2. **Blockieren:** Die Figur weicht aus / hält etwas zurück / lenkt ab
+3. **Preisgeben:** Die Figur legt etwas offen — jede Offenbarung hat einen Preis
+4. **Annehmen / Ablehnen:** Einverstanden sein oder verweigern — immer mit Konsequenz
+
+**Preis der Offenbarung:** Wer etwas sagt, das ihn verletzbar macht, zahlt einen Preis. Das ist der Unterschied zwischen Dialog und Information-Transfer. Alphina nennt ihre Fähigkeit — das ist Verletzlichkeit, keine Präsentation. Der Preis muss sichtbar sein (im Körper, in der Reaktion der anderen).
+
+**Subtext als Struktur:** Was NICHT gesagt wird, ist der eigentliche Dialog. Die Figur redet über das Wetter und meint die Frage die sie nicht stellen kann. Guter Dialog hat zwei Ebenen — was die Figur sagt, und was sie will.
+
+**Anti-Pattern: Information-Dialog.** Wenn Figuren einander erklären was beide wissen, oder abwechselnd ihre Fähigkeiten auflisten, ist es kein Dialog — es ist ein Bericht. Test: Könnte dieser Austausch in einem Off-Screen-Gespräch zusammengefasst werden, ohne dass etwas verloren geht? Wenn ja: kein Dialog.
+
+### Berufslinsen im Dialog (30%-Regel)
+
+Figuren sprechen **nicht ständig** in ihrer Berufslinse. Ihr Vokabular ist durch ihren Beruf geprägt — das zeigt sich beiläufig, in einem Bild von drei, nicht durchgehend. **Max 30% der Repliken** tragen Berufslinsen-Färbung. Die anderen 70% sind normales Sprechen.
+
+Wie es sich zeigt: Alphina sagt „Das wächst hier nicht mehr" statt „Die Schwingung ist gestört." Sorel sagt „Das Licht stimmt nicht" statt eine Botanik-Metapher. Es schleicht sich ein — es wird nicht zelebriert.
+
+### Ensemble-Szenen (4+ Figuren)
+
+Eine Szene mit vier Figuren ist kein Bericht über vier Standpunkte. Sie ist eine **Situation** in der vier Willensachsen aufeinanderprallen.
+
+**Vor jeder Ensemble-Szene: drei Fragen beantworten**
+1. Was will jede der vier Figuren in diesem Moment — konkret, nicht abstrakt?
+2. Wer will dasselbe Ziel auf anderen Wegen? (Konflikt liegt dort.)
+3. Was verändert sich bis zum Ende der Szene — Wissen, Allianz, Entscheidung, Machtgefälle?
+
+**Wenn eine Figur in einer Ensemble-Szene nichts will** — sie ist Kulisse. Entweder gibt man ihr einen Willen, oder man schneidet sie raus.
+
+**Das Unmögliche hat einen Preis.** Wenn vier Figuren zusammen etwas schaffen, das eine allein nicht kann: Was kostet es jede einzelne? Nicht symbolisch — konkret im Körper, in dem was sie preisgibt oder riskiert.
+
+**Stimmdifferenzierung:** Alle vier Figuren müssen am Satz erkennbar sein, ohne Namens-Tag. Test: Dialog anonymisieren — wer spricht?
+
+| Figur | Signature im Dialog |
+|-------|---------------------|
+| Alphina | Kurze, präzise Feststellungen. Selten fragt sie. Wenn sie fragt, ist es wichtig. |
+| Sorel | Sätze die in der Mitte abbrechen. Er beobachtet lieber als zu reden. |
+| Vesper | Imperative. Knappe Benennungen. Fragen die keine Antwort brauchen. |
+| Maren | Analoge aus der See. Wenn sie still ist, bedeutet es mehr als wenn sie spricht. |

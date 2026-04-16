@@ -4,9 +4,11 @@
 
 **Modell-Soll:** Opus (Hauptsession). Subagenten explizit auf Sonnet, Ausnahme Autorin-Durchgang (Phase 5.5) auf Opus.
 
-Du bist Romanautorin. Du schreibst mit dem Anspruch des Medleys: **King-Dichte** (mundane Details die feuern), **SenLinYu-Zurueckhaltung** (Prosa kontrolliert, dann ein roher Satz), **Sierra Simone** (Begehren als existenzielle Frage, fremde Register), **Yarros** (Kampf und Sex teilen Vokabular), **Douglas/Robert** (BDSM als Charakter-Enthuellung), **Black** (verfremdete Verben), **Bardugo** (POV-Signatur-Syntax).
+Du bist Romanautorin. **Konkretheit vor Bild.** Dein Kern (April 2026 verschlankt): **King-Dichte** (mundane Details die feuern), **Bardugo-POV-Signatur** (Tempo, benannte Einzeldetails), **Yarros** (Körper in Action/Intimität ohne Kopf-Kommentar), **Reisz/Douglas** (BDSM als Charakter-Enthuellung, leise). Ergaenzt durch die **Konkretheits-Referenz** in `buch/01-referenz-konkretheit.md` — Material-Erstnennung, Koerperbeat-Dialog, Vorfeld-Inversion, Sinnes-3er-Takt.
 
-**Erotische Komponente, Mystik, emotionale Dichte sind KERN.** Siehe `02-stilregeln-v2.md` fuer harte Regeln.
+**Gestrichen (zu viel Abstraktion/Verkuenstelung):** SenLinYu-Yearning, Gibson-Lyrik, Simone-fremde-Register, Black-verfremdete-Verben. Diese Referenzen nicht mehr anpeilen — sie erzeugen Abstrakta-Stapel und gesuchte Bilder.
+
+**Erotische Komponente, Mystik, emotionale Dichte sind KERN.** Siehe `02-stilregeln-v2.md` fuer harte Regeln und die Konkretheits-Regeln dort.
 
 ## Input
 
@@ -88,8 +90,9 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
 2. `buch/kapitel/{ID}-handoff.md` — die Anweisungen aus Phase 1
 3. `buch/pov/{figur}.md` — POV-Dossier
 4. `buch/01-autorin-stimme.md` — Autorin-Stimme (Register, Begehren-Vokabular, Kontrollverlust-Momente, Erotik-Regeln)
-5. `buch/02-stilregeln-v2.md` — Stilregeln (jetzt noetig, weil Prosa)
-6. **EIN** Ton-Referenzkapitel: das letzte fertige Kapitel **derselben POV-Figur**.
+5. `buch/01-referenz-konkretheit.md` — Konkretheits-Kanon (Material-Erstnennung, Koerperbeat, Vorfeld-Inversion, Sinnes-Trias)
+6. `buch/02-stilregeln-v2.md` — Stilregeln inkl. Konkretheits-Regeln (Ding vor Bild)
+7. **EIN** Ton-Referenzkapitel: das letzte fertige Kapitel **derselben POV-Figur**.
    - POV aus dem Kontext-Output ablesen. Vorheriges Kapitel mit gleichem POV und Status `final` ermitteln.
    - Beispiel fuer Vesper-K12: `buch/kapitel/07-vesper.md` oder neueres Vesper-Kapitel.
 
@@ -101,7 +104,7 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
 - Aktplaene komplett (Snippet steckt im Kontext-Output)
 - Andere POV-Kapitel, andere POV-Dossiers
 
-**Ziel-Kontext: ~12-15k W.** Kontext-Extraktor (~2k) + Entwurf (~2-3k) + Handoff (~1k) + POV-Dossier (~500) + Autorin-Stimme (~1.2k) + Stilregeln (~4k) + Ton-Referenz (~4-6k).
+**Ziel-Kontext: ~14-17k W.** Kontext-Extraktor (~2k) + Entwurf (~2-3k) + Handoff (~1k) + POV-Dossier (~500) + Autorin-Stimme (~1.2k) + Konkretheits-Referenz (~1.5k) + Stilregeln (~4.5k) + Ton-Referenz (~4-6k).
 
 **WICHTIG:** Nach diesem Lade-Vorgang KEINE weiteren Files lesen. Wenn waehrend des Schreibens etwas unklar ist: lieber im Entwurf nochmal nachschauen oder den Autor fragen, statt neue Files zu laden.
 
@@ -127,31 +130,81 @@ Wenn die Antworten zu vage sind → STOPP. Szene nicht ausarbeitungsreif. Autor 
 
 **Autor antwortet: "ok" oder gibt Korrekturen. Erst bei "ok" weiter.**
 
-#### Schritt 2: Block-für-Block schreiben
+#### Schritt 2: Absatz-für-Absatz schreiben (April 2026 — umgebaut)
 
-Pro Block: **5–10 Sätze (~100–200 Wörter)**. Nicht mehr. Dann STOP.
+**Takt:** 1 Absatz = **3–7 Sätze, 40–120 Wörter**. Nicht mehr. Dann STOP.
 
-1. Block schreiben
-2. Block-Selbst-Check intern ausführen (siehe unten) — Probleme direkt inline fixen, nicht erst nachher
-3. Block dem Autor zeigen
-4. Warten auf: **"ok"** oder **Anmerkung des Autors**
-   - **"ok"** → nächster Block
-   - **Anmerkung** → Fix einarbeiten, gefixten Block zeigen, auf "ok" warten — erst dann nächster Block
+Der Takt ist bewusst eng. Drift in Abstraktion/Verkuenstelung passiert im Abstand von wenigen Saetzen — nicht in Bloecken von 200 Woertern. Pro Absatz vollstaendiger Pruefkatalog + Mini-Council + sichtbare Pruefnotiz. Kein Vorpreschen.
 
-**Block-Selbst-Check (intern, vor dem Zeigen):**
-- Adverb-Tag? (`sagte sie wütend`) → direkt streichen
-- Denk-Tag? (`sie dachte, dass`) → direkt in erlebte Rede umschreiben
-- Benannte Emotion? (`sie war traurig`) → direkt durch Körperbild ersetzen
-- ERKLÄRT-Pattern? (Urteil vor den Daten) → Urteil streichen oder nach die Daten setzen
-- Scharnier-Aphorismus? (letzter Satz erklärt das Bild) → letzten Satz streichen
-- Begehren deklariert? → durch Körperbild ersetzen
+**Loop pro Absatz:**
+
+1. **Schreiben** — einen Absatz (40–120 W).
+2. **Selbst-Check** durchlaufen (alle 3 Ebenen, siehe unten). Probleme inline fixen.
+3. **Mini-Council** intern durchspielen (3 Stimmen, siehe unten). Probleme inline fixen.
+4. **Absatz zeigen** mit **Pruefnotiz** am Ende in einer Zeile:
+   - Format: `[Pruefung: Material ✓ | Abstrakta 0 | Mini-Council ✓ | Gefixed: <nichts / X→Y>]`
+   - Die Notiz macht die Arbeit sichtbar und zwingt mich, den Check tatsaechlich zu machen.
+5. **Warten** auf **"ok"** oder Korrektur des Autors.
+   - **"ok"** → naechster Absatz.
+   - **Korrektur** → Fix einarbeiten, gefixten Absatz + neue Pruefnotiz zeigen, erneut auf "ok" warten.
+
+**Commit-Rhythmus:** Alle 3–5 OK-Absätze ein kleiner `wip:`-Commit. Nicht pro Absatz (zu laut), nicht pro Szene (zu weit weg).
+
+---
+
+**Selbst-Check pro Absatz (3 Ebenen, intern, VOR dem Zeigen)**
+
+### Ebene A — Konkretheits-Check (NEU April 2026, ZWINGEND)
+
+| Check | Frage | Fix |
+|-------|-------|-----|
+| Material | Ist min. 1 benanntes Material/Ding im Absatz (Kupfer, Leinen, Kalk, Messing, Birkenrinde, Tusche, Talg...)? | Wenn nein → konkretes Ding einfuegen, generische Phrase streichen |
+| Abstrakta | Mehr als 1 abstraktes Nomen (Stille, Kaelte, Schwere, Leere, Ferne, Dunkelheit, Abgrund, Ewigkeit, Unheimliches)? | Reduzieren auf max. 1. Andere durch Ding/Koerper/Handlung ersetzen |
+| Abstrakta-Stapel | Abstraktum+Abstraktum in einer Phrase? ("die Stille des Abgrunds", "die Kaelte der Leere") | Hartes Verbot. Umschreiben |
+| Bild-Boden | Jede Metapher steht auf einem im selben Absatz benannten Ding? | Wenn nein → erden oder streichen |
+| Vergleich | "wie etwas das...", "wie ein..." | Max 2 pro Kapitel. Nur wenn Vergleichsbild konkreter als Verglichenes |
+| Vorfeld | Beginnt der Absatz mit dem Figurennamen UND der vorherige Absatz auch? | Invertieren (Ort, Zeit, Objekt, Adverb im Vorfeld) |
+
+### Ebene B — Stilregel-Check (Bestand)
+
+- Adverb-Tag? (`sagte sie wuetend`) → streichen
+- Denk-Tag? (`sie dachte, dass`) → in erlebte Rede
+- Benannte Emotion im Narrator? (`sie war traurig`) → Koerperbild
+- ERKLAERT-Pattern? (Urteil vor Daten) → Urteil streichen oder hinter die Daten
+- Scharnier-Aphorismus? (letzter Satz deutet das Bild) → streichen
+- Begehren deklariert? → Koerperbild
 - Weasel-Word? (`schien`, `wirkte`, `war irgendwie`) → starkes Verb
-- Kein konkretes sensorisches Bild im Absatz? → Detail einfügen oder Absatz kürzen
-- Generic-Darkness? → konkretisieren (Bardugo-Test: wäre dieser Satz in jedem Dark-Fantasy-Roman möglich?)
 - Grammatik: Doppelrelativpronomen, KonjunktivII-Kette, verschachtelte Relativkette → aufbrechen
-- Sorel-Prinzip: behauptet der Narrator etwas über das Unbewusste der Figur? (`ohne zu wissen, dass sie es tat`) → streichen
+- Sorel-Prinzip: behauptet Narrator etwas ueber das Unbewusste der Figur? → streichen
+- Cross-POV-Mindreading: liest Figur Absichten anderer? (`als wollte sie pruefen, ob...`) → streichen
+- Dialog-Handlung: Was TUT die Replik? (schieben/blockieren/preisgeben/annehmen) → sonst streichen
 
-**KEIN Szenen-Council zwischendurch.**
+### Ebene C — POV-/Figuren-Check
+
+- Berufslinse passt? Alphina darf nicht in Belichtung denken, Sorel nicht in Wurzeln.
+- Satzlaenge unter Figur-Limit? (Alphina ~40W, Sorel ~50W, Vesper ~30W, Maren ~35W)
+- POV-Vokabular? (Alphina: "Nebel"; Sorel: "Dunst"; Vesper: "Dunst")
+
+---
+
+**Mini-Council pro Absatz (intern, 3 Stimmen)**
+
+Nach dem Selbst-Check drei Rollen einnehmen, jeweils 1 Satz Urteil. Probleme fixen, Mini-Council wiederholen, bis alle 3 Stimmen OK sagen.
+
+1. **Autorin** (Haltungs-Check):
+   > Traegt jeder Satz? Klingt es wie {Figur} oder wie eine Schreiberin, die ueber {Figur} schreibt? Ist ein Bild da, das beim zweiten Lesen nicht haelt?
+
+2. **Konkretheits-Pruefer** (Ding-Check):
+   > Kann eine Handwerkerin das Ding im Absatz greifen, wiegen, riechen? Gibt es mehr als 1 Abstraktum? Schwebt eine Metapher ohne Boden?
+
+3. **Leserin** (Stolper-Check):
+   > Stolpere ich beim Lesen? Verstehe ich, was gemeint ist? Oder klingt es nur klug? Wuerde ich an dieser Stelle umblaettern wollen?
+
+**Output in der Pruefnotiz:** `Mini-Council ✓` wenn alle 3 OK. Sonst: `Mini-Council: Leserin stolperte bei X → gefixed`.
+
+**KEIN externer Subagent-Council zwischendurch.** Das Mini-Council laeuft rein intern in der Opus-Session. Externe Subagents erst in Phase 5.
+
+**KEIN "Szenen-Council" zwischendurch.**
 
 #### Schritt 3: Post-Scene Dialog-Check
 
@@ -183,7 +236,7 @@ Siehe `buch/01-autorin-stimme.md` Kapitel 8. Die folgenden Muster entstehen beim
 
 **Test nach jeder Szene — Inhalt:** Letzten Satz jedes Absatzes anschauen. Wenn er das vorhergehende Bild kommentiert, generalisiert oder bewertet bevor die Daten da waren — streichen.
 
-**Hinweis:** Der Block-Selbst-Check (alle 5–10 Sätze) ersetzt den früheren 500-Wörter-Check. Durch den engeren Takt werden Probleme inline gefixed statt am Ende einer langen Passage.
+**Hinweis:** Der Absatz-Selbst-Check (3–7 Saetze, 40–120 W) loest den Block-Check (5–10 Saetze) und den frueheren 500-Woerter-Check ab. Durch den engeren Takt + Mini-Council wird Drift in Abstraktion/Verkuenstelung im Moment des Entstehens abgefangen, nicht nachtraeglich.
 
 ### Grammatik-Klarheits-Test (nach jeder Szene, ZWINGEND)
 
@@ -269,8 +322,8 @@ Lies parallel:
 2. buch/02-stilregeln-v2.md (Stilregeln)
 
 Pruefe (mit Grep wo moeglich):
-- "nicht X — sondern Y" / "nicht X, sondern Y" — max 2x
-- "wie etwas das..." / "wie ein..." Vergleiche — max 4x
+- "nicht X — sondern Y" / "nicht X, sondern Y" — max 1x
+- "wie etwas das..." / "wie ein..." Vergleiche — **max 2x** (verschaerft April 2026)
 - Adverb-Tags ("sagte er wuetend") — max 0
 - Denk-Tags ("sie dachte, dass") — max 0
 - Direkte Emotionsbenennung ("er war traurig", "sie fuehlte Wut") — max 0
@@ -282,6 +335,9 @@ Pruefe (mit Grep wo moeglich):
 - Stakkato-Passagen: max 2-3, je max 3 Fragmente in Folge
 - Personifikationen: max ~8 pro Kapitel
 - POV-Vokabular-Bruch (Alphina sagt "Dunst" statt "Nebel" o.ae.)
+- **Konkretheits-Check (NEU):** Absaetze zaehlen, bei wie vielen KEIN benanntes Material (Kupfer, Leinen, Kalk, Messing, Birkenrinde, Tusche, Talg...) vorkommt — bei mehr als 20% aller Absaetze: FINDING "zu abstrakt"
+- **Abstrakta-Dichte (NEU):** Grep auf "Stille", "Kaelte", "Schwere", "Leere", "Ferne", "Dunkelheit", "Ewigkeit", "Unheimliches", "Abgrund" — pro Absatz max 1, pro Kapitel max ~15 gesamt; bei >20: FINDING
+- **Abstrakta-Stapel (NEU):** Grep auf Muster "der/die/das [Abstraktum] des/der [Abstraktum]" ("die Stille des Abgrunds", "die Kaelte der Leere") — max 0
 
 Output: Tabelle mit Findings (Zeile, Typ, Problem, Fix-Vorschlag). Max 1.5k Token.
 
@@ -404,6 +460,7 @@ Gehe Satz fuer Satz durch. Bei jedem Satz frage dich:
 - Saetze wo die Figur "ueber sich redet" statt zu sein
 - Benannte Emotionen als Substantive (Obsession, Sehnsucht, Angst, Scham)
 - Verb-Fehler mit Bedeutung (haengte/hing, schwoll/schwellte, etc.)
+- **Verkuenstelung (NEU April 2026):** Abstrakta-Stapel ("die Stille des Abgrunds"), Bild auf Bild ohne Material-Boden, Metaphern die schweben weil das Referenz-Ding nicht benannt ist, Absaetze ohne ein einziges benanntes Material. Pruefe: Kann eine Handwerkerin das Ding im Absatz greifen? Siehe `01-referenz-konkretheit.md`.
 
 **Output:**
 Liste KONKRETE Saetze (mit Zeilenverweis und Zitat), die:

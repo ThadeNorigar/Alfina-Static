@@ -29,8 +29,11 @@ Zähle mit Grep/Bash — keine Schätzungen:
 
 | Muster | Max | Aktion wenn über Limit |
 |--------|-----|----------------------|
-| "nicht X — sondern Y" / "nicht X, sondern Y" | 2x pro Kapitel | Überzählige markieren |
-| "wie etwas das..." / "wie ein..." Vergleiche | 4x pro Kapitel | Überzählige markieren |
+| "nicht X — sondern Y" / "nicht X, sondern Y" | 1x pro Kapitel | Überzählige markieren |
+| "wie etwas das..." / "wie ein..." Vergleiche | **2x pro Kapitel** (April 2026 verschärft, war 4) | Überzählige markieren |
+| **Abstrakte Nomina** (Stille, Kälte, Schwere, Leere, Ferne, Dunkelheit, Ewigkeit, Unheimliches, Abgrund, Unendlichkeit) — Gesamtzählung | ~15 pro Kapitel | FINDING wenn >20 |
+| **Abstrakta-Stapel** Regex: `\b(der\|die\|das)\s+(Stille\|Kälte\|Schwere\|Leere\|Ferne)\s+(des\|der)\s+` | 0 | Jeden Treffer markieren |
+| **Absätze ohne Material** (kein Kupfer/Leinen/Kalk/Messing/Birkenrinde/Tusche/Talg/Zinn/Schiefer/Ruß/Eiche/Teer etc.) | <20% | FINDING wenn >20% der Absätze kein benanntes Material |
 | "und" als Satzverbinder (Hauptsatz und Hauptsatz) | Meldung ab >3 in einem Satz | Ketten markieren |
 | Wort/Phrase die >7x vorkommt (außer Artikeln/Pronomen) | 7x | Häufung markieren |
 | Markante Phrase (z.B. "dreizehn Jahre", "die Routine") | 4x | Jede über 4 markieren |
