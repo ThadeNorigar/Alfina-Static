@@ -421,19 +421,35 @@ Zwei Dinge benannt (Uhr, Messing-Werkbank, Feile-Staub). Zustand über Handlung 
 
 In Szenen mit körperlicher Nähe oder BDSM ist **bildlastige Prosa erlaubt und gewünscht** — aber jedes Bild braucht einen Material-Boden im selben Absatz. Kein schwebendes Bild. Das Ding-vor-Bild-Prinzip gilt, die Dichte der Bilder darf höher sein.
 
-**Material-Register für Nähe/BDSM:** Wachs (tropft, kühlt, reißt Haare beim Abziehen), Leder (riecht, knarrt, wärmt von innen), Seil (Hanf/Jute, reibt, hinterlässt Linien), Samt (gleitet), Kupfer/Eisen (Handfesseln, Geschmack wenn Haut sich entzündet), Salz (auf Schweiß, in Blut), Öl (Lampenöl, Leinöl auf Holz), Wein (auf Zunge, im Atem), Schellack (Fingernagel, Lack auf Holz wo sie sich festhält).
+**Primär-Modell: Pauline Réage (Geschichte der O, 1954).** Material-Präzision ohne Metapher; Anatomie direkt benannt; Kleidung als Spannungs-Rahmen; Dom-Stimme erklärt Funktion statt zu mystifizieren. Siehe `01-autorin-stimme.md` Kapitel 9 für die Prinzipien im Detail.
+
+**Material-Register für Nähe/BDSM:**
+- **Utensilien:** Wachs (tropft, kühlt, reißt Haare beim Abziehen), Leder (riecht, knarrt, wärmt von innen — in Schichten, mit Schnappverschluss, mit Metallring), Seil (Hanf/Jute, reibt, hinterlässt Linien), Bambus-Reitstock mit Lederbezug, Neunschwänzige aus eingeweichter Schnur, Ziegenlederhandschuhe.
+- **Kleidung:** Seide (Farbe nennen), Samt (gleitet), Batist (gestärkt oder weich), Leinen, Fischbein (im Mieder), Spitze, Pelz (Puff-Bezug, sticht), Korsett (mit Haken oder Schnürung vorn), Strumpfgürtel, Strumpfhosen.
+- **Metall und Haut:** Kupfer/Eisen (Handfesseln, Geschmack wenn Haut sich entzündet), Schloss mit Schnappverschluss und Schlüssel, Eisenring als Eigentums-Symbol.
+- **Stoffe am Körper:** Salz (auf Schweiß, in Blut), Öl (Lampenöl, Leinöl auf Holz), Wein (auf Zunge, im Atem), Schellack (Fingernagel, Lack auf Holz wo sie sich festhält), Parfum (auf Handfläche, zwischen Schenkeln).
+
+**Anatomie direkt benannt (Réage-Prinzip):** Brüste, Schenkel, Kehle, Schoß, Hüften, Nacken, Glied, Zunge, Lippen. Keine Euphemismen (*"Weiblichkeit"*, *"Lenden"* als Umschreibung), keine Pornografie-Platzhalter (*"Schaft"*, *"Muschi"*). Direkt. Klinisch-präzise = stärker als beide Umgehungen.
 
 **Erlaubt in BDSM-Szenen (nicht in Alltagsszenen):**
-- Erhöhte Bild-Dichte (mehrere Metaphern pro Absatz, solange jede einen Ding-Anker hat)
+- Erhöhte Bild-Dichte (mehrere Bilder pro Absatz, solange jedes einen Ding-Anker hat)
 - Synästhesie wenn materiell getragen (Salz schmeckt metallisch auf der Lippe)
-- Körper-als-Landschaft (nur mit konkretem Material: "ihre Haut hatte die Wärme der Kupferwanne")
+- Körper-als-Landschaft nur mit konkretem Material (*"ihre Haut hatte die Wärme der Kupferwanne"*)
+- Ein einziger *"wie X"*-Vergleich pro Szene mit konkretem Ding-Bild (*"der grüne Rock umgab sie wie eine Blütenkrone"* — Rock + Blütenkrone, beides greifbar)
+- Paradox-Formulierungen (Liebe mitten in Erniedrigung, Lust mitten in Schmerz) — sie sind Dark-Romance-Kern
+- Befehl-Dialog in Imperativen ohne Begründung
 
 **Bleibt auch in BDSM verboten:**
 - Abstrakta-Stapel (*"die Stille des Abgrunds ihrer Kehle"*)
 - Bild ohne Material-Boden (*"etwas in ihr öffnete sich"* — was? wo?)
-- Benannte Emotion als Nomen (*"die Obsession", "die Sehnsucht"*)
+- Benannte Emotion als Nomen (*"die Obsession"*, *"die Sehnsucht"*)
 - Antithese *"nicht X — sondern Y"* über Limit (1/Kapitel gilt auch hier)
-- "wie ein..."-Vergleiche über 2/Kapitel
+- *"wie ein..."*-Vergleiche über 2/Kapitel
+- Passiv-Kaskaden (*"sie wurde entkleidet, sie wurde gewaschen, sie wurde geführt"*) — bei Réage als Objektifikations-Effekt, bei uns tot über 900 Seiten
+- Dom-Monolog über 4 Sätze (Réage macht es, wir kürzen)
+- Dokumentarstimme (*"ich weiß nicht, wie lange..."*) — Deep-POV bricht
+
+**Körper vor Erkenntnis (Pflicht in jeder BDSM-Szene):** Figur reagiert körperlich, bemerkt erst danach. Zittern → dann Satz. Nicht umgekehrt.
 
 **Geschmacks-Pflicht bleibt hart:** Jede Nähe-Szene braucht Geschmack (Salz, Metall, Wein, Haut, Blut, Öl).
 

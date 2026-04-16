@@ -53,11 +53,19 @@ Das Begehren-Vokabular muss so differenziert sein wie die Berufslinsen:
 
 ## 5. Erotik-Regeln
 
-- **Sensorisch, nie mechanisch:** Atem, Hautkontakt, Temperatur, Geschmack. Anatomie sparsam, Empfindung reichlich.
+- **Sensorisch, nie mechanisch:** Atem, Hautkontakt, Temperatur, Geschmack. **Anatomie direkt benannt** (Réage-Prinzip), Empfindung reichlich.
+- **Anatomie direkt, nicht euphemistisch und nicht mechanistisch:** Réages Modell. Keine *"Weiblichkeit"*, keine *"Lenden"* als Umschreibung, kein *"Schaft"*-Pornografie-Register. Direkt: *Brüste, Schenkel, Kehle, Schoß, Hüften, Nacken, Glied, Zunge*. Das konkrete Wort ist stärker als Umschreibung oder Klinik.
 - **Geschmack als sechster Sinn:** Haut schmeckt. Schweiß schmeckt. Salz auf Lippen. Metall auf der Zunge wenn der Puls zu hoch ist. IN JEDER NÄHE-SZENE.
+- **Kleidungs-Material-Präzision:** Seide / Samt / Batist / Leinen / Fischbein / Spitze. Kleidung ist nicht Dekoration, sondern der Rahmen der Szene. Welche Schicht, welcher Verschluss, welche Farbe — das trägt Erniedrigung/Hingabe mit (Réage).
+- **BDSM-Utensilien mit Material + Dicke + Mechanismus + Funktion:** *"aus mehreren Lederschichten, jede Schicht sehr dünn... mit einem Schnappverschluß, der automatisch einklickte."* Keine generischen *"Fesseln"*, *"Peitsche"*, *"Seil"*. Immer: welches Material, wie dick, wie verschlossen, wofür gebaut.
+- **Körper VOR Erkenntnis (Réage):** Figur reagiert körperlich, bemerkt erst danach. *"Sie zitterte heftig und hörte mit Schrecken, daß sie erwiderte: 'Ich liebe dich'"* — der Körper hat gesprochen, der Kopf holt auf.
+- **Paradox-Kern (Réage):** Liebe und Erniedrigung im selben Atem. Die Bedeutung entsteht aus dem Kontrast zweier gleichzeitig wahrer Dinge.
 - **Innerer Monolog während Intimität:** Widerstand vs. Begehren, Scham vs. Lust. Der Konflikt im Kopf IST der Spice.
 - **Consent durch Körper:** Der Körper sagt Ja bevor der Mund es tut. Micro-Checks in Dom-Stimme: knappe Imperative die gleichzeitig Erlaubnis abfragen.
+- **Dom-Stimme als erklärte Funktion (Réage):** Der Dom mystifiziert nicht. Er nennt den Zweck — *"nicht der Bequemlichkeit halber, sondern um Sie zu erniedrigen"*. Das ist stärker als geheimnisvoll. **Aber kurz halten** — max 3–4 Sätze Dom-Regel-Ansage, keine Réage-Monolog-Kaskaden.
+- **Befehl-Dialog:** Dom-Sprache ist imperativ, knapp, ohne Begründung. *"Sage immer wieder: Ich liebe Sie."* Kein Modal, kein *"bitte"*, kein Halbsatz. (Sub-Sprache darf Halbsätze, Würgen, unvollständige Atemzüge.)
 - **Dom-Raumwirkung:** Vesper verändert die Atmosphäre durch Anwesenheit. Der Raum verengt sich. Die Luft wird dichter. Nicht durch Handlung — durch SEIN.
+- **Licht als Inszenierungs-Werkzeug:** Der Dom kann Licht befehlen. *"Mehr Licht."* Lampe gerichtet auf Anatomie. Für Sorel-POV (Fotograf) ein doppeltes Werkzeug — er ist beides, Licht-Setzer und Beobachter.
 - **Submission als innerer Prozess:** Maren entscheidet sich, nicht unterzugehen, sondern loszulassen. Der Unterschied ist alles.
 
 ## 6. Signature-Sinne
@@ -161,22 +169,45 @@ Der häufigste Stilfehler des Projekts. Bilder werden auf Abstrakta aufgebaut, A
 
 ## 9. Referenz-Autorinnen (gestrafft April 2026)
 
-Die Stimme von „Der Riss" war früher ein breites Medley (King/Gibson/SenLinYu/Simone/Yarros/Douglas/Black/Bardugo/Kuang/Schwab). Das hat zu verkünstelter Prosa geführt — zu viele Zielrichtungen, Bilder die sich stapeln, Abstrakta als Ersatz für Dinge. Der Kern ist jetzt reduziert:
+Die Stimme von „Der Riss" war früher ein breites Medley (King/Gibson/SenLinYu/Simone/Yarros/Douglas/Black/Bardugo/Kuang/Schwab). Das hat zu verkünstelter Prosa geführt — zu viele Zielrichtungen, Bilder die sich stapeln, Abstrakta als Ersatz für Dinge. Das Medley ist aufgeteilt in **Kern** (alle Szenen) und **BDSM-/Nähe-Zusatz-Register** (nur intime Szenen).
 
-- **King:** Erzähldichte, mundane Details, das Unwichtige das wichtig wird. **Kern-Referenz.**
-- **Bardugo (Six of Crows):** POV-Differenzierung, Tempo-Wechsel, Atmosphäre durch benannte Einzeldetails. **Kern-Referenz.**
-- **Yarros (Fourth Wing):** Körper in Action/Intimität — kein Kopf-Kommentar wenn der Körper übernimmt. Moderat.
-- **Reisz / Douglas:** BDSM als Charakter-Enthüllung, nicht Dekoration. Leise. Moderat.
-- **Kuang (Babel):** Stil folgt Stoff — aber sparsam. Keine Gewalts-Akkumulation als Selbstzweck.
+### Kern-Referenzen (alle Szenen)
 
-**Ergänzt durch:** `01-referenz-konkretheit.md` — Konkretheits-Kanon aus einer Dark-Fantasy-Übersetzungs-Referenz. Material-Erstnennung, Körperbeat-Dialog, Vorfeld-Inversion, Sinnes-3er-Takt, Körper-als-Subjekt.
+- **King:** Erzähldichte, mundane Details, das Unwichtige das wichtig wird.
+- **Bardugo (Six of Crows):** POV-Differenzierung, Tempo-Wechsel, Atmosphäre durch benannte Einzeldetails.
+- **Yarros (Fourth Wing):** Körper in Action/Intimität — kein Kopf-Kommentar wenn der Körper übernimmt.
+- **Kuang (Babel):** Stil folgt Stoff — sparsam, keine Gewalts-Akkumulation als Selbstzweck.
 
-**Gestrichen (zu viel Drift in Abstraktion/Verfremdung):**
-- Gibson-Lyrik / *A Dowry of Blood* — Kadenz zog die Prosa in Lyrik, weg von Ding.
-- SenLinYu-Yearning / *Alchemised* — erzeugte Abstrakta-Stapel ("Sehnsucht", "Obsession", "Scham" als Nominalisierungen).
-- Sierra Simone-fremde-Register — erzeugte gesuchte Metaphern (Botanik fürs Innenleben, Mechanik für Nähe).
-- Holly Black-verfremdete-Verben — gesuchte Wortwahl, keine konkrete Benennung.
-- Schwab-Farb-System — nicht falsch, aber nicht Kern.
+**Ergänzt durch:** `01-referenz-konkretheit.md` — Konkretheits-Kanon. Material-Erstnennung, Körperbeat-Dialog, Vorfeld-Inversion, Sinnes-3er-Takt, Körper-als-Subjekt.
+
+### BDSM-/Nähe-Zusatz-Register (nur intime Szenen)
+
+In Nähe/BDSM-Szenen ist bildlastige Prosa erlaubt und gewünscht — **jedes Bild braucht Material-Boden in derselben Passage.** Kein schwebendes Bild. Material = Wachs, Leder, Seil, Samt, Kupfer, Salz, Metall, Blut, Öl, Schweiß, Haut unter Finger.
+
+- **Réage (Geschichte der O, 1954) — PRIMÄRE BDSM-Referenz:**
+  - **Material-Präzision:** jedes Utensil mit Material, Dicke, Mechanismus, Funktion (*"aus mehreren Lederschichten, jede Schicht sehr dünn, das Ganze nicht mehr als einen Finger dick, mit einem Schnappverschluß"*). Null Metapher im Ding-Inventar.
+  - **Anatomie direkt benannt:** *"Spitze des Glieds"*, *"Grund ihrer Kehle"*, *"Zunge zurückdrängte"*. Kein Euphemismus (*"Weiblichkeit"*, *"Schaft"*), kein Pornografie-Jargon. Klinisch-präzise.
+  - **Dom-Stimme als erklärte Funktion:** *"nicht der Bequemlichkeit halber... sondern um Sie zu erniedrigen"*. Dom macht Zweck explizit, mystifiziert nicht.
+  - **Ein-Ding-Symbol:** *"Eisenring am Goldfinger"* trägt Identität/Eigentum über die ganze Erzählung.
+  - **Zeitraster als Disziplin:** konkrete Marker (*"zwischen Sonnenuntergang und Sonnenaufgang"*, *"alle Tage"*).
+  - **Licht als Inszenierungs-Werkzeug:** Lampenstrahl als Dom-Befehl gerichtet auf Anatomie — passt zu Sorel (Fotograf).
+  - **Körper vor Erkenntnis:** *"O zitterte heftig und hörte mit Schrecken, daß sie erwiderte: 'Ich liebe dich'"* — Körper tut, Kopf bemerkt danach.
+  - **Paradox-Kern:** Liebeserklärung mitten in Erniedrigung. *"Ich liebe Sie"* während Würgen — das IST Dark Romance.
+  - **Kleidungs-Material als Spannungs-Rahmen:** Seidenband im gleichen Grün, Pantöffelchen mit überhöhten Sohlen, fischbeinverstärktes Mieder, gestärkter Batistunterrock. Material schafft Rahmen, in dem Erniedrigung stattfindet.
+  - **NICHT übernehmen:** Passiv-Kaskaden, Dokumentarstimme (*"ich weiß nun, daß..."*), lange Regel-Listen als Dom-Monolog.
+
+- **Sierra Simone (Priest, New Camelot):** Bildlastig + geerdet. Wein, Blut, Wachs, Samt, Kirchen-Stein. **NICHT** ihre fremde-Register-Technik fürs Innenleben (bleibt gestrichen, erzeugt Alltag-Verkünstelung).
+- **Katee Robert (Neon Gods):** Dark Romance mit mythologischem Anker.
+- **Tiffany Reisz (Original Sinners):** Dom-Figuren mit innerem Leben. Sub als Entscheidung.
+- **Raven Kennedy (Plated Prisoner):** Material-Treue — ein Ding (Gold) trägt die Serie.
+
+### Gestrichen (zu viel Drift in Abstraktion/Verfremdung)
+
+- **Gibson-Lyrik (A Dowry of Blood):** Kadenz zog die Prosa in Lyrik, weg von Ding.
+- **SenLinYu-Yearning (Alchemised):** Abstrakta-Nominalisierungen (Sehnsucht, Obsession, Scham).
+- **Simones fremde-Register fürs Innenleben:** Botanik für Gedanken, Mechanik für Gefühl → Verkünstelung in Alltagsszenen. Simones bildlastige BDSM-Prosa bleibt — siehe oben.
+- **Holly Black-verfremdete-Verben:** gesuchte Wortwahl statt konkreter Benennung.
+- **Schwab-Farb-System:** nicht falsch, aber nicht Kern.
 
 ## 10. Dialog-Handwerk und Ensemble-Szenen
 
