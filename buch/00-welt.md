@@ -381,7 +381,7 @@ In Moragh: eine Naturgewalt. Alphina hebt die Hand und ein Wald wächst. In Minu
 | **Gesicht** | Schmale Züge, hohe Wangenknochen. Mund der selten lächelt — wenn, dann asymmetrisch |
 | **Hände** | Tintenflecken an Zeige- und Mittelfinger. Erde unter den Nägeln. Schmal, lang, stark |
 | **Besondere Merkmale** | Rechtes Knie steif nach langer Arbeit. Aufrechte Haltung — betritt Räume als gehörten sie ihr |
-| **Kleidung** | Weiter dunkler Mantel, Rock, Ärmel hochgerollt bei Arbeit |
+| **Kleidung** | Weiter dunkler Mantel über Rock und Leinenhemd. Ärmel hochgerollt bei Arbeit. **Kein Wort »Jacke«** — gibt es im frühen 19. Jhd nicht |
 | **Geruch** | Erde, feuchtes Laub, Tinte |
 | **Stimme** | Leise, klar, unhektisch. Wird nie laut — wird stiller, wenn sie wütend ist |
 | **Resonanz-Marker** | Pflanzen drehen sich nach ihr. Farne wachsen aus dem Nichts wenn ihre Kontrolle bricht |
@@ -409,7 +409,7 @@ Pflanzen reagieren auf sie. Es wird stärker.
 |---|---|
 | **Alter** | ~30 |
 | **Größe** | Mittelgroß, wirkt kleiner durch gebeugte Haltung |
-| **Körperbau** | Schmal. Schmale Schultern, Jacke immer eine Nummer zu weit. Dünn, aber nicht schwach — Hände tragen schwere Plattenkästen stundenlang |
+| **Körperbau** | Schmal. Schmale Schultern, Mantel immer eine Nummer zu weit. Dünn, aber nicht schwach — Hände tragen schwere Plattenkästen stundenlang |
 | **Haar** | Mittellanges, dunkelbraunes lockiges Haar bis zum Nacken. Unordentlich, fällt ins Gesicht |
 | **Augen** | Dunkel. Blick der registriert, bevor er reagiert |
 | **Haut** | Blass, kellerblass. Sieht selten Tageslicht |
@@ -417,7 +417,7 @@ Pflanzen reagieren auf sie. Es wird stärker.
 | **Hände** | Blass, schmal, Schnittwunden an den Fingerkuppen (Glasplatten). Pyrogallol-Verfärbungen. Präzise, auch wenn der Rest zittert |
 | **Besondere Merkmale** | Chemie-Geruch sitzt in der Haut — Pyrogallol, Fixierer, Silbernitrat. Geht nie ganz weg |
 | **Haltung/Gang** | Schultern hochgezogen, Kopf gesenkt. Kamera über der Schulter, Stativ unterm Arm. Bewegt sich leise |
-| **Kleidung** | Dunkle Kleidung, immer etwas zu weit. Dunkle Jacke, keine Farben |
+| **Kleidung** | Dunkle Kleidung, immer etwas zu weit. Dunkler Mantel (Innentaschen für Kassetten + Werkzeugrolle), Leinenhemd, keine Farben. **Kein Gehrock** — er ist kein Stadtbürger, der Mantel hängt ungetailliert |
 | **Geruch** | Fixierer, Silbernitrat, kalter Keller. Darunter: Seife |
 | **Stimme** | Leise, knapp. Spricht in halben Sätzen. Wartet lange vor der Antwort |
 | **Resonanz-Marker** | Platten belichten sich durch seine Gedanken. Licht bündelt sich um ihn, wenn er fokussiert |
@@ -447,7 +447,7 @@ Dann, dreizehn Jahre später: Platte 7. Sein Gesicht. In Vael. *"Vael, Lichthaus
 | **Hände** | Ruhig, präzise. Keine Hornhaut, keine Schnittwunden. Saubere Nägel. Pinzetten-Griff. Hände die wissen wann man wartet |
 | **Besondere Merkmale** | Schwarzer Schachturm aus Holz in der Tasche — glatt vom Greifen, Kanten abgerieben. Dreht sich zwischen Daumen, Zeige- und Mittelfinger. Knie knacken beim Aufstehen |
 | **Haltung/Gang** | Gelöst, ökonomisch. Kein überflüssiger Schritt. Betritt Räume ohne sie zu verändern — bis man merkt, dass er alles gesehen hat |
-| **Kleidung** | Schwerer dunkler Mantel. Darunter sauber, funktional, unauffällig |
+| **Kleidung** | Schwerer dunkler Mantel auf der Straße. In der Werkstatt/beim Uhrenreparieren: **grauer Rock** (Gehrock), Weste mit Uhrenkette, Leinenhemd darunter. Werkzeuge in Rocktasche oder Westentasche |
 | **Geruch** | Uhrenöl, Messing, trockenes Holz. Kaum wahrnehmbar — er riecht nach Innenraum |
 | **Stimme** | Kurze Sätze. Denkt in Zügen. Fragt präzise. Nie laut, nie leise — genau die richtige Lautstärke |
 | **Resonanz-Marker** | Uhren in seiner Nähe laufen korrekt. Sein Takt überträgt sich auf Mechanik — und auf Menschen |
@@ -471,7 +471,7 @@ Hat auf dem Brett Muster gesehen, die kein Mensch dort hingelegt hat. Dieselbe B
 | **Hände** | Von Holz und Wasser gezeichnet. Breite Handflächen, Hornhaut an den Kuppen. Schnittwunden alt und frisch. Holzstaub unter den Nägeln. Hände die ankommen bevor der Rest von ihr es tut |
 | **Besondere Merkmale** | Salz auf den Lippen — immer, als hätte sie das Meer noch auf der Haut. Seesack, alles passt rein |
 | **Haltung/Gang** | Tritt auf als würde sie gleich wieder gehen. Knie auf dem Boden wenn sie arbeitet, nicht in der Hocke — kniet, als wäre der Boden vertraut |
-| **Kleidung** | Dunkle Jacke mit tiefen Taschen, abgetragene feuchte Stiefel. Hemd, funktional. Nichts Überflüssiges |
+| **Kleidung** | Drei Register: **Arbeit** — Lederschürze (Brusttaschen für Bleistift/Papier) über Leinenhemd und Hose, abgetragene feuchte Stiefel. **Draußen/Weg** — dunkler Mantel mit Innentasche. **Privat / bei Sorel oder Vesper** — Wollrock eng an der Hüfte, Mieder hält die Taille, darunter Leinenhemd. Am Handgelenk Lederriemen. **Niemals »Jacke«** |
 | **Geruch** | Pech, Sägemehl, Salz, Leinöl. Meer, das nicht mehr da ist |
 | **Stimme** | Direkt, wenige Worte. Sagt was nötig ist und geht. Kein Smalltalk |
 | **Resonanz-Marker** | Wasser reagiert auf sie — steigt, folgt, wärmt sich. Unter dem Boden der Werft: ein Herzschlag |

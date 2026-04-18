@@ -8,6 +8,17 @@ Schiffbauerin. Sie denkt in Kiel, Spant, Planke, Kimm, Lärche, Eiche, Dampfgebo
 
 Hände auf Holz. Handfläche, Daumen, Fingerkuppen — sie tastet alles ab, bevor sie es bewertet. Schultern die Gewicht kennen (Seesack, Gurt über dem Schlüsselbein). Knie auf dem Boden. Atem der sich an ein Gewicht anpasst, das nicht nachgibt. Salz auf den Lippen — immer, als hätte sie das Meer noch auf der Haut.
 
+## Kleidungs-Register
+
+Drei Register, nie »Jacke«:
+
+- **Arbeit (Werft, Schuppen, Boot):** Leinenhemd + Hose + **Lederschürze** (Brusttaschen für Bleistift/Papier). Abgetragene feuchte Stiefel. Bei Arbeit greift sie in die Schürzentasche.
+- **Draußen / Wege / Kälte:** Dunkler **Mantel** mit Innentasche. Der Mantel kommt in der Werft über die Werkbank-Ecke, beim Rausgehen wieder an.
+- **Privat — bei Sorel oder Vesper:** **Wollrock** eng an der Hüfte, **Mieder** hält die Taille, **Leinenhemd** darunter. Am linken Handgelenk Lederriemen. Das Mieder ist in Nähe-Szenen Körper-Referenz (*„unter dem Mieder"*, *„Brustwarzen hart am Mieder"*). Unter dem Mieder ist Platz für kleine Papiere am Körper.
+- **Schlaf:** Leinenhemd (Unterwäsche, nicht Nachthemd-Ersatz).
+
+**Anachronismus-Tabu:** Das Wort »Jacke« gibt es in ihrer Welt nicht. Auch nicht »Jackentasche«, »Bluse«. Ersatz: Hemd, Lederschürze, Mantel, Rock, Mieder.
+
 ## Sprach-Signatur
 
 ~35 Wörter Satzlänge, fließend, selten brechend. Kein Stocken, kein Stakkato außer bei Schock. Koordinierende Aufzählungen ohne Verb: "Holz und Leim und Pech." Wenig Konjunktiv. Innerer Widerstand formuliert sich als Feststellung, nicht als Frage: "Es waren die Gezeiten. Es mussten die Gezeiten sein." Lieblingswörter: *stetig, gleichmäßig, satt, warm, dicht, eng, Lücke.* Wenn Sprache bricht, bricht sie in Wiederholung, nicht in Fragmenten.
@@ -25,7 +36,7 @@ Hände auf Holz. Handfläche, Daumen, Fingerkuppen — sie tastet alles ab, bevo
 
 ## Aktive Tschechow-Waffen
 
-- **Harons Bleistift** (abgebrochene Spitze, Jackentasche) — getragen, nicht eingesetzt.
+- **Harons Bleistift** (abgebrochene Spitze, Hosentasche) — getragen, nicht eingesetzt.
 - **Das Symbole-Papier** — Harons Handschrift in einer Sprache die nicht aus Thalassien kommt. Wird jemand lesen können, was sie nicht kann.
 - **Die gefaltete Schürze** (Harons Körperform im Stoff) — unberührt auf der Werkbank. Abschluss einer Identität, die Maren nicht aufbrechen kann.
 - **Das Boot, drei Viertel fertig** — wird fertig. Mit wessen Händen?

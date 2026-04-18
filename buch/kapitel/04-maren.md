@@ -8,11 +8,11 @@ Maren blieb nie lange genug.
 
 Ihre Stiefel waren feucht vom Kutter. Fünf Stunden über die Bucht, in einem Fischerboot das nach Teer und Makrele roch und nach dem Schweiß des Mannes, der sie mitgenommen hatte, der wenig redete und das war ihr recht gewesen. Der Seesack an ihrer Schulter, schwer auf der linken Seite, wo die Bücher lagen. Der Gurt schnitt in die Haut über dem Schlüsselbein, ein dünner, scharfer Schmerz, vertraut wie ein alter Riss im Leder. Alles was sie besaß. Alles was sie je besessen hatte, seit sie mit achtzehn Thessa verlassen hatte, mit einem Gepäck das halb so schwer gewesen war, weil sie damals weniger Bücher besaß und mehr Gründe zu gehen und weniger um zu bleiben und trotzdem gegangen war.
 
-Die Stadt hinter ihr lag im Nebel. Vael. Dunkler Stein, fast schwarz, und Giebel und Gassen so eng, dass zwei Kutschen nicht nebeneinander passten. Sie war vom Hafen hierher gelaufen, eine halbe Stunde über nasses Kopfsteinpflaster, vorbei an Fassaden die im Nebel standen wie Bühnenbilder ohne Zuschauer, und die Gaslampen brannten auch am Morgen, gelb und trüb, und ihr Licht schaffte es nicht bis zum Boden. Die Häuser hatten sich um sie geschlossen, und die Luft war anders als im Süden, schwerer, mit einer Feuchtigkeit die auf der Haut blieb und in den Stoff der Jacke kroch und nicht mehr ging. In Solha schauten die Leute Fremde an. In Thessa riefen sie ihnen etwas zu. In Vael gingen sie vorbei, die Köpfe gesenkt, die Mäntel geschlossen, und der Nebel verschluckte sie nach drei Schritten. Am Rand der Stadt, wo die Häuser aufhörten und das Wasser anfing, hatte sie die Werft gefunden. Eine Frau auf der Straße hatte mit dem Kinn in die Richtung gezeigt, ohne stehenzubleiben.
+Die Stadt hinter ihr lag im Nebel. Vael. Dunkler Stein, fast schwarz, und Giebel und Gassen so eng, dass zwei Kutschen nicht nebeneinander passten. Sie war vom Hafen hierher gelaufen, eine halbe Stunde über nasses Kopfsteinpflaster, vorbei an Fassaden die im Nebel standen wie Bühnenbilder ohne Zuschauer, und die Gaslampen brannten auch am Morgen, gelb und trüb, und ihr Licht schaffte es nicht bis zum Boden. Die Häuser hatten sich um sie geschlossen, und die Luft war anders als im Süden, schwerer, mit einer Feuchtigkeit die auf der Haut blieb und in den Stoff des Mantels kroch und nicht mehr ging. In Solha schauten die Leute Fremde an. In Thessa riefen sie ihnen etwas zu. In Vael gingen sie vorbei, die Köpfe gesenkt, die Mäntel geschlossen, und der Nebel verschluckte sie nach drei Schritten. Am Rand der Stadt, wo die Häuser aufhörten und das Wasser anfing, hatte sie die Werft gefunden. Eine Frau auf der Straße hatte mit dem Kinn in die Richtung gezeigt, ohne stehenzubleiben.
 
 Der Schuppen stand am Wasser, grau, das Holz verwittert vom Salzwind. Groß genug für ein Boot. Das Tor stand offen und der Wind blies hindurch und in dem Wind lag Salz und in dem Salz lag alles, was sie nicht wusste über den Mann, der ihr eine Werft hinterlassen hatte.
 
-Der erste Brief. Solha, Südküste, ein heißer März. Maren flickte ein Ruderboot am Hafen, das einem Fischer gehörte, der sie dafür umsonst wohnen ließ, und ein Spant war gebrochen und sie wusste nicht, in welchem Winkel der neue sitzen musste, und jemand am Hafen hatte gesagt: Schreib Dahl an der Grauküste, der weiß alles über Kurven im Holz. Sie hatte geschrieben. Kurz, sachlich, eine technische Frage. Die Antwort kam drei Wochen später. Noch kürzer. Noch sachlicher. Und am Ende, unter der Zeichnung: *Das Holz gibt nach, wenn man ihm Zeit lässt.*
+Der erste Brief. Solha, Südküste, ein heißer Saatmond. Maren flickte ein Ruderboot am Hafen, das einem Fischer gehörte, der sie dafür umsonst wohnen ließ, und ein Spant war gebrochen und sie wusste nicht, in welchem Winkel der neue sitzen musste, und jemand am Hafen hatte gesagt: Schreib Dahl an der Grauküste, der weiß alles über Kurven im Holz. Sie hatte geschrieben. Kurz, sachlich, eine technische Frage. Die Antwort kam drei Wochen später. Noch kürzer. Noch sachlicher. Und am Ende, unter der Zeichnung: *Das Holz gibt nach, wenn man ihm Zeit lässt.*
 
 Sie hatte zurückgeschrieben. Nicht wegen der Spanten.
 
@@ -32,7 +32,7 @@ Haron hatte den Fehler gelassen. Haron hatte den Fehler zum Teil des Bootes gema
 
 Die Werkzeuge an der Wand, an Haken, geordnet — Hobel, Stechbeitel, Sägen, Zwingen, Leimtöpfe mit getrockneten Rändern. Die Schürze am Haken neben der Tür, steif von Leim und Holzstaub, die Form eines Körpers noch darin, Schultern, Brust. Maren berührte den Stoff nicht. Er hing da und hielt die Gestalt eines Mannes, der nicht mehr kam.
 
-Auf dem Boden Späne. Sägemehl. Eine dünne Schicht, gleichmäßig, als hätte der Wind sie verteilt. Maren kniete sich hin. Nahm eine Handvoll. Trocken, leicht, helles Holz. Sie roch daran. Holz und Harz und etwas Süßes, und die Späne waren so fein, als hätte jemand geschliffen, nicht gesägt. Sie ließ sie durch die Finger rieseln und sie fielen auf den Boden und mischten sich mit den anderen und waren nicht zu unterscheiden. Daneben, halb unter Sägemehl, ein Bleistift. Kurz, die Spitze abgebrochen. Sie steckte ihn in die Jackentasche.
+Auf dem Boden Späne. Sägemehl. Eine dünne Schicht, gleichmäßig, als hätte der Wind sie verteilt. Maren kniete sich hin. Nahm eine Handvoll. Trocken, leicht, helles Holz. Sie roch daran. Holz und Harz und etwas Süßes, und die Späne waren so fein, als hätte jemand geschliffen, nicht gesägt. Sie ließ sie durch die Finger rieseln und sie fielen auf den Boden und mischten sich mit den anderen und waren nicht zu unterscheiden. Daneben, halb unter Sägemehl, ein Bleistift. Kurz, die Spitze abgebrochen. Sie steckte ihn in die Hosentasche.
 
 Maren setzte sich hin. Rücken gegen den Rumpf des Bootes. Das Holz war fest und glatt an ihrem Rücken, und sie spürte die Rundung, die Kurve, die Haron geschliffen hatte. Sie lehnte sich dagegen und schloss die Augen. Das Meer draußen. Der Wind in den Ritzen. Das Knarren des Holzes, das arbeitete, auch jetzt, auch leer.
 
@@ -44,7 +44,7 @@ Fünf Minuten. Zehn. Maren saß da und ging nicht. Das Boot an ihrem Rücken, de
 
 Schritte auf dem Boden hinter ihr.
 
-Maren öffnete die Augen. Das Boot an ihrem Rücken, die Kühle des Holzes durch den Stoff der Jacke. Ein Mann stand in der Tür des Schuppens, die Sonne — soweit man das durch den Nebel Sonne nennen konnte — hinter ihm, sein Gesicht im Schatten. Breit, nicht groß. Arbeitsjacke, Sägemehl an den Ärmeln, ein Hemd darunter das einmal weiß gewesen war. Er stand da und schaute sie an und sagte nichts, und Maren schaute zurück und sagte auch nichts, und für einen Moment war das genug.
+Maren öffnete die Augen. Das Boot an ihrem Rücken, die Kühle des Holzes durch den Stoff des Hemds. Ein Mann stand in der Tür des Schuppens, die Sonne — soweit man das durch den Nebel Sonne nennen konnte — hinter ihm, sein Gesicht im Schatten. Breit, nicht groß. Ein Arbeitskittel, Sägemehl an den Ärmeln, ein Hemd darunter das einmal weiß gewesen war. Er stand da und schaute sie an und sagte nichts, und Maren schaute zurück und sagte auch nichts, und für einen Moment war das genug.
 
 "Sie sind Maren."
 
@@ -154,7 +154,7 @@ Es waren die Gezeiten. Es mussten die Gezeiten sein.
 
 Maren drehte sich um. Ging den Steg zurück, schneller als sie gekommen war. Die Planken nass, die Nägel lose, der Wind im Rücken. Sie drehte sich nicht um. Hinter ihr das Meer, das gegen den Steg schlug, gleichmäßig, hart, normal. Als wäre nichts gewesen.
 
-Am Ende des Stegs blieb sie stehen. Sie steckte die Hände in die Jackentaschen und ballte die Fäuste, die Nägel in die Handflächen, und der Druck half, gab dem Körper etwas das er halten konnte. In ihrer rechten Tasche lag Harons Bleistift, den sie vom Boden der Werft aufgehoben hatte, kurz, die Spitze abgebrochen. Ihre Finger schlossen sich darum. Das Holz war warm von ihrer Haut.
+Am Ende des Stegs blieb sie stehen. Sie steckte die Hände in die Hosentaschen und ballte die Fäuste, die Nägel in die Handflächen, und der Druck half, gab dem Körper etwas das er halten konnte. In ihrer rechten Tasche lag Harons Bleistift, den sie vom Boden der Werft aufgehoben hatte, kurz, die Spitze abgebrochen. Ihre Finger schlossen sich darum. Das Holz war warm von ihrer Haut.
 
 Maren stand am Ende des Stegs und hinter ihr lag das Meer und vor ihr lag Vael, im Nebel, und irgendwo in dieser Stadt war ein Garten, am Klippenrand, zu dem ein toter Mann nachts gegangen war. Und das Wasser hatte auf sie reagiert.
 
@@ -174,7 +174,7 @@ Sie zog die Stiefel aus. Die Socken waren feucht. Der Boden war kalt unter ihren
 
 Die Magd hatte eine Stunde zuvor eine Zinkwanne gebracht und heißes Wasser in Eimern geschleppt, dampfend, und Maren hatte zugeschaut wie sie es eingoss, Eimer für Eimer, und der Dampf hatte das Zimmer gefüllt und die Kerze zum Flackern gebracht und für einen Moment hatte es warm gerochen, nach Wasser und nach Wärme, und das Zimmer war ein anderes gewesen. Jetzt war der Dampf weg. Das Wasser war lauwarm. Nicht mehr heiß, nicht kalt. Dazwischen.
 
-Maren zog sich aus. Jacke, Hemd, Hose, alles auf den Stuhl, und die Luft war kühl auf ihrer Haut und die Gänsehaut kam sofort, an den Armen, an den Oberschenkeln, überall. Sie stieg in die Wanne. Nicht unangenehm, nur nicht genug. Sie ließ sich hinein, langsam, und das Wasser stieg an ihren Beinen hoch, am Bauch, an den Rippen, und die Wärme reichte nicht tief, saß auf der Haut und ging nicht weiter, und sie zog die Knie an und umschlang sie mit den Armen und das Wasser stand still um sie herum, grau im Kerzenlicht, und auf der Oberfläche spiegelte sich die Flamme, ein kleiner, zitternder Punkt.
+Maren zog sich aus. Lederschürze, Hemd, Hose, alles auf den Stuhl, und die Luft war kühl auf ihrer Haut und die Gänsehaut kam sofort, an den Armen, an den Oberschenkeln, überall. Sie stieg in die Wanne. Nicht unangenehm, nur nicht genug. Sie ließ sich hinein, langsam, und das Wasser stieg an ihren Beinen hoch, am Bauch, an den Rippen, und die Wärme reichte nicht tief, saß auf der Haut und ging nicht weiter, und sie zog die Knie an und umschlang sie mit den Armen und das Wasser stand still um sie herum, grau im Kerzenlicht, und auf der Oberfläche spiegelte sich die Flamme, ein kleiner, zitternder Punkt.
 
 Steg. Die Wellen, die flacher geworden waren. Das Glas unter ihren Füßen. Ihr Gesicht im Wasser.
 
@@ -214,6 +214,6 @@ Draußen, fern, das Meer. Der Nebel auf dem Marktplatz. Irgendwo in dieser Stadt
 
 Maren saß auf dem Bett, im Laken, die Füße auf dem nassen Boden, und dachte an Haron, der nachts in den Garten gegangen war und nie gesagt hatte warum. An das Boot, das drei Viertel fertig war und wartete. An die Briefe, einundsechzig Stück, die in ihrem Seesack lagen und die nach Tinte rochen und nach der Sorgfalt eines Mannes, den sie nie getroffen hatte und nie treffen würde. An den Satz im dritten Brief, dem langen: *Das Holz gibt nach, wenn man ihm Zeit lässt.*
 
-In der Jackentasche, die über dem Stuhl hing, Harons Bleistift. Kurz, die Spitze abgebrochen. Sie stand nicht auf um ihn zu holen. Aber sie wusste, dass er da war.
+In der Hosentasche, die über dem Stuhl hing, Harons Bleistift. Kurz, die Spitze abgebrochen. Sie stand nicht auf um ihn zu holen. Aber sie wusste, dass er da war.
 
 Tag eins.

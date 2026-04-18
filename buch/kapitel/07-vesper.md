@@ -1,6 +1,6 @@
 # Vesper
 
-*28. März 551 · Tag 1 in Vael*
+*28. Saatmond 551 · Tag 1 in Vael*
 
 Die Theke war abgewetzt und der Mann dahinter sah aus, als gehöre er dazu — breit, grau, ein Gesicht ohne Neugier. Vesper stellte den Koffer ab. Vier Tage Staub auf dem Leder, vier Tage Schweiß in den Nähten. Seine Schultern schmerzten und sein rechtes Knie war steif von der letzten Kutsche, der schmalen, die von der Küstenstation in die Stadt fuhr, über Pflaster das härter war als alles in den Innenlanden.
 
@@ -178,7 +178,7 @@ Er drehte ab, kniete sich hin. Unter dem Spülstein lief ein Kupferrohr in die W
 
 Unten roch es nach Kohle, nach Feuchtigkeit, nach etwas Metallischem. Er fand das Rohr an der Wand, Kupfer, kalt. Suchte einen Kessel, einen Ofen, irgendeinen Brennstoff, systematisch, Wand für Wand, in der Dunkelheit, mit den Händen. Er fand nichts. Nur kalte Rohre, heißes Wasser, keinen Grund warum das eine das andere nicht ausschloss.
 
-Die Magd hatte recht gehabt. Die Luft im Keller war wärmer als im Erdgeschoss, wärmer als sie drei Meter unter der Erde im April sein sollte. Eine Wärme die aus dem Boden kam, gleichmäßig, als hätte der Stein selbst Temperatur. Dieselbe Wärme wie das Uhrgehäuse unter seiner Hand. Dieselbe Wärme wie die Fingerspitzen der Magd auf seiner Handfläche. Drei verschiedene Quellen, dieselbe Wärme, und keine Erklärung für irgendeine davon.
+Die Magd hatte recht gehabt. Die Luft im Keller war wärmer als im Erdgeschoss, wärmer als sie drei Meter unter der Erde im Grünmond sein sollte. Eine Wärme die aus dem Boden kam, gleichmäßig, als hätte der Stein selbst Temperatur. Dieselbe Wärme wie das Uhrgehäuse unter seiner Hand. Dieselbe Wärme wie die Fingerspitzen der Magd auf seiner Handfläche. Drei verschiedene Quellen, dieselbe Wärme, und keine Erklärung für irgendeine davon.
 
 Dann das Kratzen.
 

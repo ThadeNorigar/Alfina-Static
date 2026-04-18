@@ -81,6 +81,8 @@ Alte Kapitel (1-11, I1, I2): `# {Figurname}` + `*{Tag}. {Monat} 551 · {Zeitanga
 
 Ankunftstag = Tag 1. Wochen = floor(Tage/7), Rest = Tage%7.
 
+**Monatsnamen (thalassisch, kanonisch):** Eismond, Sturmmond, Saatmond, Grünmond, Blütenmond, Lichtmond, Glutmond, Erntemond, Herbstmond, Nebelmond, Frostmond, Dunkelmond. Realweltliche Monatsnamen (Januar, März, Mai…) sind **überall verboten** — in Headern, in Prosa, in Dialogen. Gilt rückwirkend auch für K1-K11 und I1/I2. Volle Liste in `zeitleiste.json` (tz_kalender).
+
 ## Website
 
 Deploy: `git push` (Hook deployed automatisch via generate-lesen.sh)

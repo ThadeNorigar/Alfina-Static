@@ -1,6 +1,6 @@
 # Sorel
 
-*27. März 551 · Tag 1 in Vael*
+*27. Saatmond 551 · Tag 1 in Vael*
 
 Die Treppe hatte siebzehn Stufen. In Nachtholm waren es einundzwanzig gewesen.
 

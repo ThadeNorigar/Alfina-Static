@@ -2,35 +2,35 @@
 
 *21. Blütenmond 551 · 8 Wochen 3 Tage in Vael*
 
-Die Treppe zum Lichthaus roch nach Salz und Teer, und der Wind drückte gegen die Tür im Rahmen, dass das Holz leise in seinen Angeln arbeitete. Alphina ging nicht durch die Tür. Sie ging um das Gebäude, den schmalen Weg entlang, zum seitlichen Einstieg, von dem Sorel einmal erzählt hatte. Eine Holzluke im Boden, unter einem Vordach, halb überwachsen von einem Netz Efeu, das hier nicht wachsen sollte und trotzdem stand. Sie kannte die Wuchsform. Hedera helix, die den Nordrand suchte, wo die Feuchtigkeit hielt.
+Die Treppe zum Lichthaus roch nach Salz und Teer, und der Wind drückte gegen die Tür im Rahmen, dass das Holz leise in seinen Angeln arbeitete. Alphina ging nicht durch die Haupttür. Sie ging um das Gebäude, den schmalen Weg entlang, zu den Stufen, die zur Kellertür hinabführten. Sie war die Stufen einmal hinuntergegangen, vor fünf Tagen, um zu klopfen — heute wollte sie nicht klopfen. Das Vordach über der Tür war halb überwachsen von einem Netz Efeu, das hier nicht wachsen sollte und trotzdem stand. Sie kannte die Wuchsform. Hedera helix, die den Nordrand suchte, wo die Feuchtigkeit hielt.
 
-Gestern hatte er ihre Handgelenke gehalten. Nicht zärtlich, nicht drohend — fest, mit einem Griff der den Knochen fand. Er hatte sie aus dem Weg gezogen, als der Riss sich öffnete, und danach hatte er die Hände zurückgenommen, schnell, als wären sie heiß geworden. Das Zurücknehmen war es, nicht das Ziehen.
+Gestern hatten sich seine Finger durch den Wollstoff ihres Ärmels um ihren Ellbogen geschlossen, fünf Punkte Druck durch das Gewebe, der Daumen in der Kerbe über dem Gelenk. Er hatte sie zwei Schritte zurückgezogen, bevor ihr Kopf den Zug verstand. Nach dem Kampf hatte die Hand einen halben Atemzug zu lang gewartet, dann war sie abrupt weg, als hätte er sich verbrannt.
 
-Sie hob die Luke. Die Angeln waren geölt. Darunter ein Schacht, eine Leiter aus dunklem Holz, ein Geruch von Chemie der schon hier oben stand. Entwickler. Fixierer. Etwas Scharf-Süßes das sie nicht kannte.
+Sie stieg die Stufen hinab. Die Klinke gab nach. Die Tür war nicht abgeschlossen. Die Angeln waren geölt. Dahinter ein kurzer Gang, und ein Geruch nach Chemie, der schon hier oben stand. Entwickler. Fixierer. Etwas Scharf-Süßes das sie nicht kannte.
 
-Sie stieg hinunter.
+Sie trat ein.
 
-Der Gang war kurz, die Decke niedrig, und am Ende brannte rotes Licht durch den Spalt einer Tür, die nicht ganz zuging. Kein Feuerrot — chemisch, flach, ein Rot das die Augen nicht gewöhnt waren. Ihre Hand fand den Putz. Kalkig, feucht, rauh, und tiefer, unter dem Kalk, die Konsistenz die sie aus dem Botanischen Garten kannte. Purpurstein, der auch hier saß, im Fundament, unter dem Putz.
+Der Gang war kurz, die Decke niedrig, und am Ende brannte rotes Licht durch den Spalt einer Tür, die nicht ganz zuging. Kein Feuerrot — chemisch, flach, ein Rot, das ihre Augen nicht kannten. Ihre Hand fand den Putz. Kalkig, feucht, rauh, und tiefer, unter dem Kalk, dieselbe Körnung wie im Steinkreis des Botanischen Gartens. Purpurstein, der auch hier saß, im Fundament.
 
 Sie drückte die Tür.
 
 Der Raum war klein. Eine Arbeitsfläche entlang der einen Wand, drei Becken aus Emaille, Flüssigkeit die im Rotlicht schwarz aussah und beim genauen Hinsehen einen Schimmer hatte, der nicht schwarz war. An der gegenüberliegenden Wand hing eine Leine, und an der Leine hingen Platten. Glas, mit Klammern befestigt, die Ecken nach unten gezogen vom Gewicht der Feuchtigkeit. Das rote Licht lag auf allem: auf der Arbeitsfläche, auf den Becken, auf Sorels Schulterblättern und den Hemdärmeln, die er bis zu den Ellbogen hochgekrempelt hatte.
 
-Er stand am mittleren Becken und rührte mit einer Zange etwas im Bad. Er hatte sie gehört — das Knarren der Luke konnte er nicht überhört haben — aber er drehte sich nicht um.
+Er stand am mittleren Becken und rührte mit einer Zange etwas im Bad. Er hatte sie gehört — die Klinke, die Schritte — beides konnte er nicht überhört haben. Aber er drehte sich nicht um.
 
 "Sie könnten die Tür schließen."
 
-Seine Stimme war ruhig. Der Rücken war ruhig. Die Schultern arbeiteten mit der Bewegung der Zange, als wäre sie eine Kundin, die sich versehentlich in den Keller verlaufen hatte. Der Rücken log. Die Zange log mit. Gestern hatte er die Hände schneller zurückgenommen als er sie ausgestreckt hatte, und heute fand er Beschäftigung im Bad, die er nicht brauchte.
+Seine Stimme war ruhig. Der Rücken war ruhig. Die Zange hob und senkte sich im Bad, regelmäßig, eine Bewegung die sie nicht brauchte. Gestern hatte er die Hand schneller zurückgenommen als er sie ausgestreckt hatte.
 
 Sie schloss die Tür.
 
-Die Luft stand. Der Geruch der Chemikalien war dichter hier als im Gang, zog über die Lippen und legte sich auf die Zunge, scharf und metallisch. Sie atmete durch die Nase. Die Farne, die sie unter den Nägeln trug von der Morgenarbeit, waren hier nutzlos. Es gab keine Erde. Es gab Zink, Silber, Säure, und im Hintergrund, unter dem Putz, der alte langsame Puls der unter dieser Stadt saß.
+Die Luft stand. Der Geruch der Chemikalien war dichter hier als im Gang, zog über die Lippen und legte sich auf die Zunge, scharf und metallisch. Sie atmete durch die Nase. Die Farne, die sie unter den Nägeln trug von der Morgenarbeit, waren hier nutzlos. Es gab keine Erde. Es gab Zink, Silber, Säure.
 
 Sie trat einen Schritt näher. Sie sagte nichts.
 
-Ihre Augen gewöhnten sich langsam. Das Rot hatte Schichten, die sie zuerst nicht gesehen hatte. Unter der obersten Schicht lag ein tieferes Rot, das aus der Wand kam, und darunter das eigentliche Dunkel des Raumes, das nicht dunkel war sondern nur vom Licht zurückgehalten. An der Decke zog sich ein schmales Rohr entlang, Kupfer, grünlich angelaufen, und Tropfen von Feuchtigkeit standen an den Schellen. Der Boden war Dielen, dunkel, an den Rändern mit Fixierer getränkt, der sich in die Fasern gefressen hatte.
+Ihre Augen gewöhnten sich langsam. Das Rot hatte Schichten, die sie zuerst nicht gesehen hatte. Unter der obersten Schicht lag ein tieferes Rot, das aus der Wand kam. An der Decke zog sich ein schmales Rohr entlang, Kupfer, grünlich angelaufen, und Tropfen von Feuchtigkeit standen an den Schellen. Unter ihren Sohlen lagen dunkle Dielen, an den Rändern mit Fixierer getränkt, der sich in die Fasern gefressen hatte.
 
-Sorel hob die Zange aus dem Bad. Eine Platte kam aus der Flüssigkeit, Glas, von beiden Seiten belaufen, schwarz auf der einen, grau auf der anderen, und er legte sie auf ein Gitter zum Abtropfen. Die Hand, mit der er das tat, war seine linke — der Handrücken war glatt und verheilt, der Brand aus Kap 12 war ein Schatten, nichts weiter.
+Sorel hob die Zange aus dem Bad. Eine Platte kam aus der Flüssigkeit, Glas, von beiden Seiten belaufen, schwarz auf der einen, grau auf der anderen, und er legte sie auf ein Gitter zum Abtropfen. Die Hand, mit der er das tat, war seine linke — der Handrücken war glatt und verheilt, die Stelle, an der sie ihn berührt hatte, heller als der Rest.
 
 "Sie sind früh."
 
@@ -46,15 +46,15 @@ Alphina ging zu den Platten an der Leine.
 
 Sie zog eine ab, ohne zu fragen. Die Klammer gab nach, das Glas lag kühl und glatt auf ihren Fingern, und sie hielt es unter das rote Licht. Das Bild baute sich aus dem Grau, langsam, bis ihre Augen die Form fanden.
 
-Sie. Am Hafen. Am dritten Steg. Von einem Winkel aufgenommen, den niemand einnehmen konnte — von der Wasserseite, als hätte jemand auf der Grauwe gestanden und sie angesehen. Der Farn am Geländer, der sich ihr zudrehte. Ihr Profil, das sie aus keinem Spiegel kannte, weil Spiegel seitenverkehrt waren und dieses Profil es nicht war.
+Sie. Am Hafen. Am dritten Steg. Von einem Winkel aufgenommen, den niemand einnehmen konnte — von der Wasserseite, als hätte jemand auf der Grauwe gestanden und sie angesehen. Der Farn am Geländer, der sich ihr zudrehte. Ihr Profil, das sie aus keinem Spiegel kannte — Spiegel waren seitenverkehrt, dieses Profil war es nicht.
 
 Sie nahm die nächste.
 
-Der Garten. Der Steinkreis. Morgen des fünfzehnten, als sie mit Vesper gemessen hatte. Sorel war nicht dabei gewesen — dafür hätte sie Zeugin sein können vor jedem Gericht. Die Platte zeigte sie, die Hand auf dem Stein, die Beuge der Finger so, wie sie die Finger beugte wenn sie Wärme suchte, nicht wenn sie maß. Im Hintergrund ein Schatten, der Vesper sein musste, aber so unscharf, dass es auch niemand hätte sein können. Sorel hatte sie gesehen wie sie war, und das Bild hatte ihn weggelassen — oder er hatte ihn weggelassen.
+Der Garten. Der Steinkreis. Morgen des fünfzehnten, als sie mit Vesper gemessen hatte. Sorel war nicht dabei gewesen — dafür hätte sie Zeugin sein können vor jedem Gericht. Die Platte zeigte sie, die Hand auf dem Stein, die Beuge der Finger so, wie sie die Finger beugte wenn sie Wärme suchte, nicht wenn sie maß. Im Hintergrund ein Schatten, der Vesper sein musste, aber so unscharf, dass es auch niemand hätte sein können.
 
 Die dritte. Die vierte. Die fünfte.
 
-Sie in der Gasse, den Mantel hochgeschlagen. Sie am Tor des Botanischen Gartens, die Schlüssel in der Hand. Sie bei Runa in der Druckerei, die Druckerschwärze nicht auf Runas Unterarmen sondern auf ihren, wo keine Druckerschwärze saß, weil sie seit Wochen nicht in der Druckerei gewesen war.
+Sie in der Gasse, den Mantel hochgeschlagen. Sie am Tor des Botanischen Gartens, die Schlüssel in der Hand. Sie bei Runa in der Druckerei, die Druckerschwärze auf ihren eigenen Unterarmen, obwohl sie seit Wochen nicht dort gewesen war.
 
 Sie hatte aufgehört zu atmen irgendwann zwischen der zweiten und der dritten, und als sie es merkte, atmete sie bewusst ein, durch die Nase, roch den Fixierer und schmeckte den metallischen Nachgeschmack auf der Zunge, der beim Schlucken nicht wegging. Die Finger ihrer freien Hand hielten den Plattenrand fester als sie es vorhatte. Das Glas war warm von ihr, nicht vom Bad.
 

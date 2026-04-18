@@ -12,6 +12,15 @@ Uhrmacher aus Karst. Welt erscheint als: **Toleranz, Passung, Eingriff, Abweichu
 
 **Gildeuhr, Karst:** Referenzpunkt. Schlägt die Stunden. Im Hintergrund jeder Karst-Erinnerung.
 
+## Kleidungs-Register
+
+Zwei Register:
+
+- **Straße / unterwegs:** Schwerer dunkler **Mantel**. Unauffällig, funktional, keine Farben.
+- **Werkstatt / Uhrenreparatur / bei Maren in der Werft:** **Grauer Rock** (Gehrock), dazu **Weste** mit Uhrenkette, **Leinenhemd** darunter. Werkzeuge in der **Rocktasche** oder **Westentasche** (Taschenuhr, Stift, Schraubenzieher). Die Weste zeigt, dass er prüft, nicht arbeitet — Hände ohne Hornhaut, Ärmel sauber.
+
+**Anachronismus-Tabu:** Nicht »Jacke«. Ersatz: Mantel, Rock (= Gehrock), Weste, Rocktasche, Westentasche.
+
 ## Sprach-Signatur
 
 Max ~30 W pro Satz, Ausnahmen bis ~40 W. **Wenn-Dann-Denken in vollständigen Sätzen.** Präzision vor Höflichkeit, aber kein Telegrammstil: "Ich brauche heute Abend noch einmal an der Welle" — nicht "Abend. Welle." Befehle kommen als Feststellungen: "Du hast zu fest gezogen." Keine Adverbien zur Emotion. Fachvokabular ohne Erklärung. Schweigen ist Entscheidung, nicht Verlegenheit.

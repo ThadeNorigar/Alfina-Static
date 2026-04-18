@@ -48,7 +48,7 @@ Er nahm die Pfeife aus dem Mund, betrachtete den Kopf, steckte sie wieder hinein
 
 Sie nickte. Er zog weiter an der Pfeife. Er fragte nicht zurück. Das war Tohl.
 
-Sie ging ins Halleninnere. Das Boot stand auf den Böcken, dreiviertelfertig, wie es dreiviertelfertig war, seit sie vor neun Wochen in Vael angekommen war. Sie legte die Jacke über die Werkbank-Ecke. Nahm den Hobel, nahm das Schleifpapier, ging an die Kimm-Planke, die sich gestern leicht gewölbt hatte. Die Wölbung war nicht schlimm — ein Millimeter über einen halben Meter, die Art von Bewegung, die feuchtes Lärchenholz bei einem Temperatursprung machte. Sie nahm den Hobel in beide Hände, setzte ihn an der Vorkante an, zog. Einmal. Einmal. Der Span fiel ab, hell, wenig mehr als Staub.
+Sie ging ins Halleninnere. Das Boot stand auf den Böcken, dreiviertelfertig, wie es dreiviertelfertig war, seit sie vor neun Wochen in Vael angekommen war. Sie legte den Mantel über die Werkbank-Ecke. Nahm den Hobel, nahm das Schleifpapier, ging an die Kimm-Planke, die sich gestern leicht gewölbt hatte. Die Wölbung war nicht schlimm — ein Millimeter über einen halben Meter, die Art von Bewegung, die feuchtes Lärchenholz bei einem Temperatursprung machte. Sie nahm den Hobel in beide Hände, setzte ihn an der Vorkante an, zog. Einmal. Einmal. Der Span fiel ab, hell, wenig mehr als Staub.
 
 Hände auf Holz. Sie atmete langsam.
 
@@ -64,7 +64,7 @@ Sie hörte ihre eigene Atmung. Das tiefe Knarren des Stegs hinter der Halle, das
 
 Etwas gab nach. Irgendwo. Nicht hier, nicht im Boot, nicht in der Halle. Woanders, unter dem Hafen, unter dem Garten. Eine Planke im Boden von Vael drückte sich. Der Millimeter war überschritten, oder er wurde gerade überschritten. Maren kannte den Zustand. Heute war er nicht Lärche.
 
-Sie legte den Hobel zurück in den Halter, die Zinke nach unten, wie immer. Zog die Jacke an. Den Zettel schrieb sie diesmal nicht; Edric würde heute später kommen. Sie schloss das Tor auf die halbe Breite, ging zurück durch die Hafengasse. Die Pflanze oben im Treppenhaus war noch da. Sie hatte nicht nachgesehen, sie wusste es.
+Sie legte den Hobel zurück in den Halter, die Zinke nach unten, wie immer. Zog den Mantel an. Den Zettel schrieb sie diesmal nicht; Edric würde heute später kommen. Sie schloss das Tor auf die halbe Breite, ging zurück durch die Hafengasse. Die Pflanze oben im Treppenhaus war noch da. Sie hatte nicht nachgesehen, sie wusste es.
 
 ---
 
@@ -78,7 +78,7 @@ Sie schob sie mit dem Ellbogen auf, so weit, dass sie eintreten konnte, und blie
 
 Sie setzte sich auf die Kiste seitlich von ihm, wie sie sich gesetzt hatte, als sie das Symbolblatt gebracht hatte, am Tag zuvor. Er fragte nicht, was sie wollte. Er hatte sie nicht weggeschickt. Sie rechnete nicht damit, dass er es heute tun würde.
 
-Sie nahm das kleine Blatt aus der Innentasche ihrer Jacke — das Blatt, das sie am Morgen auf dem Weg hinaus mit Daumen und Zeigefinger vom Stängel abgebrochen hatte. Es war in acht Stunden in der Jacke nicht gewelkt. Das Grün war noch das Grün vom Morgen. Sie legte das Blatt auf den Samt, neben das Uhrwerk, nicht darauf, aber auf denselben schwarzen Stoff, mit der Unterseite nach oben, damit er die Adern sah. Eine Handbreit vom Uhrglas entfernt.
+Sie nahm das kleine Blatt aus der Innentasche ihres Mantels — das Blatt, das sie am Morgen auf dem Weg hinaus mit Daumen und Zeigefinger vom Stängel abgebrochen hatte. Es war in acht Stunden im Mantel nicht gewelkt. Das Grün war noch das Grün vom Morgen. Sie legte das Blatt auf den Samt, neben das Uhrwerk, nicht darauf, aber auf denselben schwarzen Stoff, mit der Unterseite nach oben, damit er die Adern sah. Eine Handbreit vom Uhrglas entfernt.
 
 "Heute früh im Treppenhaus." Sie sah das Blatt an. "Alphina kennt sie nicht."
 

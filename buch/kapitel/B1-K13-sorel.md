@@ -158,7 +158,7 @@ Er zog die Hand nicht weg.
 
 Sie ließ ihn los. Ihre Finger lösten sich von seinem Handgelenk, einer nach dem anderen, und jeder Finger hinterließ einen warmen Punkt auf der Haut, der nach dem Loslassen noch drei Atemzüge blieb.
 
-Sie gingen weiter. An einer engen Stelle der Gasse mussten sie nebeneinander gehen. Ihre Arme streiften sich — der Stoff seiner Jacke gegen den Stoff ihres Mantels. Keiner zog zurück. Keiner beschleunigte. Drei Schritte lang gingen sie in einem Abstand, der weniger war als ein Arm. Das Gewebe-an-Gewebe lag neben der Erinnerung an ihre Hand auf seinem Knie, drei Nächte vorher. Jetzt sah er den Arm. Er sah ihn und ging weiter, und der halbe Schlag, den sein Atem aussetzte, kam erst zwei Schritte später, als die Gasse wieder breit genug war und der Stoff den Stoff nicht mehr berührte.
+Sie gingen weiter. An einer engen Stelle der Gasse mussten sie nebeneinander gehen. Ihre Arme streiften sich — der Stoff seines Mantels gegen den Stoff des ihren. Keiner zog zurück. Keiner beschleunigte. Drei Schritte lang gingen sie in einem Abstand, der weniger war als ein Arm. Das Gewebe-an-Gewebe lag neben der Erinnerung an ihre Hand auf seinem Knie, drei Nächte vorher. Jetzt sah er den Arm. Er sah ihn und ging weiter, und der halbe Schlag, den sein Atem aussetzte, kam erst zwei Schritte später, als die Gasse wieder breit genug war und der Stoff den Stoff nicht mehr berührte.
 
 "Die Steine im Garten", sagte er, weil er etwas sagen musste, bevor das Schweigen ihn verriet. "Im Sucher bewegen sie sich."
 

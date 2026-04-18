@@ -8,6 +8,12 @@ Botanikerin. Welt erscheint als: Wachstum, Wurzeln, Druck, Risse, Verwitterung. 
 
 Hände und Fingerspitzen (Kribbeln, Wärme, Erde unter Nägeln). Herz unter dem Schlüsselbein — sie merkt Erhöhung dort zuerst. Knie auf Erde direkt (kein Polster — sie will die Erde am Knochen spüren). Füße kennen die Wohnung im Dunkeln.
 
+## Kleidungs-Register
+
+Weiter dunkler **Mantel** (Default — Gasse, Treppe, Garten, Besuch), darunter **Rock** und **Leinenhemd**. Ärmel hochgerollt bei Arbeit. Kein taillierter Schnitt — der Mantel hängt. Bei Gartenarbeit zusätzlich Schürze (Leinen, hell). Stoff: dunkelgrau, braun, schwarz. Keine Farben außer bei den Pflanzen.
+
+**Anachronismus-Tabu:** Nicht »Jacke«. Ersatz: Mantel, Rock, Hemd.
+
 ## Sprach-Signatur
 
 Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte sich*. Erlebte Rede ist Standard. Imperativ-Gestik in Dialog (kurz, kein Erklären). Lieblingsworte: *warm*, *lebendig*, *tiefer als*, *langsam*. Sagt nie ihre Emotionen — Körper zeigt sie. Keine Pulszählung (Leitmotiv: greifen/fühlen/halten, keine Zahlen für innere Zustände).

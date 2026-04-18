@@ -8,6 +8,12 @@ Sorel denkt in Tonwerten, nicht in Farben. Die Welt besteht für ihn aus Belicht
 
 Hände. Präzise, ruhig, auch wenn der Rest zittert. Chemie-Geruch sitzt in der Nasenschleimhaut. Atem: er zwingt ihn tiefer, weil flacher Atem die Hände unsicher macht. Puls registriert er als Information — Schläfen, Ohren, Hals — und trennt ihn von Kamera-Vibrationen. Hände arbeiten autonom weiter, wenn der Kopf weggeht.
 
+## Kleidungs-Register
+
+Dunkler **Mantel**, immer eine Nummer zu weit. Die Schultern schmal darunter. **Innentaschen** für Kassetten, Werkzeugrolle, kleine Linsen — er greift dort hinein, wenn er zuerst nicht reden will. Dunkles **Leinenhemd** darunter. Keine Farben, keine Tailllierung. Er wirkt wie jemand, der in Kleidung schlüpft, die für einen größeren Mann gedacht war.
+
+**Anachronismus-Tabu:** Nicht »Jacke«. Kein Gehrock (zu bürgerlich, zu präzise) — sein Mantel hängt. Ersatz: Mantel, Manteltasche, Innentasche des Mantels.
+
 ## Sprach-Signatur
 
 Satzlänge bis ~50 Wörter, Bandwürmer erlaubt. Rhythmus: Stille + Beobachtung. Lange aufzählende Sätze über Parameter, Abläufe, Messungen — dann ein kurzer Satz als Hammerschlag. Kein On-the-nose-Dialog; er sagt nicht, was er meint. Subtext: er fragt, ob das Fenster offen ist, statt zu sagen, dass er Angst hat. Er vollendet Alphinas Sätze oder lässt sie hängen.

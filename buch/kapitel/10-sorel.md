@@ -1,6 +1,6 @@
 # Sorel
 
-*13. Mai 551 · 6 Wochen 6 Tage in Vael*
+*13. Blütenmond 551 · 6 Wochen 6 Tage in Vael*
 
 Das Bild kam aus dem Silber, langsam, so wie Bilder kamen — die dunkelsten Flächen zuerst, Wasser und Schatten unter den Pollern, dann die Mittelwerte, die Kaimauer, die Masten im Dunst, dann die hellen Stellen ganz zum Schluss, wo das Leuchtturmlicht auf der Oberfläche des Wassers gelegen hatte, als er vor drei Nächten den Verschluss gedrückt hatte.
 
@@ -116,7 +116,7 @@ Sie legte den Kopf ein wenig schief. Die Falten an ihrem Mundwinkel vertieften s
 
 "Ah. Der im Lichthaus." Sie nickte — die Antwort auf eine Frage, die sie sich seit Tagen gestellt hatte. "Man redet über Sie, seit Sie eingezogen sind. Der stille Herr mit den Glasplatten."
 
-Sorel antwortete nicht darauf. Er griff in die Jackentasche, nahm zwei Kupfermünzen heraus und legte sie auf das Brett. "Ich nehme das kleine Tuch Rosmarin. Zum Dank für die Auskunft."
+Sorel antwortete nicht darauf. Er griff in die Manteltasche, nahm zwei Kupfermünzen heraus und legte sie auf das Brett. "Ich nehme das kleine Tuch Rosmarin. Zum Dank für die Auskunft."
 
 Sie nahm die Münzen, zog eines der gebundenen Tüchlein heraus und reichte es ihm über den Stand. Die Finger, die ihn streiften, waren warm und trocken und rau von der Arbeit. "Guten Weg, mein Herr. Grüßen Sie Henrik, wenn Sie ihn sprechen."
 

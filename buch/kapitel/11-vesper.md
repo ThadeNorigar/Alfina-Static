@@ -1,6 +1,6 @@
 # Vesper
 
-*14. Mai 551 · 6 Wochen 6 Tage in Vael*
+*14. Blütenmond 551 · 6 Wochen 6 Tage in Vael*
 
 Siebzehn Uhren, sortiert nach der Größe ihrer Abweichung.
 
@@ -97,7 +97,7 @@ Er stand auf, griff den Mantel von der Stuhllehne, schob ihn an und steckte das 
 
 An der Tür drehte er sich einmal um. Der Wirt stand hinter dem Tresen und trocknete ein Glas. Die Frau am Fenstertisch saß, die Stahlfeder in der Hand, und schrieb. Sie sah nicht auf. Vesper zog die Tür hinter sich zu.
 
-Auf der Gasse war es kühler, als er erwartet hatte. Der Mai kippte heute langsam. Der Dunst lag hoch über den Dächern, als Schleier, nicht als Decke, und die Sonne stand als blasser Fleck dahinter, ohne sich durchzudrücken. Er ging den Weg zur Oberstadt im Kopf durch, bevor seine Füße ihn nahmen. Zweite Gasse links, über den kleinen Platz mit der Gaslaterne an der Ecke. Dann die Treppe in den Purpurstein gehauen, sieben Stufen. Oben rechts weiter, drei Häuser, die Tür mit dem eisernen Beschlag.
+Auf der Gasse war es kühler, als er erwartet hatte. Der Blütenmond kippte heute langsam. Der Dunst lag hoch über den Dächern, als Schleier, nicht als Decke, und die Sonne stand als blasser Fleck dahinter, ohne sich durchzudrücken. Er ging den Weg zur Oberstadt im Kopf durch, bevor seine Füße ihn nahmen. Zweite Gasse links, über den kleinen Platz mit der Gaslaterne an der Ecke. Dann die Treppe in den Purpurstein gehauen, sieben Stufen. Oben rechts weiter, drei Häuser, die Tür mit dem eisernen Beschlag.
 
 Er wusste, wo er das Papier bekam, weil jeder in Vael, der Papier brauchte, ihm denselben Namen genannt hätte.
 
@@ -179,7 +179,7 @@ Vesper ging drei Schritte, blieb stehen. Faltete den Umschlag nicht auf, weil da
 
 *VAELS GEISTER · BEOBACHTUNGEN EINER DRUCKERIN · ZWEITE FOLGE.*
 
-Darunter eine Liste, sauber gesetzt, jede Zeile in derselben Form. Adresse, Datum, Anomalie, Zeugen. *Hafenstraße 14, 11. April, heißes Wasser aus der Brunnenleitung ohne Kessel im Haus. Treidelweg 3, 19. April, Kaminfeuer ohne Brennstoff. Speichergasse 7, 22. und 24. April, schattenhaftes Tier auf dem Dach. Marktbreite 8, 28. April, Butter im Keller schmilzt ohne Wärmequelle. Grauwe-Ufer 4, 30. April, Grauwe fließt rückwärts zwischen fünf und sechs Uhr morgens.* Sechs Einträge. Am unteren Rand, in kleinerer Schrift, ein Aufruf an Zeugen, sich in der Druckerei zu melden.
+Darunter eine Liste, sauber gesetzt, jede Zeile in derselben Form. Adresse, Datum, Anomalie, Zeugen. *Hafenstraße 14, 11. Grünmond, heißes Wasser aus der Brunnenleitung ohne Kessel im Haus. Treidelweg 3, 19. Grünmond, Kaminfeuer ohne Brennstoff. Speichergasse 7, 22. und 24. Grünmond, schattenhaftes Tier auf dem Dach. Marktbreite 8, 28. Grünmond, Butter im Keller schmilzt ohne Wärmequelle. Grauwe-Ufer 4, 30. Grünmond, Grauwe fließt rückwärts zwischen fünf und sechs Uhr morgens.* Sechs Einträge. Am unteren Rand, in kleinerer Schrift, ein Aufruf an Zeugen, sich in der Druckerei zu melden.
 
 Er las die Liste einmal von oben nach unten, dann zwang er sich zu einer zweiten Lesung, weil seine Augen beim ersten Mal an Adressen entlanggesprungen waren.
 

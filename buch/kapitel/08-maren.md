@@ -1,6 +1,6 @@
 # Maren
 
-*10. Mai 551 · 6 Wochen 6 Tage in Vael*
+*10. Blütenmond 551 · 6 Wochen 6 Tage in Vael*
 
 An einem Morgen in der siebten Woche lag die Planke da.
 
@@ -30,7 +30,7 @@ Sie schaute auf die Werkbank. Auf die Oberfläche, abgewetzt von Jahren, Kerben 
 
 Maren zog es heraus. Gefaltet, zweimal, das Papier gelblich, die Kanten weich vom Alter. Sie faltete es auf.
 
-Harons Handschrift. Das erkannte sie sofort — die Neigung, der Abstand zwischen den Zeichen, die Art wie der Stift am Ende eines Strichs leichter wurde, die Hand schon beim nächsten. Dieselbe Hand die geschrieben hatte: *Das Holz gibt nach, wenn man ihm Zeit lässt.* Derselbe Stift, vielleicht derselbe Bleistift, der jetzt in ihrer Jackentasche lag mit der abgebrochenen Spitze.
+Harons Handschrift. Das erkannte sie sofort — die Neigung, der Abstand zwischen den Zeichen, die Art wie der Stift am Ende eines Strichs leichter wurde, die Hand schon beim nächsten. Dieselbe Hand die geschrieben hatte: *Das Holz gibt nach, wenn man ihm Zeit lässt.* Derselbe Stift, vielleicht derselbe Bleistift, der jetzt in ihrer Hosentasche lag mit der abgebrochenen Spitze.
 
 Aber die Zeichen waren keine Buchstaben.
 
@@ -46,7 +46,7 @@ Sie faltete das Papier zusammen. Steckte es in die Tasche, neben den Bleistift. 
 
 Die Entscheidung zu bleiben fiel am Abend, als sie die letzte Planke vermaß.
 
-Den ganzen Nachmittag hatte das Papier sie nicht losgelassen. Sie hatte gearbeitet wie immer — gehobelt, geschliffen, gemessen — und ihre Hand war alle zehn Minuten in die Jackentasche gewandert, zu dem gefalteten Stück, zu Harons Handschrift in einer Sprache die sie nicht lesen konnte. Sie hatte es zweimal herausgezogen, aufgefaltet, angestarrt, wieder weggesteckt. Die Zeichen bedeuteten nichts für sie. Aber sie bedeuteten etwas — das war die Sache — und Maren hatte zwölf Jahre mit Holz und Wasser gearbeitet, und sie wusste, wann ihr Körper etwas wusste, das ihr Verstand noch nicht hatte.
+Den ganzen Nachmittag hatte das Papier sie nicht losgelassen. Sie hatte gearbeitet wie immer — gehobelt, geschliffen, gemessen — und ihre Hand war alle zehn Minuten in die Schürzentasche gewandert, zu dem gefalteten Stück, zu Harons Handschrift in einer Sprache die sie nicht lesen konnte. Sie hatte es zweimal herausgezogen, aufgefaltet, angestarrt, wieder weggesteckt. Die Zeichen bedeuteten nichts für sie. Aber sie bedeuteten etwas — das war die Sache — und Maren hatte zwölf Jahre mit Holz und Wasser gearbeitet, und sie wusste, wann ihr Körper etwas wusste, das ihr Verstand noch nicht hatte.
 
 Drei Zentimeter breiter als die Lücke. Das Holz musste noch abgenommen werden, morgen, mit dem Hobel, Span für Span, bis es passte. Maren legte das Maßband auf die Werkbank, löschte die Laterne. Sie ging nicht.
 
@@ -60,7 +60,7 @@ Eingewickelt, zusammengepresst, lag sie still. Eine Haltung die ihr Körper kann
 
 Die Dunkelheit unter dem Tuch war fast vollständig. Durch den Spalt fiel Mondlicht, dünn, blass, genug um die Konturen des Bootes zu sehen, den Kiel, die Spanten. Der Geruch war Pech und Salz und darunter das Meer, immer das Meer, und Maren lag da und atmete und wartete.
 
-Die Zeit ging. Maren spürte sie als Kühle, die durch die Jacke kroch, in die Schultern, in den Rücken. Ihre Finger wurden steif, die Knöchel kalt. Irgendwann hörte sie das Meer nicht mehr — nicht weil es aufgehört hatte, sondern weil ihr Gehör sich angepasst hatte, das Rauschen zur Grundlinie geworden war, zu einem Boden auf dem alle anderen Geräusche lagen. Das Knarren des Dachgebälks. Ein Tropfen, irgendwo, gleichmäßig. Ihr eigener Atem.
+Die Zeit ging. Maren spürte sie als Kühle, die durch das Hemd kroch, in die Schultern, in den Rücken. Ihre Finger wurden steif, die Knöchel kalt. Irgendwann hörte sie das Meer nicht mehr — nicht weil es aufgehört hatte, sondern weil ihr Gehör sich angepasst hatte, das Rauschen zur Grundlinie geworden war, zu einem Boden auf dem alle anderen Geräusche lagen. Das Knarren des Dachgebälks. Ein Tropfen, irgendwo, gleichmäßig. Ihr eigener Atem.
 
 Dann veränderte sich die Luft.
 
@@ -154,7 +154,7 @@ Nicht der ganze Fluss — ein Teil, ein Streifen, vielleicht zehn Meter breit, a
 
 "In vierzig Jahren nicht." Er wischte sich die Hand an der Hose ab, eine Gewohnheit, kein Zweck. "Meine Mutter hat manchmal erzählt, in schlechten Jahren läuft die Grauwe rückwärts. Hielt ich für Seemannsgeschwätz. Jetzt bin ich mir nicht mehr sicher."
 
-Maren spürte, wie ihr Körper reagierte, bevor ihr Verstand es einordnen konnte — ein Ziehen im Bauch, tief, ein Pochen in den Handflächen, derselbe Puls den sie auf dem Steg am ersten Tag gespürt hatte, in der Badewanne, ein Antworten das aus dem Körper kam und nicht aus dem Kopf. Sie drückte die Fäuste in die Jackentaschen und atmete einmal tief ein.
+Maren spürte, wie ihr Körper reagierte, bevor ihr Verstand es einordnen konnte — ein Ziehen im Bauch, tief, ein Pochen in den Handflächen, derselbe Puls den sie auf dem Steg am ersten Tag gespürt hatte, in der Badewanne, ein Antworten das aus dem Körper kam und nicht aus dem Kopf. Sie drückte die Fäuste in die Schürzentaschen und atmete einmal tief ein.
 
 "Danke, Herr Daverin." Sie sah ihn an. "Dass Sie's mir gesagt haben. Wenn ich wieder was bemerke, am Steg oder in der Werft — darf ich Sie fragen?"
 

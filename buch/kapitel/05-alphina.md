@@ -1,6 +1,6 @@
 # Alphina
 
-*24. März 551 · Tag 1 in Vael*
+*24. Saatmond 551 · Tag 1 in Vael*
 
 Der dritte Tag roch nach Salz.
 
@@ -18,7 +18,7 @@ Sie hatte ins Notizbuch geschrieben: *Asplenium trichomanes, Poststation Hügels
 
 Phototropismus. Das Wort beruhigte. Griechisch, messbar, erklärbar. So lange es einen Namen hatte, war es kein Problem.
 
-Jetzt, am dritten Tag, roch die Luft nach Salz. Die Hügel waren zu Felsen geworden, dunkel, fast schwarz, ein Gestein das sie nicht kannte. Zwischen den Felsen wuchs Moos, satt, grüner als es im April sein sollte, als hätte jemand den Frühling übersprungen. Die Luft war dichter geworden, über Stunden, unmerklich, als liefe man in ein Zimmer dessen Tür lange geschlossen war. Feuchter. Schwerer. Der Wind kam von Nordwest, trug den Geruch des Meeres; unter dem Salz lag etwas anderes — süßlich, dicht, ein Geruch den sie einzuordnen versuchte. Nicht Moos, nicht Tang, nicht Verwesung, nicht die Mineralien die Gestein abgibt wenn Regen es wäscht. Etwas darunter. Etwas das sie nicht benennen konnte, was allein seltsam genug war, weil sie Gerüche benennen konnte, weil das ihr Beruf war, weil sie dreißig Jahre lang Pflanzen an ihrem Geruch erkannt hatte bevor sie sie gesehen hatte.
+Jetzt, am dritten Tag, roch die Luft nach Salz. Die Hügel waren zu Felsen geworden, dunkel, fast schwarz, ein Gestein das sie nicht kannte. Zwischen den Felsen wuchs Moos, satt, grüner als es im Grünmond sein sollte, als hätte jemand den Frühling übersprungen. Die Luft war dichter geworden, über Stunden, unmerklich, als liefe man in ein Zimmer dessen Tür lange geschlossen war. Feuchter. Schwerer. Der Wind kam von Nordwest, trug den Geruch des Meeres; unter dem Salz lag etwas anderes — süßlich, dicht, ein Geruch den sie einzuordnen versuchte. Nicht Moos, nicht Tang, nicht Verwesung, nicht die Mineralien die Gestein abgibt wenn Regen es wäscht. Etwas darunter. Etwas das sie nicht benennen konnte, was allein seltsam genug war, weil sie Gerüche benennen konnte, weil das ihr Beruf war, weil sie dreißig Jahre lang Pflanzen an ihrem Geruch erkannt hatte bevor sie sie gesehen hatte.
 
 Ihr Herz schlug ruhig. Drei Tage Kutsche, ihr Rücken schmerzte, ihr rechtes Knie war steif, ihre Finger rochen nach Tinte, nach Leder, nach dem Brot von gestern — sie war ruhig. Es gab keinen Grund, nicht ruhig zu sein.
 
@@ -144,11 +144,11 @@ Ihre Hände stoppten für eine Sekunde. Sie schaute Alphina an, die Augenbrauen 
 
 "Ja."
 
-"Na, da sind Sie in der richtigen Stadt." Sie zählte weiter. Dreißig, fünfunddreißig. "Hier wächst alles mögliche was nicht soll. Der Efeu an der Marktkirche hat im Januar geblüht. Im Januar." Vierzig, fünfundvierzig. Die Kerze auf dem Tresen — Alphina bemerkte es jetzt erst, beiläufig, als Randbeobachtung — brannte immer noch ohne zu flackern. Die Flamme stand aufrecht, bewegungslos, als wäre die Luft im Raum still. Aber die Luft war nicht still. Die Druckerin bewegte sich, redete, die Tür stand offen. "Im Garten oben, am Klippenrand — waren Sie schon im Garten?"
+"Na, da sind Sie in der richtigen Stadt." Sie zählte weiter. Dreißig, fünfunddreißig. "Hier wächst alles mögliche was nicht soll. Der Efeu an der Marktkirche hat im Eismond geblüht. Im Eismond." Vierzig, fünfundvierzig. Die Kerze auf dem Tresen — Alphina bemerkte es jetzt erst, beiläufig, als Randbeobachtung — brannte immer noch ohne zu flackern. Die Flamme stand aufrecht, bewegungslos, als wäre die Luft im Raum still. Aber die Luft war nicht still. Die Druckerin bewegte sich, redete, die Tür stand offen. "Im Garten oben, am Klippenrand — waren Sie schon im Garten?"
 
 "Nein."
 
-"Gehen Sie hin. Da stehen Farne die so hoch sind wie ich." Fünfzig, fünfundfünfzig. "Henrik sagt, das sei normal, aber Henrik sagt alles sei normal, Henrik würde auch sagen, Schnee im August sei normal wenn er damit seine Beete erklären kann." Sechzig. Sie klopfte den Stapel auf den Tresen, schob ihn zu Alphina. "Sechzig Blatt. Drei Schilling."
+"Gehen Sie hin. Da stehen Farne die so hoch sind wie ich." Fünfzig, fünfundfünfzig. "Henrik sagt, das sei normal, aber Henrik sagt alles sei normal, Henrik würde auch sagen, Schnee im Erntemond sei normal wenn er damit seine Beete erklären kann." Sechzig. Sie klopfte den Stapel auf den Tresen, schob ihn zu Alphina. "Sechzig Blatt. Drei Schilling."
 
 Alphina legte die Münzen auf den Tresen. Die Druckerin nahm sie — dabei berührten sich ihre Finger.
 
@@ -184,7 +184,7 @@ Sie sagte es beiläufig, als erzähle sie vom Wetter. Aber ihre Stimme hatte den
 
 Die Tür fiel hinter ihr zu.
 
-Die Gasse. Der Nebel. Die Kälte, die sofort zurückkam, auf die Wangen, in den Nacken, durch den Stoff der Jacke. In ihrer rechten Hand das Paket, warm. In ihrer linken Hand: ein Kribbeln, an den Fingerspitzen, dort wo Runas Haut ihre berührt hatte. Das Kribbeln wanderte, langsam, vom Zeigefinger in die Handfläche — dasselbe Kribbeln wie damals auf der Treppe in Velde, bei der Efeutute. Sie machte eine Faust. Öffnete sie. Schloss sie. Es ging nicht weg.
+Die Gasse. Der Nebel. Die Kälte, die sofort zurückkam, auf die Wangen, in den Nacken, durch den Stoff des Mantels. In ihrer rechten Hand das Paket, warm. In ihrer linken Hand: ein Kribbeln, an den Fingerspitzen, dort wo Runas Haut ihre berührt hatte. Das Kribbeln wanderte, langsam, vom Zeigefinger in die Handfläche — dasselbe Kribbeln wie damals auf der Treppe in Velde, bei der Efeutute. Sie machte eine Faust. Öffnete sie. Schloss sie. Es ging nicht weg.
 
 Im Notizbuch, abends, im Gasthaus: *Druckerei Kvist. Runa Kvist, Druckerin. Papier: Hadern, Leinen-Baumwolle, handgeschöpft. Gute Qualität.* Dann ein Abstand, eine leere Zeile, in der die Feder zögerte. Dann: *Hände ungewöhnlich warm. Kerzenflamme auffällig ruhig in ihrer Nähe.*
 
@@ -218,7 +218,7 @@ Sie stand am Fenster. Ihre Finger am Rahmen, die Knöchel weiß.
 
 *Gehen Sie nachts nicht die Untere Grauwe runter. Ratten. Groß wie Katzen.*
 
-Sie zog sich an. Jacke, Stiefel, die Schnallen mit Fingern die nicht ruhig sein wollten. Die Treppe hinunter, die Stufen knarrten, die Haustür — der Riegel war nicht vorgelegt, das Schloss klemmte, der Nebel drückte von außen dagegen als sie öffnete.
+Sie zog sich an. Mantel, Stiefel, die Schnallen mit Fingern die nicht ruhig sein wollten. Die Treppe hinunter, die Stufen knarrten, die Haustür — der Riegel war nicht vorgelegt, das Schloss klemmte, der Nebel drückte von außen dagegen als sie öffnete.
 
 Die Hafengasse. Kalt. Der Nebel dichter als am Nachmittag, tiefer, er reichte ihr bis zur Brust, ihre Beine verschwanden darin. Die Gaslampe an der Ecke, gelb, ein Kreis aus trübem Licht der drei Meter weit reichte. Darüber hinaus: nichts. Grau auf Grau.
 
