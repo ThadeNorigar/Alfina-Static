@@ -180,11 +180,11 @@
       "21": {
         "titel": "Alphina",
         "pov": "Alphina",
-        "status": "lektorat",
+        "status": "final",
         "entwurfs_datei": "B1-K21-entwurf.md",
         "datei": "B1-K21-alphina.md",
-        "woerter": 3827,
-        "text": "Alphina besucht Sorel unerwartet in der Dunkelkammer. Findet 19 Platten von sich, zuletzt das Nacktbild (Projektion, sein inneres Bild). Wut und Begehren ununterscheidbar. Er lügt nicht: 'Ich begehre dich. Seit dem Steg. Ich wollte nicht aufhören.' Alphinas innerer Krieg — verdammt, du Arsch — aber sein Blick weicht nicht aus. Körper-Erinnerung K19 (Hand an Schulter). Sie zieht ihn zu sich. Kontrollverlust wie Freifall der sich wie Ankommen anfühlt. Intensiv, dringend, atemlos. Farne wachsen leise durch Kellerwände — Magie und Körper wollen zum ersten Mal dasselbe. Danach Du statt Sie, nicht Entscheidung, Tatsache. Er sagt etwas Beiläufiges, Zukünftiges — Versprechen das er nicht weiß dass er gibt."
+        "woerter": 3903,
+        "text": "Alphina besucht Sorel unerwartet in der Dunkelkammer (Kellertür statt Luke, K13-konsistent). Findet 15 Platten von sich, dann das Aktbild — erkennt die Falschheiten (gespiegeltes Muttermal, zu glatte Hände, keine Narben): seine Vorstellung, nicht Realität. Er gesteht: 'Ich habe dich nicht so gesehen. Ich wollte dich so sehen. So unglaublich gern, dass mein Licht die Platte statt meiner erreicht hat.' Konflikt-Schwanken: 'Sie hasste, was er getan hatte. Sie wollte, was er getan hatte.' Erste intime Szene. Sorel manipuliert Licht aktiv auf ihrer Haut — er sieht sie jetzt wie sie wirklich ist (Hornhaut, Erde, Narben), nicht wie auf der Platte. Beim Höhepunkt: Farne explodieren durch Kellerwände, sein Licht flammt weiß→grün→rot. Du ab K19 etabliert (Vesper-Vornamen-Angebot). Sorel sagt ihren Namen erstmals in Intimität: 'Alphina. Du bleibst.' Schem erscheint, beobachtet, löst sich auf. Morgen entwickelt er die Platten vom Garten — hat sie nicht gemacht, sind trotzdem da (Setup K23: Varen im Hintergrund)."
       },
       "22": {
         "titel": "Maren",
@@ -444,7 +444,6 @@
     "akte": [
       {
         "name": "Akt I",
-        "titel": "Fremde Welt",
         "kapitel": [
           "01",
           "02",
@@ -460,50 +459,56 @@
       },
       {
         "name": "Akt II",
-        "titel": "Die Fraktionen",
         "kapitel": [
           "11",
           "12",
           "13",
           "14",
-          "I4",
+          "I3",
           "15",
           "16",
           "17",
           "18",
           "19",
-          "20",
-          "20b"
+          "I4",
+          "20"
         ]
       },
       {
         "name": "Akt III",
-        "titel": "Gefangenschaft",
         "kapitel": [
           "21",
           "22",
           "23",
-          "I5",
           "24",
           "25",
           "26",
+          "I5",
           "27",
-          "28"
+          "28",
+          "29",
+          "I10",
+          "I11"
         ]
       },
       {
         "name": "Akt IV",
-        "titel": "Trennung",
         "kapitel": [
-          "29",
           "30",
           "31",
-          "I6",
           "32",
           "33",
           "34",
           "35",
-          "36"
+          "I6",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "I12"
         ]
       }
     ],
@@ -804,7 +809,6 @@
     "akte": [
       {
         "name": "Akt I",
-        "titel": "Technologie",
         "kapitel": [
           "41",
           "42",
@@ -814,49 +818,61 @@
           "45",
           "46",
           "47",
-          "48"
+          "48",
+          "49",
+          "50"
         ]
       },
       {
         "name": "Akt II",
-        "titel": "Kulturkampf",
         "kapitel": [
-          "49",
-          "50",
           "51",
+          "I10",
           "52",
           "53",
-          "I8",
           "54",
           "55",
-          "56"
+          "I8",
+          "56",
+          "57",
+          "58",
+          "59",
+          "60"
         ]
       },
       {
         "name": "Akt III",
-        "titel": "Quellen und Verlust",
         "kapitel": [
-          "57",
-          "58",
-          "59",
-          "60",
-          "I9",
           "61",
           "62",
-          "63"
+          "63",
+          "64",
+          "65",
+          "I9",
+          "66",
+          "I11",
+          "67",
+          "68",
+          "69",
+          "70"
         ]
       },
       {
         "name": "Akt IV",
-        "titel": "Die Wahl",
         "kapitel": [
-          "64",
-          "65",
-          "66",
-          "67",
-          "68",
-          "69",
-          "EP"
+          "71",
+          "72",
+          "73",
+          "I12",
+          "74",
+          "75",
+          "76",
+          "77",
+          "78",
+          "79",
+          "I15",
+          "80",
+          "Epilog"
         ]
       }
     ],

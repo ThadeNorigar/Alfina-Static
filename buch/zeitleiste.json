@@ -2499,126 +2499,6 @@
       "datum_text": "Varens Rueckblick: vor dem Portal (MZ ~3625, provisorisch)"
      },
      {
-      "tz": null,
-      "mz": 3635.1,
-      "kapitel": "B2-01",
-      "typen": [
-       "schlüssel"
-      ],
-      "titel": "Alphinas erster Trauer-Hain in Elkes Garten — unbewusst im Schlaf",
-      "pov": "B2 Kap 1 · Alphina",
-      "detail": "Die Trauer kommt nicht als Gefuehl, sondern als Wachstum. Im Schlaf bricht der Boden auf — ein Hain von zehn Metern. Alphina kann nichts wiederholen, nichts stoppen.",
-      "tags": [
-       "Schluesselereignis: Trauer als Resonanz"
-      ],
-      "buch": "B3"
-     },
-     {
-      "tz": null,
-      "mz": 3635.15,
-      "kapitel": "B2-02",
-      "typen": [
-       "erkenntnis"
-      ],
-      "titel": "Vesper sieht die Struktur von Moragh: Fibonacci, 4:33, zwei Monde",
-      "pov": "B2 Kap 2 · Vesper",
-      "detail": "Die Baeume in Spiralen, Fluesse Fibonacci, Monde im 4:33-Verhaeltnis. Die Sonne: ein dunkler Kern mit gleissendem Ring. Kein Stern.",
-      "tags": [
-       "Erkenntnis: Moragh-Struktur"
-      ],
-      "buch": "B3"
-     },
-     {
-      "tz": null,
-      "mz": 3635.2,
-      "kapitel": "B2-03",
-      "typen": [
-       "erkenntnis"
-      ],
-      "titel": "Maren fuehlt Moragh-Wasser — es fliesst bergauf und formt Mulden",
-      "pov": "B2 Kap 3 · Maren",
-      "buch": "B3"
-     },
-     {
-      "tz": null,
-      "mz": 3635.25,
-      "kapitel": "B2-04",
-      "typen": [
-       "erkenntnis",
-       "tschechow"
-      ],
-      "titel": "Runa formt Moragh-Metall mit blossen Haenden — Feuer-Resonanz in Moragh stark",
-      "pov": "B2 Kap 4 · Runa",
-      "tags": [
-       "Tschechow: Runas warme Haende"
-      ],
-      "buch": "B3"
-     },
-     {
-      "tz": null,
-      "mz": 3635.4,
-      "kapitel": "B2-07",
-      "typen": [
-       "begegnung",
-       "erkenntnis"
-      ],
-      "titel": "Elke: 'Das kostet dich nichts, oder?' — Kern-Frage der Ungerechtigkeit",
-      "pov": "B2 Kap 7 · Alphina",
-      "figuren": [
-       "Alphina",
-       "Elke"
-      ],
-      "detail": "Elke sieht Alphinas Hain. 'Das hast du in einer Nacht getan. Das kostet dich nichts, oder?' Alphinas Antwort: 'Nein.' Elkes Gesicht: zwischen Neid und Angst.",
-      "tags": [
-       "Tschechow: Ungerechtigkeit als Kernthema"
-      ],
-      "buch": "B3"
-     },
-     {
-      "tz": null,
-      "mz": 3635.45,
-      "kapitel": "B2-08",
-      "typen": [
-       "erkenntnis"
-      ],
-      "titel": "Maren sucht das Portal durchs Wasser — findet es, aber geschlossen",
-      "pov": "B2 Kap 8 · Maren",
-      "tags": [
-       "Tschechow: Maren sucht den Rueckweg"
-      ],
-      "buch": "B3"
-     },
-     {
-      "tz": null,
-      "mz": 3635.5,
-      "kapitel": "B2-09",
-      "typen": [
-       "erkenntnis"
-      ],
-      "titel": "Elke zu Runa: 'Hier bist du mehr' — Runas Feuer-Resonanz erkannt",
-      "pov": "B2 Kap 9 · Runa",
-      "figuren": [
-       "Runa Kvist",
-       "Elke"
-      ],
-      "buch": "B3"
-     },
-     {
-      "tz": null,
-      "mz": 3635.6,
-      "kapitel": "B2-10",
-      "typen": [
-       "schlüssel"
-      ],
-      "titel": "Die Bund-Stadt empfaengt die Fuenf — die Aelteste greift Alphinas Hand",
-      "pov": "B2 Kap 10 · Alphina",
-      "detail": "Tuerme die gewachsen sind, Strassen die sich verschieben. Die Aelteste: 'Ihr seid sicher hier.' Alphinas Hain hat sich herumgesprochen. Waffe.",
-      "tags": [
-       "Schluesselereignis: Ankunft Bund-Stadt"
-      ],
-      "buch": "B3"
-     },
-     {
       "buch": "B2",
       "kapitel": "06",
       "mz_tag": 10,
@@ -2745,7 +2625,7 @@
      {
       "tz": null,
       "mz": 3636.1,
-      "kapitel": "B2-12",
+      "kapitel": "12",
       "typen": [
        "begegnung",
        "tschechow"
@@ -2762,12 +2642,12 @@
        "Erste Begegnung: Talven",
        "Tschechow: Talvens Hunger"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3636.3,
-      "kapitel": "B2-15",
+      "kapitel": "15",
       "typen": [
        "schlüssel"
       ],
@@ -2777,12 +2657,12 @@
       "tags": [
        "Schluesselereignis: Erstes Bund-Angebot"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3636.4,
-      "kapitel": "B2-16",
+      "kapitel": "16",
       "typen": [
        "erotik"
       ],
@@ -2797,12 +2677,12 @@
       "tags": [
        "Beziehung: Alphina + Runa"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3636.5,
-      "kapitel": "B2-18",
+      "kapitel": "18",
       "typen": [
        "begegnung",
        "schlüssel"
@@ -2819,12 +2699,12 @@
        "Erste Begegnung: Nyr",
        "Schluesselereignis: Vesper zu den Thar"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3636.6,
-      "kapitel": "B2-19",
+      "kapitel": "19",
       "typen": [
        "schlüssel",
        "tschechow"
@@ -2835,12 +2715,12 @@
       "tags": [
        "Schluesselereignis: Schlaf-Wald als Waffe sichtbar"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3636.8,
-      "kapitel": "B2-20",
+      "kapitel": "20",
       "typen": [
        "schlüssel"
       ],
@@ -2850,7 +2730,7 @@
       "tags": [
        "Schluesselereignis: Alphina als Waffe"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
@@ -2927,18 +2807,18 @@
      {
       "tz": null,
       "mz": 3637.1,
-      "kapitel": "B2-21",
+      "kapitel": "21",
       "typen": [
        "hintergrund"
       ],
       "titel": "Alphina an der Front — Wochen als Bund-Waffe",
       "pov": "B2 Kap 21 · Alphina",
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3637.3,
-      "kapitel": "B2-25",
+      "kapitel": "25",
       "typen": [
        "schlüssel",
        "tod"
@@ -2950,12 +2830,12 @@
        "Schluesselereignis: Erste absichtliche Quellen-Zerstoerung",
        "Tod: Reservoir-Quelle"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3637.35,
-      "kapitel": "B2-26",
+      "kapitel": "26",
       "typen": [
        "schlüssel"
       ],
@@ -2965,12 +2845,12 @@
       "tags": [
        "Schluesselereignis: Alphina gefangen"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3637.4,
-      "kapitel": "B2-27",
+      "kapitel": "27",
       "typen": [
        "erkenntnis"
       ],
@@ -2981,12 +2861,12 @@
        "Erkenntnis: Vierhundert",
        "Schluesselereignis: Varens Karten"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3637.5,
-      "kapitel": "B2-28",
+      "kapitel": "28",
       "typen": [
        "erkenntnis",
        "schlüssel"
@@ -2997,12 +2877,12 @@
       "tags": [
        "Erkenntnis: Bund-Wahrheit"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3637.55,
-      "kapitel": "B2-29",
+      "kapitel": "29",
       "typen": [
        "schlüssel"
       ],
@@ -3012,7 +2892,7 @@
       "tags": [
        "Tschechow: Runa als Chronistin"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
@@ -3045,7 +2925,7 @@
      {
       "tz": null,
       "mz": 3638.55,
-      "kapitel": "B2-39",
+      "kapitel": "39",
       "typen": [
        "schlüssel"
       ],
@@ -3055,7 +2935,7 @@
       "tags": [
        "Schluesselereignis: Maren gestrandet in 1910"
       ],
-      "buch": "B3"
+      "buch": "B2"
      }
     ],
     "moragh": [
@@ -3065,7 +2945,7 @@
      {
       "tz": null,
       "mz": 3638.1,
-      "kapitel": "B2-31",
+      "kapitel": "31",
       "typen": [
        "erkenntnis",
        "schlüssel"
@@ -3076,12 +2956,12 @@
       "tags": [
        "Schluesselereignis: Varens Gestaendnis"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3638.15,
-      "kapitel": "B2-32",
+      "kapitel": "32",
       "typen": [
        "erkenntnis"
       ],
@@ -3091,12 +2971,12 @@
       "tags": [
        "Erkenntnis: Selbstbild zerbricht"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3638.3,
-      "kapitel": "B2-35",
+      "kapitel": "35",
       "typen": [
        "erotik",
        "schlüssel"
@@ -3113,12 +2993,12 @@
        "Erotik: Alphina + Varen",
        "Tschechow: Dornen statt Farne"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3638.35,
-      "kapitel": "B2-36",
+      "kapitel": "36",
       "typen": [
        "schlüssel"
       ],
@@ -3128,12 +3008,12 @@
       "tags": [
        "Schluesselereignis: Alphina wechselt Seite"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3638.4,
-      "kapitel": "B2-37",
+      "kapitel": "37",
       "typen": [
        "schlüssel"
       ],
@@ -3143,12 +3023,12 @@
       "tags": [
        "Schluesselereignis: Runa verlaesst Bund"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3638.5,
-      "kapitel": "B2-38",
+      "kapitel": "38",
       "typen": [
        "portal",
        "schlüssel"
@@ -3160,12 +3040,12 @@
        "Portal",
        "Schluesselereignis: Maren findet Rueckweg"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3638.7,
-      "kapitel": "B2-40",
+      "kapitel": "40",
       "typen": [
        "schlüssel"
       ],
@@ -3175,12 +3055,12 @@
       "tags": [
        "Schluesselereignis: Runa zu den Thar"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3638.9,
-      "kapitel": "B2-42",
+      "kapitel": "42",
       "typen": [
        "hintergrund"
       ],
@@ -3190,12 +3070,12 @@
       "tags": [
        "Epilog Buch 2"
       ],
-      "buch": "B3"
+      "buch": "B2"
      },
      {
       "tz": null,
       "mz": 3638.6,
-      "kapitel": "B2-I12",
+      "kapitel": "I12",
       "typen": [
        "tschechow"
       ],
@@ -3205,7 +3085,7 @@
       "tags": [
        "Tschechow: Talven zerfaellt"
       ],
-      "buch": "B3"
+      "buch": "B2"
      }
     ]
    }
@@ -3237,7 +3117,7 @@
      {
       "tz": null,
       "mz": 3640,
-      "kapitel": "B3-41",
+      "kapitel": "41",
       "typen": [
        "schlüssel"
       ],
@@ -3252,7 +3132,7 @@
      {
       "tz": null,
       "mz": 3640.2,
-      "kapitel": "B3-46",
+      "kapitel": "46",
       "typen": [
        "portal",
        "schlüssel"
@@ -3269,7 +3149,7 @@
      {
       "tz": null,
       "mz": 3640.9,
-      "kapitel": "B3-I15",
+      "kapitel": "I15",
       "typen": [
        "tod"
       ],
@@ -3348,7 +3228,7 @@
      {
       "tz": null,
       "mz": 3640.1,
-      "kapitel": "B3-42",
+      "kapitel": "42",
       "typen": [
        "erkenntnis"
       ],
@@ -3363,7 +3243,7 @@
      {
       "tz": null,
       "mz": 3640.12,
-      "kapitel": "B3-43",
+      "kapitel": "43",
       "typen": [
        "schlüssel",
        "tschechow"
@@ -3379,7 +3259,7 @@
      {
       "tz": null,
       "mz": 3640.15,
-      "kapitel": "B3-45",
+      "kapitel": "45",
       "typen": [
        "tschechow"
       ],
@@ -3394,7 +3274,7 @@
      {
       "tz": null,
       "mz": 3640.25,
-      "kapitel": "B3-47",
+      "kapitel": "47",
       "typen": [
        "erkenntnis"
       ],
@@ -3406,7 +3286,7 @@
      {
       "tz": null,
       "mz": 3640.28,
-      "kapitel": "B3-48",
+      "kapitel": "48",
       "typen": [
        "schlüssel"
       ],
@@ -3421,7 +3301,7 @@
      {
       "tz": null,
       "mz": 3640.35,
-      "kapitel": "B3-50",
+      "kapitel": "50",
       "typen": [
        "tschechow"
       ],
@@ -3433,7 +3313,7 @@
      {
       "tz": null,
       "mz": 3640.4,
-      "kapitel": "B3-51",
+      "kapitel": "51",
       "typen": [
        "schlüssel"
       ],
@@ -3445,7 +3325,7 @@
      {
       "tz": null,
       "mz": 3640.45,
-      "kapitel": "B3-53",
+      "kapitel": "53",
       "typen": [
        "schlüssel"
       ],
@@ -3460,7 +3340,7 @@
      {
       "tz": null,
       "mz": 3640.48,
-      "kapitel": "B3-54",
+      "kapitel": "54",
       "typen": [
        "schlüssel"
       ],
@@ -3475,7 +3355,7 @@
      {
       "tz": null,
       "mz": 3640.5,
-      "kapitel": "B3-56",
+      "kapitel": "56",
       "typen": [
        "erkenntnis"
       ],
@@ -3487,7 +3367,7 @@
      {
       "tz": null,
       "mz": 3640.53,
-      "kapitel": "B3-60",
+      "kapitel": "60",
       "typen": [
        "schlüssel"
       ],
@@ -3502,7 +3382,7 @@
      {
       "tz": null,
       "mz": 3640.6,
-      "kapitel": "B3-61",
+      "kapitel": "61",
       "typen": [
        "schlüssel"
       ],
@@ -3517,7 +3397,7 @@
      {
       "tz": null,
       "mz": 3640.65,
-      "kapitel": "B3-63",
+      "kapitel": "63",
       "typen": [
        "schlüssel",
        "erkenntnis"
@@ -3533,7 +3413,7 @@
      {
       "tz": null,
       "mz": 3640.68,
-      "kapitel": "B3-64",
+      "kapitel": "64",
       "typen": [
        "begegnung"
       ],
@@ -3555,7 +3435,7 @@
      {
       "tz": null,
       "mz": 3640.7,
-      "kapitel": "B3-65",
+      "kapitel": "65",
       "typen": [
        "schlüssel"
       ],
@@ -3570,7 +3450,7 @@
      {
       "tz": null,
       "mz": 3640.72,
-      "kapitel": "B3-66",
+      "kapitel": "66",
       "typen": [
        "begegnung"
       ],
@@ -3590,7 +3470,7 @@
      {
       "tz": null,
       "mz": 3640.74,
-      "kapitel": "B3-69",
+      "kapitel": "69",
       "typen": [
        "erkenntnis"
       ],
@@ -3605,7 +3485,7 @@
      {
       "tz": null,
       "mz": 3640.8,
-      "kapitel": "B3-71",
+      "kapitel": "71",
       "typen": [
        "schlüssel"
       ],
@@ -3617,7 +3497,7 @@
      {
       "tz": null,
       "mz": 3640.82,
-      "kapitel": "B3-72",
+      "kapitel": "72",
       "typen": [
        "schlüssel"
       ],
@@ -3629,7 +3509,7 @@
      {
       "tz": null,
       "mz": 3640.85,
-      "kapitel": "B3-75",
+      "kapitel": "75",
       "typen": [
        "schlüssel"
       ],
@@ -3644,7 +3524,7 @@
      {
       "tz": null,
       "mz": 3640.88,
-      "kapitel": "B3-76",
+      "kapitel": "76",
       "typen": [
        "portal",
        "schlüssel",
@@ -3663,7 +3543,7 @@
      {
       "tz": null,
       "mz": 3640.92,
-      "kapitel": "B3-77",
+      "kapitel": "77",
       "typen": [
        "hintergrund"
       ],
@@ -3675,7 +3555,7 @@
      {
       "tz": null,
       "mz": 3640.93,
-      "kapitel": "B3-78",
+      "kapitel": "78",
       "typen": [
        "erotik"
       ],
@@ -3695,7 +3575,7 @@
      {
       "tz": null,
       "mz": 3640.95,
-      "kapitel": "B3-80",
+      "kapitel": "80",
       "typen": [
        "schlüssel"
       ],
@@ -3710,7 +3590,7 @@
      {
       "tz": null,
       "mz": 3641,
-      "kapitel": "B3-EP",
+      "kapitel": "Epilog",
       "typen": [
        "schlüssel"
       ],
@@ -3725,7 +3605,7 @@
      {
       "tz": null,
       "mz": 3640.3,
-      "kapitel": "B3-I10",
+      "kapitel": "I10",
       "typen": [
        "tschechow",
        "erkenntnis"
@@ -3741,7 +3621,7 @@
      {
       "tz": null,
       "mz": 3640.52,
-      "kapitel": "B3-I11",
+      "kapitel": "I11",
       "typen": [
        "tod"
       ],
@@ -3756,7 +3636,7 @@
      {
       "tz": null,
       "mz": 3640.55,
-      "kapitel": "B3-I12",
+      "kapitel": "I12",
       "typen": [
        "erkenntnis"
       ],
