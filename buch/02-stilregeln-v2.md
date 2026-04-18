@@ -325,6 +325,18 @@ Auch außerhalb von Erotik: Tee, Bier, Seeluft auf den Lippen, Kalkstein-Staub z
 
 **Der /stil-check flaggt:** Nähe-Szene ohne Geschmacks-Referenz = FINDING.
 
+### Geschmack braucht Textur, nicht nur Erwähnung
+
+Geschmack als Ein-Wort-Marker (*"Salz auf der Lippe."*) ist tot. Er braucht **Dauer, Reaktion, Körperanker** — das Verb **schmecken** vor dem Substantiv *Geschmack*, ein zweiter Satz der dem Geschmack Zeit gibt.
+
+**Schlecht:**
+> Auf der Oberlippe der Geschmack von Salz.
+
+**Gut:**
+> Er schmeckte Salz, als er die Oberlippe über die Zähne zog — fein, wie nach Meerluft, und die Zunge blieb an der Stelle hängen.
+
+**Pflicht in Nähe-Szenen:** Mindestens **ein** Geschmacks-Moment pro Szene muss texturiert sein (Verb + Körperreaktion + zweiter Satz), nicht nur als Nomen-Marker hingesetzt.
+
 ## Metapher-Ökonomie (Council April 2026)
 
 Ein starkes Bild steht allein. **KEIN erklärender Nachsatz.**
@@ -452,6 +464,25 @@ In Szenen mit körperlicher Nähe oder BDSM ist **bildlastige Prosa erlaubt und 
 **Körper vor Erkenntnis (Pflicht in jeder BDSM-Szene):** Figur reagiert körperlich, bemerkt erst danach. Zittern → dann Satz. Nicht umgekehrt.
 
 **Geschmacks-Pflicht bleibt hart:** Jede Nähe-Szene braucht Geschmack (Salz, Metall, Wein, Haut, Blut, Öl).
+
+### Sub-Empfindung statt Dom-Handlung (April 2026)
+
+In Szenen der körperlichen Nähe — besonders mit Machtgefälle — muss die **gefühlte Empfindung der Sub** hörbar werden, nicht nur die Handlung der Dom-Figur. *"Seine Finger lagen an ihrem Rücken"* ist Beobachtung von außen. *"Sie spürte seine Finger als Wärmepunkte, die die Haut durchlasen"* ist Empfindung von innen.
+
+**Schlecht:**
+> Er fuhr mit dem Daumen über ihre Kehle.
+
+**Gut:**
+> Er fuhr mit dem Daumen über ihre Kehle. Der Druck wanderte den Hals hinauf, blieb unter dem Kiefer stehen, und die Luft staute sich dort wo sein Finger lag.
+
+**Pflicht in Nähe-/BDSM-Szenen aus Sub-POV:** Mindestens 2 Beats pro Szene, die die **Spur** der Dom-Handlung auf/in der Sub zeigen — Druckverteilung, Wärme, Atem, Haut-Erinnerung danach. Nicht nur wo die Hand ist — wie die Haut sie trägt.
+
+### Kein stilisiertes Berufs-Register in BDSM
+
+Die Berufslinse (Uhrmacher, Fotograf, Botanikerin, Schiffbauerin) darf in BDSM-Szenen **als Fokus-Qualität** aufscheinen (Ruhe, Präzision, Handarbeit als Haltung), aber **nicht als literarisch stilisiertes Register** verklammert werden — kein "Uhrmacher-Register" mit Hemmung/Unruh/Takt als dauerhafte Metaphern-Kette für Sex. Vesper **prüft** die Sub und tut es **gerne** (Handlung, Haltung); er belehrt sie nicht über Zahnräder.
+
+**Verboten:** Uhrmacher-Jargon (Hemmung, Unruh, Takt, Kaliber) als erotisches Leitmotiv über mehrere Absätze.
+**Erlaubt:** Einzelne Berufslinsen-Brechungen (3-5 pro Kapitel), wenn sie etwas zeigen, das andere Wörter nicht zeigen würden.
 
 **Test:** Jedes Bild in einer BDSM-Szene zurückverfolgen zum Material. Wenn das Referenz-Ding nicht in derselben Passage greifbar benannt ist → erden oder streichen.
 
