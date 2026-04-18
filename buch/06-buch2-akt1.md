@@ -1,5 +1,14 @@
 # Buch 2 — Akt I — Fremde Welt (Seite 1–200, ~50.000 Wörter, 10 Kapitel + 2 Interludien)
 
+> **HINWEIS 2026-04-18 — B2-Akt-I neu zu strukturieren:**
+> B1 endet jetzt in K36 mit *„Aufbruch zum Lichtschein"* (nicht mehr bei Elke). Das heißt B2 Akt I beginnt **unterwegs**, nicht in Elkes Garten. Die ersten 3-4 Kapitel müssen umgebaut werden:
+> - **B2-K1:** Drei Tage Marsch zum Lichtschein — Moragh-Flora/Fauna am eigenen Leib, Harons Sprache angewendet, Runas Feuer hält Wunden.
+> - **B2-K2:** Stadt-Ankunft — porös-gewachsener Stein, Purpur-Augen, gedämpfte Geräusche, der ältere Mann mit verdünnten purpurnen Augen.
+> - **B2-K3:** Die Gruppe findet Elke (nicht umgekehrt — Elke sucht sie NICHT). Erster Kontakt, altes Thalassisch.
+> - **B2-K4+:** Elkes Hof, Alphinas Zusammenbruch / Dornen statt Farne, Trauer als unbewusstes Wachstum, Lernen.
+>
+> Der Rest dieses Dokuments (Kapitelplan ab alt-K1 bis K10) ist **LEGACY-Version**, die noch davon ausging, dass B1 bei Elke endet. Muss überarbeitet werden. Tschechow-Einträge können größtenteils bleiben (Schlaf-Hain, Runas Type, Maren-Portal etc.), nur die Verortung verschiebt sich um 2-3 Kapitel nach hinten.
+
 ## Alphinas Kontroll-Progression
 
 **Akt I = UNBEWUSST.** Alphina kann ihre Resonanz nicht kontrollieren. Sie passiert im Schlaf, durch Trauer, durch Emotion. Die Schlaf-Haine sind rein unbewusst. Tagsüber reagieren die Pflanzen auf sie, aber sie steuert nichts aktiv.
@@ -10,7 +19,7 @@
 
 ## Struktur
 
-Buch 2 beginnt bei Elke. Sorel ist tot (Buch 1, Akt IV). Alphinas Ausbruch hat alle verletzt. Varen hat sich zurückgezogen. Die Vier — Alphina, Vesper, Maren, Runa — sind in Elkes Garten, einer fremden Welt, mit einer Frau die ihre Sprache spricht. Akt I ist Trauer, Begreifen, Lernen. Alphinas Resonanz ist in diesem Akt VOLLSTÄNDIG UNBEWUSST — sie passiert im Schlaf, durch Trauer, ohne jeden willentlichen Einfluss. Die Perspektiven etablieren sich: Alphina dominant (Trauer als unkontrolliertes Wachstum), Maren (will zurück, das Portal ist zu), Vesper (analysiert, kartografiert, versteht zu schnell), Runa (fremd, überfordert, schwache Feuer-Resonanz die hier zum ersten Mal sichtbar wird). Die Gilden-Stadt als erster Kontakt mit Moragh-Zivilisation — aber Zivilisation hat einen Preis.
+Buch 2 beginnt **unterwegs**, drei Tage nach Sorels Tod und Alphinas Grab aus fremder Erde. Die Vier — Alphina, Vesper, Maren, Runa — marschieren zum Lichtschein, den sie am Ende von B1 gesehen haben. Er wird zur Stadt. Sie **finden Elke** dort (Elke sucht sie NICHT). Sorel ist tot. Alphinas Ausbruch hat alle verletzt. Varen hat sich zurückgezogen. Alphinas Resonanz ist in diesem Akt VOLLSTÄNDIG UNBEWUSST — sie passiert im Schlaf, durch Trauer, ohne jeden willentlichen Einfluss. Akt I ist Trauer, Begreifen, Lernen. Alphinas Resonanz ist in diesem Akt VOLLSTÄNDIG UNBEWUSST — sie passiert im Schlaf, durch Trauer, ohne jeden willentlichen Einfluss. Die Perspektiven etablieren sich: Alphina dominant (Trauer als unkontrolliertes Wachstum), Maren (will zurück, das Portal ist zu), Vesper (analysiert, kartografiert, versteht zu schnell), Runa (fremd, überfordert, schwache Feuer-Resonanz die hier zum ersten Mal sichtbar wird). Die Gilden-Stadt als erster Kontakt mit Moragh-Zivilisation — aber Zivilisation hat einen Preis.
 
 ## Kapitelplan
 

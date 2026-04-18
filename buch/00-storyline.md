@@ -125,7 +125,7 @@ Schemen eskalieren. Alphina+Sorel: Bruch → Versöhnung. Alphina+Runa: FWB begi
 **Interludium 3 — ERSTER VAREN-POV**
 Varen in Moragh. Spürt die Resonanzen. Seine Karten: 3 tote Quellen rot markiert. Auf einer zweiten Karte: Bund-Truppenbewegungen, die auf weitere Quellen zielen. "Sie kommen." Notwendigkeit.
 
-**Akt IV — Das Portal**
+**Akt IV — Das Portal (3 Kapitel, K34-K36)**
 Ritual. Portal öffnet sich (4:33). Runa schlüpft durch. Fünf in Moragh.
 
 **VAREN.** altes Thalassisch. Hand an Alphinas Kinn. Besitzergreifend, forschend.
@@ -134,22 +134,22 @@ Ritual. Portal öffnet sich (4:33). Runa schlüpft durch. Fünf in Moragh.
 
 Alphinas Explosion. Dornen, Vegetation. Verletzt die eigenen Leute. Varen zieht sich zurück.
 
-Elke findet die Gruppe. Überrascht, erschüttert.
+**Grab aus fremder Erde.** Alphinas Resonanz ist in Moragh stärker. Weiße Blüten wachsen aus dem Boden und decken Sorels Körper. Ein Grab ohne Spaten, nur mit Händen und Willen.
 
-**Ende Buch 1:** Fünf Thalassier (vier lebend) in Moragh. Sorel tot. Alphina: Trauer + Hass + Rachewunsch.
+**Schlussbild: Aufbruch zum Lichtschein.** Am Horizont ein Lichtschein — niemand weiß was er ist. Vier stehen auf. Sorel bleibt unter Blüten zurück. Sie gehen. Cliffhanger. ENDE Buch 1.
 
-**Epilog:** Vael ohne die Fünf. Halvards Bericht. Boot wartet.
+**Nach B1 (Buch 2):** Drei Tage Marsch zum Lichtschein — Moragh-Flora/Fauna am eigenen Leib, Sprache angewendet, Runas Feuer hält Wunden. Stadt-Ankunft. Die Gruppe FINDET Elke (nicht umgekehrt). Elke ist Geheimnis, nicht Rettungsanker. Vael-Epilog (Halvards Bericht, Boot wartet) wandert nach B2 oder B3-Prolog.
 
 ```
 Beziehungskarte Ende Buch 1:
 
-Alphina ──── ✝️ Sorel (tot)
-   ├── Runa (FWB, da)
-   └── ═══ HASS ═══ VAREN (Feind)
+Alphina ──── ✝️ Sorel (begraben unter Blüten in Moragh)
+   ├── Runa (durchs Portal mitgeflohen, Feuer-Resonanz)
+   └── ═══ HASS ═══ VAREN (verschwunden, irgendwo in Moragh)
 
 Vesper ═══ Maren
 
-Alle bei Elke in Moragh.
+Vier Überlebende. Gehen zu einem Lichtschein. Wissen nicht wohin.
 ```
 
 ---

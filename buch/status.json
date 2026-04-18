@@ -74,12 +74,7 @@
         "kapitel": [
           "34",
           "35",
-          "36",
-          "37",
-          "38",
-          "39",
-          "40",
-          "41"
+          "36"
         ]
       }
     ],
@@ -437,7 +432,8 @@
         "woerter": 1482,
         "text": "Drei Feuer-Schemen brechen durch den Riss. Keldan stirbt. Kesper geht mit Elke durch den instabilen Riss — schafft es nicht. Elke sieht durch das Portal absolute Schwärze und einen gleißenden Bogen aus Licht. Springt. Lene überlebt allein, schreibt das Manuskript. Das Große Feuer."
       }
-    }
+    },
+    "_umbau_2026_04_18": "B1 endet jetzt in K36 mit Schlussbild »Aufbruch zum Lichtschein«. Alte K37-K41 sind nach B2 verschoben (siehe zeitleiste.json buch=B2). Szenenpläne 34-01 bis 40-04 tragen Mapping-Banner im Kopf."
   },
   "buch2": {
     "meta": {

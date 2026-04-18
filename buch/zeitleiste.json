@@ -515,6 +515,44 @@
      {
       "tz": 154,
       "mz": 3634,
+      "titel": "Lene findet den Steinkreis nachts — er pulsiert",
+      "pov": "Lene",
+      "typen": [
+       "erkenntnis"
+      ],
+      "tags": [
+       "Erkenntnis: Steinkreis lebt"
+      ]
+     },
+     {
+      "tz": 154,
+      "mz": 3634,
+      "titel": "Kespers Bild zeigt Hohlraeume und Gestalt mit schwarzen Augen",
+      "detail": "Er kratzt die Stelle ab. Am Morgen ist sie wieder da, dunkler.",
+      "pov": "Kesper",
+      "typen": [
+       "tschechow"
+      ],
+      "tags": [
+       "Tschechow: Schemen in Kunst"
+      ]
+     },
+     {
+      "tz": 154,
+      "mz": 3634,
+      "titel": "Elke und Kesper: Nacht vor dem Kampf",
+      "detail": "Nicht Liebe — weil morgen der Tod kommen könnte. Schemen beobachten vor den Fenstern.",
+      "pov": "Elke",
+      "typen": [
+       "erotik"
+      ],
+      "tags": [
+       "Erotik: Explizit"
+      ]
+     },
+     {
+      "tz": 154,
+      "mz": 3634,
       "kapitel": "I1",
       "titel": "Elke kommt nach Vael — wegen des Purpursteins",
       "detail": "Bildhauerin aus dem Süden. Berührt den Stein — er ist warm. Ein Gestein das es nirgendwo sonst gibt. Sie 'hoert' seine Maserung.",
@@ -560,44 +598,6 @@
        "Erste Begegnung: Keldan + Elke"
       ],
       "buch": "B1"
-     },
-     {
-      "tz": 154,
-      "mz": 3634,
-      "titel": "Lene findet den Steinkreis nachts — er pulsiert",
-      "pov": "Lene",
-      "typen": [
-       "erkenntnis"
-      ],
-      "tags": [
-       "Erkenntnis: Steinkreis lebt"
-      ]
-     },
-     {
-      "tz": 154,
-      "mz": 3634,
-      "titel": "Kespers Bild zeigt Hohlraeume und Gestalt mit schwarzen Augen",
-      "detail": "Er kratzt die Stelle ab. Am Morgen ist sie wieder da, dunkler.",
-      "pov": "Kesper",
-      "typen": [
-       "tschechow"
-      ],
-      "tags": [
-       "Tschechow: Schemen in Kunst"
-      ]
-     },
-     {
-      "tz": 154,
-      "mz": 3634,
-      "titel": "Elke und Kesper: Nacht vor dem Kampf",
-      "detail": "Nicht Liebe — weil morgen der Tod kommen könnte. Schemen beobachten vor den Fenstern.",
-      "pov": "Elke",
-      "typen": [
-       "erotik"
-      ],
-      "tags": [
-       "Erotik: Explizit"
-      ]
      },
      {
       "tz": 154,
@@ -2087,6 +2087,24 @@
      {
       "tz": 551,
       "mz": 3635,
+      "kapitel": "28",
+      "typen": [
+       "schlüssel"
+      ],
+      "titel": "Maren folgt dem Wasser zum Steinkreis — der Riss weint",
+      "pov": "Kap 28 · Maren",
+      "tz_tag": 305,
+      "datum_text": "1. Nebelmond 551 TZ",
+      "detail": "Drei Monate spaeter, frueher Nebelmond. Maren folgt dem rueckwaerts fliessenden Wasser nachts von der Werft zum Steinkreis im Botanischen Garten. Der Purpurstein schwitzt Salz — nicht Grauwe-Salz, ein anderes Meer. Ihre Hand auf dem Stein: der Riss weint. Sie spuert Moragh zum ersten Mal direkt.",
+      "tags": [
+       "Schluesselereignis: Maren findet den Riss"
+      ],
+      "buch": "B1",
+      "kapitel_status": "szenenplan"
+     },
+     {
+      "tz": 551,
+      "mz": 3635,
       "kapitel": "ZEITSPRUNG",
       "typen": [
        "hintergrund"
@@ -2099,24 +2117,6 @@
       "tags": [
        "Zeitsprung: 3 Monate",
        "Unkontrollierte Risse eskalieren"
-      ],
-      "buch": "B1",
-      "kapitel_status": "szenenplan"
-     },
-     {
-      "tz": 551,
-      "mz": 3635,
-      "kapitel": "28",
-      "typen": [
-       "schlüssel"
-      ],
-      "titel": "Maren folgt dem Wasser zum Steinkreis — der Riss weint",
-      "pov": "Kap 28 · Maren",
-      "tz_tag": 305,
-      "datum_text": "1. Nebelmond 551 TZ",
-      "detail": "Drei Monate spaeter, frueher Nebelmond. Maren folgt dem rueckwaerts fliessenden Wasser nachts von der Werft zum Steinkreis im Botanischen Garten. Der Purpurstein schwitzt Salz — nicht Grauwe-Salz, ein anderes Meer. Ihre Hand auf dem Stein: der Riss weint. Sie spuert Moragh zum ersten Mal direkt.",
-      "tags": [
-       "Schluesselereignis: Maren findet den Riss"
       ],
       "buch": "B1",
       "kapitel_status": "szenenplan"
@@ -2238,13 +2238,13 @@
      {
       "tz": 551,
       "mz": 3635,
-      "kapitel": "35",
+      "kapitel": "34",
       "typen": [
        "portal",
        "schlüssel"
       ],
       "titel": "Portal oeffnet sich — Fuenf gehen nach Moragh",
-      "pov": "Kap 35 · Sorel",
+      "pov": "Kap 34 · Sorel",
       "tz_tag": 336,
       "datum_text": "2. Dunkelmond 551 — 4:33 nach Mitternacht TZ",
       "detail": "Ritual. Vier Resonanzen im Steinkreis. Das Portal bleibt 4:33 offen. Sorel geht zuerst. Runa stolpert im letzten Moment durch. Fuenf in Moragh, nicht vier.",
@@ -2258,19 +2258,19 @@
      {
       "tz": 551,
       "mz": 3635,
-      "kapitel": "41",
+      "kapitel": "05",
       "typen": [
        "schlüssel"
       ],
       "titel": "Vael ohne die Fuenf -- Varens Spuren verschwinden",
-      "pov": "Kap 41 · Nebencharaktere",
-      "tz_tag": 277,
-      "datum_text": "4. Nebelmond 551 TZ",
+      "pov": "B2 Kap 05 · Nebencharaktere",
+      "tz_tag": 343,
+      "datum_text": "9. Dunkelmond 551 TZ · Vael",
       "detail": "Schemen verschwinden schlagartig. Was Varen angezettelt hat hoert auf. Aber kleinere Anomalien BLEIBEN: Wasser fliesst ungewoehnlich, Uhren gehen wieder falsch, Tidemoor-Uhr kaputt, Farne im Garten wachsen weiter. Riss-Quelle sickert weiter. Halvard schreibt seinen Bericht -- sachlich, praezise, das einzige schriftliche Zeugnis. Jara archiviert Runas Flugblaetter. Das Boot wartet, drei Viertel fertig.",
       "tags": [
        "Epilog Buch 1"
       ],
-      "buch": "B1",
+      "buch": "B2",
       "kapitel_status": "szenenplan"
      }
     ],
@@ -2278,15 +2278,26 @@
      {
       "tz": 551,
       "mz": 3635,
-      "kapitel": "36",
+      "titel": "Elke in ihrem Garten. Weiß nicht dass Varen das Portal öffnete.",
+      "typen": [
+       "hintergrund"
+      ],
+      "tags": [
+       "Hintergrund"
+      ]
+     },
+     {
+      "tz": 551,
+      "mz": 3635,
+      "kapitel": "35",
       "typen": [
        "begegnung",
        "schlüssel"
       ],
       "titel": "Varen begegnet Alphina — altes Thalassisch, Hand an ihr Kinn",
-      "pov": "Kap 36 - Alphina",
-      "tz_tag": 273,
-      "datum_text": "30. Herbstmond 551 TZ",
+      "pov": "Kap 35 - Alphina",
+      "tz_tag": 337,
+      "datum_text": "3. Dunkelmond 551 TZ · Moragh",
       "figuren": [
        "Alphina",
        "Varen"
@@ -2304,15 +2315,15 @@
      {
       "tz": 551,
       "mz": 3635,
-      "kapitel": "36",
+      "kapitel": "35",
       "typen": [
        "tod",
        "schlüssel"
       ],
       "titel": "Sorel stirbt — Varens Abwehr, unterlassene Rettung",
-      "pov": "Kap 36 · Alphina",
-      "tz_tag": 273,
-      "datum_text": "30. Herbstmond 551 TZ",
+      "pov": "Kap 35 · Alphina",
+      "tz_tag": 337,
+      "datum_text": "3. Dunkelmond 551 TZ · Moragh",
       "detail": "Sorel stellt sich zwischen Varen und Alphina. Varens Bindungsmagie trifft ihn voll. Varen KOENNTE helfen — tut es nicht. Deckt die Augen zu, fluestert ein Moragh-Wort. Alphinas Explosion: Dornen, Wurzeln, weisse Blumen auf Sorels Koerper.",
       "tags": [
        "Tod: Sorel",
@@ -2324,33 +2335,64 @@
      {
       "tz": 551,
       "mz": 3635,
-      "kapitel": "37",
+      "buch": "B1",
+      "kapitel": "36",
+      "tz_tag": 338,
+      "datum_text": "4. Dunkelmond 551 TZ · Moragh",
+      "pov": "Kap 36 · Alphina",
+      "titel": "Grab aus fremder Erde — weisse Blueten, die nicht wachsen sollten",
+      "detail": "Alphina kniet in fremder Erde. Ihre Resonanz ist staerker hier — Pflanzen antworten sofort. Aus dem Boden wachsen weisse Blueten und decken Sorels Koerper. Ein Grab ohne Spaten, nur mit Haenden und Willen. Die fremde Erde nimmt ihn an. Sie spricht nicht. Maren kniet neben ihr. Vesper und Runa warten einen halben Schritt zurueck.",
+      "typen": [
+       "resonanz",
+       "schlüssel"
+      ],
+      "kapitel_status": "idee"
+     },
+     {
+      "tz": 551,
+      "mz": 3635,
+      "buch": "B1",
+      "kapitel": "36",
+      "tz_tag": 338,
+      "datum_text": "4. Dunkelmond 551 TZ · Moragh · Abend",
+      "pov": "Kap 36 · Alphina",
+      "titel": "Aufbruch zum Lichtschein — ENDE Buch 1",
+      "detail": "Am Horizont ein Lichtschein. Niemand weiss was er ist — eine Stadt, ein Feuer, eine Sonne der anderen Welt. Vier stehen auf. Sorel bleibt unter Blueten zurueck. Sie gehen. Schlussbild Buch 1. Cliffhanger.",
+      "typen": [
+       "schlüssel"
+      ],
+      "kapitel_status": "idee"
+     },
+     {
+      "tz": 551,
+      "mz": 3635,
+      "kapitel": "01",
       "typen": [
        "schluessel"
       ],
-      "titel": "Flucht nach Sorels Tod -- Alphina stumm, die anderen verwundet",
-      "pov": "Kap 37 - Maren",
-      "tz_tag": 274,
-      "datum_text": "1. Nebelmond 551 TZ",
-      "detail": "Maren POV. Alphinas Zorn-Explosion hat alle verletzt: Maren (Dornen in Wade), Vesper (Wurzel trifft Schulter), Runa (Brombeeren, Schnitte). Alphina ist stumm, Narbe entlang der Wirbelsaeule. Varen geflohen. Zwei Monde am Himmel. Kein Rueckweg.",
+      "titel": "Weg zur Stadt — Moragh-Flora und Fauna, Runas Waerme haelt die Wunden",
+      "pov": "B2 Kap 01 · Maren",
+      "tz_tag": 339,
+      "datum_text": "5. Dunkelmond 551 TZ · Moragh-Weg",
+      "detail": "Drei Tage Marsch zum Lichtschein. Sie lernen am eigenen Leib: welche Pflanzen essbar, welche Tiere ungefaehrlich, welche Gerueche toedlich. Die gelernte Sprache wird angewandt. Runas Feuer-Resonanz kauterisiert Wunden. Alphina stumm. Der Lichtschein wird groesser: eine Stadt.",
       "tags": [
        "Schluesselereignis: Nachwirkung"
       ],
-      "buch": "B1",
+      "buch": "B2",
       "kapitel_status": "szenenplan"
      },
      {
       "tz": 551,
       "mz": 3635,
-      "kapitel": "38",
+      "kapitel": "02",
       "typen": [
        "begegnung",
        "schlüssel"
       ],
-      "titel": "Elke findet die Gruppe — altes Thalassisch",
-      "pov": "Kap 38 · Maren",
-      "tz_tag": 275,
-      "datum_text": "2. Nebelmond 551 TZ",
+      "titel": "Stadt-Ankunft — die Gruppe findet Elke",
+      "pov": "B2 Kap 02 · Maren",
+      "tz_tag": 341,
+      "datum_text": "7. Dunkelmond 551 TZ · Moragh-Stadt",
       "figuren": [
        "Alphina",
        "Vesper",
@@ -2365,47 +2407,36 @@
        "Schluesselereignis: Buch 1 Cliffhanger",
        "Erste Begegnung: Die Gruppe + Elke"
       ],
-      "buch": "B1",
+      "buch": "B2",
       "kapitel_status": "szenenplan"
      },
      {
       "tz": 551,
       "mz": 3635,
-      "titel": "Elke in ihrem Garten. Weiß nicht dass Varen das Portal öffnete.",
-      "typen": [
-       "hintergrund"
-      ],
-      "tags": [
-       "Hintergrund"
-      ]
-     },
-     {
-      "tz": 551,
-      "mz": 3635,
-      "kapitel": "39",
+      "kapitel": "03",
       "typen": [
        "begegnung"
       ],
       "titel": "Eine Moragh-Stadt — größere Menschen, purpurne Augen",
-      "pov": "Kap 39 · Maren",
-      "tz_tag": 275,
-      "datum_text": "2. Nebelmond 551 TZ",
+      "pov": "B2 Kap 03 · Maren",
+      "tz_tag": 341,
+      "datum_text": "7. Dunkelmond 551 TZ · Moragh-Stadt",
       "detail": "Maren POV. Eine Moragh-Stadt. Größere Menschen, dunkle Augen, feingliedrig. Ein älterer Mann mit purpurnen Augen mustert sie. Sagt in gebrochenem Thalassisch: 'Elke?' Führt sie durch die Stadt.",
-      "buch": "B1",
+      "buch": "B2",
       "kapitel_status": "szenenplan"
      },
      {
       "tz": 551,
       "mz": 3635,
-      "kapitel": "40",
+      "kapitel": "04",
       "typen": [
        "begegnung",
        "schlüssel"
       ],
-      "titel": "Elkes Garten — Alphina bricht zusammen, Buch 1 Cliffhanger",
-      "pov": "Kap 40 · Alphina",
-      "tz_tag": 276,
-      "datum_text": "3. Nebelmond 551 TZ",
+      "titel": "Elkes Garten — Alphina bricht zusammen",
+      "pov": "B2 Kap 04 · Alphina",
+      "tz_tag": 342,
+      "datum_text": "8. Dunkelmond 551 TZ · Moragh-Stadt",
       "figuren": [
        "Alphina",
        "Vesper",
@@ -2416,23 +2447,23 @@
       "intensitaet": "bekannt",
       "ort": "Moragh, Elkes Garten",
       "detail": "Ein Garten. Pflanzen aus beiden Welten. Eine Frau mit erdigen Händen. altes Thalassisch. 'Woher—' Alphina fällt auf die Knie. Sorel ist tot. Die Welt ist fremd. Und jemand spricht ihre Sprache.",
-      "buch": "B1",
+      "buch": "B2",
       "kapitel_status": "szenenplan"
      },
      {
       "tz": 551,
       "mz": 3635,
-      "kapitel": "40",
+      "kapitel": "04",
       "typen": [
        "erkenntnis",
        "tschechow"
       ],
       "titel": "Alphinas Trauer wird Hass — Dornen statt Farne",
-      "pov": "Kap 40 · Alphina",
-      "tz_tag": 276,
-      "datum_text": "3. Nebelmond 551 TZ",
+      "pov": "B2 Kap 04 · Alphina",
+      "tz_tag": 342,
+      "datum_text": "8. Dunkelmond 551 TZ · Moragh-Stadt",
       "detail": "Um sie herum wächst ein Kreis aus Dornen, nicht Farnen. Zum ersten Mal. Ihr Hass verändert ihre Resonanz.",
-      "buch": "B1",
+      "buch": "B2",
       "kapitel_status": "szenenplan"
      }
     ],
@@ -2509,20 +2540,6 @@
      },
      {
       "tz": null,
-      "mz": 3635.05,
-      "kapitel": "I4",
-      "typen": [
-       "schlüssel",
-       "erkenntnis"
-      ],
-      "titel": "Das Experiment — Varen zerstört drei Quellen",
-      "pov": "I4 · Varen",
-      "detail": "Rückblende. Varen unter Mar-Keth, drei Quellen, das Coupling-Experiment. Er will helfen — magiefreie Flächen besiedelbar machen. Durchschlag. Stille. Staub. 200.000 Menschen heimatlos. Kein Kalkül — Hybris. Velmar stößt ihn aus, verdeckt. Er steht allein in den Ruinen.",
-      "buch": "B2",
-      "kapitel_status": "szenenplan"
-     },
-     {
-      "tz": null,
       "mz": 3635.4,
       "kapitel": "B2-07",
       "typen": [
@@ -2584,6 +2601,20 @@
        "Schluesselereignis: Ankunft Gilden-Stadt"
       ],
       "buch": "B3"
+     },
+     {
+      "tz": null,
+      "mz": 3635.05,
+      "kapitel": "I4",
+      "typen": [
+       "schlüssel",
+       "erkenntnis"
+      ],
+      "titel": "Das Experiment — Varen zerstört drei Quellen",
+      "pov": "I4 · Varen",
+      "detail": "Rückblende. Varen unter Mar-Keth, drei Quellen, das Coupling-Experiment. Er will helfen — magiefreie Flächen besiedelbar machen. Durchschlag. Stille. Staub. 200.000 Menschen heimatlos. Kein Kalkül — Hybris. Velmar stößt ihn aus, verdeckt. Er steht allein in den Ruinen.",
+      "buch": "B2",
+      "kapitel_status": "szenenplan"
      }
     ]
    }
@@ -2694,20 +2725,6 @@
      },
      {
       "tz": null,
-      "mz": 3636.35,
-      "kapitel": "I5",
-      "typen": [
-       "erkenntnis",
-       "erotik"
-      ],
-      "titel": "Vierhundert Jahre — Elke weg, Portal-Forschung beginnt",
-      "pov": "I5 · Varen",
-      "detail": "Rückblende. Elke ist weg. Varen allein. Die Quellen sind tot, endgültig. Er findet die alten Portal-Aufzeichnungen. 350 Verschwundene vor 200 MZ-Jahren. Verbotene Magie. Er beginnt trotzdem. Lernt Thalassisch aus Elkes zurückgelassenen Notizbüchern. Ihr Name in seiner Handschrift. Vierhundert Jahre allein.",
-      "buch": "B2",
-      "kapitel_status": "szenenplan"
-     },
-     {
-      "tz": null,
       "mz": 3636.5,
       "kapitel": "B2-18",
       "typen": [
@@ -2758,6 +2775,20 @@
        "Schluesselereignis: Alphina als Waffe"
       ],
       "buch": "B3"
+     },
+     {
+      "tz": null,
+      "mz": 3636.35,
+      "kapitel": "I5",
+      "typen": [
+       "erkenntnis",
+       "erotik"
+      ],
+      "titel": "Vierhundert Jahre — Elke weg, Portal-Forschung beginnt",
+      "pov": "I5 · Varen",
+      "detail": "Rückblende. Elke ist weg. Varen allein. Die Quellen sind tot, endgültig. Er findet die alten Portal-Aufzeichnungen. 350 Verschwundene vor 200 MZ-Jahren. Verbotene Magie. Er beginnt trotzdem. Lernt Thalassisch aus Elkes zurückgelassenen Notizbüchern. Ihr Name in seiner Handschrift. Vierhundert Jahre allein.",
+      "buch": "B2",
+      "kapitel_status": "szenenplan"
      }
     ]
    }
@@ -2825,20 +2856,6 @@
       "titel": "Alphina an der Front — Wochen als Bund-Waffe",
       "pov": "B2 Kap 21 · Alphina",
       "buch": "B3"
-     },
-     {
-      "tz": null,
-      "mz": 3637.25,
-      "kapitel": "I6",
-      "typen": [
-       "erkenntnis",
-       "schlüssel"
-      ],
-      "titel": "Der Atem — Varen sieht Alphinas Farbe kippen",
-      "pov": "I6 · Varen",
-      "detail": "Gegenwart. Varen beobachtet durch Schemen wie der Bund Alphina zur Waffe schult. Er sieht ihre Farbe kippen — grün zu schwarz/rot. Dieselbe Überladung die er selbst ausgelöst hat, jetzt in einem Menschen. Er könnte warnen. Müsste sich offenbaren. Tut es nicht. Auf seiner Karte: die nächsten Quellen auf der Bund-Todesliste. Er entscheidet zu handeln.",
-      "buch": "B2",
-      "kapitel_status": "szenenplan"
      },
      {
       "tz": null,
@@ -2918,6 +2935,20 @@
        "Tschechow: Runa als Chronistin"
       ],
       "buch": "B3"
+     },
+     {
+      "tz": null,
+      "mz": 3637.25,
+      "kapitel": "I6",
+      "typen": [
+       "erkenntnis",
+       "schlüssel"
+      ],
+      "titel": "Der Atem — Varen sieht Alphinas Farbe kippen",
+      "pov": "I6 · Varen",
+      "detail": "Gegenwart. Varen beobachtet durch Schemen wie der Bund Alphina zur Waffe schult. Er sieht ihre Farbe kippen — grün zu schwarz/rot. Dieselbe Überladung die er selbst ausgelöst hat, jetzt in einem Menschen. Er könnte warnen. Müsste sich offenbaren. Tut es nicht. Auf seiner Karte: die nächsten Quellen auf der Bund-Todesliste. Er entscheidet zu handeln.",
+      "buch": "B2",
+      "kapitel_status": "szenenplan"
      }
     ]
    }
@@ -3053,21 +3084,6 @@
      },
      {
       "tz": null,
-      "mz": 3638.6,
-      "kapitel": "B2-I12",
-      "typen": [
-       "tschechow"
-      ],
-      "titel": "Talven verteilt geerntete Resonanz — beide Augen werden milchig",
-      "pov": "B2 I12 · Talven",
-      "detail": "Talven ist Moragh-Held. Verteilt geerntete Resonanz aus Alphinas Schlaf-Spuren an die Armen. Seine Augen wolkig, Haare duenner, Naegel bruechig. Er laechelt: 'Es geht mir gut.'",
-      "tags": [
-       "Tschechow: Talven zerfaellt"
-      ],
-      "buch": "B3"
-     },
-     {
-      "tz": null,
       "mz": 3638.7,
       "kapitel": "B2-40",
       "typen": [
@@ -3093,6 +3109,21 @@
       "detail": "Alphina+Varen (Verbuendete). Runa beim Konglomerat. Vesper+Nyr bei den Thar. Maren gestrandet in Thalassien. Talven, Gilden-Held, milchige Augen.",
       "tags": [
        "Epilog Buch 2"
+      ],
+      "buch": "B3"
+     },
+     {
+      "tz": null,
+      "mz": 3638.6,
+      "kapitel": "B2-I12",
+      "typen": [
+       "tschechow"
+      ],
+      "titel": "Talven verteilt geerntete Resonanz — beide Augen werden milchig",
+      "pov": "B2 I12 · Talven",
+      "detail": "Talven ist Moragh-Held. Verteilt geerntete Resonanz aus Alphinas Schlaf-Spuren an die Armen. Seine Augen wolkig, Haare duenner, Naegel bruechig. Er laechelt: 'Es geht mir gut.'",
+      "tags": [
+       "Tschechow: Talven zerfaellt"
       ],
       "buch": "B3"
      }
@@ -3309,22 +3340,6 @@
      },
      {
       "tz": null,
-      "mz": 3640.3,
-      "kapitel": "B3-I10",
-      "typen": [
-       "tschechow",
-       "erkenntnis"
-      ],
-      "titel": "Iven + Generator: Elektrizitaets-Resonanz entdeckt",
-      "pov": "B3 I10 · Iven",
-      "detail": "Iven, 17, beruehrt einen Generator. Leistung verdoppelt. Der Computer flackert. Moragh-Preis: Kribbeln, Schwindel. Er zahlt, Alphina nicht.",
-      "tags": [
-       "Tschechow: Iven als Interface"
-      ],
-      "buch": "B3"
-     },
-     {
-      "tz": null,
       "mz": 3640.35,
       "kapitel": "B3-50",
       "typen": [
@@ -3391,21 +3406,6 @@
      },
      {
       "tz": null,
-      "mz": 3640.52,
-      "kapitel": "B3-I11",
-      "typen": [
-       "tod"
-      ],
-      "titel": "Elke stirbt im Garten — an Alter, nicht Magie",
-      "pov": "B3 I11 · Elke",
-      "detail": "Leise, auf dem Stein den sie selbst geformt hat. 'Die Farne brauchen weniger Wasser als die Moragh-Pflanzen.' Varen fluestert das Wort — dasselbe das er ueber Sorels Augen fluesterte. Alphina versteht es diesmal.",
-      "tags": [
-       "Tod: Elke"
-      ],
-      "buch": "B3"
-     },
-     {
-      "tz": null,
       "mz": 3640.53,
       "kapitel": "B3-60",
       "typen": [
@@ -3416,21 +3416,6 @@
       "detail": "Am Grab. Der Stein antwortet nicht. Er hoert auf zu ernten. Gibt zurueck. Zweites Auge milchig. Am Morgen: ein Grashalm im toten Hain.",
       "tags": [
        "Schluesselereignis: Talvens Busse"
-      ],
-      "buch": "B3"
-     },
-     {
-      "tz": null,
-      "mz": 3640.55,
-      "kapitel": "B3-I12",
-      "typen": [
-       "erkenntnis"
-      ],
-      "titel": "Varen: 'Der Riss ist das Problem' — erste Saat der Loesung",
-      "pov": "B3 I12 · Varen",
-      "detail": "Die Quellen-Reparatur reicht nicht. Der Bund zerstoert schneller als wir reparieren. Die Thar bauen schneller als wir verstehen. Die Riss-Quelle muss zerstoert werden.",
-      "tags": [
-       "Erkenntnis: Riss-Quelle als Ziel"
       ],
       "buch": "B3"
      },
@@ -3654,6 +3639,52 @@
       "detail": "Vael: ein Kind beruehrt einen Farn, nichts passiert. Stadt: Talven unterrichtet Warnung, blind. Moragh: Alphina und Varen auf der Bank, Dornen, Buch im altes Thalassisch. Reparierte Quellen pochen. 'Die Welten sind zwei. Der Riss ist geschlossen. Die Quelle haelt.'",
       "tags": [
        "Epilog: Ende der Trilogie"
+      ],
+      "buch": "B3"
+     },
+     {
+      "tz": null,
+      "mz": 3640.3,
+      "kapitel": "B3-I10",
+      "typen": [
+       "tschechow",
+       "erkenntnis"
+      ],
+      "titel": "Iven + Generator: Elektrizitaets-Resonanz entdeckt",
+      "pov": "B3 I10 · Iven",
+      "detail": "Iven, 17, beruehrt einen Generator. Leistung verdoppelt. Der Computer flackert. Moragh-Preis: Kribbeln, Schwindel. Er zahlt, Alphina nicht.",
+      "tags": [
+       "Tschechow: Iven als Interface"
+      ],
+      "buch": "B3"
+     },
+     {
+      "tz": null,
+      "mz": 3640.52,
+      "kapitel": "B3-I11",
+      "typen": [
+       "tod"
+      ],
+      "titel": "Elke stirbt im Garten — an Alter, nicht Magie",
+      "pov": "B3 I11 · Elke",
+      "detail": "Leise, auf dem Stein den sie selbst geformt hat. 'Die Farne brauchen weniger Wasser als die Moragh-Pflanzen.' Varen fluestert das Wort — dasselbe das er ueber Sorels Augen fluesterte. Alphina versteht es diesmal.",
+      "tags": [
+       "Tod: Elke"
+      ],
+      "buch": "B3"
+     },
+     {
+      "tz": null,
+      "mz": 3640.55,
+      "kapitel": "B3-I12",
+      "typen": [
+       "erkenntnis"
+      ],
+      "titel": "Varen: 'Der Riss ist das Problem' — erste Saat der Loesung",
+      "pov": "B3 I12 · Varen",
+      "detail": "Die Quellen-Reparatur reicht nicht. Der Bund zerstoert schneller als wir reparieren. Die Thar bauen schneller als wir verstehen. Die Riss-Quelle muss zerstoert werden.",
+      "tags": [
+       "Erkenntnis: Riss-Quelle als Ziel"
       ],
       "buch": "B3"
      }
