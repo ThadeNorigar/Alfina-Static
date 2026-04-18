@@ -19,7 +19,7 @@
 
 ## Struktur
 
-Buch 2 beginnt **unterwegs**, drei Tage nach Sorels Tod und Alphinas Grab aus fremder Erde. Die Vier — Alphina, Vesper, Maren, Runa — marschieren zum Lichtschein, den sie am Ende von B1 gesehen haben. Er wird zur Stadt. Sie **finden Elke** dort (Elke sucht sie NICHT). Sorel ist tot. Alphinas Ausbruch hat alle verletzt. Varen hat sich zurückgezogen. Alphinas Resonanz ist in diesem Akt VOLLSTÄNDIG UNBEWUSST — sie passiert im Schlaf, durch Trauer, ohne jeden willentlichen Einfluss. Akt I ist Trauer, Begreifen, Lernen. Alphinas Resonanz ist in diesem Akt VOLLSTÄNDIG UNBEWUSST — sie passiert im Schlaf, durch Trauer, ohne jeden willentlichen Einfluss. Die Perspektiven etablieren sich: Alphina dominant (Trauer als unkontrolliertes Wachstum), Maren (will zurück, das Portal ist zu), Vesper (analysiert, kartografiert, versteht zu schnell), Runa (fremd, überfordert, schwache Feuer-Resonanz die hier zum ersten Mal sichtbar wird). Die Gilden-Stadt als erster Kontakt mit Moragh-Zivilisation — aber Zivilisation hat einen Preis.
+Buch 2 beginnt **unterwegs**, drei Tage nach Sorels Tod und Alphinas Grab aus fremder Erde. Die Vier — Alphina, Vesper, Maren, Runa — marschieren zum Lichtschein, den sie am Ende von B1 gesehen haben. Er wird zur Stadt. Sie **finden Elke** dort (Elke sucht sie NICHT). Sorel ist tot. Alphinas Ausbruch hat alle verletzt. Varen hat sich zurückgezogen. Alphinas Resonanz ist in diesem Akt VOLLSTÄNDIG UNBEWUSST — sie passiert im Schlaf, durch Trauer, ohne jeden willentlichen Einfluss. Akt I ist Trauer, Begreifen, Lernen. Alphinas Resonanz ist in diesem Akt VOLLSTÄNDIG UNBEWUSST — sie passiert im Schlaf, durch Trauer, ohne jeden willentlichen Einfluss. Die Perspektiven etablieren sich: Alphina dominant (Trauer als unkontrolliertes Wachstum), Maren (will zurück, das Portal ist zu), Vesper (analysiert, kartografiert, versteht zu schnell), Runa (fremd, überfordert, schwache Feuer-Resonanz die hier zum ersten Mal sichtbar wird). Die Bund-Stadt als erster Kontakt mit Moragh-Zivilisation — aber Zivilisation hat einen Preis.
 
 ## Kapitelplan
 
@@ -54,7 +54,7 @@ Runa beobachtet Alphina: die Botanikerin die einen Wald wachsen lassen kann. Ves
 ### Interludium I (~S. 80, ~2.000 Wörter)
 *Elke. Erste Woche in Moragh. Der Garten.*
 
-Elkes Perspektive, 3. Person, Präteritum. Wochen nach ihrem Durchgang (400 Thalassien-Jahre, Wochen in Moragh). Sie hat den Stein geformt. Ein Garten, der wächst. Pflanzen aus beiden Welten — Moragh-Ranken neben Thalassien-Moos. Die Sprache: verdrehtes Thalassisch, Wortfetzen die Sinn ergeben wenn man aufhört zu übersetzen und anfängt zu hören. Ein Gilden-Meister der sie besucht, ihre Resonanz spürt, die Augen weitet. "Die Taube die Stein singt." Er lädt sie in die Stadt ein. Sie lehnt ab. Noch.
+Elkes Perspektive, 3. Person, Präteritum. Wochen nach ihrem Durchgang (400 Thalassien-Jahre, Wochen in Moragh). Sie hat den Stein geformt. Ein Garten, der wächst. Pflanzen aus beiden Welten — Moragh-Ranken neben Thalassien-Moos. Die Sprache: verdrehtes Thalassisch, Wortfetzen die Sinn ergeben wenn man aufhört zu übersetzen und anfängt zu hören. Ein Bund-Meister der sie besucht, ihre Resonanz spürt, die Augen weitet. "Die Taube die Stein singt." Er lädt sie in die Stadt ein. Sie lehnt ab. Noch.
 
 ### Kap. 5 — Alphina (S. 82–102, ~5.000 Wörter)
 *Trauer als Wald.*
@@ -92,14 +92,14 @@ Runa experimentiert. Allein, nachts, am Rand von Elkes Garten. Ihr Druckerwerkze
 Elke findet sie. Sieht die Type. "Feuer-Resonanz. Schwach, aber da." Runa: "Ich bin Druckerin." Elke: "Hier bist du mehr."
 
 ### Interludium II (~S. 175, ~2.000 Wörter)
-*Elke lernt die Sprache. Die Gilden-Meisterin.*
+*Elke lernt die Sprache. Die Bund-Meisterin.*
 
-Elkes erste Begegnung mit der Gilden-Stadt. Die Meisterin die ihr die Sprache beibringt — nicht durch Worte, sondern durch Stein. Elke formt, die Meisterin benennt. Ein Stein heißt "thar." Eine Wand heißt "tharak." Ein Haus heißt "tharaken." Die Logik der Sprache: alles wächst aus drei Silben. Wie Moragh selbst.
+Elkes erste Begegnung mit der Bund-Stadt. Die Meisterin die ihr die Sprache beibringt — nicht durch Worte, sondern durch Stein. Elke formt, die Meisterin benennt. Ein Stein heißt "thar." Eine Wand heißt "tharak." Ein Haus heißt "tharaken." Die Logik der Sprache: alles wächst aus drei Silben. Wie Moragh selbst.
 
 ### Kap. 10 — Alphina (S. 178–200, ~5.500 Wörter)
-*Die Gilden-Stadt. Willkommen.*
+*Die Bund-Stadt. Willkommen.*
 
-Elke führt die Fünf in die nächste Gilden-Stadt. Zwei Tage Marsch. Die Stadt: Türme die gewachsen sind, Straßen die sich verändern, Brücken über Flüsse die bergauf fließen. Die Bewohner: größer als Thalassier, feingliedrig, dunkle Haare, helle Haut, Augen in Farben die es in Thalassien nicht gibt — Purpur, Weinrot, Schwarz. Staunen, Flüstern, Finger die zeigen. Die Gilden-Älteste empfängt sie — freundlich, organisiert, sofort interessiert. "Resonanz-Begabte. Vier. Aus Thalassien." Ihre Augen glänzen. Nicht Gier — etwas Schlimmeres: Hoffnung.
+Elke führt die Fünf in die nächste Bund-Stadt. Zwei Tage Marsch. Die Stadt: Türme die gewachsen sind, Straßen die sich verändern, Brücken über Flüsse die bergauf fließen. Die Bewohner: größer als Thalassier, feingliedrig, dunkle Haare, helle Haut, Augen in Farben die es in Thalassien nicht gibt — Purpur, Weinrot, Schwarz. Staunen, Flüstern, Finger die zeigen. der Bund-Älteste empfängt sie — freundlich, organisiert, sofort interessiert. "Resonanz-Begabte. Vier. Aus Thalassien." Ihre Augen glänzen. Nicht Gier — etwas Schlimmeres: Hoffnung.
 
 Alphinas Hain hat sich herumgesprochen. Ein Wald, gewachsen in einer Nacht, ohne Preis. In einer Welt im Krieg bedeutet das: Waffe.
 
@@ -117,7 +117,7 @@ Alphina will RACHE an Varen. Sorel ist tot. Der Mann der sein Kinn berührt hat 
 
 ## Bund-Subtilität: Erste Zeichen
 
-Der Bund sieht gut aus. Demokratie, Wahlrecht, Gilden. Aber in Akt I: erste Zeichen dass nicht alles stimmt. Die Älteste greift Alphinas Hand zu schnell. Kommandanten die zu genau wissen wo "der Feind" seine Quellen hat. Gilden-Meister die über "langfristige Lösungen" für das Quellen-Problem sprechen. Nichts Offensichtliches — nur Splitter die sich in Akt II und III zusammensetzen.
+Der Bund sieht gut aus. Demokratie, Wahlrecht, Gilden. Aber in Akt I: erste Zeichen dass nicht alles stimmt. Die Älteste greift Alphinas Hand zu schnell. Kommandanten die zu genau wissen wo "der Feind" seine Quellen hat. Bund-Meister die über "langfristige Lösungen" für das Quellen-Problem sprechen. Nichts Offensichtliches — nur Splitter die sich in Akt II und III zusammensetzen.
 
 ---
 
@@ -132,4 +132,4 @@ Der Bund sieht gut aus. Demokratie, Wahlrecht, Gilden. Aber in Akt I: erste Zeic
 | Maren spürt das geschlossene Portal | Kap 8 — Durch das Wasser | Akt II — Maren findet die Karte und Anleitung für die Moragh-Seite. Öffnet das Portal und geht durch nach Thalassien |
 | 4:33 in Moraghs Struktur | Kap 6 — Vesper erkennt die Frequenz in den Monden | Akt III — 4:33 ist die Frequenz der Anomalie. Resonanz ohne Preis schwingt in 4:33 |
 | "Hier bist du mehr" | Kap 9 — Elke zu Runa | Buch 3 — Runa geht zum Konglomerat. Weil sie dort AM MEISTEN ist |
-| Die Älteste greift Alphinas Hand | Kap 10 — Sofort, besitzergreifend | Akt II — Die Gilden wollen Gegenleistung. Kämpft für uns |
+| Die Älteste greift Alphinas Hand | Kap 10 — Sofort, besitzergreifend | Akt II — der Bund wollen Gegenleistung. Kämpft für uns |

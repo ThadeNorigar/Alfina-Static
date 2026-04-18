@@ -74,7 +74,7 @@ Alphina schläft nebenan. Er hört sie atmen. Keine Alpträume mehr — in Buch 
 
 Er arbeitet an den Quellen-Reparatur-Karten. Drei tote Quellen von ihm, eine von ihr. Die erste hat gezuckt. Alphinas Resonanz als Herzschrittmacher — es funktioniert. Aber langsam. Zu langsam. Für jede Quelle brauchen sie Wochen, und der Bund zerstört in Tagen.
 
-Ein Bote. Nachrichten von den Gilden: Talven verteilt Resonanz. Varen kennt Talven — hat ihm die Ernte beigebracht in Buch 2. Hat ihm nie die Verteilung beigebracht. Das hat Talven allein erfunden.
+Ein Bote. Nachrichten vom Bund: Talven verteilt Resonanz. Varen kennt Talven — hat ihm die Ernte beigebracht in Buch 2. Hat ihm nie die Verteilung beigebracht. Das hat Talven allein erfunden.
 
 "Die Verteilung ist Verschwendung," murmelt Varen. "Geerntete Resonanz in einem fremden Reservoir zerfällt. Der Zerfall frisst Moragh-Substanz." Er schreibt es auf. Schickt es nicht. Talven würde nicht hören.
 
@@ -106,7 +106,7 @@ Talven-POV. Moragh-Held.
 
 Morgens: Frühstück für die Gruppe. Er kocht, räumt auf, übersetzt. Bringt Elke ihre Medizin. Alle mögen ihn. Er lacht und sein Lachen ist zu groß für sein Gesicht.
 
-Nachmittags: Marktplatz der Gilden-Stadt. Hundert Menschen, zweihundert. Er steht auf einer Kiste und verteilt Resonanz. Hände auf Hände. Kleine Dosen, geerntete Magie aus Alphinas Spuren im Boden, aus dem Wasser das Maren einmal berührt hat.
+Nachmittags: Marktplatz der Bund-Stadt. Hundert Menschen, zweihundert. Er steht auf einer Kiste und verteilt Resonanz. Hände auf Hände. Kleine Dosen, geerntete Magie aus Alphinas Spuren im Boden, aus dem Wasser das Maren einmal berührt hat.
 
 Die Wirkung: ein alter Beschwörer ruft ein Lichtwesen. Weint. Ein Lehrling hebt einen Stein. Lacht. Eine Mutter heilt die Verbrennung ihres Kindes. Talven steht da und sein Gesicht — nicht Hunger. Erfüllung.
 
@@ -184,9 +184,9 @@ Nyr steht vor der autonomen Bestie. Starrt. Kessler, ihr Kessler, der Partner, d
 ### Interludium X (~S. 188, ~2.500 Wörter)
 *Iven. Der Generator.*
 
-Iven — Moragh-geboren, Gilden-Lehrling, siebzehn. Sein Talent: nicht definiert. Kein Feuer, kein Wasser, kein Stein. Etwas anderes. Die Gilden-Meister wissen nicht was. Iven auch nicht.
+Iven — Moragh-geboren, Bund-Lehrling, siebzehn. Sein Talent: nicht definiert. Kein Feuer, kein Wasser, kein Stein. Etwas anderes. Die Bund-Meister wissen nicht was. Iven auch nicht.
 
-Die Thalassien-Expedition hat Technologie mitgebracht — nicht nur zu den Thar. Durch Handel, Schmuggel, Kontakte erreichen einzelne Geräte die Gilden-Stadt. Ein kleiner Generator, ein Kommunikationsgerät, ein tragbarer Computer.
+Die Thalassien-Expedition hat Technologie mitgebracht — nicht nur zu den Thar. Durch Handel, Schmuggel, Kontakte erreichen einzelne Geräte die Bund-Stadt. Ein kleiner Generator, ein Kommunikationsgerät, ein tragbarer Computer.
 
 Iven berührt den Generator. Der Generator HEULT auf. Leistung verdoppelt. Die Älteste springt zurück. Iven nimmt die Hand weg. Normal. Hand drauf: Leistung verdoppelt.
 

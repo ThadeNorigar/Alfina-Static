@@ -2258,19 +2258,19 @@
      {
       "tz": 551,
       "mz": 3635,
-      "kapitel": "05",
+      "kapitel": "Epilog",
       "typen": [
        "schlüssel"
       ],
       "titel": "Vael ohne die Fuenf -- Varens Spuren verschwinden",
-      "pov": "B2 Kap 05 · Nebencharaktere",
+      "pov": "B1 Epilog · Nebencharaktere (Halvard, Tohl, Edric, Jara)",
       "tz_tag": 343,
-      "datum_text": "9. Dunkelmond 551 TZ · Vael",
+      "datum_text": "9. Dunkelmond 551 TZ · Vael · Epilog",
       "detail": "Schemen verschwinden schlagartig. Was Varen angezettelt hat hoert auf. Aber kleinere Anomalien BLEIBEN: Wasser fliesst ungewoehnlich, Uhren gehen wieder falsch, Tidemoor-Uhr kaputt, Farne im Garten wachsen weiter. Riss-Quelle sickert weiter. Halvard schreibt seinen Bericht -- sachlich, praezise, das einzige schriftliche Zeugnis. Jara archiviert Runas Flugblaetter. Das Boot wartet, drei Viertel fertig.",
       "tags": [
        "Epilog Buch 1"
       ],
-      "buch": "B2",
+      "buch": "B1",
       "kapitel_status": "szenenplan"
      }
     ],
@@ -2285,6 +2285,109 @@
       "tags": [
        "Hintergrund"
       ]
+     },
+     {
+      "tz": 551,
+      "mz": 3635,
+      "kapitel": "01",
+      "typen": [
+       "schluessel"
+      ],
+      "titel": "Weg zur Stadt — Moragh-Flora und Fauna, Runas Waerme haelt die Wunden",
+      "pov": "B2 Kap 01 · Maren",
+      "datum_text": "Tag 3 in Moragh (MZ 3635)",
+      "detail": "Drei Tage Marsch zum Lichtschein. Sie lernen am eigenen Leib: welche Pflanzen essbar, welche Tiere ungefaehrlich, welche Gerueche toedlich. Die gelernte Sprache wird angewandt. Runas Feuer-Resonanz kauterisiert Wunden. Alphina stumm. Der Lichtschein wird groesser: eine Stadt.",
+      "tags": [
+       "Schluesselereignis: Nachwirkung"
+      ],
+      "buch": "B2",
+      "kapitel_status": "szenenplan",
+      "mz_tag": 3
+     },
+     {
+      "tz": 551,
+      "mz": 3635,
+      "kapitel": "02",
+      "typen": [
+       "begegnung",
+       "schlüssel"
+      ],
+      "titel": "Stadt-Ankunft — die Gruppe findet Elke",
+      "pov": "B2 Kap 02 · Maren",
+      "datum_text": "Tag 5 in Moragh (MZ 3635)",
+      "figuren": [
+       "Alphina",
+       "Vesper",
+       "Maren",
+       "Runa",
+       "Elke"
+      ],
+      "intensitaet": "bekannt",
+      "ort": "Moragh, Elkes Garten",
+      "detail": "Elke tritt aus dem Dunkel. altes Thalassisch. Ihr seid nicht die Ersten. Sie kennt Varen -- war seine Geliebte. Cliffhanger: Buch 1 endet hier.",
+      "tags": [
+       "Schluesselereignis: Buch 1 Cliffhanger",
+       "Erste Begegnung: Die Gruppe + Elke"
+      ],
+      "buch": "B2",
+      "kapitel_status": "szenenplan",
+      "mz_tag": 5
+     },
+     {
+      "tz": 551,
+      "mz": 3635,
+      "kapitel": "03",
+      "typen": [
+       "begegnung"
+      ],
+      "titel": "Eine Moragh-Stadt — größere Menschen, purpurne Augen",
+      "pov": "B2 Kap 03 · Maren",
+      "datum_text": "Tag 5 in Moragh (MZ 3635)",
+      "detail": "Maren POV. Eine Moragh-Stadt. Größere Menschen, dunkle Augen, feingliedrig. Ein älterer Mann mit purpurnen Augen mustert sie. Sagt in gebrochenem Thalassisch: 'Elke?' Führt sie durch die Stadt.",
+      "buch": "B2",
+      "kapitel_status": "szenenplan",
+      "mz_tag": 5
+     },
+     {
+      "tz": 551,
+      "mz": 3635,
+      "kapitel": "04",
+      "typen": [
+       "begegnung",
+       "schlüssel"
+      ],
+      "titel": "Elkes Garten — Alphina bricht zusammen",
+      "pov": "B2 Kap 04 · Alphina",
+      "datum_text": "Tag 6 in Moragh (MZ 3635)",
+      "figuren": [
+       "Alphina",
+       "Vesper",
+       "Maren",
+       "Runa",
+       "Elke"
+      ],
+      "intensitaet": "bekannt",
+      "ort": "Moragh, Elkes Garten",
+      "detail": "Ein Garten. Pflanzen aus beiden Welten. Eine Frau mit erdigen Händen. altes Thalassisch. 'Woher—' Alphina fällt auf die Knie. Sorel ist tot. Die Welt ist fremd. Und jemand spricht ihre Sprache.",
+      "buch": "B2",
+      "kapitel_status": "szenenplan",
+      "mz_tag": 6
+     },
+     {
+      "tz": 551,
+      "mz": 3635,
+      "kapitel": "05",
+      "typen": [
+       "erkenntnis",
+       "tschechow"
+      ],
+      "titel": "Alphinas Trauer wird Hass — Dornen statt Farne",
+      "pov": "B2 Kap 04 · Alphina",
+      "datum_text": "Tag 7 in Moragh (MZ 3635)",
+      "detail": "Um sie herum wächst ein Kreis aus Dornen, nicht Farnen. Zum ersten Mal. Ihr Hass verändert ihre Resonanz.",
+      "buch": "B2",
+      "kapitel_status": "szenenplan",
+      "mz_tag": 7
      },
      {
       "tz": 551,
@@ -2362,109 +2465,6 @@
        "schlüssel"
       ],
       "kapitel_status": "idee"
-     },
-     {
-      "tz": 551,
-      "mz": 3635,
-      "kapitel": "01",
-      "typen": [
-       "schluessel"
-      ],
-      "titel": "Weg zur Stadt — Moragh-Flora und Fauna, Runas Waerme haelt die Wunden",
-      "pov": "B2 Kap 01 · Maren",
-      "tz_tag": 339,
-      "datum_text": "5. Dunkelmond 551 TZ · Moragh-Weg",
-      "detail": "Drei Tage Marsch zum Lichtschein. Sie lernen am eigenen Leib: welche Pflanzen essbar, welche Tiere ungefaehrlich, welche Gerueche toedlich. Die gelernte Sprache wird angewandt. Runas Feuer-Resonanz kauterisiert Wunden. Alphina stumm. Der Lichtschein wird groesser: eine Stadt.",
-      "tags": [
-       "Schluesselereignis: Nachwirkung"
-      ],
-      "buch": "B2",
-      "kapitel_status": "szenenplan"
-     },
-     {
-      "tz": 551,
-      "mz": 3635,
-      "kapitel": "02",
-      "typen": [
-       "begegnung",
-       "schlüssel"
-      ],
-      "titel": "Stadt-Ankunft — die Gruppe findet Elke",
-      "pov": "B2 Kap 02 · Maren",
-      "tz_tag": 341,
-      "datum_text": "7. Dunkelmond 551 TZ · Moragh-Stadt",
-      "figuren": [
-       "Alphina",
-       "Vesper",
-       "Maren",
-       "Runa",
-       "Elke"
-      ],
-      "intensitaet": "bekannt",
-      "ort": "Moragh, Elkes Garten",
-      "detail": "Elke tritt aus dem Dunkel. altes Thalassisch. Ihr seid nicht die Ersten. Sie kennt Varen -- war seine Geliebte. Cliffhanger: Buch 1 endet hier.",
-      "tags": [
-       "Schluesselereignis: Buch 1 Cliffhanger",
-       "Erste Begegnung: Die Gruppe + Elke"
-      ],
-      "buch": "B2",
-      "kapitel_status": "szenenplan"
-     },
-     {
-      "tz": 551,
-      "mz": 3635,
-      "kapitel": "03",
-      "typen": [
-       "begegnung"
-      ],
-      "titel": "Eine Moragh-Stadt — größere Menschen, purpurne Augen",
-      "pov": "B2 Kap 03 · Maren",
-      "tz_tag": 341,
-      "datum_text": "7. Dunkelmond 551 TZ · Moragh-Stadt",
-      "detail": "Maren POV. Eine Moragh-Stadt. Größere Menschen, dunkle Augen, feingliedrig. Ein älterer Mann mit purpurnen Augen mustert sie. Sagt in gebrochenem Thalassisch: 'Elke?' Führt sie durch die Stadt.",
-      "buch": "B2",
-      "kapitel_status": "szenenplan"
-     },
-     {
-      "tz": 551,
-      "mz": 3635,
-      "kapitel": "04",
-      "typen": [
-       "begegnung",
-       "schlüssel"
-      ],
-      "titel": "Elkes Garten — Alphina bricht zusammen",
-      "pov": "B2 Kap 04 · Alphina",
-      "tz_tag": 342,
-      "datum_text": "8. Dunkelmond 551 TZ · Moragh-Stadt",
-      "figuren": [
-       "Alphina",
-       "Vesper",
-       "Maren",
-       "Runa",
-       "Elke"
-      ],
-      "intensitaet": "bekannt",
-      "ort": "Moragh, Elkes Garten",
-      "detail": "Ein Garten. Pflanzen aus beiden Welten. Eine Frau mit erdigen Händen. altes Thalassisch. 'Woher—' Alphina fällt auf die Knie. Sorel ist tot. Die Welt ist fremd. Und jemand spricht ihre Sprache.",
-      "buch": "B2",
-      "kapitel_status": "szenenplan"
-     },
-     {
-      "tz": 551,
-      "mz": 3635,
-      "kapitel": "04",
-      "typen": [
-       "erkenntnis",
-       "tschechow"
-      ],
-      "titel": "Alphinas Trauer wird Hass — Dornen statt Farne",
-      "pov": "B2 Kap 04 · Alphina",
-      "tz_tag": 342,
-      "datum_text": "8. Dunkelmond 551 TZ · Moragh-Stadt",
-      "detail": "Um sie herum wächst ein Kreis aus Dornen, nicht Farnen. Zum ersten Mal. Ihr Hass verändert ihre Resonanz.",
-      "buch": "B2",
-      "kapitel_status": "szenenplan"
      }
     ],
     "sync": {
@@ -2482,6 +2482,22 @@
    "events": {
     "thalassien": [],
     "moragh": [
+     {
+      "tz": null,
+      "mz": 3635.05,
+      "kapitel": "I4",
+      "typen": [
+       "schlüssel",
+       "erkenntnis"
+      ],
+      "titel": "Das Experiment — Varen zerstört drei Quellen",
+      "pov": "I4 · Varen",
+      "detail": "Rückblende. Varen unter Mar-Keth, drei Quellen, das Coupling-Experiment. Er will helfen — magiefreie Flächen besiedelbar machen. Durchschlag. Stille. Staub. 200.000 Menschen heimatlos. Kein Kalkül — Hybris. Velmar stößt ihn aus, verdeckt. Er steht allein in den Ruinen.",
+      "buch": "B2",
+      "kapitel_status": "szenenplan",
+      "mz_tag": -10,
+      "datum_text": "Varens Rueckblick: vor dem Portal (MZ ~3625, provisorisch)"
+     },
      {
       "tz": null,
       "mz": 3635.1,
@@ -2594,27 +2610,87 @@
       "typen": [
        "schlüssel"
       ],
-      "titel": "Die Gilden-Stadt empfaengt die Fuenf — die Aelteste greift Alphinas Hand",
+      "titel": "Die Bund-Stadt empfaengt die Fuenf — die Aelteste greift Alphinas Hand",
       "pov": "B2 Kap 10 · Alphina",
       "detail": "Tuerme die gewachsen sind, Strassen die sich verschieben. Die Aelteste: 'Ihr seid sicher hier.' Alphinas Hain hat sich herumgesprochen. Waffe.",
       "tags": [
-       "Schluesselereignis: Ankunft Gilden-Stadt"
+       "Schluesselereignis: Ankunft Bund-Stadt"
       ],
       "buch": "B3"
      },
      {
-      "tz": null,
-      "mz": 3635.05,
-      "kapitel": "I4",
+      "buch": "B2",
+      "kapitel": "06",
+      "mz_tag": 10,
+      "mz": 3635,
+      "datum_text": "Tag 10 in Moragh (MZ 3635)",
+      "pov": "B2 Kap 06 · Vesper",
+      "titel": "Vesper kartografiert Moragh — 4:33 in den Monden",
+      "detail": "Vesper registriert Muster: Baeume in Spiralen, Fluesse folgen Fibonacci, die beiden Monde kreisen im Verhaeltnis 4:33. Varens Frequenz — oder die Frequenz von Moragh selbst? Sein Muster-Sinn explodiert. Kurze Begegnung mit einem Mann purpurer Augen, der Elke gruesst aber nicht mit ihr spricht.",
       "typen": [
-       "schlüssel",
        "erkenntnis"
       ],
-      "titel": "Das Experiment — Varen zerstört drei Quellen",
-      "pov": "I4 · Varen",
-      "detail": "Rückblende. Varen unter Mar-Keth, drei Quellen, das Coupling-Experiment. Er will helfen — magiefreie Flächen besiedelbar machen. Durchschlag. Stille. Staub. 200.000 Menschen heimatlos. Kein Kalkül — Hybris. Velmar stößt ihn aus, verdeckt. Er steht allein in den Ruinen.",
+      "kapitel_status": "idee"
+     },
+     {
       "buch": "B2",
-      "kapitel_status": "szenenplan"
+      "kapitel": "07",
+      "mz_tag": 14,
+      "mz": 3635,
+      "datum_text": "Tag 14 in Moragh (MZ 3635)",
+      "pov": "B2 Kap 07 · Alphina",
+      "titel": "Elke erzaehlt — vierhundert Jahre, Varen, die verlorene Welt",
+      "detail": "Elke in ihrem Garten (eigener kleiner Hof innerhalb der Stadt). Altes Thalassisch. Erzaehlt fragmentarisch: Ankunft, Keldan, das Feuer, Varen. \"Ich habe ihn vor Monaten verlassen.\" Alphina hoert zu. Ihre Frage: \"Was hat er gesagt — das Wort bevor Sorel starb?\" Elke wird blass. \"Das willst du nicht wissen.\"",
+      "typen": [
+       "begegnung",
+       "wissen"
+      ],
+      "kapitel_status": "idee"
+     },
+     {
+      "buch": "B2",
+      "kapitel": "08",
+      "mz_tag": 16,
+      "mz": 3635,
+      "datum_text": "Tag 16 in Moragh (MZ 3635)",
+      "pov": "B2 Kap 08 · Maren",
+      "titel": "Maren sucht das Portal — es ist zu",
+      "detail": "Maren folgt dem Wasser. Das Gegenstueck des Vaeler Steinkreises: ein Steinplatz ausserhalb der Stadt, mit Instrumenten. Hier hat Varen das Portal geoeffnet. Jetzt: Stein, kein Riss. Sie drueckt mit ihrer Resonanz. Das Wasser antwortet, aber das Portal nicht. Das Boot in Vael — irgendwo weit weg, drei Viertel fertig.",
+      "typen": [
+       "erkenntnis",
+       "tschechow"
+      ],
+      "kapitel_status": "idee"
+     },
+     {
+      "buch": "B2",
+      "kapitel": "09",
+      "mz_tag": 18,
+      "mz": 3635,
+      "datum_text": "Tag 18 in Moragh (MZ 3635)",
+      "pov": "B2 Kap 09 · Runa",
+      "titel": "Runa experimentiert mit Feuer — Lettern aus der Hand",
+      "detail": "Allein nachts. Druckerwerkzeug (Schmelzloeffel, Letternzange, Messinglineal) reagiert. Sie formt eine Messing-Buchstabentype aus der Handflaeche. Kein Schmelzofen noetig. Elke findet sie, sieht das A. \"Hier bist du mehr.\"",
+      "typen": [
+       "erkenntnis",
+       "resonanz"
+      ],
+      "kapitel_status": "idee"
+     },
+     {
+      "buch": "B2",
+      "kapitel": "10",
+      "mz_tag": 25,
+      "mz": 3635,
+      "datum_text": "Tag 25 in Moragh (MZ 3635)",
+      "pov": "B2 Kap 10 · Alphina",
+      "titel": "Bund-Stadt — die Aelteste greift Alphinas Hand",
+      "detail": "Elke fuehrt die Vier zur Bund-Stadt (naechste groessere Stadt, zwei Tage Marsch). Menschen mit Augen in Farben die es in Thalassien nicht gibt: Purpur, Weinrot, Schwarz. Die Aelteste erkennt Alphinas Wald-Potential — Alphinas Schlaf-Hain hat sich herumgesprochen. \"Ihr seid sicher hier.\" Alphinas Haut kribbelt. Die Pflanzen im Aeltesten-Garten drehen sich alle nach ihr. Gleichzeitig. Akt I Schluss — Bund-Hof als Tsechekhov fuer Akt II.",
+      "typen": [
+       "begegnung",
+       "schlüssel"
+      ],
+      "kapitel_status": "idee"
      }
     ]
    }
@@ -2674,7 +2750,7 @@
        "begegnung",
        "tschechow"
       ],
-      "titel": "Vesper trifft Talven in der Gilden-Bibliothek",
+      "titel": "Vesper trifft Talven in der Bund-Bibliothek",
       "pov": "B2 Kap 12 · Vesper",
       "figuren": [
        "Vesper",
@@ -2695,11 +2771,11 @@
       "typen": [
        "schlüssel"
       ],
-      "titel": "Die Gilden-Aelteste bietet Alphina Schutz — fuer Kriegsdienst",
+      "titel": "Die Bund-Aelteste bietet Alphina Schutz — fuer Kriegsdienst",
       "pov": "B2 Kap 15 · Alphina",
-      "detail": "Die Binder ruecken vor. Die Gilden brauchen Alphinas Resonanz. Talven fluestert die Nuancen — und sein Gesicht zeigt fuer einen Moment Hunger.",
+      "detail": "die Velmar ruecken vor. der Bund brauchen Alphinas Resonanz. Talven fluestert die Nuancen — und sein Gesicht zeigt fuer einen Moment Hunger.",
       "tags": [
-       "Schluesselereignis: Erstes Gilden-Angebot"
+       "Schluesselereignis: Erstes Bund-Angebot"
       ],
       "buch": "B3"
      },
@@ -2788,7 +2864,9 @@
       "pov": "I5 · Varen",
       "detail": "Rückblende. Elke ist weg. Varen allein. Die Quellen sind tot, endgültig. Er findet die alten Portal-Aufzeichnungen. 350 Verschwundene vor 200 MZ-Jahren. Verbotene Magie. Er beginnt trotzdem. Lernt Thalassisch aus Elkes zurückgelassenen Notizbüchern. Ihr Name in seiner Handschrift. Vierhundert Jahre allein.",
       "buch": "B2",
-      "kapitel_status": "szenenplan"
+      "kapitel_status": "szenenplan",
+      "mz_tag": 0,
+      "datum_text": "Kurz nach Elkes Durchgang (MZ 3635 Monat 0, provisorisch)"
      }
     ]
    }
@@ -2948,7 +3026,9 @@
       "pov": "I6 · Varen",
       "detail": "Gegenwart. Varen beobachtet durch Schemen wie der Bund Alphina zur Waffe schult. Er sieht ihre Farbe kippen — grün zu schwarz/rot. Dieselbe Überladung die er selbst ausgelöst hat, jetzt in einem Menschen. Er könnte warnen. Müsste sich offenbaren. Tut es nicht. Auf seiner Karte: die nächsten Quellen auf der Bund-Todesliste. Er entscheidet zu handeln.",
       "buch": "B2",
-      "kapitel_status": "szenenplan"
+      "kapitel_status": "szenenplan",
+      "mz_tag": 5,
+      "datum_text": "Varen nach dem Riss: sieht Alphinas Farbe kippen (MZ 3635, Tag 5)"
      }
     ]
    }
@@ -3106,7 +3186,7 @@
       ],
       "titel": "Ende Buch 2: Alle getrennt, alle gebrochen",
       "pov": "B2 Kap 42 · Alle",
-      "detail": "Alphina+Varen (Verbuendete). Runa beim Konglomerat. Vesper+Nyr bei den Thar. Maren gestrandet in Thalassien. Talven, Gilden-Held, milchige Augen.",
+      "detail": "Alphina+Varen (Verbuendete). Runa beim Konglomerat. Vesper+Nyr bei den Thar. Maren gestrandet in Thalassien. Talven, Bund-Held, milchige Augen.",
       "tags": [
        "Epilog Buch 2"
       ],

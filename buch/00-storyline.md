@@ -96,7 +96,7 @@ Bildhauerin. Kam in TZ 154 durch das Portal. Spricht altes Thalassisch wie Varen
 Thar-Pilotin. Druck-Resonanz. Bestie "Kessler" (40-Tonnen-Ramm). Überzeugt Vesper von den Thar. Verlässt die Thar in Buch 3 als sie die autonomen Bestien und die Resonanz-Käfig-Pläne sieht. Vesper folgt ihr.
 
 ### Talven — Der Verräter
-Moragh-geboren. Gilden-Lehrling, mittleres Reservoir. Lernt von Varen Resonanz-Ernte. Fremde Resonanz = Abstoßungsreaktion. Verteilt geerntete Resonanz. Wird zum Helden. Körper zerfällt.
+Moragh-geboren. Bund-Lehrling, mittleres Reservoir. Lernt von Varen Resonanz-Ernte. Fremde Resonanz = Abstoßungsreaktion. Verteilt geerntete Resonanz. Wird zum Helden. Körper zerfällt.
 
 ---
 
@@ -136,9 +136,11 @@ Alphinas Explosion. Dornen, Vegetation. Verletzt die eigenen Leute. Varen zieht 
 
 **Grab aus fremder Erde.** Alphinas Resonanz ist in Moragh stärker. Weiße Blüten wachsen aus dem Boden und decken Sorels Körper. Ein Grab ohne Spaten, nur mit Händen und Willen.
 
-**Schlussbild: Aufbruch zum Lichtschein.** Am Horizont ein Lichtschein — niemand weiß was er ist. Vier stehen auf. Sorel bleibt unter Blüten zurück. Sie gehen. Cliffhanger. ENDE Buch 1.
+**Schlussbild K36: Aufbruch zum Lichtschein.** Am Horizont ein Lichtschein — niemand weiß was er ist. Vier stehen auf. Sorel bleibt unter Blüten zurück. Sie gehen. Cliffhanger.
 
-**Nach B1 (Buch 2):** Drei Tage Marsch zum Lichtschein — Moragh-Flora/Fauna am eigenen Leib, Sprache angewendet, Runas Feuer hält Wunden. Stadt-Ankunft. Die Gruppe FINDET Elke (nicht umgekehrt). Elke ist Geheimnis, nicht Rettungsanker. Vael-Epilog (Halvards Bericht, Boot wartet) wandert nach B2 oder B3-Prolog.
+**Epilog B1 — Vael ohne die Fünf.** Eine Woche später. Halvards Bericht. Schemen verschwunden. Boot wartet. Zwei parallele Schlussbilder: weißes Blütenbeet in Moragh / Tohl am Fenster in Vael. ENDE BUCH 1.
+
+**Nach B1 (Buch 2):** Drei Tage Marsch zum Lichtschein — Moragh-Flora/Fauna am eigenen Leib, Sprache angewendet, Runas Feuer hält Wunden. Stadt-Ankunft. Die Gruppe FINDET Elke (nicht umgekehrt). Elke ist Geheimnis, nicht Rettungsanker.
 
 ```
 Beziehungskarte Ende Buch 1:
@@ -166,7 +168,7 @@ HASS (2/3) → Zweifel am Bund (ab Mitte) → Quellen-Zerstörung im Bund-Auftra
 
 ### Akt I — Fremde Welt
 
-Die Fünf beim Bund (Gilden-Stadt). Alphina: Schlaf-Haine, will RACHE an Varen. Der Bund empfängt sie — Schutz, Hoffnung. Alphina WILL kämpfen. Gegen Varen. **Hass ist ihr Motor.**
+Die Fünf beim Bund (Bund-Stadt). Alphina: Schlaf-Haine, will RACHE an Varen. Der Bund empfängt sie — Schutz, Hoffnung. Alphina WILL kämpfen. Gegen Varen. **Hass ist ihr Motor.**
 
 **Talven:** Hilfsbereit. HUNGER wenn Alphina wächst.
 
@@ -237,7 +239,7 @@ Alphina ═══ Varen                    Maren (allein, gestrandet)
 
 Runa (bei den Thar, aufsteigend)
 Vesper ═══ Nyr (bei den Thar)
-Talven (Gilden-Stadt, Held, zerfällt)
+Talven (Bund-Stadt, Held, zerfällt)
 Elke (alt, Garten)
 ```
 

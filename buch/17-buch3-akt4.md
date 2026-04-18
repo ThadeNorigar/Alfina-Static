@@ -1,6 +1,17 @@
 # Buch 3 — Akt IV — Die Quelle (Seite 675-900, ~56.000 Wörter, 10 Kapitel + 2 Interludien + Epilog)
 
-## Struktur
+> **HINWEIS 2026-04-18 — KOMPLETTER REWRITE AUSSTEHEND:**
+> Der Plot hat sich grundlegend geändert. Dieses Dokument ist noch die alte Version — muss komplett überarbeitet werden. Neue Kernentscheidungen:
+>
+> - **Varen wird in B3 zum Antagonisten.** Er hat sich in das Ritual verrannt (bereit, die vier Thalassier zu opfern um Portal zu schließen). Alphinas Manipulation wird enthüllt in Akt III.
+> - **Varen stirbt in Akt IV** im blutigen Duell mit Vesper + Alphina. Vesper verliert den linken Arm. Alphina verliert 3 Finger der linken Hand (Mittel-, Ring-, kleiner Finger). Keine Magie-Heilung.
+> - **Alphina + Vesper am Ende zusammen** — BDSM-lastige Beziehung, sie dominant, er mit Grenzen, beide körperlich gezeichnet. Nicht Obsession (Sorel), nicht Schuld (Varen) — Ruhe.
+> - **Runa + Nyr zusammen.** Im Sulkara-artigen Finale-Kampf: gegenseitige Rettung (Nyr rettet Runa physisch / Runa repariert Kessler-Hydraulik unter Beschuss). Beide gehen danach weg von allem nach **Halvek-Mar** (freie Südküsten-Stadt).
+> - **Epilog (emotional):** Alphina + Vesper **besuchen Runa + Nyr in Halvek-Mar.** Beide Paare tragen Narben — physische (Vespers Arm, Alphinas Finger, Runas Brandflecken von der Resonanz-Ernte, Nyrs Rückenmark-Schäden von Kessler-Dauerbetrieb) und emotionale (Runa hat Alphina verloren und wiedergefunden; Alphina hat Varen verloren und überlebt). Keine Ringe, keine großen Worte. Ein Essen am Meer. Alle vier sitzen an einem Tisch — zum ersten Mal ohne Krieg, ohne Rache, ohne Geheimnis. Runa sagt einen Satz, den sie Alphina nie gesagt hat. Alphina antwortet. Vesper und Nyr sehen sich an, verstehen, lassen sie reden. Am Ende: Stille. Gläser klirren. Das Meer. Zwei Frauen-Paare, die einmal Krieg gegeneinander geführt haben, sitzen gemeinsam. **Schlussbild der Trilogie.**
+>
+> Details zum Varen-Duell: `vesper + alphina gegen ihn, mit Zeit-Resonanz (Vesper) + Dornen (Alphina). Varen bricht Vespers linken Arm durch Bindungsmagie (von innen verbrannt, später amputiert). Alphinas Finger gehen durch ihre eigenen Dornen-Explosionen verloren. Varen stirbt langsam, gesprächig, mit letztem Manipulations-Versuch ("Das hätte ich auch so gemacht" / "Ihr zwei. Passt.")`. Siehe Hinweis in der Session vom 2026-04-18.
+
+## Struktur (alte Version — veraltet, bleibt als Referenz)
 
 Der Angriff auf das Portal. Jede Figur trägt bei. Iven stört die Ley-Linien. Nyr bricht durch. Vesper navigiert. Varen webt. Talven kalibriert. Alphina zerstört die Riss-Quelle. Das Portal schließt sich. Permanent. Thalassien verliert alle Magie. Die Thar verlieren den Tech-Zugang. Maren ist gestrandet. Für immer. Alphina wählt Moragh. Für immer. Kein Opfer — eine Wahl. Alphina lebt. Varen lebt.
 
@@ -343,7 +354,7 @@ Unter dem Garten: Stille. Zum ersten Mal seit Jahrhunderten. Die Riss-Quelle ist
 
 **II. Die Stadt.**
 
-Keine Gilden-Stadt mehr. Keine Thar-Festung. Keine Bund-Garnison. Die Stadt. Talven unterrichtet. Nicht Magie — Warnung.
+Keine Bund-Stadt mehr. Keine Thar-Festung. Keine Bund-Garnison. Die Stadt. Talven unterrichtet. Nicht Magie — Warnung.
 
 Er sitzt vor jungen Lehrlingen. Blind. Hände zitternd. Dreiundzwanzig. Sieht aus wie dreiunddreißig. Wird nie wieder jünger aussehen.
 

@@ -14,9 +14,13 @@ Dieses File konsolidiert sämtliche Entscheidungen zu Varen, seinem Motiv, seine
 
 **Herkunft:** Moragh-geboren, **Velmar-Forscher**, stammt aus Mar-Keth — der Riesig-Quellen-Stadt im Zentralplateau-Ost die heute eine Ruinenstadt ist. Er hat dort gelebt, dort geforscht, und dort den Unfall verursacht der sie zur Todzone gemacht hat.
 
-**Erscheinung:** Groß, muskulös, graue Schläfen, schwarzes Haar. Augen tiefes Purpur. Attraktiv. Charmant — nicht gespielt, echt. Das macht ihn gefährlicher. Gut genährt, in Form, nicht ausgemergelt. Großes Reservoir, jahrelange Erfahrung.
+**Erscheinung:** Groß, muskulös, graue Schläfen, schwarzes Haar. Augen tiefes Purpur. **Extrem gutaussehend — die Schönheit eines Mannes Mitte bis Ende vierzig**, der Spuren hat: eine feine Narbe am Kiefer, Finger mit Schwielen vom Schreiben, eine leichte Steifheit in der linken Schulter. Keine jungenhafte Attraktivität — Präsenz, Haltung, jede Bewegung kalkuliert. Kleidung sauber, nie extravagant. Er weiß wie er wirkt und benutzt es sparsam. Gut genährt, in Form, nicht ausgemergelt. Großes Reservoir, jahrelange Erfahrung.
 
-**Stimme:** Spricht altes Thalassisch — flüssig, mit Akzent. Elke hat es ihm beigebracht, er hat es an seine Agenten weitergegeben. Keiner der Vier kann die archaische Form sofort einordnen — sie klingt wie eine Sprache aus einem alten Roman.
+**Alter:** 15-20 Jahre älter als Alphina. Diese Differenz ist spürbar — nicht als Machtgefälle im Schlafzimmer (Alphina dominiert auch mit ihm), sondern als **Erfahrungs-Gefälle**. Er hat mehr gesehen, mehr gedacht, mehr Fehler gemacht. Sie lernt an ihm, ohne es zu merken.
+
+**Stimme und Rhetorik:** Spricht altes Thalassisch — flüssig, mit Akzent. Elke hat es ihm beigebracht, er hat es an seine Agenten weitergegeben. Keiner der Vier kann die archaische Form sofort einordnen — sie klingt wie eine Sprache aus einem alten Roman. **Unglaublich eloquent**: literarische Syntax aus dem TZ 15. Jahrhundert, zitiert Bücher die es in Alphinas Zeit nicht mehr gibt. Formuliert Gedanken präzise, die andere nur fühlen. **Argumentativ hervorragend**: widerspricht selten direkt, stellt Fragen die Türen öffnen. Gewinnt jedes Gespräch durch das nächste. Wenn Alphina sagt *„Du hast Sorel sterben lassen"*, antwortet er *„Ja."* — dann: *„Die Frage die zählt ist eine andere: Was machst du jetzt?"*
+
+**Neugier:** **Wissbegierig** bis zur Obsession. Liest Alphina wie ein Buch. Stellt präzise Fragen zu ihrer Resonanz, ihren Pflanzen, ihren Erinnerungen. Macht Notizen. Zeigt ihr die Notizen. Alphina fühlt sich **gesehen** auf eine Art, die weder Sorel noch Vesper konnten — weil Varen ein Forscher ist und sie zu seinem Forschungsgegenstand geworden ist. Das fühlt sich zuerst an wie Liebe. **Teile davon sind echt.** Er bewundert sie wirklich. Das macht die Manipulation grausamer — weil sie echte Züge trägt, die er für seinen Zweck instrumentalisiert.
 
 **Fraktionsstatus:** Aus Velmar **verdeckt ausgestoßen** — ohne öffentliche Anklage, ohne Gerichtsverfahren, ohne Eintrag in Velmar-Registern. Die Velmar-Binder-Elite weiß was er getan hat und schweigt. Der Rest der Velmar ahnt "da war etwas" und fragt nicht nach. Die anderen Fraktionen (Bund, Thar, freie Städte) **wissen nichts von ihm** — kennen seinen Namen nicht, haben ihn nie mit dem Quellen-Kollaps in Verbindung gebracht.
 
@@ -374,7 +378,7 @@ Moragh hat **keine Sonne**. Es hat eine Akkretionsscheibe (ein Ring aus leuchten
 
 5. **Die 350 Verschwundenen vor 200 MZ-Jahren:** Als legendäre Gruppe etabliert, aber noch nicht mit Namen, Gesichtern, Gründen. Haben sie ein Manuskript hinterlassen (Elkes Manuskript könnte ein Echo sein)? Gibt es noch einen Nachfahr der Gruppe, den Varen finden könnte? Offener Stoff.
 
-6. **Talven als Velmar-Deserteur?** Canon hat Talven als "Gilden-Lehrling, mittleres Reservoir". Das ist Bund-Gebiet, nicht Velmar. Aber: Talven lernt von Varen die Resonanz-Ernte, und Varen ist Velmar-Forscher. Vielleicht ist Talven ein Velmar-Deserteur, der mit Varens Crew nach Bund-Gebiet gekommen ist? Oder er ist ein Bund-Lehrling, den Varen als Schüler angenommen hat? Braucht Klärung.
+6. **Talven als Velmar-Deserteur?** Canon hat Talven als "Bund-Lehrling, mittleres Reservoir". Das ist Bund-Gebiet, nicht Velmar. Aber: Talven lernt von Varen die Resonanz-Ernte, und Varen ist Velmar-Forscher. Vielleicht ist Talven ein Velmar-Deserteur, der mit Varens Crew nach Bund-Gebiet gekommen ist? Oder er ist ein Bund-Lehrling, den Varen als Schüler angenommen hat? Braucht Klärung.
 
 7. **K36/K37-Split:** Die Todesszene liegt in K37 (Alphina: Sorels Tod). K36 (Alphina: Varen) ist die Berührungsszene. Diese Trennung ist wichtig für die Pacing und sollte beim Entwurf von K36 und K37 beachtet werden. Zwei Kapitel, nicht eins.
 

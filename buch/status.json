@@ -74,7 +74,8 @@
         "kapitel": [
           "34",
           "35",
-          "36"
+          "36",
+          "Epilog"
         ]
       }
     ],
@@ -508,25 +509,25 @@
     ],
     "kapitel": {
       "10": {
-        "titel": "Alphina: Die Gilden-Stadt",
+        "titel": "Alphina: Die Bund-Stadt",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Türme die gewachsen sind, Brücken über Flüsse die bergauf fließen. Die Gilden-Älteste empfängt sie — freundlich, sofort interessiert. Ein Hain, gewachsen in einer Nacht, ohne Preis. In einer Welt im Krieg bedeutet das: Waffe."
+        "text": "Türme die gewachsen sind, Brücken über Flüsse die bergauf fließen. der Bund-Älteste empfängt sie — freundlich, sofort interessiert. Ein Hain, gewachsen in einer Nacht, ohne Preis. In einer Welt im Krieg bedeutet das: Waffe."
       },
       "11": {
         "titel": "Alphina: Rache-Obsession",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Drei Wochen in der Gilden-Stadt. Alphina lernt die Sprache, sucht Spuren von Varen. Die Trauer um Sorel: ein Wurzelwerk, darunter Wut. Die Älteste warnt: 'Lass ihn.' Alphina lässt nicht."
+        "text": "Drei Wochen in der Bund-Stadt. Alphina lernt die Sprache, sucht Spuren von Varen. Die Trauer um Sorel: ein Wurzelwerk, darunter Wut. Die Älteste warnt: 'Lass ihn.' Alphina lässt nicht."
       },
       "12": {
         "titel": "Vesper: Muster und Zeit",
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
-        "text": "Vesper in der Gilden-Bibliothek. Hand auf einer Seite — Zeitlinien, geschichtet. Moraghs Zeit spiralt. Talven, ein junger Lehrling, bringt Tee und die richtigen Karten. Hilfsbereit, schnell, ein Lachen das zu groß ist für sein Gesicht."
+        "text": "Vesper in der Bund-Bibliothek. Hand auf einer Seite — Zeitlinien, geschichtet. Moraghs Zeit spiralt. Talven, ein junger Lehrling, bringt Tee und die richtigen Karten. Hilfsbereit, schnell, ein Lachen das zu groß ist für sein Gesicht."
       },
       "13": {
         "titel": "Maren: Der Fluss",
@@ -540,7 +541,7 @@
         "pov": "Runa",
         "status": "idee",
         "woerter": null,
-        "text": "Die Gilden-Schmiede formen Metall durch Magie — es kostet sie. Sie taumeln nach einer Stunde. Runa legt die Hand auf einen Eisenbarren. Er wird warm. Sie formt stundenlang, ohne müde zu werden."
+        "text": "Die Bund-Schmiede formen Metall durch Magie — es kostet sie. Sie taumeln nach einer Stunde. Runa legt die Hand auf einen Eisenbarren. Er wird warm. Sie formt stundenlang, ohne müde zu werden."
       },
       "15": {
         "titel": "Alphina: Das Angebot",
@@ -557,11 +558,11 @@
         "text": "Beide schlaflos, zwei Monde. FWB: hitzig, direkt, kein romantisches Versprechen. Runas Hände auf ihrer Haut, warm, immer warm. Kein Wald bricht aus. Keine Farne. Stille. 'Bei Sorel hat die Welt geblüht. Bei Runa ist sie still.'"
       },
       "17": {
-        "titel": "Vesper: Der Binder-Spion",
+        "titel": "Vesper: Der Velmar-Spion",
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
-        "text": "Ein Gilden-Gelehrter stellt die falschen Fragen. Vesper folgt ihm nachts — der Gelehrte trifft einen Binder am Stadtrand, liefert Informationen über Alphinas Resonanz. Vesper beobachtet. Wartet. Drei Züge voraus."
+        "text": "Ein Bund-Gelehrter stellt die falschen Fragen. Vesper folgt ihm nachts — der Gelehrte trifft einen Binder am Stadtrand, liefert Informationen über Alphinas Resonanz. Vesper beobachtet. Wartet. Drei Züge voraus."
       },
       "18": {
         "titel": "Vesper: Nyr kommt",
@@ -575,21 +576,21 @@
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Vorführung in einem Gilden-Dorf. Alphina pflanzt einen Baum, kontrolliert. Nachts schläft sie — am Morgen das halbe Dorf überwuchert. Die Dorfbewohner evakuieren. Nicht vor den Bindern. Vor ihr."
+        "text": "Vorführung in einem Bund-Dorf. Alphina pflanzt einen Baum, kontrolliert. Nachts schläft sie — am Morgen das halbe Dorf überwuchert. Die Dorfbewohner evakuieren. Nicht vor den Bindern. Vor ihr."
       },
       "20": {
         "titel": "Alphina + Runa: Feuer und Farn",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Nach dem Dorf-Desaster. Runa: 'Du hast Angst vor dir selbst.' FWB: hitzig, direkt. Runas Hände glühen auf Alphinas Haut. Kein Wald bricht aus. Bei Runa ist die Welt still. Der Binder-Spion wird enttarnt."
+        "text": "Nach dem Dorf-Desaster. Runa: 'Du hast Angst vor dir selbst.' FWB: hitzig, direkt. Runas Hände glühen auf Alphinas Haut. Kein Wald bricht aus. Bei Runa ist die Welt still. Der Velmar-Spion wird enttarnt."
       },
       "21": {
         "titel": "Alphina: Das Schlachtfeld",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Binder greifen eine Gilden-Siedlung an. Alphina kämpft — Ranken, Dornen, Wurzeln. Dann erscheint Varen als dritte Partei. Seine Schemen trennen Alphina systematisch von der Gruppe. Runa sieht es — kann nichts tun. Schreit."
+        "text": "Die Velmar greifen eine Bund-Siedlung an. Alphina kämpft — Ranken, Dornen, Wurzeln. Dann erscheint Varen als dritte Partei. Seine Schemen trennen Alphina systematisch von der Gruppe. Runa sieht es — kann nichts tun. Schreit."
       },
       "22": {
         "titel": "Alphina: Varens Quartier",
@@ -624,7 +625,7 @@
         "pov": "Runa",
         "status": "idee",
         "woerter": null,
-        "text": "Runa in der Gilden-Stadt. Druckt. Baut ihre Moragh-Presse. Gießt Moragh-Schriftzeichen in ihre Lettern. Wartet auf Alphina. Weiß nicht wo sie ist — nur dass Varen sie genommen hat. Runas Hände glühen im Dunkeln."
+        "text": "Runa in der Bund-Stadt. Druckt. Baut ihre Moragh-Presse. Gießt Moragh-Schriftzeichen in ihre Lettern. Wartet auf Alphina. Weiß nicht wo sie ist — nur dass Varen sie genommen hat. Runas Hände glühen im Dunkeln."
       },
       "27": {
         "titel": "Talven: Zum Forscher",
@@ -666,7 +667,7 @@
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
-        "text": "Vesper bei der Thar mit Nyr. Effizienz, Ordnung, Kommandokette. Nyr pilotiert Kessler mit unvergleichlicher Präzision. Vesper gibt der Thar Daten über die Gilden. Kalkulation. 'Ich habe gerechnet.'"
+        "text": "Vesper bei der Thar mit Nyr. Effizienz, Ordnung, Kommandokette. Nyr pilotiert Kessler mit unvergleichlicher Präzision. Vesper gibt der Thar Daten über der Bund. Kalkulation. 'Ich habe gerechnet.'"
       },
       "33": {
         "titel": "Runa: Die Presse",
@@ -694,7 +695,7 @@
         "pov": "Alle",
         "status": "idee",
         "woerter": null,
-        "text": "Alphina bei Varen. Maren in Thalassien, ~1910, allein. Vesper bei den Thar mit Nyr. Runa in der Gilden-Stadt, druckend, wartend. Talven: Held, milchige Augen, zerfallend. Alle getrennt. Das Auge sieht alles — und niemand sieht dasselbe."
+        "text": "Alphina bei Varen. Maren in Thalassien, ~1910, allein. Vesper bei den Thar mit Nyr. Runa in der Bund-Stadt, druckend, wartend. Talven: Held, milchige Augen, zerfallend. Alle getrennt. Das Auge sieht alles — und niemand sieht dasselbe."
       },
       "01": {
         "titel": "Alphina: Hass",
@@ -879,7 +880,7 @@
         "pov": "Maren",
         "status": "idee",
         "woerter": null,
-        "text": "Maren kehrt nach Moragh zurück — mit einem Forscherteam. Drohnen. KI-Systeme. Scanner die Magie quantifizieren. Die Gilden-Älteste starrt die Drohne an wie Alphina den ersten Schem angestarrt hat. Dieselbe Angst, gespiegelt."
+        "text": "Maren kehrt nach Moragh zurück — mit einem Forscherteam. Drohnen. KI-Systeme. Scanner die Magie quantifizieren. der Bund-Älteste starrt die Drohne an wie Alphina den ersten Schem angestarrt hat. Dieselbe Angst, gespiegelt."
       },
       "44": {
         "titel": "Vesper: Die Spiegelung",
@@ -963,7 +964,7 @@
         "pov": "Maren",
         "status": "idee",
         "woerter": null,
-        "text": "Maren pendelt. Messgeräte hin, Moragh-Proben zurück. Konzern-Vertreter wittern Ressourcen. Reservoir-Quellen als Energiequellen. Drohnen über der Gilden-Stadt. Scanner an den Reservoiren."
+        "text": "Maren pendelt. Messgeräte hin, Moragh-Proben zurück. Konzern-Vertreter wittern Ressourcen. Reservoir-Quellen als Energiequellen. Drohnen über der Bund-Stadt. Scanner an den Reservoiren."
       },
       "56": {
         "titel": "Vesper + Nyr: Rückkehr",
@@ -994,18 +995,18 @@
         "text": "Varen webt die dritte und letzte Quelle. Fäden statt Ketten. Drei Quellen, alle erwacht. Die Städte haben wieder ein Fundament. Der Krieg verliert seinen Grund. Varen: erschöpft, verschwitzt. Aber die Quellen pochen. Wiedergutmachung."
       },
       "60": {
-        "titel": "Alphina: Die Gilden wollen schließen",
+        "titel": "Alphina: der Bund wollen schließen",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Die Gilden wollen den Riss schließen. Thalassien-Technik bedroht ihre Machtstruktur. Drohnen sind Waffen die kein Reservoir brauchen. Die Älteste: 'Wir haben vierhundert Jahre ohne sie überlebt.' Alphina denkt an Vael — dieselbe Frage, umgekehrt."
+        "text": "der Bund wollen den Riss schließen. Thalassien-Technik bedroht ihre Machtstruktur. Drohnen sind Waffen die kein Reservoir brauchen. Die Älteste: 'Wir haben vierhundert Jahre ohne sie überlebt.' Alphina denkt an Vael — dieselbe Frage, umgekehrt."
       },
       "61": {
         "titel": "Vesper: Die Riss-Frage",
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
-        "text": "Die Gilden wollen es schließen. Der Thalassien-Antagonist will es weit offen. Maren steht dazwischen. Vesper rechnet: keine einfache Antwort. Menschen entscheiden. Diplomatie, Politik, Verhandlung. Nicht ein Ritual, nicht ein Opfer."
+        "text": "der Bund wollen es schließen. Der Thalassien-Antagonist will es weit offen. Maren steht dazwischen. Vesper rechnet: keine einfache Antwort. Menschen entscheiden. Diplomatie, Politik, Verhandlung. Nicht ein Ritual, nicht ein Opfer."
       },
       "62": {
         "titel": "Runa: Die Hybrid-Presse",

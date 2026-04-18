@@ -2,7 +2,7 @@
 
 ## Figur
 
-**Talven.** Moragh-geboren, Gilden-Fraktion. Dreiundzwanzig. Beschwörer-Lehrling — talentiert, mittleres Reservoir. Schmal, schnell, ein Lachen das zu groß ist für sein Gesicht. Charming. Hilfsbereit. Der Typ der sofort anbietet zu übersetzen, zu kochen, zu erklären.
+**Talven.** Moragh-geboren, Bund-Fraktion. Dreiundzwanzig. Beschwörer-Lehrling — talentiert, mittleres Reservoir. Schmal, schnell, ein Lachen das zu groß ist für sein Gesicht. Charming. Hilfsbereit. Der Typ der sofort anbietet zu übersetzen, zu kochen, zu erklären.
 
 Jeder mag ihn. Die Leserin auch.
 
@@ -20,7 +20,7 @@ Er hat Recht. Es IST ungerecht. Das macht ihn gefährlich.
 
 ### Buch 2, Akt I-II — Der Freund
 
-Eingeführt als Elkes Kontakt in der Gilden-Stadt. Kennt die Sprache, die Politik, die Abkürzungen. Bringt Essen. Zeigt Vesper die Bibliothek. Übersetzt für Maren auf dem Markt. Trinkt mit Runa.
+Eingeführt als Elkes Kontakt in der Bund-Stadt. Kennt die Sprache, die Politik, die Abkürzungen. Bringt Essen. Zeigt Vesper die Bibliothek. Übersetzt für Maren auf dem Markt. Trinkt mit Runa.
 
 Aber: kleine Momente. Er steht neben Alphina wenn sie den Hain wachsen lässt. Sein Gesicht — die Leserin sieht es, Alphina nicht. Kein Hass. Schlimmer: HUNGER.
 
@@ -38,7 +38,7 @@ Talven lernt. Im Geheimen. Erntet Resonanz aus Alphinas Hain. Aus dem Wasser das
 
 Talven erntet im Geheimen weiter. Nimmt Alphinas Hain-Resonanz. Nicht aus ihr — aus den Bäumen. Die Bäume welken. Talven steht da, Hände auf dem Boden, Magie fließt in ihn. Sein Auge milchig, seine Haare dünn. Aber: zum ersten Mal in seinem Leben hat er GENUG.
 
-Verteilt die Resonanz an Gilden-Bürger, Thar-Arbeiter, Lehrlinge. Kleine Dosen. Magie ohne Preis. Die Leute sind GLÜCKLICH. Talven wird zum Helden. In Moragh.
+Verteilt die Resonanz an Bund-Bürger, Thar-Arbeiter, Lehrlinge. Kleine Dosen. Magie ohne Preis. Die Leute sind GLÜCKLICH. Talven wird zum Helden. In Moragh.
 
 **Motivation: reine Ungerechtigkeit.** Nicht "Moragh retten" — das ist zu edel für ihn. Talven will MACHT. Er will was Alphina hat. Er will aufhören der Lehrling mit dem mittleren Reservoir zu sein. Die Verteilung an andere ist echt — er WILL Gerechtigkeit. Aber der Kern ist persönlich: er will nicht mehr am Rand stehen während andere atmen und dafür alles bekommen.
 

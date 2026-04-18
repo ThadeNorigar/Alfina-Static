@@ -6,12 +6,12 @@ In Akt II beginnt Alphina ihre Resonanz zu verstehen. Tagsüber kann sie manchma
 
 ## Struktur
 
-Die Fünf leben in der Gilden-Stadt. Schutz, Ordnung, Sprache lernen — aber jeder Tag macht klarer: die Gilden wollen etwas zurück. Die politische Landschaft entfaltet sich: Gilden (Tradition), Binder (Dämonen-Armee), Thar (Magie als Industrie). Jede Fraktion will die Resonanz-Begabten. Die Beziehungen verschieben sich: Alphina und Runa finden zueinander — tastend, unsicher, ohne Spielregeln. Vesper taucht in die Zeitstrukturen von Moragh ein. Maren findet Wasser das sie versteht. Alphinas Macht wächst — tagsüber zunehmend kontrolliert, nachts weiterhin unkontrolliert.
+Die Fünf leben in der Bund-Stadt. Schutz, Ordnung, Sprache lernen — aber jeder Tag macht klarer: der Bund wollen etwas zurück. Die politische Landschaft entfaltet sich: Gilden (Tradition), Binder (Dämonen-Armee), Thar (Magie als Industrie). Jede Fraktion will die Resonanz-Begabten. Die Beziehungen verschieben sich: Alphina und Runa finden zueinander — tastend, unsicher, ohne Spielregeln. Vesper taucht in die Zeitstrukturen von Moragh ein. Maren findet Wasser das sie versteht. Alphinas Macht wächst — tagsüber zunehmend kontrolliert, nachts weiterhin unkontrolliert.
 
 ## Kapitelplan
 
 ### Kap. 11 — Alphina (S. 200–218, ~4.500 Wörter)
-*Die Gilden-Stadt. Leben lernen.*
+*Die Bund-Stadt. Leben lernen.*
 
 Drei Wochen in der Stadt. Alphina hat ein Zimmer mit Fenster zum Garten der Ältesten. Die Pflanzen dort wachsen schneller seit sie eingezogen ist — die Älteste sagt nichts, aber ihre Gärtner notieren jede Veränderung. Alphinas Alltag: Sprache lernen (Elke als Lehrerin, Geduld und Wiederholung), die Stadt begreifen (gewachsene Türme, lebende Brücken, Straßen die sich nachts verschieben). Die Trauer um Sorel: nicht weg, aber tiefer. Unter der Oberfläche. Ein Wurzelwerk.
 
@@ -20,9 +20,9 @@ Eingebettet: Runa am Frühstückstisch. Ihre Hände um die Tasse — immer warm.
 ### Kap. 12 — Vesper (S. 218–234, ~4.000 Wörter)
 *Muster und Zeit.*
 
-Vesper in der Gilden-Bibliothek. Bücher die er nicht lesen kann — aber die Muster darin versteht er. Zeitdiagramme. Magiefluss. Reservoirkarten. Er legt die Hand auf eine Seite und sieht: Zeitlinien, überlappend, geschichtet. Moraghs Zeit ist nicht linear — sie spiralt. Vergangenheit und Zukunft liegen nebeneinander. Vesper sieht die Naht. An manchen Stellen ist die Zeit dünn, wie die Grenze zwischen den Welten.
+Vesper in der Bund-Bibliothek. Bücher die er nicht lesen kann — aber die Muster darin versteht er. Zeitdiagramme. Magiefluss. Reservoirkarten. Er legt die Hand auf eine Seite und sieht: Zeitlinien, überlappend, geschichtet. Moraghs Zeit ist nicht linear — sie spiralt. Vergangenheit und Zukunft liegen nebeneinander. Vesper sieht die Naht. An manchen Stellen ist die Zeit dünn, wie die Grenze zwischen den Welten.
 
-Ein Gilden-Gelehrter beobachtet ihn. Fasst sich an die Brust. "Wie machst du das?" Vesper: "Was?" Der Gelehrte: "Du liest die Zeit. Ohne Reservoir. Ohne Preis."
+Ein Bund-Gelehrter beobachtet ihn. Fasst sich an die Brust. "Wie machst du das?" Vesper: "Was?" Der Gelehrte: "Du liest die Zeit. Ohne Reservoir. Ohne Preis."
 
 Eingebettet: Ein junger Lehrling bringt Vesper Tee und einen Stapel Karten, die er nicht bestellt hat. **Talven.** Dreiundzwanzig, schmal, ein Lachen das zu groß ist für sein Gesicht. "Elke hat gesagt du brauchst die Reservoirkarten aus dem Südarchiv. Stimmt das?" Vesper nickt. Talven kennt die Bibliothek wie seine Taschen — zeigt Vesper die richtigen Regale, übersetzt Beschriftungen, erklärt die Ordnung. Hilfsbereit. Schnell. Der Typ der Probleme löst bevor man sie ausspricht.
 
@@ -36,23 +36,23 @@ Eingebettet: Vael. Das Boot. Drei Viertel fertig. "Warte auf mich." — aber von
 ### Kap. 14 — Runa (S. 250–264, ~3.500 Wörter)
 *Die Schmieden der Stadt.*
 
-Runa findet die Gilden-Schmiede. Kein Feuer — die Schmiede hier formen Metall durch Magie. Hände auf Eisen, Konzentration, Schweiß. Es kostet sie: der Schmied taumelt nach einer Stunde, isst, schläft. Runa beobachtet. Legt die Hand auf einen Eisenbarren. Er wird warm. Der Schmied starrt. Runa: "In meiner Welt mache ich das mit einem Ofen." Der Schmied: "Du brauchst keinen Ofen."
+Runa findet die Bund-Schmiede. Kein Feuer — die Schmiede hier formen Metall durch Magie. Hände auf Eisen, Konzentration, Schweiß. Es kostet sie: der Schmied taumelt nach einer Stunde, isst, schläft. Runa beobachtet. Legt die Hand auf einen Eisenbarren. Er wird warm. Der Schmied starrt. Runa: "In meiner Welt mache ich das mit einem Ofen." Der Schmied: "Du brauchst keinen Ofen."
 
-Abends: ein Gespräch mit Elke. "Die Thar — sie arbeiten wie ich. Druck, Metall, Feuer. Die Gilden beschwören Wesen. Die Thar formen Materie." Elke: "Die Thar formen Menschen. Vergiss das nicht."
+Abends: ein Gespräch mit Elke. "Die Thar — sie arbeiten wie ich. Druck, Metall, Feuer. der Bund beschwören Wesen. Die Thar formen Materie." Elke: "Die Thar formen Menschen. Vergiss das nicht."
 
 ### Interludium III (~S. 270, ~2.000 Wörter)
-*Elke und die Gilden-Meisterin. Das Angebot.*
+*Elke und die Bund-Meisterin. Das Angebot.*
 
-Elkes erste Wochen in der Gilden-Stadt. Die Meisterin die ihre Resonanz studieren will. "Lass mich sehen wie du formst." Elke formt eine Schale aus Basalt. Hand auf Stein, der Stein gibt nach. Die Meisterin misst: kein Reservoirverlust. Null. "Das ist unmöglich." Elke: "Ich bin nicht von hier." Die Meisterin: "Bleib. Wir beschützen dich." Elke bleibt. Aber sie baut ihren Garten außerhalb der Stadt. Nah genug zum Schutz. Weit genug zur Flucht.
+Elkes erste Wochen in der Bund-Stadt. Die Meisterin die ihre Resonanz studieren will. "Lass mich sehen wie du formst." Elke formt eine Schale aus Basalt. Hand auf Stein, der Stein gibt nach. Die Meisterin misst: kein Reservoirverlust. Null. "Das ist unmöglich." Elke: "Ich bin nicht von hier." Die Meisterin: "Bleib. Wir beschützen dich." Elke bleibt. Aber sie baut ihren Garten außerhalb der Stadt. Nah genug zum Schutz. Weit genug zur Flucht.
 
 ### Kap. 15 — Alphina (S. 274–294, ~5.000 Wörter)
-*Das Angebot der Gilden.*
+*Das Angebot des Bundes.*
 
-Die Älteste bittet zum Gespräch. Formell, höflich, ein Raum mit lebenden Wänden (die Wände atmen, wachsen, reagieren auf Stimmung). Die Gilden bieten alles: Schutz, Status, Wissen, ein Zuhause. Im Gegenzug: kämpft für uns. Die Binder rücken vor. Drei Städte verloren im letzten Monat. Die Gilden-Beschwörer sind erschöpft — ihre Reservoire leer, ihre Körper verbraucht. Alphina, die einen Wald wachsen lassen kann ohne müde zu werden, ist nicht Hilfe. Sie ist Rettung. Aber Alphina kann ihre Resonanz noch nicht gezielt einsetzen — tagsüber reagieren Pflanzen auf sie, aber bewusste Kontrolle hat sie erst in Ansätzen. Sie BEGINNT zu verstehen, kann manchmal einen Baum wachsen lassen wenn sie sich konzentriert. Aber verlässlich? Nein. Noch nicht.
+Die Älteste bittet zum Gespräch. Formell, höflich, ein Raum mit lebenden Wänden (die Wände atmen, wachsen, reagieren auf Stimmung). der Bund bieten alles: Schutz, Status, Wissen, ein Zuhause. Im Gegenzug: kämpft für uns. die Velmar rücken vor. Drei Städte verloren im letzten Monat. Die Bund-Beschwörer sind erschöpft — ihre Reservoire leer, ihre Körper verbraucht. Alphina, die einen Wald wachsen lassen kann ohne müde zu werden, ist nicht Hilfe. Sie ist Rettung. Aber Alphina kann ihre Resonanz noch nicht gezielt einsetzen — tagsüber reagieren Pflanzen auf sie, aber bewusste Kontrolle hat sie erst in Ansätzen. Sie BEGINNT zu verstehen, kann manchmal einen Baum wachsen lassen wenn sie sich konzentriert. Aber verlässlich? Nein. Noch nicht.
 
 Alphinas Gedanken: Sorel ist tot weil jemand ihre Resonanz wollte. Und jetzt will der nächste.
 
-Eingebettet: Talven übersetzt. Steht neben der Ältesten, flüstert Alphina die Nuancen zu die sie im Gilden-Dialekt noch nicht versteht. Hilfsbereit, unauffällig, die perfekte Brücke. Als Alphina aufsteht und den Raum verlässt — draußen im Gang: die Wände haben Moos angesetzt seit sie den Raum betreten hat. Zehn Minuten, Moos auf Stein. Talven steht daneben, sieht es, sein Gesicht — einen Moment lang, bevor er lächelt. Nicht Ehrfurcht. Nicht Angst. HUNGER. Die Augen eines Menschen der zusieht wie jemand anderes atmet und dafür alles bekommt was er sich wünscht. Alphina sieht es nicht. Sie geht weiter. Talven lächelt schon wieder.
+Eingebettet: Talven übersetzt. Steht neben der Ältesten, flüstert Alphina die Nuancen zu die sie im Bund-Dialekt noch nicht versteht. Hilfsbereit, unauffällig, die perfekte Brücke. Als Alphina aufsteht und den Raum verlässt — draußen im Gang: die Wände haben Moos angesetzt seit sie den Raum betreten hat. Zehn Minuten, Moos auf Stein. Talven steht daneben, sieht es, sein Gesicht — einen Moment lang, bevor er lächelt. Nicht Ehrfurcht. Nicht Angst. HUNGER. Die Augen eines Menschen der zusieht wie jemand anderes atmet und dafür alles bekommt was er sich wünscht. Alphina sieht es nicht. Sie geht weiter. Talven lächelt schon wieder.
 
 ### Kap. 16 — Alphina + Runa (S. 294–314, ~5.000 Wörter)
 *Nacht. Gespräch. Anfang.*
@@ -64,9 +64,9 @@ Alphinas Gedanken: die Art wie Runa die Tasse hält. Kein Spiel. Kein Wissen. Ru
 Eine Berührung — Runas Hand auf Alphinas Arm, kurz, zum Punkt machen. Alphinas Haut: warm. Nicht von Runas Feuer. Oder doch.
 
 ### Kap. 17 — Vesper (S. 314–330, ~4.000 Wörter)
-*Der Binder-Spion.*
+*Der Velmar-Spion.*
 
-Vesper sieht das Muster. Ein Gilden-Gelehrter der Fragen stellt die kein Gelehrter stellen würde — nach Reservoirkapazität, nach der genauen Art von Alphinas Resonanz, nach dem Mechanismus. Vesper folgt ihm. Nachts, durch die Straßen die sich verschieben. Der Gelehrte trifft jemanden am Stadtrand — eine Gestalt, feingliedrig, purpurne Augen, mit gebundenen Wesen die wie Schatten an ihr haften. Ein Binder. Der Spion liefert Informationen. Vesper beobachtet. Zählt die Züge.
+Vesper sieht das Muster. Ein Bund-Gelehrter der Fragen stellt die kein Gelehrter stellen würde — nach Reservoirkapazität, nach der genauen Art von Alphinas Resonanz, nach dem Mechanismus. Vesper folgt ihm. Nachts, durch die Straßen die sich verschieben. Der Gelehrte trifft jemanden am Stadtrand — eine Gestalt, feingliedrig, purpurne Augen, mit gebundenen Wesen die wie Schatten an ihr haften. Ein Binder. Der Spion liefert Informationen. Vesper beobachtet. Zählt die Züge.
 
 Entscheidung: sofort melden oder warten und mehr erfahren. Vesper wartet. Drei Züge voraus denken.
 
@@ -80,7 +80,7 @@ Vesper will sich nicht instrumentalisieren lassen — weder vom Bund noch von Al
 ### Kap. 19 — Alphina (S. 346–368, ~5.500 Wörter)
 *Das Dorf. Der Schlaf-Wald.*
 
-Die Gruppe besucht ein Gilden-Dorf, drei Stunden von der Stadt. Vorführung: die Älteste will Alphinas Resonanz zeigen. Alphina pflanzt — ein Baum, bewusst konzentriert, in zehn Minuten. Tagsüber kann sie es jetzt manchmal steuern. Die Dorfbewohner schweigen. Dann Applaus, dann Ehrfurcht, dann Angst. Nachts, im Gasthaus: Alphina schläft. Am Morgen ist das halbe Dorf überwuchert. Farne durch Fenster, Moos über Dächer, Ranken die Türen blockieren. Kein Schaden — aber die Botschaft: was Alphina TAGSÜBER beginnt zu kontrollieren, entzieht sich ihr NACHTS völlig. Die Schlaf-Haine sind unbewusst. Die Trauer wächst im Schlaf weiter, ohne Bremse.
+Die Gruppe besucht ein Bund-Dorf, drei Stunden von der Stadt. Vorführung: die Älteste will Alphinas Resonanz zeigen. Alphina pflanzt — ein Baum, bewusst konzentriert, in zehn Minuten. Tagsüber kann sie es jetzt manchmal steuern. Die Dorfbewohner schweigen. Dann Applaus, dann Ehrfurcht, dann Angst. Nachts, im Gasthaus: Alphina schläft. Am Morgen ist das halbe Dorf überwuchert. Farne durch Fenster, Moos über Dächer, Ranken die Türen blockieren. Kein Schaden — aber die Botschaft: was Alphina TAGSÜBER beginnt zu kontrollieren, entzieht sich ihr NACHTS völlig. Die Schlaf-Haine sind unbewusst. Die Trauer wächst im Schlaf weiter, ohne Bremse.
 
 Die Dorfbewohner evakuieren. Nicht vor den Bindern. Vor ihr.
 
@@ -102,7 +102,7 @@ Nach dem Dorf-Desaster: Alphina zieht sich zurück. Runa folgt. Nicht aus Mut �
 
 Sie küssen sich. Ungeschickt, zu schnell, mit geschlossenen Augen. Keine Farne wachsen. Kein Wald bricht aus. Nur zwei Münder und der Geschmack von Moragh-Tee. Alphinas Gedanken danach: bei Sorel hat die Welt geblüht. Bei Runa ist sie still. Beides macht ihr Angst. Aber die Stille mehr.
 
-Eingebettet: der Binder-Spion wird enttarnt. Vesper hat gewartet, drei Züge voraus. Die Älteste verbannt den Spion. Aber die Information ist draußen: vier Resonanz-Begabte, kostenlos, unkontrolliert.
+Eingebettet: der Velmar-Spion wird enttarnt. Vesper hat gewartet, drei Züge voraus. Die Älteste verbannt den Spion. Aber die Information ist draußen: vier Resonanz-Begabte, kostenlos, unkontrolliert.
 
 ### Maren und Vesper — Die Trennung
 
@@ -124,8 +124,8 @@ Der Bund setzt Alphina offensiver ein. Erst Verteidigung: Schlaf-Haine als Befes
 | Vesper sieht die Zeitnaht | Kap 12 — An manchen Stellen ist die Zeit dünn | Akt IV — Vesper manipuliert die Zeit. Einmal. Der Preis ist hoch |
 | "Bei Runa ist die Welt still" | Kap 20 — Keine Magie beim Kuss | Akt III — Die Stille hat einen Grund. Runas Resonanz absorbiert Alphinas. Gegenpol |
 | Elkes Garten wächst aus Stein | I4 — Pflanzen aus beiden Welten | Buch 3 — Elkes Garten als Alphinas Endpunkt |
-| Binder-Information ist draußen | Kap 17/20 — Vier Resonanz-Begabte, kostenlos | Akt III — Alle drei Fraktionen wissen Bescheid. Der Preis steigt |
-| Runa in der Gilden-Schmiede | Kap 14 — Sie formt ohne Ofen | Buch 3 — Runa geht zu den Thar/Konglomerat. Die Schmiedekunst als Brücke |
+| Velmar-Information ist draußen | Kap 17/20 — Vier Resonanz-Begabte, kostenlos | Akt III — Alle drei Fraktionen wissen Bescheid. Der Preis steigt |
+| Runa in der Bund-Schmiede | Kap 14 — Sie formt ohne Ofen | Buch 3 — Runa geht zu den Thar/Konglomerat. Die Schmiedekunst als Brücke |
 | Talvens HUNGER beim Hain | Kap 15/19 — Sein Gesicht wenn Alphina wächst | Akt III — Er sucht Varen. Lernt Resonanz-Ernte |
 | Talven kennt die Bibliothek | Kap 12 — Zeigt Vesper die Karten | Akt III — Er kennt auch die Geheimnisse. Weiß wo Varen ist |
 | Talven kocht Frühstück | Kap 19 — Der Freund den alle mögen | Buch 3 — Der Verräter den alle mochten. Schmerzhafter |
