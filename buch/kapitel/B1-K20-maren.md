@@ -88,11 +88,11 @@ Sie reichte ihm das Papier mit dem langen Maß, bevor er danach griff. Reichte i
 
 Sie sah seinen Bleistift. Sah die kurze Pause vor jedem Strich.
 
-Sie merkte, dass er einmal aufsah. Nicht lang. Nicht prüfend. Ein Blick, der einen Atemzug länger dauerte als nötig. Sie senkte den Kopf nicht. Und die Haut an ihrem Hals wurde einen halben Grad wärmer, als wäre die Luft dort in Bewegung gekommen.
+Sie merkte, dass er einmal aufsah. Ein Blick, der sie nahm und nicht gleich zurückgab. Sie senkte den Kopf nicht. Und die Haut an ihrem Hals wurde einen halben Grad wärmer, als wäre die Luft dort in Bewegung gekommen.
 
 Er sah wieder auf das Blatt.
 
-Er sagte nichts. Der Nacken, unter den Haaren, spürte ihn noch, als er schon wieder auf dem Blatt war.
+Er sagte nichts. Die Haut am Nacken blieb warm, als sein Blick schon wieder auf dem Blatt lag.
 
 "Hier." Er zeigte mit dem Bleistift auf drei kleine Zeichen am Rand der Zeichnung, über der Steinkreis-Linie. "Die kommen dreimal vor. Unten links, oben rechts, unten Mitte." Der Bleistift ging mit. "Was fällt dir auf?"
 
@@ -108,7 +108,7 @@ Er nahm den Bleistift nach unten, zwischen seine Finger. Drehte ihn eine halbe U
 
 "Schlaues Mädchen."
 
-Sie sah auf das Blatt. Der Atem stockte. Zwischen den Schenkeln eine Hitze, die sich sammelte — ein Puls, der nicht zu ihr gehörte. Ihre Brustwarzen wurden hart, sie spürte sie am Mieder drücken. Salz auf der Oberlippe. Metall hinten auf der Zunge.
+Sie sah auf das Blatt. Der Atem stockte. Zwischen den Schenkeln eine Hitze, die sich sammelte — ein Puls, der nicht zu ihr gehörte. Ihre Brustwarzen wurden hart, sie spürte sie am Mieder drücken. Auf der Oberlippe der Geschmack von Salz. Sie schmeckte ihn und leckte ihn nicht weg.
 
 Er zog das kleine Heft näher heran, setzte den Bleistift neben eine Zahl in der Tabelle. "Das hier." Er unterstrich eine Ziffernfolge. "Das ist eine Vaeler Registriernummer. Archiv-Kennung. Das Blatt verweist auf ein Dokument, das im Rathauskeller liegt." Er machte eine Pause, nicht aus Unsicherheit. "Oder lag."
 
@@ -152,11 +152,11 @@ Frau Voss sagte den Namen ruhig, aber die Finger lagen schon auf einer Seitenzah
 
 Sie wandte sich halb, sah zum Regal links hinter ihr, ging zwei Schritte, zog einen grauen Band heraus, dann einen zweiten, dann einen dritten aus einem anderen Fach. Legte die drei Bände auf dem Tresen übereinander. Schlug den obersten auf, blätterte eine Minute, ohne zu sprechen, hielt an einer Seite, fuhr mit dem Finger eine Zeile ab.
 
-"Da." Sie drehte das Buch zu ihnen herum. Eine Zeile, in einer alten Kanzlei-Handschrift: *Daahl*, mit Doppel-a, ein Zuzug in Vael, registriert im Jahr vierhundertzwei TZ. "Einhundertneunundvierzig Jahre vor heute."
+"Da." Sie drehte das Buch zu ihnen herum. Eine Zeile, in einer alten Kanzlei-Handschrift: *Lene Dahl, Zuzug Vael TZ einhunderteinundfünfzig, errichtet Werft an der Grauwe.* "Die Gründerin. Vierhundert Jahre zurück."
 
-Sie schlug den zweiten Band auf, blätterte, hielt an: *Dael*, ein Name in einer Zinsliste, registriert im Jahr dreihundertundsechs. "Zweihundertfünfundvierzig Jahre."
+Sie schlug den zweiten Band auf, blätterte, fuhr mit dem Finger schnell über Generationen — Tochter, Enkelin, Urenkel, so weiter — und hielt am letzten Eintrag. *Anen und Meren Dahl. Werftinhaber.* "Das letzte Paar der Linie. Kinderlos."
 
-Der dritte Band war dünner, ein Stadtverzeichnis der Werftfamilien. Sie schlug ihn hinten auf, dort wo die Nachträge standen, und die Schrift war jünger. *Dahl, Haron, Zuzug Vael TZ fünfhundertvierzehn, adoptiert durch das Werftinhaberpaar als Erbe, eingetragen TZ fünfhundertvierundvierzig.* Daneben, in einer anderen Hand, ein Randvermerk: *Name bei Adoption angenommen.*
+Der dritte Band war dünner, ein Stadtverzeichnis der Werftfamilien. Sie schlug ihn hinten auf, dort wo die Nachträge standen, und die Schrift war jünger. *Dahl, Haron, Zuzug Vael TZ fünfhundertvierzehn, adoptiert durch Anen und Meren Dahl als Erbe, eingetragen TZ fünfhundertvierundvierzig.* Daneben, in einer anderen Hand, ein Randvermerk: *Name bei Adoption angenommen.*
 
 Frau Voss legte den Finger nicht auf die Zeile. Sie drehte das Buch so, dass Maren die Schrift las. Maren las sie.
 
@@ -164,15 +164,15 @@ Frau Voss legte den Finger nicht auf die Zeile. Sie drehte das Buch so, dass Mar
 
 "Zwei Jahre."
 
-Sie hatte dreimal *Dahl* vor sich, in drei Schreibweisen, in drei Jahrhunderten. Daneben der Randvermerk: *Name bei Adoption angenommen*.
+Sie hatte die Linie vor sich. Lene, dann Generationen, dann Anen und Meren, dann Haron. Daneben der Randvermerk: *Name bei Adoption angenommen*.
 
-Etwas unter ihrem Brustbein stand schief.
+Der Atem ging in den oberen Brustkorb und blieb dort.
 
 Sie spürte Vespers Schulter, nicht weil sie sie berührte — er stand zwei Handbreit von ihr entfernt —, sondern weil sein Mantel einen Laut machte, als er sich weiter beugte, um die dritte Zeile nachzulesen. Der Stoff gegen Stoff, sein Ärmel gegen die Innenkante des Mantels. Ein kurzes Geräusch. Er legte die linke Hand flach auf den Tresen, zwei Finger breit neben ihrer. Er sah weiter auf das Buch. Er sagte nichts.
 
-Maren atmete einmal ein. Das Brustbein richtete sich. Sie sah auf das dritte Buch, las den Randvermerk noch einmal.
+Maren atmete einmal ein. Der Brustkorb löste sich. Sie sah auf das dritte Buch, las den Randvermerk noch einmal.
 
-"Dahl ist ein Vaeler Name." Frau Voss sprach ruhig, sie wertete nicht. "Lene Dahls Familie hat die Werft seit fast vierhundert Jahren, eine ununterbrochene Linie. Die anderen Eintragungen — die von einhundertneunundvierzig, die von zweihundertfünfundvierzig — sind nicht dieselbe Familie. Der Name taucht auf. Die Person ist eine Weile da. Dann ist sie wieder weg."
+"Dahl ist ein Vaeler Name." Frau Voss sprach ruhig, sie wertete nicht. "Lene Dahls Familie hat die Werft seit fast vierhundert Jahren, eine ununterbrochene Linie. Anen und Meren waren das letzte Paar. Keine Kinder. Sie haben Haron adoptiert."
 
 "Haron wurde von den Dahls adoptiert." Vesper sagte es zur Bestätigung, ohne Frage.
 
@@ -194,7 +194,7 @@ Vesper hatte das Blatt in der Hand. "Darf ich es bei Ihnen lassen?"
 
 "Gut."
 
-Frau Voss nahm das Blatt, legte es zwischen zwei neue Pappstücke, legte das Ganze in eine Mappe mit einem Schildchen, das sie mit dem Bleistift aus der Saumtasche ansetzte und eine Kennung schrieb, die Maren nicht lesen konnte, weil sie zu weit weg stand. Die Mappe ging in die erste Schublade links hinter dem Tresen. Der Schlüssel lag in der Jackentasche von Frau Voss.
+Frau Voss nahm das Blatt, legte es zwischen zwei neue Pappstücke, legte das Ganze in eine Mappe mit einem Schildchen, das sie mit dem Bleistift aus der Saumtasche ansetzte und eine Kennung schrieb, die Maren nicht lesen konnte, weil sie zu weit weg stand. Die Mappe ging in die erste Schublade links hinter dem Tresen. Der Schlüssel lag in der Saumtasche von Frau Voss.
 
 "Danke."
 
@@ -204,17 +204,17 @@ Sie gingen. An der Treppe drehte Maren sich nicht um. Am oberen Ende der Treppe,
 
 ---
 
-Sie gingen den Rückweg den Fluss entlang, nicht weil der Weg kürzer war — er war länger als die Gassen. Die Grauwe lag im späten Nachmittagslicht, mit Bronzestichen dort, wo die Strömung brach. Die Oberstadt stand hinter ihnen, die Unterstadt unter ihnen, der Hafen weiter rechts, und das Lichthaus, der Speicherbau am Kai, warf gerade einen langen, schiefen Schatten in die Richtung, aus der sie kamen.
+Sie gingen den Rückweg den Fluss entlang, den längeren Weg. Die Grauwe lag im späten Nachmittagslicht, mit Bronzestichen dort, wo die Strömung brach. Die Oberstadt stand hinter ihnen, die Unterstadt unter ihnen, der Hafen weiter rechts, und das Lichthaus, der Speicherbau am Kai, warf gerade einen langen, schiefen Schatten in die Richtung, aus der sie kamen.
 
 Maren ging ein wenig vor. Oder neben ihm. Er sprach nicht. Sie sprach nicht. Am Ufer roch die Luft nach brackigem Wasser und dem Tang, der im Schlamm unter den Pfählen saß.
 
-Sie blieb stehen. Setzte sich nicht — sie hockte sich an den Rand, wo der Weg zwei Handbreit über dem Wasser lag, die Füße flach auf dem Holz, die Ellbogen auf den Knien, eine Hand ausgestreckt, eine Daumenbreite über der Oberfläche. Ihre Hand war dort, bevor sie es geplant hatte.
+Sie blieb stehen. Setzte sich nicht — sie hockte sich an den Rand, wo der Weg zwei Handbreit über dem Wasser lag, die Füße flach auf dem Holz, die Ellbogen auf den Knien, eine Hand ausgestreckt, eine Daumenbreite über der Oberfläche. Die Hand war dort, bevor der Kopf es wusste.
 
 Das Wasser antwortete. Ohne dass sie die Finger senkte. Eine Kräuselung, dort, wo ihre Hand in der Luft stand. Ein leises Drehen der Wellen gegen die Strömung, die zum Meer zog — ein halber Kreis, groß wie eine Suppenschüssel, der sich schloss, sich wieder öffnete, noch einmal schloss. Das Wasser tat es. Sie sah zu. Sie rief es nicht. Hielt es nicht. Es geschah.
 
-Vesper stand zwei Schritte hinter ihr. Er sprach nicht. Die Sohle seines Stiefels setzte nicht um. Er sah das Wasser. Oder er sah ihren Rücken. Sie wusste nicht, was er sah. Sie brauchte es nicht zu wissen.
+Vesper stand zwei Schritte hinter ihr. Er sprach nicht. Die Sohle seines Stiefels setzte nicht um. Er sah das Wasser. Oder er sah ihren Rücken. Sie wusste nicht, was er sah. Ihr Rücken wurde warm, langsam, von oben nach unten.
 
-Sie blieb. Auf dem Holz des Uferwegs, in der Hocke, mit dem Finger eine Daumenbreite über dem Wasser. Sie blieb.
+Sie blieb. Auf dem Holz des Uferwegs, in der Hocke, mit dem Finger eine Daumenbreite über dem Wasser.
 
 Sie stand auf. Die Knie meldeten sich, das Holz unter ihren Sohlen gab eine halbe Rille nach, weil die Dielen an diesem Teil des Wegs weich waren von der Feuchte. Sie drehte sich nicht zu ihm. Sie ging weiter, und er ging weiter. Oben am Speicherbau, zwischen den fensterlosen Wänden des Lichthauses, brannte ein einzelnes schmales Licht, das auf dem Wasser als gelber Strich lag. Sie sah einmal hin. Dann ging sie weiter.
 
