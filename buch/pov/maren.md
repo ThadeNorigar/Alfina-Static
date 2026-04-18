@@ -15,7 +15,7 @@ Hände auf Holz. Handfläche, Daumen, Fingerkuppen — sie tastet alles ab, bevo
 ## Wissensstand-Anker (Stand nach Kap 08)
 
 - **Vael:** Ankunft aus Solha via Fischerboot. Fünf Wochen in der Stadt. Kennt den Steg, die Gassen, den Marktplatz, die Werft, den Gasthof "Zum Anker".
-- **Haron Dahl:** Fünf Jahre Briefwechsel, nie getroffen. Moragh-Agent Varens — das weiß sie nicht. Sie hat sein Papier mit unbekannten Symbolen gefunden und es weggesteckt.
+- **Haron Dahl:** Fünf Jahre Briefwechsel, nie getroffen. Moragh-Agent Varens — das weiß sie nicht. Sein Papier mit unbekannten Symbolen in der Werkbank-Leiste gefunden (K08), in K20 Vesper gezeigt und gemeinsam ins Stadtarchiv gebracht. Nach K20 weiß sie: Haron kam mit ~16 nach Vael (TZ 514), wurde nach 30 Jahren vom Werftinhaberpaar adoptiert (TZ 544), Name bei Adoption angenommen. Er kannte den Steinkreis im Garten, hatte das Ritual-Diagramm sorgfältig gezeichnet und versteckt — Grund unbekannt. Das Papier liegt im Archiv bei Esther Voss (ein bis zwei Tage, dann Nachricht in den *Anker*).
 - **Edric:** Geselle, sieben Jahre bei Haron. Erster Kontakt. Neutrale Vertrauensbasis.
 - **Tohl Daverin:** Fischer. Hat ihr gezeigt, dass die Grauwe rückwärts fließt. Sagt es niemandem sonst.
 - **Ihre Resonanz (Wasser):** Wasser reagiert auf sie — Steg, Badewanne, Werftboden. Keine Sprache dafür. Körper weiß es, Verstand drückt es weg.
@@ -34,6 +34,10 @@ Hände auf Holz. Handfläche, Daumen, Fingerkuppen — sie tastet alles ab, bevo
 ## Beziehungs-Dynamik
 
 **Vesper (Dom/Sub, verhandelt):** Vesper dominiert durch Geduld. Maren unterwirft sich als Akt des Mutes — Stillhalten ist schwerer als Gehen. Er nimmt ihre Handgelenke, wartet. Sie bleibt. Jedes Mal mehr. Dialog: Er sagt einen Satz, sie antwortet mit Körper.
+
+**Intelligenz als Dienstleistung (K20):** Vesper erwartet von ihr mitgedachte Einsicht, nicht nur Körper-Gehorsam. Sie decodiert für ihn (Zeichen-Muster, Code an drei Stellen). Das ist Teil ihres Dienens — Kopf UND Körper.
+
+**Körperreaktionen auf Dom-Lob (K20, eskalierend):** *"Gut."* (nach schweigendem Service) → Wärme im Schoß, Mund trocken, Zunge schwer. *"Schlaues Mädchen."* (nach mitgedachter Einsicht) → Atem stockt, Hitze zwischen den Schenkeln mit Puls (nicht ihr Takt), Brustwarzen hart am Mieder, Salz auf der Oberlippe, Metall hinten auf der Zunge. Äußerlich Stillwerden (Maren-Surrender-Signatur), innerlich eskalierend. Réage-Körper-vor-Kopf: sie bemerkt, benennt nicht.
 
 **Alphina:** Überraschende Leichtigkeit. Alphina denkt nachts: *Wie wäre es, jemanden zu halten, der nicht gehalten werden will?* Maren registriert das ohne Namen.
 

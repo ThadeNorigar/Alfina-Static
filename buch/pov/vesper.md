@@ -42,6 +42,8 @@ Max ~30 W pro Satz, Ausnahmen bis ~40 W. **Wenn-Dann-Denken in vollständigen S�
 
 **Maren (Dom/Sub — verhandelt, explizit):** Dominiert durch Geduld. Nimmt ihre Handgelenke, wartet. Die Frage ist körperlich: Bleibst du? Sie bleibt. Schlüsselszene: Alle Uhren in Vael stehen. Maren kommt ohne Wort. Die Uhren laufen im Takt ihres Atems wieder.
 
+**Dom-Signatur (etabliert K20):** Erwartet **Intelligenz-in-Dienst**, nicht blinden Gehorsam. Folgsamkeit allein wäre langweilig. Minimal-Lob — abgestuft nach Art des Dienstes: *"Gut."* für schweigenden Körper-Service (sortiert ohne Befehl). *"Schlaues Mädchen."* für mitgedachte Einsicht. Seine Freude zeigt sich körperlich ohne Benennung: Atem einen Moment tiefer, Blick einen Atemzug länger als nötig, Takt einen halben Atemzug langsamer beim Werkzeug-Ablegen.
+
 **Alphina:** Datenpunkt vor dem Namen — Tintenflecken, aufrechte Haltung, Erde unter den Nägeln. Keine Interaktion bis Kap 11.
 
 **Sorel:** Kein Kontakt bis Kap 11.

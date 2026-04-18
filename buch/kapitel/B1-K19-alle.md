@@ -331,20 +331,46 @@ Vesper nickte, knapp. Maren nickte auch.
 
 Sorel hob das Stativ vom Boden und schob es sich über die Schulter. Er ging Richtung Tor. Alphina ging neben ihm, zwei Schritte Abstand.
 
-Am Tor wartete Maren, eine Hand an der Steinkante. Vesper kam als Letzter.
+Vesper wartete, bis Maren auf den Füßen war. Sie hielt die rechte Hand auf die linke Schulter, drückte das Mieder fest gegen die Wunde. Der Stoff war schon dunkel, an den Rändern steif.
 
-Alphina drehte den Schlüssel im Schloss. Einmal, zweimal, das präzise Klicken. Sie zog den Schlüssel ab und schloss die Hand darum.
+Sie gingen. Vesper neben ihr, ohne es zu betonen, einen halben Schritt hinter Alphina und Sorel. Der Hauptweg war lang. Beetränder rechts und links, Kies knirschte unter jedem Schritt, die große Kastanie auf halber Strecke. Marens Atem ging flach, regelmäßig. Ihr linker Arm hing.
 
-„Morgen Mittag in der Werft?" fragte Vesper.
+Unter der Kastanie blieb Vesper einen Moment stehen. Er sprach leise, nicht zu den anderen gerichtet.
 
-„Morgen", sagte Maren.
+„Soll ich bei dir bleiben?"
 
-Sorel nickte nur.
+Maren sah ihn nicht an. Sie sah den Kies vor sich. Das Blut unter ihrer Hand war jetzt steif.
 
-Alphina drehte den Schlüssel zwischen den Fingern, sah zur Torkante und fragte, ohne zu einem der drei zu schauen: „Kann es wiederkommen?"
+„Nein." Eine Pause. „Danke, Vesper."
 
-Vesper brauchte einen Atemzug. „Ich weiß es nicht."
+Er nickte, kaum. Nahm die Hand nicht. Ging neben ihr weiter, den restlichen Weg zum Tor.
 
-Sie gingen in drei Richtungen auseinander. Alphina und Vesper in dieselbe, aber nicht nebeneinander. Vesper ging voraus. Alphina ließ den Abstand zwischen sich und ihm so weit, dass der süße vierte Geruch zwischen ihnen Platz hatte.
+Am Tor warteten Alphina und Sorel. Alphina hatte den Schlüssel aus der Tasche gezogen. Sorel stand mit dem Stativ über der Schulter. Maren kam als Vorletzte durch den Bogen. Vesper als Letzter. Er legte die rechte Hand flüchtig an den Torpfosten und nahm sie gleich wieder weg.
+
+Keiner sagte etwas.
+
+Die Nachmittagssonne stand tief. Ein Schatten der Mauer fiel über den Kies vor dem Tor. Marens Atem ging flach. Sorels rechte Hand hatte die Leere neben seinem Körper nicht verlassen — dort, wo vorhin Alphinas Ellbogen gewesen war. Er ließ die Hand sinken, als Alphina den Blick auf ihn richtete, und zog sie in die Manteltasche.
+
+Vespers Schultern hingen. Er stand zwei Schritte hinter Maren, die Hand an der Innenseite seines eigenen Brustbeins.
+
+„Kann es wiederkommen?"
+
+Alphina fragte zum Kies vor ihren Stiefeln, nicht zu einem der drei.
+
+Vesper brauchte einen Atemzug.
+
+„Ich weiß es nicht."
+
+Keiner widersprach. Keiner hatte eine andere Antwort. Marens rechte Hand lag über dem Blut an der linken Schulter. Sorel sah auf seine linke Hand, auf den Handrücken, die helle Stelle. Alphina schloss die Hand um den Schlüssel.
+
+Eine Amsel rief, weit hinten, einmal. Dann nichts.
+
+Irgendwo stand die Frage, die keiner stellte: Wann. Irgendwo die andere: Was jetzt. Alphina hörte keine Antwort in sich. Sie sah zu Maren. Maren sah zurück, nickte einmal, kaum — die Verabredung um das Blatt lag zwischen ihnen, unausgesprochen, wortgenau da, wo sie sie im Kreis abgelegt hatten. Sorel hatte die Augen schon jenseits der Torkante. Vesper war schon einen halben Schritt weiter.
+
+Sie traten durch das Tor. Alphina als Letzte. Sie zog es hinter sich zu und drehte den Schlüssel im Schloss. Einmal, zweimal. Das präzise Klicken, das sie vor zwei Monaten gelernt hatte. Sie zog den Schlüssel ab. Das Metall war warm von ihrer Faust. Sie schloss die Hand darum und ließ ihn nicht los.
+
+Dann gingen sie.
+
+In drei Richtungen. Sorel bog nach rechts zum Hafen ab, das Stativ über der Schulter, die Kamera unter dem Arm. Maren nach links zur Werft, die gute Hand an der Schulter. Alphina und Vesper gingen in dieselbe, aber nicht nebeneinander. Vesper ging voraus. Alphina ließ den Abstand zwischen sich und ihm so weit, dass der süße vierte Geruch zwischen ihnen Platz hatte.
 
 Hinter der Torkante, im Garten, wuchs die Skulptur um einen weiteren Millimeter.

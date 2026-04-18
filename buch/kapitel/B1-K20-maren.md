@@ -2,51 +2,57 @@
 
 *21. Blütenmond 551 · 8 Wochen 3 Tage in Vael*
 
-Die Schulter hielt. Sie prüfte es bei jedem Aufheben — die Kiste mit den Dübeln, den Hobel, den Eimer mit Pech — und die Schulter hielt. Am Tag nach dem Abend im Garten. Eine Wärme saß noch in der Wunde, nicht scharf, nicht fremd. Durch Alphinas Finger war sie gezogen wie Feuchte durch ein Brett. In Marens Schulter kam sie an als Wärme aus Erde.
+Die Schulter hielt. Sie prüfte sie bei jedem Aufheben — die Kiste mit den Dübeln, den Hobel, den Eimer mit Pech — und die Schulter hielt. Am Morgen nach dem Garten. Eine Wärme saß noch in der Wunde, nicht scharf, nicht fremd. Alphinas Finger hatten sie durchgezogen wie Feuchte durch ein Brett. In ihrer Schulter kam sie an als Wärme aus Erde.
 
-In den drei Tagen hatten sie sich öfter gesehen. Nicht alle vier zugleich — aber einer von ihnen war jedesmal in der Nähe gewesen. Alphina war am Morgen nach dem Garten in die Werft gekommen, hatte die Hand auf die Schulter gelegt, ohne die Jacke wegzuziehen, und gefragt, ob sie hielt. Sorel hatte sie zweimal gegrüßt, beide Male knapp, einmal am Hafen, einmal im *Anker*-Flur, mit einer Mappe unter dem Arm, die nach Chemikalien roch.
+Alphina war früh in die Werft gekommen, hatte die Hand auf die Schulter gelegt, ohne das Hemd wegzuziehen, und gefragt, ob sie hielt. Sorel hatte ihr am Hafen kurz zugenickt, mit einer Mappe unter dem Arm, die nach Chemikalien roch.
 
-Vesper war öfter da gewesen. Oder sie war öfter dort gewesen. Im Schankraum, wenn die Mittagsglut den Hof leer zog. Am Reparaturtisch, wenn die Tür einen Spalt offenstand. Sie hatte ihm einmal einen Tee hingestellt, den er nicht angerührt hatte, der eine halbe Stunde dort gestanden hatte, bevor er ihn trank, ohne aufzusehen. Einmal war er an der Werft vorbeigegangen, mit einer Frage zur Schiffsuhr, die er nicht hatte stellen müssen. Einmal ohne Frage. Es waren keine Verabredungen gewesen. Die Wege liefen so.
+Vesper war in den Tagen davor öfter da gewesen. Oder sie bei ihm. Im Schankraum des *Ankers*, wenn die Mittagsglut den Hof leer zog. Am Reparaturtisch, wenn die Tür einen Spalt offenstand. Einmal hatte sie ihm einen Tee gebracht; er ließ ihn eine halbe Stunde stehen, dann trank er ihn, ohne aufzusehen. Einmal war er an der Werft vorbeigekommen, mit einer Frage zur Schiffsuhr, die er sich hätte sparen können. Einmal ohne Frage. Keine Verabredungen.
 
-Edric war auf dem Markt. Lärche, hatte er gesagt, schon vor Sonnenaufgang, und das Tor der Werft hatte hinter ihm zugeschoben, leise, weil er es so mochte. Die Halle war still. Nur die Grauwe redete draußen, leise, gegen die Stegpfähle, und in der Kajüte des halbfertigen Bootes tickte die Schiffsuhr, die seit zwei Wochen in der Stirnwand saß, vier Schrauben, in der richtigen Reihenfolge.
+Edric war auf dem Markt. Lärche, hatte er gesagt, schon vor Sonnenaufgang. Das Tor der Werft hatte hinter ihm zugeschoben, leise, weil er es so mochte. Die Halle war still. Nur die Grauwe redete draußen gegen die Stegpfähle. In der Kajüte des dreiviertel fertigen Bootes tickte die Schiffsuhr — seit vier Tagen in der Stirnwand, vier Schrauben, in der richtigen Reihenfolge.
 
-Sie hatte die Werkbank-Leiste aufgeschoben, als sie den Hobel zurücklegte. Das Geräusch war das, was sie hergeholt hatte — Holz auf Holz, eine Nut, die sie seit Wochen nicht geöffnet hatte. Jetzt schob sie die Leiste weiter, und das Papier lag darin, wie es seit den ersten Maitagen darin gelegen hatte. Ein einzelnes Blatt, ungefaltet, das Format kleiner als eine Hand, leicht rau am Rand, wo Haron es aus einem größeren Bogen getrennt hatte.
+Als sie den Hobel zurücklegte, drückte sie gegen die Werkbank-Leiste. Sie federte zurück. Im Spalt dahinter lag das Papier, zweimal gefaltet, gelblich, die Kanten weich vom Alter. Wie sie es zurückgelegt hatte.
 
-Sie hob es heraus. Hielt es gegen das Fenster. Das Licht ging durch das Papier, und die Tinte wurde dunkler, wo sie dicker saß, und heller, wo sie den Bogen nur berührt hatte. Die Schrift war Harons Schrift. Sie hatte fünf Jahre seine Briefe gelesen, sie kannte die Art, wie er den Abstrich beim *n* schräg zog, sie kannte die kleinen Lücken zwischen Wort und Interpunktion, die er immer ließ, als misstraue er dem Punkt. Diese Schrift war seine Schrift, und sie war es nicht — die Zeichen, die er hier gezogen hatte, folgten keinem Alphabet, das Maren kannte. Kurze Striche, die nicht Buchstaben waren. Punkte, die oberhalb der Zeile standen, zwischen den Zeichen, nicht über ihnen.
+Sie hob es heraus. Faltete es auf. Hielt es gegen das Fenster. Das Licht ging durch das Papier, die Tinte wurde dunkler, wo sie dicker saß, heller, wo sie den Bogen nur berührt hatte. Die Schrift war Harons Schrift. Sie hatte fünf Jahre seine Briefe gelesen. Sie kannte die Art, wie er den Abstrich beim *n* schräg zog, die kleinen Lücken zwischen Wort und Interpunktion, die er immer ließ. Diese Schrift war seine Schrift, und sie war es nicht — die Zeichen, die er hier gezogen hatte, folgten keinem Alphabet, das Maren kannte. Kurze Striche, die nicht Buchstaben waren. Punkte, die oberhalb der Zeile standen, in den Lücken zwischen den Zeichen.
 
-In der Mitte des Bogens war die Zeichnung.
+Am unteren Rand lag die Zeichnung.
 
-Sieben Steine. Die Mitte hohl. Ein Kreis von Steinen, aufgezogen mit derselben sparsamen Linie, mit der Haron seine Schiffsrisse gezeichnet hatte — ohne Schraffur, ohne Schatten, die Form allein. Sie hatte das Blatt seit den ersten Tagen auf der Werft in der Leiste liegen. Sie hatte es einmal herausgenommen, im dritten Tag, und gelesen, ohne lesen zu können, und weggelegt. Jetzt lag es in ihrer Hand, und der Kreis aus Steinen war kein Kreis aus Steinen mehr.
+Ein Kreis aus sieben Rechtecken mit Lücken dazwischen. In der Mitte eine Gestalt, zusammengekauert, und Linien von der Gestalt zu den Rechtecken, wie Fäden. Haron hatte es mit derselben sparsamen Linie gezogen, mit der er seine Schiffsrisse zeichnete — ohne Schraffur, ohne Schatten, die Form allein. Sie hatte das Blatt in der siebten Woche gefunden, hinter dieser Leiste. Damals gelesen, ohne lesen zu können. Jetzt lag es in ihrer Hand.
 
-Er war die Form, die im Garten auf dem Boden gestanden hatte.
+Sieben Steine. Der Kreis im Garten.
 
-Nicht als Stein. Als Wurzelgespinst in der Luft. Die Stelle, an der der Schemen in Rauch aufgegangen war. Sie zählte die Steine auf dem Blatt. Sieben. Im Garten hatte sie nicht gezählt. Die Mitte war hohl gewesen, wie hier.
+Eine Gestalt in der Mitte. Fäden zu den Steinen. Haron hatte den Kreis gekannt, gezeichnet, weggelegt. Fünf Jahre Briefe — Planken, Wetter, Lärche. Nichts davon. Er hätte keinen Anlass gehabt. Aber wieso wusste er es?
 
-Sie legte das Blatt auf die Werkbank. Die Handflächen waren kalt geworden, obwohl der Morgen warm war. Sie drehte das Blatt um, sah die Rückseite — leer, bis auf zwei sehr feine Striche in der unteren Ecke, die aussahen wie ein Maß, Zoll oder Strich oder etwas anderes, was Maren nicht nachvollzog.
+Sie legte das Blatt auf die Werkbank. Die Handflächen waren kalt geworden, obwohl der Morgen warm war. Sie drehte das Blatt um. Die Rückseite war leer, bis auf zwei feine Striche in der unteren Ecke — ein Maß vielleicht, Zoll oder Strich, Maren erkannte es nicht.
 
-Haron hatte das geschrieben. Haron hatte das gezeichnet. Der Mann, der ihr fünf Jahre lang Briefe geschickt hatte, in denen er die Werft beschrieb, die Lärche aus dem Norden, das halbfertige Boot, den Wetterbericht einer Stadt, die sie nicht gesehen hatte. Er hatte etwas gewusst. Er hatte es in einer Sprache aufgeschrieben, die sie nicht lesen konnte.
+Haron hatte das geschrieben. Haron hatte das gezeichnet. Der Mann, der ihr fünf Jahre lang Briefe geschickt hatte, in denen er die Werft beschrieb, die Lärche aus dem Norden, das halbfertige Boot, das Wetter einer Stadt, die sie nicht gesehen hatte. Er hatte etwas gewusst. Er hatte es in einer Sprache aufgeschrieben, die sie nicht lesen konnte.
 
-Acht Wochen lang hatte sie niemanden gehabt, dem sie es hätte geben können.
+Sie schlug das Blatt einmal zusammen, vorsichtig, entlang einer Linie, die Haron gezogen hatte — damit es faltbar blieb. Sie hängte die Lederschürze an den Nagel neben der Werkbank, zog das Mieder über das Hemd und schnürte es. Steckte das Blatt unter das Mieder, an die Brust. Holte den Schlüssel vom Haken. Schob das Tor der Werft auf halbe Breite, wie sie es immer tat, wenn sie weg musste und Edric noch nicht da war. Der Zettel mit dem *In der Stadt* lag schon auf der Bank, sie schrieb ihn nie neu.
 
-Sie schlug das Blatt einmal zusammen, sehr vorsichtig, entlang einer Linie, die Haron gezogen hatte, damit das Blatt faltbar blieb. Sie legte es in die Innentasche ihrer Jacke. Holte den Schlüssel vom Haken. Schob das Tor der Werft auf die halbe Breite, wie sie es immer tat, wenn sie weg musste und Edric noch nicht da war. Der Zettel mit dem *In der Stadt* lag schon auf der Bank, sie schrieb ihn nie neu.
+Der Weg zum *Anker* war acht Minuten durch die Hafengasse, am Steg vorbei, wo die Flut höher stand als am Morgen. Die Luft trug Salz und die Algen, die in der Nacht an die Pfähle gedrückt worden waren. Sie ging schnell. Die Schultern waren schon weiter als die Füße.
 
-Der Weg zum *Anker* war acht Minuten durch die Hafengasse, am Steg vorbei, wo die Flut höher stand als sie am Morgen gestanden hatte. Die Luft trug Salz und die Algen, die in der Nacht an die Pfähle gedrückt worden waren. Sie ging schnell. Die Schultern waren schon weiter als die Füße.
-
-Im *Anker* war es noch früh genug, dass der Mittagsbetrieb nicht angefangen hatte. Die Wirtsfrau nickte ihr zu, sie nickte zurück, ging durch den Schankraum in den kleinen Nebenraum, in dem Vesper seinen Reparaturtisch hatte. Die Tür stand einen Spalt offen, wie immer. Ein Streifen Licht aus dem Fenster lag auf dem Holz des Flurs.
+Im *Anker* war es noch früh genug, dass der Mittagsbetrieb nicht angefangen hatte. Der Wirt nickte, Maren nickte zurück. Sie ging durch den Schankraum in den kleinen Nebenraum, in dem Vespers Reparaturtisch stand. Die Tür stand einen Spalt offen, wie immer. Ein Streifen Licht aus dem Fenster lag auf dem Holz des Flurs.
 
 Sie klopfte einmal gegen den Rahmen.
 
-Er saß am Tisch, den Rücken zur Tür, eine Lupe am Auge, über dem Werk einer Taschenuhr, das auf dem schwarzen Samtstoff lag, in drei Gruppen zerlegt. Die rechte Hand hielt eine Pinzette, so klein, dass sie in seinen Fingern aussah, als wäre sie nicht da. Er drehte sich nicht um. Er nahm die Pinzette ab, legte sie quer auf das Tuch, nahm die Lupe aus dem Auge, legte sie neben die Pinzette. Dann drehte er sich um.
+Er saß am Tisch, den Rücken zur Tür, eine Lupe am Auge, über dem Werk einer Taschenuhr, das auf dem schwarzen Samt lag, in drei Gruppen zerlegt. Die rechte Hand hielt eine Pinzette, so klein, dass sie in seinen Fingern aussah, als wäre sie nicht da. Er drehte sich nicht um. Er nahm die Pinzette ab, legte sie quer auf das Tuch, nahm die Lupe aus dem Auge, legte sie neben die Pinzette — in der Reihenfolge wie immer, einen halben Atemzug langsamer. Dann drehte er sich um.
+
+Sein Blick fand sie am Rahmen. Er blieb auf ihr, einen Moment zu lang für ein bloßes Erkennen.
+
+Sie trat ein, schloss die Tür hinter sich — nicht ganz, einen halben Finger breit offen — und ging zu seinem Tisch. Mit jedem Schritt trat die Wärme unter dem Mieder, wo das Blatt lag, weiter in den Hintergrund. Die Schulter, die den ganzen Weg gezogen hatte, hörte auf zu ziehen. Sie atmete ein.
+
+Am Tisch blieb sie stehen.
 
 "Vesper."
 
 "Maren."
 
-Sie trat ein, schloss die Tür hinter sich — nicht ganz, einen halben Finger breit offen — und ging zu seinem Tisch. Holte das Blatt aus der Innentasche. Legte es auf das freie Ende des Samtstoffs, weg vom Uhrwerk, aber auf dieselbe Fläche. Sie faltete es nicht auf. Er würde es auffalten.
+Er sagte den Namen, als hätte er ihn eine Sekunde im Mund gehalten, bevor er ihn aussprach.
 
-"Ich kann das nicht lesen." Sie sah ihn dabei nicht an. Sie sah auf das Blatt. "Du schon."
+Sie holte das Blatt unter dem Mieder hervor. Die Finger waren ruhig. Sie legte es auf das freie Ende des Samts, weg vom Uhrwerk, aber auf dieselbe Fläche. Sie faltete es nicht auf. Er würde es auffalten.
 
-Er antwortete nicht sofort. Er sah auf das Blatt. Dann auf sie. Dann wieder auf das Blatt.
+"Ich kann das nicht lesen." Sie sah ihn dabei nicht an. Sie sah auf das Blatt.
+
+Er antwortete nicht sofort. Er sah auf das Blatt, dann auf sie, dann wieder auf das Blatt — und der zweite Blick, der auf sie, dauerte zwei Atemzüge länger als nötig.
 
 "Darf ich?"
 
@@ -54,13 +60,15 @@ Er antwortete nicht sofort. Er sah auf das Blatt. Dann auf sie. Dann wieder auf 
 
 ---
 
-Er griff mit beiden Händen, an den Kanten, und hob das Papier an, so wie er Uhrengläser hob. Er hielt es ein kurzes Stück vor sich, dann legte er es zurück auf den Samt, drehte die Petroleumlampe eine halbe Umdrehung höher, sodass das Licht auf den Bogen fiel. Dann beugte er sich darüber.
+Er griff mit beiden Händen, an den Kanten, und hob das Papier an, wie er Uhrengläser hob. Er hielt es eine Handbreit vor sich, dann legte er es zurück auf den Samt, drehte die Petroleumlampe eine halbe Umdrehung höher, sodass das Licht auf den Bogen fiel. Dann beugte er sich darüber.
 
 Seine Augen gingen zuerst an den Rand. Umrundeten das Blatt, links oben nach rechts oben, rechts oben nach rechts unten, langsam. Dann erst die Mitte. Die Zeichnung zuletzt.
 
 Er sagte nichts. Seine linke Hand lag flach neben dem Blatt, die rechte am unteren Rand. Er hatte die Lupe nicht wieder ans Auge genommen. Er las ohne Lupe.
 
-Sie stand eine halbe Minute dort, ohne zu wissen, wohin mit sich. Dann sah sie das Notizbuch neben seinem Ellbogen, aufgeschlagen, an der Seite mit den Zählzeichen, die er seit Wochen führte, und sie sah, wie zwischen den Notizbuch-Seiten drei lose Blätter herausstanden, in falscher Reihenfolge. Sie griff danach. Zog sie heraus. Sortierte die Zahlenspalten nach Datum — oben stand das Datum, er schrieb es immer oben rechts — und legte sie in der richtigen Reihenfolge zurück. Er sah kurz auf, sah was sie tat, sah wieder auf das Blatt. Kein Nicken. Kein Dank. Seine linke Hand hatte sich nicht bewegt.
+Eine halbe Minute stand sie dort, ohne zu wissen, wohin mit sich. Dann sah sie das Notizbuch neben seinem Ellbogen, aufgeschlagen, an der Seite mit den Zählzeichen, die er seit Wochen führte. Zwischen den Seiten standen drei lose Blätter heraus, in falscher Reihenfolge. Sie griff danach. Zog sie heraus. Sortierte die Zahlenspalten nach Datum — oben stand das Datum, er schrieb es immer oben rechts — und legte sie in der richtigen Reihenfolge zurück. Er sah kurz auf, sah was sie tat, sah wieder auf das Blatt. "Gut." Kein Nicken, kein weiteres Wort. Seine linke Hand hatte sich nicht bewegt. Sein Atem ging einen Moment tiefer, dann wieder gleich.
+
+Ihre Hände blieben auf dem Tisch. Ruhig. In ihrem Schoß sammelte sich Wärme. Der Mund trocken, die Zunge schwer.
 
 Sie zog eine zweite Kiste heran und setzte sich. Nicht gegenüber, seitlich. Von hier aus sah sie den Bogen von der Seite und seine Hände von oben. Sie wartete. Auf seinen nächsten Griff. Auf seinen nächsten Blick aufs Papier.
 
@@ -74,11 +82,11 @@ Er fragte nach einer Weile. "Wann hast du das bekommen?"
 
 Er nickte einmal. Zog das Notizbuch zu sich, schlug eine leere Seite auf, nahm einen kurzen Bleistift aus der Brusttasche. Begann zu zeichnen: eine Spalte aus den Zählzeichen, die er vorher angelegt hatte. Er verglich. Sie sah, wie sein Finger zwischen dem Blatt und seiner Spalte hin und her ging, wie er an zwei Stellen auf dem Blatt anhielt, den Bleistift leicht hob, dann wieder ansetzte.
 
-"Reich mir das hier." Er deutete mit dem Kinn auf ein kleines Heft, das am Ende der Tischkante lag, in blauem Karton gebunden. Sie nahm es auf, reichte es ihm, ohne es zu öffnen. Er schlug eine Seite im hinteren Drittel auf, legte das Heft so, dass eine Tabelle neben dem Blatt lag. Sie sah, dass die Tabelle Vaeler Registriernummern zeigte, rathausverwaltet. Sie kannte diese Nummern von Handelsurkunden im *Anker*-Zimmer.
+"Reich mir das hier." Er deutete mit dem Kinn auf ein kleines Heft, das am Ende der Tischkante lag, in blauem Karton. Sie nahm es auf, reichte es ihm, ohne es zu öffnen. Er schlug eine Seite im hinteren Drittel auf, legte das Heft so, dass eine Tabelle neben dem Blatt lag. Sie sah, dass die Tabelle Vaeler Registriernummern zeigte. Die Form kannte sie von den Papieren der Werft-Übernahme.
 
 Sie reichte ihm das Papier mit dem langen Maß, bevor er danach griff. Reichte ihm den feinen Stift, als seine Hand an die Seite der Brusttasche ging. Rückte die Lampe, als das Blatt einen Schatten warf. Sie merkte erst beim dritten Griff, dass sie es tat.
 
-Sie sah seinen Bleistift. Sah die kurze Pause vor jedem Strich. Sah die Stelle am Daumen, wo Tinte saß.
+Sie sah seinen Bleistift. Sah die kurze Pause vor jedem Strich.
 
 Sie merkte, dass er einmal aufsah. Nicht lang. Nicht prüfend. Ein Blick, der einen Atemzug länger dauerte als nötig. Sie senkte den Kopf nicht. Und die Haut an ihrem Hals wurde einen halben Grad wärmer, als wäre die Luft dort in Bewegung gekommen.
 
@@ -100,7 +108,7 @@ Er nahm den Bleistift nach unten, zwischen seine Finger. Drehte ihn eine halbe U
 
 "Schlaues Mädchen."
 
-Sie sah auf das Blatt, weil sie nicht wusste, wohin sie sonst sehen sollte, und ihr Atem ging einen Schlag langsamer, ohne dass sie ihn verlangsamt hätte. Das Salz auf ihrer Oberlippe war da, und mit dem Salz kam ein leiser Geschmack von Metall, hinten auf der Zunge, den sie jetzt schon zweimal aus seiner Nähe kannte.
+Sie sah auf das Blatt. Der Atem stockte. Zwischen den Schenkeln eine Hitze, die sich sammelte — ein Puls, der nicht zu ihr gehörte. Ihre Brustwarzen wurden hart, sie spürte sie am Mieder drücken. Salz auf der Oberlippe. Metall hinten auf der Zunge.
 
 Er zog das kleine Heft näher heran, setzte den Bleistift neben eine Zahl in der Tabelle. "Das hier." Er unterstrich eine Ziffernfolge. "Das ist eine Vaeler Registriernummer. Archiv-Kennung. Das Blatt verweist auf ein Dokument, das im Rathauskeller liegt." Er machte eine Pause, nicht aus Unsicherheit. "Oder lag."
 
@@ -112,7 +120,7 @@ Sie stand auf. Ihre Knie meldeten sich knapp, sie hatte zu lange auf der Kiste g
 
 "Ins Archiv."
 
-Er sagte es wie den Namen eines Werkzeugs, das er brauchte. Sie nickte.
+Sie nickte.
 
 ---
 
@@ -148,7 +156,7 @@ Sie wandte sich halb, sah zum Regal links hinter ihr, ging zwei Schritte, zog ei
 
 Sie schlug den zweiten Band auf, blätterte, hielt an: *Dael*, ein Name in einer Zinsliste, registriert im Jahr dreihundertundsechs. "Zweihundertfünfundvierzig Jahre."
 
-Der dritte Band war dünner, ein Stadtverzeichnis der Werftfamilien. Sie schlug ihn hinten auf, dort wo die Nachträge standen, und die Schrift war jünger. *Dahl, Haron, Zuzug Vael, eingetragen als Erbe bei Lene Dahl, TZ vierhundertundneunundvierzig.* Daneben, in einer anderen Hand, ein Randvermerk: *Name bei Übernahme angenommen.*
+Der dritte Band war dünner, ein Stadtverzeichnis der Werftfamilien. Sie schlug ihn hinten auf, dort wo die Nachträge standen, und die Schrift war jünger. *Dahl, Haron, Zuzug Vael TZ fünfhundertvierzehn, adoptiert durch das Werftinhaberpaar als Erbe, eingetragen TZ fünfhundertvierundvierzig.* Daneben, in einer anderen Hand, ein Randvermerk: *Name bei Adoption angenommen.*
 
 Frau Voss legte den Finger nicht auf die Zeile. Sie drehte das Buch so, dass Maren die Schrift las. Maren las sie.
 
@@ -156,27 +164,23 @@ Frau Voss legte den Finger nicht auf die Zeile. Sie drehte das Buch so, dass Mar
 
 "Zwei Jahre."
 
-Sie hatte dreimal *Dahl* vor sich, in drei Schreibweisen, in drei Jahrhunderten. Daneben der Randvermerk: *Name bei Übernahme angenommen*.
+Sie hatte dreimal *Dahl* vor sich, in drei Schreibweisen, in drei Jahrhunderten. Daneben der Randvermerk: *Name bei Adoption angenommen*.
 
-Haron Dahl war nicht Haron gewesen.
+Etwas unter ihrem Brustbein stand schief.
 
-Etwas unter ihrem Brustbein stand schief. Ein Griff, der in die Luft gefasst hatte und kein Holz fand.
+Sie spürte Vespers Schulter, nicht weil sie sie berührte — er stand zwei Handbreit von ihr entfernt —, sondern weil sein Mantel einen Laut machte, als er sich weiter beugte, um die dritte Zeile nachzulesen. Der Stoff gegen Stoff, sein Ärmel gegen die Innenkante des Mantels. Ein kurzes Geräusch. Er legte die linke Hand flach auf den Tresen, zwei Finger breit neben ihrer. Er sah weiter auf das Buch. Er sagte nichts.
 
-Sie spürte Vespers Schulter, nicht weil sie sie berührte — er stand zwei Handbreit von ihr entfernt —, sondern weil seine Jacke einen Laut machte, als er sich weiter beugte, um die dritte Zeile nachzulesen. Der Stoff gegen Stoff, sein Ärmel gegen die Innenkante seines Mantels. Ein kurzes Geräusch. Er legte die linke Hand flach auf den Tresen, zwei Finger breit neben ihrer. Er sah weiter auf das Buch. Er sagte nichts.
-
-Maren atmete einmal ein. Das Brustbein richtete sich. Der Name war kein Halt gewesen. Sie sah auf das dritte Buch, las den Randvermerk noch einmal.
+Maren atmete einmal ein. Das Brustbein richtete sich. Sie sah auf das dritte Buch, las den Randvermerk noch einmal.
 
 "Dahl ist ein Vaeler Name." Frau Voss sprach ruhig, sie wertete nicht. "Lene Dahls Familie hat die Werft seit fast vierhundert Jahren, eine ununterbrochene Linie. Die anderen Eintragungen — die von einhundertneunundvierzig, die von zweihundertfünfundvierzig — sind nicht dieselbe Familie. Der Name taucht auf. Die Person ist eine Weile da. Dann ist sie wieder weg."
 
-"Haron hat Lenes Werft übernommen." Vesper sagte es zur Bestätigung, ohne Frage.
+"Haron wurde von den Dahls adoptiert." Vesper sagte es zur Bestätigung, ohne Frage.
 
-"Ja. Die Übernahme ist dokumentiert. Der Name wurde bei der Übernahme angenommen. Vorher hatte er einen anderen." Sie tippte mit der Fingerspitze neben den Randvermerk, ohne das Papier zu berühren. "Der steht nicht hier. Er steht vielleicht in einem der Nebenregister. Ich müsste nachsehen." Sie blätterte eine Seite zurück, las eine Notiz halblaut: "*Eintrag mit Hilfe geleistet — der Antragsteller verfügte über die Landessprache nur eingeschränkt.*" Sie sah auf. "Das ist von der Hand des Schreibers, der ihn registriert hat. Er hat das oft notiert, wenn jemand erst seit kurzem da war."
+"Ja. Die Adoption ist dokumentiert. Der Name wurde bei der Adoption angenommen. Vorher hatte er einen anderen." Sie tippte mit der Fingerspitze neben den Randvermerk, ohne das Papier zu berühren. "Der steht nicht hier. Er steht vielleicht in einem der Nebenregister. Ich müsste nachsehen." Sie blätterte eine Seite zurück, zum Zuzugs-Eintrag, las eine Notiz halblaut: "*Eintrag mit Hilfe geleistet — der Antragsteller verfügte über die Landessprache nur eingeschränkt.*" Sie sah auf. "Das ist von der Hand des Schreibers, der ihn damals registriert hat, als er hier ankam. Er hat das oft notiert, wenn jemand erst seit kurzem da war."
 
 Fünf Jahre Briefe in sauberem Thalassisch. Maren hörte die Notiz, ohne nachzufragen.
 
-Im Hintergrund, am zweiten Tresen, der kleiner war und hinter einer halben Trennwand stand, sortierte eine jüngere Frau Akten. Mittelblondes Haar, zu einem straffen Knoten gebunden. Dunkle Handschuhe, wie sie Archivare trugen, wenn sie alte Papiere anfassten. Maren hatte sie beim Eintreten gesehen, am Rand, wie man ein Regal sah, wenn der Blick auf den Menschen am Tresen ging. Jetzt, beim zweiten Hinschauen, sah sie die Handbewegung. Die junge Frau nahm einen Aktenhefter, schlug ihn auf, legte ein Blatt um, schlug ihn zu, legte ihn auf den Stapel rechts. Nahm den nächsten. Die Bewegung war gleichmäßig. Zu gleichmäßig. Maren hatte viele sortieren sehen — in der Speicherhalle in Solha, in den Kontoren am Hafen, an den Werftboten. Niemand sortierte so. Eine Hand, die liest und entscheidet, gleicht sich nicht so.
-
-Maren zog keinen Schluss. Sie merkte es.
+Im Hintergrund, am zweiten Tresen, der kleiner war und hinter einer halben Trennwand stand, sortierte eine jüngere Frau Akten. Mittelblondes Haar, zu einem straffen Knoten gebunden. Dunkle Handschuhe, wie sie Archivare trugen, wenn sie alte Papiere anfassten. Maren hatte sie beim Eintreten gesehen, am Rand, wie man ein Regal sah, wenn der Blick auf den Menschen am Tresen ging. Jetzt, beim zweiten Hinschauen, sah sie die Handbewegung. Die junge Frau nahm einen Aktenhefter, schlug ihn auf, legte ein Blatt um, schlug ihn zu, legte ihn auf den Stapel rechts. Nahm den nächsten. Die Bewegung war gleichmäßig. Zu gleichmäßig. Maren hatte viele sortieren sehen — in der Speicherhalle in Solha, in den Kontoren am Hafen, in den Werft-Büros. Niemand sortierte so. Eine Hand, die liest und entscheidet, gleicht sich nicht so.
 
 "Meine Nichte Jara." Frau Voss war ihrem Blick gefolgt. "Sie hilft hier seit dem Winter."
 
@@ -206,16 +210,16 @@ Maren ging ein wenig vor. Oder neben ihm. Er sprach nicht. Sie sprach nicht. Am 
 
 Sie blieb stehen. Setzte sich nicht — sie hockte sich an den Rand, wo der Weg zwei Handbreit über dem Wasser lag, die Füße flach auf dem Holz, die Ellbogen auf den Knien, eine Hand ausgestreckt, eine Daumenbreite über der Oberfläche. Ihre Hand war dort, bevor sie es geplant hatte.
 
-Das Wasser antwortete. Ohne dass sie die Finger senkte. Eine Kräuselung, dort, wo ihre Hand in der Luft stand. Ein leises Drehen der Wellen gegen die Strömung, die zum Meer zog — ein halber Kreis, groß wie eine Suppenschüssel, der sich schloss, sich wieder öffnete, noch einmal schloss. Das Wasser tat es. Sie sah zu. Sie rief es nicht. Sie hielt es nicht. Es geschah. Sie bemerkte es wie den eigenen Atem.
+Das Wasser antwortete. Ohne dass sie die Finger senkte. Eine Kräuselung, dort, wo ihre Hand in der Luft stand. Ein leises Drehen der Wellen gegen die Strömung, die zum Meer zog — ein halber Kreis, groß wie eine Suppenschüssel, der sich schloss, sich wieder öffnete, noch einmal schloss. Das Wasser tat es. Sie sah zu. Sie rief es nicht. Hielt es nicht. Es geschah.
 
 Vesper stand zwei Schritte hinter ihr. Er sprach nicht. Die Sohle seines Stiefels setzte nicht um. Er sah das Wasser. Oder er sah ihren Rücken. Sie wusste nicht, was er sah. Sie brauchte es nicht zu wissen.
 
 Sie blieb. Auf dem Holz des Uferwegs, in der Hocke, mit dem Finger eine Daumenbreite über dem Wasser. Sie blieb.
 
-Sie stand auf. Die Kniee meldeten sich, das Holz unter ihren Sohlen gab eine halbe Rille nach, weil die Dielen an diesem Teil des Wegs weich waren von der Feuchte. Sie drehte sich nicht zu ihm. Sie ging weiter, und er ging weiter. Oben am Speicherbau, zwischen den fensterlosen Wänden des Lichthauses, brannte ein einzelnes schmales Licht, das auf dem Wasser als gelber Strich lag. Sie sah einmal hin. Dann ging sie weiter.
+Sie stand auf. Die Knie meldeten sich, das Holz unter ihren Sohlen gab eine halbe Rille nach, weil die Dielen an diesem Teil des Wegs weich waren von der Feuchte. Sie drehte sich nicht zu ihm. Sie ging weiter, und er ging weiter. Oben am Speicherbau, zwischen den fensterlosen Wänden des Lichthauses, brannte ein einzelnes schmales Licht, das auf dem Wasser als gelber Strich lag. Sie sah einmal hin. Dann ging sie weiter.
 
 An der Ecke, wo sich der Weg zur Werft von dem Weg zum *Anker* trennte, blieb Vesper einen halben Schritt hinter ihr stehen. Sie drehte sich. Er nickte. Sie nickte.
 
-Sie ging zur Werft. Edric war zurück, hörte sie am Tor — die Lärche stand abgedeckt in der hinteren Ecke, der alte Segelstoff lag darüber wie jeden Tag. Sie legte die Jacke ab. Die Innentasche war leer. Sie trat an die Werkbank, nahm den Hobel, legte ihn zurück auf den Platz. Unter ihrer Handfläche war das Holz warm vom Nachmittagslicht.
+Sie ging zur Werft. Edric war zurück, hörte sie am Tor — die Lärche stand abgedeckt in der hinteren Ecke, der alte Segelstoff lag darüber wie jeden Tag. Sie zog die Hand unter das Mieder. Leer. Sie trat an die Werkbank, nahm den Hobel, legte ihn zurück auf den Platz. Unter ihrer Handfläche war das Holz warm vom Nachmittagslicht.
 
 In der Kajüte tickte die Uhr.
