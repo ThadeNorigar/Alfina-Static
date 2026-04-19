@@ -90,7 +90,7 @@ Alphina schob den Bleistift zurück in die Bindung, klappte das Notizbuch zu und
 
 Sie ging an Maren vorbei, ohne den Blick zu heben. Am Werft-Tor blieb sie stehen. Eine Hand lag auf dem Türrahmen, die andere hielt das Notizbuch gegen den Oberschenkel. Sie drehte sich nicht mehr um, aber die Knöchel an der Hand auf dem Rahmen waren weiß, einen halben Atemzug zu lang.
 
-„Halt das Tor zu. Ich gehe in den Garten, will sehen, ob oben auch welche stehen. Rede heute Abend mit Vesper. Morgen früh zu Jara Voss ins Archiv, alle vier."
+„Halt das Tor zu. Ich gehe in den Garten, will sehen, ob oben auch welche stehen. Rede heute Abend mit Vesper. Morgen früh ins Archiv, alle vier."
 
 Dann zog sie das Tor einen Spalt auf, trat hinaus in den Nebel der Hafengasse, und das Tor schloss sich hinter ihr ohne Laut.
 
@@ -180,7 +180,7 @@ Er sagte es, ohne den Blick zu heben. Es war die erste Antwort auf das Blatt, be
 
 Er hob das Blatt zwischen Daumen und Zeigefinger an, hielt es gegen die Petroleumlampe. Das Licht ging nicht durch — das Blatt war zu dick.
 
-„Sie geht morgen mit uns ins Archiv, zu Jara Voss."
+„Sie geht morgen mit uns ins Archiv."
 
 „Alle vier?"
 

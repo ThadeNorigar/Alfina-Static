@@ -11,17 +11,21 @@
 
 **Wortziel:** 1.100–1.300 W
 
-Am späten Vormittag klopft Vesper an Alphinas Tür. Er hat eine Nachricht von Esther Voss aus dem Rathauskeller — Jara hat etwas gefunden, Esther will alle vier dabei haben, er soll die Pflanzen-Frau bringen. Vesper benutzt Esthers Wort, nicht sein eigenes. Alphina holt Mantel und Notizbuch. Sorel ist in den Tagen nach K21 häufig bei ihr, auch in dieser Nacht, er kommt mit. Maren hat Vesper auf dem Weg getroffen, sie wartet am Rathausplatz.
+Am späten Vormittag klopft Vesper an Alphinas Tür — zwei Knöchel, kurz, der Takt den sie seit K11 kennt. Er hat einen Brief in der Hand, Esther Voss, drei Zeilen. Alphina liest mit, ohne ihn aus der Hand zu nehmen. Jara hat weiter gesucht, sie hat mehr gefunden, sie sollen so bald wie möglich kommen, Maren mitbringen. Mehr steht nicht.
 
-Der Weg durch Vael: Frühsommer, bedeckt, Grauwe-Wind um die Ecken. Alphina kennt den Rathausplatz als Passage, nie als Ziel. Heute das erste Mal, dass sie die Kellertreppe hinuntergeht. Purpurstein-Treppenkanten, abgetreten. Die Luft wird kühler, dann trocken, dann anders — Papier, Leder, alter Staub. Kein Pflanzen-Raum, kein Wachstum. Sie registriert, dass sie das als Fehlen bemerkt.
+Sorel ist in dieser Nacht bei ihr gewesen — seit K21 ist er das häufiger — sitzt im Hinterzimmer, hört mit. Alphina sieht Vesper an. Vesper wartet nicht lange. Er sagt nur: "Ich hole Maren in der Werft. Kommt ihr." Keine Frage, Satz. Alphina nimmt Mantel und Notizbuch. Sorel nimmt den Schal vom Stuhl. In den drei Tagen seit der Pflanze fragt niemand mehr, wer mitkommt.
 
-Esther empfängt sie im vorderen Raum, grauhaarig, schmal, Schlüsselbund am Gürtel. Nickt Vesper zu wie einem wiederkehrenden Gast. Alphina wird vorgestellt als "die Pflanzen-Frau aus Velde" — Esther benutzt denselben Ausdruck wie in der Nachricht, ohne Ironie. Jara im Hintergrund, jung, Tinte an den Fingern, sie trägt ein Foliant unter dem Arm wie etwas das brennt. Sie nickt Maren zu, kurz, als ob das Vorgespräch aus K20 nicht erklärt werden muss.
+Der Weg: erst die Hafengasse hinunter zur Werft. Frühsommer, bedeckt, Grauwe-Wind um die Ecken. Alphina ist dort noch nie gewesen, sieht zum ersten Mal, wo Maren arbeitet — ein Holzschuppen mit Steinmauer, das Tor angelehnt. Vesper klopft an den Rahmen und ruft Maren halblaut beim Namen. Maren kommt heraus, Pech an den Fingern, Schürze halb gelöst. Vesper zeigt den Brief. Maren liest, nickt, sperrt das Tor ab ohne zu fragen. Vier Schritte dauert es, bis sie nebeneinander gehen, drei vor, Maren hinterher eingefädelt, Hand noch am Schlüssel am Gürtel.
+
+Vom Hafen den Aufstieg zur Oberstadt. Rathausplatz, Purpurstein, zwei Kutschen am Rand, niemand eilig. Alphina kennt den Platz als Passage, nie als Ziel. Heute das erste Mal, dass sie die Kellertreppe hinuntergeht. Treppenkanten, abgetreten. Die Luft wird kühler, dann trocken, dann anders — Papier, Leder, alter Staub. Kein Pflanzen-Raum, kein Wachstum. Sie registriert, dass sie das als Fehlen bemerkt.
+
+Esther öffnet die Tür zum vorderen Raum und sieht vier statt zwei. Eine halbe Sekunde Pause, die Alphina als Irritation liest, unausgesprochen. Esther ist grauhaarig, schmal, Schlüsselbund am Gürtel; sie nickt Vesper zu wie einem wiederkehrenden Gast, Maren ebenfalls. Die zwei Fremden registriert sie ohne Geste. Vesper stellt knapp vor: "Freunde von uns." Kein Name, kein Kontext, keine Begründung. Esther nickt, einmal. Sie drückt Vesper nicht, sie drückt niemanden. Jara, hinter ihrer Tante, sieht Alphina und Sorel länger an als höflich wäre, ohne den Blick zu senken, als sie bemerkt wird — jung, Tinte an den Fingern, ein Foliant unter dem Arm wie etwas das brennt. Sie hat gefunden, was sie gefunden hat, und fragt sich im Stillen, ob diese beiden Fremden der Grund sind, warum.
 
 Der hintere Raum ist eng. Regale aus dunklem Holz bis zur Decke. Ein Lesetisch in der Mitte, zwei Kerzen in Halterungen an der Wand, eine Öllampe auf dem Tisch. Platz für drei Menschen, nicht sechs. Esther zieht die Tür zu. Alle vier stehen um den Tisch, Esther und Jara dahinter.
 
 Dann: die Luft kippt. Nicht mit Getöse. Eine der Kerzen flackert einmal lang zur Seite, obwohl die Tür geschlossen ist und niemand sich bewegt hat. Die Öllampe brennt ruhig. An einem der oberen Regale rutscht ein Folianten-Stapel einen Finger breit vor, kippt nicht, bleibt schief. Ein Staubschleier löst sich und bleibt in der Luft, zu lange, bevor er sinkt. Alle sechs sehen es. Niemand sagt es aus.
 
-Alphina spürt ihre Fingerspitzen kribbeln, die Art von Kribbeln, die sie aus dem Steinkreis kennt. Bei Vesper zuckt der Kiefer. Maren schiebt sich einen halben Schritt näher an den Tisch. Sorel hat die Hand in der Manteltasche, wo er die Kupfermünze trägt, die er vor zwei Wochen nicht mehr erklären kann. Esther sagt: "Das passiert seit Jara das hier gefunden hat." Sie deutet auf das Manuskript auf dem Tisch. Sie sagt es sachlich, als ob sie "die Tür klemmt seit Donnerstag" sagen würde. Aber sie sagt es leiser als den ersten Satz.
+Alphina spürt ihre Fingerspitzen kribbeln, die Art von Kribbeln, die sie aus dem Steinkreis kennt. Bei Vesper zuckt der Kiefer. Maren schiebt sich einen halben Schritt näher an den Tisch. Sorel hat die Hand in der Manteltasche — die Kupfermünze darin, Alphina hat sie seit Wochen an ihm registriert, ohne ihn je danach zu fragen. Esther sagt: "Das passiert seit Jara das hier gefunden hat." Sie deutet auf das Manuskript auf dem Tisch. Sie sagt es sachlich, als ob sie "die Tür klemmt seit Donnerstag" sagen würde. Aber sie sagt es leiser als den ersten Satz.
 
 **Dialog-Informationen:**
 - Alphina erfährt: Esther hat Vesper als vertrauten Gast vom ersten Besuch; Jara hat mit Maren in K20 schon Kontakt gehabt. Alphina ist die Neue hier.
@@ -52,11 +56,15 @@ Alphina spürt ihre Fingerspitzen kribbeln, die Art von Kribbeln, die sie aus de
 
 Auf dem Lesetisch liegt das Manuskript aufgeschlagen. Leder, gebrochener Rücken, Seiten nicht gebunden sondern lose in einer Mappe. Jara hat es orientiert — die beschriebene Seite zu den vieren. Vesper kennt den vorderen Teil aus K20. Alphina sieht es zum ersten Mal.
 
-Sie setzt sich nicht. Die anderen stehen auch. Esther hält die Öllampe höher.
+Bevor Alphina die Seite liest, spricht Esther zum ersten Mal mehr als einen halben Satz. Sie habe in den Tagen nach Vespers letztem Besuch eine Signatur gesucht — das Manuskript sei nicht anonym, wie sie gedacht hätten. Jara habe die Hand mit einer Eintragung im Namens-Register abgeglichen, der Register-Band TZ 150 bis 180 habe mehrere Stellen derselben Schrift geführt. Das Manuskript sei von einer Lene Dahl, Schreiberin im Rathaus, aktiv um TZ 154. Jara schiebt den Register-Band halb auf, zeigt eine kurze Passage, derselbe Duktus wie das Manuskript. Esther fügt hinzu, ruhig, ohne Betonung: dieselbe Familie wie der Name, den Maren ihr beim letzten Mal gebracht hat. Vier Jahrhunderte dazwischen, aber dieselbe Linie.
+
+Maren steht, wo sie steht, eine halbe Umdrehung am Tisch. Sie sagt nichts. Sie nickt einmal, als sei eine Frage beantwortet, die sie nicht laut gestellt hat. Alphina registriert die Stille, ohne die Dahl-Verbindung selbst durchrechnen zu können — für sie ist Haron nur der Name des Werftvorbesitzers, den Maren in den letzten Wochen zweimal erwähnt hat. Für Maren ist es etwas anderes. Alphina merkt sich, dass Maren jetzt ruhiger steht als vor einer Minute; das ist bei Maren das Zeichen, dass etwas gelandet ist.
+
+Esther hält die Öllampe höher.
 
 Alphina liest die aufgeschlagene Seite zuerst im Stillen. Die Handschrift ist eng, braun verblasst, aber lesbar. Alte Orthographie, schwer aber machbar. An mehreren Stellen Löcher im Papier, Ränder weggefressen, ein Absatz fehlt ganz. Was steht, steht klar: eine Schwelle, die nur geöffnet werden kann, wenn vier Fremde zu gleicher Zeit an einem Kreis aus Purpurstein stehen. Jede Fremde trägt eine Art des Hörens: Pflanze, Uhrwerk, Licht, Wasser. Keine der vier darf von einer Moragh-Quelle wissen, bevor sie die Schwelle betritt. (Was "Moragh" ist, sagt der Text nicht — das Wort steht da wie ein Ort, den der Schreiber kennt.)
 
-Alphina liest die Passage laut. Esther hat darum gebeten, mit einer Geste, ohne Wort — sie will hören, ob Alphinas Stimme denselben Text anders zeichnet als Vespers. Alphinas Stimme bleibt ruhig. Ihre Hände nicht; die rechte hält den Blattrand zu fest. Nach dem Lesen ist eine Pause, in der niemand zuerst sprechen will.
+Alphina liest die Passage laut. Esther hat darum gebeten, mit einer Geste, ohne Wort — als wolle sie hören, ob diese Stimme denselben Text anders zeichnet. Alphinas Stimme bleibt ruhig. Ihre Hände nicht; die rechte hält den Blattrand zu fest. Nach dem Lesen ist eine Pause, in der niemand zuerst sprechen will.
 
 Maren, leise: Das ist der Garten. Der Kreis im Botanischen Garten. Sie hat ihn nie betreten, aber sie hat durch Harons Werft-Papiere von einem Achteck aus Purpurstein gewusst, das unter Vael liegen soll — Edrics Erzählung, K08. Alphina bestätigt mit einem Nicken: der Kreis im Text ist der Kreis, in dem nichts wächst, den sie seit Monaten misst.
 
@@ -73,20 +81,22 @@ Alphina sieht Sorel an. Sie hat nicht gewusst, dass er es körperlich wahrnimmt,
 Esther, leise: Jara hat noch etwas. Bevor wir das hier lesen, will sie, dass Sie das andere sehen.
 
 **Dialog-Informationen:**
+- Alphina erfährt: Das Manuskript stammt von Lene Dahl, Schreiberin im Rathaus um TZ 154 — also fast vierhundert Jahre alt. Dieselbe Familienlinie wie der Name Dahl, den Maren hineingebracht hat.
 - Alphina erfährt: Der Manuskript-Text beschreibt einen Kreis aus Purpurstein, vier Fremde, eine Schwelle. Das Wort "Moragh" taucht als Ortsname auf — es existiert in der Welt des Textes, niemand am Tisch kennt den Ort.
 - Alphina erfährt: Die Randnotizen wurden zwischen letzten Dienstag und gestern angebracht — jemand hat Zugang zum verschlossenen Archiv. Die einzige Schlüsselinhaberin (Esther) scheidet aus, sonst hätte sie nicht eingeladen.
-- Maren erfährt (Alphina beobachtet): Der Kreis unter Vael, von dem Edric sprach, ist der Kreis im Text. Harons Symbolblatt aus K20 wird jetzt rückwirkend verständlich.
+- Maren erfährt (Alphina beobachtet die Stille): Der Kreis unter Vael, von dem Edric sprach, ist der Kreis im Text. Harons Symbolblatt aus K20 wird jetzt rückwirkend verständlich. Die Dahl-Linie reicht vier Jahrhunderte zurück, bis zur Autorin des Manuskripts, das ihr eigener Vorbesitzer offenbar gekannt haben muss. Maren spricht es nicht aus. Alphina liest ihr Ruhigerwerden als Landung einer Erkenntnis.
 - Sorels Beat (Alphina registriert): Er sieht, wenn ihre Magie unbewusst wirkt. Er nimmt ihre Hand weg — ohne zu erklären.
-- Alphinas Erkenntnis am Ende der Szene: Sie ist in dem Text. Vier Fremde, Kreis aus Purpurstein. Wenn das eine Anleitung ist, ist die Anleitung für sie geschrieben.
+- Alphinas Erkenntnis am Ende der Szene: Sie ist in dem Text. Vier Fremde, Kreis aus Purpurstein. Wenn das eine Anleitung ist, ist die Anleitung für sie geschrieben — und jemand hat sie vor fast vierhundert Jahren geschrieben.
 
 **Tschechow-Waffen geladen:**
+- Lene Dahl als Autorin des Manuskripts (TZ 154, Schreiberin im Rathaus) — dieselbe Familienlinie wie Haron. Feuert in Buch 2/3, wenn klar wird, was die Dahl-Linie ist und was Haron dort fortgesetzt oder verraten hat.
 - Das Wort "Moragh" im Text — Alphina hat es jetzt gehört, kennt den Begriff nicht als Ort, nur als Wort. Feuert in K27/K28, wenn sie durch das Sprachbuch mehr lernt. Und im Moragh-POV.
 - Die fremde Randnotiz-Hand — Varens Hand, ungenannt. Feuert, wenn Alphina die Handschrift wiedersieht (K35+).
 - Sorel spürt Alphinas unbewusste Magie — Setup für die Bruch-Szene K25 (er hat sie lange gespürt, auch bevor er es zugab).
 - Die vier Hör-Arten (Pflanze, Uhrwerk, Licht, Wasser) explizit benannt — Ritualpraxis in Akt IV.
 
 **Tschechow-Waffen abgefeuert:**
-- K20: Harons Symbolblatt. Jetzt: verbunden mit dem Manuskript-Kreis über Edrics Erzählung und Marens Gedächtnis.
+- K20: Harons Symbolblatt und der Name Dahl im Register. Jetzt: das Register liefert eine zweite Dahl — Lene, vierhundert Jahre früher, Autorin des Manuskripts. Die Linie steht, und Haron ist ihr jüngstes sichtbares Glied.
 - K08 (Maren): Edric sprach von einem Achteck aus Purpurstein unter Vael. Jetzt: der Kreis im Garten ist das, was Edric nur vom Hörensagen kannte.
 - K12+ (Alphina): Sie misst den Steinkreis-Puls seit Monaten. Jetzt weiß sie, was sie da misst — oder mindestens, dass der Kreis in einem fremden, sehr alten Text als Schwellen-Aktivator beschrieben wird.
 
@@ -177,6 +187,7 @@ Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte
 - Der Steinkreis im Botanischen Garten ist ihr seit Monaten vertraut als Puls, nicht als Ritual-Ort
 
 **Was weiß sie am Ende?**
+- Das Manuskript ist von Lene Dahl, TZ 154, Schreiberin im Rathaus — also fast vierhundert Jahre alt, und aus derselben Familienlinie wie Harons Name, den Maren mitgebracht hat
 - Ein Ritual existiert: vier Fremde, ein Kreis aus Purpurstein, eine Schwelle
 - Der Kreis im Ritual ist der Steinkreis im Botanischen Garten
 - Die vier Hör-Arten sind Pflanze, Uhrwerk, Licht, Wasser — das sind sie
