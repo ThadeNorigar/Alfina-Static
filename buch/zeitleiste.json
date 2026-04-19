@@ -997,13 +997,13 @@
       "typen": [
        "wohnort"
       ],
-      "titel": "Maren bezieht den Anker",
+      "titel": "Maren bezieht Harons Haus",
       "tz_tag": 83,
       "datum_text": "24. Saatmond 551 TZ",
       "figur": "Maren",
-      "ort": "Gasthaus Zum Anker, Hafengasse",
+      "ort": "Harons Haus, Hafengasse (fünf Straßen nördlich der Werft)",
       "stadt": "Vael",
-      "detail": "Der Wirt — breit, grau, Kinn aus Purpurstein — gibt ihr einen Schlüssel und fragt nicht wie lange sie bleibt.",
+      "detail": "Erste Nacht in der Pension Zum Hafenlicht (Übergangsquartier). Am dritten Tag übergibt der Notar Harons geerbtes Haus: kleine Wohnung am unteren Ende der Hafengasse, fünf Straßen von der Werft, drei Minuten zu Fuß. Harons Ölmantel hängt noch am Haken.",
       "buch": "B1",
       "kapitel_status": "final",
       "pov": "Kap 04 - Maren"
@@ -1207,7 +1207,7 @@
       "figur": "Vesper",
       "ort": "Gasthaus Zum Anker, Hafengasse",
       "stadt": "Vael",
-      "detail": "Zweiter Stock. Selber Wirt, selbes Haus wie Alphina und Maren. Arbeitet tagsüber im Tidemoor-Haus an der Standuhr.",
+      "detail": "Zweiter Stock. Selber Wirt, selbes Haus wie Alphina. Arbeitet tagsüber im Tidemoor-Haus an der Standuhr.",
       "buch": "B1",
       "kapitel_status": "final",
       "pov": "Kap 07 - Vesper"
@@ -1974,8 +1974,8 @@
       "pov": "Kap 22 · Maren",
       "tz_tag": 142,
       "datum_text": "22. Blütenmond 551 TZ",
-      "ort": "Gasthaus Zum Anker, Hafen",
-      "detail": "Tage nach dem Kampf. Maren findet eine Pflanze im Treppenhaus — flache Blaetter, falsche Jahreszeit, kein Thalassien-Gewaechs. Alphina erkennt sie nicht. Der Riss sickert unkontrolliert, ohne Varens Zutun. Hafenwasser waermer als es sein sollte.",
+      "ort": "Werft Dahl, Hafen, Gasthaus Zum Anker",
+      "detail": "Tage nach dem Kampf. Maren findet beim Aufschliessen der Werft eine Pflanze — sie waechst aus der Fuge zwischen Holzboden und Steinmauer, genau dort, wo in K08 das Wasser rueckwaerts hereinsickerte. Flache Blaetter, falsche Jahreszeit, kein Thalassien-Gewaechs. Alphina (spaeter im Anker geholt) erkennt sie nicht. Der Riss sickert unkontrolliert, ohne Varens Zutun. Hafenwasser waermer als es sein sollte.",
       "tags": [
        "Unkontrollierter Riss: Flora sickert durch",
        "Setup: Eskalation"

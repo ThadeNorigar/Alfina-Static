@@ -168,7 +168,7 @@ Sie ging.
 ---
 
 
-Der Gasthof hieß "Zum Anker." Der Wirt gab ihr einen Schlüssel und fragte nicht wie lange sie blieb.
+Die Pension hieß "Zum Hafenlicht." Der Wirt gab ihr einen Schlüssel für die erste Nacht und fragte nicht, ob sie länger blieb. Der Notar würde ihr am nächsten Morgen Harons Haus übergeben — Papiere, zwei Unterschriften, dann der Gang zur Hafengasse. Für heute reichten vier Wände.
 
 Das Zimmer war klein. Kerze auf dem Tisch, ein Bett, ein Stuhl, ein Fenster das auf den Marktplatz ging, und vor dem Fenster der Nebel, der jetzt, am Abend, dichter war als am Morgen, als hätte die Stadt die Luft angezogen und hielte sie fest. Die Wände rochen nach Kalk und nach dem Rauch des Kamins im Erdgeschoss, der durch die Decke sickerte, und die Dielen knarrten unter ihren Stiefeln, jede einzelne an einer anderen Stelle, und Maren ging den Raum ab, einmal, zweimal, die Hände an den Wänden, die Finger auf dem rauen Putz. Gewohnheit. In Solha hatte sie die Zimmer abgegangen. In Thessa. Auf dem Frachtschiff die Kabine, drei Schritte in jede Richtung. Den Raum kennenlernen, bevor der Raum sie kennenlernte.
 
@@ -204,7 +204,7 @@ Das Wasser lag da. Reglos. Heiß. Es dampfte leicht, ein dünner Schleier über 
 
 Maren stand auf. Zu schnell — das Wasser schwappte über den Rand, auf die Dielen. Laut. Wasser auf Holz, ein Klatschen das in dem kleinen Zimmer nachhallte. Sie stand in der Wanne, nackt, tropfend. Ihre Haut war warm dort wo das Wasser sie berührt hatte und kalt dort wo die Luft sie traf. Sie stieg aus der Wanne, ein Bein, das andere. Das Wasser lief an ihr herunter, bildete eine Pfütze auf den Dielen, und Maren stand da und schaute auf die Wanne.
 
-Das Wasser war still. Dampf stieg auf. Kein Strudel. Kein Kräuseln. Nur Wasser in einer Zinkwanne in einem Gasthof in einer Stadt, in der sie niemanden kannte.
+Das Wasser war still. Dampf stieg auf. Kein Strudel. Kein Kräuseln. Nur Wasser in einer Zinkwanne in einer Pension in einer Stadt, in der sie niemanden kannte.
 
 Sie wickelte sich ins Laken. Der Stoff war rau auf nasser Haut, kratzte an der Schulter, an der Hüfte. Sie setzte sich aufs Bett. Das Bettgestell ächzte, ein leises Knarren. Ihre Finger rochen nach Metall, nach dem Wannenrand. In ihrer Brust das Pochen, das auf dem Steg angefangen hatte und nicht aufhörte. Die Kerze flackerte. Ihr Schatten an der Wand, groß und verzerrt, eine Frau die saß und nicht ging.
 

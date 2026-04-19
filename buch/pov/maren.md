@@ -25,7 +25,7 @@ Drei Register, nie »Jacke«:
 
 ## Wissensstand-Anker (Stand nach Kap 08)
 
-- **Vael:** Ankunft aus Solha via Fischerboot. Fünf Wochen in der Stadt. Kennt den Steg, die Gassen, den Marktplatz, die Werft, den Gasthof "Zum Anker".
+- **Vael:** Ankunft aus Solha via Fischerboot. Fünf Wochen in der Stadt. Erste Nacht in der Pension "Zum Hafenlicht", ab Tag 3 in **Harons geerbtem Haus** (Hafengasse, fünf Straßen nördlich der Werft, drei Minuten zu Fuß). Kennt den Steg, die Gassen, den Marktplatz, die Werft. Den Gasthof "Zum Anker" betritt sie erst in K14 (zur Uhren-Reparatur bei Vesper) — sie hat dort nie gewohnt und keine der anderen drei dort je gesehen.
 - **Haron Dahl:** Fünf Jahre Briefwechsel, nie getroffen. Moragh-Agent Varens — das weiß sie nicht. Sein Papier mit unbekannten Symbolen in der Werkbank-Leiste gefunden (K08), in K20 Vesper gezeigt und gemeinsam ins Stadtarchiv gebracht. Nach K20 weiß sie: Haron kam mit ~16 nach Vael (TZ 514), arbeitete 30 Jahre in der Werft, wurde TZ 544 von **Anen und Meren Dahl** (kinderlos, letztes Paar der 400-Jahre-Linie seit Gründerin Lene Dahl, TZ 151) adoptiert, Name bei Adoption angenommen. Er kannte den Steinkreis im Garten, hatte das Ritual-Diagramm sorgfältig gezeichnet und versteckt — Grund unbekannt. Das Papier liegt im Archiv bei Esther Voss (ein bis zwei Tage, dann Nachricht in den *Anker*).
 - **Edric:** Geselle, sieben Jahre bei Haron. Erster Kontakt. Neutrale Vertrauensbasis.
 - **Tohl Daverin:** Fischer. Hat ihr gezeigt, dass die Grauwe rückwärts fließt. Sagt es niemandem sonst.

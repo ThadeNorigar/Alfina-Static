@@ -188,7 +188,7 @@ Jara hob den Kopf, nickte kurz, sah nicht lang. Ihre Augen waren ruhig, ihre Han
 
 Vesper hatte das Blatt in der Hand. "Darf ich es bei Ihnen lassen?"
 
-"Einen Tag oder zwei. Ich schlage in den Nebenregistern nach. Wenn sich der Name oder die Zeichen sonst irgendwo finden lassen, schicke ich Nachricht in den *Anker*." Sie sah Maren an. "An Sie beide?"
+"Einen Tag oder zwei. Ich schlage in den Nebenregistern nach. Wenn sich der Name oder die Zeichen sonst irgendwo finden lassen, schicke ich Nachricht." Sie sah Vesper an, dann Maren. "An Sie, Herr Greve, in den *Anker*. Und an Sie, Frau Ilves, in die Hafengasse."
 
 "An Herrn Greve."
 

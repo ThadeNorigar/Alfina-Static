@@ -182,6 +182,8 @@ Dann nahm sie den Abendweg durch die Unterstadt, die Gassen voll mit der abendli
 
 Auf dem Marktplatz brannte schon eine Gaslampe, früh, die erste des Abends. Unter der Lampe standen zwei Männer und redeten halblaut über etwas, das sie nicht interessierte. An der Ecke der Anker-Gasse hing das geschmiedete Anker-Zeichen schief, wie immer. Das Scharnier war trocken. Sie hätte es in einer Viertelstunde richten können, mit dem Öl aus der Werft. Sie richtete es nicht. Ihre Hände waren heute nicht für fremde Angeln.
 
+Harons Haus hatte ihr der Notar am dritten Tag übergeben, mit einem Bescheid und zwei Unterschriften. Eine kleine Wohnung am unteren Ende der Hafengasse, fünf Straßen von der Werft, drei Minuten zu Fuß. Harons Ölmantel hatte noch am Haken gehangen. Sie hatte ihn abgenommen, die Taschen geleert, den Mantel in die Truhe gelegt und nicht wieder berührt.
+
 In ihrer Wohnung zog sie die Stiefel aus. Setzte sich auf die Bettkante. Die Handgelenke innen waren noch warm.
 
 Sie hatte einen Namen bekommen an diesem Morgen. *Alphina.* Sie hatte ihn noch nicht gebraucht. Sie würde ihn morgen oder übermorgen brauchen, wenn die Frau, die Pflanzen dazu brachte, etwas zu tun, das sie nicht sollten, den Weg zur Werft fand oder sie den Weg dorthin.
@@ -192,6 +194,6 @@ Sie legte sich nicht hin. Sie saß lange so.
 
 Vor dem Fenster lief die Hafengasse weiter. Ein Rad über Kopfsteinpflaster. Eine Tür, die schlug. Eine Katze, die irgendwo einen langen Ton zog.
 
-Die Uhr in ihrer Kajüte tickte, an der Werft, zwanzig Straßen entfernt.
+Die Uhr in ihrer Kajüte tickte, an der Werft, fünf Straßen entfernt.
 
 Irgendwann zog sie die Hose aus, das Arbeitshemd über den Stuhl, die Lederschürze auf den Haken. Die Kleider rochen nach Werft, Sägespäne und dem schwarzen Tee aus Solha. Sie legte sich im Leinenhemd ins Bett, zog die Decke bis an die Schultern, und die Handgelenke innen, die Stellen, an denen die Wärme seit dem Morgen stand, legte sie auf den Bauch, weil keine Stelle an diesem Bett sie hätte kühler halten können als die andere.

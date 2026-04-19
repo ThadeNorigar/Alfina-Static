@@ -1,23 +1,39 @@
 # B1-K22 — Maren — Entwurf
 
 **POV:** Maren (3. Person nah, Präteritum)
-**Timeline:** 24. Blütenmond 551 TZ · Tag nach K21, zwei Tage nach K19 (dem Kampf)
+**Timeline:** 22. Blütenmond 551 TZ · Tag nach K21, zwei Tage nach K19 (dem Kampf)
 **Wortziel Ausarbeitung:** 2.500–3.000 W (kurzes Kapitel, kein Wendepunkt — Nachglut und Eskalations-Saat)
 **Gänsehaut-Moment:** Alphina — die Botanikerin, die seit dreißig Jahren jede Pflanze der Grauküste kennt — schüttelt den Kopf. Kein Name. Kein Vergleich. Kein "sieht aus wie". Einfach: nichts.
 
 ---
 
-## Szene 1 — Die Pflanze im Treppenhaus
+## Szene 1 — Die Pflanze in der Werft
 
 **Wortziel:** 900–1.100 W
 
-Morgen im Anker. Maren auf dem Weg nach unten, frühzeitig wie immer. Im Treppenhaus auf der zweiten Stufe von unten: eine Pflanze. Nicht in einem Topf, nicht an einen Kübel gelehnt. Sie wächst aus einer Fuge zwischen Bohle und Mauerstein — ein einzelner Stängel, mit drei Blättern die zu breit sind für die enge Treppenhausdunkelheit, zu satt im Grün für ein Haus das kaum Licht bekommt. Maren bleibt stehen. Tastet die Blätter ab: lederig, dickfleischig, leicht warm an der Unterseite. Ein Geruch — feucht, irgendwie süßlich, nicht Moos und nicht Faulnis, etwas dazwischen das sie nicht benennen kann.
+Morgen in Harons Haus. Maren schließt die Tür hinter sich, geht die Hafengasse hinunter, drei Minuten zur Werft wie jeden Morgen. Am Werft-Tor schließt sie auf, tritt ein. In der Halle, am hinteren Ende, dort wo der Holzboden auf die Steinmauer trifft — genau die Stelle, an der in K08 das Wasser rückwärts hereingesickert war, bergauf gegen das Gefälle — steht eine Pflanze. Nicht in einem Topf, nicht an einen Kübel gelehnt. Sie wächst aus der Fuge zwischen Bohle und Stein, ein einzelner Stängel mit drei Blättern, die zu breit sind für die enge Lichtverhältnisse der Halle, zu satt im Grün für einen Raum, der kaum direktes Tageslicht bekommt. Maren bleibt stehen. Kniet. Tastet die Blätter ab: lederig, dickfleischig, leicht warm an der Unterseite. Ein Geruch — feucht, süßlich, nicht Moos und nicht Faulnis, etwas dazwischen das sie nicht benennen kann.
 
-Sie holt Alphina. Alphina kommt mit Schlafgesicht und Notizbuch, kniet vor der Pflanze, dreht sie vorsichtig, riecht an der Bruchstelle wo Maren versehentlich ein Blatt angestippt hat. Lange Pause. Dann schüttelt sie den Kopf. "Das wächst hier nicht." Nicht: ich kenne sie nicht. Sondern: die gehört nicht hierher. Der Unterschied ist groß.
+Edric ist noch nicht da. Sie nimmt ein Blatt ab, vorsichtig, ohne den Stängel zu knicken, und steckt es unter das Mieder. Schließt das Werft-Tor wieder ab und geht zurück in die Hafengasse, sechs Minuten zum *Anker*, wo sie diese eine Frau findet, die ihr helfen kann: Alphina, die Botanikerin, die Runa mal als "die aus Velde" erwähnt hatte.
 
-Maren wartet auf mehr. Alphina sagt nichts. Macht eine Notiz.
+Alphina kommt im Schlafgesicht zur Tür. Ohne Erklärung zeigt Maren das Blatt. Alphina blinzelt. Nimmt das Blatt. Dreht es. Riecht an der Bruchstelle. Lange Pause.
 
-Die Pflanze bleibt im Treppenhaus. Keiner reißt sie raus. Keiner sagt, dass man das sollte.
+"Wo?" fragt sie.
+
+"Werft. Hinteres Ende. Aus einer Fuge."
+
+Alphina geht zurück ins Zimmer, holt Mantel, Notizbuch, Stiefel — in dieser Reihenfolge. Kein Wort mehr. Sie folgt Maren die Treppe hinunter, durch den Schankraum, in die Hafengasse. Sechs Minuten nebeneinander, der Morgen noch kühl, die beiden Frauen auf dem Weg durch eine Stadt, die schon wach war. Ein paar halblaute Sätze zwischendurch — Maren, die das Wasser am Steg erwähnt (nebenbei, ohne Nachdruck). Alphina, die nicht antwortet. Alphina schläft noch halb, aber ihre Hand um das Notizbuch ist ganz wach.
+
+In der Werft: Maren schließt auf, lässt Alphina hineingehen, folgt selbst. Alphina sieht sich um, einen halben Atemzug, orientiert sich. Geht direkt zur hinteren Wand, kniet sich. Keine Aufforderung — Maren hat nur mit dem Kinn hingedeutet, die Richtung gegeben. Alphina kniet vor der Pflanze, legt das Notizbuch auf die Bohle neben sich, spreizt mit dem Nagel des Zeigefingers die Fuge, sieht in den Spalt, schiebt den Nagel wieder weg. Beugt sich tief, riecht. Einmal lang, einmal kurz. Dreht das kleinste Blatt mit zwei Fingern um, hält es gegen das schwache Hallenlicht. Legt es zurück.
+
+Dann bleibt sie noch zwei, drei Atemzüge in der Hocke. Sieht nicht die Pflanze an. Sieht die Fuge.
+
+"Das wächst hier nicht."
+
+Kein Nachsatz. Sie schlägt das Notizbuch auf, zeichnet. Drei flache Umrisse für die Blätter, eine Linie für den Stängel, die Fuge in Schraffur. Ein Wort daneben, das Maren aus der Hocke nicht lesen kann. Alphina steht auf, schließt das Notizbuch, sieht die Pflanze jetzt von oben. Keine Faszination im Gesicht, die man benennen könnte. Aber auch kein Ekel. Kein Schrecken.
+
+Maren wartet. Alphina sagt nichts mehr. Geht an ihr vorbei zur Werft-Tür, bleibt dort stehen, dreht sich noch einmal um, sieht auf die Pflanze aus zehn Schritt Entfernung. Ihre Hand auf dem Türrahmen, die Knöchel weiß, einen halben Atemzug zu lang — das sieht Maren. Dann Alphina draußen. Die Tür zieht sich leise ins Schloss.
+
+Die Pflanze bleibt in der Fuge. Maren reißt sie nicht raus. Sie überlegt es nicht einmal.
 
 **Dialog-Informationen:**
 - Maren erfährt: Alphina kann die Pflanze nicht zuordnen — kein Thalassien-Gewächs
@@ -44,7 +60,7 @@ Die Pflanze bleibt im Treppenhaus. Keiner reißt sie raus. Keiner sagt, dass man
 
 **Wortziel:** 900–1.100 W
 
-Maren geht zur Werft. Normaler Morgen — sie hat die letzten Tage wenig gearbeitet, seit dem Kampf, und das Holz duldet keine langen Pausen. Kurzer Umweg am Hafen entlang. Sie hält die Hand ins Wasser der Grauwe. Reflex — sie tut das immer, Temperaturcheck, Strömungsgefühl.
+Zurück in der Werft steckt Maren das Blatt in eine leere Werkzeugschublade, den Deckel halb zu. Bevor sie anfängt zu arbeiten, geht sie über den Werft-Steg. Reflex — sie prüft jeden Morgen Tiefgang und Strömung am Poller vor dem Tor. Sie kniet sich am Ende des Stegs, hält die Hand ins Wasser der Grauwe.
 
 Das Wasser ist warm. Nicht frühsommerlich-kalt-werdend-warm. Körperwarm. Wie Badewasser das zu lange stand. Sie hält die Hand länger rein. Die Wärme kommt von unten, nicht von der Oberfläche. Kein Sonnenlicht erklärt das — der Morgen ist bedeckt wie immer.
 
