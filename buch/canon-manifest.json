@@ -38,7 +38,8 @@
         {"slug": "pov/maren", "title": "Maren (POV)", "desc": "POV-Dossier"},
         {"slug": "11-nyr", "title": "Nyr", "desc": "Figur-Dossier"},
         {"slug": "13-talven", "title": "Talven", "desc": "Figur-Dossier"},
-        {"slug": "19-varen", "title": "Varen", "desc": "Antagonist, Binder-Kaste Moragh"}
+        {"slug": "19-varen", "title": "Varen", "desc": "Antagonist, Binder-Kaste Moragh"},
+        {"slug": "21-moragh-figuren-entwurf", "title": "Moragh-Council-Figuren (Entwurf)", "desc": "14 Council-Kandidaten: Bund/Thar/Velmar mit Alter, Skills, Aussehen, Motivation"}
       ]
     },
     {
