@@ -1,5 +1,5 @@
 ---
-name: Sorel
+name: Sorel Varlan
 slug: sorel
 typ: hauptfigur
 pov: true

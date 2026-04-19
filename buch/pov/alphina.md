@@ -1,5 +1,5 @@
 ---
-name: Alphina Fenne
+name: Alphina Farn
 slug: alphina
 typ: hauptfigur
 pov: true
@@ -12,7 +12,7 @@ reihenfolge: 100
 # buecher: [1, 2, 3]
 ---
 
-# POV — Alphina Fenne
+# POV — Alphina Farn
 
 ![Alphina in ihrer Pflanzenwohnung](/img/alphina.png)
 

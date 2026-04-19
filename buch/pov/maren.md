@@ -1,5 +1,5 @@
 ---
-name: Maren
+name: Maren Ilves
 slug: maren
 typ: hauptfigur
 pov: true

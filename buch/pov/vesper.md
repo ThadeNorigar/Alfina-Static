@@ -1,5 +1,5 @@
 ---
-name: Vesper
+name: Vesper Greve
 slug: vesper
 typ: hauptfigur
 pov: true
