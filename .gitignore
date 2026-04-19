@@ -1,0 +1,14 @@
+# Build-Artefakte von generate-lesen.sh — werden auf dem Server neu erzeugt
+lesen/[0-9]*/index.html
+lesen/I*/index.html
+
+# Lokale Claude-Settings
+.claude/settings.local.json
+
+# Backups
+buch/zeitleiste.OLD.json
+*.backup.md
+
+# Python-Cache
+__pycache__/
+*.pyc
