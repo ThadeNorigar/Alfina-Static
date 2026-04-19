@@ -28,6 +28,24 @@ Dieses File konsolidiert sämtliche Entscheidungen zu Varen, seinem Motiv, seine
 
 ---
 
+## 1b. Varens Fähigkeiten
+
+Varen ist ein **0.001 %-Fünffach-Begabter** — eine einmalige Ausnahme einer Generation. Sein Budget liegt weit über dem Normalwert (Normal: 12–16 für Fünffach; Varen: 27). Drei Talente sind sehr gut trainiert, zwei weniger.
+
+| Talent | Stufe | Anmerkung |
+|---|---|---|
+| Rufen | 7 | Velmar-Binder-Kern. Kann übergroße Schemen allein, Schrecken-Klasse im Ritual. |
+| Binden | 6 | Dutzende gebunden, vererbbar über Generationen (alte Velmar-Linie). Sein Reservoir ist durch die aktiven Bindungen dauerhaft reduziert — trotzdem funktionsfähig dank Ausnahmebegabung. |
+| Energie | 6 | **Die Grundlage der Resonanz-Ernte.** Ab Stufe 9–10 kann man fremdes Reservoir absaugen; mit Stufe 6 und seiner entwickelten Technik erreicht er diese Wirkung in Ritualform. |
+| Druck/Gravitation | 5 | Velmar-Binder-Kaste als Grundausstattung. Basis seiner Portalforschung (Raumverformung). |
+| Zeit | 3 | Angelernt über zwei Jahre Portalforschung (MZ -3 bis -1). "Brachial und unsicher", aber genug für Portale in Kombination mit der Druck-Komponente. |
+
+**Resonanz-Ernte ist kein eigenes Talent.** Sie ist eine von Varen entwickelte **Technik**, die Energie-Resonanz mit Druck- und Ritualwissen kombiniert und das fremde Reservoir in ein passendes Gefäß zwingt. Der Preis zahlt der Ernter (Autoimmunreaktion, permanenter Schaden), weil die fremde Magie nicht zu seiner Resonanz passt. Siehe `20-moragh-talente.md`, Abschnitt *Energie*, für die Einordnung im Talent-System.
+
+**Als Velmar-Rufer mit Binden-Sekundärtalent** gehört Varen ins Muster der Rufer-Kaste, das in `21-moragh-gesellschaft.md` beschrieben ist. Seine Ausstoßung aus Velmar (siehe Abschnitt 5) ist politisch-doktrinär, nicht an seine Fähigkeiten gebunden — seine Talente hätte jede Velmar-Binder-Elite gern gehalten.
+
+---
+
 ## 2. Varens Motiv — Expansion der bewohnbaren Zonen
 
 **Kernthese:** Moragh hat kein akutes Überbevölkerungsproblem, aber große magiefreie Flächen sind unbesiedelbar. Quellen und Versorgung funktionieren — für die besiedelten Gebiete. Aber zwischen den Quellen-Städten liegen weite, tote Zonen ohne Resonanz, in denen kein Handwerk, kein Anbau, kein Leben möglich ist (alles in Moragh wird per Magie gemacht).

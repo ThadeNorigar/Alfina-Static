@@ -44,6 +44,21 @@ Die Wirkung fällt **exponentiell/logarithmisch** vom Körper des Thalassianers 
 
 ---
 
+## Rituale — die einzige Fernkampfmagie
+
+**Einzelpersonen haben keine Fernkampfmagie** — die exponentielle Reichweiten-Kurve gilt ohne Ausnahme. Die einzige Möglichkeit, Magie auf große Distanz wirken zu lassen, sind **Rituale mehrerer Magier**:
+
+- Wirkung skaliert mit Teilnehmerzahl und Einzelstärke
+- Aufbau dauert (Vorbereitung, Koordination, oft Quellennähe)
+- Nicht spontan einsetzbar
+- Alle Teilnehmer zahlen mit Erschöpfung
+
+Thalassier können **keine Moragh-Rituale beeinflussen oder stören** — andere Magieart. Ein Bund-Überladungs-Ritual läuft ab, selbst wenn Alphina daneben steht. Sie kann nur dagegen halten, nicht abbrechen. Umgekehrt können Moragh-Magier keine Thalassier-Rituale stören.
+
+Moragh-Bürger-Rituale sind kulturell etabliert und in `20-moragh-talente.md` beschrieben. Thalassier der Fünf ritualisieren nur selten — ein Beispiel wäre das **gemeinsame Öffnen des Thalassien-Portals in I3**, bei dem alle vier Resonanzen die fehlende Zeitkomponente durch Masse ersetzten.
+
+---
+
 ## Training & Speicher
 
 **Kein persönlicher Preis pro Zauber — aber Reservoir und Regeneration existieren.**
@@ -63,6 +78,8 @@ Die Wirkung fällt **exponentiell/logarithmisch** vom Körper des Thalassianers 
 ## Alphina — Zellmanipulation
 
 **Grundprinzip:** Alphina beschleunigt, verlangsamt oder steuert Zellteilung und -regeneration. **Sie kann nur aufbauen — nie zerstören.** Kein Altern, kein Zellabbau, kein Tumor. Ihre Zerstörungswirkung ist immer indirekt (Wurzeln brechen Mauern, Pflanzen ersticken Felder).
+
+**Universelle Regel:** Alle Leben-Talente (Pflanzen, Heilung, Fauna) wirken nur aufbauend — das ist nicht Alphinas Besonderheit, sondern Welt-Regel. Jeder Moragh-Pflanzen- oder Heilungs-Begabter unterliegt derselben Grenze. Siehe `20-moragh-talente.md`.
 
 **Sie braucht vorhandenes lebendes Material:** Samen, Sporen, Mikroben, lebende Zellen. Kein Wachstum aus totem Stein oder poliertem Glas. Heilung braucht noch lebendes Gewebe — klinisch tot seit 5 Minuten geht, seit einer Stunde nicht mehr.
 
@@ -411,23 +428,9 @@ Selten, weil Koordination schwer. Max 2–3 Mal in der ganzen Trilogie.
 
 ---
 
-## Moragh-Gesellschaft — Magie statt Handwerk
+## Moragh-Gesellschaft
 
-**Moragh hat kein Handwerk.** Keine Werkzeuge, keine Medizin, keine Maschinen im thalassischen Sinn. ALLES wird mit Magie gemacht. Magie IST das Werkzeug.
-
-- **Heilung:** Magie. Knochenbrüche, Krankheiten, Geburtenkontrolle — alles Resonanz-basiert.
-- **Ackerbau/Ernte:** Magie. Pflanzen wachsen auf Befehl, Erde wird geformt, Wasser geleitet.
-- **Handwerk:** Gibt es nicht. Stein wird mit Händen geformt (Erde-Resonanz), Metall mit Hitze geschmolzen und geformt (Feuer-Resonanz), Stoff gewebt (feinmotorische Resonanz). Man sieht hochdetaillierte Arbeiten — kunstvollen Stein, filigranen Schmuck — aber KEINE Werkzeuge.
-- **Maschinen:** Die Thar bauen Magitech — Maschinen von Resonanz angetrieben, nicht von Dampf. Ein Moragh-Mensch versteht keine Zahnräder. Er versteht Resonanz-Kopplung.
-
-**Spezialisierung durch Übung:**
-- Feuer-Spezialist: Flammen erzeugen, in Ritualen mit anderen Explosionen über 100m Distanz (Artillerie).
-- Metall-Spezialist: Maschinen bauen, oder Feinarbeit: Goldschmied, Kunstschmied — ohne Werkzeug.
-- Stein-Spezialist: Architektur, Skulptur — der Stein gibt nach wie Ton.
-
-**Die totale Abhängigkeit:** Moragh ohne Magie = Zivilisationskollaps. Das ist der Grund warum die Quellen-Zerstörung so verheerend ist.
-
-**Kontrast zu Thalassien:** Thalassien hat Werkzeuge, Maschinen, Medizin, Handwerk. Thalassien funktioniert OHNE Magie. Deshalb verstehen die Thalassier in Moragh nicht, warum alle so abhängig sind.
+Moragh hat kein Handwerk im thalassischen Sinn — alles wird mit Magie gemacht, Moragh ohne Magie ist Zivilisationskollaps. Vollständige Beschreibung der Fraktionen (Bund, Thar, Velmar), Wohlstand, Initiation, Schemen-Doktrin und Alltag: **`21-moragh-gesellschaft.md`**. Magiesystem für Moragh-Bürger (21 Talent-Skalen, Alterskurve, Skillpunkte): **`20-moragh-talente.md`**. Nebenfiguren-Dossiers: **`22-moragh-figuren.md`**.
 
 ---
 

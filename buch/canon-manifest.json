@@ -23,9 +23,10 @@
       "id": "magie-systeme",
       "name": "Magie & Welt-Systeme",
       "docs": [
-        {"slug": "10-magie-system", "title": "Magie-System", "desc": "Resonanzen der Fünf, Stufen, Reichweite"},
-        {"slug": "18-thar-magitech", "title": "Thar-Magitech", "desc": "Industrie und Magitech-Bestien des Konglomerats"},
-        {"slug": "20-moragh-talente-entwurf", "title": "Moragh-Talente (Entwurf)", "desc": "21 Talente mit Skalen 1–10, Alterskurve, Multibegabung"}
+        {"slug": "10-magie-system", "title": "Magie-System", "desc": "Resonanzen der Fünf, Thalassier-Progression, Welt-Physik"},
+        {"slug": "20-moragh-talente", "title": "Moragh-Talente", "desc": "21 Talent-Skalen 1–10, Alterskurve, Skillpunkte, Rituale"},
+        {"slug": "21-moragh-gesellschaft", "title": "Moragh-Gesellschaft", "desc": "Bund, Thar, Velmar — Strukturen, Wohlstand, Schemen-Doktrin, Alltag"},
+        {"slug": "18-thar-magitech", "title": "Thar-Magitech", "desc": "Industrie und Magitech-Bestien des Konglomerats"}
       ]
     },
     {
@@ -39,7 +40,7 @@
         {"slug": "11-nyr", "title": "Nyr", "desc": "Figur-Dossier"},
         {"slug": "13-talven", "title": "Talven", "desc": "Figur-Dossier"},
         {"slug": "19-varen", "title": "Varen", "desc": "Antagonist, Binder-Kaste Moragh"},
-        {"slug": "21-moragh-figuren-entwurf", "title": "Moragh-Council-Figuren (Entwurf)", "desc": "14 Council-Kandidaten: Bund/Thar/Velmar mit Alter, Skills, Aussehen, Motivation"}
+        {"slug": "22-moragh-figuren", "title": "Moragh-Nebenfiguren", "desc": "14 Dossiers: Bund, Thar, Velmar — Alter, Skills, Aussehen, Motivation"}
       ]
     },
     {
