@@ -1,4 +1,6 @@
-# Runa — POV-Dossier
+# Runa Kvist — POV-Dossier
+
+![Runa Kvist in ihrer Druckerei](/img/runa.png)
 
 **Letzte Aktualisierung:** 2026-04-19
 **Status:** Aktiver Kanon. Hauptfigur, POV-Trägerin.

@@ -1,276 +1,431 @@
-# Buch 3 — Akt II — Das Imperium (Seite 225-450, ~56.000 Wörter, 10 Kapitel + 2 Interludien)
+# Buch 3 — Akt II — Scheitern und Antwort (Seite 225–455, ~56.000 Wörter, 10 Kapitel + 2 Interludien)
+
+**Status:** Voll-Rewrite nach Sessions 2026-04-18/19.
+**Quellen:** `B3-STAND.md`, `B3-ZEITLEISTE.md`, `14-buch3-akt1.md` (Setup).
 
 ## Struktur
 
-Tech-Magie-Fusion eskaliert. Die Thar werden zum Imperium — autonome Bestien, Schwarm-Schemen, Quellen-Siphon, Resonanz-Spiegel. ALLE acht Tech-Magie-Kombinationen werden eingeführt oder eskaliert. Talven wird entlarvt und konfrontiert. Elke stirbt. Nyr und Vesper erkennen was die Thar planen und beginnen zu zweifeln. Runa steigt beim Konglomerat auf. Der Bund nutzt weiter Quellen-Überladung.
+Der Wendepunkt in Moragh-Zeit: Monat 6,5 bis 7,5. In Thalassien-Zeit: ~2037 bis 2070 TZ, also 33 Jahre — Institut kippt nach Marens Tod.
 
-**Kernkonflikt:** Zwei Bedrohungen gleichzeitig. Der Bund zerstört Quellen. Die Thar fusionieren Magie und Technologie zu einer Waffe die jeden Widerstand sinnlos macht. Alphina und Varen reparieren Quellen, aber schnell genug?
+**Moragh-Haupthandlung:**
+- Forschungs-Expedition 1 scheitert blutig (11 tot, 2 verschwunden, nur Tyra flieht später).
+- **Varen schickt Verwüster nach Vael** (manipuliert Orath-Rufer). Institut getroffen. Maren stirbt.
+- Varens Quellen-Reparaturen verblassen — Alphina beginnt innerlich zu zweifeln, glaubt aber noch Varens Erklärung.
+- Elke wird ermordet (Varens Schemen). Alphina verdächtigt Talven. Varen pflanzt drei gefälschte Beweise.
+- Talven beginnt mit Blutmagie + Schemen-Binden, radikalisiert sich unter dem Verdacht.
+- Alphina reist heimlich nach Halvaren, versucht Runa zu überzeugen. Drei-Sätze-Absage.
+- Vesper sieht die Thar-Temporal-KI-Ausrüstung und Alphinas Ritual-Kalkül-Erstspuren.
 
-**Ton:** Eskalation. Die leisen Szenen werden seltener. Die Action-Szenen werden größer. Aber: Talvens Konfrontation ist leise. Elkes Tod ist leise. Das Dunkelste ist nicht der Lärm.
+**Ton:** Dunkler als Akt I. Vom ruhigen Atmen zum leisen Schock. Die Leserin merkt noch nicht, dass Varen der Mörder ist — sie glaubt an einen externen Feind (Bund-Auftragsmord, Thar-Infiltration). Die Gruppe zerbröselt innerlich, ohne dass jemand es sagt.
+
+**Magie-Register:** Talvens Hände werden kalt. Schemen beginnen, ihm leise auszuweichen. Varens Reparaturen sind technisch möglich (der Puls kehrt zurück) — aber sie halten nicht. Das entlarvt sich erst spät im Akt.
 
 ---
 
 ## Kapitelplan
 
-### Kap. 51 — Vesper (S. 225-247, ~5.500 Wörter)
-*Autonome Bestien. Schwarm-Schemen.*
+### Kap. 51 — Alphina (S. 225–245, ~5.000 Wörter)
+*Torkal. Die dritte Reparatur. Etwas stimmt nicht.*
 
-Vesper in der Thar-Stadt. Die Fusion hat begonnen. Innerhalb von Wochen: vier autonome Magitech-Bestien. KI-gesteuert, kein Pilot, endlos. Die Bestien patrouillieren die Ankunftsstadt am Portal. Tag und Nacht. Ohne Pause.
+Dritte Route. Varen und Alphina reisen nach **Dulrath-Ost** — einer der drei Varen-Quellen, nicht Alphinas. Sie schlafen in einem leerstehenden Dorfgasthaus. Morgens geht Alphina vorher hinaus und prüft: der Boden um das Dorf pulsiert. Die Quelle lebt noch, wenn auch tief in der Erde. Das ist das, was sie erwartet hat — die Reparatur sollte hier leichter sein, weil der Fels weniger ausgebrannt ist als in Mar-Keth.
 
-Vesper sieht die Schwarm-Schemen — Tausende Mikro-Schemen, koordiniert durch eine KI. Fließen durch Ritzen, über Mauern, durch Wasser. Die KI entscheidet wer Feind ist. Nicht der Beschwörer. Vesper steht vor einem Bildschirm (Thalassien-Tech) und sieht die Schemen-Koordination in Echtzeit. Das Muster ist perfekt. Effizient. Schön, auf eine Art die ihn anwidert.
+**Aber.** Sie bemerkt am Ortseingang: **Halvara-Kel pulsiert nicht mehr.** Eine Bauern-Karawane, die aus der Gegend kommt, berichtet: die Quelle, die vor vier Wochen wieder zu schlagen begann, ist seit zwei Wochen tot. Menschen zogen hin, hofften, bleiben zu können — Luft kalt, Boden grau, nichts wächst. Sie sind wieder abgezogen.
 
-"Die Schwarm-Intelligenz lernt," sagt der Thar-Ingenieur. "Gestern hat sie ein Versteck gefunden das wir drei Wochen gesucht haben." Vesper: "Was war im Versteck?" Der Ingenieur: "Ein Bund-Kundschafter. Wir haben ihn verhört."
+Alphina sagt es Varen. Er nickt, nicht überrascht. *„Ich fürchtete es. Eine einzelne Injektion hält nicht. Wir müssen wiederkommen, verstärken, kontinuierlich."*
 
-Nyr neben ihm. Sagt nichts. Ihre Hand auf seinem Arm. Druck — leichter als sonst. Warnung.
+Er sagt das ruhig. Es klingt wie Forschungs-Logik. Alphina schluckt die Erklärung.
 
-Die Temporal-KI: Vespers Muster/Zeit-Resonanz + Quanten-KI. Die Thar-Wissenschaftler haben es modelliert. Vespers Resonanz sieht Muster in der Zeit. Die KI beschleunigt das Verarbeiten. Zusammen: militärische Omniszienz. Den Feind 3-5 Minuten vor seinem eigenen Entschluss kennen.
+**Die Reparatur in Dulrath-Ost.** Alphina drückt wieder. Der Puls kommt wieder. Wärme im Stein. Diesmal aber: Sie spürt ihre Energie intensiver abfließen als vorher. Sie ist nach 20 Minuten erschöpft, wo sie in Mar-Keth nach 40 Minuten erst schwach wurde. Varen hält sie. *„Du bist müde vom Weg. Wir bleiben zwei Nächte hier."*
 
-Die Thar-Kommandantin: "Du bist unser wertvollstes Werkzeug."
+Er bleibt zwei Nächte. Sie erholt sich halb. Sie reisen nach Torkal zurück.
 
-**Werkzeug.** Das Wort. Vesper hört es. Sagt nichts. Rechnet.
+**Tschechow:** Die Bauern-Karawane mit den Nachrichten über Halvara-Kel. — Feuert: Akt III, wenn Alphina selbst zu Halvara-Kel zurückreist und den toten Fels sieht.
 
-**Tschechow:** "Wertvollstes Werkzeug." — Feuert: Akt III. "Werkzeug" ist das Wort das Vesper kippt.
+### Interludium I13 — Tyra, Thalassien (S. 245–255, ~2.500 Wörter)
+*Vael, ~2019 TZ. Der Tag vor dem Aufbruch.*
 
----
+Rückblick-Interludium. Tyra Halvard in ihrem Quartier, Nacht vor der Expedition. Sie packt. Auf dem Tisch: ein Brief von ihrer Schwester Esin — handschriftlich, nicht getippt. Esin hat vier Kinder und lebt in einer Küstenstadt südlich von Vael. Tyra hat keine eigenen Kinder.
 
-### Kap. 52 — Alphina (S. 247-267, ~5.000 Wörter)
-*Der sterbende Hain. Talven.*
+Der Brief ist kurz. *„Komm wieder. Nimm nichts mit, was du nicht zurückbringen kannst. Nimm nichts an, was du nicht wieder loslässt. Esin."*
 
-Alphina im Hain. Die Bäume am Rand — nicht nur welkend jetzt. Tot. Kahl. Nacktes Holz, grau, trocken. Der Boden: Staub. Kein Moos, kein Gras, nichts. Als hätte jemand das Leben aus dem Quadratkilometer gesaugt.
+Tyra legt den Brief in eine Innentasche ihres Gepäck-Mantels.
 
-Sie legt die Hand auf den Boden. Drückt — gibt Resonanz. Symbiose. Aber der Boden nimmt nicht. Er ist leer. Nicht erschöpft — ausgeraubt.
+**Das Institut.** Sie geht spät abends ins Dachgeschoss. Maren, 63 Jahre alt im Rollstuhl, wartet auf sie. Sie haben fünfzehn Gespräche geführt in den letzten drei Jahren — Tyra als Linguistin, Maren als Gründerin. Maren hat Tyra das Moragh-Sprachbuch gezeigt. Tyra hat Wörter gelernt, die niemand in Thalassien mehr spricht.
 
-Vespers Daten (die er über Boten geschickt hat, bevor er zu zweifeln begann): die Entnahme korreliert mit der Verteilung. Jemand erntet und verteilt. Eine Einzelperson. Ein Lehrling mit mittlerem Reservoir der plötzlich Magie verschenkt.
+Maren: *„Geh vorsichtig. Die Menschen dort sind Menschen. Das ist das Wichtigste."*
 
-Alphina weiß es bevor sie es beweisen kann. Der Hain war ihr Ankerpunkt. Ihre Verbindung zu Moragh. Jemand hat ihn genommen.
+Tyra nickt. Maren legt ihre Hand auf Tyras. Ihre Haut ist trocken, leicht.
 
-Varen, neben ihr: "Talven." Nicht als Frage.
+Tyra: *„Ich komme wieder."*
 
-**Tschechow:** Der tote Hain, Staub statt Moos. — Feuert: Akt III/IV. Der Hain als Symbol. Was zerstört wurde kann nicht repariert werden — aber neues kann wachsen.
+Maren: *„Vielleicht. Wahrscheinlich nicht. Das ist Moragh."*
 
----
+**Schluss.** Tyra steht auf dem Balkon des Instituts, blickt auf den Botanischen Garten. Die Farne bewegen sich im Wind — aber nicht nur im Wind. Manche drehen sich gegen den Wind, leicht, zu langsam, als dass das Auge es genau sehen könnte. Sie sieht die Anomalie seit Jahren. Jetzt wird sie durch das Portal gehen, das sie erzeugt.
 
-### Kap. 53 — Talven (S. 267-289, ~5.500 Wörter)
-*Die Konfrontation.*
+**Tschechow:** Esins Brief in Tyras Innentasche. — Feuert: Akt III, wenn Tyra Alphinas Gruppe erreicht und sie den Brief zum ersten Mal öffnet. Esins Warnung hat sich erfüllt.
 
-Alphina findet Talven im toten Hain. Nachts. Er kniet, Hände auf dem Boden, erntet die letzten Reste. Sein linkes Auge milchig, sein Haar dünn, seine Hände zitternd. Er sieht auf. Nimmt die Brille ab.
+### Kap. 52 — Varen-POV (S. 255–275, ~5.000 Wörter)
+*Torkal-Quartier. Nach der dritten Reparatur.*
 
-Die Konfrontation. Nicht laut — leise. Gefährlicher als Schreien.
+Varen allein am Arbeitstisch. Die Quellen-Reparatur-Statistik vor ihm:
+- Halvara-Kel: Puls nach 4 Wochen erloschen.
+- Mar-Keth: Puls nach 3 Wochen erloschen.
+- Dulrath-Ost: Puls seit 2 Tagen stabil. Vermutlich noch 3–4 Wochen.
 
-"Weißt du was das schlimmste ist?" sagt Talven. "Nicht dass du wütend bist. Das schlimmste ist dass du es dir LEISTEN KANNST, wütend zu sein. Du wächst einen Hain im Schlaf. Du rettest eine Stadt mit einer Handbewegung. Es kostet dich NICHTS. Ich bezahle mit AUGEN für ein Zehntel davon. Und du sagst mir ich soll aufhören."
+Er rechnet. Dauerhafte Versorgung einer Quelle mit 200.000 Abhängigen bräuchte hundert Alphinen, dreißig Jahre täglich drückend. Es ist mathematisch unerreichbar. Er wusste es, bevor sie anfingen. Alphina glaubt weiter an das Projekt.
 
-Alphina: "Moragh stirbt." Talven: "Moragh hat IMMER bezahlt. Für dich. Für Maren. Für Elke. Jetzt bezahlt es für ALLE. Was ist daran falsch?"
+**Das Ritual-Buch.** Er öffnet es zum neunten Mal in diesem Moragh-Monat. Liest die Passage über die Vier-Thalassier-Absorption erneut. Die Vorbedingungen:
+- Jeder der Vier muss einen vollständigen Anker tragen (Alphina: 60 % transferiert, weitere 40 % benötigt).
+- Alle vier müssen physisch am Ritual-Ort anwesend sein (Portal-Quelle am Steinplatz).
+- Bindungs-Geometrie: vier-zackiger Stern, Binder im Zentrum.
 
-Alphina hat keine Antwort. Weil er Recht hat. Es IST ungerecht. Und es IST falsch. Beides gleichzeitig.
+Seine Probleme:
+- Maren ist weg. Ersatz: eine Thalassierin der ersten Expedition, die durch den Portal kommen wird. Er wartet.
+- Vesper hat keinen Anker. Zugang schwierig (Thar).
+- Runa hasst ihn, kein Zugang.
 
-Talven steht auf. Milchige Augen, beide. Das Licht: verschwommen. "Ich höre nicht auf. Nicht weil ich nicht sehe was es kostet. Sondern weil der Preis FAIR ist. Zum ersten Mal in der Geschichte von Moragh ist der Preis FAIR."
+**Varen nimmt einen Entschluss.** Er wird weitere Anker setzen — nicht bei den Vier, sondern **bei anderen Magiern**, um seinen Speicher zu füllen. Wenn er genug Reserven hat, kann er das Ritual auch ohne vollständige Anker-Ladung bei allen vier durchführen. Die Rest-Energie holt er aus seinem eigenen Tank.
 
-Er geht. Die Brille bleibt auf dem Boden.
+**Er notiert.** Drei Moragh-Namen auf einer Liste:
+- **Tormen** (Schall-Rufer Stufe 5, Bund-Stadt)
+- **Varshek** (Stein-Former Stufe 6, freie Stadt)
+- **Narveth** (Zeit-Rufer Stufe 4, Orath-Randgebiet)
 
-**Tschechow:** Die Brille auf dem Boden. — Feuert: Akt III. Talven blind, ohne Brille. Der Preis.
+Zugang über Schemen-Vorhut. Anker in einem Schlaf-Moment setzen. Keiner wird merken.
 
----
+**Er denkt an Alphina.** Sie schläft neben ihm heute Nacht. Er sieht sie zwischendurch an und fühlt — echte Zuneigung, echte Bewunderung. Er wird sie opfern. Er würde sie auch nicht opfern, wenn sie nicht das Maximum-Reservoir trüge. So ist das. Er hat keine Wahl, die ihn nicht verurteilen würde.
 
-### Kap. 54 — Nyr (S. 289-309, ~5.000 Wörter)
-*Kessler steht still.*
+Das ist Varens einziger echter Satz über sich selbst — der, den er in B2-K31 Alphina gesagt hat. Hier denkt er ihn erstmals selbst.
 
-Nyr-POV. In der Thar-Werkstatt. Kessler — ihr Kessler, vierzig Tonnen, Moragh-Stahl wie Knochen — steht in der Ecke. Der Thar-Ingenieur installiert ein KI-Modul. Kabel, Sensoren, ein Bildschirm. Kessler braucht keinen Piloten mehr.
+**Tschechow:** Die drei Namen auf der Liste. — Feuert: Akt IV, wenn Vesper das Kalkül entschlüsselt und Alphina an den betroffenen Städten Zeugen findet (Menschen, deren Magier unerklärlich erschöpft sind).
 
-Nyr berührt das Metall. Kalt. Zum ersten Mal seit Jahren — kein Summen unter der Hand, kein Pochen das IHRES ist. Die Bestie lebt. Aber nicht für sie.
+### Kap. 53 — Vesper + Nyr (S. 275–297, ~5.500 Wörter)
+*Thar-Kem. Der Temporal-KI-Helm.*
 
-Die autonomen Bestien patrouillieren. Endlos. Die Piloten — Nyrs Kolleginnen, die Frauen die neben ihr gegessen haben, die nach der Schicht ihre Narben verglichen haben — werden überflüssig. Eine nach der anderen. Umgeschult. Zu Wartungstechnikerinnen. Zu KI-Überwacherinnen. Zu nichts.
+Thar-Militär-Labor. Vier Techniker entwickeln unter Aufsicht eines Thar-Offiziers einen Prototyp: ein Helm, der Vespers Muster/Zeit-Resonanz verstärken soll. Moragh-eigene Forschung — keine Thalassien-Tech. Basis: Leylinien-Kristalle + Bindungsmagie-Schaltkreise + Vespers persönliche Resonanz-Signatur.
 
-"Ich war Pilotin," sagt Nyr. Zu niemandem. Kesslers Augen glühen. Rot. Autonom.
+Vesper wird mit dem Helm ausgestattet. Die Thar-Kommandantin beobachtet. *„Stellen Sie sich eine Bund-Truppen-Bewegung vor. In drei Tagen. Was sehen Sie?"*
 
-Dann: die Pläne. Nyr findet sie. Nicht zufällig — sie sucht. Metallklemmen an Stühlen. Infusionsleitungen. Eine Halle mit zwanzig Plätzen. Für Resonanz-Begabte. Permanent. 24/7. Kein Schichtbetrieb — Dauerbetrieb. Der Resonanz-Spiegel-Helm als Schnittstelle. Nicht freiwillig. Nicht gewählt.
+Vesper schließt die Augen. Der Helm vibriert leise. Für einige Sekunden sieht er — nicht klare Bilder, aber **Wahrscheinlichkeiten**. Ein Vorstoß aus Halvaren nach Osten. Ein Ausweichmanöver nach Süden. Zwei mögliche Treffpunkte.
 
-Nyr kennt den Unterschied. IHRE Arbeit als Pilotin: hart, freiwillig, respektiert. DAS: Gefangenschaft.
+Er öffnet die Augen. *„Sie rücken in drei Tagen aus Halvaren vor. Richtung Osten. Zwei wahrscheinliche Treffpunkte — Dulrath und Halvek."*
 
-**Tschechow:** Kesslers rote Augen, autonom. Die Pläne für den Resonanz-Käfig. — Feuert: Akt III. Nyr geht. Mit oder ohne Vesper.
+Die Kommandantin ist zufrieden. *„Gut. Weiter."*
 
----
+**Kosten.** Vesper nimmt den Helm ab. Er ist blass, die Hände zittern leicht. Er hat Kopfschmerzen. Sein Verstand fühlt sich an, als hätte er zu lange am offenen Fenster gearbeitet — kalt, zu klar, ausgelaugt. Nyr beobachtet es. Sie schweigt vor den Thar. Spricht ihn erst an, als sie allein sind.
 
-### Kap. 55 — Maren (S. 309-327, ~4.500 Wörter)
-*Thalassien. Warten.*
+**Nyr abends.** *„Der Helm macht dich krank."*
 
-Maren im Institut. Die Expedition ist weg. Wochen Thalassien-Zeit — Minuten Moragh-Zeit. Sie wartet. Monitore zeigen die Portal-Aktivität. Sensor-Daten. Nichts. Stille.
+Vesper: *„Der Helm zeigt mir, was ich ohne ihn nicht rechnen kann. Drei Tage. Zwei Treffpunkte. Das wären sonst Wochen Analyse."*
 
-Marens Alltag: Vorlesungen am Institut. Studentinnen die sie "Professorin van Dahl" nennen. Sie erzählt von Moragh. Von Alphina, von Vesper, von Sorel. Von Vael 1820. Die Studentinnen hören zu wie man Märchen hört.
+Nyr: *„Und der Preis?"*
 
-"Haben Sie wirklich das Wasser zurückgerufen?" fragt eine. Maren: "Ja." Stille. "Und was hat es gekostet?" Maren: "Mir nichts. Moragh alles."
+Vesper: *„Drei Tage Voraussehen gegen drei Tage Kopfschmerzen. Es ist ein Tausch, den ich machen werde."*
 
-Am Abend: der Botanische Garten. Maren berührt einen Farn. Er dreht sich — langsam, schwach, aber er dreht sich. Die vestigiale Resonanz. Noch da. Noch. Maren denkt: was wenn die Expedition die Thar findet? Was wenn die Technologie in die falschen Hände gerät?
+Nyr sieht ihn an. Sie erkennt: er wählt die Präzision über die eigene Gesundheit. Sie hat das bei Piloten gesehen — die, die Kessler zu lange reiten. Sie sagt nichts. Legt ihm die Hand in den Nacken, hält ihn kurz. Lässt ihn los.
 
-Zu spät. Schon passiert.
+**Tschechow:** Der Temporal-KI-Helm und Vespers Kopfschmerzen. — Feuert: Akt III, wenn er mit dem Helm die Ritual-Geometrie-Wahrscheinlichkeiten bei Varen berechnet.
 
-**Tschechow:** Marens Farn der sich noch dreht. — Feuert: Epilog. Der Farn bewegt sich NICHT.
+### Kap. 54 — Alphina (S. 297–318, ~5.000 Wörter)
+*Torkal. Die Entscheidung, nach Halvaren zu reisen.*
 
----
+Alphina denkt an Runa. Seit Sulkara hat sie ihr nicht geschrieben — der Bund-Postweg ist unzuverlässig, und Runa würde ihr vermutlich nicht antworten. Aber sie will **sehen**. Ob Runa gut ist. Ob Runa verstanden hat.
 
-### Kap. 56 — Varen + Alphina (S. 327-349, ~5.500 Wörter)
-*Die dritte Quelle. Der Bund schlägt zu.*
+Sie spricht mit Varen. *„Ich will nach Halvaren. Für drei Tage. Allein."*
 
-Dritte Quellen-Reparatur. Die letzte von Varens drei zerstörten Quellen. Tiefes Bund-Gebiet. Gefährlich.
+Varen: *„Warum?"*
 
-Unterwegs: Bund-Patrouillen. Kommandanten die zu genau wissen wo die Quellen liegen. Der Bund nutzt weiter Quellen-Überladung als Waffe — nicht Varens Methode direkt, aber das Prinzip. Systematisch. Alphina sieht die Spuren: tote Erde, vertrocknete Bäume, Dörfer ohne Magie. "Das ist nicht Talven," sagt sie. "Das ist der Bund." Varen: "Der Bund hat gelernt. Nicht von mir — von den Ergebnissen."
+*„Runa."*
 
-An der dritten Quelle: Alphina kniet. Drückt. Tiefer als je zuvor. Diese Quelle war die erste die Varen zerstört hat — am längsten tot, am tiefsten beschädigt. Die Wurzeln kriechen und kriechen und finden... Stein. Kalt. Tot. Kein Zucken. Kein Pochen.
+Er schweigt einen Moment. Überlegt. Dann: *„Geh. Ich verstehe. Wenn du jemanden zu mir bringen willst, der aufseiten der Vernunft steht, brauchst du sie."*
 
-Alphina drückt härter. Der Boden um sie herum verdorrt — Moragh zahlt. Varen webt. Sein Nasenbluten wird stärker. Er zahlt auch.
+(Was er denkt: **Ein Testlauf.** Wenn sie zurückkommt, ist die Bindung fest. Wenn sie nicht zurückkommt, hat er den Anker weit genug ausgebaut, dass er sie zurückrufen kann. Er gibt ihr in Gedanken zwei Wochen, bis das Ziehen in ihrer Wirbelsäule sie zurückholt.)
 
-Dann: ein Zucken. Tief. Schwach. Kaum spürbar. Aber da.
+**Die Reise.** Drei Tage durch Orath-Grenzland, teilweise zu Pferd, meist zu Fuß. Sie trägt eine Kapuze — ihre dunkel-purpurnen Haare sind bei Bund-Truppen bekannt. Sie meidet Straßen, schläft in Heuhaufen.
 
-"Weiter," sagt Varen. Blut auf seinen Lippen. "Nicht aufhören."
+**Halvaren.** Sie betritt die Stadt am vierten Abend. Geht direkt zur Druckerei. Die Lampe brennt, Runa arbeitet. Alphina klopft dreimal — ein altes Zeichen aus Vael-Zeiten.
 
-Die Quelle pocht. Einmal. Zweimal. Wie ein Herz das sich erinnert.
+Runa öffnet. Ihre Augen werden schmal. Sie lässt Alphina ein, schließt die Tür hinter ihr, dreht den Schlüssel zweimal.
 
-Drei von vier. Die vierte — Alphinas eigene. Die sie in Buch 2 absichtlich zerstört hat. Die schwerste.
+**Das Gespräch.** Zwei Stunden. Alphina spricht offen — über Varen, die Reparaturen, das Portal, das, was der Bund will. Sie argumentiert mit einer Sorgfalt, die Runa überrascht. Sie bietet: *„Komm mit. Nur einmal. Sieh selbst."*
 
-Bund-Truppen. Angriff. Alphina und Varen müssen fliehen. Die Quelle pocht — schwach, fragil, aber lebendig. Wenn der Bund sie findet, überlädt er sie erneut.
+Runa hört zu, die ganze Zeit. Unterbricht nicht. Am Ende sagt sie drei Sätze, leise.
 
-**Tschechow:** Die fragile dritte Quelle. — Feuert: Akt III. Der Bund findet sie. Alphina muss entscheiden.
+*„Du riechst nach ihm."*
+*„Du sprichst wie er."*
+*„Ich glaube dir nicht."*
 
----
+Alphina holt Luft für einen vierten Satz — Runa hebt die Hand.
 
-### Interludium XI (~S. 355, ~2.500 Wörter)
-*Elke. Der letzte Morgen.*
+*„Und wenn du recht hast, habe ich immer noch keinen Platz an seinem Tisch."*
 
-Elke im Garten. Früh. Vor allen anderen. Die Sonne (Akkretionsscheibe — kein Sonnenaufgang wie in Thalassien, eher ein langsames Aufhellen) beleuchtet die Pflanzen. Thalassische Farne, Moragh-Ranken, ein Dornenstrauch den Alphina gepflanzt hat.
+**Alphina geht.** Bei der Tür dreht sie sich einmal um. Runas Gesicht ist nicht böse. Nur klar. Alphina nickt, geht. Runa dreht den Schlüssel zurück, zweimal. Druckt weiter.
 
-Elke legt die Hände auf den Stein. Den Basalt, ihren Stein, den sie geformt hat seit sie in Moragh ist. Er antwortet — langsam, müde, aber er antwortet. Noch.
+**Alphinas Rückreise.** Drei Tage. Nachts, am Lagerfeuer, öffnet sie die Hand — eine dunkle Blüte wächst in ihrer Handfläche, ohne dass sie es will. Sie drückt sie aus. Lässt sie wegfliegen.
 
-"Ich bin alt," sagt Elke. Zu niemandem. Zu allem. "Nicht von der Magie. Vom Leben."
+**Tschechow:** Runas drei Sätze + der vierte. — Feuert: Akt IV, Reveal. Die drei Sätze waren alle wahr.
 
-Sie sitzt auf der Bank die sie geformt hat. Sieht den Garten. Die Pflanzen aus zwei Welten. Die Steine die ihre Form behalten. Alles was sie gebaut hat.
+### Kap. 55 — Varen-POV (S. 318–340, ~5.000 Wörter)
+*Torkal. Alphina zurück. Verwüster-Vorbereitung.*
 
-"Wenn ich gehe, wer gießt die Thalassien-Farne? Sie brauchen weniger Wasser als die Moragh-Pflanzen. Alphina weiß das. Varen nicht. Jemand muss es ihm sagen."
+Alphina kehrt zurück. Varen empfängt sie warm, fragt, wie es war. Alphina sagt: *„Sie ist nicht gekommen."* Varen nickt, legt den Arm um sie, führt sie in das Quartier. Alphina fühlt sich wie nach Hause gekommen. Das ist der Effekt, den der Anker-Transfer gerade jetzt am stärksten zeigt — Varens Nähe fühlt sich biologisch sicher an.
 
-Sie schließt die Augen. Der Stein unter ihr: warm. Von der Akkretionsscheibe, nicht von Magie. Einfach warm.
+**Nach Mitternacht.** Varen arbeitet wieder. Vor ihm: eine Karte von Vael, die er aus Harons Nachlass hat (Haron Dahl, Varens Agent in Vael, ist längst tot — seine Aufzeichnungen kamen über Umwege nach Moragh zurück). Auf der Karte: der Botanische Garten, das neue Institut-Gebäude, die Straßen drumherum.
 
-**Tschechow:** Elkes Anleitung für den Garten. "Jemand muss es ihm sagen." — Feuert: Kap 59. Elkes Tod. Alphina erzählt Varen von den Farnen. Er hört zu.
+**Die Verwüster-Frage.** Varen überlegt. Die Expedition wird in ihrer Welt Jahrzehnte-Echos erzeugen. Wenn er nicht reagiert, denken die Thalassier, sie können durchkommen. Wenn er direkt reagiert (als Moragh-Bedrohung), mobilisiert er eine Welt gegen sich, die 150 Jahre Zeit hat, sich vorzubereiten.
 
----
+Lösung: **Er lässt einen anderen reagieren.** Orath hat die Rufer-Zünfte. Orath hat die Ältere-Ratsstruktur. Orath kann Verwüster rufen — technisch, ritual, seit Generationen. Die Frage ist, wie man sie dazu bringt, es zu **wollen**.
 
-### Kap. 57 — Vesper (S. 361-381, ~5.000 Wörter)
-*Die Quellen-Siphons. Die Planeten-Karte.*
+**Er schreibt einen Brief.** An die Älteste Kelmaris Verask, Hand-zu-Hand-geliefert durch einen Schemen-Boten. Nicht unterschrieben. Verdeckt. Gibt vor, von einem Bund-Informanten aus Thar-Kem zu stammen:
 
-Die Thar-Eskalation. Vesper sieht die nächsten Tech-Magie-Kombinationen:
+*„Die Thar hat Thalassier durchs Portal geholt. Fünfzehn. Sie messen unsere Quellen, lesen unsere Ältere-Register, schicken Daten zurück. Wenn wir nicht warnen, werden bald hundertfünfzig kommen. Verwüster-Vergeltung an der Thalassien-Seite wäre ein Zeichen. Wir hätten die Rituals-Kapazität dafür."*
 
-**Quellen-Siphon aus der Luft.** Drohnen die Reservoir-Quellen scannen — Frequenz, Tiefe, Kapazität. Den gesamten Planeten kartieren. Dann: gezielte Überladung aus der Distanz. Ferngesteuerte Quellen-Zerstörung. Ohne Armee. Automatisiert. Ein Thalassien-Ingenieur zeigt den Prototyp: eine Drohne, klein, leise, die über eine Quelle fliegt und deren Daten an die KI sendet. Die KI berechnet die Überladungs-Frequenz. Ein Knopfdruck.
+Er schickt den Brief. Nimmt einen zweiten Pfad: ein zweiter Schemen an Drael, mit ähnlicher Information. So sichert er, dass die Entscheidung kollektiv getragen wird.
 
-Vesper: "Das ist Varens Methode. Industrialisiert."
+**Er öffnet das Portal.** Das wird er selbst tun müssen — niemand sonst kann es. Aber er lässt Orath die Schemen rufen und durch das Portal entlassen. Orath hat die **Beschwörung**, er hat die **Tür**. Arbeitsteilung.
 
-**Die Planeten-Karte.** Moragh hat nie den Rand des Plateaus verlassen können — 60m Tidenhub, kein Schiff. Die Thalassien-Drohnen fliegen über den Ozean. Zum ERSTEN MAL sehen Moragh-Menschen was jenseits des Meeres liegt. Auf dem Bildschirm: Landmassen. Drei weitere Kontinente. Unbekanntes Terrain. Quellen-Signaturen.
+**Letzte Arbeit.** Varen notiert die Termine: in drei Moragh-Tagen trifft der Brief bei Kelmaris ein. In neun Tagen ist das Ritual vorbereitet. In zwölf Tagen öffnet er das Portal. In dreizehn Tagen sind die Verwüster durch. Er schließt das Notizbuch.
 
-Die Thar-Kommandantin sieht die Karte. "Drei Kontinente," sagt sie. "Mit Quellen." Stille. "Wir brauchen Schiffe."
+**Tschechow:** Der Brief an Kelmaris Verask. — Feuert: Akt III, wenn Drael die Authentizität des Briefes überprüft und feststellt, dass er von keinem Bund-Informanten kam.
 
-Vesper rechnet. Wenn die Thar die Quellen-Siphons haben UND die Planeten-Karte UND die autonomen Bestien — dann sind sie nicht eine Fraktion in einem Krieg. Dann sind sie ein Imperium. Ein planetweites.
+### Kap. 56 — Tyra + Nebencharaktere (S. 340–362, ~5.500 Wörter)
+*Thar-Grenzgebiet. Expedition 1 scheitert.*
 
-**Ley-Linien + Glasfaser.** Der nächste Schritt: das Thar-Ley-Linien-Netzwerk mit Thalassien-Glasfaser verbinden. Planetweites Energie- und Kommunikationsnetz. Zentrale Kontrolle über alle Quellen, alle Bestien, alle Schemen. Ein Nervensystem für das Imperium.
+POV wechselt zu Tyra und einem Thar-Offizier. Expedition 1 ist nun acht Moragh-Wochen in Moragh. Die Thar-Gastfreundschaft ist abgekühlt. Die Expeditionsmitglieder haben **nicht kooperiert** — sie wollten die Thar als Partner, nicht als Dienstherren. Die Thar-Kommandantin hat Geduld verloren.
 
-**Tschechow:** Drei Kontinente. Die Thar sehen die Welt. — Feuert: Akt IV. Wenn der Riss geschlossen wird, verlieren die Thar den Tech-Zugang. Kein Imperium.
+**Der Aufstand.** Drei Ingenieure und die zwei Sicherheitsleute haben einen Fluchtversuch unternommen — zurück zum Steinplatz, um zu signalisieren. Sie sind bewaffnet (primitive Pistolen nach Thar-Maßstab, aber genug um Thar-Wachen zu verletzen). Die Thar reagiert mit einem Magitech-Bestien-Einsatz. Zacker-Reiter schneiden ihnen den Weg ab.
 
----
+Tyra sieht es aus der Expedition-Unterkunft. Sieben sterben: die zwei Sicherheitsleute, drei Ingenieure, zwei Wissenschaftler, die versucht haben dazwischen zu gehen. Thar-Verluste: ein Reiter, zwei Infanteristen. Die Kommandantin ordnet an: **alle Expedition-Mitglieder unter direkter Kontrolle.**
 
-### Kap. 58 — Runa (S. 381-401, ~5.000 Wörter)
-*Die Resonanz-Spiegel. Magie für alle.*
+Vier weitere werden in Kerker gebracht. Zwei *verschwinden* (Thar-Euphemismus — sie sind tot, aber niemand sagt es). Zwei fliehen bei der Festnahme — Tyra und ein Geologe namens Marsk. Die beiden schlagen sich durch die Thar-Randgebiete nach Westen, Richtung freie Städte.
 
-Runa in der Thar-Schmiede. Die Resonanz-Spiegel-Produktion. Helme. Neural-Interface + Moragh-Kristalle. Runa schmiedet sie — ihre Feuer-Resonanz erweicht die Kristalle, die Thalassien-Elektronik macht den Rest.
+**Marsk stirbt** am dritten Tag — Pilzvergiftung, Moragh-Flora, kein Wissen. Tyra verbrennt seinen Körper mit einem Feuer, das sie mit Zündhölzern aus ihrer Innentasche macht. Sie steht allein in einem fremden Wald.
 
-Ein Thar-Soldat setzt den Helm auf. Kein Reservoir. Nie Magie gehabt. Der Helm summt. Der Soldat hebt die Hand — ein Stein schwebt. Langsam. Wackelig. Aber er schwebt. Der Soldat lacht. "Ich kann —" Der Helm piept. Der Stein fällt. "Mehr," sagt der Soldat. "Ich will mehr."
+**Drei Wochen Wanderschaft.** Tyra isst, was sie findet, trinkt aus Rinnsalen. Ihre Schall-Resonanz erwacht langsam — erst ist es nur ein Summen in den Ohren, das verstummt, wenn sie es beachtet. Dann merkt sie: sie kann die Luft um sich herum **leiser machen**. Ein Tier im Unterholz hört sie nicht. Ein Vogel, der auf einem Ast sitzt, fliegt nicht auf.
 
-Runa sieht es. Die Abhängigkeit. Innerhalb von Tagen: die Soldaten kommen zurück. "Noch eine Sitzung." "Nur eine halbe Stunde." "Bitte." Die Thar kontrollieren die Helme. Wer den Helm abnimmt, fühlt die Leere. Wer ihn aufsetzt, fühlt die Macht.
+Sie erreicht eine freie Stadt — einen Ort, der nicht auf ihrer Expeditionskarte eingezeichnet ist. Dort begegnet sie einem Moragh-Heiler, der sie aufnimmt. Sie spricht kaum — ihre Moragh-Sprache ist akademisch, er spricht Dialekt. Aber er pflegt sie gesund.
 
-Runa schmiedet weiter. Die warmen Hände formen Helm um Helm. Sie denkt: das ist Talvens Traum. Resonanz für alle. Ohne den Preis den Talven zahlt. Besser. Kontrollierter. Effizienter.
+**Tschechow:** Tyras langsam erwachende Schall-Resonanz. — Feuert: Akt III, wenn sie ihre erste Schemen-Beschwörung macht und ihre Stimme dem Schemen mitgibt.
 
-Oder?
+### Interludium I8 — Maren, Thalassien (S. 362–375, ~2.500 Wörter)
+*Vael, ~2037 TZ. Der Verwüster-Angriff.*
 
-Die verstaubte Presse in der Ecke. Runa sieht sie nicht an.
+Thalassien. Das Schwellenforschungsinstitut ist jetzt ein staatliches Gebäude. Maren ist 80, sitzt im Rollstuhl am Fenster ihres ehemaligen Büros. Ein Flügel des Instituts trägt ihren Namen. Sie liest selten noch. Hört lange zu.
 
-**Biotech-Schemen.** Im selben Kapitel: die Thar-Biologen fusionieren Schemen mit synthetischer Biologie. Normalerweise verschwindet ein Schem wenn der Beschwörer stirbt. Mit Biotech-Rückgrat: persistent. Selbsterhaltend. Runa sieht den ersten Biotech-Schem — ein Wesen aus Metall und Fleisch das atmet und sich selbst repariert. Es hat keine Augen. Braucht keine. Die KI sieht für es.
+Am Nachmittag hört sie aus dem Botanischen Garten ein Geräusch — tief, brummend, wie Stein, der reißt. Sie blickt hinaus: der Steinkreis leuchtet. Violett, dann dunkler, dann **Luft reißt auf**.
 
-**Tschechow:** Runas Resonanz-Spiegel-Helme. Die Abhängigkeit. — Feuert: Akt III/IV. Runa als Antagonistin. "Du hast diese Helme gebaut." — "Ja. Wie du Quellen zerstört hast."
+Aus dem Riss treten drei Gestalten. Nicht Mensch. Mannshoch, rauchig, schwer. Ihre Oberfläche sprüht Funken, der Boden unter ihnen brennt nicht sofort, aber schmort. Sie bewegen sich langsam, mit Absicht.
 
----
+**Die Verwüster.** Sie gehen auf das Institut zu.
 
-### Kap. 59 — Alphina (S. 401-421, ~5.000 Wörter)
-*Elke stirbt.*
+**Der Angriff.** Sie brechen durch die Glasfront. Innerhalb von zwei Minuten zerstören sie die Sensor-Halle (zwölf Jahre Daten vernichtet in einem Schlag). Töten eine Assistentin, die nicht rennen kann. Töten einen Ingenieur, der versucht, die Tür zu schließen.
 
-Elke im Garten. Morgens. Alphina bringt Tee — umgekehrt jetzt. Die alte Frau sitzt auf dem Stein den sie selbst geformt hat.
+Maren bewegt sich zur Tür. Ihr Rollstuhl bleibt hängen. Sie steht auf — das erste Mal in Monaten — und stützt sich an der Wand. Geht Richtung Tür. Sie will nicht im Zimmer sterben. Sie will sehen.
 
-Elke legt die Hand auf den Basalt. Er antwortet — schwach, ein letztes Zittern. "Er wird leiser," sagt Elke. "Aber nicht wegen mir. Ich habe ihm nichts genommen das er nicht geben wollte."
+**Sie sieht einen Verwüster**, der zwei Meter vor ihr einen Türrahmen zerbricht. Er dreht den Kopf — hat keinen Kopf, nur eine Rauchwolke über dem Massekörper. Blickt sie an. Erkennt keine Bedrohung. Dreht sich weg.
 
-Sie sieht Alphina an. "Die Farne brauchen weniger Wasser als die Moragh-Pflanzen. Sag es Varen. Er vergisst so etwas."
+Marens Herz. Sie greift sich an die Brust. Fällt an die Wand. Gleitet hinab. Die Assistentin aus dem Korridor kommt zurück, beugt sich über sie. *„Doktor Maren — Doktor Maren —"*
 
-"Du sagst es ihm selbst," sagt Alphina.
+Maren öffnet die Augen. Ihre letzten Worte, leise, in alter Sprache: *„Ich habe sie hergeschickt."* Sie meint die Expedition, die sie vor 17 Jahren gehen ließ — ihre Lebensarbeit, jetzt mit ihrem Tod verknüpft. Sie weiß nicht, dass Varen die Schemen schickt. Sie glaubt, sie ist schuld.
 
-Elke lächelt. "Ich sage DIR: es war gut. Das alles. Der Garten, der Stein, die zwei Welten in einem Beet. Ich bin nicht traurig."
+Sie stirbt.
 
-Sie stirbt am Abend. Leise, im Garten, auf dem Stein. Keine dramatischen letzten Worte — ein Ausatmen, ein Entspannen, ein Gesicht das jünger wird. Alter. Nicht Magie. Nicht Krieg. Einfach Alter.
+**Die Verwüster.** Sie verlassen das Institut nach ~35 Minuten, lösen sich am Steinkreis auf, kehren in ihre Ebene zurück. Das Institut ist halb zerstört. ~40 Tote. Die Resonanz-Operatoren sind tot. Die Sensor-Datenbank ist zerstört.
 
-Alphina hält ihre rechte Hand. Varen steht drei Schritte entfernt. Sein Gesicht — er hat Elke vor allen gekannt. Ihr altes Thalassisch gelernt. Ihre Sprache gesprochen. Er sagt ein Wort in Moragh. Dasselbe Wort das er über Sorels Augen geflüstert hat in Buch 1. Alphina hört es. Diesmal versteht sie es.
+**Schluss-Beat.** Syra Halvard, 15 Jahre alt, Stipendiatin am Institut, bekommt am Abend die Nachricht. Sie sitzt in ihrem Zimmer am Rand von Vael, die Mitteilung in der Hand. Sie weint nicht. Sie öffnet ihr Notizbuch. Schreibt: *„Wenn das, was durchs Portal kommt, töten kann, muss das, was durchgeht, auch töten können. Nie wieder fünfzehn Forscher. Beim nächsten Mal eine Armee."*
 
-**Tschechow:** Das Wort das Varen über Sorel geflüstert hat. — Jetzt verstanden. Feuert: Epilog. Alphina versteht jetzt jedes Wort.
+Das ist der Moment, in dem das Institut sich wandelt.
 
----
+**Tschechow:** Syras Notizbuch-Eintrag. — Feuert: Akt III, I9, wenn die Doktrin umgeschwenkt ist und sie den jungen Velkan trifft.
 
-### Kap. 60 — Talven (S. 421-441, ~5.000 Wörter)
-*Elkes Tod. Talvens Bruch.*
+### Kap. 57 — Alphina + Varen (S. 375–395, ~5.000 Wörter)
+*Dravek, Elkes Garten. Elkes Tod.*
 
-Talven am Grab. Elkes Grab — Stein auf Stein, im Garten, unter Pflanzen aus zwei Welten. Er berührt den Grabstein. Der Stein antwortet nicht. Leer. Wie der Hain. Wie alles was er berührt hat.
+Alphina und Varen reisen zu Elke. Es ist Besuchs-Pflicht — Elke hat ihr im B2-Ende ein Maren-Dokument übergeben, das Alphina noch nicht gelesen hat (sie hat es einfach in einer Tasche, ungeöffnet, seit zwei Monaten). Jetzt will sie es Elke zurückgeben. Das ist ihr Vorwand.
 
-Die Leute die er beschenkt hat — die alten Beschwörer, die Lehrlinge, die Mutter mit dem verbrannten Kind: ihre geschenkte Resonanz zerfällt. Der Tischler kann nicht mehr formen. Der Schmied hämmert wieder mit dem Hammer. Die Magie war geliehen. Befristet. Und der Zerfall hat Moragh mehr gekostet als die Gabe je wert war.
+**Der Morgen.** Sie kommen nach einem Tagesmarsch in Dravek an, am frühen Morgen. Der Garten liegt ruhig. Kein Rauch aus dem Haus. Die Tür steht einen Spalt offen. Varen legt die Hand auf Alphinas Arm. *„Warte. Da war jemand."*
 
-Vespers Daten (über Boten): die Verteilung kostet Moragh DOPPELT. Erst die Entnahme aus dem Hain — das zerstört den Boden. Dann die Verteilung an Hunderte — geerntete Resonanz in fremden Reservoiren zerfällt, und der Zerfall frisst Moragh-Substanz. "Wir haben Jahrzehnte verloren."
+Sie gehen hinein. Das Haus ist leer — Wohnraum, Küche. Küche: ein umgeworfener Stuhl, eine Schale zerbrochen auf dem Boden. Im Garten: Elke auf einer Bank, Kopf nach hinten, Augen offen, um den Hals — Würgespuren. Tot seit Stunden, frühe Leichenstarre setzt gerade ein.
 
-Talven steht am Grab. Nimmt die Brille ab. Milchige Augen, beide. Er sieht Alphina — eine Silhouette. Er sieht seine Hände — zitternd, dünn. Die Hände eines alten Mannes an einem dreiundzwanzigjährigen Körper.
+Alphina fällt auf die Knie neben der Bank. Berührt Elkes Hand. Kalt. Sie schreit nicht. Sie atmet tief, einmal, zweimal. Schließt Elkes Augen.
 
-Elke ist tot. Nicht wegen ihm — an Alter. Aber der Stein unter dem Grab antwortet nicht. Wegen ihm.
+**Varen neben ihr.** Er schweigt. Seine Hand auf ihrem Rücken — Wärme an der Wirbelsäule. Er hat einen Schemen geschickt, der das getan hat. Aber er empfindet etwas: Irritation, nicht Schuld. Elke war seine ehemalige Geliebte, der einzige Mensch, der ihn wirklich kannte vor dem Quellen-Unfall. Er hat sie zwanzig Moragh-Jahre nicht geliebt, aber ihm ist nicht egal, dass sie tot ist. Die Notwendigkeit war größer.
 
-Er hört auf zu ernten. In diesem Moment. Am Grab. Nicht weil jemand es ihm sagt — weil der Stein unter seinen Händen nichts mehr zu geben hat.
+*„Wer?"* fragt Alphina.
 
-Gibt die Resonanz zurück. Lässt sie in den Boden fließen. Der Preis: sein zweites Auge wird milchig. Halb blind. Hände zittern permanent. Er sieht zehn Jahre älter aus. Dreiundzwanzig. Sieht aus wie dreiunddreißig.
+Varen: *„Ich weiß nicht. Aber ich werde es herausfinden."*
 
-Am Morgen: ein Grashalm. Im toten Hain. Einer. Talven sieht ihn nicht — seine Augen sind zu schlecht. Alphina sieht ihn. Sagt nichts.
+**Die Szene.** Alphina sieht sich um. Der Brosche-Anhänger — Elkes Basalt-Splitter — fehlt. Die Schnur am Hals hängt lose, gerissen. Das ist ungewöhnlich — Elke hat den Anhänger nie abgenommen, er ist mit einer doppelten Sehnenschnur befestigt.
 
-**Tschechow:** Ein Grashalm im toten Hain. — Feuert: Epilog Moragh. Die reparierten Quellen pochen. Neues wächst.
+Sie blickt auf den Boden der Küche (sie geht zurück hinein, um eine Decke zu holen). Der Boden ist sauber. Zu sauber. Kein Blut, keine Haare. Das Haus wurde gewischt. Die Küche, nicht der Garten. Sie notiert das unbewusst, ohne es zu formulieren.
 
----
+**Am Grab.** Varen organisiert eine kleine Bestattung. Zwei Nachbarn aus Dravek kommen. Alphina lässt Blüten aus dem Boden wachsen, weiße, dichte Blüten, die Elkes Grab bedecken. Wie damals Sorels Grab in B1-K36. Der Kreis schließt sich mit dunkleren Gedanken.
 
-### Interludium XII (~S. 448, ~2.500 Wörter)
-*Varen. Schuld und Reparatur.*
+**Die Verdächtigung beginnt.** Auf dem Rückweg denkt Alphina: *„Wer tötet eine Frau mit einem Garten?"* Ihre erste Theorie: ein Dorfstreit, ein betrunkener Bauer. Aber die Würgespuren sind präzise, geübt. Kein Bauer.
 
-Varen in seinem Quartier. Nacht. Alphina schläft. Keine Dornen im Schlaf — kontrollierter seit Elkes Tod. Stiller.
+Zweite Theorie: die Thar, die einen Sympathisanten beseitigen wollte. Aber Elke war niemandem nützlich. Unwahrscheinlich.
 
-Varen vor seinen Karten. Drei Quellen repariert. Eine fehlt — Alphinas. Die Quelle die SIE zerstört hat. In Buch 2. Absichtlich. Für den Bund. Die härteste Reparatur. Nicht weil die Quelle tiefer beschädigt ist — weil Alphina sie selbst zerstört hat.
+Dritte Theorie: **Talven.** Er hat Elke zwei Mal besucht in den letzten Monaten. Elke hat Alphina in ihrem letzten Brief gewarnt: *„Er experimentiert mit Schemen. Nicht rufen — binden."* Alphina hat den Brief als Übertreibung abgetan.
 
-"Ich habe drei zerstört und drei repariert," denkt Varen. "Sie hat eine zerstört. Wenn sie sie repariert, sind wir quitt. Beide. Mit Moragh, wenn nicht miteinander."
+Jetzt denkt sie: Vielleicht nicht.
 
-Aber: die vierte Quelle liegt im Bund-Gebiet. Und die Thar kontrollieren das Portal. Und der Krieg wird schlimmer. Und die Thar haben jetzt Technologie die alles verändert.
+**Tschechow:** Die saubere Küche + der fehlende Basalt-Splitter. — Feuert: Akt IV, wenn Alphina in Varens Quartier den Splitter in einer Schublade findet und Varens Küchen-Satz hört.
 
-"Die Quellen-Reparatur reicht nicht," sagt Varen. Zu sich selbst. Zu den Karten. "Der Bund zerstört schneller als wir reparieren. Die Thar bauen schneller als wir verstehen. Und der Riss —" Er sieht auf die Karte. Die Riss-Quelle. Die Quelle die das Portal speist. Die Quelle die Magie nach Thalassien sickern lässt. "Der Riss ist das Problem."
+### Kap. 58 — Alphina (S. 395–415, ~5.000 Wörter)
+*Halvaren-Umland. Die gefälschten Beweise.*
 
-Erster Gedanke. Die Saat. Nicht ausgesprochen. Noch nicht.
+Alphina reist zu Talven. Allein. Varen bietet sich an mitzukommen, sie lehnt ab. *„Das muss ich selbst."* Er nickt.
 
-**Tschechow:** "Der Riss ist das Problem." — Feuert: Akt IV. Die Lösung. Die Riss-Quelle zerstören.
+Zwei Tage nach Elkes Beerdigung. Talven wohnt in einem Zimmer einer Gastherberge außerhalb Halvaren. Alphina kommt abends an.
+
+**Auf der Anreise.** Sie sieht an einem Zaun ein Flugblatt hängen. Das kennt sie — Runas zweisprachige Druckschrift. Eine Karikatur: Drael als Figur mit zwei Gesichtern. Sie lächelt kurz, reißt sie ab, nimmt sie mit.
+
+**Die Herberge.** Talvens Zimmer. Er öffnet, ist überrascht. *„Alphina — du —"* Sein Haar ist zerzaust, seine Hände sind kalt, als er ihre nimmt. Kalte Hände. Sie bemerkt es. Notiert.
+
+Sie fragt ohne Umweg: *„Wo warst du vor drei Tagen?"*
+
+Er erschrickt. *„In Halvaren. Warum?"*
+
+*„Elke ist tot. Ermordet."*
+
+Seine Augen: echter Schock. *„Elke?"* Einen Moment zittert seine Stimme. *„Ich war nie — ich war in Halvaren — die ganze Woche —"*
+
+**Sie sieht sich im Zimmer um.** Auf dem Tisch: Bücher, Papier, ein Krug Tee. An der Wand: ein Schrank. Sie öffnet ihn (er protestiert nicht). Darin: das schwarz-gebundene Schemen-Bindungs-Handbuch von Varens Bote. Sie kennt die Lettern — Velmar-Form. Im Bund verboten.
+
+Sie zieht es heraus. *„Was ist das?"*
+
+Talven: *„Ein — ein Buch. Ich habe es geliehen."*
+
+*„Von wem?"*
+
+*„Ich weiß nicht. Es lag vor meiner Tür."*
+
+Alphina glaubt ihm nicht.
+
+**Auf dem Boden neben dem Schrank** liegt ein Zettel. Halb unter den Schrank geschoben. Sie hebt ihn auf. Drei Zeilen in einer Handschrift, die aussieht wie Talvens (Varens Schrift-Imitation, perfekt). *„Morgen Abend. Dravek. Elke."*
+
+Talven: *„Das — das ist nicht meine Schrift —"* Er versucht es zu erklären, aber seine Stimme zittert zu sehr, um vertrauenswürdig zu klingen. Seine kalten Hände. Das Buch. Der Zettel.
+
+**Alphina bleibt nicht.** Sie dreht sich um, geht. An der Tür: *„Ich komme wieder. Überlege, was du mir sagen willst."*
+
+Sie geht, aber sie weiß schon: er lügt. Sie wird mit Beweisen zurückkommen.
+
+**Was sie nicht bemerkt:** Vor der Herberge, hundert Meter entfernt, verschwindet gerade ein kleiner Schemen in einer Wand. Varens Schemen, der die Falle aufgebaut hat. Zettel platzieren, Buch nicht berühren. Saubere Arbeit.
+
+**Tschechow:** Der Zettel mit Varens Schrift-Imitation. — Feuert: Akt IV, wenn Alphina rückblickend erkennt, dass die Schrift einen Hauch zu glatt war — Schreiber zu geübt in kurzer Form.
+
+### Kap. 59 — Talven (S. 415–435, ~5.000 Wörter)
+*Halvaren. Talvens Absturz.*
+
+Talven-POV. Nach Alphinas Besuch. Er sitzt in seinem Zimmer, das Handbuch offen vor sich. Seine Hände zittern. Nicht aus Kälte — aus Wut. Aus Schmerz. Die Frau, die er als Heldin gekannt hat, die er in der Moragh-Stadt zum ersten Mal gesehen hat, hat ihn gerade des Mordes beschuldigt. An Elke. An der Frau mit dem Garten, die ihm in den ersten Wochen seines Moragh-Aufenthalts Tee gebracht hat, als er schwach war.
+
+Er hat Elke zwei Mal besucht, in den letzten drei Monaten. Einmal, um ihr ein Dankgeschenk zu bringen. Einmal, um sie zu fragen, ob er einen ihrer Basalt-Formungen kaufen könne. Sie hat gelacht, ihm ein kleines Stück geschenkt. Er hat es in seinem Zimmer auf dem Regal.
+
+Er blickt zum Regal. Der Basalt-Splitter liegt da. Er nimmt ihn in die Hand. Warm. Nach Elkes Hand warm. Obwohl sie tot ist.
+
+**Die Bindung.** Er hat seit drei Wochen mit dem Handbuch gearbeitet. Nächtliche Übungen. Schemen gerufen, im kleinen Kristall gebunden, Energie abgenommen. Eine erste Batterie steht auf seinem Tisch — ein faustgroßer Kristall, der dunkel schimmert, ungleichmäßig. Drei Schemen hat er geopfert. Drei Rückführungen nicht stattgefunden — sie sind aus der Existenz gelöscht.
+
+Er fühlt sich nicht schuldig. Die Schemen sind Werkzeuge. Das sagt das Handbuch. Das sagt Velmar seit Generationen.
+
+Aber er fühlt sich **leer**. Die ersten Experimente haben ihn beflügelt — Macht, Möglichkeit. Die dritte Nacht: ein Zittern, das nicht weggeht. Seine Hände bleiben kalt, egal wie er sie reibt. Sein Spiegelbild: blasser als vorher.
+
+**Er entscheidet sich zu eskalieren.** Wenn Alphina ihn verdächtigt, muss er stark sein. Die Kristall-Batterien geben ihm ein zweites Reservoir. Er kann damit Resonanz wirken, ohne seinen Körper zu belasten. Er wird ihr **beweisen**, dass er kein Mörder ist — indem er so mächtig wird, dass sie ihn nicht berühren kann.
+
+Er hat Alphina falsch gelesen. Die Logik wird nicht aufgehen. Aber in diesem Moment sieht er es nicht.
+
+**Blutmagie.** Er nimmt ein Rasiermesser aus der Schublade. Schneidet sich einen dünnen Strich am Unterarm. Das Blut tropft in ein kleines Tongefäß. Er mischt es mit der Asche eines geopferten Schemen (die fällt nach dem Ritual in Krümeln aus dem Kristall). Die Mischung ist ein Resonanz-Verstärker — das Handbuch beschreibt es.
+
+Er trinkt. Sofort: Wärme in den Fingern. Er kann für eine Stunde wieder **richtig** wirken — Feuer aus der Hand, stärker als sein normales Talent zuließe. Er lacht.
+
+**Nach dem Ritual.** Seine Augen sind normal. Seine Hände bleiben kalt, als die Stunde um ist. Die Narbe am Arm heilt normal — kein „nicht heilen". Er ist physisch intakt.
+
+Nur: der Schemen, den er in der Nacht beschwört, **weicht ihm aus**. Er kommt, aber er dreht sich von Talven weg, als wäre Talven ein Raubtier. Talven merkt es. Ignoriert es. *„Seltsam. Vielleicht ein Variantenverhalten."* Er bindet ihn trotzdem.
+
+**Tschechow:** Die erste Schemen-Ausweich-Reaktion. — Feuert: Akt III, wenn Alphina bei der Konfrontation sieht, wie Talvens eigener Schemen an seiner Bindung zerrt.
+
+### Kap. 60 — Alphina + Vesper (S. 435–455, ~5.500 Wörter)
+*Varens Quartier in Torkal. Vespers Brief.*
+
+Alphina zurück in Torkal. Sie hat drei Beweisstücke: das Handbuch, den Zettel mit der Schrift, das Gerücht von einem Lied in Talvens Stimme, das sie in Halvaren aufgeschnappt hat (gefälschtes Schemen-Mimikry, genau platziert).
+
+Sie zeigt Varen die Beweise. Er studiert sie lange. Sagt: *„Das ist schwerwiegend. Aber nicht endgültig. Du brauchst mehr."*
+
+Alphina: *„Was soll ich tun?"*
+
+Varen: *„Warte. Beobachte ihn. Wenn er es war, wird er Fehler machen."*
+
+(Varen weiß, dass Talven keine Fehler machen wird, weil Talven unschuldig ist. Er empfiehlt Geduld, um den Verdacht länger reifen zu lassen. Mit jeder Woche wird Alphina überzeugter sein.)
+
+**Der unerwartete Brief.** Ein Schemen-Bote bringt einen Brief. Handgeschrieben, von Vesper. Aus Thar-Kem.
+
+*„Alphina. Wir müssen sprechen. Was ich gefunden habe, betrifft Varen. Komm, wenn du kannst. Oder sag mir, wohin. Vesper."*
+
+Alphina liest ihn, blinzelt. Sie hat mit Vesper nicht mehr gesprochen seit Sulkara. Dass er sie direkt anschreibt — noch dazu mit einem Hinweis auf Varen — ist beunruhigend.
+
+Varen neben ihr, liest mit. Sagt ruhig: *„Was wird er wissen?"*
+
+Alphina: *„Ich weiß nicht."*
+
+Varen: *„Geh hin. Ich will nicht, dass du misstrauisch bist wegen irgendwelcher Gerüchte. Wenn er etwas weiß, wirst du es herausfinden. Wenn nicht — umso besser."*
+
+(Varen weiß, was Vesper gefunden hat. Er hat seit Wochen registriert, dass Vesper in der Thar-Bibliothek Velmar-Fragmente studiert. Er weiß, dass Vesper nah am Ritual-Kalkül ist. Er lässt Alphina gehen — weil er testen will, ob sie **auch gegen Vespers Beweise** bei ihm bleibt. Wenn ja: Anker hält. Wenn nicht: er muss Maßnahmen ergreifen.)
+
+**Alphina bereitet die Reise vor.** Zwei Tage Marsch nach Thar-Kem, in Zivilkleidung, unter Varens-Schemen-Schutz. Sie küsst Varen zum Abschied. Er hält sie kurz fest, lässt sie dann gehen.
+
+**Nacht vor der Abreise.** Sie sitzt vor dem Kamin, das Maren-Dokument aus Elkes Nachlass in der Hand. Das Paket, das Elke ihr in B2 gegeben hat — sie hat es in ihrer Tasche vergessen. Elke, die sie nicht mehr fragen kann.
+
+Sie öffnet das Paket. Ein Leinentuch, darin: ein Velmar-Dokument, alt, vergilbt. Und ein Begleitbrief von Maren, kurz.
+
+*„Elke. Verbrenne es nicht. Lies es nicht. Gib es Alphina, wenn sie soweit ist. Du wirst wissen wann. — M."*
+
+Alphina öffnet das Velmar-Dokument. Sie versteht die Sprache halb. Aber sie sieht **einen Namen**. V-A-R-E-N.
+
+Sie kann das Dokument nicht ganz entschlüsseln. Sie braucht einen Übersetzer.
+
+**Vesper ist Übersetzer.** Muster-Denker. Linguistik als Nebeninteresse. Wenn einer dieses Dokument lesen kann, dann er.
+
+Sie packt das Dokument in ihre Innentasche. Morgen reist sie ab.
+
+**Varen beobachtet sie durch einen Schemen.** Sieht, dass sie ein Dokument in der Hand hält. Kann nicht lesen, was es ist — aus der Distanz, durch die Wand. Notiert: *„Alphina mit einem Papier. Geh mit Vorsicht."*
+
+**Tschechow:** Das Velmar-Dokument in Alphinas Innentasche. — Feuert: Akt III, K61 (Vesper entschlüsselt es, erkennt das Ritual-Kalkül).
 
 ---
 
 ## Tschechow-Tabelle Akt II
 
-| Detail | Akt II | Feuert in |
-|--------|--------|-----------|
-| "Wertvollstes Werkzeug" | Kap 51 — Die Thar-Kommandantin zu Vesper | Akt III — Das Wort das Vesper kippt |
-| Der tote Hain, Staub statt Moos | Kap 52 — Ausgeraubt, nicht erschöpft | Akt IV — Neues kann wachsen. Ein Grashalm |
-| Talvens Brille auf dem Boden | Kap 53 — Er nimmt sie ab, lässt sie liegen | Akt III — Blind, ohne Versteck |
-| Resonanz-Käfig-Pläne | Kap 54 — Metallklemmen, Infusionen, 20 Plätze | Akt III — Nyr geht. Vesper folgt |
-| Marens Farn dreht sich noch | Kap 55 — Vestigiale Resonanz, schwach | Epilog — Farn bewegt sich NICHT |
-| Fragile dritte Quelle | Kap 56 — Pocht, aber der Bund kommt | Akt III — Alphina muss entscheiden |
-| Drei Kontinente, Planeten-Karte | Kap 57 — "Wir brauchen Schiffe" | Akt IV — Portal zu = kein Imperium |
-| Resonanz-Spiegel-Abhängigkeit | Kap 58 — "Mehr. Ich will mehr" | Akt III — Kontrolle. Die Thar kontrollieren die Helme |
-| Biotech-Schemen atmen | Kap 58 — Persistent, selbsterhaltend | Akt III/IV — Armee die nie aufhört |
-| Varens Wort über Sorel = verstanden | Kap 59 — Alphina hört und versteht | Epilog — Jedes Wort verstanden |
-| Grashalm im toten Hain | Kap 60 — Talven sieht ihn nicht | Epilog — Quellen pochen. Neues wächst |
-| "Der Riss ist das Problem" | I12 — Varens erster Gedanke | Akt IV — Die Lösung |
-| Elkes Garten-Anleitung | I11/Kap 59 — "Sag es Varen" | Epilog — Alphina + Varen in Elkes Garten |
-| Runas verstaubte Presse, unbeachtet | Kap 58 — Sie sieht sie nicht an | Ende — Presse oder Schmiede? |
+| Detail | Kap | Feuert in |
+|--------|-----|-----------|
+| Die Bauern-Karawane mit Nachrichten über Halvara-Kel | 51 | Akt III, wenn Alphina den toten Fels selbst sieht |
+| Esins Brief in Tyras Innentasche | I13 | Akt III, wenn Tyra Alphinas Gruppe erreicht |
+| Varens drei neue Anker-Namen (Tormen, Varshek, Narveth) | 52 | Akt IV, wenn Alphina Zeugen in diesen Städten findet |
+| Der Temporal-KI-Helm und Vespers Kopfschmerzen | 53 | Akt III, Ritual-Geometrie-Berechnung |
+| Runas drei Sätze + der vierte | 54 | Akt IV, Reveal |
+| Der Brief an Kelmaris Verask | 55 | Akt III, wenn Drael die Authentizität prüft |
+| Tyras erwachende Schall-Resonanz | 56 | Akt III, erste Schemen-Beschwörung |
+| Syras Notizbuch-Eintrag („beim nächsten Mal eine Armee") | I8 | Akt III, I9 — Doktrinwechsel |
+| Die saubere Küche + der fehlende Basalt-Splitter | 57 | Akt IV, wenn Alphina den Splitter in Varens Schublade findet |
+| Der Zettel mit Varens Schrift-Imitation | 58 | Akt IV, Alphinas rückwirkende Erkenntnis |
+| Die erste Schemen-Ausweich-Reaktion auf Talven | 59 | Akt III, Talven-Konfrontation |
+| Das Velmar-Dokument in Alphinas Innentasche | 60 | Akt III, K61, Vesper entschlüsselt |
+
+---
+
+## Ton und Hinweise für die Ausarbeitung
+
+- **Alphina kippt nicht noch.** Sie ist erschüttert durch Elkes Tod, aber sie verdächtigt Talven — nicht Varen. Varens Helfersyndrom-Fassade ist intakt. Die Leserin sollte am Ende von Akt II denken: Varen ist empathisch, Alphina ist blind für Talven, Runa ist paranoid.
+- **Vespers Brief ist ein Bruch-Vorsignal.** Der letzte Satz in Akt II muss Spannung erzeugen — **wir gehen in Akt III hinein mit einem Dokument, das lesbar gemacht werden muss.**
+- **Maren stirbt ohne Geste.** Kein Pathos, keine lange Abschiedsszene. Ihr Satz ist der härteste der Trilogie. Er trifft, weil er falsch ist.
+- **Talvens Abstieg ist inneres Drama.** Ein einzelner Mensch, den die Welt missversteht, der sich radikalisiert. Lesbar als tragische Figur — seine Unschuld ist echt.
+- **Varens POV-Szenen zeigen Kaltheit unter der Fassade**, aber nur der Leser sieht das. Alphina liest ihn nicht — er ist zu geübt.
+- **Dravek als Basis** für Elke: Die Stadt wird wichtig — hier liegt die Portal-Quelle. In Akt IV wird das Finale dort stattfinden. Elkes Tod in Dravek ist ein Tschechow für den Finale-Ort.
+
+---
+
+## Setup für Akt III
+
+Alphina in Thar-Kem, liest mit Vesper das Velmar-Dokument. Der Wendepunkt. Sie wird Varen nicht sofort verlassen — sie braucht mehr Beweise. Aber das Ritual-Kalkül ist jetzt bekannt.
+
+Parallel: Talven radikalisiert weiter. Runa in Halvaren wird von Drael konkret bedroht. Maren-Institut kippt unter Syra Halvard zur Eroberungs-Doktrin.
+
+Expedition 2 in Vorbereitung auf Thalassien-Seite (wird in Interludien I9 und I14 sichtbar).

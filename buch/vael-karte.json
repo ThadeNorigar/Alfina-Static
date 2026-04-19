@@ -346,20 +346,28 @@
   ],
   "cliff": [
     [
+      0,
+      335
+    ],
+    [
+      80,
+      350
+    ],
+    [
       180,
-      360
+      362
     ],
     [
       270,
-      370
+      372
     ],
     [
       370,
-      378
+      380
     ],
     [
       470,
-      385
+      386
     ],
     [
       570,
@@ -371,15 +379,27 @@
     ],
     [
       770,
-      383
+      384
     ],
     [
       870,
-      370
+      372
     ],
     [
       960,
-      355
+      358
+    ],
+    [
+      1060,
+      340
+    ],
+    [
+      1150,
+      320
+    ],
+    [
+      1200,
+      305
     ]
   ],
   "places": [
@@ -387,8 +407,8 @@
       "id": "botanischer_garten",
       "name": "Botanischer Garten",
       "type": "garden",
-      "x": 820,
-      "y": 260,
+      "x": 760,
+      "y": 230,
       "district": "oberstadt",
       "elevation": "hoch",
       "chapters": [
@@ -401,14 +421,14 @@
         "K19",
         "K22"
       ],
-      "description": "Vier Jahrhunderte alt, Purpurstein-Mauern, Steinkreis auf kleinem Hügel (Riss-Quelle darunter). Gärtner Henrik."
+      "description": "Vier Jahrhunderte alt, umgeben von einer hohen Purpurstein-Mauer. Steinkreis auf kleinem Huegel (Riss-Quelle darunter). Nordwestlich hinter dem Handelshaus. Gaertner Henrik."
     },
     {
       "id": "steinkreis",
       "name": "Steinkreis",
       "type": "portal",
-      "x": 830,
-      "y": 240,
+      "x": 770,
+      "y": 215,
       "district": "oberstadt",
       "elevation": "hoch",
       "chapters": [
@@ -417,7 +437,7 @@
         "K17",
         "K19"
       ],
-      "description": "Sieben Purpursteine, hüfthoch, Kahlboden in der Mitte. Riss-Quelle. Portal öffnet hier in K19."
+      "description": "Sieben hueftohe Purpursteine im Kreis, Kahlboden in der Mitte. Riss-Quelle. Portal oeffnet hier in K19."
     },
     {
       "id": "rathaus",
@@ -624,6 +644,28 @@
         "K21"
       ],
       "description": "Lange Treppe aus Purpurstein. Verbindung Unter- zu Oberstadt. 10-15 Min."
+    },
+    {
+      "id": "stadttor_west",
+      "name": "Westtor",
+      "type": "gate",
+      "x": 30,
+      "y": 320,
+      "district": "oberstadt",
+      "elevation": "hoch",
+      "chapters": [],
+      "description": "Kuestenstrasse aus dem Westen. Nebenzufahrt, weniger frequentiert als das Nordtor."
+    },
+    {
+      "id": "stadttor_ost",
+      "name": "Osttor",
+      "type": "gate",
+      "x": 1170,
+      "y": 290,
+      "district": "oberstadt",
+      "elevation": "hoch",
+      "chapters": [],
+      "description": "Landstrasse aus dem Osten, vorbei am Hinterland. Nebenzufahrt."
     }
   ],
   "streets": [
@@ -694,27 +736,27 @@
         ],
         [
           500,
-          290
+          280
         ],
         [
           560,
-          280
+          275
         ],
         [
           630,
-          280
+          275
         ],
         [
           700,
-          275
+          270
         ],
         [
           740,
           285
         ],
         [
-          820,
-          260
+          760,
+          230
         ]
       ]
     },
@@ -761,6 +803,60 @@
         [
           820,
           260
+        ]
+      ]
+    },
+    {
+      "name": "Westtor-Strasse",
+      "path": [
+        [
+          30,
+          320
+        ],
+        [
+          110,
+          310
+        ],
+        [
+          200,
+          300
+        ],
+        [
+          280,
+          260
+        ],
+        [
+          380,
+          220
+        ]
+      ]
+    },
+    {
+      "name": "Osttor-Strasse",
+      "path": [
+        [
+          1170,
+          290
+        ],
+        [
+          1080,
+          280
+        ],
+        [
+          980,
+          265
+        ],
+        [
+          880,
+          250
+        ],
+        [
+          820,
+          240
+        ],
+        [
+          770,
+          215
         ]
       ]
     }

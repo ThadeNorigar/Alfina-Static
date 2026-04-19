@@ -6,30 +6,43 @@
   <meta name="robots" content="noindex, nofollow">
   <title>Moragh — Karte & Reisezeit</title>
   <link rel="stylesheet" href="../styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/d3-delaunay@6"></script>
   <style>
     :root {
       --ink: #1e1c19; --muted: #6b6259; --accent: #6b3a3a;
       --deep: #0f0e0c; --smoke: #8a8279;
       --paper: #f8f4ee; --paper-edge: #e8e0d4;
-      --thar: #a85a3e; --orath: #3e7a8a; --velmar: #9a4a7a; --frei: #6b8a5a; --tot: #e74c3c;
     }
     body {
       background: var(--deep); color: var(--paper-edge);
       min-height: 100vh; padding: 1rem;
-      font-family: 'Inter', sans-serif;
-      margin: 0;
+      font-family: 'Inter', sans-serif; margin: 0;
     }
     nav { display: none; }
-    .wrap { max-width: 1400px; margin: 0 auto; }
+    .wrap { max-width: 1500px; margin: 0 auto; }
 
     .top {
       display: flex; justify-content: space-between; align-items: baseline;
-      padding: 0.5rem 0 1rem;
+      padding: 0.5rem 0 0.8rem;
       font-family: 'Cormorant Garamond', serif; letter-spacing: 0.1em;
     }
     .top-title { font-size: 0.8rem; letter-spacing: 0.4em; text-transform: uppercase; color: var(--smoke); }
     .top a { color: var(--paper-edge); text-decoration: none; border-bottom: 1px solid var(--smoke); padding-bottom: 2px; }
     .top a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+    .view-bar {
+      display: flex; gap: 0.4rem; padding: 0 0 0.6rem; align-items: center;
+    }
+    .view-btn {
+      padding: 0.3rem 0.8rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.82rem;
+      letter-spacing: 0.15em; text-transform: uppercase;
+      background: transparent; color: var(--smoke);
+      border: 1px solid var(--smoke); cursor: pointer;
+      border-radius: 2px; transition: all 0.2s;
+    }
+    .view-btn:hover { color: var(--paper-edge); border-color: var(--paper-edge); }
+    .view-btn.active { background: var(--accent); color: var(--paper); border-color: var(--accent); }
 
     .grid {
       display: grid;
@@ -47,10 +60,9 @@
       overflow: hidden;
     }
     .map-card {
-      aspect-ratio: 16 / 11;
-      position: relative;
+      aspect-ratio: 16 / 11; position: relative;
     }
-    svg { width: 100%; height: 100%; display: block; background: #0d1015; }
+    svg#map { width: 100%; height: 100%; display: block; background: #0d1015; }
 
     .side-card { padding: 1.2rem; }
     .side-card h2 {
@@ -59,12 +71,12 @@
       letter-spacing: 0.05em;
     }
     .side-card h3 {
-      font-family: 'Cormorant Garamond', serif; font-size: 0.9rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.85rem;
       font-weight: 500; margin: 1rem 0 0.4rem; color: var(--accent);
       text-transform: uppercase; letter-spacing: 0.1em;
     }
     label {
-      display: block; font-size: 0.7rem; color: var(--muted);
+      display: block; font-size: 0.68rem; color: var(--muted);
       margin-top: 0.7rem; margin-bottom: 0.2rem;
       text-transform: uppercase; letter-spacing: 0.1em;
     }
@@ -77,52 +89,84 @@
     }
     select:focus { outline: 1px solid var(--accent); }
 
-    .result {
-      margin-top: 1rem; padding: 0.8rem; border-left: 3px solid var(--accent);
+    .mode-row {
+      display: flex; gap: 0.3rem; margin-top: 0.3rem; flex-wrap: wrap;
+    }
+    .mode-btn {
+      flex: 1; padding: 0.3rem 0.4rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.75rem;
+      letter-spacing: 0.05em;
+      background: #fff; color: var(--muted);
+      border: 1px solid var(--paper-edge); cursor: pointer;
+      border-radius: 2px; transition: all 0.2s;
+      min-width: 80px;
+    }
+    .mode-btn:hover { color: var(--ink); border-color: var(--smoke); }
+    .mode-btn.active { background: var(--accent); color: var(--paper); border-color: var(--accent); }
+
+    .result { margin-top: 1rem; padding: 0.8rem; border-left: 3px solid var(--accent);
       background: rgba(107,58,58,0.05); border-radius: 2px;
     }
     .result-row {
       display: flex; justify-content: space-between; align-items: baseline;
-      padding: 0.35rem 0; border-bottom: 1px solid rgba(107,58,58,0.06);
-      font-size: 0.88rem;
+      padding: 0.3rem 0; border-bottom: 1px solid rgba(107,58,58,0.06);
+      font-size: 0.85rem;
     }
     .result-row:last-child { border-bottom: none; }
     .result-row .label-text {
-      font-family: 'Cormorant Garamond', serif;
-      color: var(--ink); font-size: 0.92rem;
+      font-family: 'Cormorant Garamond', serif; color: var(--ink); font-size: 0.92rem;
     }
     .result-row .value {
       font-family: 'JetBrains Mono', monospace; font-size: 0.78rem;
       color: var(--accent); font-weight: 600;
     }
-    .result-total {
-      margin-top: 0.4rem; padding-top: 0.5rem; border-top: 2px solid var(--paper-edge);
+
+    .stops {
+      margin-top: 0.5rem; padding-top: 0.5rem;
+      border-top: 1px solid var(--paper-edge);
       font-family: 'Cormorant Garamond', serif; font-size: 0.82rem;
-      color: var(--muted); line-height: 1.4;
+      color: var(--muted); line-height: 1.5;
+      max-height: 180px; overflow-y: auto;
+    }
+    .stops-title {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.72rem;
+      color: var(--muted); text-transform: uppercase;
+      letter-spacing: 0.1em; margin-bottom: 0.3rem;
+    }
+    .stop-item {
+      display: flex; justify-content: space-between;
+      padding: 0.1rem 0; color: var(--ink);
+    }
+    .stop-item .seg-km {
+      font-family: 'JetBrains Mono', monospace; font-size: 0.72rem;
+      color: var(--smoke);
+    }
+
+    .error {
+      margin-top: 1rem; padding: 0.8rem;
+      background: rgba(231,76,60,0.08); border-left: 3px solid #e74c3c;
+      color: #b8422a; font-size: 0.85rem;
+      font-family: 'Cormorant Garamond', serif;
     }
 
     .legend {
       display: flex; gap: 0.8rem; flex-wrap: wrap;
-      padding: 0.6rem 1.2rem;
+      padding: 0.6rem 1.2rem; margin-top: 0.6rem;
       background: var(--paper-edge); color: var(--ink);
-      font-size: 0.68rem;
+      font-size: 0.68rem; border-radius: 2px;
     }
     .legend-item { display: flex; align-items: center; gap: 0.3rem; }
     .legend-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
-    .legend-dot.tot { background: var(--tot); border-radius: 0; transform: rotate(45deg); }
-    .legend-wreck { font-size: 0.9rem; }
 
     .city-tooltip {
       position: absolute; pointer-events: none;
       background: var(--paper); border: 1px solid var(--accent);
       padding: 0.3rem 0.6rem; border-radius: 2px;
       font-family: 'Inter', sans-serif; font-size: 0.72rem; color: var(--ink);
-      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-      display: none; z-index: 10;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3); display: none; z-index: 10;
     }
-
     .note {
-      font-family: 'Cormorant Garamond', serif; font-size: 0.78rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.76rem;
       color: var(--muted); line-height: 1.5; margin-top: 0.8rem;
       font-style: italic;
     }
@@ -132,9 +176,13 @@
   <div class="wrap">
     <div class="top">
       <div class="top-title">Moragh — Karte & Reisezeit</div>
-      <div>
-        <a href="index.html">&larr; Story in Work</a>
-      </div>
+      <div><a href="index.html">&larr; Story in Work</a></div>
+    </div>
+
+    <div class="view-bar">
+      <button class="view-btn active" data-view="political">Politisch</button>
+      <button class="view-btn" data-view="magic">Magiestärke</button>
+      <button class="view-btn" data-view="plain">Einfach</button>
     </div>
 
     <div class="grid">
@@ -144,7 +192,7 @@
       </div>
 
       <div class="side-card">
-        <h2>Reisezeit zwischen zwei Orten</h2>
+        <h2>Reiseroute berechnen</h2>
 
         <label for="from">Von</label>
         <select id="from"></select>
@@ -152,87 +200,268 @@
         <label for="to">Nach</label>
         <select id="to"></select>
 
-        <div id="result" class="result" style="display:none">
-          <div class="result-row">
-            <span class="label-text">Luftlinie</span>
-            <span class="value" id="dist">—</span>
-          </div>
-          <h3 style="margin-top:0.9rem; color:var(--muted); font-size:0.7rem;">Reisezeit</h3>
-          <div class="result-row">
-            <span class="label-text">Zu Fuß</span>
-            <span class="value" id="t-foot">—</span>
-          </div>
-          <div class="result-row">
-            <span class="label-text">Reit-Schemen</span>
-            <span class="value" id="t-schemen">—</span>
-          </div>
-          <div class="result-row">
-            <span class="label-text">Magitech-Bestie</span>
-            <span class="value" id="t-magitech">—</span>
-          </div>
-          <div class="result-total" id="notes"></div>
+        <label>Fortbewegung</label>
+        <div class="mode-row">
+          <button class="mode-btn active" data-mode="foot">Zu Fuß</button>
+          <button class="mode-btn" data-mode="schemen">Reit-Schemen</button>
+          <button class="mode-btn" data-mode="magitech">Magitech</button>
         </div>
 
+        <div id="result" class="result" style="display:none">
+          <div class="result-row">
+            <span class="label-text">Gesamt-Strecke</span>
+            <span class="value" id="dist">—</span>
+          </div>
+          <div class="result-row">
+            <span class="label-text">Reisezeit</span>
+            <span class="value" id="time">—</span>
+          </div>
+          <div class="result-row">
+            <span class="label-text">Zwischenstopps</span>
+            <span class="value" id="stops-count">—</span>
+          </div>
+          <div class="stops">
+            <div class="stops-title">Route</div>
+            <div id="stops-list"></div>
+          </div>
+        </div>
+
+        <div id="error" class="error" style="display:none"></div>
+
         <p class="note">
-          Distanzen als Luftlinie, real ist durch Gelände, Quellen-Rastpunkte und Umwege meist 20–40 % länger.
-          Reisezeiten sind Durchschnitts-Richtwerte aus Moragh-Bedingungen.
+          Routing über Städte-Knoten (Quellen-Netzwerk). Max. Tagesetappe hängt von der Fortbewegungsart ab.
+          Klick auf Stadt/Marker setzt Start oder Ziel.
         </p>
       </div>
     </div>
 
     <div class="legend">
-      <div class="legend-item"><span class="legend-dot" style="background:var(--orath)"></span> Bund/Orath</div>
-      <div class="legend-item"><span class="legend-dot" style="background:var(--thar)"></span> Konglomerat/Thar</div>
-      <div class="legend-item"><span class="legend-dot" style="background:var(--velmar)"></span> Velmar</div>
-      <div class="legend-item"><span class="legend-dot" style="background:var(--frei)"></span> Freie Städte</div>
-      <div class="legend-item"><span class="legend-dot tot"></span> Tote Städte (Quellen-Kollaps)</div>
-      <div class="legend-item"><span style="color:var(--accent)">◉ Steinplatz (Portal)</span></div>
-      <div class="legend-item"><span class="legend-wreck" style="color:#c4a04a">🛸 Raumschiff-Wrack</span></div>
+      <div class="legend-item"><span class="legend-dot" style="background:#a08030"></span> Bund/Orath</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#8b5e3c"></span> Konglomerat/Thar</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#6b4a6b"></span> Velmar</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#5a7a5a"></span> Freie Städte</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#e74c3c"></span> Tote Städte (keine Quellen)</div>
+      <div class="legend-item"><span style="color:#d89090">◉ Steinplatz (Portal)</span></div>
+      <div class="legend-item"><span style="color:#c4a04a">🛸 Raumschiff-Wrack</span></div>
     </div>
   </div>
 
 <script>
 const factionColors = {
-  orath: '#3e7a8a',
-  thar: '#a85a3e',
-  velmar: '#9a4a7a',
-  frei: '#6b8a5a',
-  tot: '#e74c3c'
+  thar:   { fill: '#3d2a1a', stroke: '#8b5e3c', dot: '#8b5e3c' },
+  velmar: { fill: '#2d1a2d', stroke: '#6b4a6b', dot: '#6b4a6b' },
+  orath:  { fill: '#2d2810', stroke: '#a08030', dot: '#a08030' },
+  frei:   { fill: '#1a2a1a', stroke: '#5a7a5a', dot: '#5a7a5a' },
+  tot:    { fill: '#1a1a1a', stroke: '#4a4a4a', dot: '#e74c3c' }
 };
+const magicRadius   = { 3: 120, 2: 80, 1: 50, 0: 25, '-1': 0 };
+const magicStrength = { 3: 0.64, 2: 0.45, 1: 0.3, 0: 0.115, '-1': 0 };
 
-// Konvention aus moragh-editor.html: 1 SVG-Unit = 3.37 km
+// 1 SVG-Unit = 3.37 km (Konvention aus moragh-editor.html)
 const KM_PER_UNIT = 3.37;
 
-// Reisegeschwindigkeiten (km/Tag, Durchschnitt inkl. Pausen)
-const SPEEDS = {
-  foot:     { kmPerDay: 32,  label: 'Zu Fuß',          note: '4 km/h × 8 Std, mit Pausen' },
-  schemen:  { kmPerDay: 65,  label: 'Reit-Schemen',    note: '12 km/h, mehrmals am Tag neu rufen (2–3 Std pro Schemen)' },
-  magitech: { kmPerDay: 90,  label: 'Magitech-Bestie', note: '15 km/h, 6–8 Std Einsatz, dann Aufladung an Quelle' }
+// Reise-Parameter pro Modus
+const MODES = {
+  foot: {
+    label: 'Zu Fuß',
+    kmPerDay: 32,                     // 4 km/h × 8 Std
+    maxEdgeKm: 80,                    // 2–3 Tage zwischen Versorgungspunkten
+    note: '4 km/h, 8 Std/Tag, Pause + Verpflegung in Städten'
+  },
+  schemen: {
+    label: 'Reit-Schemen',
+    kmPerDay: 65,                     // Rufer lädt an Quellen auf, mehrfach neu rufen pro Tag
+    maxEdgeKm: 60,                    // Ruf-Schemen hält 2–3 Std; Rufer muss an Quelle nachladen
+    note: '12 km/h, Schemen hält 2–3 Std, Rufer lädt an Quellen'
+  },
+  magitech: {
+    label: 'Magitech-Bestie',
+    kmPerDay: 90,                     // 15 km/h, 6 Std, dann Ladestopp
+    maxEdgeKm: 120,                   // Bestien-Kern hält 6–8 Std ≈ 90–120 km zwischen Aufladungen
+    note: '15 km/h, 6–8 Std Einsatz pro Aufladung an Thar-Quellenstation'
+  }
 };
 
 const svg = document.getElementById('map');
 const ns = 'http://www.w3.org/2000/svg';
 function el(tag, attrs) {
   const e = document.createElementNS(ns, tag);
-  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  for (const k in (attrs||{})) e.setAttribute(k, attrs[k]);
   return e;
 }
 
 let data = null;
+let viewMode = 'political';
+let mode = 'foot';
+let selectedFrom = '', selectedTo = '';
+let nodes = [];      // alle routbaren Punkte (Städte ohne size===-1)
+let nodeByName = {};
+let adj = [];        // adjacency: adj[i] = [{to: j, km: d}, ...]
 
 function coastPath(coast) {
   if (!coast || !coast.length) return '';
   return 'M ' + coast.map(p => p[0] + ',' + p[1]).join(' L ') + ' Z';
 }
 
+function distKm(a, b) {
+  const du = Math.hypot(a.x - b.x, a.y - b.y);
+  return du * KM_PER_UNIT;
+}
+
+function buildGraph() {
+  // Alle Städte sind Knoten. Tote (size=-1) werden NICHT als Aufladepunkte genutzt
+  // — Reisende nutzen sie nicht, weil dort keine Quellen mehr sind. Sie bleiben aber als
+  // Orte wählbar (ziel oder start), sind dann meist unerreichbar ohne Zwischenstopp.
+  nodes = [];
+  nodeByName = {};
+  data.cities.forEach(c => {
+    const entry = { name: c.name, x: c.x, y: c.y, faction: c.faction, size: c.size || 0, kind: 'city' };
+    nodes.push(entry);
+    nodeByName[c.name] = entry;
+  });
+  if (data.portal) {
+    const p = { name: data.portal.name, x: data.portal.x, y: data.portal.y, faction: 'frei', size: 0, kind: 'portal' };
+    nodes.push(p); nodeByName[p.name] = p;
+  }
+  if (data.landmarks) {
+    data.landmarks.forEach(lm => {
+      const e = { name: lm.name, x: lm.x, y: lm.y, faction: 'frei', size: -1, kind: 'landmark' };
+      nodes.push(e); nodeByName[lm.name] = e;
+    });
+  }
+}
+
+function buildAdjacency(maxEdgeKm) {
+  adj = nodes.map(() => []);
+  // Erlaubte Knoten als Wegpunkte: alle außer tote Städte und Landmarks ohne Quelle
+  const isWaypoint = (n) => n.size !== -1;
+  for (let i = 0; i < nodes.length; i++) {
+    const ni = nodes[i];
+    for (let j = i + 1; j < nodes.length; j++) {
+      const nj = nodes[j];
+      const d = distKm(ni, nj);
+      if (d <= maxEdgeKm) {
+        // Eine Kante ist nur passierbar, wenn beide Endpunkte passierbar sind
+        // ODER einer davon das Ziel/Start ist (dann Dijkstra nimmt es als Endpunkt).
+        // Wir erlauben alle Kanten; Pathfinding-Logik respektiert, dass
+        // Zwischenstopps nur Waypoints sein dürfen.
+        adj[i].push({ to: j, km: d, canTransit: isWaypoint(nj) });
+        adj[j].push({ to: i, km: d, canTransit: isWaypoint(ni) });
+      }
+    }
+  }
+}
+
+// Dijkstra mit Constraint: Zwischenknoten müssen canTransit-Knoten sein (= size !== -1)
+function dijkstra(startIdx, endIdx) {
+  const dist = nodes.map(() => Infinity);
+  const prev = nodes.map(() => -1);
+  dist[startIdx] = 0;
+  const visited = nodes.map(() => false);
+  while (true) {
+    let u = -1, best = Infinity;
+    for (let i = 0; i < nodes.length; i++) {
+      if (!visited[i] && dist[i] < best) { best = dist[i]; u = i; }
+    }
+    if (u === -1) break;
+    if (u === endIdx) break;
+    visited[u] = true;
+    for (const edge of adj[u]) {
+      // Vom Zwischenknoten u darf nur weiter, wenn u selbst ein Waypoint ist
+      // (oder u == Start; ein toter Start ist zwar erlaubt, aber erste Kante endet
+      // bei canTransit-Knoten).
+      if (u !== startIdx && nodes[u].size === -1) continue;
+      const nd = dist[u] + edge.km;
+      if (nd < dist[edge.to]) {
+        dist[edge.to] = nd;
+        prev[edge.to] = u;
+      }
+    }
+  }
+  if (dist[endIdx] === Infinity) return null;
+  const path = [];
+  for (let cur = endIdx; cur !== -1; cur = prev[cur]) path.push(cur);
+  path.reverse();
+  return { totalKm: dist[endIdx], path };
+}
+
 function render() {
   svg.innerHTML = '';
+
+  // Defs (clipPath für Continent)
+  const defs = el('defs');
+  const clip = el('clipPath', { id: 'cc' });
+  clip.appendChild(el('path', { d: coastPath(data.coast) }));
+  defs.appendChild(clip);
+  svg.appendChild(defs);
+
   // Ocean
   svg.appendChild(el('rect', { width: 1600, height: 1100, fill: '#0d1015' }));
 
   // Continent
-  if (data.coast) {
-    svg.appendChild(el('path', { d: coastPath(data.coast), fill: '#2a2520', stroke: '#4a4035', 'stroke-width': '1.5' }));
+  svg.appendChild(el('path', { d: coastPath(data.coast), fill: '#2a2520', stroke: '#4a4035', 'stroke-width': '1.5' }));
+
+  // Voronoi (nur political + magic)
+  const pts = data.cities.map(c => [c.x, c.y]);
+  if (pts.length > 2 && window.d3 && d3.Delaunay && viewMode !== 'plain') {
+    const delaunay = d3.Delaunay.from(pts);
+    const voronoi = delaunay.voronoi([200, 60, 1400, 900]);
+    const polFill = 1.0;
+    const cellG = el('g', { 'clip-path': 'url(#cc)', opacity: polFill });
+    for (let i = 0; i < data.cities.length; i++) {
+      const cell = voronoi.cellPolygon(i);
+      if (!cell) continue;
+      const c = factionColors[data.cities[i].faction] || factionColors.frei;
+      const d = 'M ' + cell.map(p => p[0] + ',' + p[1]).join(' L ') + ' Z';
+      const p = el('path', { d, fill: c.fill, stroke: c.stroke, 'stroke-width': '0.5', 'stroke-opacity': '0.6' });
+      cellG.appendChild(p);
+    }
+    svg.appendChild(cellG);
+  }
+
+  // Coast border
+  svg.appendChild(el('path', { d: coastPath(data.coast), fill: 'none', stroke: '#5a5045', 'stroke-width': '2' }));
+
+  // Magie-Heatmap (nur magic-Modus) — Canvas-basiert
+  if (viewMode === 'magic') {
+    const canvasW = 400, canvasH = 275;
+    const scaleX = 1600 / canvasW, scaleY = 1100 / canvasH;
+    const canvas = document.createElement('canvas');
+    canvas.width = canvasW; canvas.height = canvasH;
+    const ctx = canvas.getContext('2d');
+    const imgData = ctx.createImageData(canvasW, canvasH);
+    for (let py = 0; py < canvasH; py++) {
+      for (let px = 0; px < canvasW; px++) {
+        const wx = px * scaleX, wy = py * scaleY;
+        let total = 0;
+        for (const c of data.cities) {
+          const s = magicStrength[c.size] || 0;
+          const halfR = (magicRadius[c.size] || 1) * 0.5;
+          const maxR = magicRadius[c.size] || 0;
+          if (!maxR) continue;
+          const d = Math.hypot(wx - c.x, wy - c.y);
+          if (d >= maxR) continue;
+          // Log-Abfall
+          const v = s * (1 - Math.log(1 + d / halfR) / Math.log(1 + maxR / halfR));
+          if (v > 0) total += v;
+        }
+        total = Math.min(1, total);
+        const idx = (py * canvasW + px) * 4;
+        // Warm-farbverlauf: dunkel → rot → orange → gelb
+        const r = Math.min(255, total * 255);
+        const g = Math.min(255, Math.max(0, (total - 0.35) * 255));
+        const b = Math.min(255, Math.max(0, (total - 0.75) * 180));
+        imgData.data[idx] = r;
+        imgData.data[idx + 1] = g;
+        imgData.data[idx + 2] = b;
+        imgData.data[idx + 3] = total * 180;
+      }
+    }
+    ctx.putImageData(imgData, 0, 0);
+    const dataUrl = canvas.toDataURL();
+    const magicG = el('g', { 'clip-path': 'url(#cc)', opacity: '0.6', style: 'mix-blend-mode:screen' });
+    magicG.appendChild(el('image', { href: dataUrl, x: 0, y: 0, width: 1600, height: 1100, 'image-rendering': 'auto' }));
+    svg.appendChild(magicG);
   }
 
   // Cities
@@ -240,12 +469,14 @@ function render() {
   data.cities.forEach((c, i) => {
     const size = c.size || 0;
     const r = size === 3 ? 5 : size === 2 ? 3.5 : size === 1 ? 2.5 : size === -1 ? 4 : 1.8;
-    const fc = size === -1 ? '#e74c3c' : factionColors[c.faction] || '#888';
-    const op = size <= 0 && size !== -1 ? 0.45 : 1;
-    const circle = el('circle', { cx: c.x, cy: c.y, r, fill: fc, opacity: op, 'data-name': c.name, 'data-faction': c.faction });
-    circle.style.cursor = 'pointer';
+    const fc = size === -1 ? '#e74c3c' : (factionColors[c.faction] && factionColors[c.faction].dot) || '#888';
+    const op = size <= 0 && size !== -1 ? 0.55 : 1;
+    const circle = el('circle', { cx: c.x, cy: c.y, r, fill: fc, opacity: op, 'data-name': c.name, style: 'cursor:pointer' });
+    if (c.name === selectedFrom || c.name === selectedTo) {
+      circle.setAttribute('stroke', '#f0c864');
+      circle.setAttribute('stroke-width', '2');
+    }
     cg.appendChild(circle);
-
     if (c.name && size >= 2) {
       const fs = size === 3 ? 10 : 8;
       const tc = size === 3 ? '#f0e6d8' : '#b0a898';
@@ -262,25 +493,25 @@ function render() {
   // Portal
   if (data.portal) {
     const p = data.portal;
-    const portalG = el('g', { 'data-name': p.name });
-    portalG.appendChild(el('circle', { cx: p.x, cy: p.y, r: 8, fill: 'none', stroke: '#6b3a3a', 'stroke-width': '2' }));
-    portalG.appendChild(el('circle', { cx: p.x, cy: p.y, r: 4, fill: '#6b3a3a' }));
+    const pg = el('g', {});
+    const ring = el('circle', { cx: p.x, cy: p.y, r: 8, fill: 'none', stroke: '#6b3a3a', 'stroke-width': '2', 'data-name': p.name, style: 'cursor:pointer' });
+    pg.appendChild(ring);
+    pg.appendChild(el('circle', { cx: p.x, cy: p.y, r: 4, fill: '#6b3a3a', 'data-name': p.name, style: 'cursor:pointer' }));
     const lh = el('text', { x: p.x + 12, y: p.y + 4, fill: 'none', stroke: '#0d1015', 'stroke-width': '3', 'font-size': 11, 'font-weight': '600' });
     lh.textContent = p.name;
-    portalG.appendChild(lh);
+    pg.appendChild(lh);
     const lt = el('text', { x: p.x + 12, y: p.y + 4, fill: '#d89090', 'font-size': 11, 'font-weight': '600' });
     lt.textContent = p.name;
-    portalG.appendChild(lt);
-    svg.appendChild(portalG);
+    pg.appendChild(lt);
+    svg.appendChild(pg);
   }
 
-  // Landmarks (Wrack usw.)
+  // Landmarks (Wrack)
   if (data.landmarks) {
     data.landmarks.forEach(lm => {
-      const g = el('g', { 'data-name': lm.name });
-      // UFO-Icon: kleiner Kreis + Ellipse drüber
-      g.appendChild(el('ellipse', { cx: lm.x, cy: lm.y, rx: 10, ry: 3, fill: '#c4a04a', opacity: '0.9' }));
-      g.appendChild(el('ellipse', { cx: lm.x, cy: lm.y - 2, rx: 6, ry: 4, fill: '#e8c878', opacity: '0.9' }));
+      const g = el('g', {});
+      g.appendChild(el('ellipse', { cx: lm.x, cy: lm.y, rx: 10, ry: 3, fill: '#c4a04a', opacity: '0.9', 'data-name': lm.name, style: 'cursor:pointer' }));
+      g.appendChild(el('ellipse', { cx: lm.x, cy: lm.y - 2, rx: 6, ry: 4, fill: '#e8c878', opacity: '0.9', 'data-name': lm.name, style: 'cursor:pointer' }));
       g.appendChild(el('circle', { cx: lm.x - 4, cy: lm.y, r: 0.8, fill: '#0d1015' }));
       g.appendChild(el('circle', { cx: lm.x, cy: lm.y, r: 0.8, fill: '#0d1015' }));
       g.appendChild(el('circle', { cx: lm.x + 4, cy: lm.y, r: 0.8, fill: '#0d1015' }));
@@ -294,109 +525,156 @@ function render() {
     });
   }
 
-  // Route (von/nach)
   renderRoute();
 }
 
 let routeG = null;
 function renderRoute() {
   if (routeG) { routeG.remove(); routeG = null; }
-  const fromName = document.getElementById('from').value;
-  const toName = document.getElementById('to').value;
-  if (!fromName || !toName || fromName === toName) return;
-  const a = findPoint(fromName);
-  const b = findPoint(toName);
-  if (!a || !b) return;
-
+  const r = currentRoute;
+  if (!r || !r.path || r.path.length < 2) return;
   routeG = el('g', {});
-  const line = el('line', { x1: a.x, y1: a.y, x2: b.x, y2: b.y, stroke: '#f0c864', 'stroke-width': '2', 'stroke-dasharray': '6 4', opacity: '0.85' });
-  routeG.appendChild(line);
-  // Start/End marker
-  routeG.appendChild(el('circle', { cx: a.x, cy: a.y, r: 7, fill: 'none', stroke: '#f0c864', 'stroke-width': '2' }));
-  routeG.appendChild(el('circle', { cx: b.x, cy: b.y, r: 7, fill: 'none', stroke: '#f0c864', 'stroke-width': '2' }));
+  const pts = r.path.map(i => nodes[i]);
+  // Polylinie
+  const dAttr = 'M ' + pts.map(p => p.x + ',' + p.y).join(' L ');
+  routeG.appendChild(el('path', { d: dAttr, fill: 'none', stroke: '#f0c864', 'stroke-width': '2.5', 'stroke-dasharray': '6 4', opacity: '0.9' }));
+  // Zwischenstopps
+  pts.forEach((p, i) => {
+    if (i === 0 || i === pts.length - 1) {
+      routeG.appendChild(el('circle', { cx: p.x, cy: p.y, r: 9, fill: 'none', stroke: '#f0c864', 'stroke-width': '2.5' }));
+    } else {
+      routeG.appendChild(el('circle', { cx: p.x, cy: p.y, r: 5, fill: 'none', stroke: '#f0c864', 'stroke-width': '1.5', 'stroke-dasharray': '2 1.5' }));
+    }
+  });
   svg.appendChild(routeG);
 }
 
-function findPoint(name) {
-  const c = data.cities.find(x => x.name === name);
-  if (c) return { x: c.x, y: c.y, name: c.name };
-  if (data.portal && data.portal.name === name) return data.portal;
-  if (data.landmarks) {
-    const lm = data.landmarks.find(x => x.name === name);
-    if (lm) return lm;
-  }
-  return null;
-}
+let currentRoute = null;
 
 function populateDropdowns() {
   const from = document.getElementById('from');
   const to = document.getElementById('to');
-  const opts = [];
-  // Cities (alphabetisch, aber Hauptstädte zuerst)
-  const sorted = [...data.cities].sort((a, b) => {
+  const sorted = [...nodes].sort((a, b) => {
+    if (a.kind !== b.kind) {
+      const order = { portal: 0, landmark: 1, city: 2 };
+      return order[a.kind] - order[b.kind];
+    }
     const sa = a.size || 0, sb = b.size || 0;
     if (sa !== sb) return sb - sa;
     return a.name.localeCompare(b.name);
   });
-  sorted.forEach(c => opts.push({ name: c.name, label: c.name + (c.faction ? ' (' + c.faction + ')' : '') }));
-  if (data.portal) opts.push({ name: data.portal.name, label: data.portal.name + ' (Portal)' });
-  if (data.landmarks) data.landmarks.forEach(lm => opts.push({ name: lm.name, label: lm.name + ' ★' }));
-
-  from.innerHTML = '<option value="">— wähle —</option>' + opts.map(o => `<option value="${o.name}">${o.label}</option>`).join('');
-  to.innerHTML = '<option value="">— wähle —</option>' + opts.map(o => `<option value="${o.name}">${o.label}</option>`).join('');
+  const opts = sorted.map(n => {
+    let label = n.name;
+    if (n.kind === 'portal') label = n.name + ' (Portal)';
+    else if (n.kind === 'landmark') label = n.name + ' ★';
+    else if (n.faction) label = n.name + ' — ' + n.faction;
+    if (n.size === -1) label += ' ✝';
+    return `<option value="${n.name}">${label}</option>`;
+  }).join('');
+  from.innerHTML = '<option value="">— wähle —</option>' + opts;
+  to.innerHTML = '<option value="">— wähle —</option>' + opts;
 }
 
 function compute() {
   const fromName = document.getElementById('from').value;
   const toName = document.getElementById('to').value;
   const resultBox = document.getElementById('result');
+  const errorBox = document.getElementById('error');
+  errorBox.style.display = 'none';
+  selectedFrom = fromName; selectedTo = toName;
+
   if (!fromName || !toName || fromName === toName) {
     resultBox.style.display = 'none';
-    renderRoute();
+    currentRoute = null;
+    render();
     return;
   }
-  const a = findPoint(fromName);
-  const b = findPoint(toName);
-  if (!a || !b) { resultBox.style.display = 'none'; return; }
+  const fromIdx = nodes.findIndex(n => n.name === fromName);
+  const toIdx = nodes.findIndex(n => n.name === toName);
+  if (fromIdx < 0 || toIdx < 0) { resultBox.style.display = 'none'; return; }
 
-  const dxu = b.x - a.x, dyu = b.y - a.y;
-  const distUnits = Math.sqrt(dxu * dxu + dyu * dyu);
-  const distKm = distUnits * KM_PER_UNIT;
+  const cfg = MODES[mode];
+  buildAdjacency(cfg.maxEdgeKm);
+  const result = dijkstra(fromIdx, toIdx);
 
-  document.getElementById('dist').textContent = Math.round(distKm).toLocaleString('de-DE') + ' km';
+  if (!result) {
+    resultBox.style.display = 'none';
+    errorBox.style.display = 'block';
+    errorBox.innerHTML = `Keine Route gefunden: Mit ${cfg.label} (max. ${cfg.maxEdgeKm} km pro Etappe) ist die Verbindung <b>${fromName}</b> → <b>${toName}</b> nicht zu schaffen. Versuche Magitech-Bestie für größere Distanzen oder wähle einen näheren Ziel-Punkt.`;
+    currentRoute = null;
+    render();
+    return;
+  }
+  currentRoute = result;
 
-  const fmtTime = (kmPerDay) => {
-    const days = distKm / kmPerDay;
-    if (days < 1) {
-      const hours = days * 24;
-      return hours.toFixed(1) + ' h';
+  const days = result.totalKm / cfg.kmPerDay;
+  let timeStr;
+  if (days < 1) timeStr = (days * 24).toFixed(1) + ' h';
+  else if (days < 14) timeStr = days.toFixed(1) + ' Tage';
+  else if (days < 84) timeStr = (days / 7).toFixed(1) + ' Wochen';
+  else timeStr = (days / 30).toFixed(1) + ' Monate';
+
+  document.getElementById('dist').textContent = Math.round(result.totalKm).toLocaleString('de-DE') + ' km';
+  document.getElementById('time').textContent = timeStr;
+  document.getElementById('stops-count').textContent = (result.path.length - 2);
+
+  const stopsEl = document.getElementById('stops-list');
+  stopsEl.innerHTML = '';
+  for (let i = 0; i < result.path.length; i++) {
+    const n = nodes[result.path[i]];
+    const div = document.createElement('div');
+    div.className = 'stop-item';
+    let km = '';
+    if (i > 0) {
+      const prev = nodes[result.path[i - 1]];
+      const d = distKm(prev, n);
+      km = '+ ' + Math.round(d) + ' km';
+    } else {
+      km = 'Start';
     }
-    if (days < 14) return days.toFixed(1) + ' Tage';
-    const weeks = days / 7;
-    if (weeks < 12) return weeks.toFixed(1) + ' Wochen';
-    return (days / 30).toFixed(1) + ' Monate';
-  };
-
-  document.getElementById('t-foot').textContent = fmtTime(SPEEDS.foot.kmPerDay);
-  document.getElementById('t-schemen').textContent = fmtTime(SPEEDS.schemen.kmPerDay);
-  document.getElementById('t-magitech').textContent = fmtTime(SPEEDS.magitech.kmPerDay);
-
-  document.getElementById('notes').innerHTML =
-    '<div>Zu Fuß: ' + SPEEDS.foot.note + '.</div>' +
-    '<div>Reit-Schemen: ' + SPEEDS.schemen.note + '.</div>' +
-    '<div>Magitech: ' + SPEEDS.magitech.note + '.</div>';
+    div.innerHTML = `<span>${i}. ${n.name}</span><span class="seg-km">${km}</span>`;
+    stopsEl.appendChild(div);
+  }
 
   resultBox.style.display = 'block';
-  renderRoute();
+  render();
 }
+
+// View-Buttons
+document.querySelectorAll('.view-btn').forEach(b => {
+  b.addEventListener('click', () => {
+    document.querySelectorAll('.view-btn').forEach(x => x.classList.remove('active'));
+    b.classList.add('active');
+    viewMode = b.dataset.view;
+    render();
+  });
+});
+
+// Mode-Buttons
+document.querySelectorAll('.mode-btn').forEach(b => {
+  b.addEventListener('click', () => {
+    document.querySelectorAll('.mode-btn').forEach(x => x.classList.remove('active'));
+    b.classList.add('active');
+    mode = b.dataset.mode;
+    compute();
+  });
+});
 
 // Tooltip
 const tt = document.getElementById('tooltip');
 svg.addEventListener('mousemove', (e) => {
-  const t = e.target;
-  const name = t.getAttribute && t.getAttribute('data-name');
+  const name = e.target.getAttribute && e.target.getAttribute('data-name');
   if (name) {
-    tt.textContent = name;
+    const n = nodeByName[name];
+    let label = name;
+    if (n) {
+      if (n.kind === 'portal') label = name + ' (Portal)';
+      else if (n.kind === 'landmark') label = name + ' (Wrack)';
+      else if (n.faction && n.size !== undefined) {
+        label = name + ' — ' + n.faction + (n.size === -1 ? ' (tot)' : '');
+      }
+    }
+    tt.textContent = label;
     tt.style.display = 'block';
     const r = svg.getBoundingClientRect();
     tt.style.left = (e.clientX - r.left + 10) + 'px';
@@ -407,7 +685,7 @@ svg.addEventListener('mousemove', (e) => {
 });
 svg.addEventListener('mouseleave', () => { tt.style.display = 'none'; });
 
-// Klick auf SVG-Element: setzt From/To
+// Klick auf Stadt: setzt From/To
 svg.addEventListener('click', (e) => {
   const name = e.target.getAttribute && e.target.getAttribute('data-name');
   if (!name) return;
@@ -424,6 +702,7 @@ fetch('/buch/moragh-karte.json')
   .then(r => r.json())
   .then(j => {
     data = j;
+    buildGraph();
     populateDropdowns();
     render();
     document.getElementById('from').addEventListener('change', compute);
