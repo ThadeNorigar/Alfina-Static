@@ -4,7 +4,7 @@
 
 Zwei Welten. Ein Riss.
 
-**Thalassien** — ohne Magie. Frühes 19. Jahrhundert (Buch 1). Durch Zeitdilatation (1 Moragh-Jahr = 400 Thalassien-Jahre) entwickelt sich Thalassien rasant weiter: ~1910 in Buch 2, ~2250 in Buch 3.
+**Thalassien** — ohne natürliche Magie. Frühes 19. Jahrhundert (Buch 1, ~1820 TZ). Durch Zeitdilatation (1 Moragh-Jahr = 400 Thalassien-Jahre) entwickelt sich Thalassien rasant weiter: ~1987 TZ am Ende Buch 2, ~2153 TZ am Ende Buch 3. Die Thalassien-Magie existiert nur, weil Varen das Portal ab MZ -3 brachial aufgestoßen und damit Raum-Zeit-Risse erzeugt hat, durch die Moragh-Magie einsickert — ohne Varen keine Resonanz-Begabten in Thalassien.
 
 **Moragh** — mit Magie. Eigene Zivilisation, eigene Physik (0.7g, Akkretionsscheibe statt Sonne, zwei Monde). Magie kostet den Körper wie Sport — Müdigkeit, Hunger, Muskelkater. Bei Übergebrauch: Nasenbluten, Erschöpfung. Chronisch: Altern, Tod.
 
@@ -16,9 +16,9 @@ Zwei Welten. Ein Riss.
 
 ## Das Portal — wie es funktioniert
 
-### Der Riss
+### Die Portal-Quelle
 
-Am Portal-Punkt liegt eine Reservoir-Quelle. Diese Quelle speist den Riss — eine dünne Stelle zwischen den Welten. Durch sie sickert Magie nach Thalassien: die Farne in Vael, das heiße Wasser, die Schemen, der Nebel. Alles Moragh-Magie die durch den Riss leckt.
+Am Portal-Punkt liegt eine einzige **Portal-Quelle**, durch eine Raum-Zeit-Anomalie auf beiden Welten sichtbar (Wurmloch-Modell). In Moragh liegt sie am Steinplatz in Dravek (Bund-Gebiet, kleine Stadt), in Thalassien im Botanischen Garten unter Vael. Durch die Raumzeit-Risse, die Varen beim Öffnen erzeugt hat, sickert Moragh-Magie nach Thalassien: die Farne in Vael, das heiße Wasser, die Schemen, der Nebel. Alles Moragh-Magie, die durch die Anomalie leckt.
 
 ### Öffnen
 
@@ -34,13 +34,13 @@ Die Thalassier kommen nach Moragh weil sie das Ritual platziert bekommen. Sie ke
 
 ### Geschichte
 
-Vor 200 Moragh-Jahren (= 80.000 Thalassien-Jahre) flohen Menschen aus Moragh durch das Portal nach Thalassien — Kriegsflüchtlinge. Der Weg war nicht von Varen erfunden. Er hat die Methode nur WIEDERENTDECKT. 80.000 Jahre Evolution haben die Thalassier verändert: kleiner, hellere Haarfarben, andere Augenfarben. Resonanz statt Magie — ein verkümmertes Erbe.
+Vor ~200 Moragh-Jahren (= 80.000 Thalassien-Jahre) flohen Menschen aus Moragh durch das Portal nach Thalassien — Kriegsflüchtlinge. Sie haben dabei **keine Raumzeit-Risse erzeugt** und daher keine Magie in Thalassien zurückgelassen. 80.000 Jahre Evolution haben die Thalassier verändert: kleiner, hellere Haarfarben, andere Augenfarben. Ohne Varens Öffnungen wären sie magielos geblieben. Varen hat das Portal ab MZ -3 bis -1 **brachial** aufgestoßen — seine Risse sind der Grund, dass Alphina, Sorel, Maren, Vesper und Runa Resonanz-Begabte sind.
 
 ### Endgültig schließen
 
-**Die Lösung: Die Riss-Quelle zerstören.** Ohne sie: kein Magie-Durchsickern nach Thalassien. Keine Resonanz dort. Kein Öffnen von der Thalassien-Seite. Der Riss heilt. Permanent.
+**Die Lösung: Die Portal-Quelle zerstören.** Alphina überlädt sie im Finale mit Wachstums-Energie (ihre einzige Zerstörungs-Methode — sie kann nur aufbauen, nie direkt zerstören). Quelle kollabiert in beiden Welten gleichzeitig, die Raum-Zeit-Anomalie bricht. Portal tot. Für immer.
 
-**Was es kostet:** Thalassien verliert ALLE Magie. Die Resonanzbegabten dort — weg. Die Farne die sich drehen — still. Der Steinkreis in Vael — kalter Stein. Marens Forschungsgesellschaft wird sinnlos. Kein Zurück. Nie.
+**Was es kostet:** Thalassien verliert **alle** Magie, permanent. Die Farne stehen still. Der Steinkreis in Vael — kalter Stein. Das Schwellenforschungsinstitut wird zur Ruine einer überholten Wissenschaft. Die fünf Thalassier in Moragh behalten ihre Resonanz (weil physisch in Moragh).
 
 ---
 

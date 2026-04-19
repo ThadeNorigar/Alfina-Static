@@ -23,24 +23,72 @@
       "id": "magie-systeme",
       "name": "Magie & Welt-Systeme",
       "docs": [
-        {"slug": "10-magie-system", "title": "Magie-System", "desc": "Resonanzen der Fünf, Thalassier-Progression, Welt-Physik"},
-        {"slug": "20-moragh-talente", "title": "Moragh-Talente", "desc": "21 Talent-Skalen 1–10, Alterskurve, Skillpunkte, Rituale"},
-        {"slug": "21-moragh-gesellschaft", "title": "Moragh-Gesellschaft", "desc": "Bund, Thar, Velmar — Strukturen, Wohlstand, Schemen-Doktrin, Alltag"},
+        {"slug": "10-magie-system", "title": "Magie-System", "desc": "Kern-Magie: Thalassier-Resonanz, Welt-Physik, Quellen, Portale, Schemen"},
+        {"slug": "20-moragh-talente", "title": "Moragh-Talente", "desc": "20 Talent-Skalen 1–10, Alterskurve, Skillpunkte, Rituale"},
         {"slug": "18-thar-magitech", "title": "Thar-Magitech", "desc": "Industrie und Magitech-Bestien des Konglomerats"}
       ]
     },
     {
-      "id": "figuren",
-      "name": "Figuren",
+      "id": "fraktionen",
+      "name": "Fraktionen",
       "docs": [
-        {"slug": "pov/alphina", "title": "Alphina (POV)", "desc": "POV-Dossier"},
-        {"slug": "pov/sorel", "title": "Sorel (POV)", "desc": "POV-Dossier"},
-        {"slug": "pov/vesper", "title": "Vesper (POV)", "desc": "POV-Dossier"},
-        {"slug": "pov/maren", "title": "Maren (POV)", "desc": "POV-Dossier"},
-        {"slug": "11-nyr", "title": "Nyr", "desc": "Figur-Dossier"},
+        {"slug": "21-moragh-gesellschaft", "title": "Moragh-Gesellschaft — Übersicht", "desc": "Bund, Thar, Velmar — Strukturen, Wohlstand, Schemen-Doktrin, Alltag"}
+      ]
+    },
+    {
+      "id": "hauptfiguren",
+      "name": "Hauptfiguren",
+      "docs": [
+        {"slug": "pov/alphina", "title": "Alphina", "desc": "POV-Dossier — Pflanzen/Heilung, Hauptfigur Buch 1–3"},
+        {"slug": "pov/sorel", "title": "Sorel", "desc": "POV-Dossier — Licht, stirbt in Moragh"},
+        {"slug": "pov/vesper", "title": "Vesper", "desc": "POV-Dossier — Zeit, Uhrmacher"},
+        {"slug": "pov/maren", "title": "Maren", "desc": "POV-Dossier — Wasser, kehrt nach Thalassien zurück"},
+        {"slug": "pov/runa", "title": "Runa", "desc": "POV-Dossier — Feuer, Brücke zu Tech-Magie"},
+        {"slug": "pov/elke", "title": "Elke van der Holt", "desc": "POV-Dossier — Erde/Stein, TZ-154-Einwandererin, Führerin der Vier in Moragh"},
+        {"slug": "11-nyr", "title": "Nyr", "desc": "Thar-Reiterin, Nebenhauptfigur"},
         {"slug": "13-talven", "title": "Talven", "desc": "Figur-Dossier"},
-        {"slug": "19-varen", "title": "Varen", "desc": "Antagonist, Binder-Kaste Moragh"},
-        {"slug": "22-moragh-figuren", "title": "Moragh-Nebenfiguren", "desc": "14 Dossiers: Bund, Thar, Velmar — Alter, Skills, Aussehen, Motivation"}
+        {"slug": "19-varen", "title": "Varen", "desc": "Antagonist, Velmar-Binder, Mar-Keth"}
+      ]
+    },
+    {
+      "id": "nebenfiguren-bund",
+      "name": "Nebenfiguren — Bund",
+      "docs": [
+        {"slug": "nebenfiguren/mira", "title": "Mira", "desc": "Mutter, Kethmar, Dualistin (Holz/Heilung)"},
+        {"slug": "nebenfiguren/miran", "title": "Miran", "desc": "Mirans Sohn, 17, Niedrig-Telekinet"},
+        {"slug": "nebenfiguren/ormek", "title": "Ormek", "desc": "Glaubenshüter der Ersten Halle, Orath"},
+        {"slug": "nebenfiguren/detrik", "title": "Detrik", "desc": "Marschall, Feuer 7"},
+        {"slug": "nebenfiguren/vela", "title": "Vela", "desc": "Handelsmeisterin der Orather Magazine"},
+        {"slug": "nebenfiguren/kovik", "title": "Kovik", "desc": "Stein-Former, Dissident"}
+      ]
+    },
+    {
+      "id": "nebenfiguren-thar",
+      "name": "Nebenfiguren — Thar",
+      "docs": [
+        {"slug": "nebenfiguren/thassir-kol", "title": "Thassir Kol", "desc": "Syndikat-Boss Ember-Kontor"},
+        {"slug": "nebenfiguren/brel", "title": "Brel", "desc": "Magitech-Ingenieurin"},
+        {"slug": "nebenfiguren/vesh", "title": "Vesh", "desc": "Fabrik-Arbeiterin, 13 Jahre Magitech-Ofen"},
+        {"slug": "nebenfiguren/morrek", "title": "Morrek", "desc": "Karawanen-Händler, Fraktions-Übersteiger"},
+        {"slug": "nebenfiguren/liran", "title": "Liran", "desc": "Register-Führer, niedrig-begabt"}
+      ]
+    },
+    {
+      "id": "nebenfiguren-velmar",
+      "name": "Nebenfiguren — Velmar",
+      "docs": [
+        {"slug": "nebenfiguren/irenna-torven", "title": "Irenna Torven", "desc": "Hochbinderin, Haus Torven"},
+        {"slug": "nebenfiguren/kel", "title": "Kel", "desc": "Gebundener Schemen (23 Jahre), Licht-Element"},
+        {"slug": "nebenfiguren/sefra-varn", "title": "Sefra Varn", "desc": "Junge Binderin, Haus Varn"},
+        {"slug": "nebenfiguren/perrin-halde", "title": "Perrin Halde", "desc": "Kurtisan, Haus Halde"},
+        {"slug": "nebenfiguren/draven-keth", "title": "Draven Keth", "desc": "Rufer ohne Bindung, Haus Keth"}
+      ]
+    },
+    {
+      "id": "nebenfiguren-uebersicht",
+      "name": "Nebenfiguren — Übersicht",
+      "docs": [
+        {"slug": "22-moragh-figuren", "title": "Moragh-Nebenfiguren Gesamt", "desc": "Liste aller Nebenfiguren mit Links zu Einzel-Dossiers"}
       ]
     },
     {

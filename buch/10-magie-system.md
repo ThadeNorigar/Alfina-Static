@@ -14,7 +14,9 @@
 
 Sie heben die Hand und der Wald wächst und sie fühlen sich gut dabei.
 
-DAS ist der Konflikt. Nicht ein versteckter Preis — die UNGERECHTIGKEIT selbst. Jeder Moragh-Mensch bezahlt für jeden Zauber mit seinem Körper. Die Thalassier nicht. Das ist nicht fair. Es war nie fair. Es muss nicht fair sein.
+DAS ist der Konflikt. Nicht ein versteckter Preis — die UNGERECHTIGKEIT selbst. Jeder Moragh-Mensch bezahlt für jeden Zauber mit Erschöpfung und dem Ausbleiben weiterer Magie, wenn der Vorrat leer ist. Die Thalassier nicht. Das ist nicht fair. Es war nie fair. Es muss nicht fair sein.
+
+**Historischer Hintergrund:** Die Thalassier sind Nachkommen von Moragh-Flüchtlingen, die vor ~80.000 Jahren nach Thalassien auswanderten. Über die Jahrtausende ohne Quellen-Zugang atrophierte ihre Magie — sie tragen nur noch eine **vestigiale Resonanz**, schwach und latent. Sobald ein Thalassier aber in Moragh lebt und seine Resonanz sich entfaltet, wird sie zur Naturgewalt — und zwar **ohne den Preis, den Moragh-Geborene zahlen**. Ihr Körper hat sich evolutionär entkoppelt; die Resonanz fließt, ohne den Kanal zu ermüden. Das ist keine Wahl der Thalassier, sondern das Ergebnis von 80.000 Jahren Evolution. Es bleibt ungerecht.
 
 **Moragh zerfällt — aber nicht wegen der Thalassier.** Moragh zerfällt wegen dem KRIEG. Varens Experiment hat drei Quellen zerstört. Der Bund hat die Überladungs-Methode gestohlen und zerstört weitere als Waffe. Es gibt genug verbleibende Quellen — der Krieg begann nicht aus Mangel, sondern aus Misstrauen (Thar glaubt Bund war's). Die Resonanz-Begabten sind kein Gift. Sie sind eine potenzielle Lösung — oder eine Waffe.
 
@@ -436,7 +438,14 @@ Moragh hat kein Handwerk im thalassischen Sinn — alles wird mit Magie gemacht,
 
 ## Quellen — physische Eigenschaften
 
-Quellen sind unterirdische Knotenpunkte im Leylinien-Netz. Sie sind keine Objekte — sie sind Zustände im Gestein. Jede Quelle **pulsiert**. Ein tiefer, gleichmäßiger Rhythmus, spürbar durch den Fels für jeden Magier. Der Puls ist langsam, geduldig, älter als alles Lebende darüber.
+Quellen sind **natürliche Energiequellen in der Erde** — wie Geothermie. Sie sind einfach da, ein Zustand im Gestein, kein Objekt. Jede Quelle **pulsiert**. Ein tiefer, gleichmäßiger Rhythmus, spürbar durch den Fels für jeden Magier. Der Puls ist langsam, geduldig, älter als alles Lebende darüber.
+
+**Wirkung einer Quelle:**
+- Menschen in ihrer Nähe **erholen sich schneller** (körperlich wie magisch)
+- Magie ist **stärker** in Quellennähe
+- Städte siedeln um Quellen, weil ohne Quelle kein Alltag mit Magie möglich ist
+- Quellen können nicht "verbraucht" werden im Normalbetrieb — sie sind endlos
+- Aber: **durch Überladung können sie zerstört werden**, und das ist unwiederbringlich (siehe Quellen-Überladung als Waffe)
 
 **Was Resonanz-Begabte spüren:**
 - Wärme im Stein, auch im Winter. Je näher an der Quelle, desto wärmer.
