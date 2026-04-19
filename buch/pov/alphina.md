@@ -1,4 +1,22 @@
+---
+name: Alphina Fenne
+slug: alphina
+typ: hauptfigur
+pov: true
+ordner: pov
+welt: beide
+reihenfolge: 100
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # POV — Alphina Fenne
+
+![Alphina in ihrer Pflanzenwohnung](/img/alphina.png)
+
+![Alphina mit dem Fernrohr](/img/alphina-teleskop.png)
 
 ## Berufslinse
 

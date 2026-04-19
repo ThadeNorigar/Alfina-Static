@@ -450,8 +450,8 @@ Dann, dreizehn Jahre später: Platte 7. Sein Gesicht. In Vael. *"Vael, Lichthaus
 | **Alter** | ~32 |
 | **Größe** | Mittel, unauffällig |
 | **Körperbau** | Angezogen unauffällig, fast schmächtig. Unter dem Hemd sehnig-muskulös — Körper eines Mannes der schwere Standuhren allein bewegt und Werkbänke über Treppen trägt. Man sieht es erst wenn der Mantel fällt |
-| **Haar** | Kurz, sandfarbenes/hellbraunes Haar, ordentlich. Kein Bart |
-| **Augen** | Marineblau — "ein Blau das nicht in die Innenlande gehörte". Ruhig, messend |
+| **Haar** | Kurz, dunkelbraun, ordentlich geschnitten. Kein Bart, glatt rasiert |
+| **Augen** | Dunkelgrün — tief und moosig. Ruhig, messend |
 | **Haut** | Mittel, weder blass noch gebräunt. Keine Schwielen, keine Ölränder — seine Hände verraten ihn nicht als Handwerker |
 | **Gesicht** | Unauffällig. Nichts Markantes — genau das macht ihn schwer zu lesen. Ein Gesicht das man übersieht, bis man die Augen sieht |
 | **Hände** | Ruhig, präzise. Keine Hornhaut, keine Schnittwunden. Saubere Nägel. Pinzetten-Griff. Hände die wissen wann man wartet |

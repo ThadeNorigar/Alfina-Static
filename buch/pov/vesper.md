@@ -1,4 +1,20 @@
+---
+name: Vesper
+slug: vesper
+typ: hauptfigur
+pov: true
+ordner: pov
+welt: beide
+reihenfolge: 90
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # POV — Vesper
+
+![Vesper in seiner Werkstatt](/img/vesper.png)
 
 ## Berufslinse
 
