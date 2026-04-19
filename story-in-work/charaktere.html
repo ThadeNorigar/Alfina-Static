@@ -72,7 +72,42 @@
     .char-img {
       width: 120px; height: 120px; border-radius: 50%;
       object-fit: cover; flex-shrink: 0;
-      border: 2px solid rgba(138,130,121,0.2);
+      transition: transform 0.2s;
+    }
+    .char-img:hover {
+      transform: scale(1.04);
+    }
+    .image-modal {
+      position: fixed; inset: 0;
+      background: rgba(0, 0, 0, 0.92);
+      display: none; justify-content: center; align-items: center;
+      z-index: 9999; cursor: zoom-out; padding: 2rem;
+      animation: fadeIn 0.18s ease-out;
+    }
+    .image-modal.open { display: flex; }
+    .image-modal img {
+      max-width: 95vw; max-height: 95vh;
+      border-radius: 6px;
+      box-shadow: 0 20px 80px rgba(0, 0, 0, 0.5);
+      animation: zoomIn 0.22s cubic-bezier(0.2, 0.9, 0.3, 1.2);
+    }
+    .image-modal-caption {
+      position: absolute; bottom: 1.5rem; left: 0; right: 0;
+      text-align: center;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.9rem; letter-spacing: 0.2em;
+      color: #c8bfb0;
+    }
+    .image-modal-close {
+      position: absolute; top: 1rem; right: 1.5rem;
+      font-family: 'Cormorant Garamond', serif;
+      color: #c8bfb0; font-size: 1.8rem; line-height: 1;
+      cursor: pointer; user-select: none;
+    }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes zoomIn {
+      from { transform: scale(0.85); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
     }
     .char-img-placeholder {
       width: 120px; height: 120px; border-radius: 50%;
@@ -754,10 +789,47 @@
     </div>
   </div>
 
+  <!-- Image-Modal für Klick auf Figuren-Bilder -->
+  <div id="image-modal" class="image-modal" onclick="closeImageModal()">
+    <div class="image-modal-close" onclick="closeImageModal()">×</div>
+    <img id="image-modal-img" src="" alt="">
+    <div id="image-modal-caption" class="image-modal-caption"></div>
+  </div>
+
   <script>
-    // Open first card by default, toggle on click
     document.querySelectorAll('.char-header').forEach(h => {
       h.style.cursor = 'pointer';
+    });
+
+    // Bilder klickbar: öffnet Modal, verhindert Karten-Toggle
+    const modal = document.getElementById('image-modal');
+    const modalImg = document.getElementById('image-modal-img');
+    const modalCaption = document.getElementById('image-modal-caption');
+
+    function openImageModal(src, caption) {
+      modalImg.src = src;
+      modalImg.alt = caption || '';
+      modalCaption.textContent = caption || '';
+      modal.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeImageModal() {
+      modal.classList.remove('open');
+      modalImg.src = '';
+      document.body.style.overflow = '';
+    }
+    // Escape schließt Modal
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && modal.classList.contains('open')) closeImageModal();
+    });
+
+    document.querySelectorAll('.char-img').forEach(img => {
+      img.style.cursor = 'zoom-in';
+      img.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const caption = img.alt || '';
+        openImageModal(img.src, caption);
+      });
     });
   </script>
 </body>
