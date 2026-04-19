@@ -66,7 +66,9 @@ Drei Register, nie »Jacke«:
 
 **Intelligenz als Dienstleistung (K20):** Vesper erwartet von ihr mitgedachte Einsicht, nicht nur Körper-Gehorsam. Sie decodiert für ihn (Zeichen-Muster, Code an drei Stellen). Das ist Teil ihres Dienens — Kopf UND Körper.
 
-**Körperreaktionen auf Dom-Lob (K20, eskalierend):** *"Gut."* (nach schweigendem Service) → Wärme im Schoß, Mund trocken, Zunge schwer. *"Schlaues Mädchen."* (nach mitgedachter Einsicht) → Atem stockt, Hitze zwischen den Schenkeln mit Puls (nicht ihr Takt), Brustwarzen hart am Mieder, Salz auf der Oberlippe, Metall hinten auf der Zunge. Äußerlich Stillwerden (Maren-Surrender-Signatur), innerlich eskalierend. Réage-Körper-vor-Kopf: sie bemerkt, benennt nicht.
+**Körperreaktionen auf Dom-Lob (K20, eskalierend):** *"Gut."* (nach schweigendem Service) → Mieder sitzt enger, Mund trocken, Zunge schwer. *"Schlaues Mädchen."* (nach mitgedachter Einsicht) → Puls spürbar in den Innenseiten der Schenkel (ihr eigener, deutlicher als sonst), Brustwarzen hart am Mieder, Salz auf der Oberlippe. Maren-Surrender-Signatur: äußerlich Stillwerden — Schultern senken sich, Atem wird länger, Hände werden ruhig statt unruhig. Freude als Ruhe, nicht als Anspannung. Kernsatz der Selbsterkenntnis: *"Hier durfte sie sein."* Réage-Körper-vor-Kopf: sie bemerkt, benennt nicht.
+
+**Verbotene Dossier-Konstrukte (gesucht, nicht spürbar):** „Puls (nicht ihr Takt)", „Metall hinten auf der Zunge", „Wärme im Schoß" als Generikum. Stattdessen: konkreter Körperbezug (Mieder, Schenkel-Innenseiten, Mund, Schultern, Atem) + Surrender als Loslassen, nicht als Anspannung.
 
 **Alphina:** Überraschende Leichtigkeit. Alphina denkt nachts: *Wie wäre es, jemanden zu halten, der nicht gehalten werden will?* Maren registriert das ohne Namen.
 

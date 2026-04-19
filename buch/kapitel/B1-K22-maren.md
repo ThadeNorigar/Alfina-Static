@@ -146,7 +146,11 @@ Sie arbeitete weiter, ohne die Werft zu verlassen, auch als Edric gegen Mittag z
 
 Am Nachmittag kam die Sonne kurz durch den Nebel, ein flacher Streifen über die Bohlen, der sich sofort wieder zurückzog. Das Licht der Blüte am hinteren Ende war die ganze Zeit gleich stark geblieben. Maren gewöhnte sich daran — in zwei, drei Stunden, ohne es zu wollen.
 
-Als die Schatten lang wurden, hängte sie die Lederschürze an den Nagel neben der Werkbank, zog das Mieder über das Hemd und schnürte es. Das abgebrochene Blatt aus der zweiten Schublade steckte sie in die Innentasche des Mantels. Nur das — die Blüte, die Pflanze, das Licht blieben, wo sie standen. Edric blieb auch. Er würde in der Kajüte des Bootes schlafen, hatte er gesagt, ohne dass sie gefragt hatte.
+Als die Schatten lang wurden, hängte sie die Lederschürze an den Nagel neben der Werkbank. Die Arbeitshose zog sie aus und faltete sie über den Werkbankrand. Den Wollrock aus dem kleinen Schrank neben der Tür zog sie über die Hüften. Das Mieder darüber, Stich für Stich, enger geschnürt als tagsüber. Am linken Handgelenk legte sie den schmalen Lederriemen an, den sie in der Werft nie trug.
+
+Sie wusste, dass sie das für ihn tat. Der Gedanke machte sie ruhiger, nicht unruhig.
+
+Das abgebrochene Blatt aus der zweiten Schublade steckte sie in die Innentasche des Mantels. Nur das — die Blüte, die Pflanze, das Licht blieben, wo sie standen. Edric blieb auch. Er würde in der Kajüte des Bootes schlafen, hatte er gesagt, ohne dass sie gefragt hatte.
 
 Der Weg zum *Anker* war sechs Minuten durch die Hafengasse, am Steg vorbei, wo die Flut jetzt fast bis über die Kaimauer stand. Der Nebel war dichter geworden, nicht leichter. Die Hafengasse lag im grauen Licht des späten Nachmittags, und der *Anker* war schon früh erleuchtet, eine Gaslampe über dem Sturz, die Kette nicht mehr dunkel vom Tau.
 
@@ -196,6 +200,8 @@ Ihre Hände lagen auf den Oberschenkeln. Sie waren warm. Die Wärme kam aus der 
 
 Irgendwann hob Vesper den Kopf. Er sah sie an, länger als vorher. Etwas um den Mund veränderte sich. Einen Atemzug lang lächelte er. Dann beugte er sich wieder über das Werk.
 
-In Marens Schoß breitete sich Wärme aus. Der Atem stockte für einen halben Herzschlag. Auf der Oberlippe schmeckte sie Metall, das sie den ganzen Tag getragen hatte, ohne es zu spüren.
+Das Mieder saß enger. Sie spürte ihren Puls in den Innenseiten der Schenkel. Ihr Mund war trocken.
+
+Etwas in ihrer Brust, das den ganzen Tag hoch gesessen hatte, gab nach. Die Schultern senkten sich, der Atem wurde länger. Sie durfte hier sein.
 
 Sie blieb sitzen.
