@@ -1,4 +1,20 @@
+---
+name: Varen
+slug: varen
+typ: antagonist
+pov: true
+ordner: buch
+welt: moragh
+reihenfolge: 70
+alter: "Mitte–Ende 40"
+fraktion: "Velmar · Haus Keth"
+rolle: "Schemen-Rufer, Bindungsmagier"
+buecher: [1, 2, 3]
+---
+
 # Varen — Dossier (Ebene 3)
+
+![Varen in seinem Studierzimmer in Mar-Keth](/img/varen.png)
 
 **Letzte Aktualisierung:** 2026-04-09 (Session Grundplot)
 **Status:** Aktiver Kanon. Bei Konflikt mit älteren Notizen gewinnt dieses File.

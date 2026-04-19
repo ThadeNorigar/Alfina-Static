@@ -87,3 +87,15 @@ Drei Register, nie »Jacke«:
 **Nach ihrem Tod:** Das Institut wird von Dr. Syra Halvard (Marens Ur-Großnichte, Seitenlinie) auf Eroberungskurs gekippt. Ihr Name bleibt an der Fassade, aber ihre Doktrin stirbt mit ihr.
 
 **Letzte Konsequenz:** Am Ende B3 (~2153 TZ), nachdem Alphina die Portal-Quelle zerstört hat, steht das Institut leer. Die Farne bewegen sich nicht mehr. Marens Lebenswerk ist Archäologie geworden — eine überholte Wissenschaft.
+
+---
+
+## Bildstudien
+
+![Maren unter dem Rosen-Torbogen](/img/maren-torbogen.png)
+
+![Maren in der Werft — Korsett-Studie](/img/maren-werft-korsett.png)
+
+![Maren im Lavendelfeld](/img/maren-lavendel.png)
+
+![Maren auf dem Steg](/img/maren-steg.png)
