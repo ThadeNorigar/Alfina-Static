@@ -1,4 +1,20 @@
+---
+name: Sorel
+slug: sorel
+typ: hauptfigur
+pov: true
+ordner: pov
+welt: beide
+reihenfolge: 95
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # POV — Sorel
+
+![Sorel in seiner Dunkelkammer](/img/sorel.png)
 
 ## Berufslinse
 
