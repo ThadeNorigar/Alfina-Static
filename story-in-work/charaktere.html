@@ -137,6 +137,16 @@
     .fig-body p { margin: 0 0 0.7rem; }
     .fig-body ul, .fig-body ol { margin: 0.4rem 0 0.9rem 1.2rem; }
     .fig-body li { margin: 0.2rem 0; }
+    .fig-body img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0.8rem auto;
+      border-radius: 4px;
+      cursor: zoom-in;
+      transition: transform 0.2s ease;
+    }
+    .fig-body img:hover { transform: scale(1.02); }
     .fig-body strong { color: var(--accent); font-weight: 500; }
     .fig-body em { color: var(--muted); }
     .fig-body blockquote {
@@ -172,6 +182,17 @@
       .fig-meta { padding: 0.5rem 1.2rem 0.3rem; }
       .fig-body { padding: 0.5rem 1.2rem 1rem; }
     }
+
+    .image-modal {
+      display: none; position: fixed; inset: 0; z-index: 999;
+      background: rgba(10, 8, 6, 0.92);
+      justify-content: center; align-items: center;
+      padding: 2rem; cursor: zoom-out;
+      animation: fadeIn 0.2s ease;
+    }
+    .image-modal.open { display: flex; }
+    .image-modal img { max-width: 95%; max-height: 95vh; border-radius: 4px; }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
   </style>
 </head>
 <body>
@@ -202,7 +223,17 @@
     <div class="status-note" id="status-note"></div>
   </div>
 
+  <div class="image-modal" id="image-modal">
+    <img id="image-modal-img" src="" alt="">
+  </div>
+
   <script>
+    // Lightbox für Figuren-Bilder
+    const modal = document.getElementById('image-modal');
+    const modalImg = document.getElementById('image-modal-img');
+    modal.addEventListener('click', () => { modal.classList.remove('open'); modalImg.src = ''; });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { modal.classList.remove('open'); modalImg.src = ''; } });
+
     (async function () {
       const root = document.getElementById('figuren-root');
       const statusNote = document.getElementById('status-note');
@@ -260,6 +291,16 @@
         card.querySelector('.fig-toggle').addEventListener('click', () => {
           card.classList.toggle('open');
           card.querySelector('.fig-toggle').textContent = card.classList.contains('open') ? 'Weniger' : 'Mehr';
+        });
+
+        // Klick auf Figuren-Bild öffnet Lightbox
+        card.querySelectorAll('.fig-body img').forEach(img => {
+          img.addEventListener('click', (e) => {
+            e.stopPropagation();
+            modalImg.src = img.src;
+            modalImg.alt = img.alt;
+            modal.classList.add('open');
+          });
         });
         return card;
       }
