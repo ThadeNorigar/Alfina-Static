@@ -79,7 +79,7 @@ Die Frage für sie ist nie "Wer ist gut?" — sondern "Wer ist am wenigsten gef�
 
 Elke wird die **Führerin der Vier** (Alphina, Vesper, Maren, Runa). Sie kennt Moragh, die Sprache, die Fraktionen. Sie spricht mit Alphina Thalassisch — und zwingt Alphina damit in eine Welt, in der ihre Zeit-Dimensionen durcheinandergeraten ("die Frau, mit der ich rede, ist in meiner Welt seit 400 Jahren verschollen").
 
-Elke ist die Figur, die **die Zeit-Dilatation verkörpert** — sie hat Freund:innen, Familie, eine ganze Welt überlebt, ohne es zu merken. In Buch 3, wenn die Rückkehr nach Vael ansteht, ist Elke die, für die diese Rückkehr am schmerzhaftesten wird: **Sie weiß, dass alles Bekannte weg ist.**
+Elke ist die Figur, die **die Zeit-Dilatation verkörpert** — sie hat Freund:innen, Familie, eine ganze Welt überlebt, ohne es zu merken. In Buch 3 wird ihre Rolle kurz, aber tragisch: sie stirbt früh.
 
 ---
 
@@ -88,4 +88,21 @@ Elke ist die Figur, die **die Zeit-Dilatation verkörpert** — sie hat Freund:i
 - **Mar-Keth-Enthüllung:** Wenn Elke erfährt, dass Varen drei Quellen getötet hat, muss sie sich zu ihm verhalten. Möglicher dramatischer Höhepunkt in Buch 2 oder 3.
 - **TZ-154-Interludien (9 Stück):** Elke ist POV-Trägerin in den meisten Interludien. Ihre Ankunft in Vael, ihr Erlebnis des großen Feuers, ihr Durchgang.
 - **Bildhauerin als Methodenfigur:** Sie zeigt Alphina, wie man mit Handwerk lebt, nicht nur mit Magie. Parallel zu Runa, die Magitech versteht.
-- **Sprache als Zeittor:** Ihre altertümlichen Ausdrücke sind ein permanenter Reminder für die Vier, dass die Welt, in die sie zurückkehren werden, eine andere ist.
+- **Sprache als Zeittor:** Ihre altertümlichen Ausdrücke sind ein permanenter Reminder für die Vier, dass die Welt, in der sie sich jetzt bewegen, verzeitlicht verschoben ist.
+
+---
+
+## Tod in Buch 3 — Akt II
+
+**Kurz vor ihrem Tod** übergibt Maren (via Kurier/Schemen, vor Marens Durchgang B2-K38) Elke ein Velmar-Dokument mit Varens Namen + eigenen Notizen. Elke hat es nicht gelesen. Wickelt es in Leinen, vergräbt es unter einem Stein im Garten. Gibt Alphina einen mündlichen Hinweis: *„Unter dem Stein, wo nichts wächst."* Alphina versteht ihn damals nicht.
+
+**Varen findet heraus**, dass Elke das Dokument hat (über einen Schemen-Informanten). Er schickt einen aufgeladenen Schemen mit Tötungs-Talent. Schemen betritt Elkes Haus in Dravek nachts. Elke wehrt sich. Schemen tötet sie in der **Küche**. Sucht das Dokument. Findet es nicht. Nimmt den Basalt-Splitter-Anhänger, den Elke im Todeskampf fest umschloss (Schemen hält ihn für das gesuchte Objekt wegen seiner Resonanz-Signatur). Trägt die Leiche in den Garten, platziert sie auf einer Bank — Auftrag: „nicht im Haus gefunden werden". Kehrt zu Varen zurück, übergibt den Splitter. Verschwindet (Reservoir leer).
+
+**Tatort-Anomalien** (für Alphinas spätere Rückschluss-Kette):
+- Würgespuren am Hals, aber keine Fußspuren im Tau im Garten.
+- Fehlende Brosche (Basalt-Splitter immer am Hals).
+- Die Küche sauber — Alphina sieht es, merkt aber nicht.
+
+**Alphina verdächtigt Talven** zu Unrecht — drei gefälschte Beweise (von Varen platziert) untermauern den Verdacht. Alphina tötet Talven in Akt III. Erkennt erst in Akt IV (durch Varens Küchen-Satz), dass Varen Elke getötet hat und sie Talven ungerecht.
+
+**Grab:** Unbekannter Friedhof bei Dravek. Alphina besucht es nach der Varen-Enthüllung allein.

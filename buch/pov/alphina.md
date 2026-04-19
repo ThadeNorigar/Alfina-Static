@@ -73,7 +73,10 @@ In Moragh, unter Sorels Tod, kippt die Farbe: **pechschwarze Wurzeln, Stängel i
 - **Buch 2 Bund-Training:** schwankt zwischen grün (diszipliniert) und schwarz/rot (wenn Wut durchbricht). Bund-Meister nennen es "Verunreinigung". Sie versteht nicht warum.
 - **Buch 2 Quellen-Zerstörung (2/3-Mark):** voll schwarz/rot. Die Bund-Meister wissen, sie haben etwas losgelassen.
 - **Buch 2 Endakt Sex mit Varen:** schwarze Wurzeln unter dem Bett.
-- **Buch 3:** offen — die Farbe wird ihr Gradmesser für die Beziehung zu Varen, zur Schuld, zur Riss-Quelle.
+- **Buch 3 Akt III (Bruch mit Varen):** schwarz/rot — Wut über die Täuschung, gefälschte Beweise gegen Talven, zu Unrecht getötet.
+- **Buch 3 Akt IV (Duell + Finale):** blühende Dornen (grün zu dunkel-purpur). Drei Finger der linken Hand verstümmelt (Mittel-, Ring-, kleiner bis Mittelglied). Todesstoß an Varen mit verbleibenden zwei Fingern.
+- **Buch 3 Portal-Quelle:** voll grün, Wachstums-Überladung. Überflutet die Portal-Quelle mit Leben, bis sie kollabiert. Konsistent mit ihrer harten Grenze „nur aufbauen".
+- **Buch 3 Epilog (Sub-Phase mit Vesper):** Durch Scham erstmals Sub. Vesper trägt sie. Dornen wachsen ruhig, mit Blüten.
 
 **Regel für alle POV-Szenen in Moragh:** Alphinas Pflanzen werden nie als "grün" beschrieben, solange sie emotional aufgewühlt ist. Die Beschreibung bleibt in schwarz, purpur, rot — über Farbwörter oder implizit (tief wie Wein, fast violett im Stängel, Blüten dunkel wie geronnenes Blut). Grün kommt NUR wenn sie ruhig ist.
 

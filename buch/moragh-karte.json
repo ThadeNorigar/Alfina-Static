@@ -2722,5 +2722,15 @@
         "richness": 1
       }
     ]
-  }
+  },
+  "landmarks": [
+    {
+      "x": 560.0,
+      "y": 470.0,
+      "name": "Raumschiff-Wrack",
+      "type": "wreck",
+      "desc": "Halb im Gestein versunken, von Quellenaktivitaet ueberwuchert. Herkunft der Moragh-Bewohner. Nahe Dol-Reshk.",
+      "near": "Dol-Reshk"
+    }
+  ]
 }

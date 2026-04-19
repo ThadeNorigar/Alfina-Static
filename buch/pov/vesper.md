@@ -58,3 +58,21 @@ Max ~30 W pro Satz, Ausnahmen bis ~40 W. **Wenn-Dann-Denken in vollständigen S�
 **Sorel:** Kein Kontakt bis Kap 11.
 
 **Frau Kvist (Runa):** Er siezt sie. Respekt als Handwerkerin. Sachlich.
+
+---
+
+## Buch 3 — Stratege und Paar-Ende
+
+**Expedition-Erkenner:** In Akt I ist er der erste, der die Tech-Eskalation der Thalassier durchrechnet. Warnt die Thar-Kommandantin, sie hört halb zu.
+
+**Varens Ritual-Kalkül:** Findet in Akt III das Dokument mit der Vier-Thalassier-Liste in Varens Handschrift. Bringt es Alphina. Sie glaubt zunächst nicht — er geht zurück, wartet.
+
+**Stratege des Notbündnisses (Akt III):** Als Orath + Thar sich zusammentun, wird er zum gemeinsamen Analytiker. Seine Muster/Zeit-Resonanz plus reines Intellekt-Mustersehen machen ihn unverzichtbar.
+
+**Alphina-Rettung statt Nyr:** In Akt II spät verliert er sich in der Arbeit, fokussiert sich auf Alphinas Rettung. Nyr fühlt sich vernachlässigt, erkennt ohne Bitterkeit, was läuft. Friedliche Verabschiedung, kein Bruch.
+
+**Akt IV Duell:** Verliert den **linken Unterarm** (Amputation unterhalb des Ellbogens, Gelenk erhalten — Bindungsmagie durch einen von Varen aufgeladenen Schemen kocht den Arm von innen).
+
+**Paar-Ende mit Alphina:** In K80 erstes echtes Paar-Kapitel. **Dom in BDSM-Dynamik** — reflektiert, verzeihend, geduldig. Der Kontrast zu Varens inszenierter Dominanz: er trägt Alphina ohne sie zu manipulieren. Struktur, Halt, kein Besitz. Dom-Signatur aus B1 (Intelligenz-in-Dienst, Minimal-Lob) bleibt — jetzt erweitert um die Geduld eines Mannes, der Jahre gewartet hat.
+
+**Narben:** Unterarm-Amputation links. Prothese möglich, wenn jemand in Moragh sie baut — aber erst später.

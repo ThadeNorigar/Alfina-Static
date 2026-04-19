@@ -42,21 +42,23 @@ Nach Übergang nach Moragh entfaltet Runa ihre volle Feuer-Resonanz. Nach Monate
 - Metallgitter: greift zu, glüht kirschrot, schmilzt. Kein Preis.
 - Hitze-Entzug: kühlt überheizte Räume ab.
 
-**Einstieg beim Konglomerat.** Runa fällt den Thar auf — eine Feuer-Begabte, deren Magie nichts kostet, ist für die Magitech-Industrie eine Goldgrube. Sie steigt beim Konglomerat auf, arbeitet mit Magitech-Ingenieurinnen (Brel als Gegenüber), lernt das Tech-Magie-Prinzip von innen.
+**Runa bleibt beim Bund** (nicht beim Konglomerat — das alte Konzept ist obsolet). In Halvaren als Druckerin, druckt zweisprachige Flugblätter, wartet innerlich ab. Sulkara in B2 hat sie zerbrochen; ihr Kern-Status ist **klar-sehend und unerschüttert**.
 
 ---
 
-## Buch 3 — Brücke zwischen Welten
+## Buch 3 — Vom Bund ins Leben zurück
 
-Runa wird die **Tech-Magie-Übersetzerin**:
+**Akt II — Alphinas Überzeugungs-Versuch.** Alphina reist heimlich nach Halvaren, um Runa zu Varens Seite zu bewegen. Runas drei-Sätze-Absage: *„Du riechst nach ihm. Du sprichst wie er. Ich glaube dir nicht."* Und leiser: *„Wenn du recht hast, habe ich immer noch keinen Platz an seinem Tisch."* Alphina geht. Runa druckt weiter.
 
-- Schmiedet Metall mit bloßen Händen. Ohne Werkzeug, ohne Ofen.
-- **Hybrid-Maschinen:** Versteht Moragh-Magitech UND thalassische Mechanik. Baut, was keine Seite allein kann.
-- **Magitech-Bestien von außen aufschmelzen:** Metall schmilzt, Pilot fällt nackt, unverletzt heraus.
-- **Feuersturm Stufe 10:** ~100 m Durchmesser, Kern heißest, Rand glühende Luft.
-- **Fleisch eines Feindes von innen entzünden** (Stufe 10-Alternative zu Marens Blutgefrieren): magisches Feuer direkt im Gewebe. Sie könnte. Sie wählt es selten. Ihre moralische Grenze.
+**Akt III — Überlauf.** Drael lügt zu offensichtlich über die Expedition-Bedrohung, um sein Regime zu stabilisieren. Runa erkennt: der Bund ist kompromittiert. Sie flieht in eine freie Stadt, findet Kontakt zur Gruppe.
 
-**Parallel zu Nyr.** Nyr hat die Thar-Perspektive (Reiterin, Insider), Runa die Fremdperspektive (Thalassierin mit Zugang). Beide machen sichtbar, was die Thar wollen — und wovon die Thar keine Vorstellung mehr hatten.
+**Akt III — Wiederbegegnung.** Alphina weint, Runa versteht, verzeiht — darf aber wütend sein. Ruhige harte Anerkennung, kein Versöhnungs-Kitsch.
+
+**Akt IV — Seite an Seite mit Nyr.** Kampf neben Nyr in Kessler gegen Expeditions-Drohnen. Runa schmiedet unterwegs Kessler-Reparaturen mit Feuer + Metall-Erfahrung aus Thar-Zeit. Brandnarben aus dem Kampf. Nach der Schlacht: Vesper-Amputation mit geglühter Klinge (sauber, Feuer-Resonanz).
+
+**Ende.** Halvek-Mar mit Nyr. Kleine Werkstatt (Feuer + Nyrs Metall). Keine Bestien-Kriege mehr. Die warmen Hände, die Presse (wenn sie wieder eine bauen), ruhige Tage am Meer.
+
+**Nicht mehr relevant:** Tech-Magie-Übersetzerin, Hybrid-Maschinen, Magitech-Bestien-aufschmelzen als Spezialität — das alte Konzept ist aus dem Kanon entfernt (Moragh adoptiert Thalassien-Tech nicht). Runas Stufe-10-Feuerbogen (Feuersturm, Fleisch entzünden) bleibt als Fähigkeit, wird aber im Finale wenig sichtbar — Schlacht ist Massen-Kampf, keine Duell-Szenen für sie.
 
 ---
 
@@ -65,8 +67,8 @@ Runa wird die **Tech-Magie-Übersetzerin**:
 - **Alphina:** Nähe aus Buch 1, wächst in Buch 2 zur Schwesterlichkeit. Runa ist die, die Alphina den Körper sehen lässt, wenn Alphina zu sehr im Kopf ist.
 - **Sorel:** Respekt, ferner. Sie kennen sich aus Vael, aber Sorel stirbt früh in Moragh — gemeinsame Szenen limitiert auf Buch 1 und Anfang Buch 2.
 - **Vesper + Maren:** Kollegialer Respekt. Runa und Maren stoßen sich manchmal (Feuer+Wasser, narrative Spannung), Vesper und Runa funktionieren gut (Zeit+Feuer = Metall schmilzt sofort, gefährliche Kombi).
-- **Brel (Thar-Ingenieurin):** Mentor-Protégée-Verhältnis mit Rollenumkehr. Brel zeigt Runa die Magitech-Produktion; Runa zeigt Brel die Grenzen und Möglichkeiten, die Brel nie gesehen hat.
-- **Nyr:** In Buch 3 direkte Verbündete. Reiterin + Brücken-Figur.
+- **Nyr:** In Buch 3 direkte Verbündete. Paar-Ende in Halvek-Mar. Kämpft in Akt IV in Kessler, Runa am Boden / reitet mit / repariert.
+- **Brel (Thar-Ingenieurin):** nur Randfigur — Runa geht in B3 nicht zu den Thar. Keine Mentor-Beziehung.
 
 ---
 
@@ -80,6 +82,6 @@ Runa wird die **Tech-Magie-Übersetzerin**:
 
 ## Narrative Funktion in der Trilogie
 
-Runa ist die **Brücke zur Moderne**. Während Alphina die Pflanzen ist, Vesper die Zeit, Maren das Wasser, Sorel das Licht — Runa ist das Feuer, und Feuer ist **Werkzeug**. Sie ist die einzige der Fünf, die Moragh-Magie und thalassische Technik gleichermaßen begreift. Das macht sie in Buch 3 zum Knoten, an dem Tech-Magie-Fusion möglich wird — und gefährlich.
+Runa ist die **Klarsichtige**. Als einzige der fünf durchschaut sie Varens Inszenierung von Anfang an — nicht analytisch wie Vesper (der es viel später rechnet), sondern instinktiv. Deshalb bleibt sie beim Bund, wo sie durch Druck erfährt, was wirklich läuft. Ihr Satz *„Wenn du recht hast, habe ich immer noch keinen Platz an seinem Tisch"* wird im Akt-IV-Rückblick zum klügsten Satz des Romans.
 
-Ihre moralische Bremse: Fleisch von innen entzünden. Sie ist nicht Alphina (die nur aufbauen kann) und nicht Maren (die vor sich flieht). Runa **könnte** Feinde ausbrennen und weiß, dass sie es nicht tun darf. Das ist ihr Konflikt: die Versuchung, im Krieg die radikalere Lösung zu wählen.
+Ihre moralische Bremse bleibt: Fleisch von innen entzünden (Stufe 10). Sie könnte. Sie wählt es selten. Ihre Grenze ist **persönlich**, nicht situativ — sie brennt nicht, weil sie weiß, dass sie eine solche Tat nicht überleben würde als die Frau, die sie sein will.

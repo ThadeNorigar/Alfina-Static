@@ -467,8 +467,8 @@
       "id": "handelshaus",
       "name": "Handelshaus",
       "type": "government",
-      "x": 600,
-      "y": 310,
+      "x": 740,
+      "y": 285,
       "district": "oberstadt",
       "elevation": "hoch",
       "chapters": [
@@ -523,8 +523,8 @@
       "id": "werft_dahl",
       "name": "Werft Dahl",
       "type": "shipyard",
-      "x": 870,
-      "y": 530,
+      "x": 720,
+      "y": 570,
       "district": "unterstadt",
       "elevation": "niedrig",
       "chapters": [
@@ -535,7 +535,7 @@
         "K21",
         "K22"
       ],
-      "description": "Grauer Holzschuppen am Ostufer. Halbfertiges Boot auf Böcken. Maren Ilves erbt von Haron Dahl. Gegründet TZ 151 von Lene Dahl."
+      "description": "Grauer Holzschuppen am Grauwe-Ostufer kurz vor der Muendung. Halbfertiges Boot auf Boecken. Maren Ilves erbt von Haron Dahl. Gegruendet TZ 151 von Lene Dahl."
     },
     {
       "id": "tidemoor_haus",
@@ -643,16 +643,16 @@
           570
         ],
         [
-          670,
-          555
+          640,
+          580
         ],
         [
-          770,
-          535
+          690,
+          575
         ],
         [
-          870,
-          530
+          720,
+          570
         ]
       ]
     },
@@ -690,7 +690,7 @@
         ],
         [
           440,
-          250
+          240
         ],
         [
           500,
@@ -701,12 +701,16 @@
           280
         ],
         [
-          600,
-          310
+          630,
+          280
         ],
         [
           700,
-          300
+          275
+        ],
+        [
+          740,
+          285
         ],
         [
           820,
@@ -722,16 +726,16 @@
           460
         ],
         [
-          670,
-          490
+          640,
+          500
         ],
         [
-          770,
-          510
+          680,
+          535
         ],
         [
-          870,
-          530
+          720,
+          570
         ]
       ]
     },

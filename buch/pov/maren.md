@@ -55,3 +55,17 @@ Drei Register, nie »Jacke«:
 **Sorel:** Randkontakt. Kein emotionaler Kern. Sachliche Gegenwart.
 
 **Nebenfiguren:** Edric (Vertrauen durch Handwerk), Tohl (Vertrauen durch Direktheit). Beiden gemein: Sie erklären nicht mehr als nötig. Das respektiert sie.
+
+---
+
+## Buch 2 / Buch 3 — Ende
+
+**B2-K38:** Tritt nach 5 Moragh-Monaten durchs Portal von Moragh-Seite zurück nach Thalassien. Landet in Vael **~1987 TZ**. Vesper bleibt, sie geht — beide wissen: sie hat allein zu wenig Magie für den Rückweg. Gestrandet, absichtlich.
+
+**B3 (Thalassien):** Gründet ~1990 TZ die **Schwellenforschungsgesellschaft** aus Haron Dahls Werft-Erbe. Vier Mitglieder zu Beginn, eine Karte des Steinkreises an der Wand. Wächst über vier Jahrzehnte zum staatlich finanzierten Institut. Die Farne im Botanischen Garten werden zu ihrem Lebensgegenstand — Bodentemperatur-Messungen, Sensoren, Hypothesen.
+
+**Tod in B3-Akt II (I8, ~2037 TZ):** Institut-Außengebäude in Vael, 80 Jahre alt, Herzschwäche. Drei Verwüster-Schemen brechen durch den Steinkreis (Varen manipulierte Orath-Rufer zur Vergeltungs-Beschwörung, öffnete das Portal). Das Institut wird zerstört, ~40 Tote. Maren am Fenster, sieht die Welle kommen. Letzte Worte: *„Ich habe sie hergeschickt."* Sie meint die erste Expedition. Sie weiß nicht, dass Varen die Risse geschickt hat.
+
+**Nach ihrem Tod:** Das Institut wird von Dr. Syra Halvard (Marens Ur-Großnichte, Seitenlinie) auf Eroberungskurs gekippt. Ihr Name bleibt an der Fassade, aber ihre Doktrin stirbt mit ihr.
+
+**Letzte Konsequenz:** Am Ende B3 (~2153 TZ), nachdem Alphina die Portal-Quelle zerstört hat, steht das Institut leer. Die Farne bewegen sich nicht mehr. Marens Lebenswerk ist Archäologie geworden — eine überholte Wissenschaft.

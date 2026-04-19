@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Moragh — Karte & Reisezeit</title>
+  <link rel="stylesheet" href="../styles.css">
+  <style>
+    :root {
+      --ink: #1e1c19; --muted: #6b6259; --accent: #6b3a3a;
+      --deep: #0f0e0c; --smoke: #8a8279;
+      --paper: #f8f4ee; --paper-edge: #e8e0d4;
+      --thar: #a85a3e; --orath: #3e7a8a; --velmar: #9a4a7a; --frei: #6b8a5a; --tot: #e74c3c;
+    }
+    body {
+      background: var(--deep); color: var(--paper-edge);
+      min-height: 100vh; padding: 1rem;
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+    }
+    nav { display: none; }
+    .wrap { max-width: 1400px; margin: 0 auto; }
+
+    .top {
+      display: flex; justify-content: space-between; align-items: baseline;
+      padding: 0.5rem 0 1rem;
+      font-family: 'Cormorant Garamond', serif; letter-spacing: 0.1em;
+    }
+    .top-title { font-size: 0.8rem; letter-spacing: 0.4em; text-transform: uppercase; color: var(--smoke); }
+    .top a { color: var(--paper-edge); text-decoration: none; border-bottom: 1px solid var(--smoke); padding-bottom: 2px; }
+    .top a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 360px;
+      gap: 1rem;
+    }
+    @media (max-width: 900px) {
+      .grid { grid-template-columns: 1fr; }
+    }
+
+    .map-card, .side-card {
+      background: var(--paper); color: var(--ink);
+      border-radius: 2px 6px 6px 2px;
+      box-shadow: 0 0 0 1px var(--paper-edge), 0 12px 40px rgba(0,0,0,0.3);
+      overflow: hidden;
+    }
+    .map-card {
+      aspect-ratio: 16 / 11;
+      position: relative;
+    }
+    svg { width: 100%; height: 100%; display: block; background: #0d1015; }
+
+    .side-card { padding: 1.2rem; }
+    .side-card h2 {
+      font-family: 'Cormorant Garamond', serif; font-size: 1.15rem;
+      font-weight: 500; margin: 0 0 0.8rem; color: var(--ink);
+      letter-spacing: 0.05em;
+    }
+    .side-card h3 {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.9rem;
+      font-weight: 500; margin: 1rem 0 0.4rem; color: var(--accent);
+      text-transform: uppercase; letter-spacing: 0.1em;
+    }
+    label {
+      display: block; font-size: 0.7rem; color: var(--muted);
+      margin-top: 0.7rem; margin-bottom: 0.2rem;
+      text-transform: uppercase; letter-spacing: 0.1em;
+    }
+    select, input {
+      width: 100%; padding: 0.4rem 0.6rem;
+      font-family: 'Inter', sans-serif; font-size: 0.85rem;
+      border: 1px solid var(--paper-edge);
+      background: #fff; color: var(--ink);
+      border-radius: 2px; box-sizing: border-box;
+    }
+    select:focus { outline: 1px solid var(--accent); }
+
+    .result {
+      margin-top: 1rem; padding: 0.8rem; border-left: 3px solid var(--accent);
+      background: rgba(107,58,58,0.05); border-radius: 2px;
+    }
+    .result-row {
+      display: flex; justify-content: space-between; align-items: baseline;
+      padding: 0.35rem 0; border-bottom: 1px solid rgba(107,58,58,0.06);
+      font-size: 0.88rem;
+    }
+    .result-row:last-child { border-bottom: none; }
+    .result-row .label-text {
+      font-family: 'Cormorant Garamond', serif;
+      color: var(--ink); font-size: 0.92rem;
+    }
+    .result-row .value {
+      font-family: 'JetBrains Mono', monospace; font-size: 0.78rem;
+      color: var(--accent); font-weight: 600;
+    }
+    .result-total {
+      margin-top: 0.4rem; padding-top: 0.5rem; border-top: 2px solid var(--paper-edge);
+      font-family: 'Cormorant Garamond', serif; font-size: 0.82rem;
+      color: var(--muted); line-height: 1.4;
+    }
+
+    .legend {
+      display: flex; gap: 0.8rem; flex-wrap: wrap;
+      padding: 0.6rem 1.2rem;
+      background: var(--paper-edge); color: var(--ink);
+      font-size: 0.68rem;
+    }
+    .legend-item { display: flex; align-items: center; gap: 0.3rem; }
+    .legend-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+    .legend-dot.tot { background: var(--tot); border-radius: 0; transform: rotate(45deg); }
+    .legend-wreck { font-size: 0.9rem; }
+
+    .city-tooltip {
+      position: absolute; pointer-events: none;
+      background: var(--paper); border: 1px solid var(--accent);
+      padding: 0.3rem 0.6rem; border-radius: 2px;
+      font-family: 'Inter', sans-serif; font-size: 0.72rem; color: var(--ink);
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      display: none; z-index: 10;
+    }
+
+    .note {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.78rem;
+      color: var(--muted); line-height: 1.5; margin-top: 0.8rem;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="top">
+      <div class="top-title">Moragh — Karte & Reisezeit</div>
+      <div>
+        <a href="index.html">&larr; Story in Work</a>
+      </div>
+    </div>
+
+    <div class="grid">
+      <div class="map-card">
+        <svg id="map" viewBox="0 0 1600 1100"></svg>
+        <div id="tooltip" class="city-tooltip"></div>
+      </div>
+
+      <div class="side-card">
+        <h2>Reisezeit zwischen zwei Orten</h2>
+
+        <label for="from">Von</label>
+        <select id="from"></select>
+
+        <label for="to">Nach</label>
+        <select id="to"></select>
+
+        <div id="result" class="result" style="display:none">
+          <div class="result-row">
+            <span class="label-text">Luftlinie</span>
+            <span class="value" id="dist">—</span>
+          </div>
+          <h3 style="margin-top:0.9rem; color:var(--muted); font-size:0.7rem;">Reisezeit</h3>
+          <div class="result-row">
+            <span class="label-text">Zu Fuß</span>
+            <span class="value" id="t-foot">—</span>
+          </div>
+          <div class="result-row">
+            <span class="label-text">Reit-Schemen</span>
+            <span class="value" id="t-schemen">—</span>
+          </div>
+          <div class="result-row">
+            <span class="label-text">Magitech-Bestie</span>
+            <span class="value" id="t-magitech">—</span>
+          </div>
+          <div class="result-total" id="notes"></div>
+        </div>
+
+        <p class="note">
+          Distanzen als Luftlinie, real ist durch Gelände, Quellen-Rastpunkte und Umwege meist 20–40 % länger.
+          Reisezeiten sind Durchschnitts-Richtwerte aus Moragh-Bedingungen.
+        </p>
+      </div>
+    </div>
+
+    <div class="legend">
+      <div class="legend-item"><span class="legend-dot" style="background:var(--orath)"></span> Bund/Orath</div>
+      <div class="legend-item"><span class="legend-dot" style="background:var(--thar)"></span> Konglomerat/Thar</div>
+      <div class="legend-item"><span class="legend-dot" style="background:var(--velmar)"></span> Velmar</div>
+      <div class="legend-item"><span class="legend-dot" style="background:var(--frei)"></span> Freie Städte</div>
+      <div class="legend-item"><span class="legend-dot tot"></span> Tote Städte (Quellen-Kollaps)</div>
+      <div class="legend-item"><span style="color:var(--accent)">◉ Steinplatz (Portal)</span></div>
+      <div class="legend-item"><span class="legend-wreck" style="color:#c4a04a">🛸 Raumschiff-Wrack</span></div>
+    </div>
+  </div>
+
+<script>
+const factionColors = {
+  orath: '#3e7a8a',
+  thar: '#a85a3e',
+  velmar: '#9a4a7a',
+  frei: '#6b8a5a',
+  tot: '#e74c3c'
+};
+
+// Konvention aus moragh-editor.html: 1 SVG-Unit = 3.37 km
+const KM_PER_UNIT = 3.37;
+
+// Reisegeschwindigkeiten (km/Tag, Durchschnitt inkl. Pausen)
+const SPEEDS = {
+  foot:     { kmPerDay: 32,  label: 'Zu Fuß',          note: '4 km/h × 8 Std, mit Pausen' },
+  schemen:  { kmPerDay: 65,  label: 'Reit-Schemen',    note: '12 km/h, mehrmals am Tag neu rufen (2–3 Std pro Schemen)' },
+  magitech: { kmPerDay: 90,  label: 'Magitech-Bestie', note: '15 km/h, 6–8 Std Einsatz, dann Aufladung an Quelle' }
+};
+
+const svg = document.getElementById('map');
+const ns = 'http://www.w3.org/2000/svg';
+function el(tag, attrs) {
+  const e = document.createElementNS(ns, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  return e;
+}
+
+let data = null;
+
+function coastPath(coast) {
+  if (!coast || !coast.length) return '';
+  return 'M ' + coast.map(p => p[0] + ',' + p[1]).join(' L ') + ' Z';
+}
+
+function render() {
+  svg.innerHTML = '';
+  // Ocean
+  svg.appendChild(el('rect', { width: 1600, height: 1100, fill: '#0d1015' }));
+
+  // Continent
+  if (data.coast) {
+    svg.appendChild(el('path', { d: coastPath(data.coast), fill: '#2a2520', stroke: '#4a4035', 'stroke-width': '1.5' }));
+  }
+
+  // Cities
+  const cg = el('g', {});
+  data.cities.forEach((c, i) => {
+    const size = c.size || 0;
+    const r = size === 3 ? 5 : size === 2 ? 3.5 : size === 1 ? 2.5 : size === -1 ? 4 : 1.8;
+    const fc = size === -1 ? '#e74c3c' : factionColors[c.faction] || '#888';
+    const op = size <= 0 && size !== -1 ? 0.45 : 1;
+    const circle = el('circle', { cx: c.x, cy: c.y, r, fill: fc, opacity: op, 'data-name': c.name, 'data-faction': c.faction });
+    circle.style.cursor = 'pointer';
+    cg.appendChild(circle);
+
+    if (c.name && size >= 2) {
+      const fs = size === 3 ? 10 : 8;
+      const tc = size === 3 ? '#f0e6d8' : '#b0a898';
+      const halo = el('text', { x: c.x + r + 4, y: c.y + 3, fill: 'none', stroke: '#0d1015', 'stroke-width': '3', 'font-size': fs, 'font-weight': '500', 'pointer-events': 'none' });
+      halo.textContent = c.name;
+      cg.appendChild(halo);
+      const t = el('text', { x: c.x + r + 4, y: c.y + 3, fill: tc, 'font-size': fs, 'font-weight': '500', 'pointer-events': 'none' });
+      t.textContent = c.name;
+      cg.appendChild(t);
+    }
+  });
+  svg.appendChild(cg);
+
+  // Portal
+  if (data.portal) {
+    const p = data.portal;
+    const portalG = el('g', { 'data-name': p.name });
+    portalG.appendChild(el('circle', { cx: p.x, cy: p.y, r: 8, fill: 'none', stroke: '#6b3a3a', 'stroke-width': '2' }));
+    portalG.appendChild(el('circle', { cx: p.x, cy: p.y, r: 4, fill: '#6b3a3a' }));
+    const lh = el('text', { x: p.x + 12, y: p.y + 4, fill: 'none', stroke: '#0d1015', 'stroke-width': '3', 'font-size': 11, 'font-weight': '600' });
+    lh.textContent = p.name;
+    portalG.appendChild(lh);
+    const lt = el('text', { x: p.x + 12, y: p.y + 4, fill: '#d89090', 'font-size': 11, 'font-weight': '600' });
+    lt.textContent = p.name;
+    portalG.appendChild(lt);
+    svg.appendChild(portalG);
+  }
+
+  // Landmarks (Wrack usw.)
+  if (data.landmarks) {
+    data.landmarks.forEach(lm => {
+      const g = el('g', { 'data-name': lm.name });
+      // UFO-Icon: kleiner Kreis + Ellipse drüber
+      g.appendChild(el('ellipse', { cx: lm.x, cy: lm.y, rx: 10, ry: 3, fill: '#c4a04a', opacity: '0.9' }));
+      g.appendChild(el('ellipse', { cx: lm.x, cy: lm.y - 2, rx: 6, ry: 4, fill: '#e8c878', opacity: '0.9' }));
+      g.appendChild(el('circle', { cx: lm.x - 4, cy: lm.y, r: 0.8, fill: '#0d1015' }));
+      g.appendChild(el('circle', { cx: lm.x, cy: lm.y, r: 0.8, fill: '#0d1015' }));
+      g.appendChild(el('circle', { cx: lm.x + 4, cy: lm.y, r: 0.8, fill: '#0d1015' }));
+      const halo = el('text', { x: lm.x + 14, y: lm.y + 4, fill: 'none', stroke: '#0d1015', 'stroke-width': '3', 'font-size': 10, 'font-weight': '600' });
+      halo.textContent = lm.name;
+      g.appendChild(halo);
+      const txt = el('text', { x: lm.x + 14, y: lm.y + 4, fill: '#e8c878', 'font-size': 10, 'font-weight': '600' });
+      txt.textContent = lm.name;
+      g.appendChild(txt);
+      svg.appendChild(g);
+    });
+  }
+
+  // Route (von/nach)
+  renderRoute();
+}
+
+let routeG = null;
+function renderRoute() {
+  if (routeG) { routeG.remove(); routeG = null; }
+  const fromName = document.getElementById('from').value;
+  const toName = document.getElementById('to').value;
+  if (!fromName || !toName || fromName === toName) return;
+  const a = findPoint(fromName);
+  const b = findPoint(toName);
+  if (!a || !b) return;
+
+  routeG = el('g', {});
+  const line = el('line', { x1: a.x, y1: a.y, x2: b.x, y2: b.y, stroke: '#f0c864', 'stroke-width': '2', 'stroke-dasharray': '6 4', opacity: '0.85' });
+  routeG.appendChild(line);
+  // Start/End marker
+  routeG.appendChild(el('circle', { cx: a.x, cy: a.y, r: 7, fill: 'none', stroke: '#f0c864', 'stroke-width': '2' }));
+  routeG.appendChild(el('circle', { cx: b.x, cy: b.y, r: 7, fill: 'none', stroke: '#f0c864', 'stroke-width': '2' }));
+  svg.appendChild(routeG);
+}
+
+function findPoint(name) {
+  const c = data.cities.find(x => x.name === name);
+  if (c) return { x: c.x, y: c.y, name: c.name };
+  if (data.portal && data.portal.name === name) return data.portal;
+  if (data.landmarks) {
+    const lm = data.landmarks.find(x => x.name === name);
+    if (lm) return lm;
+  }
+  return null;
+}
+
+function populateDropdowns() {
+  const from = document.getElementById('from');
+  const to = document.getElementById('to');
+  const opts = [];
+  // Cities (alphabetisch, aber Hauptstädte zuerst)
+  const sorted = [...data.cities].sort((a, b) => {
+    const sa = a.size || 0, sb = b.size || 0;
+    if (sa !== sb) return sb - sa;
+    return a.name.localeCompare(b.name);
+  });
+  sorted.forEach(c => opts.push({ name: c.name, label: c.name + (c.faction ? ' (' + c.faction + ')' : '') }));
+  if (data.portal) opts.push({ name: data.portal.name, label: data.portal.name + ' (Portal)' });
+  if (data.landmarks) data.landmarks.forEach(lm => opts.push({ name: lm.name, label: lm.name + ' ★' }));
+
+  from.innerHTML = '<option value="">— wähle —</option>' + opts.map(o => `<option value="${o.name}">${o.label}</option>`).join('');
+  to.innerHTML = '<option value="">— wähle —</option>' + opts.map(o => `<option value="${o.name}">${o.label}</option>`).join('');
+}
+
+function compute() {
+  const fromName = document.getElementById('from').value;
+  const toName = document.getElementById('to').value;
+  const resultBox = document.getElementById('result');
+  if (!fromName || !toName || fromName === toName) {
+    resultBox.style.display = 'none';
+    renderRoute();
+    return;
+  }
+  const a = findPoint(fromName);
+  const b = findPoint(toName);
+  if (!a || !b) { resultBox.style.display = 'none'; return; }
+
+  const dxu = b.x - a.x, dyu = b.y - a.y;
+  const distUnits = Math.sqrt(dxu * dxu + dyu * dyu);
+  const distKm = distUnits * KM_PER_UNIT;
+
+  document.getElementById('dist').textContent = Math.round(distKm).toLocaleString('de-DE') + ' km';
+
+  const fmtTime = (kmPerDay) => {
+    const days = distKm / kmPerDay;
+    if (days < 1) {
+      const hours = days * 24;
+      return hours.toFixed(1) + ' h';
+    }
+    if (days < 14) return days.toFixed(1) + ' Tage';
+    const weeks = days / 7;
+    if (weeks < 12) return weeks.toFixed(1) + ' Wochen';
+    return (days / 30).toFixed(1) + ' Monate';
+  };
+
+  document.getElementById('t-foot').textContent = fmtTime(SPEEDS.foot.kmPerDay);
+  document.getElementById('t-schemen').textContent = fmtTime(SPEEDS.schemen.kmPerDay);
+  document.getElementById('t-magitech').textContent = fmtTime(SPEEDS.magitech.kmPerDay);
+
+  document.getElementById('notes').innerHTML =
+    '<div>Zu Fuß: ' + SPEEDS.foot.note + '.</div>' +
+    '<div>Reit-Schemen: ' + SPEEDS.schemen.note + '.</div>' +
+    '<div>Magitech: ' + SPEEDS.magitech.note + '.</div>';
+
+  resultBox.style.display = 'block';
+  renderRoute();
+}
+
+// Tooltip
+const tt = document.getElementById('tooltip');
+svg.addEventListener('mousemove', (e) => {
+  const t = e.target;
+  const name = t.getAttribute && t.getAttribute('data-name');
+  if (name) {
+    tt.textContent = name;
+    tt.style.display = 'block';
+    const r = svg.getBoundingClientRect();
+    tt.style.left = (e.clientX - r.left + 10) + 'px';
+    tt.style.top  = (e.clientY - r.top - 8) + 'px';
+  } else {
+    tt.style.display = 'none';
+  }
+});
+svg.addEventListener('mouseleave', () => { tt.style.display = 'none'; });
+
+// Klick auf SVG-Element: setzt From/To
+svg.addEventListener('click', (e) => {
+  const name = e.target.getAttribute && e.target.getAttribute('data-name');
+  if (!name) return;
+  const fromSel = document.getElementById('from');
+  const toSel = document.getElementById('to');
+  if (!fromSel.value) { fromSel.value = name; }
+  else if (!toSel.value || fromSel.value === name) { toSel.value = name; }
+  else { fromSel.value = toSel.value; toSel.value = name; }
+  compute();
+});
+
+// Load
+fetch('/buch/moragh-karte.json')
+  .then(r => r.json())
+  .then(j => {
+    data = j;
+    populateDropdowns();
+    render();
+    document.getElementById('from').addEventListener('change', compute);
+    document.getElementById('to').addEventListener('change', compute);
+  });
+</script>
+</body>
+</html>

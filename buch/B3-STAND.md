@@ -108,7 +108,7 @@ Gesamt 40 Kapitel (K41–K80) + 7 Interludien (I7, I8, I9, I13, I14, I15, I16) +
 - Runa-Überlauf aus dem Bund (Drael lügt über Expedition-Fakten).
 - Nyr verlässt die Thar.
 - Alle vier finden sich zum zweiten Mal (nach B1-K19) zusammen.
-- I14 Halvard + Rust planen Expedition 2 (Thalassien ~2110). I9 Institut-Wandel (Thalassien ~2080).
+- I14 Halvard + Velkan planen Expedition 2 (Thalassien ~2110). I9 Institut-Wandel (Thalassien ~2080).
 
 ### Akt IV — „Portal und Duell" (K71–K80 + I16/I15 + Epilog) ~53.000 W · Monat 9–10
 - Schlacht gegen Expedition 2. Iven lahmt Elektronik (Drohnen, Kommunikation, Exoskelette).
@@ -126,8 +126,10 @@ Gesamt 40 Kapitel (K41–K80) + 7 Interludien (I7, I8, I9, I13, I14, I15, I16) +
   - Alphina gibt Todesstoß mit verbleibenden zwei Fingern + Dornenbündel.
   - Letztes Wort: *„Garten."*
 - Parallel Runa + Nyr in Kessler gegen Expeditions-Drohnen. Kessler schwer beschädigt.
-  **Kessler wird am Schlachtfeld zurückgelassen** (Magitech-Bestie ohne Reiter inert).
-  Nyrs symbolischer Abschluss mit Thar-Identität.
+  **Nyr nimmt Kessler mit** — Reiter-Bindung ist absolut, Magitech-Bestie ohne Reiter wäre inert.
+  Runa repariert Kessler unterwegs mit Feuer-Resonanz (Metall weichglühen, Panzerung nachziehen).
+  Nyrs Zweittalent Metall hilft bei den Feinarbeiten. In Halvek-Mar: Kessler als zivile
+  Arbeitsbestie im Hafen (Schwerlast, Felsabtragung). Arbeitet nur, wenn Nyr im Cockpit ist.
 - **Finale-Drama — Verzweiflungsangriff auf Expedition-Basislager in Dravek:**
   Die Expedition hat den Portal-Modulator reaktiviert. Zweite Durchgangs-Welle beginnt.
   **Aus Thalassien (2153 TZ Technik) kommen stockwerkshohe Killermaschinen, Gigant-Drohnen,
@@ -242,9 +244,9 @@ Gesamt 40 Kapitel (K41–K80) + 7 Interludien (I7, I8, I9, I13, I14, I15, I16) +
   sich in Alphinas Rettung verliert. Erkennt das ohne Bitterkeit — sagt es ihm,
   verabschiedet sich, bietet an, an seiner Seite zu stehen, wenn nötig. Keine dramatische Szene.
 - Verlässt Thar spät in Akt III (Zivilisten-als-Schild-Befehle).
-- Akt IV: Kampf gegen Expeditions-Drohnen in Kessler. **Kessler schwer beschädigt,
-  am Schlachtfeld zurückgelassen** — Magitech-Bestie ohne Reiter inert.
-  Symbolischer Abschluss mit Thar-Identität.
+- Akt IV: Kampf gegen Expeditions-Drohnen in Kessler. **Kessler schwer beschädigt.
+  Nyr nimmt ihn mit nach Halvek-Mar** (Reiter-Bindung absolut, Magitech-Bestie ohne Reiter inert).
+  Runa repariert unterwegs mit Feuer, Nyrs Zweittalent Metall hilft.
 - Endet mit Runa in Halvek-Mar. Kleine Werkstatt, Metall-Resonanz, keine Bestien mehr.
 
 ### Maren
