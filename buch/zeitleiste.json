@@ -1428,19 +1428,21 @@
       "tz_sort": 551.46,
       "tz_datum": "22. Blütenmond 551 TZ",
       "welt": "thalassien",
-      "pov": "Sorel",
+      "pov": "Alphina",
       "buch": "B1",
       "kapitel": "23",
       "leseart": "normal",
-      "titel": "Sorel sieht Varen auf den Kampf-Platten",
-      "detail": "Sorel entwickelt die Platten vom Kampf (K19). Hinter der Waechter-Aufnahme: eine zweite Figur, humanoid, beobachtend — Varen. Auf jeder Platte mit Alphina: der Schem, immer hinter ihr, nie hinter den anderen. Er bringt es Vesper. 'Varen lernt euch kennen.' Sorel versteht: er ist nicht der Jaeger, er ist die Kamera.",
+      "titel": "A+S: Gedankenaustausch und Experimente — Kombination der Resonanzen",
+      "detail": "Abend in Alphinas Unterkunft. Gespräch über Marens Werft-Pflanze (K22) und den Kampf (K19). Erste aktive Erforschung: was können wir tun, nicht nur sein? Sie experimentieren gemeinsam mit Licht und Wachstum — seine Belichtung lenkt das Wachstum einer Farnranke. Kombination zweier Resonanzen funktioniert. Sorel spricht sein Begehren aus. Sie beginnen sich zu lieben — das Kapitel endet vor dem Akt (implizit). Fundament für den späteren Tod-Schmerz.",
       "typen": [
-        "erkenntnis",
+        "resonanz",
+        "erotik",
         "tschechow"
       ],
       "tags": [
-        "Erkenntnis: Varen beobachtet gezielt",
-        "Tschechow: Schemen folgen NUR Alphina"
+        "Tschechow: Kombination zweier Resonanzen funktioniert (Prototyp für Ritual K33/K34)",
+        "A+S intensive Nähe etabliert",
+        "Erste aktive Magie-Nutzung (nicht nur Reaktion)"
       ],
       "kapitel_status": "szenenplan"
     },
@@ -1470,19 +1472,21 @@
       "tz_sort": 551.5,
       "tz_datum": "26. Blütenmond 551 TZ",
       "welt": "thalassien",
-      "pov": "Sorel",
+      "pov": "Runa",
       "buch": "B1",
       "kapitel": "25",
       "leseart": "normal",
-      "titel": "Alphina findet die DAUER des Geheimnisses — Bruch A+S",
-      "detail": "Alphina kommt in die Dunkelkammer, will etwas holen. Findet die drei Steg-Platten aus den ersten Wochen — mit Datum auf der Rueckseite. Sie rechnet nach: er hat sie beobachtet bevor er ihren Namen kannte. Wochen vor dem Gartenabend. Das Nacktbild war nicht der Vertrauensbruch — die DAUER ist es. 'Du hast mich genommen ohne zu fragen.' Er schweigt. Sie geht.",
+      "titel": "Runa: Tagträume in der Druckerei, Begehren für Alphina",
+      "detail": "Alphina besucht Runa in der Druckerei (Anlass: Flugblatt-Gespräch). Nachdem Alphina geht, bleibt Runa allein zurück. Tagträume, Selbstberührung bei Gedanken an Alphina. Queer Begehren wird bewusst. [Offen: Runas Vorgeschichte, Feuer-Resonanz-Seed bei Erregung, konkretes Ende.]",
       "typen": [
-        "schlüssel"
+        "erotik",
+        "begegnung",
+        "charakter"
       ],
       "tags": [
-        "Tschechow feuert: Steg-Platten K16",
-        "Bruch A+S",
-        "Akt-II-Ende"
+        "Runa-POV (bewusste Ausnahme, kein Interludium)",
+        "Runa queer begehrt Alphina",
+        "Mögliche Feuer-Resonanz-Keimung (offen)"
       ],
       "kapitel_status": "szenenplan"
     },
@@ -1491,18 +1495,21 @@
       "tz_sort": 551.52,
       "tz_datum": "26. Blütenmond 551 TZ",
       "welt": "thalassien",
-      "pov": "Alphina",
+      "pov": "Vesper",
       "buch": "B1",
       "kapitel": "26",
       "leseart": "normal",
-      "titel": "Alphina + Runa: Trost nach dem Bruch, Feuer-Resonanz keimt",
-      "detail": "Alphina nach dem Bruch, wütend, allein. Runa kommt mit Tee und Flugblaettern. Kein Sorel-Gespräch — zwei Frauen, Nacht, zu viel Tee. Runa erzaehlt von einem Feuer in ihrer Kindheit das sie nicht erklaeren konnte. Ihre Hände um die Tasse sind zu warm. Alphina spürt es, sagt nichts. Zum ersten Mal seit Wochen atmet sie.",
+      "titel": "Gruppe bringt Ergebnisse zusammen — Entscheidung, das Buch zu lernen",
+      "detail": "Tidemoor-Haus. Datenabgleich: Uhren-Drift (Vesper), Gezeiten (Maren), Farne und Moragh-Geruch (Alphina), Platten-Anomalien (Sorel). Halvards Patienten-Berichte dazu. Erkenntnis: die Phänomene sind systematisch, nicht zufällig — etwas kommt aktiv durch. Kernfrage in der Runde: 'Wenn es hierher kann, können wir dorthin?' Entscheidung: Moragh-Sprache aus Harons Wörterbuch lernen, Manuskript und Ritual verstehen. Kein Entschluss zum Durchgang (kommt K33). Vesper bemerkt Korrelation zwischen Uhren-Drift und Gezeiten, hat aber noch keinen Beweis — Seed für K32.",
       "typen": [
-        "begegnung"
+        "erkenntnis",
+        "tschechow",
+        "wissen"
       ],
       "tags": [
-        "Beziehung: Alphina + Runa",
-        "Tschechow: Runas Feuer-Resonanz keimt"
+        "Entscheidung: Training und Buch verstehen",
+        "Tschechow: Grundfrequenz-Seed (Drift + Gezeiten korrelieren, noch ohne Beweis)",
+        "Motivation für 3-Monats-Zeitsprung"
       ],
       "kapitel_status": "szenenplan"
     },
@@ -1536,13 +1543,17 @@
       "buch": "B1",
       "kapitel": "28",
       "leseart": "normal",
-      "titel": "Maren folgt dem Wasser zum Steinkreis — der Riss weint",
-      "detail": "Drei Monate später, frueher Nebelmond. Maren folgt dem rückwärts fliessenden Wasser nachts von der Werft zum Steinkreis im Botanischen Garten. Der Purpurstein schwitzt Salz — nicht Grauwe-Salz, ein anderes Meer. Ihre Hand auf dem Stein: der Riss weint. Sie spürt Moragh zum ersten Mal direkt.",
+      "titel": "Maren folgt dem Wasser zum Steinkreis — der Riss weint, erste Leiche",
+      "detail": "Nachts in der Werft. Das Wasser in der Grauwe fließt rückwärts — landeinwärts statt zur See. Maren folgt ihm barfuß durch die Gassen. Auf dem Hinweg begegnet ihr ein Mensch, kurzer Moment. Das Wasser führt sie zum Botanischen Garten, in die Mitte, zum Steinkreis. Der Purpurstein schwitzt Salz von innen — nicht Grauwe-Salz, ein anderes Meer. Sie berührt ihn, spürt Moragh zum ersten Mal direkt. Am Rand des Kreises: sechs, sieben Schemen, beobachtend, können nicht hinein. Auf dem Heimweg findet sie denselben Menschen von vorhin — tot. In der Zwischenzeit ermordet. [Offen: Identitätsstufe des Toten, Tschechow-Detail vom Hinweg, Todesursache.] Erkenntnis: die Schemen töten aktiv außerhalb des Kreises.",
       "typen": [
-        "schlüssel"
+        "resonanz",
+        "tod",
+        "tschechow"
       ],
       "tags": [
-        "Schluesselereignis: Maren findet den Riss"
+        "Erste Leiche in Vael",
+        "Tschechow: Schemen-Grenze ist der Steinkreis, nicht der Garten",
+        "Moragh-Salz auf Purpurstein (erstes direktes Spüren von Moragh)"
       ],
       "kapitel_status": "szenenplan"
     },
@@ -1551,17 +1562,21 @@
       "tz_sort": 551.58,
       "tz_datum": "6. Nebelmond 551 TZ",
       "welt": "thalassien",
-      "pov": "Alphina",
+      "pov": "Sorel",
       "buch": "B1",
       "kapitel": "29",
       "leseart": "normal",
-      "titel": "Alphina findet Sorel am Riss — Versoehnung",
-      "detail": "Alphina sucht Sorel seit Tagen. Findet ihn im Steinkreis — er fotografiert die Zeichen. 'Du bist nicht hier weil du mich liebst.' Sie gibt ihm Recht. Zum ersten Mal. Versoehnung die schmerzhafter ist als der Streit. Unter ihren Fuessen pulsiert der Purpurstein für zwei Resonanzen.",
+      "titel": "Sorel meistert Licht — Schem im Schatten sichtbar",
+      "detail": "Sorel entdeckt seine volle Licht-Fähigkeit. Er kann einen Lichtstrahl durch ein Loch in ein Prisma auffächern, zu einem Brennpunkt bündeln, den Raum abdunkeln oder heller machen. Schockmoment: Er macht den Raum heller — und sieht im Schatten einen verborgenen Schem sitzen. Sie werden die ganze Zeit beobachtet. [Offen: Ort, ob Alphina dabei, Reaktion des Schem, Fluchtdynamik, ob privat A+S oder öffentlich zur Gruppe.]",
       "typen": [
-        "begegnung"
+        "resonanz",
+        "erkenntnis",
+        "tschechow"
       ],
       "tags": [
-        "Beziehung: Alphina + Sorel — Versoehnung"
+        "Sorel aktive Licht-Magie (Meisterung)",
+        "Tschechow: Schemen beobachten die ganze Zeit aus Schatten",
+        "Eskalation der Schemen-Nähe"
       ],
       "kapitel_status": "szenenplan"
     },
