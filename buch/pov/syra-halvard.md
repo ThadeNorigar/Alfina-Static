@@ -14,6 +14,8 @@ reihenfolge: 45
 
 # Dr. Syra Halvard — POV-Dossier
 
+![Dr. Syra Halvard im Institut in Vael](/img/syra-halvard.png)
+
 **Letzte Aktualisierung:** 2026-04-19
 **Status:** Aktiver Kanon. Nebenhauptfigur Buch 3 (Thalassien-Zukunft, Antagonistin).
 **Verwandte Files:** `12-buch3-konzept.md`, `fraktionen/expedition.md`, `B3-BRIEFING.md`, `pov/tyra-halvard.md`.

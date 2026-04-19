@@ -14,6 +14,8 @@ reihenfolge: 35
 
 # General Kelvar Velkan — POV-Dossier
 
+![General Kelvar Velkan im Feldlager in Dravek](/img/kelvar-velkan.png)
+
 **Letzte Aktualisierung:** 2026-04-19
 **Status:** Aktiver Kanon. Primärer Antagonist Buch 3 Akt IV (militärischer Expeditionsleiter).
 **Verwandte Files:** `12-buch3-konzept.md`, `fraktionen/expedition.md`, `pov/syra-halvard.md`.

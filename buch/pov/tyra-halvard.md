@@ -14,6 +14,8 @@ reihenfolge: 50
 
 # Tyra Halvard — POV-Dossier
 
+![Tyra in ihrem Moragh-Versteck mit einem Schemen-Fernsprecher](/img/tyra-halvard.png)
+
 **Letzte Aktualisierung:** 2026-04-19
 **Status:** Aktiver Kanon. Hauptfigur Buch 3 (und Brückenfigur Buch 4).
 **Verwandte Files:** `12-buch3-konzept.md`, `fraktionen/expedition.md`, `B3-ZEITLEISTE.md`, `pov/maren.md` (Marens Ur-Großtante).
