@@ -1,6 +1,9 @@
-# Build-Artefakte von generate-lesen.sh — werden auf dem Server neu erzeugt
+# Build-Artefakte — werden auf dem Server von generate-lesen.sh / build-web.py neu erzeugt
 lesen/[0-9]*/index.html
 lesen/I*/index.html
+story-in-work/lektorat-versions/*.json
+story/data/synopsen.json
+story-in-work/data/figuren.json
 
 # Lokale Claude-Settings
 .claude/settings.local.json
