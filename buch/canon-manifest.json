@@ -1,0 +1,77 @@
+{
+  "categories": [
+    {
+      "id": "welt-kanon",
+      "name": "Welt & Kanon",
+      "docs": [
+        {"slug": "00-welt", "title": "Die Welt von Vael", "desc": "Weltbibel — Länder, Städte, Fraktionen, Source of Truth"},
+        {"slug": "00-storyline", "title": "Gesamt-Storyline", "desc": "Trilogie-Bogen, Haupthandlung, zentrale Wendungen"},
+        {"slug": "00-canon-kompakt", "title": "Kanon kompakt", "desc": "Verdichteter Kanon-Auszug zum Nachschlagen"}
+      ]
+    },
+    {
+      "id": "stil",
+      "name": "Stil & Stimme",
+      "docs": [
+        {"slug": "01-autorin-stimme", "title": "Autorin-Stimme", "desc": "Tonalität, Haltung, Erzählerstimme"},
+        {"slug": "02-stilregeln-v2", "title": "Stilregeln v2", "desc": "Aktuelle, harte Stilregeln"},
+        {"slug": "01-stil", "title": "Stilregeln v1", "desc": "Erste Fassung — historisch"},
+        {"slug": "01-referenz-konkretheit", "title": "Referenz: Konkretheit", "desc": "Ding vor Bild, Material benennen"}
+      ]
+    },
+    {
+      "id": "magie-systeme",
+      "name": "Magie & Welt-Systeme",
+      "docs": [
+        {"slug": "10-magie-system", "title": "Magie-System", "desc": "Resonanzen der Fünf, Stufen, Reichweite"},
+        {"slug": "18-thar-magitech", "title": "Thar-Magitech", "desc": "Industrie und Magitech-Bestien des Konglomerats"},
+        {"slug": "20-moragh-talente-entwurf", "title": "Moragh-Talente (Entwurf)", "desc": "21 Talente mit Skalen 1–10, Alterskurve, Multibegabung"}
+      ]
+    },
+    {
+      "id": "figuren",
+      "name": "Figuren",
+      "docs": [
+        {"slug": "pov/alphina", "title": "Alphina (POV)", "desc": "POV-Dossier"},
+        {"slug": "pov/sorel", "title": "Sorel (POV)", "desc": "POV-Dossier"},
+        {"slug": "pov/vesper", "title": "Vesper (POV)", "desc": "POV-Dossier"},
+        {"slug": "pov/maren", "title": "Maren (POV)", "desc": "POV-Dossier"},
+        {"slug": "11-nyr", "title": "Nyr", "desc": "Figur-Dossier"},
+        {"slug": "13-talven", "title": "Talven", "desc": "Figur-Dossier"},
+        {"slug": "19-varen", "title": "Varen", "desc": "Antagonist, Binder-Kaste Moragh"}
+      ]
+    },
+    {
+      "id": "akt-buch1",
+      "name": "Aktpläne Buch 1",
+      "docs": [
+        {"slug": "02-akt1", "title": "Akt I", "desc": "Ankunft, Welt aufbauen"},
+        {"slug": "03-akt2", "title": "Akt II", "desc": ""},
+        {"slug": "04-akt3", "title": "Akt III", "desc": ""},
+        {"slug": "05-akt4", "title": "Akt IV", "desc": "Durchgang zum Tor"}
+      ]
+    },
+    {
+      "id": "akt-buch2",
+      "name": "Aktpläne Buch 2",
+      "docs": [
+        {"slug": "06-buch2-akt1", "title": "Akt I", "desc": ""},
+        {"slug": "07-buch2-akt2", "title": "Akt II", "desc": ""},
+        {"slug": "08-buch2-akt3", "title": "Akt III", "desc": ""},
+        {"slug": "09-buch2-akt4", "title": "Akt IV", "desc": ""}
+      ]
+    },
+    {
+      "id": "buch3",
+      "name": "Buch 3",
+      "docs": [
+        {"slug": "12-buch3-konzept", "title": "Buch 3 — Konzept", "desc": "Dramaturgischer Bogen, offene Fragen"},
+        {"slug": "14-buch3-akt1", "title": "Akt I", "desc": ""},
+        {"slug": "15-buch3-akt2", "title": "Akt II", "desc": ""},
+        {"slug": "16-buch3-akt3", "title": "Akt III", "desc": ""},
+        {"slug": "17-buch3-akt4", "title": "Akt IV", "desc": ""},
+        {"slug": "B3-BRIEFING", "title": "Buch-3 Briefing", "desc": "Arbeitsbriefing"}
+      ]
+    }
+  ]
+}

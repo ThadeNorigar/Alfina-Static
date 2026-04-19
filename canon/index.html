@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Der Riss — Kanon-Leser</title>
+  <link rel="stylesheet" href="../styles.css">
+  <style>
+    :root {
+      --cream: #f5f0e8; --warm: #ebe4d8; --ink: #1e1c19;
+      --muted: #6b6259; --accent: #6b3a3a;
+      --accent-faint: rgba(107,58,58,0.06);
+      --deep: #0f0e0c; --smoke: #8a8279;
+      --paper: #f8f4ee; --paper-edge: #e8e0d4;
+    }
+    body {
+      background: var(--deep); display: flex; justify-content: center;
+      align-items: flex-start; min-height: 100vh; padding: 2rem 1rem;
+    }
+    nav { display: none; }
+    .doc {
+      position: relative; width: 100%; max-width: 820px;
+      background: var(--paper);
+      box-shadow: 0 0 0 1px var(--paper-edge), 0 12px 40px rgba(0,0,0,0.3);
+      border-radius: 2px 6px 6px 2px; overflow: hidden;
+    }
+    .doc::before {
+      content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+      background: linear-gradient(180deg, var(--paper-edge) 0%, #c8bfb0 50%, var(--paper-edge) 100%);
+      z-index: 10;
+    }
+
+    .top-bar {
+      padding: 1rem 2rem; border-bottom: 1px solid var(--accent-faint);
+      display: flex; justify-content: space-between; align-items: center;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.82rem;
+      letter-spacing: 0.1em;
+    }
+    .top-bar a {
+      color: var(--smoke); text-decoration: none;
+      border-bottom: 1px solid transparent; transition: all 0.2s;
+    }
+    .top-bar a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+    .breadcrumb { color: var(--muted); }
+    .breadcrumb .sep { color: var(--smoke); margin: 0 0.4rem; }
+
+    .doc-header {
+      padding: 2.5rem 3rem 1.5rem; text-align: center;
+      border-bottom: 1px solid var(--accent-faint);
+    }
+    .doc-category {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.7rem;
+      letter-spacing: 0.3em; text-transform: uppercase;
+      color: var(--smoke); margin-bottom: 0.8rem;
+    }
+    .doc-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(1.5rem, 4vw, 2.2rem);
+      font-weight: 400; letter-spacing: 0.1em; color: var(--ink);
+    }
+    .doc-slug {
+      font-family: 'JetBrains Mono', monospace; font-size: 0.65rem;
+      color: var(--smoke); margin-top: 0.5rem; letter-spacing: 0.1em;
+    }
+
+    .prose {
+      padding: 2.5rem 3rem 3rem;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1rem; line-height: 1.8; color: var(--ink);
+    }
+    .prose h1, .prose h2, .prose h3, .prose h4 {
+      font-weight: 500; color: var(--ink); margin-top: 2rem; margin-bottom: 0.8rem;
+      letter-spacing: 0.03em;
+    }
+    .prose h1 { font-size: 1.55rem; border-bottom: 1px solid var(--accent-faint); padding-bottom: 0.3rem; }
+    .prose h2 { font-size: 1.3rem; color: var(--accent); }
+    .prose h3 { font-size: 1.1rem; }
+    .prose h4 { font-size: 0.95rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.1em; }
+    .prose p { margin: 0.8rem 0; position: relative; }
+    .prose ul, .prose ol { padding-left: 1.5rem; margin: 0.6rem 0; }
+    .prose li { margin: 0.3rem 0; line-height: 1.7; }
+    .prose hr {
+      border: none; border-top: 1px solid var(--accent-faint);
+      margin: 2rem 0; height: 0;
+    }
+    .prose strong { color: var(--ink); font-weight: 600; }
+    .prose em { font-style: italic; color: var(--muted); }
+    .prose code {
+      font-family: 'JetBrains Mono', monospace; font-size: 0.88em;
+      background: rgba(107,58,58,0.06); padding: 0.1em 0.3em; border-radius: 2px;
+      color: var(--accent);
+    }
+    .prose pre {
+      background: rgba(30,28,25,0.04); border-left: 2px solid var(--accent-faint);
+      padding: 0.8rem 1rem; overflow-x: auto; margin: 1rem 0;
+      font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; line-height: 1.5;
+    }
+    .prose pre code { background: none; padding: 0; color: var(--ink); }
+    .prose blockquote {
+      border-left: 3px solid var(--accent);
+      padding-left: 1rem; margin: 1rem 0; color: var(--muted); font-style: italic;
+    }
+    .prose table {
+      width: 100%; border-collapse: collapse; margin: 1rem 0;
+      font-family: 'Inter', sans-serif; font-size: 0.82rem;
+    }
+    .prose th, .prose td {
+      padding: 0.5rem 0.8rem; text-align: left;
+      border-bottom: 1px solid var(--accent-faint); vertical-align: top;
+    }
+    .prose th {
+      font-weight: 600; color: var(--accent); text-transform: uppercase;
+      letter-spacing: 0.05em; font-size: 0.72rem;
+      border-bottom: 2px solid var(--accent-faint);
+    }
+    .prose tr:hover td { background: rgba(107,58,58,0.02); }
+
+    .prose a {
+      color: var(--accent); text-decoration: none;
+      border-bottom: 1px solid rgba(107,58,58,0.3);
+    }
+    .prose a:hover { border-bottom-color: var(--accent); }
+
+    /* Comment UI — gleiche Optik wie Kapitel-Reader */
+    .comment-trigger {
+      position: absolute; right: -2.2rem; top: 0.35rem;
+      width: 1.4rem; height: 1.4rem; padding: 0; border: 1px solid var(--smoke);
+      background: var(--paper); color: var(--smoke); font-size: 0.7rem;
+      cursor: pointer; opacity: 0; transition: all 0.2s; border-radius: 50%;
+    }
+    .prose p:hover .comment-trigger,
+    .prose li:hover .comment-trigger,
+    .prose h1:hover .comment-trigger,
+    .prose h2:hover .comment-trigger,
+    .prose h3:hover .comment-trigger,
+    .prose h4:hover .comment-trigger { opacity: 0.7; }
+    .comment-trigger:hover { opacity: 1 !important; border-color: var(--accent); color: var(--accent); }
+    .has-comments .comment-trigger { opacity: 0.8; border-color: var(--accent); color: var(--accent); }
+    .has-comments { border-left: 2px solid var(--accent); padding-left: 0.6rem; margin-left: -0.8rem; }
+
+    .prose li, .prose h1, .prose h2, .prose h3, .prose h4 { position: relative; }
+
+    @media (max-width: 900px) {
+      .comment-trigger { right: -1.6rem; }
+    }
+
+    .comment-popup {
+      background: var(--paper); border: 1px solid var(--accent);
+      padding: 0.8rem; margin: 0.5rem 0 1rem 0; border-radius: 3px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.1); position: relative;
+    }
+    .comment-popup-close {
+      position: absolute; top: 0.4rem; right: 0.4rem; background: none; border: none;
+      font-size: 1.1rem; color: var(--smoke); cursor: pointer; padding: 0 0.3rem;
+    }
+    .comment-list { margin-bottom: 0.6rem; }
+    .comment-item {
+      font-family: 'Inter', sans-serif; font-size: 0.78rem; color: var(--ink);
+      padding: 0.3rem 0; border-bottom: 1px solid rgba(107,58,58,0.08);
+    }
+    .comment-item:last-child { border-bottom: none; }
+    .comment-item-meta {
+      font-size: 0.62rem; color: var(--smoke); margin-top: 0.15rem;
+    }
+    .comment-empty {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.82rem;
+      color: var(--smoke); font-style: italic; margin: 0;
+    }
+    .comment-textarea {
+      width: 100%; min-height: 2.2rem; border: 1px solid var(--paper-edge);
+      padding: 0.4rem 0.6rem; font-family: 'Inter', sans-serif; font-size: 0.82rem;
+      background: #fff; color: var(--ink); border-radius: 2px; resize: vertical;
+      box-sizing: border-box;
+    }
+    .comment-submit {
+      margin-top: 0.5rem; padding: 0.35rem 0.9rem; background: var(--paper);
+      border: 1px solid var(--accent); color: var(--accent); cursor: pointer;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.82rem;
+      letter-spacing: 0.1em; border-radius: 2px; transition: all 0.2s;
+    }
+    .comment-submit:hover { background: var(--accent); color: var(--paper); }
+    .comment-submit:disabled { opacity: 0.4; cursor: default; }
+
+    .loading {
+      text-align: center; padding: 3rem;
+      font-family: 'Cormorant Garamond', serif; color: var(--smoke);
+    }
+    .error {
+      padding: 2rem; text-align: center;
+      font-family: 'Cormorant Garamond', serif; color: var(--accent);
+    }
+  </style>
+</head>
+<body>
+  <div class="grain"></div>
+  <div class="doc">
+    <div class="top-bar">
+      <div class="breadcrumb">
+        <a href="/story-in-work/">Story in Work</a>
+        <span class="sep">·</span>
+        <a href="/story-in-work/kanon.html">Kanon</a>
+        <span class="sep">·</span>
+        <span id="bc-current">…</span>
+      </div>
+      <a href="/story-in-work/kanon.html">&larr; Übersicht</a>
+    </div>
+
+    <div class="doc-header">
+      <div class="doc-category" id="doc-category">Kanon</div>
+      <div class="doc-title" id="doc-title">Lädt …</div>
+      <div class="doc-slug" id="doc-slug"></div>
+    </div>
+
+    <div class="prose" id="prose">
+      <div class="loading">Dokument wird geladen …</div>
+    </div>
+  </div>
+
+<script>
+(function() {
+  const params = new URLSearchParams(location.search);
+  const slug = params.get('doc');
+  if (!slug) {
+    document.getElementById('prose').innerHTML = '<div class="error">Kein Dokument angegeben. <a href="/story-in-work/kanon.html">Zur Übersicht</a>.</div>';
+    return;
+  }
+
+  const canonId = 'canon-' + slug.replace(/\//g, '-');
+  let manifestEntry = null;
+  let categoryName = '';
+
+  function escHtml(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }
+
+  function inlineMd(s) {
+    return escHtml(s)
+      .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*([^*]+)\*/g, '<em>$1</em>')
+      .replace(/`([^`]+)`/g, '<code>$1</code>')
+      .replace(/\[([^\]]+)\]\(([^)]+)\)/g, function(m, t, u) {
+        return '<a href="' + u + '">' + t + '</a>';
+      });
+  }
+
+  function renderMarkdown(md) {
+    const lines = md.split('\n');
+    let html = '';
+    let i = 0;
+    let skipH1 = true;
+
+    while (i < lines.length) {
+      const line = lines[i];
+      const trimmed = line.trim();
+
+      if (trimmed === '') { i++; continue; }
+
+      // Code block ```
+      if (trimmed.startsWith('```')) {
+        let code = '';
+        i++;
+        while (i < lines.length && !lines[i].trim().startsWith('```')) {
+          code += lines[i] + '\n';
+          i++;
+        }
+        i++;
+        html += '<pre><code>' + escHtml(code.trimEnd()) + '</code></pre>';
+        continue;
+      }
+
+      // Horizontal rule
+      if (trimmed === '---' || trimmed === '***' || trimmed === '___') {
+        html += '<hr>';
+        i++;
+        continue;
+      }
+
+      // Headings
+      if (trimmed.startsWith('#')) {
+        const m = trimmed.match(/^(#{1,6})\s+(.+)$/);
+        if (m) {
+          const level = m[1].length;
+          if (skipH1 && level === 1) { skipH1 = false; i++; continue; }
+          html += '<h' + level + '>' + inlineMd(m[2]) + '</h' + level + '>';
+          i++;
+          continue;
+        }
+      }
+
+      // Table (pipe tables)
+      if (trimmed.startsWith('|') && i + 1 < lines.length && lines[i + 1].trim().match(/^\|[\s\-:|]+\|$/)) {
+        const headerCells = trimmed.split('|').slice(1, -1).map(c => c.trim());
+        i += 2;
+        let tbl = '<table><thead><tr>';
+        headerCells.forEach(c => { tbl += '<th>' + inlineMd(c) + '</th>'; });
+        tbl += '</tr></thead><tbody>';
+        while (i < lines.length && lines[i].trim().startsWith('|')) {
+          const cells = lines[i].trim().split('|').slice(1, -1).map(c => c.trim());
+          tbl += '<tr>';
+          cells.forEach(c => { tbl += '<td>' + inlineMd(c) + '</td>'; });
+          tbl += '</tr>';
+          i++;
+        }
+        tbl += '</tbody></table>';
+        html += tbl;
+        continue;
+      }
+
+      // Blockquote
+      if (trimmed.startsWith('>')) {
+        let quote = '';
+        while (i < lines.length && lines[i].trim().startsWith('>')) {
+          quote += lines[i].trim().replace(/^>\s?/, '') + '\n';
+          i++;
+        }
+        html += '<blockquote><p>' + inlineMd(quote.trim().replace(/\n/g, ' ')) + '</p></blockquote>';
+        continue;
+      }
+
+      // Ordered list
+      if (/^\d+\.\s/.test(trimmed)) {
+        let lst = '<ol>';
+        while (i < lines.length && /^\d+\.\s/.test(lines[i].trim())) {
+          lst += '<li>' + inlineMd(lines[i].trim().replace(/^\d+\.\s+/, '')) + '</li>';
+          i++;
+        }
+        lst += '</ol>';
+        html += lst;
+        continue;
+      }
+
+      // Unordered list
+      if (trimmed.startsWith('- ') || trimmed.startsWith('* ')) {
+        let lst = '<ul>';
+        while (i < lines.length) {
+          const t = lines[i].trim();
+          if (t.startsWith('- ') || t.startsWith('* ')) {
+            lst += '<li>' + inlineMd(t.slice(2)) + '</li>';
+            i++;
+          } else break;
+        }
+        lst += '</ul>';
+        html += lst;
+        continue;
+      }
+
+      // Paragraph — gather consecutive non-empty, non-special lines
+      let para = trimmed;
+      i++;
+      while (i < lines.length) {
+        const t = lines[i].trim();
+        if (t === '' || t.startsWith('#') || t.startsWith('|') || t.startsWith('>') ||
+            t.startsWith('- ') || t.startsWith('* ') || /^\d+\.\s/.test(t) ||
+            t === '---' || t === '***' || t.startsWith('```')) break;
+        para += ' ' + t;
+        i++;
+      }
+      html += '<p>' + inlineMd(para) + '</p>';
+    }
+
+    return html;
+  }
+
+  // Comment system — reusing /api/comments backend
+  const COMMENT_API = '/api/comments';
+  const commentsByIdx = {};
+  let activePopup = null;
+
+  function getUserId() {
+    let uid = localStorage.getItem('alphina_reader_id');
+    if (!uid) {
+      uid = (crypto.randomUUID ? crypto.randomUUID()
+             : Date.now().toString(36) + Math.random().toString(36).slice(2));
+      localStorage.setItem('alphina_reader_id', uid);
+    }
+    return uid;
+  }
+  const USER_ID = getUserId();
+
+  function formatDate(iso) {
+    const d = new Date(iso);
+    return d.toLocaleDateString('de-DE', { day: '2-digit', month: '2-digit', year: '2-digit' })
+      + ' ' + d.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' });
+  }
+
+  function closeActivePopup() {
+    if (activePopup) { activePopup.remove(); activePopup = null; }
+  }
+
+  function renderPopup(el, idx) {
+    closeActivePopup();
+    const popup = document.createElement('div');
+    popup.className = 'comment-popup';
+    popup.dataset.idx = String(idx);
+
+    const closeBtn = document.createElement('button');
+    closeBtn.className = 'comment-popup-close';
+    closeBtn.textContent = '×';
+    closeBtn.onclick = closeActivePopup;
+    popup.appendChild(closeBtn);
+
+    const list = document.createElement('div');
+    list.className = 'comment-list';
+    const existing = commentsByIdx[idx] || [];
+    if (existing.length === 0) {
+      list.innerHTML = '<p class="comment-empty">Noch keine Anmerkungen.</p>';
+    } else {
+      existing.forEach(c => {
+        const item = document.createElement('div');
+        item.className = 'comment-item';
+        item.innerHTML = '<div>' + escHtml(c.text) + '</div><div class="comment-item-meta">' + formatDate(c.created_at) + '</div>';
+        list.appendChild(item);
+      });
+    }
+    popup.appendChild(list);
+
+    async function postComment(text) {
+      const absatzText = el.textContent.slice(0, 120);
+      const r = await fetch(COMMENT_API, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-User-Id': USER_ID },
+        body: JSON.stringify({ kapitel_id: canonId, modus: 'kanon', absatz_idx: idx, absatz_text: absatzText, text }),
+      });
+      if (!r.ok) throw new Error('Fehler ' + r.status);
+      if (!commentsByIdx[idx]) commentsByIdx[idx] = [];
+      commentsByIdx[idx].push({ text, created_at: new Date().toISOString() });
+      el.classList.add('has-comments');
+    }
+
+    const textarea = document.createElement('textarea');
+    textarea.className = 'comment-textarea';
+    textarea.placeholder = 'Anmerkung, Frage, Korrektur …';
+    popup.appendChild(textarea);
+
+    const submitBtn = document.createElement('button');
+    submitBtn.className = 'comment-submit';
+    submitBtn.textContent = 'Anmerken';
+    submitBtn.onclick = async () => {
+      const text = textarea.value.trim();
+      if (!text) return;
+      submitBtn.disabled = true;
+      submitBtn.textContent = '…';
+      try {
+        await postComment(text);
+        closeActivePopup();
+        renderPopup(el, idx);
+      } catch (e) {
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Fehler — nochmal';
+      }
+    };
+    popup.appendChild(submitBtn);
+
+    el.insertAdjacentElement('afterend', popup);
+    activePopup = popup;
+    textarea.focus();
+  }
+
+  function initComments(container) {
+    fetch(COMMENT_API + '?kapitel=' + encodeURIComponent(canonId) + '&modus=kanon', {
+      headers: { 'X-User-Id': USER_ID }
+    })
+      .then(r => r.json())
+      .then(comments => {
+        comments.forEach(c => {
+          if (!commentsByIdx[c.absatz_idx]) commentsByIdx[c.absatz_idx] = [];
+          commentsByIdx[c.absatz_idx].push(c);
+        });
+        // Allow comments on paragraphs, list items, and headings
+        const els = container.querySelectorAll('p, li, h1, h2, h3, h4');
+        els.forEach((el, idx) => {
+          const btn = document.createElement('button');
+          btn.className = 'comment-trigger';
+          btn.title = 'Anmerkung';
+          btn.textContent = '✎';
+          btn.onclick = (e) => {
+            e.stopPropagation();
+            if (activePopup && parseInt(activePopup.dataset.idx) === idx) {
+              closeActivePopup();
+            } else {
+              renderPopup(el, idx);
+            }
+          };
+          el.appendChild(btn);
+          if (commentsByIdx[idx] && commentsByIdx[idx].length > 0) {
+            el.classList.add('has-comments');
+          }
+        });
+        document.addEventListener('click', (e) => {
+          if (activePopup && !activePopup.contains(e.target)) {
+            closeActivePopup();
+          }
+        });
+      })
+      .catch(() => {});
+  }
+
+  // Load manifest + document
+  fetch('/buch/canon-manifest.json')
+    .then(r => r.json())
+    .then(manifest => {
+      for (const cat of manifest.categories) {
+        const d = cat.docs.find(x => x.slug === slug);
+        if (d) { manifestEntry = d; categoryName = cat.name; break; }
+      }
+      if (manifestEntry) {
+        document.getElementById('doc-title').textContent = manifestEntry.title;
+        document.getElementById('doc-category').textContent = categoryName;
+        document.getElementById('bc-current').textContent = manifestEntry.title;
+        document.title = 'Kanon — ' + manifestEntry.title;
+      } else {
+        document.getElementById('doc-title').textContent = slug;
+        document.getElementById('bc-current').textContent = slug;
+      }
+      document.getElementById('doc-slug').textContent = slug + '.md';
+
+      return fetch('/buch/' + slug + '.md');
+    })
+    .then(r => {
+      if (!r.ok) throw new Error('Dokument nicht gefunden: ' + slug);
+      return r.text();
+    })
+    .then(md => {
+      const prose = document.getElementById('prose');
+      prose.innerHTML = renderMarkdown(md);
+      initComments(prose);
+    })
+    .catch(err => {
+      document.getElementById('prose').innerHTML =
+        '<div class="error">Fehler beim Laden: ' + escHtml(err.message) + '</div>';
+    });
+})();
+</script>
+</body>
+</html>
