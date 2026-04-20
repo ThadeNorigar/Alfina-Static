@@ -1,7 +1,7 @@
 # B1-K24 — Alphina — Entwurf
 
 **POV:** Alphina (3. Person nah, Präteritum)
-**Timeline:** Frühsommer, bedeckt · Morgen nach K22/K23 (exaktes Datum in zeitleiste.json nachzuführen)
+**Timeline:** später Frühling, bedeckt · Morgen nach K22/K23 (exaktes Datum in zeitleiste.json nachzuführen)
 **Wortziel Ausarbeitung:** 4.000–4.500 W
 **Gänsehaut-Moment:** Vesper streicht Kohlestaub über das Ritual-Papier, und die Fingerabdrücke werden sichtbar — zu viele Gelenke, Linien, die sich gabeln, wo menschliche Linien nicht gabeln. Dieselben Hände wie die Kratzspuren am Poller in der Werft. Aber eine Schem-Hand hat nie Papier im Archiv platziert. Also: welche Hand?
 
@@ -13,7 +13,7 @@
 
 Am Morgen nach der Pflanze. Alphina und Sorel sind in der Küche, Tee, halb angezogen, das Licht bedeckt draußen. Vespers Klopfen kommt pünktlich — zwei Knöchel, kurz, der Takt den sie seit K11 kennt. Sie sind zu viert verabredet, Maren hatte das abends gesagt. Vesper wartet nicht im Flur, er kommt rein, Mantel an, sagt: "Ich hole Maren auf dem Weg." Alphina nimmt den Mantel vom Haken, Notizbuch, Stift. Sorel den Schal.
 
-Der Weg: erst die Hafengasse hinunter zur Werft. Frühsommer, bedeckt, Grauwe-Wind um die Ecken. Alphina ist dort noch nie gewesen, sieht zum ersten Mal, wo Maren arbeitet — ein Holzschuppen mit Steinmauer, das Tor angelehnt. Vesper klopft an den Rahmen und ruft Maren halblaut beim Namen. Maren kommt heraus, Pech an den Fingern, Schürze halb gelöst — erwartet sie. Sie sperrt das Tor ab, hängt sich ein.
+Der Weg: erst die Hafengasse hinunter zur Werft. später Frühling, bedeckt, Grauwe-Wind um die Ecken. Alphina ist dort noch nie gewesen, sieht zum ersten Mal, wo Maren arbeitet — ein Holzschuppen mit Steinmauer, das Tor angelehnt. Vesper klopft an den Rahmen und ruft Maren halblaut beim Namen. Maren kommt heraus, Pech an den Fingern, Schürze halb gelöst — erwartet sie. Sie sperrt das Tor ab, hängt sich ein.
 
 Vom Hafen den Aufstieg zur Oberstadt. Rathausplatz, Purpurstein, zwei Kutschen am Rand, niemand eilig. Alphina kennt den Platz als Passage, nie als Ziel. Heute das erste Mal, dass sie die Kellertreppe hinuntergeht. Treppenkanten, abgetreten. Die Luft wird kühler, dann trocken, dann anders — Papier, Leder, alter Staub. Kein Pflanzen-Raum, kein Wachstum. Sie registriert, dass sie das als Fehlen bemerkt.
 
@@ -145,7 +145,7 @@ Alphina tritt einen halben Schritt zurück. Ihre Fingerspitzen kribbeln nicht me
 
 Esther: "Was wollen Sie mit dem Ritual-Blatt?" Alphina sieht Vesper an, dann Maren, dann Sorel. Keine spricht es aus, aber niemand widerspricht, als Alphina sagt: "Wir nehmen es mit." Jara nickt, schiebt es in eine Papierhülle, reicht es Vesper, nicht Alphina — die Geste ist eine Geste unter zweien, die das Material verstanden haben. Das Sprachbuch dazu. Esther verlangt keine Quittung.
 
-Auf der Treppe nach oben, die Luft wieder normal, kein Kribbeln, keine Öllampen-Bewegung. Oben ist es Nachmittag geworden. Frühsommer, immer noch bedeckt. Die vier stehen auf dem Rathausplatz. Keiner spricht. Maren sagt zuerst: "Ich gehe zum Wasser." Geht. Vesper nimmt das Buch, das Papier, sagt zu Alphina: "Morgen Abend, bei mir. Wir fangen an, das zu übersetzen." Sorel bleibt bei Alphina. Sie stehen noch eine Weile auf dem Platz, ohne zu gehen.
+Auf der Treppe nach oben, die Luft wieder normal, kein Kribbeln, keine Öllampen-Bewegung. Oben ist es Nachmittag geworden. später Frühling, immer noch bedeckt. Die vier stehen auf dem Rathausplatz. Keiner spricht. Maren sagt zuerst: "Ich gehe zum Wasser." Geht. Vesper nimmt das Buch, das Papier, sagt zu Alphina: "Morgen Abend, bei mir. Wir fangen an, das zu übersetzen." Sorel bleibt bei Alphina. Sie stehen noch eine Weile auf dem Platz, ohne zu gehen.
 
 Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte, die jemand für sie geschrieben hat. Wer es geschrieben hat, weiß, dass sie es lesen werden. Wer es geschrieben hat, will, dass sie zum Kreis gehen. Der Kreis, den sie seit Monaten nicht als Material, sondern als Puls kennt. Die Frage, die ihr den Atem wegnimmt, ist nicht, ob sie gehen wird. Die Frage ist, warum sie nicht mehr sicher ist, dass sie eine Wahl hat.
 
@@ -223,7 +223,7 @@ Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte
 - Die Erkenntnis "wir werden benutzt" kommt als Synthese am Ende, nicht als Vorahnung am Anfang. Sauber.
 
 **Cross-POV-Sprach-Check (Alphina-Register):**
-- Alphina nennt den Nebel nicht "Dunst" (das ist Sorel). Bei ihr: bedeckter Frühsommer.
+- Alphina nennt den Nebel nicht "Dunst" (das ist Sorel). Bei ihr: bedeckter später Frühling.
 - Sie registriert den Raum über Pflanzen-Abwesenheit, nicht über Licht-Winkel (Sorel) oder Muster-Takt (Vesper) oder Wasser-Geruch (Maren).
 - Körpersignale: Fingerspitzen-Kribbeln, Herz unter dem Schlüsselbein, Hände — nicht Puls-Zählung, nicht Herzschlag in Sekunden.
 - Keine Farbwörter außerhalb von Pflanzen (Leder-Braun des Manuskripts geht, Kerzenflamme geht; Himmel bleibt bedeckt, keine Adjektive).
