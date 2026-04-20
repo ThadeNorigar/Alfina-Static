@@ -15,22 +15,21 @@
 
 **Beats (sachliches Exposé, kein Stil):**
 - Alphina geht vom Tidemoor-Haus zur Druckerei. Strecke ca. 25 Minuten, durch die Oberstadt.
-- Sie hat zwei Manuskriptseiten in der Mappe: Heilkräuter-Übersicht für Halvards Wartezimmer-Plakat. Runa soll setzen und drucken.
-- Zweiter Anlass: Anomalien-Sichtungen abfragen. Runa hört in der Druckerei vieles, weil Kunden reden während sie warten.
-- Alphina kommt rein, Tür-Glocke. Runa am Setzkasten. Begrüßungs-Umarmung.
+- Kein formeller Anlass: sie geht zu ihrer Freundin Runa, weil sie reden will und weil Runa die Druckerei-Menge mitbekommt (Kunden reden während sie warten — Runa hört ungefiltert). Alphina will die Anomalien-Sichtungen der letzten Tage abfragen. Freundschafts-Besuch, kein Auftrag.
+- Alphina kommt rein, Tür-Glocke. Runa am Setzkasten, steht von der Arbeit auf. Begrüßungs-Umarmung.
 - Bei der Umarmung: Alphina spürt Runas Körperwärme — Hals, Schultern, Rücken, höher als Lufttemperatur erlaubt. Sie registriert es, sagt nichts. Sie *mag* die Wärme — ihr ist vom Gehen durch die kühle Oberstadtgasse selbst noch kalt, und Runas Körper gibt angenehme Hitze ab. Sie bleibt einen Atemzug länger in der Umarmung als nötig, löst sie dann. Keine Analyse, kein Vergleich — sie hat die Wärme einfach mitgenommen und geht weiter.
-- Sie übergibt die Mappe. Runa schaut die Seiten durch, fragt nach Schriftgröße und Papierformat. Sie einigen sich.
+- Sie setzen sich an den Setztisch. Kurzes Hin und Her — wie geht's, wie läuft die Werkstatt, wie lief Alphinas Tag gestern (Alphina sagt „ruhig", verschweigt das Archiv). Smalltalk, warm, freundschaftlich.
 - Wechsel zum Anomalien-Thema. Runa zählt drei Kunden auf, die in den letzten zehn Tagen ungewöhnliche Sichtungen erwähnt haben — alles im Magie-Kanon (Schemen-Sichtungen, keine Welt-Anomalien, die Vaeler nicht erklären könnten):
   1. **Tohl Daverin** (alter Fischer, Grauwe-Westufer): „Schatten auf dem Wasser, die mit der Strömung nicht mitgehen — gegen den Tidenzug." Maren hat schon ähnliche Beobachtungen gemacht (K12-Echo: Gestalten zwischen den Pollern). Tohl tippt auf Robben, glaubt es aber selbst nicht.
   2. Eine **Magd vom Botanischen Garten** (kein Name, Runa hat ihn vergessen): kleine, katzengroße Schatten auf der Gartenmauer am Hauptweg-Ende, am Abend, mehrfach. Sie sitzen und beobachten, greifen nicht an. (K10-Echo: Sorel hat dieselbe Sorte gesehen.)
   3. **Setzergehilfe vom Hafenbüro** (Name: Joran): eine Gestalt zwischen den Pollern bei Niedrigwasser, zu groß für einen Fischer, kein Mantel sichtbar. Beim zweiten Hinsehen weg. (K10/K12-Echo: dieselbe Sorte Wesen.)
-- Alphina notiert mit Bleistift in ihrer eigenen Mappe — für Vespers Datenabgleich am Nachmittag (K26-Zusammenkunft).
-- Abschied: zweite Umarmung, kürzer. Aber Runa ist *noch* wärmer geworden in der Stunde dazwischen — Alphina spürt es deutlich, die Hitze geht jetzt schon durch zwei Lagen Stoff. Keine Analyse, kein Pflanzen-Vergleich; nur ein leises *etwas wärmt sie auf* in Alphinas Wahrnehmung. Sie sagt nichts, geht.
-- Schluss-Beat: Alphina draußen, Gasse, Sonne kurz auf ihrem Gesicht. Sie geht Richtung Tidemoor zurück. Die Wärme an ihren eigenen Armen wo Runa sie gehalten hat — sie spürt sie noch eine Minute lang, fast eine Spur zu lang, dann verfliegt sie.
+- Alphina notiert mit Bleistift in einem kleinen Notizheft, das sie in der Manteltasche trägt — für Vespers Datenabgleich am Nachmittag (K26-Zusammenkunft).
+- Abschied: zweite Umarmung, kürzer. Aber Runa ist *noch* wärmer geworden in der halben Stunde dazwischen — Alphina spürt es deutlich, die Hitze geht jetzt schon durch zwei Lagen Stoff. Keine Analyse, kein Pflanzen-Vergleich; nur ein leises *etwas wärmt sie auf* in Alphinas Wahrnehmung. Sie sagt nichts, geht.
+- Schluss-Beat: Alphina draußen, Gasse, Sonne kurz auf ihrem Gesicht. Sie geht Richtung Tidemoor zurück. Die Wärme an ihren eigenen Armen wo Runa sie gehalten hat — sie spürt sie noch eine Minute, dann verfliegt sie.
 
 **Dialog-Informationen (zu transportierende Inhalte):**
 - *Alphina erfährt:* drei Anomalien-Sichtungs-Adressen (Tohl Daverin, namenlose Magd, Joran); Runas Körperwärme ist erhöht; Runa wirkt nicht krank, nur etwas zerstreut
-- *Runa erfährt:* Halvard braucht Heilkräuter-Plakat (Auftrag); Alphina sammelt aktiv Sichtungs-Berichte (warum, sagt Alphina nicht im Detail)
+- *Runa erfährt:* Alphina sammelt aktiv Sichtungs-Berichte (warum, sagt Alphina nicht im Detail); sonst nur Smalltalk und Freundschafts-Kontakt
 - *Setup für Leserin:* Runas Körperwärme als Hinweis auf Resonanz; Cross-POV-Verifikation in Szene 2; Echo zu K05 (Alphina hat dort schon Runas heiße Hände + einen Kerzenstillstand wahrgenommen — K25 vertieft, ist nicht Erst-Beobachtung)
 - *Plot-Konkretes:* die drei Adressen landen in K26 (Vespers Datenabgleich); Alphina geht direkt vom Druckerei-Besuch zur K26-Zusammenkunft in Marens Wohnung, die Notiz wandert ohne Umweg dorthin
 - *Was Alphina NICHT sagt:* dass sie gestern im Archiv Schemen-Fingerabdrücke gesehen hat (K24); dass die Sichtungs-Sammlung Teil eines größeren Bildes ist
@@ -42,13 +41,17 @@
 
 **Tschechow-Waffen abgefeuert:**
 - Runas Körperwärme aus K05 (Alphina hat dort schon Runas heiße Hände bemerkt + einen Kerzenstillstand) — feuert hier zum zweiten Mal, jetzt durch Kleidung statt Hautkontakt; Eskalation, nicht Erst-Etablierung
-- Halvards Praxis als Vael-Anker (etabliert seit K1+) — Auftrag verknüpft Alphinas zwei Welten
+- Alphina-Runa-Freundschaft als Vael-Band (etabliert seit K05) — hier vertieft als beiläufiger Smalltalk-Besuch, nicht über Aufträge
 
 **Cross-POV-Ankerpunkte:**
-- K24 (Alphina, Vortag): Alphina hat Ritual-Papier gesehen; sie spricht es bei Runa nicht an, weil Runa nichts vom Riss weiß und der Besuch in einer anderen Modalität läuft (Freundinnen + Auftrag)
+- K24 (Alphina, Vortag): Alphina hat Ritual-Papier gesehen; sie spricht es bei Runa nicht an, weil Runa nichts vom Riss weiß und der Besuch ein Freundschafts-Besuch ist, kein Arbeitsgespräch
+- K05 (Alphina, Ankunftstag in Vael): Erstbegegnung zwischen Alphina und Runa in der Druckerei; dort hat Alphina schon Runas heiße Hände bemerkt + eine Kerze, die bei Runa still bleibt. K25 ist Vertiefung der frischen Vael-Freundschaft (~7 Wochen), NICHT Velde-Vorgeschichte
 - K26 (Vesper, später am gleichen Tag): die drei Sichtungs-Adressen aus Alphinas Notiz fließen in K26 ein
-- Alphinas Wahrnehmungsregister: Pflanzen, Berufsblick, Sehnen — sie spürt Runas Wärme als „Wachstumsabweichung", nicht als Krankheit; konsistent mit POV-Dossier
-- Du-Form: Alphina und Runa duzen sich seit Velde-Freundschaft; kein Du/Sie-Wechsel, keine Kanon-Frage
+- Alphinas Wahrnehmungsregister: Körper-Bewusstsein, Sehnen-Blick (POV-Dossier) — sie spürt Runas Wärme konkret als Haut/Stoff-Wahrnehmung, kein Pflanzen-Vergleich, keine Botanik-Metapher
+- Du-Form: Alphina und Runa duzen sich seit ihrer Erstbegegnung in der Druckerei (K05, Ankunftstag); Vael-Bekanntschaft, nicht Velde
+
+**AUSARBEITUNGS-HINWEIS — Erzähler-Wertung vermeiden:**
+- Der Schluss-Beat in Szene 1 („spürt sie noch eine Minute") darf nicht mit Adverbien versehen werden, die den Erzähler außerhalb Alphinas POV stellen („fast eine Spur zu lang" o.ä. — das klingt nach Kommentar von außen). Alphina merkt die Wärme, der Satz endet, kein begleitendes Urteil. Die Leserin darf die Länge als Hinweis lesen, der Text macht sie nicht explizit.
 
 ---
 
@@ -60,18 +63,19 @@
 
 **Beats (sachliches Exposé, kein Stil):**
 - POV-Switch-Marker: Tür schließt hinter Alphina, Glocke klingelt. Ab hier Runa.
-- Runa allein. Werkstatt-Aufbau: zwei Setzkästen an der Wand, Setztisch in der Mitte mit halb gesetztem Bogen für Halvards Plakat, Druckpresse links, Trocken-Leinen oben. Kohleofen im Eck rechts hinten (auf niedriger Glut, Klappe offen einen Spalt — Werkstatt-Standard im Frühsommer). Hinterzimmer-Tür links neben der Presse: kleine Kammer mit Werkbank, kein Fenster, brauchbar nur mit Licht.
-- Runa räumt Alphinas Manuskript zur Seite. Hände bleiben kurz auf dem Papier liegen.
-- Erste innere Welle: Bilder aus der Umarmung — Alphinas Hals, die Sehne am Handgelenk, der Geruch (Kräuter, Blütenmond-Wind im Mantel). Runa nimmt die Bilder wahr und versucht zunächst, sie in den Auftrag wegzuschieben.
-- Zweite Welle, drei Atemzüge später, beim ersten Bleisatz-Griff: die Bilder kommen wieder, dichter, körperlicher. Runa stellt die Setzschiene ab. Sie lehnt mit der Hüfte am Setztisch, schließt einmal die Augen.
+- Runa allein. Werkstatt-Aufbau: zwei Setzkästen an der Wand, Setztisch in der Mitte mit dem Handelsregister-Auftrag der laufenden Woche (Teilbogen halb gesetzt), Druckpresse links, Trocken-Leinen oben. Kohleofen im Eck rechts hinten (auf niedriger Glut, Klappe offen einen Spalt — Werkstatt-Standard im Frühsommer). Hinterzimmer-Tür links neben der Presse: kleine Kammer mit Werkbank, kein Fenster, brauchbar nur mit Licht.
+- Runa setzt sich kurz wieder an den Setzkasten, greift eine Letter — sie lässt die Letter wieder los, weil sie sich nicht konzentrieren kann.
+- Erste innere Welle: Bilder aus der Umarmung — Alphinas Hals, die Sehne am Handgelenk, der Geruch (Kräuter, Blütenmond-Wind im Mantel). Runa nimmt die Bilder wahr und versucht zunächst, sie in die Arbeit wegzuschieben.
+- Zweite Welle, drei Atemzüge später, beim nächsten Bleisatz-Griff: die Bilder kommen wieder, dichter, körperlicher. Runa stellt die Setzschiene ab. Sie lehnt mit der Hüfte am Setztisch, schließt einmal die Augen.
 - Bewusstwerdung: sie weiß seit Wochen, dass sie Alphina anders ansieht als andere Freundinnen. Bisher hat sie es im Tagesgeschäft weggeschoben. Jetzt schiebt sie es nicht mehr weg. Erste klare innere Benennung — sie begehrt Alphina, körperlich, das ist die Sache.
-- Bevor sie ins Hinterzimmer geht: sie hängt das Holzschild „Komme gleich wieder" außen an die Druckerei-Eingangstür (Standard-Geste, sie hat es immer dann gemacht, wenn sie zur Toilette oder ins Hinterzimmer für die Walzen-Reinigung musste — heute mit anderem Anlass, aber dieselbe Geste). Schiebt den inneren Riegel nicht vor, weil Stammkunden eh nicht nach dem Schild kommen.
+- Bevor sie ins Hinterzimmer geht: sie hängt das Holzschild „Komme gleich wieder" außen an die Druckerei-Eingangstür (Standard-Geste, sie hat es immer dann gemacht, wenn sie zur Toilette oder ins Hinterzimmer für die Walzen-Reinigung musste — heute mit anderem Anlass, aber dieselbe Geste). **Schiebt den inneren Riegel vor.** Sie will nicht gestört werden — heute schon gar nicht. Der Riegel ist die bewusste Entscheidung, nicht die Routine.
 - Sie geht ins Hinterzimmer. Zündet die kleine Öllampe an der Werkbank-Wandhalterung an (Kammer ist sonst stockfinster). Lehnt an die Werkbank-Kante.
 - Werkbank-Setting im Detail (Tschechow-relevant): altes Eichenholz, Patina von Drucker-Öl und Tinte, dunkel angetragene Kante. Auf der Werkbank neben der Öllampe ein Stapel alter Setzproben (Papierreste, Probedrucke vom Vortag), eine kleine Werkzeugrolle, ein Tonkrug mit Wasser für die Walzen-Reinigung.
-- Selbstberührung: kurz, fokussiert. Eine Hand bei sich, die andere Hand greift nach Halt — krallt sich an die Werkbank-Kante. Bilder bleiben bei Alphina (Nacken, Handgelenk, Stimme). Körperbeats: Atem flach, dann tief; Hitze im Brustbein, Hände, Schenkel; Werkbank-Holz unter der freien Hand zunächst kühl.
-- Steigende Erregung: parallel zur Atmung wird die Öllampen-Flamme höher. Runa nimmt es nur peripher wahr (helleres Licht im Augenwinkel), ordnet es im Moment nicht zu. Die freie Hand drückt fester ins Holz.
+- Selbstberührung: kurz, fokussiert. Eine Hand bei sich. Die andere Hand bleibt zunächst frei — an der Hüfte, am Schenkel, nicht an der Werkbank. Bilder bleiben bei Alphina (Nacken, Handgelenk, Stimme). Körperbeats: Atem flach, dann tief; Hitze im Brustbein, Hände, Schenkel.
+- Steigende Erregung: parallel zur Atmung wird die Öllampen-Flamme höher. Runa nimmt es nur peripher wahr (helleres Licht im Augenwinkel), ordnet es im Moment nicht zu.
+- **Kurz vor dem Höhepunkt** — die freie Hand sucht Halt, krallt sich erst *jetzt* an die Werkbank-Kante. Finger um die Kante, Daumen unter der Platte. Erster Kontakt der freien Hand zum Holz.
 - Höhepunkt. Im selben Atemzug zwei Dinge gleichzeitig:
-  - **Werkbank:** Das Holz unter ihrer freien Hand schwelt — Brandgeruch steigt, ein dunkler Fleck zeichnet sich um ihre Finger ab, ein paar Setzproben-Papierreste neben der Hand glimmen an den Rändern.
+  - **Werkbank:** Das Holz unter ihrer jetzt krallenden Hand schwelt — Brandgeruch steigt, ein dunkler Fleck zeichnet sich um ihre Finger ab, ein paar Setzproben-Papierreste neben der Hand glimmen an den Rändern.
   - **Öllampe:** Die Flamme schießt für einen Atemzug bis fast zur Kammer-Decke — Stichflamme, dann sofort wieder ruhig auf normale Höhe.
 - Stille einen Atemzug. Dann reagiert sie: zieht die Hand vom Holz, schlägt mit der Handfläche auf die glimmenden Papierreste, erstickt das Glimmen mit drei Schlägen. Greift den Tonkrug, gießt einen Schluck Wasser auf den dunklen Fleck im Holz — zischen, Dampf, der Brand ist aus.
 - Sie steht. Atem geht schnell — vom Höhepunkt, vom Erschrecken, beides nicht trennbar. Brandgeruch in der Kammer.
@@ -111,15 +115,16 @@
 - Runas Wahrnehmungsregister: Druckerei-Vokabular (Bleisatz, Letter, Walze, Bogen, Setzkasten, Trocken-Leine, Tinte), Körper als Werkzeug (Hände, Druckkraft); kein Resonanz-Vokabular, weil sie es nicht hat
 
 **WICHTIGE FORMULIERUNGS-ANWEISUNG für Ausarbeitung (Magie-Kanon-Schutz):**
-- Magie-Canon: „Magie kommt aus der Umgebung, nicht aus dem Körper." Die Brand-Sequenz darf nicht als Körper-Emission formuliert werden („Hitze quoll aus ihren Fingern", „ihr Körper schickte Funken"). Stattdessen: zeitliche Koinzidenz und Nahfeld-Verstärkung. Die Öllampe verstärkt sich (existierende Flamme wird höher), das Holz unter ihrer Hand erhitzt/schwelt (Materialeigenschaft + Patina + zeitliches Zusammenfallen). Der Erzähler stellt keine kausale Verbindung her zwischen Höhepunkt und Brand. Die Leserin darf sie ziehen, der Text suggeriert sie nicht.
-- Mechanismus-Modell (für innere Konsistenz, nicht für Prosa): Runas Resonanz funktioniert als Nahfeld-Manipulation existierenden Feuers (analog Sorels Licht-Lenkung in K10). Im Hinterzimmer ist die Öllampe die Feuer-Quelle; ihre Resonanz bündelt sie kurz (Stichflamme) und überträgt Glut auf das Material unter ihrer Hand (Werkbank-Holz, Setzproben). Kein Feuer-aus-dem-Nichts.
+- Magie-Canon: „Magie kommt aus der Umgebung, nicht aus dem Körper." Die Brand-Sequenz darf nicht als Körper-Emission formuliert werden („Hitze quoll aus ihren Fingern", „ihr Körper schickte Funken"). Stattdessen: zeitliche Koinzidenz. Die Öllampe wirft eine Stichflamme, das Werkbank-Holz unter ihrer Hand schwelt — zwei Phänomene gleichzeitig, keine Formulierung der Ursache. Der Erzähler stellt keine kausale Verbindung her zwischen Höhepunkt und Brand. Die Leserin darf sie ziehen, der Text suggeriert sie nicht.
+- Mechanismus-Modell (für innere Konsistenz, NICHT für Prosa): **Runas Resonanz ist Feuer-Kontrolle.** Sie kann existierende Flammen im Nahfeld lenken, verstärken und das Feuer auf andere Materialien übertragen (Flamme springt über, Glut entsteht im Zielmaterial). Analog zu Sorels Licht-Formung (POV-Dossier sorel.md: er kann vorhandenes Licht lenken, bündeln, auf Materialien fokussieren). In K25 wirkt die Resonanz unbewusst: Runa lenkt nichts gezielt, die Öllampe wird verstärkt (Stichflamme) und das Werkbank-Holz unter ihrer Hand entzündet sich am Rand ihrer Hautnähe (Nahfeld-Zugriff der Resonanz auf das bestehende Feuer der Öllampe, das sich über die Strecke „springt" — nicht über Runas Körper). Kein Feuer-aus-dem-Nichts, keine Körper-Emission.
+- Für die Prosa heißt das: die Flamme der Öllampe und die Glut im Werkbank-Holz sind als eigenständige Ereignisse zu schildern. Kein Bindungssatz, kein „und dann", kein „gleichzeitig geschah". Zwei Wahrnehmungen parallel, ohne Erzähler-Verknüpfung.
 
 ---
 
 ## Kontinuitäts-Notizen
 
 **Was weiß Runa am Anfang von K25?**
-- Druckerin der Druckerei Kvist, Oberstadt; Alphinas Freundin seit Velde-Tagen
+- Druckerin der Druckerei Kvist, Oberstadt; Alphinas Freundin seit deren Ankunft in Vael (K05, ~7 Wochen her) — Vael-Bekanntschaft, nicht Velde-Vorgeschichte
 - Sammelt Anomalien-Berichte von Kunden, ohne sie systematisch zu verstehen
 - Begehrt Alphina seit Wochen, hat es bisher im Tagesgeschäft weggeschoben
 - Kennt Sorel, Vesper, Maren von Alphinas Erzählungen; hat sie kaum persönlich gesehen
@@ -150,11 +155,11 @@
 
 **Was weiß Alphina am Ende von K25?**
 - Drei neue Sichtungs-Adressen (Tohl, namenlose Magd, Joran)
-- Runas Körperwärme ist auffällig erhöht — sie hat es registriert, aber nicht weiter verfolgt; verwirft als „Wachstumsabweichung"-Vergleich
+- Runas Körperwärme ist auffällig erhöht und zwischen den beiden Umarmungen noch gestiegen — sie hat es registriert, die Wärme mitgenommen, aber nicht weiter analysiert; kein Pflanzen-Vergleich
 - Sie weiß NICHT vom Brand in der Druckerei nach ihrem Abgang
 
 **Cross-POV-Dopplungs-Check:**
-- Druckerei-Setting: bisher nicht POV-relevant gewesen (Erst-Etablierung in diesem Kapitel) — keine Dopplungs-Gefahr
+- Druckerei-Setting: in K05 Alphina-POV etabliert (Erstbegegnung, heiße Hände, Kerzenstillstand); K25 ist Vertiefung mit neuem Wahrnehmungsregister (Wärme durch Kleidung; POV-Switch zu Runa)
 - Selbstberührungs-Beat: in den bisherigen K-Kapiteln nicht aus weiblicher Nicht-POV-Figur erzählt — Erst-Erzählung, keine Dopplung
 - Feuer-Manifestation: erste in Buch 1; alle Vergleiche mit Sorels Licht-Manifestation (K10, K13, K19, K21) müssen vermieden werden; Runa hat keinen Vergleich, weil sie das Vokabular nicht hat
 - Anomalien-Sichtungen: sammelnde Adressen-Tätigkeit ist neu in der Erzählung (bisher nur in Sorels Notizen erwähnt) — keine Dopplung
@@ -163,10 +168,10 @@
 - Multi-POV in einem Kapitel ist Ausnahme. Begründung: Runa-POV ist selbst schon eine Ausnahme (Nebenfigur in regulärem K-Kapitel, per Memory-Regel zulässig). Der Switch ist räumlich motiviert (gleicher Raum, klare Marker-Geste: Tür-Glocke).
 - Alphina-Anteil (~25% des Wortziels) hält den Bezug zur Hauptkapitel-Linie und liefert die Cross-POV-Verifikation der Wärme-Beobachtung.
 - Runa-Anteil (~75%) ist Schwerpunkt: queer Begehren bewusst, Feuer-Manifestation, Verdrängung.
-- Wahrnehmungsregister sauber trennen: Alphina = Pflanzen/Botanik/Wachstum; Runa = Druckerei/Bleisatz/Tinte/Bögen.
+- Wahrnehmungsregister sauber trennen: Alphina = Körper/Haut/Stoff, Sehnen-Blick (POV-Dossier); Runa = Druckerei/Bleisatz/Tinte/Bögen.
 
 **Du-Form:**
-- Alphina + Runa: Du seit Velde-Freundschaft, lange vor Buch-Start
+- Alphina + Runa: Du seit Erstbegegnung in der Druckerei (K05, Alphinas Ankunftstag in Vael); Vael-Freundschaft, nicht Velde
 
 **Datum-/Tagesablauf 26. Blütenmond 551 TZ:**
 - **Vormittag:** K25 Szene 1 (Alphina-Besuch, Druckerei)
