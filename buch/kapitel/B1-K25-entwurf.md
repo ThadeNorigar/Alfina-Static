@@ -18,15 +18,15 @@
 - Sie hat zwei Manuskriptseiten in der Mappe: Heilkräuter-Übersicht für Halvards Wartezimmer-Plakat. Runa soll setzen und drucken.
 - Zweiter Anlass: Anomalien-Sichtungen abfragen. Runa hört in der Druckerei vieles, weil Kunden reden während sie warten.
 - Alphina kommt rein, Tür-Glocke. Runa am Setzkasten. Begrüßungs-Umarmung.
-- Bei der Umarmung: Alphina spürt Runas Körperwärme — Hals, Schultern, Rücken, höher als Lufttemperatur erlaubt. Sie registriert es, sagt nichts. Sie denkt in Pflanzen-Vokabular: ein Topf der zu nah am Ofen steht, das gleichmäßige Über-Temperieren das Wurzeln schädigt. Sie verwirft den Vergleich, geht weiter.
+- Bei der Umarmung: Alphina spürt Runas Körperwärme — Hals, Schultern, Rücken, höher als Lufttemperatur erlaubt. Sie registriert es, sagt nichts. Sie *mag* die Wärme — ihr ist vom Gehen durch die kühle Oberstadtgasse selbst noch kalt, und Runas Körper gibt angenehme Hitze ab. Sie bleibt einen Atemzug länger in der Umarmung als nötig, löst sie dann. Keine Analyse, kein Vergleich — sie hat die Wärme einfach mitgenommen und geht weiter.
 - Sie übergibt die Mappe. Runa schaut die Seiten durch, fragt nach Schriftgröße und Papierformat. Sie einigen sich.
-- Wechsel zum Anomalien-Thema. Runa zählt drei Kunden auf, die in den letzten zehn Tagen ungewöhnliche Sichtungen erwähnt haben:
-  1. **Tohl Daverin** (alter Fischer, Grauwe-Westufer): „Schatten auf dem Wasser, die kein Wind macht."
-  2. Eine **Magd vom Botanischen Garten** (kein Name, Runa hat ihn vergessen): „Stein im Hügel hat geatmet."
-  3. **Setzergehilfe vom Hafenbüro** (Name: Joran): „Stimmen aus den Pollern bei Niedrigwasser."
+- Wechsel zum Anomalien-Thema. Runa zählt drei Kunden auf, die in den letzten zehn Tagen ungewöhnliche Sichtungen erwähnt haben — alles im Magie-Kanon (Schemen-Sichtungen, keine Welt-Anomalien, die Vaeler nicht erklären könnten):
+  1. **Tohl Daverin** (alter Fischer, Grauwe-Westufer): „Schatten auf dem Wasser, die mit der Strömung nicht mitgehen — gegen den Tidenzug." Maren hat schon ähnliche Beobachtungen gemacht (K12-Echo: Gestalten zwischen den Pollern). Tohl tippt auf Robben, glaubt es aber selbst nicht.
+  2. Eine **Magd vom Botanischen Garten** (kein Name, Runa hat ihn vergessen): kleine, katzengroße Schatten auf der Gartenmauer am Hauptweg-Ende, am Abend, mehrfach. Sie sitzen und beobachten, greifen nicht an. (K10-Echo: Sorel hat dieselbe Sorte gesehen.)
+  3. **Setzergehilfe vom Hafenbüro** (Name: Joran): eine Gestalt zwischen den Pollern bei Niedrigwasser, zu groß für einen Fischer, kein Mantel sichtbar. Beim zweiten Hinsehen weg. (K10/K12-Echo: dieselbe Sorte Wesen.)
 - Alphina notiert mit Bleistift in ihrer eigenen Mappe — für Vespers Datenabgleich am Nachmittag (K26-Zusammenkunft).
-- Abschied: zweite Umarmung, kürzer. Wieder die Wärme. Alphina denkt erneut „Wachstumsabweichung", lässt es. Sie geht.
-- Schluss-Beat: Alphina draußen, Gasse, Sonne kurz auf ihrem Gesicht. Sie geht Richtung Tidemoor zurück. Die Wärme an ihren eigenen Armen wo Runa sie gehalten hat — sie spürt sie noch eine halbe Minute, dann verfliegt sie.
+- Abschied: zweite Umarmung, kürzer. Aber Runa ist *noch* wärmer geworden in der Stunde dazwischen — Alphina spürt es deutlich, die Hitze geht jetzt schon durch zwei Lagen Stoff. Keine Analyse, kein Pflanzen-Vergleich; nur ein leises *etwas wärmt sie auf* in Alphinas Wahrnehmung. Sie sagt nichts, geht.
+- Schluss-Beat: Alphina draußen, Gasse, Sonne kurz auf ihrem Gesicht. Sie geht Richtung Tidemoor zurück. Die Wärme an ihren eigenen Armen wo Runa sie gehalten hat — sie spürt sie noch eine Minute lang, fast eine Spur zu lang, dann verfliegt sie.
 
 **Dialog-Informationen (zu transportierende Inhalte):**
 - *Alphina erfährt:* drei Anomalien-Sichtungs-Adressen (Tohl Daverin, namenlose Magd, Joran); Runas Körperwärme ist erhöht; Runa wirkt nicht krank, nur etwas zerstreut
@@ -37,8 +37,8 @@
 
 **Tschechow-Waffen geladen:**
 - Runas Körperwärme — feuert in Szene 2 (Resonanz-Manifestation)
-- Setzergehilfe Joran mit Hafen-Stimmen — kann in K28+ als Anomalien-Hotspot zünden (Wasser/Akustik-Anomalie, Marens Register)
-- Magd vom Garten mit „atmender Stein" — Echo des Steinkreises, Tschechow für späteren Garten-Einsatz
+- Setzergehilfe Joran mit Poller-Gestalt bei Niedrigwasser — kann in K28+ als Marens Hafen-Hotspot aufgegriffen werden (Maren hat in K12 bereits Ähnliches gesehen)
+- Magd vom Garten mit katzengroßen Mauer-Schemen — Echo zu Sorels K10-Sichtung; Tschechow für weiteren Garten-Einsatz (Schemen-Präsenz am Ritualkreis-Rand)
 
 **Tschechow-Waffen abgefeuert:**
 - Runas Körperwärme aus K05 (Alphina hat dort schon Runas heiße Hände bemerkt + einen Kerzenstillstand) — feuert hier zum zweiten Mal, jetzt durch Kleidung statt Hautkontakt; Eskalation, nicht Erst-Etablierung
@@ -65,6 +65,7 @@
 - Erste innere Welle: Bilder aus der Umarmung — Alphinas Hals, die Sehne am Handgelenk, der Geruch (Kräuter, Blütenmond-Wind im Mantel). Runa nimmt die Bilder wahr und versucht zunächst, sie in den Auftrag wegzuschieben.
 - Zweite Welle, drei Atemzüge später, beim ersten Bleisatz-Griff: die Bilder kommen wieder, dichter, körperlicher. Runa stellt die Setzschiene ab. Sie lehnt mit der Hüfte am Setztisch, schließt einmal die Augen.
 - Bewusstwerdung: sie weiß seit Wochen, dass sie Alphina anders ansieht als andere Freundinnen. Bisher hat sie es im Tagesgeschäft weggeschoben. Jetzt schiebt sie es nicht mehr weg. Erste klare innere Benennung — sie begehrt Alphina, körperlich, das ist die Sache.
+- Bevor sie ins Hinterzimmer geht: sie hängt das Holzschild „Komme gleich wieder" außen an die Druckerei-Eingangstür (Standard-Geste, sie hat es immer dann gemacht, wenn sie zur Toilette oder ins Hinterzimmer für die Walzen-Reinigung musste — heute mit anderem Anlass, aber dieselbe Geste). Schiebt den inneren Riegel nicht vor, weil Stammkunden eh nicht nach dem Schild kommen.
 - Sie geht ins Hinterzimmer. Zündet die kleine Öllampe an der Werkbank-Wandhalterung an (Kammer ist sonst stockfinster). Lehnt an die Werkbank-Kante.
 - Werkbank-Setting im Detail (Tschechow-relevant): altes Eichenholz, Patina von Drucker-Öl und Tinte, dunkel angetragene Kante. Auf der Werkbank neben der Öllampe ein Stapel alter Setzproben (Papierreste, Probedrucke vom Vortag), eine kleine Werkzeugrolle, ein Tonkrug mit Wasser für die Walzen-Reinigung.
 - Selbstberührung: kurz, fokussiert. Eine Hand bei sich, die andere Hand greift nach Halt — krallt sich an die Werkbank-Kante. Bilder bleiben bei Alphina (Nacken, Handgelenk, Stimme). Körperbeats: Atem flach, dann tief; Hitze im Brustbein, Hände, Schenkel; Werkbank-Holz unter der freien Hand zunächst kühl.
@@ -78,7 +79,7 @@
 - Erklärungssuche (Schritt 1): Hat ein Funke der Öllampe auf das Holz gesprungen? Möglich — aber Setzproben sind Papier, Holz allein zündet nicht so leicht von einem Funken. Hat die Öllampe ihren Docht zu hoch gehabt? Sie prüft den Docht (normal eingestellt, sie hat ihn gestern selbst gekürzt).
 - Erklärungssuche (Schritt 2): Hat sie selbst etwas verschoben? Sie hatte nur eine Hand an der Werkbank, nichts in der Hand außer Holz unter den Fingern. Hat der Kohleofen im Hauptraum durch die offene Tür Funkenflug geliefert? Sie geht in den Hauptraum, prüft die Ofen-Klappe — Glut niedrig, Funkenfänger vor der Öffnung steht. Unwahrscheinlich.
 - Erklärungssuche (Schritt 3 — die unwahrscheinlichste, die sie nimmt): Vielleicht eine Kombination aus Öllampe-Funke, Zugluft aus dem Werkstatt-Raum (Türspalt) und altem Holz-Öl-Patina, das schneller zündet als gedacht. Sie weiß, dass die Erklärung nicht ganz sitzt. Sie hat keine bessere.
-- Restspannung: anders als bei einem normalen Brand-Vorfall, den man abhakt, bleibt etwas hängen. Sie kann nicht benennen was. Sie schiebt es nicht ganz weg, aber sie ordnet es auch nicht ein. Sie macht weiter — die Arbeit braucht sie. Aber der dunkle Fingerabdruck-Fleck im Holz bleibt sichtbar.
+- Restspannung mit Plan: anders als bei einem normalen Brand-Vorfall, den man abhakt, bleibt etwas hängen. Sie kann nicht benennen was. Sie ordnet es nicht ein, aber sie nimmt sich vor, Alphina davon zu erzählen — als kleine Anekdote: *„Du wirst nicht glauben, was meine Öllampe heute angestellt hat — eine Stichflamme bis zur Decke, und dann hat ein Funke das Werkbank-Holz angekohlt."* Eine Geschichte für ein nächstes Treffen. Etwas zum Lachen, oder zum Wundern. Dass Alphina die Wärme bemerkt hat, weiß Runa nicht; dass die Geschichte für Alphina ein Datenpunkt würde, ahnt sie nicht. Sie macht weiter — die Arbeit braucht sie. Aber der dunkle Fingerabdruck-Fleck im Holz bleibt sichtbar, und der Plan, davon zu erzählen, ist ihr Weg, nicht ganz wegzuschieben.
 - Sie wischt die Werkbank mit dem feuchten Lappen ab. Der Brandfleck wird heller, verschwindet aber nicht — er ist eingebrannt. Sie wirft den Lappen ins Becken. Tropfen.
 - Verbindungs-Tabu: sie bringt das Brennen nicht mit dem Höhepunkt in Verbindung. Sie denkt nicht in dieser Richtung — sie hat keinen Anlass dazu, kein Vokabular dafür, keine Person die ihr je gesagt hat dass so etwas möglich ist. Die zeitliche Koinzidenz registriert sie nicht als Information.
 - Sie setzt den Plakat-Bogen neu auf. Bleisatz, Konzentration aufs Handwerk, Hände beruhigen sich allmählich.
@@ -94,7 +95,7 @@
 **Tschechow-Waffen geladen:**
 - Runas Feuer-Resonanz nach K05-Vorboten (heiße Hände, Kerzenstillstand) jetzt erstmals als Doppel-Manifestation sichtbar (Nahfeld-Verstärkung + Kontakt-Glimmen) — Mechanismus: sie kann existierendes Feuer im Nahfeld manipulieren (Öllampe wird höher), und über Hautkontakt entsteht Glut/Brand am Material; feuert wieder in späteren Runa-Szenen, kontrollierter ab Akt III/Buch 2 (Schemen-Kampf K76+)
 - **Eingebrannter Fingerabdruck im Werkbank-Holz** — bleibt als physische Spur in der Werkstatt; kann von Runa selbst später wieder gesehen werden (Erinnerungsanker), oder von einer anderen Figur entdeckt werden, die in die Druckerei kommt (Alphina bei späterem Besuch, oder Vesper bei Sichtungs-Daten-Abholung post-K26)
-- Runas Verdrängungs-Mechanismus mit **Restspannung** (anders als reine Verdrängung — sie schiebt nicht ganz weg, sie kann nur nicht einordnen) — Tschechow für ihre spätere Erkenntnis-Szene; jede neue Manifestation erhöht den Druck
+- Runas Verdrängungs-Mechanismus mit **Restspannung und Erzählplan** — sie schiebt nicht ganz weg, sie kann nur nicht einordnen, und sie beschließt, Alphina die Anekdote zu erzählen (nicht als Verdacht, sondern als kuriose Werkstatt-Geschichte); Tschechow für eine spätere Alphina-Runa-Szene, in der Alphina diese Erzählung als Datenpunkt einordnet (Runas Feuer + Alphinas Wärme-Wahrnehmung aus Szene 1 = Puzzle-Stück für Alphina)
 - Runas Körperwärme als Konstante — feuert wieder, wenn jemand sie länger berührt (vermutlich K30+ oder beim Ritual K33/K34)
 - Öllampe als Resonanz-Indikator — kann in einer späteren Runa-Szene wieder als Verstärker fungieren (Stichflamme bei Erregung)
 
@@ -126,7 +127,7 @@
 
 **Was weiß Runa am Ende von K25?**
 - Sie begehrt Alphina körperlich, bewusst
-- Eine Öllampe kann ohne erkennbaren Anlass eine Stichflamme werfen, ein altes Werkbank-Holz unter ihrer Hand kann schwelen — sie hat eine Kombi-Erklärung (Funke + Patina + Zugluft) genommen, die nicht ganz sitzt; eine Restspannung bleibt
+- Eine Öllampe kann ohne erkennbaren Anlass eine Stichflamme werfen, ein altes Werkbank-Holz unter ihrer Hand kann schwelen — sie hat eine Kombi-Erklärung (Funke + Patina + Zugluft) genommen, die nicht ganz sitzt; sie will die Geschichte Alphina als Anekdote erzählen
 - Ihre Hände sind warm, wärmer als der Raum
 - Ein eingebrannter Fingerabdruck im Werkbank-Holz ist als physische Spur sichtbar geblieben
 
