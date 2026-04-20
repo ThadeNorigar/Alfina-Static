@@ -13,7 +13,7 @@
 
 Am Morgen nach der Pflanze. Alphina und Sorel sind in der Küche, Tee, halb angezogen, das Licht bedeckt draußen. Vespers Klopfen kommt pünktlich — zwei Knöchel, kurz, der Takt den sie seit K11 kennt. Sie sind zu viert verabredet, Maren hatte das abends gesagt. Vesper wartet nicht im Flur, er kommt rein, Mantel an, sagt: "Ich hole Maren auf dem Weg." Alphina nimmt den Mantel vom Haken, Notizbuch, Stift. Sorel den Schal.
 
-Der Weg: erst die Hafengasse hinunter zur Werft. später Frühling, bedeckt, Grauwe-Wind um die Ecken. Alphina ist dort noch nie gewesen, sieht zum ersten Mal, wo Maren arbeitet — ein Holzschuppen mit Steinmauer, das Tor angelehnt. Vesper klopft an den Rahmen und ruft Maren halblaut beim Namen. Maren kommt heraus, Pech an den Fingern, Schürze halb gelöst — erwartet sie. Sie sperrt das Tor ab, hängt sich ein.
+Der Weg: erst die Hafengasse hinunter zur Werft. Später Frühling, bedeckt, Grauwe-Wind um die Ecken. Alphina ist dort noch nie gewesen, sieht zum ersten Mal, wo Maren arbeitet — ein Holzschuppen mit Steinmauer, das Tor angelehnt. Vesper klopft an den Rahmen und ruft Maren halblaut beim Namen. Maren kommt heraus, Pech an den Fingern, Schürze halb gelöst — erwartet sie. Sie sperrt das Tor ab, hängt sich ein.
 
 Vom Hafen den Aufstieg zur Oberstadt. Rathausplatz, Purpurstein, zwei Kutschen am Rand, niemand eilig. Alphina kennt den Platz als Passage, nie als Ziel. Heute das erste Mal, dass sie die Kellertreppe hinuntergeht. Treppenkanten, abgetreten. Die Luft wird kühler, dann trocken, dann anders — Papier, Leder, alter Staub. Kein Pflanzen-Raum, kein Wachstum. Sie registriert, dass sie das als Fehlen bemerkt.
 
@@ -138,7 +138,7 @@ Alphina tritt einen halben Schritt zurück. Ihre Fingerspitzen kribbeln nicht me
 
 Esther: "Was wollen Sie mit dem Ritual-Blatt?" Alphina sieht Vesper an, dann Maren, dann Sorel. Keine spricht es aus, aber niemand widerspricht, als Alphina sagt: "Wir nehmen es mit." Jara nickt, schiebt es in eine Papierhülle, reicht es Vesper, nicht Alphina — die Geste ist eine Geste unter zweien, die das Material verstanden haben. Das Sprachbuch dazu. Esther verlangt keine Quittung.
 
-Auf der Treppe nach oben, die Luft wieder normal, kein Kribbeln, keine Öllampen-Bewegung. Oben ist es Nachmittag geworden. später Frühling, immer noch bedeckt. Die vier stehen auf dem Rathausplatz. Keiner spricht. Maren sagt zuerst: "Ich gehe zum Wasser." Geht. Vesper nimmt das Buch, das Papier, sagt zu Alphina: "Morgen Abend, bei mir. Wir fangen an, das zu übersetzen." Sorel bleibt bei Alphina. Sie stehen noch eine Weile auf dem Platz, ohne zu gehen.
+Auf der Treppe nach oben, und oben ist es Nachmittag geworden. Später Frühling, immer noch bedeckt. Die vier stehen auf dem Rathausplatz. Keiner spricht. Maren sagt zuerst: "Ich gehe zum Wasser." Geht. Vesper nimmt das Buch, das Papier, sagt zu Alphina: "Morgen Abend, bei mir. Wir fangen an, das zu übersetzen." Sorel bleibt bei Alphina. Sie stehen noch eine Weile auf dem Platz, ohne zu gehen.
 
 Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte, die jemand für sie geschrieben hat. Wer es geschrieben hat, weiß, dass sie es lesen werden. Wer es geschrieben hat, will, dass sie zum Kreis gehen. Der Kreis, den sie seit Monaten nicht als Material, sondern als Puls kennt. Die Frage, die ihr den Atem wegnimmt, ist nicht, ob sie gehen wird. Die Frage ist, warum sie nicht mehr sicher ist, dass sie eine Wahl hat.
 
@@ -148,7 +148,7 @@ Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte
 - Alphina erfährt: Die Schemen-Hände waren auf dem Papier, bevor es ins Archiv kam. Irgendwo außerhalb der Stadt werden Schemen von jemandem geführt, der Ritualmaterial präpariert.
 - Maren erkennt (still, ohne es in Alphinas POV auszusprechen): Die Übersetzungs-Handschrift im Sprachbuch ist Harons Hand. Sie teilt das später mit Vesper, nicht mit der Runde. Alphina registriert nur Marens körperliche Reaktion, nicht den Inhalt.
 - Alphinas Erkenntnis am Ende: Sie sind adressiert. Die Geschichte ist für sie geschrieben, das Tempo wird bestimmt, ihre Wahl ist keine freie.
-- Vespers Erkenntnis (Alphina registriert): Er nimmt das Material, will übersetzen, er hat die Hand einer Pragmatikerin — er widersteht nicht, er liest.
+- Vespers Erkenntnis (Alphina registriert): Er nimmt das Material, will übersetzen — er widersteht nicht, er liest.
 - Sorels Verhalten (Alphina registriert, ohne es ganz zu deuten): Er sagt wenig. Die Qualität seines Schweigens ist anders als sonst. Alphina liest es als Wachsamkeit. Autorennotiz für die Ausarbeitung: Sorel weiß seit gestern mehr als Alphina — der Leser hat den Spalt, die Figur nicht. Prosa zeigt Körper-Signale, keinen Erzähler-Kommentar.
 - Marens Erkenntnis (Alphina registriert): Sie geht zum Wasser. Das ist, wie sie Informationen verarbeitet. Alphina kennt diese Geste noch nicht als System, aber sie merkt sich die Richtung.
 
@@ -199,13 +199,13 @@ Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte
 - Jemand hat Zugang zum verschlossenen Archiv ohne das Schloss zu brechen
 - Jemand platziert Material adressiert an die vier
 - Die Mitte des Kreises trägt auf der Zeichnung ein Symbol; im Garten ist dieselbe Stelle leer, wurzelfrei — beide Befunde zusammen machen die Mitte zu etwas, nicht zu nichts
-- Sorel spürt körperlich, wenn ihre Magie unbewusst wirkt
+- Sorel ist sehr nah an ihr — seine Hand auf ihrem Puls, während sie liest. Sie hat registriert, dass sein Schweigen eine andere Qualität hat als sonst (ohne zu wissen warum)
 - Maren hat etwas im Sprachbuch erkannt, das Alphina nicht kennt — der Inhalt bleibt Alphina verborgen bis Maren es später offen teilt
 
 **Was darf sie NICHT wissen (Sorel-Prinzip)?**
 - Den Namen Varen (weder als Person noch als Handlungsträger)
 - Dass Sorel gestern (K23) Varen auf den Kampf-Platten erkannt hat — Sorel schweigt in dieser Szene
-- Dass das Material gezielt von einer bestimmten Person der anderen Seite platziert wird, nicht von einer anonymen Macht
+- Dass das Material gezielt von einer einzelnen Person platziert wird (statt von einer Fraktion oder anonymen Macht) — Alphina weiß nur "jemand", nicht "eine Person namens X"
 - Was ein Portalübergang körperlich bedeutet oder auslöst
 - Dass Sorel sie vor dem Gartenabend (K12) bereits wochenlang fotografiert hat — K25-Material
 
