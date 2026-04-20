@@ -3,7 +3,7 @@
 **POV:** Alphina (3. Person nah, Präteritum)
 **Timeline:** später Frühling, bedeckt · Morgen nach K22/K23 (exaktes Datum in zeitleiste.json nachzuführen)
 **Wortziel Ausarbeitung:** 4.000–4.500 W
-**Gänsehaut-Moment:** Vesper streicht Kohlestaub über das Ritual-Papier, und die Fingerabdrücke werden sichtbar — zu viele Gelenke, Linien, die sich gabeln, wo menschliche Linien nicht gabeln. Dieselben Hände wie die Kratzspuren am Poller in der Werft. Aber eine Schem-Hand hat nie Papier im Archiv platziert. Also: welche Hand?
+**Gänsehaut-Moment:** Vesper streicht Kohlestaub über Harons altes Symbolblatt, und die Fingerabdrücke werden sichtbar — drei Linien, nicht fünf, die Linien gabeln sich wo menschliche nicht gabeln, Rillen statt Kuppen. Dieselben drei Kratzspuren wie am Poller der Werft, die Maren Alphina auf dem Bierdeckel gezeichnet hat. Das Blatt, das Haron nach Vael gebracht hat, war schon berührt, bevor er es trug. Haron war nicht allein.
 
 ---
 
@@ -49,56 +49,55 @@ Jara sagt, fast sachlich: "Wir haben gestern Nachmittag angefangen, die Seite ne
 
 Auf dem Lesetisch liegt das Manuskript aufgeschlagen. Leder, gebrochener Rücken, Seiten nicht gebunden sondern lose in einer Mappe. Jara hat es orientiert — die beschriebene Seite zu den vieren. Vesper kennt den vorderen Teil aus K20. Alphina sieht es zum ersten Mal.
 
-Bevor Alphina die Seite liest, spricht Esther zum ersten Mal mehr als einen halben Satz. Sie habe in den Tagen nach Vespers letztem Besuch eine Signatur gesucht — das Manuskript sei nicht anonym, wie sie gedacht hätten. Jara habe die Hand mit einer Eintragung im Namens-Register abgeglichen, der Register-Band TZ 150 bis 180 habe mehrere Stellen derselben Schrift geführt. Das Manuskript sei von einer Lene Dahl, Schreiberin im Rathaus, aktiv um TZ 154. Jara schiebt den Register-Band halb auf, zeigt eine kurze Passage, derselbe Duktus wie das Manuskript. Esther fügt hinzu, ruhig, ohne Betonung: dieselbe Familie wie der Name, den Maren ihr beim letzten Mal gebracht hat. Vier Jahrhunderte dazwischen, aber dieselbe Linie.
+Bevor Alphina die Seite liest, sagt Esther nur das Nötigste: sie habe in den Tagen nach Vespers letztem Besuch die Handschrift mit dem Namens-Register abgeglichen. Die Schreiberin signiert erst im letzten Drittel des Manuskripts. Lene Dahl. Zuzug Vael TZ 151, Werftgründerin an der Grauwe. Dieselbe Familie wie der Name, den Maren beim letzten Mal mitgebracht hat. Mehr hat das Register nicht hergegeben. Jara schiebt den Register-Band halb auf, zeigt eine kurze Passage mit derselben Schrift, legt ihn wieder weg.
 
-Maren steht, wo sie steht, eine halbe Umdrehung am Tisch. Sie sagt nichts. Sie nickt einmal, als sei eine Frage beantwortet, die sie nicht laut gestellt hat. Alphina registriert die Stille, ohne die Dahl-Verbindung selbst durchrechnen zu können — für sie ist Haron nur der Name des Werftvorbesitzers, den Maren in den letzten Wochen zweimal erwähnt hat. Für Maren ist es etwas anderes. Alphina merkt sich, dass Maren jetzt ruhiger steht als vor einer Minute; das ist bei Maren das Zeichen, dass etwas gelandet ist.
+Maren steht, wo sie steht, eine halbe Umdrehung am Tisch. Sie sagt nichts. Sie nickt einmal, als sei eine Frage beantwortet, die sie nicht laut gestellt hat. Alphina registriert die Stille, ohne die Verbindung selbst durchrechnen zu können — für sie ist Haron nur der Name, den Maren in den letzten Wochen zweimal erwähnt hat, und Maren ist keine Dahl, sie hat die Werft geerbt, nicht die Linie. Für Maren ist es etwas anderes. Alphina merkt sich, dass Maren jetzt ruhiger steht als vor einer Minute; das ist bei Maren das Zeichen, dass etwas gelandet ist.
 
 Esther hält die Öllampe höher.
 
-Alphina liest die aufgeschlagene Seite zuerst im Stillen. Die Handschrift ist eng, braun verblasst, aber lesbar. Alte Orthographie, schwer aber machbar. An mehreren Stellen Löcher im Papier, Ränder weggefressen, ein Absatz fehlt ganz. Was steht, steht klar: Wir waren vier. Elke verstand den Stein, Keldan das Eisen, Kesper die Luft, ich das Holz. Wir standen an einem Kreis aus hüfthohen Purpursteinen, sieben, in den nichts wächst. Wir wussten nicht, wie sich das Portal öffnen lässt. Wir haben gedrückt, alle gleichzeitig, mit den Händen auf dem Stein. Es hat einmal nachgegeben, nicht lange. Zwei von uns sind nicht zurückgekehrt. Eine ist hindurch. Ich schreibe das hier auf, weil jemand nach uns wissen soll, was es kostet. Wir wollten dorthin, von wo das alles zu uns kommt, damit es aufhört.
+Alphina liest die aufgeschlagene Seite zuerst im Stillen. Die Handschrift ist eng, braun verblasst, aber lesbar. Alte Orthographie, schwer aber machbar. An mehreren Stellen Löcher im Papier, Ränder weggefressen, ein Absatz fehlt ganz. Was steht, steht klar: Wir waren vier. Elke verstand den Stein, Keldan das Eisen, Kesper die Luft, ich das Holz. Wir standen an einem Kreis aus hüfthohen Purpursteinen, sieben, in den nichts wächst. Wir wussten nicht, wie sich das Portal öffnen lässt. Wir haben gedrückt, alle gleichzeitig, mit den Händen auf dem Stein. Es hat einmal nachgegeben, nicht lange. Zwei sind in dem Augenblick hindurch. Keldan fiel vor uns. Was aus den beiden wurde, die hindurchgingen, weiß ich nicht. Seit jener Nacht kam nichts mehr zu uns. Ich schreibe das hier auf, weil jemand nach uns wissen soll, was es kostet. Wir wollten dorthin, von wo das alles zu uns kommt, damit es aufhört.
 
 Alphina liest die Passage laut. Esther hat darum gebeten, mit einer Geste, ohne Wort — als wolle sie hören, ob diese Stimme denselben Text anders zeichnet. Alphinas Stimme bleibt ruhig. Ihre Hände nicht; die rechte hält den Blattrand zu fest. Nach dem Lesen ist eine Pause, in der niemand zuerst sprechen will.
 
-Maren, leise: Das ist der Garten. Der Kreis im Botanischen Garten. Sie hat ihn nie betreten, aber sie hat durch Harons Werft-Papiere von einem Achteck aus Purpurstein gewusst, das unter Vael liegen soll — Edrics Erzählung, K08. Alphina bestätigt mit einem Nicken: der Kreis im Text ist der Kreis, in dem nichts wächst, den sie seit Monaten misst.
+Maren, leise: Das ist der Garten. Der Kreis im Botanischen Garten. Sie kennt ihn aus eigenem Körper — sie hat daran gestanden, in der Nacht des Kampfes, hat den Stein unter dem Knie gefühlt, als die Schulter zu bluten anfing. Alphina bestätigt mit einem Nicken: der Kreis im Text ist der Kreis, in dem nichts wächst, den sie seit Monaten misst. Der Kreis, an dem sie vier in jener Nacht gestanden haben, genau wie diese vier es hier beschreibt.
 
-Vesper zeigt auf Randnotizen. In drei Stellen quer über die Seite, kleiner, anderes Braun, schärferer Federstrich. Eine andere Hand hat am Rand kommentiert, Jahrhunderte später vielleicht, vielleicht gestern. Die Notizen sind in derselben Sprache wie der Fließtext, aber knapper: Maßangaben, Positionen, was wie eine Korrektur aussieht.
+Jara blättert weiter in der Mappe, vorbei an zwei, drei losen Bögen — das Manuskript ist nicht geheftet, jede Seite einzeln. Auf einer legt sie die Hand zur Seite, zieht sie unter den anderen hervor und dreht sie um: keine Schrift. Eine Zeichnung. Kohle und graue Tusche, grob aber sicher: drei Gestalten vor einer Küstensilhouette, die Alphina als Vael erkennt — der alte Leuchtturm links, das erste Drittel der Kaimauer rechts, die Konturen stimmen. Die Gestalten überragen die Häuser um das Doppelte. Kein Körperumriss im gewohnten Sinn: geflammte Schultern, Arme die in Feuerzungen auslaufen, Köpfe die nicht wie Köpfe sitzen. An den Rändern des Blattes Lenes eigene Hand, in derselben Schrift wie der Fließtext: das Datum einer Nacht, die Alphina aus den Chroniken als das Datum des Großen Feuers kennt. Und ein einzelner Satz: *Die Stadt nannte es Funkenflug.*
 
-Jara sagt das Erste, was sie an diesem Tag sagt: Das hat am letzten Dienstag nicht so ausgesehen. Sie hat dienstags Nachmittag die Originalmappe durchgesehen, sie hat die Seite fotografiert für ihr Ordnungsregister — die Randnotizen waren nicht da. Sie holt ihr Register, blättert, legt ihre Skizze neben das Blatt. Derselbe Absatz, derselbe Schaden im Papier, dasselbe Loch. Aber am Rand: nichts.
-
-Vesper, ruhig: Also wurden die Notizen zwischen Dienstag und heute angebracht. Jara: Zwischen Dienstag und gestern Abend — gestern Abend habe ich die Mappe zuletzt weggeräumt. Vesper: Also wer? Jara hat die Antwort nicht. Die Tür zum Archiv ist nachts verschlossen, der einzige Schlüssel liegt bei Esther.
-
-Jara blättert weiter in der Mappe, vorbei an zwei, drei losen Bögen — das Manuskript ist nicht geheftet, jede Seite einzeln. Auf einer legt sie die Hand zur Seite, zieht sie unter den anderen hervor und dreht sie um: keine Schrift. Eine Zeichnung. Kohle und graue Tusche, grob aber sicher: drei Gestalten vor einer Küstensilhouette, die Alphina als Vael erkennt — der alte Leuchtturm links, das erste Drittel der Kaimauer rechts, die Konturen stimmen. Die Gestalten überragen die Häuser um das Doppelte. Kein Körperumriss im gewohnten Sinn: geflammte Schultern, Arme die in Feuerzungen auslaufen, Köpfe die nicht wie Köpfe sitzen. An den Rändern des Blattes Lenes eigene Hand, nicht die fremde — in derselben Schrift wie der Fließtext: das Datum einer Nacht, die Alphina aus den Chroniken als das Datum des Großen Feuers kennt. Und ein einzelner Satz: *Die Stadt nannte es Funkenflug.*
-
-Esther sagt leise, als sei der Satz für sie selbst: "Das Datum haben wir im Archiv dreihundert Mal. Nie mit dieser Zeichnung daneben." Maren fährt mit dem Finger den oberen Rand der Zeichnung nach, ohne zu berühren, und ihre Fingerknöchel sind weiß. Vesper zählt die Gestalten stumm, zweimal — als wolle er sichergehen, dass es drei sind. Sorel sagt gar nichts, und die Qualität seines Schweigens hat sich wieder verändert.
+Esther sagt leise, als sei der Satz für sie selbst: "Das Datum taucht in drei Chroniken auf. Nicht mit dieser Zeichnung daneben." Maren fährt mit dem Finger den oberen Rand der Zeichnung nach, ohne zu berühren, und ihre Fingerknöchel sind weiß. Vesper zählt die Gestalten stumm, zweimal — als wolle er sichergehen, dass es drei sind. Sorel sagt gar nichts, und die Qualität seines Schweigens hat sich wieder verändert.
 
 Alphina legt die Hand flach auf die Seite, nicht weil sie etwas tun will, sondern weil sie den alten Reflex kennt — Material fühlen, nicht nur sehen. Das Papier ist trocken, kühl, normal. Sorel steht neben ihr, legt seine Hand auf ihr Handgelenk, ohne Druck, und hält sie dort. Sie sieht ihn an, er sieht sie nicht zurück, seine Augen sind auf der Skizze. Seine Finger auf ihrer Pulsstelle. Kein Wort. Sie lässt die Hand liegen, wo sie liegt, und ihn ebenfalls.
 
 Esther, leise: Jara hat noch etwas. Bevor wir das hier lesen, will sie, dass Sie das andere sehen.
 
 **Dialog-Informationen:**
-- Alphina erfährt: Das Manuskript stammt von Lene Dahl, Schreiberin im Rathaus um TZ 154 — also fast vierhundert Jahre alt. Dieselbe Familienlinie wie der Name Dahl, den Maren hineingebracht hat.
-- Alphina erfährt: Lenes Text ist kein Ritual, sondern Bericht. Lenes Gruppe war vier: Elke (Stein), Keldan (Eisen), Kesper (Luft), Lene selbst (Holz, Schiffbauerin). Sie wussten nicht, wie sich das Portal öffnen lässt. Sie haben gedrückt, alle gleichzeitig, es hat einmal nachgegeben, kurz. Zwei sind nicht zurück, eine ist hindurch. Lenes Motivation: verhindern, dass mehr herüberkommt von dort, wo das alles herkommt. Der Ort hat keinen Namen in Lenes Text.
-- Alphina erfährt: Die Randnotizen wurden zwischen letzten Dienstag und gestern angebracht — jemand hat Zugang zum verschlossenen Archiv. Die einzige Schlüsselinhaberin (Esther) scheidet aus, sonst hätte sie nicht eingeladen.
-- Alphina erfährt (Skizze): Lene hat das Große Feuer selbst gezeichnet — drei Gestalten doppelt menschengroß, flammende Schultern, Vael-Silhouette. Die Randnotiz ist Lenes eigene Hand, das Datum matched mit dem Chronik-Eintrag des Großen Feuers. *Die Stadt nannte es Funkenflug.* Das Manuskript ist kein Theorie-Text, es ist Zeugnis. Lene war dabei.
+- Alphina erfährt: Das Manuskript stammt von Lene Dahl, Schiffbauerin, Werftgründerin an der Grauwe, Zuzug TZ 151 — also fast vierhundert Jahre alt. Dieselbe Familienlinie wie der Name Dahl, den Maren hineingebracht hat. Maren selbst ist nicht Dahl (Werfterbin, nicht Blutslinie).
+- Alphina erfährt: Lenes Text ist kein Ritual, sondern Bericht. Lenes Gruppe war vier: Elke (Stein), Keldan (Eisen), Kesper (Luft), Lene selbst (Holz, Schiffbauerin). Sie wussten nicht, wie sich das Portal öffnen lässt. Sie haben gedrückt, alle gleichzeitig, es hat einmal nachgegeben, kurz. Zwei gingen hindurch, Keldan fiel, Lene blieb. Lene weiß nicht, was aus den beiden Hindurchgegangenen wurde. Seit jener Nacht kam nichts mehr zu ihnen. Lenes Motivation: verhindern, dass mehr herüberkommt. Der Ort hat keinen Namen in Lenes Text.
+- Alphina erfährt (Skizze): Lene hat das Große Feuer selbst gezeichnet — drei Gestalten doppelt menschengroß, flammende Schultern, Vael-Silhouette. Lenes eigene Hand am Rand, das Datum des Großen Feuers, und: *Die Stadt nannte es Funkenflug.* Das Manuskript ist Zeugnis, nicht Theorie. Lene war dabei.
 - Alphina erfährt (implizit): Die Schemen, die sie kennt — katzengroß auf der Mauer, Wächter-Form im Kampf — sind nicht das Ende der Skala. Es gibt größere. Und sie haben Vael schon einmal niedergebrannt.
-- Maren erfährt (Alphina beobachtet die Stille): Der Kreis unter Vael, von dem Edric sprach, ist der Kreis im Text. Harons Symbolblatt aus K20 wird jetzt rückwirkend verständlich. Die Dahl-Linie reicht vier Jahrhunderte zurück, bis zur Autorin des Manuskripts, das ihr eigener Vorbesitzer offenbar gekannt haben muss. Maren spricht es nicht aus. Alphina liest ihr Ruhigerwerden als Landung einer Erkenntnis.
+- Maren erfährt (Alphina beobachtet die Stille): Die Dahl-Linie reicht vier Jahrhunderte zurück, bis zur Autorin des Manuskripts — Harons eigene Familien-Linie, lang vor ihm. Maren spricht es nicht aus, aber Alphina liest ihr Ruhigerwerden als Landung einer Erkenntnis: Haron stand in einer langen Linie, nicht isoliert. Maren ist selbst keine Dahl.
+- Maren erkennt laut: Die thalassische Übersetzungs-Handschrift im Sprachbuch ist Harons Hand — sie hat fünf Jahre seine Briefe gelesen. Verbunden mit dem Register-Vermerk aus K20 (Haron beherrschte die Landessprache nur eingeschränkt): das Sprachbuch ist Harons eigenes Lernmaterial gewesen.
 - Sorels Beat (Alphina registriert): Seine Hand auf ihrem Puls, während er auf die Skizze schaut. Er hält sie, ohne sie wegzuziehen. Zuwendung, nicht Eingriff.
 - Alphinas Erkenntnis am Ende der Szene: Sie erkennt das Muster wieder — vier mit je eigener Resonanz, ein Kreis aus Purpurstein. Lenes Vier: Stein, Eisen, Luft, Holz. Bei ihnen: Pflanze, Licht, Zeit, Wasser. Nicht dieselbe Gruppe, aber dieselbe Struktur. Maren erkennt in Lene ein Pendant über den Beruf (beide Schiffbauerinnen, beide Holz), auch wenn ihre eigene Resonanz das Wasser ist. Lenes Gruppe hat es versucht, ohne Anleitung, und bezahlt. Lene hat nicht weitergemacht, sie hat aufgeschrieben. Vor vierhundert Jahren hat derselbe Ort, von dem die Pflanze und die Schemen kommen, einen Teil von Vael in Brand gesteckt.
+- Autorennotiz für die Ausarbeitung: Alphinas Schlussgefühl ("Sie spürt nicht Furcht — sie spürt, dass sie benutzt wird") enthält Abstrakta, die in der Prosa in Körper übersetzt werden müssen. Kalte Fingerspitzen, Engezone unter dem Schlüsselbein — kein Erzähler-Label "benutzt", kein Erzähler-Label "Furcht".
 
 **Tschechow-Waffen geladen:**
-- Lene Dahl als Autorin des Manuskripts (TZ 154, Schreiberin im Rathaus) — dieselbe Familienlinie wie Haron. Feuert in Buch 2/3, wenn klar wird, was die Dahl-Linie ist und was Haron dort fortgesetzt oder verraten hat.
+- Lene Dahl als Autorin des Manuskripts (TZ 154, Schiffbauerin, Werftgründerin) — dieselbe Familienlinie wie Haron. Feuert in Buch 2/3, wenn klar wird, was die Dahl-Linie ist und was Haron dort fortgesetzt hat.
 - Die Feuer-Schemen-Skizze (drei, doppelt menschengroß, flammende Konturen) — feuert, wenn erneut Feuer-Schemen auftauchen, oder wenn die 551er selbst einem begegnen. Geladen als Warnung: Eskalation ist möglich.
 - "Die Stadt nannte es Funkenflug" — Tschechow der offiziellen Geschichtsschreibung. Feuert, wenn die 551er-Ereignisse sich wiederholen und die Stadt erneut eine harmlose Erklärung sucht.
 - Der ungenannte Ort jenseits des Portals — feuert, wenn Alphina ihn betritt und zum ersten Mal einen Namen für ihn hört.
-- Die fremde Randnotiz-Hand — Varens Hand, ungenannt. Feuert, wenn Alphina die Handschrift wiedersieht (K35+).
-- Sorels Hand am Puls — Setup für K25 und für die physische Qualität ihrer Beziehung, die in Moragh nochmal anders wird.
+- Harons Übersetzungs-Handschrift im Sprachbuch — feuert in K27 (Maren+Vesper Dom/Sub über Sprachübungen) und in Buch 2/3 als Beweis, dass Haron Verbindung zur anderen Seite hatte und die Sprache selbst lernte.
+- Sorels Hand am Puls — Setup für K25 und für die physische Qualität ihrer Beziehung.
 - Die Vierer-Struktur (vier Resonanzen um einen Kreis) explizit gezeigt. Die 551er-Resonanzen (Pflanze, Licht, Zeit, Wasser) sind nicht identisch mit Lenes Vier (Stein, Eisen, Luft, Holz), aber die Struktur stimmt.
+- Das Ritual-Blatt mit Schem-Fingerabdrücken — Haron hat es von "drüben" mitgebracht, fremde Hände haben es vorher berührt. Feuert, wenn klar wird, wer Haron geschickt hat.
 
 **Tschechow-Waffen abgefeuert:**
-- K20: Harons Symbolblatt und der Name Dahl im Register. Jetzt: das Register liefert eine zweite Dahl — Lene, vierhundert Jahre früher, Autorin des Manuskripts. Die Linie steht, und Haron ist ihr jüngstes sichtbares Glied.
+- K20: Harons Symbolblatt und der Name Dahl im Register. Jetzt: das Register liefert eine zweite Dahl — Lene, vierhundert Jahre früher, Autorin des Manuskripts. Die Linie steht, und Haron ist ihr jüngstes sichtbares Glied. Außerdem: das Ritual-Blatt, das Vesper bei Esther gelassen hat, wird jetzt wieder herausgezogen und physisch untersucht (Kohletest).
+- K20 (Register-Vermerk): "Haron beherrschte die Landessprache nur eingeschränkt." Jetzt: das Sprachbuch ist sein Lernmaterial — er hat die Fremdsprache übersetzt, nicht die Thalassische gelernt.
 - K08 (Maren): Edric sprach von einem Achteck aus Purpurstein unter Vael. Jetzt: der Kreis im Garten ist das, was Edric nur vom Hörensagen kannte.
-- K12+ (Alphina): Sie misst den Steinkreis-Puls seit Monaten. Jetzt weiß sie, was sie da misst — oder mindestens, dass der Kreis in einem fremden, sehr alten Text als Portal-Ort beschrieben wird.
-- Chronik-Wissen (Akt I Welt-Setup): Das Große Feuer war den vieren bisher nur als historisches Datum bekannt (Vael-Chroniken, Pech-Unglück). Jetzt: kontextualisiert — die Katastrophe war Teil desselben Phänomens, mit dem sie jetzt zu tun haben. Die offizielle Erklärung war falsch.
+- K12+ (Alphina): Sie misst den Steinkreis-Puls seit Monaten. Jetzt weiß sie, dass der Kreis in einem fremden, sehr alten Text als Portal-Ort beschrieben wird.
+- K19 (Alle vier im Garten): Maren hat dort am Steinkreis gestanden. Jetzt erkennt sie aus eigenem Körpergedächtnis, dass die Lene-Beschreibung derselbe Ort ist.
+- K06+/K07 (Schemen-Spuren am Poller/Kellerfenster): Drei Rillen, keine Menschenhand. Jetzt: dieselben drei Linien auf Harons Ritual-Papier — die Hände, die Haron es mitgegeben haben.
+- Chronik-Wissen (Akt I Welt-Setup): Das Große Feuer war den vieren bisher nur als historisches Datum bekannt (Pech-Unglück). Jetzt: kontextualisiert — die Katastrophe war Teil desselben Phänomens. Die offizielle Erklärung war falsch.
 
 **Cross-POV-Ankerpunkte:**
 - K20 (Maren/Vesper): Harons Symbolblatt. Hier wird es verbunden.
@@ -112,27 +111,29 @@ Esther, leise: Jara hat noch etwas. Bevor wir das hier lesen, will sie, dass Sie
 
 **Wortziel:** 1.500–1.600 W
 
-Jara geht zu einem niedrigen Regal, zieht eine flache Mappe heraus. Zwei Dinge darin: ein einzelnes Blatt Papier, großformatig, gefaltet, und ein dünnes Buch in weichem Einband. Sie legt beides auf den Tisch neben das Manuskript.
+Jara geht zu einem niedrigen Regal, zieht die Mappe heraus, in der sie Harons Symbolblatt seit K20 verwahrt — Vesper hatte es bei ihr gelassen. Darunter liegt noch etwas, das sie erst heute Morgen beim Umsortieren gefunden hat: ein dünnes Buch in weichem Einband. Sie legt beides auf den Tisch neben das Manuskript.
 
-Erst das Blatt. Sie faltet es auf. Eine Zeichnung: sieben hüfthohe Steine im Kreis, exakte Abstände gemessen mit feinen Strichen, die Mitte leer und markiert mit einem einzelnen Symbol, das niemand am Tisch kennt. Um den Kreis herum Text in einer Sprache, die nicht dem Manuskript-Text entspricht. Andere Zeichen — keine thalassischen Buchstaben, keine der Kürzel, die Maren von Haron kennt. Einige der Zeichen wiederholen sich. Es gibt Anweisungen, das erkennt Vesper am Layout: Nummerierung, Umbrüche, etwas was wie eine Liste aussieht. Ein Ritual. Die genauen Worte: keiner weiß.
+Erst das Blatt. Sie faltet es auf, und Vesper erkennt es wieder — es ist, was Maren ihm damals gebracht hat, was er dort gelassen hat. Eine Zeichnung: sieben hüfthohe Steine im Kreis, exakte Abstände gemessen mit feinen Strichen, die Mitte leer und markiert mit einem einzelnen Symbol, das niemand am Tisch kennt. Um den Kreis herum Text in einer Sprache, die nicht dem Manuskript-Text entspricht. Andere Zeichen — keine thalassischen Buchstaben, keine der Kürzel, die Maren von Haron kennt. Einige der Zeichen wiederholen sich. Es gibt Anweisungen, das erkennt Vesper am Layout: Nummerierung, Umbrüche, etwas was wie eine Liste aussieht. Ein Ritual. Die genauen Worte: keiner weiß. Alphina sieht es zum ersten Mal — Vesper hat ihr vom Blatt erzählt, nicht davon, wie es aussieht.
 
 Alphina sieht zuerst auf die Zeichnung des Kreises. Sieben Steine, hüfthoch, im Abstand eines Armlängen-Schritts. Mit bloßem Auge identisch zu dem, was sie seit Monaten umrundet, wenn sie Henriks Garten verlässt. Die Proportionen stimmen. Das Symbol in der Mitte entspricht der leeren Fläche im Garten, in die keine Wurzel greift — sie hat dort seit Wochen gemessen: nichts, was wüchse, nur kalte Erde über warmem Stein. Sie sagt das. Vesper: also ist etwas in der Mitte, das wir nicht sehen, oder es war einmal dort, oder es soll dort sein.
 
 Dann das dünne Buch. Jara gibt es Vesper in die Hand — so, wie man jemandem etwas gibt, das man selbst nicht weiter halten will. Weicher Einband, Fadenbindung, ungefähr achtzig Seiten. Aufgeschlagen: ein Lehrbuch. Wortlisten, Lautschrift, einfache Sätze mit Übersetzungen — und die Übersetzungen sind in thalassischer Umgangssprache, deutlich jünger als das Manuskript, Stil dieses Jahrzehnts. Die Fremdsprache ist dieselbe wie auf dem Ritual-Blatt. Eine der ersten Einträge: ein Wort, das daneben mit "Heimat" oder "mein Ort" wiedergegeben ist. Der Name dieses Ortes steht nirgends — nur sein Begriff.
 
-Maren beugt sich über Vespers Schulter und wird still. Alphina sieht, wie etwas in Marens Gesicht kippt — ein halber Atemzug, den sie anhält. Maren sagt nichts laut. Sie streckt den Finger aus, berührt die thalassische Übersetzungs-Handschrift am Rand, zieht den Finger zurück. Alphina registriert die Geste ohne ihren Gehalt zu verstehen. Erst später, auf der Treppe, wird Maren zu Vesper sagen, was sie erkannt hat, wenn niemand anders in Hörweite ist. Jetzt nicht.
+Jara, sachlich: Das Buch lag seit Wochen in Regal Vier, unterste Reihe, ohne Eintrag im Register. Sie habe es heute Morgen beim Umsortieren herausgezogen. Woher es gekommen sei, wisse sie nicht. In ihrem Register sei es nie verzeichnet gewesen. Esther bestätigt das mit einem Nicken, sagt nicht mehr.
 
-Jara: Das Buch habe ich letzte Woche in Regal Vier gestellt, unterste Reihe. Ich kontrolliere diese Reihe jeden Morgen gegen mein Register. Gestern Morgen war da die Lücke, die da immer ist. Heute Morgen war das Buch darin. Esther, bestätigend: Ich habe gestern die Tür zweimal verschlossen. Einmal abends, einmal heute früh. Das Schloss ist intakt.
+Maren beugt sich über Vespers Schulter, sieht auf die Zeile mit der thalassischen Übersetzung am Rand, und etwas in ihrem Gesicht kippt — ein halber Atemzug, den sie anhält. Dann, laut, damit alle sie hören: Das ist Harons Hand. Jeder Strich. Sie habe fünf Jahre seine Briefe gelesen, sie kenne die Art, wie er das n schräg legt und den Abstrich zu kurz zieht. Und mehr: als sie mit Vesper beim letzten Mal das Archiv besucht habe, sei ein Vermerk im Eingangsregister aufgetaucht, beiläufig zitiert: der Antragsteller Dahl habe die Landessprache nur eingeschränkt beherrscht. Es war also nicht seine Muttersprache. Das hier — sie tippt kurz neben, nicht auf das Wort — ist eine Übersetzung, die er sich selbst beigebracht hat.
 
-Vesper nimmt etwas aus seiner Rocktasche — ein flaches Stück Kohle, gebrochen, wie er es für Uhrwerkzeichnungen benutzt. Er denkt laut, halb zu sich: Öl auf Metall macht Staub sichtbar, das ist die einfachste Probe. Er legt das Ritual-Blatt flach. Er streicht mit dem Kohlestaub vorsichtig über die freien Flächen. Staub bleibt hängen, wo Öl oder Fett auf dem Papier war. Fingerabdrücke.
+Vesper nickt einmal, kurz. Keine Frage mehr nach dem Absender: das Buch stammt aus Harons Hand. Platziert hat es vermutlich nicht Haron selbst — Haron ist tot — aber jemand, der sein Werk weitergetragen hat.
 
-Die erste Spur wird sichtbar an der rechten oberen Ecke. Vesper wischt. Schmiert nicht. Bläst vorsichtig. Eine Handabdruck-Partie tritt hervor: nicht fünf, sondern sieben Linien; die Linien gabeln sich an Punkten, an denen eine menschliche Finger-Linie nicht gabelt; zwei der Spuren enden in Rillen, nicht in Kuppen. Vesper setzt die Hand fort: zwei weitere Abdrücke am linken Rand, einer unten. Dieselben Muster. Zu viele Gelenke. Spitze, nicht runde Endungen. Eine Hand, die keine ist.
+Vesper nimmt etwas aus seiner Rocktasche — ein flaches Stück Kohle, gebrochen, wie er es für Uhrwerkzeichnungen benutzt. Er denkt laut, halb zu sich: Fett auf Papier bindet Staub. Das ist die einfachste Probe. Er legt das Ritual-Blatt flach. Er streicht mit dem Kohlestaub vorsichtig über die freien Flächen. Staub bleibt hängen, wo ein Finger vorher mit Talg oder Schmiere Papier berührt hat. Fingerabdrücke.
 
-Alphina kennt das Muster. Maren hat ihr den Poller in der Werft beschrieben, drei Kratzspuren, die keine Mensch-Hand setzt; dieselbe Linienführung. Die Hände der Schemen auf diesem Papier.
+Die erste Spur wird sichtbar an der rechten oberen Ecke. Vesper wischt. Schmiert nicht. Bläst vorsichtig. Ein Abdruck tritt hervor: drei Linien, nicht fünf. Die Linien gabeln sich an Punkten, an denen eine menschliche Fingerlinie nicht gabelt. Zwei der Spuren enden in Rillen, nicht in Kuppen. Vesper setzt fort: zwei weitere Abdrücke am linken Rand, einer unten. Dieselben drei Linien. Dieselben Gabeln. Spitze, nicht runde Endungen. Eine Hand, die keine ist.
 
-Stille im Raum. Maren dreht die Hand, wie um die Grauwe nach dem Puls zu fragen; tut es nicht, die Hand sinkt. Sorel sagt: "Die haben das Papier nicht aus einer Hand ins Archiv gelegt." Er sagt es flach. Vesper: "Nein. Aber sie haben es berührt." Alphina, langsam: "Also waren die Hände an dem Papier, bevor jemand das Papier hier hingelegt hat." Vesper: "Richtig."
+Alphina kennt das Muster. Maren hat ihr den Poller an der Werft beim letzten Anker-Abend in die Hand gezeichnet — drei Kratzspuren nebeneinander, gegabelt, auf das Wirtshaus-Blatt mit dem nassen Glas. Dieselbe Linienführung. Die Hände, die Haron das Papier getragen haben, auf diesem Papier.
 
-Keiner sagt das Offensichtliche aus: irgendwo außerhalb dieser Stadt hat jemand, der die Schemen führt oder ist, dieses Blatt vorbereitet, und dann wurde es hier platziert, durch eine verschlossene Tür, ohne dass das Schloss gebrochen wäre. Das Sprachbuch dazu, als Angebot. Vier Fremde. Sieben Steine. Ein Portal.
+Stille im Raum. Maren dreht die Hand, wie um die Grauwe nach dem Puls zu fragen; tut es nicht, die Hand sinkt. Sorel sagt: "Also haben sie das Blatt berührt, bevor es hier lag." Er sagt es flach. Vesper: "Dreimal an verschiedenen Stellen. Das ist kein Zufall." Alphina, langsam: "Also war dieses Papier bei ihnen, bevor es zu uns kam." Vesper: "Ja."
+
+Keiner sagt das Offensichtliche aus: das Blatt, das Vesper bei Esther abgelegt hatte, war nicht nur Harons Werft-Kürzel — es war schon damals von den Händen der anderen Seite berührt. Haron hat es nicht allein nach Vael gebracht. Das Sprachbuch dazu, aus derselben Hand, in Jaras Regal, ohne Eintrag. Vier Fremde. Sieben Steine. Ein Portal.
 
 Alphina tritt einen halben Schritt zurück. Ihre Fingerspitzen kribbeln nicht mehr; sie sind kalt. Sie spürt nicht Furcht — sie spürt, dass sie benutzt wird und nicht weiß, von wem. Ihre Hand greift automatisch zu Sorels Ärmel, bleibt dort, kein Druck. Sorel lässt sie. Maren steht an Vespers Schulter. Keine Gruppe, nur zwei Paare, denen gerade klar wird, dass sie ein Paar von Paaren geworden sind.
 
@@ -143,34 +144,39 @@ Auf der Treppe nach oben, und oben ist es Nachmittag geworden. Später Frühling
 Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte, die jemand für sie geschrieben hat. Wer es geschrieben hat, weiß, dass sie es lesen werden. Wer es geschrieben hat, will, dass sie zum Kreis gehen. Der Kreis, den sie seit Monaten nicht als Material, sondern als Puls kennt. Die Frage, die ihr den Atem wegnimmt, ist nicht, ob sie gehen wird. Die Frage ist, warum sie nicht mehr sicher ist, dass sie eine Wahl hat.
 
 **Dialog-Informationen:**
-- Alphina erfährt: Die fremde Schrift ist als lehrbare Sprache dokumentiert — Wortlisten, Lautschrift, einfache Übersetzungen ins Thalassische. Jemand hat das Lehrbuch bereitgestellt, in neuer Handschrift. Der Ort, aus dem die Sprache kommt, trägt in dem Buch nur einen Begriff ("Heimat", "mein Ort"), keinen Eigennamen.
-- Alphina erfährt: Der Kreis auf der Zeichnung zeigt in der Mitte ein Symbol; im Garten ist dort nur Erde, in die nichts wurzelt. Die leere Mitte ist also nicht zufällig leer — sie ist etwas.
-- Alphina erfährt: Die Schemen-Hände waren auf dem Papier, bevor es ins Archiv kam. Irgendwo außerhalb der Stadt werden Schemen von jemandem geführt, der Ritualmaterial präpariert.
-- Maren erkennt (still, ohne es in Alphinas POV auszusprechen): Die Übersetzungs-Handschrift im Sprachbuch ist Harons Hand. Sie teilt das später mit Vesper, nicht mit der Runde. Alphina registriert nur Marens körperliche Reaktion, nicht den Inhalt.
-- Alphinas Erkenntnis am Ende: Sie sind adressiert. Die Geschichte ist für sie geschrieben, das Tempo wird bestimmt, ihre Wahl ist keine freie.
-- Vespers Erkenntnis (Alphina registriert): Er nimmt das Material, will übersetzen — er widersteht nicht, er liest.
-- Sorels Verhalten (Alphina registriert, ohne es ganz zu deuten): Er sagt wenig. Die Qualität seines Schweigens ist anders als sonst. Alphina liest es als Wachsamkeit. Autorennotiz für die Ausarbeitung: Sorel weiß seit gestern mehr als Alphina — der Leser hat den Spalt, die Figur nicht. Prosa zeigt Körper-Signale, keinen Erzähler-Kommentar.
+- Alphina erfährt: Das Ritual-Blatt, das Jara herausholt, ist Harons Symbolblatt aus K20 — Vesper hat es dort gelassen, Jara hat es in den Bestand übernommen. Kein Nacht-Einbruch, keine frische Platzierung.
+- Alphina erfährt: Sieben hüfthohe Steine im Kreis auf der Zeichnung, Mitte markiert mit unbekanntem Symbol. Text außen in fremder Schrift. Das Papier ist eine Ritual-Anleitung, deren Sprache niemand liest.
+- Alphina erfährt: Der Kreis auf der Zeichnung entspricht exakt dem Steinkreis im Botanischen Garten, den sie seit Monaten misst. Die Mitte ist leer — auf Zeichnung markiert mit Symbol, im Garten wurzelfrei. Beide Befunde zusammen machen die Mitte zu etwas, nicht zu nichts.
+- Alphina erfährt: Das Sprachbuch lag seit Wochen in Regal Vier ohne Register-Eintrag. Herkunft unklar. Lehrbuch-Form — Wortlisten, Lautschrift, Übersetzungen ins Thalassische. Ein Wort mit "Heimat / mein Ort" übersetzt, der Eigenname des Ortes steht nirgends.
+- Alphina erfährt (durch Marens laute Erkenntnis): Die thalassische Übersetzungs-Hand im Sprachbuch ist Haron Dahls Hand. Maren erkennt sie, sagt es laut. Plus: Register-Vermerk aus K20 — Haron beherrschte die Landessprache nur eingeschränkt. Das Sprachbuch ist sein Lernmaterial gewesen. Haron hat also die fremde Sprache gesprochen und die thalassische gelernt, nicht umgekehrt.
+- Alphina erfährt: Vespers Kohletest (Fett auf Papier bindet Staub) macht Fingerabdrücke sichtbar. Drei Linien, nicht fünf. Gabelungen wo menschliche Linien nicht gabeln. Rillen statt Kuppen. Dieselben Spuren wie die Kratzmuster am Poller der Werft, die Maren ihr am letzten Anker-Abend auf einen Bierdeckel gezeichnet hat. Die Hände, die dieses Blatt berührt haben, sind keine Mensch-Hände.
+- Alphinas Erkenntnis am Ende: Haron hat das Blatt von "drüben" mitgebracht; vor ihm haben fremde Hände es berührt. Haron hat nicht isoliert gehandelt — er stand in einer Linie (Dahl) und hatte Verbindung zur anderen Seite. Was bei den 551ern ankommt, ist nicht Zufall. Die vier sind adressiert.
+- Vespers Verhalten (Alphina registriert): Er nimmt das Material, will übersetzen. Keine Scheu, keine Zurückhaltung. Er liest, was zu lesen ist.
+- Sorels Verhalten (Alphina registriert, ohne es ganz zu deuten): Er sagt wenig. Die Qualität seines Schweigens ist anders als sonst. Alphina liest es als Wachsamkeit. Autorennotiz für die Ausarbeitung: Sorel weiß seit K23 mehr als Alphina — der Leser hat den Spalt, die Figur nicht. Prosa zeigt Körper-Signale, keinen Erzähler-Kommentar.
 - Marens Erkenntnis (Alphina registriert): Sie geht zum Wasser. Das ist, wie sie Informationen verarbeitet. Alphina kennt diese Geste noch nicht als System, aber sie merkt sich die Richtung.
 
 **Tschechow-Waffen geladen:**
-- Das Ritual-Papier in Vespers Obhut — feuert in K27+ (Übersetzungsarbeit), in K36 (Ritualpraxis).
-- Das Sprachbuch der fremden Schrift mit Harons Übersetzungs-Handschrift — feuert in K27 (Maren+Vesper Dom/Sub über Sprachübungen), in K36, und in Buch 2 als Beweis, dass Haron Verbindung zu der anderen Seite hatte.
+- Das Ritual-Papier (= Harons Symbolblatt aus K20) jetzt in Vespers Obhut — feuert in K27+ (Übersetzungsarbeit), in K36 (Ritualpraxis).
+- Das Sprachbuch der fremden Schrift mit Harons Übersetzungs-Handschrift — feuert in K27 (Maren+Vesper Dom/Sub über Sprachübungen) und in Buch 2 als Beweis, dass Haron die Sprache gelernt hat, nicht mitgebracht.
 - Die leere Mitte im Kreis (Garten und Zeichnung) — feuert, wenn im Finale klar wird, was oder wer in die Mitte gehört.
-- Die 551er-Resonanzen (Pflanze, Licht, Zeit, Wasser) als Muster-Parallele zu Lenes Vier (Stein, Eisen, Luft, Holz) — Checklist-Waffe für die Leserin.
-- Sorels Schweigen über Varen-Platten — feuert in K25 Bruch (als Dauer und Umfang der Geheimnisse).
+- Die Schem-Fingerabdrücke auf Harons Blatt — feuert, wenn klar wird, wer Haron geschickt/begleitet hat.
+- Sorels Schweigen über die Varen-Platten (K23) — feuert in K25 Bruch.
 
 **Tschechow-Waffen abgefeuert:**
-- K12+: Alphina sah drei Schemen auf der Mauer (keine Hände). Jetzt: die Hände dieser Spezies.
-- K19-Kampf: Alle vier haben Schemen gekämpft. Jetzt: die Schemen sind nicht nur Angreifer, sie sind Boten.
-- K22: Die fremde Pflanze in der Werft. Verbunden mit: derselben "anderen Seite", von der Lenes Text spricht — ohne dass Alphina einen Namen dafür hätte.
-- K20: Harons Symbolblatt hat den Kreis gezeigt. Jetzt: die Ritual-Anweisung auf demselben Kreis, bestätigend, dass Haron Zugang zu diesem Material hatte.
+- K12+: Alphina sah drei Schemen auf der Mauer (keine Hände). Jetzt: dieselben Hände dieser Spezies, jetzt als Abdrücke auf Papier.
+- K19 (Kampf im Garten): Maren hat am Steinkreis gestanden. Jetzt erkennt sie aus Körpergedächtnis, dass es derselbe Kreis ist.
+- K20 (Harons Symbolblatt, Register-Vermerk): Das Symbolblatt wird jetzt als Ritual-Anleitung lesbar. Der Register-Vermerk "beherrschte die Landessprache eingeschränkt" wird in Maren-Erinnerung aktiviert.
+- K22: Die fremde Pflanze in der Werft. Verbunden mit derselben "anderen Seite", von der Lenes Text spricht — ohne Namen.
+- K06/K07 (Schemen-Spuren am Poller/Kellerfenster, drei Rillen): Dieselben drei Linien auf Harons Papier. Die Boten haben es berührt.
 
 **Cross-POV-Ankerpunkte:**
-- K22 (Maren, Szene 1): Alphina hat dort die fremde Pflanze nicht einordnen können. Jetzt weiß sie, dass es einen Ort gibt, von dem solche Dinge kommen — ohne Namen. Sie verbindet die beiden Momente nicht laut, aber die Leserin tut es.
-- K23 (Sorel): Sorel hat Varen auf den Platten gesehen. In dieser Szene schweigt er darüber, obwohl das Material hier dieselbe Botschaft trägt — Varen führt. Das ist bewusstes Zurückhalten, nicht Ahnungslosigkeit. Für K25-Bruch relevant: nicht nur die Steg-Platten sind eine alte Geheimnis-Schicht, auch das Varen-Wissen ist neu und verschwiegen.
-- K25 (Sorel/Bruch): Das Sprachbuch wird bei Vesper landen, nicht bei Sorel. Das ist das ruhige Signal, dass Sorel außerhalb der Arbeitsgruppe steht — ein Setup, das den Bruch am nächsten Tag glaubwürdig macht.
-- K27 (Maren): Maren hilft Vesper beim Sprachbuch. Diese Szene legt den Anlass; K27 legt die Dom/Sub-Dynamik darauf.
-- I3 / Vorgänger-Kapitel: Lene war selbst dort am Kreis (Text, Skizze). Das Material-Nachschub-Paar (Ritual-Papier + Sprachbuch) ist von anderer Seite platziert — Varens Vorbereitungshandlung. Der Varen-POV sieht die Rückseite dieser Szene, die Leserin nicht, Alphina erst recht nicht.
+- K20 (Maren/Vesper): Harons Symbolblatt + Register-Vermerk zur Landessprache. Beide werden hier aktiviert. Das Symbolblatt physisch, der Vermerk über Marens Erinnerung.
+- K22 (Maren, Szene 1): Alphina hat dort die fremde Pflanze nicht einordnen können. Jetzt weiß sie, dass es einen Ort gibt, von dem solche Dinge kommen — ohne Namen.
+- K22 (Maren/Alphina/Vesper am Anker-Abend): Maren hat Alphina dort den Poller mit den Kratzspuren auf einen Bierdeckel gezeichnet. Diese Erinnerung aktiviert Alphina, als die Fingerabdrücke sichtbar werden.
+- K23 (Sorel): Sorel hat Varen auf den Platten gesehen. In dieser Szene schweigt er darüber, obwohl das Material hier dieselbe Botschaft trägt — jemand führt. Bewusstes Zurückhalten, nicht Ahnungslosigkeit.
+- K25 (Sorel/Bruch): Das Ritual-Blatt und das Sprachbuch landen bei Vesper, nicht bei Sorel. Das ruhige Signal, dass Sorel außerhalb der Arbeitsgruppe steht — Setup für den Bruch am nächsten Tag.
+- K27 (Maren): Maren hilft Vesper beim Sprachbuch. Diese Szene legt den Anlass.
+- I3 / Vorgänger-Kapitel: Lene war selbst am Kreis (Text, Skizze). Die Leserin kennt Elke, Kesper, Keldan; Alphina nicht.
 
 ---
 
@@ -188,32 +194,28 @@ Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte
 - Der Steinkreis im Botanischen Garten ist ihr seit Monaten vertraut als Puls, nicht als Ritual-Ort
 
 **Was weiß sie am Ende?**
-- Das Manuskript ist von Lene Dahl, TZ 154, Schreiberin im Rathaus — also fast vierhundert Jahre alt, und aus derselben Familienlinie wie Harons Name, den Maren mitgebracht hat
-- Lene war selbst Augenzeugin: das Große Feuer war kein Funkenflug, sondern drei Feuer-Schemen, doppelt menschengroß, die Vael niedergebrannt haben
+- Das Manuskript ist von Lene Dahl, TZ 154, Schiffbauerin, Werftgründerin an der Grauwe — fast vierhundert Jahre alt, aus derselben Familienlinie wie Harons Name, den Maren mitgebracht hat (Maren selbst ist keine Dahl)
+- Lene war selbst Augenzeugin: das Große Feuer war kein Funkenflug, sondern drei Feuer-Schemen, doppelt menschengroß, die Vael niedergebrannt haben. Lenes Gruppe — Elke/Stein, Keldan/Eisen, Kesper/Luft, Lene/Holz — versuchte das Portal ohne Anleitung zu öffnen. Keldan fiel. Zwei gingen hindurch. Was aus ihnen wurde, weiß Lene nicht. Seit jener Nacht kam nichts mehr zu ihnen.
 - Die Schemen, die sie bisher kennt (katzengroß, Wächter-Form) sind nicht die stärkste Form. Es kann eskalieren
-- Ein Ritual existiert (in der von Varen nachgelieferten Anleitung): vier Fremde, ein Kreis aus Purpurstein, ein Portal. Lenes Gruppe hatte diese Anleitung nicht — sie ist neu
-- Der Kreis im Ritual ist der Steinkreis im Botanischen Garten
-- Ihre eigenen vier Resonanzen (Pflanze, Licht, Zeit, Wasser) entsprechen dem Vierer-Muster, das Lenes Gruppe auch hatte — nicht dieselben Materialien, aber dieselbe Struktur
-- Der Ort auf der anderen Seite hat keinen Namen in Lenes Text, nur einen Begriff ("Heimat / mein Ort") im Sprachbuch. Die fremde Schrift ist lernbar; das Lehrbuch liegt vor
-- Die Schemen-Hände waren auf dem Ritual-Papier — irgendwo außerhalb, vor der Platzierung
-- Jemand hat Zugang zum verschlossenen Archiv ohne das Schloss zu brechen
-- Jemand platziert Material adressiert an die vier
-- Die Mitte des Kreises trägt auf der Zeichnung ein Symbol; im Garten ist dieselbe Stelle leer, wurzelfrei — beide Befunde zusammen machen die Mitte zu etwas, nicht zu nichts
-- Sorel ist sehr nah an ihr — seine Hand auf ihrem Puls, während sie liest. Sie hat registriert, dass sein Schweigen eine andere Qualität hat als sonst (ohne zu wissen warum)
-- Maren hat etwas im Sprachbuch erkannt, das Alphina nicht kennt — der Inhalt bleibt Alphina verborgen bis Maren es später offen teilt
+- Der Kreis im Manuskript ist der Steinkreis im Botanischen Garten. Sieben hüfthohe Purpursteine. Die Mitte ist leer — auf der Zeichnung mit Symbol markiert, im Garten wurzelfrei. Beide Befunde zusammen machen die Mitte zu etwas, nicht zu nichts.
+- Ihre eigenen vier Resonanzen (Pflanze, Licht, Zeit, Wasser) entsprechen dem Vierer-Muster von Lenes Gruppe — nicht dieselben Materialien, aber dieselbe Struktur
+- Harons Symbolblatt aus K20 ist ein Ritual-Blatt: Steinkreis-Zeichnung plus Anweisungen in fremder Schrift. Die fremde Schrift ist lernbar — Harons eigenes Sprachbuch (mit seinen thalassischen Übersetzungen) liegt im Archiv. Haron hat die Fremdsprache gesprochen, die thalassische gelernt.
+- Die Schemen-Hände waren auf Harons Ritual-Blatt, bevor er es nach Vael gebracht hat. Haron stand nicht isoliert — er war begleitet
+- Der Ort auf der anderen Seite hat keinen Namen in Lenes Text, nur einen Begriff ("Heimat / mein Ort") im Sprachbuch
+- Die Dahl-Linie reicht vier Jahrhunderte zurück, von Lene bis Haron. Haron ist Teil einer langen Kette, nicht Zufall.
+- Sorel ist sehr nah an ihr — seine Hand auf ihrem Puls, während sie liest. Sie hat registriert, dass sein Schweigen eine andere Qualität hat als sonst (ohne zu wissen warum).
 
 **Was darf sie NICHT wissen (Sorel-Prinzip)?**
 - Den Namen Varen (weder als Person noch als Handlungsträger)
 - Dass Sorel gestern (K23) Varen auf den Kampf-Platten erkannt hat — Sorel schweigt in dieser Szene
-- Dass das Material gezielt von einer einzelnen Person platziert wird (statt von einer Fraktion oder anonymen Macht) — Alphina weiß nur "jemand", nicht "eine Person namens X"
+- Dass es eine konkrete Person hinter dem Geschehen gibt — Alphina weiß nur "Haron stand in einer Linie, jemand hat ihn begleitet"
 - Was ein Portalübergang körperlich bedeutet oder auslöst
 - Dass Sorel sie vor dem Gartenabend (K12) bereits wochenlang fotografiert hat — K25-Material
 
 **Premature-Doubt-Check:**
 - Alphina zweifelt nicht an der Einladung, bevor sie im Keller ist.
-- Sie zweifelt nicht an den Randnotizen, bevor Jara das Register zeigt.
 - Sie zweifelt nicht an der Handschrift-Herkunft, bevor Vesper Kohle benutzt.
-- Die Erkenntnis "wir werden benutzt" kommt als Synthese am Ende, nicht als Vorahnung am Anfang. Sauber.
+- Die Erkenntnis "Haron war begleitet" kommt als Synthese am Ende, nicht als Vorahnung am Anfang. Sauber.
 
 **Cross-POV-Sprach-Check (Alphina-Register):**
 - Alphina nennt den Nebel nicht "Dunst" (das ist Sorel). Bei ihr: bedeckter später Frühling.
