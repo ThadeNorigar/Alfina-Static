@@ -55,7 +55,7 @@ Maren steht, wo sie steht, eine halbe Umdrehung am Tisch. Sie sagt nichts. Sie n
 
 Esther hält die Öllampe höher.
 
-Alphina liest die aufgeschlagene Seite zuerst im Stillen. Die Handschrift ist eng, braun verblasst, aber lesbar. Alte Orthographie, schwer aber machbar. An mehreren Stellen Löcher im Papier, Ränder weggefressen, ein Absatz fehlt ganz. Was steht, steht klar: Wir waren vier. Elke verstand den Stein, Keldan das Eisen, ich das Holz. Kesper malte. Was er malte, kam uns nach. Wir standen an einem Kreis aus hüfthohen Purpursteinen, sieben, in den nichts wächst. Wir wussten nicht, wie sich das Portal öffnen lässt. Wir haben gedrückt, alle gleichzeitig, mit den Händen auf dem Stein. Es hat einmal nachgegeben, nicht lange. Zwei von uns sind nicht zurückgekehrt. Eine ist hindurch. Ich schreibe das hier auf, weil jemand nach uns wissen soll, was es kostet. Wir wollten dorthin, von wo das alles zu uns kommt, damit es aufhört.
+Alphina liest die aufgeschlagene Seite zuerst im Stillen. Die Handschrift ist eng, braun verblasst, aber lesbar. Alte Orthographie, schwer aber machbar. An mehreren Stellen Löcher im Papier, Ränder weggefressen, ein Absatz fehlt ganz. Was steht, steht klar: Wir waren vier. Elke verstand den Stein, Keldan das Eisen, Kesper die Luft, ich das Holz. Wir standen an einem Kreis aus hüfthohen Purpursteinen, sieben, in den nichts wächst. Wir wussten nicht, wie sich das Portal öffnen lässt. Wir haben gedrückt, alle gleichzeitig, mit den Händen auf dem Stein. Es hat einmal nachgegeben, nicht lange. Zwei von uns sind nicht zurückgekehrt. Eine ist hindurch. Ich schreibe das hier auf, weil jemand nach uns wissen soll, was es kostet. Wir wollten dorthin, von wo das alles zu uns kommt, damit es aufhört.
 
 Alphina liest die Passage laut. Esther hat darum gebeten, mit einer Geste, ohne Wort — als wolle sie hören, ob diese Stimme denselben Text anders zeichnet. Alphinas Stimme bleibt ruhig. Ihre Hände nicht; die rechte hält den Blattrand zu fest. Nach dem Lesen ist eine Pause, in der niemand zuerst sprechen will.
 
@@ -77,13 +77,13 @@ Esther, leise: Jara hat noch etwas. Bevor wir das hier lesen, will sie, dass Sie
 
 **Dialog-Informationen:**
 - Alphina erfährt: Das Manuskript stammt von Lene Dahl, Schreiberin im Rathaus um TZ 154 — also fast vierhundert Jahre alt. Dieselbe Familienlinie wie der Name Dahl, den Maren hineingebracht hat.
-- Alphina erfährt: Lenes Text ist kein Ritual, sondern Bericht. Lenes Gruppe war vier: Elke (Stein), Keldan (Eisen), Lene selbst (Holz, Schiffbauerin). Kesper malte — seine Bilder zeigten Dinge, die erst danach eintrafen. Sie wussten nicht, wie sich das Portal öffnen lässt. Sie haben gedrückt, alle gleichzeitig, es hat einmal nachgegeben, kurz. Zwei sind nicht zurück, eine ist hindurch. Lenes Motivation: verhindern, dass mehr herüberkommt von dort, wo das alles herkommt. Der Ort hat keinen Namen in Lenes Text.
+- Alphina erfährt: Lenes Text ist kein Ritual, sondern Bericht. Lenes Gruppe war vier: Elke (Stein), Keldan (Eisen), Kesper (Luft), Lene selbst (Holz, Schiffbauerin). Sie wussten nicht, wie sich das Portal öffnen lässt. Sie haben gedrückt, alle gleichzeitig, es hat einmal nachgegeben, kurz. Zwei sind nicht zurück, eine ist hindurch. Lenes Motivation: verhindern, dass mehr herüberkommt von dort, wo das alles herkommt. Der Ort hat keinen Namen in Lenes Text.
 - Alphina erfährt: Die Randnotizen wurden zwischen letzten Dienstag und gestern angebracht — jemand hat Zugang zum verschlossenen Archiv. Die einzige Schlüsselinhaberin (Esther) scheidet aus, sonst hätte sie nicht eingeladen.
 - Alphina erfährt (Skizze): Lene hat das Große Feuer selbst gezeichnet — drei Gestalten doppelt menschengroß, flammende Schultern, Vael-Silhouette. Die Randnotiz ist Lenes eigene Hand, das Datum matched mit dem Chronik-Eintrag des Großen Feuers. *Die Stadt nannte es Funkenflug.* Das Manuskript ist kein Theorie-Text, es ist Zeugnis. Lene war dabei.
 - Alphina erfährt (implizit): Die Schemen, die sie kennt — katzengroß auf der Mauer, Wächter-Form im Kampf — sind nicht das Ende der Skala. Es gibt größere. Und sie haben Vael schon einmal niedergebrannt.
 - Maren erfährt (Alphina beobachtet die Stille): Der Kreis unter Vael, von dem Edric sprach, ist der Kreis im Text. Harons Symbolblatt aus K20 wird jetzt rückwirkend verständlich. Die Dahl-Linie reicht vier Jahrhunderte zurück, bis zur Autorin des Manuskripts, das ihr eigener Vorbesitzer offenbar gekannt haben muss. Maren spricht es nicht aus. Alphina liest ihr Ruhigerwerden als Landung einer Erkenntnis.
 - Sorels Beat (Alphina registriert): Seine Hand auf ihrem Puls, während er auf die Skizze schaut. Er hält sie, ohne sie wegzuziehen. Zuwendung, nicht Eingriff.
-- Alphinas Erkenntnis am Ende der Szene: Sie erkennt das Muster wieder — vier mit je eigener Resonanz, ein Kreis aus Purpurstein. Lenes Vier: Stein, Eisen, Holz, und Kesper mit seinen Bildern. Bei ihnen: Pflanze, Uhrwerk, Licht, Wasser. Nicht dieselbe Gruppe, aber dieselbe Struktur. Maren erkennt in Lene ein Pendant über den Beruf (beide Schiffbauerinnen, beide Holz), auch wenn ihre eigene Resonanz das Wasser ist. Lenes Gruppe hat es versucht, ohne Anleitung, und bezahlt. Lene hat nicht weitergemacht, sie hat aufgeschrieben. Vor vierhundert Jahren hat derselbe Ort, von dem die Pflanze und die Schemen kommen, einen Teil von Vael in Brand gesteckt.
+- Alphinas Erkenntnis am Ende der Szene: Sie erkennt das Muster wieder — vier mit je eigener Resonanz, ein Kreis aus Purpurstein. Lenes Vier: Stein, Eisen, Luft, Holz. Bei ihnen: Pflanze, Licht, Zeit, Wasser. Nicht dieselbe Gruppe, aber dieselbe Struktur. Maren erkennt in Lene ein Pendant über den Beruf (beide Schiffbauerinnen, beide Holz), auch wenn ihre eigene Resonanz das Wasser ist. Lenes Gruppe hat es versucht, ohne Anleitung, und bezahlt. Lene hat nicht weitergemacht, sie hat aufgeschrieben. Vor vierhundert Jahren hat derselbe Ort, von dem die Pflanze und die Schemen kommen, einen Teil von Vael in Brand gesteckt.
 
 **Tschechow-Waffen geladen:**
 - Lene Dahl als Autorin des Manuskripts (TZ 154, Schreiberin im Rathaus) — dieselbe Familienlinie wie Haron. Feuert in Buch 2/3, wenn klar wird, was die Dahl-Linie ist und was Haron dort fortgesetzt oder verraten hat.
@@ -92,7 +92,7 @@ Esther, leise: Jara hat noch etwas. Bevor wir das hier lesen, will sie, dass Sie
 - Der ungenannte Ort jenseits des Portals — feuert, wenn Alphina ihn betritt und zum ersten Mal einen Namen für ihn hört.
 - Die fremde Randnotiz-Hand — Varens Hand, ungenannt. Feuert, wenn Alphina die Handschrift wiedersieht (K35+).
 - Sorels Hand am Puls — Setup für K25 und für die physische Qualität ihrer Beziehung, die in Moragh nochmal anders wird.
-- Die Vierer-Struktur (vier Resonanzen um einen Kreis) explizit gezeigt. Die 551er-Resonanzen (Pflanze, Uhrwerk, Licht, Wasser) sind nicht identisch mit Lenes Vier (Stein, Eisen, Holz + Kesper-Bilder), aber die Struktur stimmt.
+- Die Vierer-Struktur (vier Resonanzen um einen Kreis) explizit gezeigt. Die 551er-Resonanzen (Pflanze, Licht, Zeit, Wasser) sind nicht identisch mit Lenes Vier (Stein, Eisen, Luft, Holz), aber die Struktur stimmt.
 
 **Tschechow-Waffen abgefeuert:**
 - K20: Harons Symbolblatt und der Name Dahl im Register. Jetzt: das Register liefert eine zweite Dahl — Lene, vierhundert Jahre früher, Autorin des Manuskripts. Die Linie steht, und Haron ist ihr jüngstes sichtbares Glied.
@@ -156,7 +156,7 @@ Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte
 - Das Ritual-Papier in Vespers Obhut — feuert in K27+ (Übersetzungsarbeit), in K36 (Ritualpraxis).
 - Das Sprachbuch der fremden Schrift mit Harons Übersetzungs-Handschrift — feuert in K27 (Maren+Vesper Dom/Sub über Sprachübungen), in K36, und in Buch 2 als Beweis, dass Haron Verbindung zu der anderen Seite hatte.
 - Die leere Mitte im Kreis (Garten und Zeichnung) — feuert, wenn im Finale klar wird, was oder wer in die Mitte gehört.
-- Die 551er-Resonanzen (Pflanze, Uhrwerk, Licht, Wasser) als Muster-Parallele zu Lenes Vier (Stein, Eisen, Holz, Kesper-Bilder) — Checklist-Waffe für die Leserin.
+- Die 551er-Resonanzen (Pflanze, Licht, Zeit, Wasser) als Muster-Parallele zu Lenes Vier (Stein, Eisen, Luft, Holz) — Checklist-Waffe für die Leserin.
 - Sorels Schweigen über Varen-Platten — feuert in K25 Bruch (als Dauer und Umfang der Geheimnisse).
 
 **Tschechow-Waffen abgefeuert:**
@@ -193,7 +193,7 @@ Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte
 - Die Schemen, die sie bisher kennt (katzengroß, Wächter-Form) sind nicht die stärkste Form. Es kann eskalieren
 - Ein Ritual existiert (in der von Varen nachgelieferten Anleitung): vier Fremde, ein Kreis aus Purpurstein, ein Portal. Lenes Gruppe hatte diese Anleitung nicht — sie ist neu
 - Der Kreis im Ritual ist der Steinkreis im Botanischen Garten
-- Ihre eigenen vier Resonanzen (Pflanze, Uhrwerk, Licht, Wasser) entsprechen dem Vierer-Muster, das Lenes Gruppe auch hatte — nicht dieselben Materialien, aber dieselbe Struktur
+- Ihre eigenen vier Resonanzen (Pflanze, Licht, Zeit, Wasser) entsprechen dem Vierer-Muster, das Lenes Gruppe auch hatte — nicht dieselben Materialien, aber dieselbe Struktur
 - Der Ort auf der anderen Seite hat keinen Namen in Lenes Text, nur einen Begriff ("Heimat / mein Ort") im Sprachbuch. Die fremde Schrift ist lernbar; das Lehrbuch liegt vor
 - Die Schemen-Hände waren auf dem Ritual-Papier — irgendwo außerhalb, vor der Platzierung
 - Jemand hat Zugang zum verschlossenen Archiv ohne das Schloss zu brechen

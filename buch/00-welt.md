@@ -813,7 +813,7 @@ Vier Menschen kamen nach Vael:
 - **Elke van der Holt** — Bildhauerin. Resonanz: Erde/Stein. Ging durch das Portal.
 - **Keldan Rohn** — Schmied. Resonanz: Eisen/Metall. **OFFEN: Pendant-Zuordnung.** War Vespers Pendant (als Uhrmacher). Jetzt Schmied → eher Runas Pendant? Vesper braucht ggf. neues TZ-154-Pendant.
 - **Lene Dahl** — Schiffbauerin. Marens Pendant.
-- **Kesper Holm** — Maler. Sorels Pendant.
+- **Kesper Holm** — Maler. Resonanz: Luft. Sorels Pendant (lose, über den visuellen Beruf — Kespers Luft hat keine direkte Licht-Verbindung).
 
 Varen öffnete das Portal von der Moragh-Seite — einseitig, wie immer. Er wusste nicht was auf der anderen Seite war. Er wusste nur, dass zweihundert Jahre vorher Moragh-Menschen hinübergegangen waren. Er schickte drei Feuer-Schemen durch — doppelt so groß wie Menschen, gebunden an seinen Willen. In Thalassien wurden sie als Feuerdämonen verstanden. Die Vaeler griffen an. Die Schemen wehrten sich. Teile der Stadt brannten nieder. Das große Feuer.
 
@@ -828,7 +828,7 @@ Lene schrieb auf was passiert war. Varen platzierte sein eigenes "Manuskript" da
 | 1 | 80 | Elkes Ankunft in Vael. Der Purpurstein. |
 | 2 | 170 | Keldan und Elke. Erste Begegnung. Der Schmied hört das Erz singen. |
 | 3 | 260 | Lene findet den Steinkreis nachts. Spürt das Pochen. Läuft zurück. |
-| 4 | 350 | Kesper malt Elke. Das Bild zeigt etwas das er nicht gemalt hat. |
+| 4 | 350 | Kesper kommt nach Vael. Maler, Luft-Resonanz — ein Zug im Atelier, ein Windstoß der Staub aufhebt. Begegnung mit Elke. |
 | 5 | 440 | Alle vier zusammen. Die Feuer-Schemen kommen. Drei, doppelt so groß. |
 | 6 | 530 | Elke und Kesper. Nacht. Intimität. |
 | 7 | 620 | Kampf. Kesper und Keldan sterben. Elke geht durch. Lene überlebt allein. |

@@ -20,7 +20,7 @@ Kesper trug die Farbe des Tages an den Fingern — Indigo und Ocker in den Falte
 
 Falls. Das Wort blieb im Raum wie der Talggeruch der Kerze. Elkes Finger gruben sich in ihre Knie. Sie hielt fest.
 
-Sein letztes Bild: ein Hafen. Nacht. Hohlräume in den Schatten, und in den Hohlräumen Augen. Er hatte es dreimal abgekratzt. Es war dreimal wiedergekommen, jedes Mal dunkler, als drückte es sich von innen durch die Leinwand.
+Sein letztes Bild: ein Hafen. Nacht. Hohlräume in den Schatten, und in den Hohlräumen Augen. Er hatte es dreimal verworfen und neu begonnen — in seinem Kopf gab es den Hafen nur so, und er malte, was er sah, auch wenn er nicht wusste, warum er es sah.
 
 Elke legte die Hand auf seine. Die Pigmentkörner waren rau unter ihren Fingerspitzen, seine Haut warm, und unter der Wärme schlug sein Puls zu schnell für einen Mann, dessen Hände so ruhig auf den Knien lagen. Sie drückte seine Finger, kurz, fest, wie man einen Riss im Stein abklopft. Ihr Puls schlug lauter als seiner. Einen Moment lang wusste sie nicht, welcher. Ließ nicht los.
 
