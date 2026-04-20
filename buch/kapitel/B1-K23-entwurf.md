@@ -50,9 +50,9 @@ Die Pflanzenspitze richtet sich zum Licht. Langsam. Ein halber Fingerknochen in 
 
 Sorel laesst das Licht weit werden. Die Ranke steht, wo sie steht.
 
-**Einzeltest Alphina.** Er setzt sich zurueck. Sie legt drei Finger auf den Ansatz der Ranke. Kerzen brennen, aber er formt sie nicht. Sie gibt Richtung in die Pflanze — Kribbeln in den Fingerkuppen, Waerme durch die Haende, Herz unter dem Schluesselbein (Sensor-Signale im Kanal, sie kennt das aus K22 an der Werft-Pflanze). Die Energie fliesst durch sie, nicht aus ihr — so hat sie es bei Henriks Lavendel gelernt.
+**Einzeltest Alphina.** Er setzt sich zurueck. Sie legt drei Finger auf den Ansatz der Ranke. Kerzen brennen, aber er formt sie nicht. Sie gibt ihren Willen in die Pflanze — Kribbeln in den Fingerkuppen, Waerme durch die Haende, Herz unter dem Schluesselbein (Sensor-Signale im Kanal, sie kennt das aus K22 an der Werft-Pflanze, aus K19 an den Wurzeln, aus K21 an den Farnen im Lichthaus). Ihr Wille macht die Form. Das Wasser im Glas, das Holz des Untersetzers, die Luft im Zimmer — sie geben das Material.
 
-Die Ranke wachst. Ein Fingerknochen in drei Minuten, dann zwei. Deutlich schneller als Sorels Licht allein. Aber ungerichtet — Spitze nach oben, Seitenblaetter allseitig, neues Blattpaar aus der Knospe. Keine Achse.
+Die Ranke wachst. Ein Fingerknochen in drei Minuten, dann zwei. Deutlich schneller als Sorels Licht allein. Aber ungerichtet — Spitze nach oben, Seitenblaetter allseitig, neues Blattpaar aus der Knospe. Keine Achse. Der Wille hat die Form, aber ohne Lichtquelle, die sie lenken kann, streut die Form.
 
 Sie laesst die Hand sinken. Der Steckling ist spuerbar groesser als vorher.
 
@@ -64,7 +64,7 @@ Die Pflanze wachst gerichtet und schnell. Spitze streckt sich in Sorels Lichtkeg
 
 Sie loest, er loescht. Die Ranke bleibt. Handlaenge plus Fingerknochen, neue Wachstumsachse in Richtung des fruehren Lichtkegels. Veraenderung bleibt.
 
-Alphina begreift etwas, das sie nicht ausspricht: sein Licht *konkurriert* nicht mit ihrer Resonanz. Es *traegt* sie. Jeder andere Mann, dem sie diese Arbeit gezeigt haette (Henrik eingeschlossen), haette neben ihr gestanden, nicht in ihr. Sorel steht nicht neben ihr. Er steht unter ihrer Arbeit und haelt sie.
+Alphina begreift etwas, das sie nicht ausspricht: sein Licht *konkurriert* nicht mit ihrer Resonanz. Es *traegt* sie. Sein Licht ist Verstaerker, nicht Gegenspieler. Jeder andere Mann, dem sie diese Arbeit gezeigt haette (Henrik eingeschlossen), haette neben ihr gestanden, nicht in ihr. Sorel steht nicht neben ihr. Er steht unter ihrer Arbeit und haelt sie. (Dass ihre Naehe selbst ein weiterer Verstaerker sein koennte, registriert sie halb — die Kerze steht zu ruhig, ihr Puls zu laut. Sie spricht auch das nicht aus.)
 
 Beide schweigen. Beide verstehen: Im Garten (K19) haben drei Resonanzen gleichzeitig gewirkt, aber jede fuer sich. Hier ineinander. Andere Funktionsweise.
 
