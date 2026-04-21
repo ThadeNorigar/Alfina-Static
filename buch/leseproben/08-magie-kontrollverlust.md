@@ -26,7 +26,7 @@ Ihre Hand war immer noch an der Wand. Sie zog sie weg, und die Wand hielt sie fe
 
 »Halt«, sagte sie noch einmal, lauter.
 
-Der Körper hörte nicht zu. Ihre Brust zog sich zusammen, nicht vor Angst — vor etwas anderem, etwas das sie nicht benennen wollte, weil sie sonst dachte, sie könne es nicht stoppen. Sie riss die Hand weg. Die Wurzeln rissen ab. An den Enden zuckten sie noch, im Handballen, unter der Haut, und sie zogen sich nach innen zurück.
+Der Körper hörte nicht zu. Ihre Brust zog sich zusammen — nicht vor Angst. Vor einem Hunger, den sie nicht zugelassen hatte. Sie riss die Hand weg, bevor der Hunger größer wurde. Die Wurzeln rissen ab. An den Enden zuckten sie noch, im Handballen, unter der Haut, und sie zogen sich nach innen zurück.
 
 Die Ranken am Fenster wuchsen weiter.
 
