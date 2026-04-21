@@ -1,32 +1,49 @@
-# Stilregeln v2 — Erkenntnisse aus Kapitel 1
+# Stilregeln v2 — Commercial Dark Romantasy mit literary Kontrolle
 
-## Harte Limits
+> **Zuerst `00-positioning.md` lesen.** Dieses Dokument konkretisiert harte und dosierte Stilregeln innerhalb des dort definierten Rahmens. Bei Konflikten gilt das Positioning.
+
+**Ziel des Projekts:** commercial Dark Fantasy + Romantasy + BDSM (Yarros, Maas, Robert, Rampling, Simone, Kennedy) mit literary Handwerks-Disziplin (King, Bardugo, Kuang). Réage als Primär-Register nur im Vesper/Maren-BDSM-Strang. Siehe `00-positioning.md` und `01-autorin-stimme.md` Abschnitt 1.
+
+## Harte Limits (weiterhin streng)
 
 | Muster | Max pro Kapitel |
 |--------|----------------|
-| "nicht X — sondern Y" | **1.** Die Konstruktion ist ein rhetorisches Signal ("Leserin, merk auf"). Einmal pro Kapitel als Akzent. Mehr ist Predigt. |
-| "wie etwas das..." / "wie ein..." Vergleiche | **2** (verschärft April 2026, war 4). Nur wenn das Vergleichsbild konkreter ist als das Verglichene. |
-| Erklärende Nachsätze ("weil...", "nicht weil... sondern weil...") | Nur wenn Alphinas Gedankengang es BRAUCHT. Sonst: Handlung stehen lassen. |
+| "nicht X — sondern Y" (Antithese) | **1.** Rhetorisches Signal. Einmal pro Kapitel als Akzent. Mehr ist Predigt. |
+| "wie etwas das..." / "wie ein..." Vergleiche | **2.** Nur wenn das Vergleichsbild konkreter ist als das Verglichene. |
 | Deppenapostrophe (Haron's, Klaus's, Vesper's) | **0.** Deutsch: Harons Boot, Vespers Uhr. Apostroph NUR bei Namen auf s/z: "Voss' Nichte", "Edrics Werkbank." |
-| Markante Phrase wiederholt ("dreizehn Jahre", "die Routine") | 3-4 pro Kapitel. Jede an eigenem Zweck. |
-| "als hätte/wäre/könnte..." Hypothetische Konstruktionen | ~6 pro Kapitel. Bewusst einsetzen, nicht als Standardanschluss. |
-| Redundanter Nachsatz nach treffendem Wort | **0.** "Unverwechselbar, ein Geruch den man nicht verwechselte weil..." — der zweite Halbsatz ist überflüssig. Wenn das Wort den Job erledigt, keinen Nachsatz. |
+| Redundanter Nachsatz nach treffendem Wort | **0.** Wenn das Wort den Job erledigt, keinen Nachsatz. |
 | Zeitebenen pro Abschnitt (zwischen ---) | Max 2-3. Keine Rückblenden vor Spannungshöhepunkten. |
+| "Resonanz" / "Schemen" in Prosa | **0.** Canon-Begriffe, nicht Figuren-Vokabular. |
+| Vulgär-pornografische Register (*Schaft*, *Muschi*) | **0.** Réage-Klinik-Präzision stattdessen. |
+
+## Dosierte Limits (gebremst, nicht verboten)
+
+| Muster | Zielgrenze | Kommentar |
+|--------|-----------|-----------|
+| Erklärende Nachsätze ("weil...") | Dosiert | Nicht pauschal verbieten — Kausalität macht Satzbau flüssig. Wenn nicht funktional, streichen. |
+| Markante Phrase wiederholt ("dreizehn Jahre") | 3-4 pro Kapitel | Jede an eigenem Zweck. |
+| "als hätte/wäre/könnte..." Hypothetische | ~6 pro Kapitel | Bewusst, nicht als Standardanschluss. |
+| Puls als Begehren-Marker | max 1-2× | Klischee-Warnung; nur wenn er konkret trägt |
+| Berufslinse-Anteil pro POV | 15-20% | Aktiv tragen, nicht reservieren |
+| Chemikalien-Namen (Pyrogallol/Fixiersalz) | max 1-2× pro Kapitel | Einführung reicht, dann Oberbegriff |
+| Mikromaße bei Alphina (Fingerknochen, Atemzüge) | 0 | Keine Uhrmacher-Präzision; normale Zeit-Marker ok |
 
 ## Rhythmus
 
 - Bandwurm-Sätze brauchen kurze Sätze als Gegenpol. Nie zwei Bandwürmer hintereinander.
 - Mindestens 1x pro Kapitel: ein Gedanke der ZERFÄLLT, mitten im Satz, ohne sauberen Abschluss.
 
-### Stakkato-Verbot
+### Stakkato-Dosierung
 
-**Stakkato ist KEIN Standardwerkzeug.** Einwortsätze und Fragmentketten ("Kalt. Dunkel. Stein.") sind ein anstrengendes Stilmittel das die Leserin ermüdet. Sie dürfen NUR in folgenden Situationen eingesetzt werden:
+**Stakkato ist ein Tempo-Werkzeug, nicht die Tapete.** Einwortsätze und Fragmentketten ermüden, wenn sie dauerhaft auftreten. Aber commercial Dark Romantasy nutzt sie **aktiv für Heat, Schock, Eskalation, Hammer-Schlag**.
 
-- **Schock/Panik:** Die Figur steht unter akutem Druck. Syntax bricht. Kurz, unkontrolliert.
-- **Aufzählung als Inventur:** Die Figur prüft, zählt, katalogisiert (Vesper am Uhrwerk, Alphina zählt Farne).
-- **Ein einzelner Hammerschlag:** EIN Einwortsatz nach einem langen Absatz. Nicht drei. Nicht fünf. Einer.
+Einsatzfelder:
+- **Schock/Panik:** Figur steht unter akutem Druck. Syntax bricht.
+- **Heat/Kontrollverlust:** Körper übernimmt, Kopf geht aus. Fragmentsätze zeigen den Bruch.
+- **Aufzählung als Inventur:** Figur prüft, zählt, katalogisiert.
+- **Hammerschlag:** EIN Einwortsatz nach einem langen Absatz als Akzent.
 
-**Max pro Kapitel:** 2-3 Stakkato-Passagen (je max 3 Fragmentsätze in Folge). Darüber hinaus: normale Sätze schreiben. Kurze Sätze (10-15W) sind KEIN Stakkato — sie sind gute Prosa.
+**Max pro Kapitel:** 4-5 Stakkato-Passagen (je max 3 Fragmentsätze in Folge). Darüber hinaus: normale Sätze. Kurze Sätze (10-15W) sind KEIN Stakkato — sie sind gute Prosa.
 
 ## Erklärungen
 
@@ -281,9 +298,10 @@ Drei Register, definiert über Satzlänge:
 
 **Pflicht:** Min. 2 Register pro Kapitel (messbar über Satzlängen-Verteilung). Ein Kapitel das nur in LANGSAM geschrieben ist, hat keinen Rhythmus.
 
-**Der /stil-check prüft:**
-- Anteil Mittelbau-Sätze (10-20W) muss >20% sein
+**Der /stil-check prüft (angepasst April 2026):**
+- Anteil Mittelbau-Sätze (10-20W) soll >25% sein
 - Wenn <15%: FINDING (Register-Monotonie)
+- KURZ (1-10W) bis zu 55% ok, darüber: Stakkato-Warnung (außer in Heat-/Schock-Szenen)
 - Satzlängen-Histogramm als Diagnose-Tool im Bericht
 
 ## Kontrollverlust-Momente (Council April 2026)

@@ -1,5 +1,7 @@
 # Der Riss — Gesamtstoryline (Trilogie)
 
+> **Ton und Positionierung:** siehe `00-positioning.md` — commercial Dark Fantasy/Romantasy/BDSM für weibliche Leserinnen 20–45. Plot-Beats in diesem Dokument sind immer unter der Genre-Linse des Positionings zu lesen.
+
 ## Prämisse
 
 Zwei Welten. Ein Riss.

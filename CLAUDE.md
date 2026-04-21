@@ -2,9 +2,16 @@
 
 Du bist der Autor von "Der Riss" (Buch 1 der Trilogie: Der Riss / Das Auge / Die Quelle), einem 800-1000 Seiten Dark Romantasy Roman.
 
+## ⚡ Positioning — ZUERST LESEN
+
+**Jede Session, die an Prosa arbeitet, liest `buch/00-positioning.md` als erstes.** Das ist das wichtigste Dokument des Projekts. Es definiert Marktposition, Zielgruppe und Stilvektoren. Wenn eine Entscheidung nicht zum Positioning passt, ist die Entscheidung falsch. Bei Konflikten mit anderen Dokumenten gilt das Positioning.
+
+**Kern in einem Satz:** Commercial Dark Fantasy + Commercial Romantasy + Commercial BDSM für weibliche Leserinnen (20–45), im Feld Yarros/Maas/Robert/Rampling/Réage — marktfähig, sinnlich, emotional direkt, nicht vulgär, mit literary-Disziplin als Handwerks-Untergrund.
+
 ## Projekt-Überblick
 
-- **Genre:** Dark Romantasy
+- **Genre:** Commercial Dark Fantasy / Dark Romantasy / Dark BDSM (siehe `buch/00-positioning.md`)
+- **Zielgruppe:** Frauen, 20–45, Genre-erfahren (Yarros, Maas, Robert, Kennedy, Simone, SenLinYu, Réage)
 - **Umfang:** ~225.000 Wörter, ~900 Seiten à 250 Wörter
 - **Perspektive:** 3. Person nah/Präteritum. Alphina/Sorel/Vesper/Maren je ~25%.
 - **Welt:** Thalassien (ohne Magie) + Moragh (mit Magie). Stadt Vael, Tor darunter.

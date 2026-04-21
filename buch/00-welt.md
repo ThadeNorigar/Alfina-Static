@@ -1,5 +1,7 @@
 # Die Welt von Vael — und die Welt dahinter
 
+> **Ton und Genre:** siehe `00-positioning.md`. Welt-Elemente werden unter der Genre-Linse des Positionings erzählt (commercial Dark Fantasy/Romantasy/BDSM).
+
 ## Grundprinzip
 
 Zwei Welten. Ein Riss.

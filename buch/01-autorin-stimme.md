@@ -1,10 +1,20 @@
 # Die Stimme — Autorin-Profil für „Der Riss"
 
+> **Zuerst `00-positioning.md` lesen.** Dieses Dokument ist nachgeordnet und konkretisiert nur, was dort als Marktposition und Stilvektor-Rahmen definiert ist. Bei Konflikten gilt das Positioning.
+
 ## 1. Leitprinzip
 
-**Konkretheit vor Bild.** King-Erzähldichte (radikale Spezifität, mundane Details die später feuern) + Bardugo-POV-Signatur (Tempo, Einzeldetails) + Körperlichkeit in Action/Intimität (Yarros, Reisz). Die Prosa ist das Fenster — man sieht hindurch, das Glas hat Textur, aber die Textur ist **Material**, nicht Metapher. 3. Person nah/Präteritum, erlebte Rede als Default. Der Narrator klebt an der Figur, sieht nur was sie sieht, denkt nur was sie denkt. Keine Distanz, kein Kommentar, kein Wissen von außen. Wenn Alphina den Raum betritt, riecht sie ihn bevor sie ihn beschreibt — und sie riecht **Kalkstein, nicht "die Kälte des Steins"**.
+**Commercial Dark Romantasy mit literary Kontrolle.** Ziel ist ein marktfähiger Dark-Romantasy-Roman im Feld von Yarros, Maas, Robert, Simone, Kennedy — körperlich spürbar, emotional direkt, mit Heat wo er hingehört — aber diszipliniert durch literary-Handwerk (King-Dichte, Bardugo-POV, Kuang-Stoff-Disziplin). Die Prosa ist **zugänglich und sinnlich, nicht literary-zurückhaltend**. 3. Person nah/Präteritum, erlebte Rede als Default. Der Narrator klebt an der Figur, sieht nur was sie sieht, denkt nur was sie denkt.
 
-**Verschlankung April 2026:** Das breite Autoren-Medley (SenLinYu-Yearning, Gibson-Lyrik, Simone-fremde-Register, Black-verfremdete-Verben) hat zu verkünstelter Prosa geführt. Diese Referenzen sind gestrichen. Die neue Konkretheits-Referenz steht in `01-referenz-konkretheit.md` — eine Dark-Fantasy-Autorin, die Dinge mit Material benennt, Körperbeats vor Dialog stellt, Vorfeld-Inversion gegen Subjekt-Monotonie einsetzt und Sinnes-Trias in 3er-Takt liefert.
+**Konkretheit bleibt** — Alphina riecht **Kalkstein, nicht "die Kälte des Steins"** — aber Konkretheit bedeutet nicht Kargheit. Commercial Dark Romantasy hat sinnliche Dichte, körperliche Masse und emotionale Höhen, die in literary-disziplinierter Prosa nur dezent auftauchen würden.
+
+**Zwei Register-Ebenen je nach Szene:**
+- **Alltags- und Plot-Szenen:** literary-dichter Ton (K16–K18 als Handwerks-Referenz), Material sparsam, POV diszipliniert.
+- **Begehren-/Nähe-/Sex-Szenen:** commercial Dark Romantasy, Heat spürbar, Körper drängt, emotionale Direktheit. Für Vesper/Maren-BDSM: **Réage (Histoire d'O, 1954)** als Primärmodell — Material-Präzision, direkte Anatomie, Paradox-Kern.
+
+**Nicht vulgär.** Commercial heißt nicht Pornografie. Anatomie direkt benennen (Brüste, Schenkel, Kehle, Schoß, Hüften, Glied, Zunge), keine Euphemismen, keine Pornografie-Platzhalter (*"Schaft"*, *"Muschi"*). Réage-Klinik-Präzision.
+
+**Historie:** Das breite Autoren-Medley (SenLinYu-Yearning, Gibson-Lyrik, Simone-fremde-Register, Black-verfremdete-Verben) ist gestrichen. SenLinYu (`01-referenz-konkretheit.md`) bleibt als Handwerks-Referenz für Satzbau und Material-Erstnennung, **nicht als Ton-Modell für Nähe-Szenen** — ihr Alchemised-Stil ist zu literary für unseren commercial Kern.
 
 ## 2. Die drei Register
 
@@ -76,23 +86,37 @@ Das Begehren-Vokabular muss so differenziert sein wie die Berufslinsen:
 
 **Die Grauwe:** Salz, aber nicht Meer-Salz. Etwas Fremdes. Brackig und warm, wo es kalt sein sollte.
 
-## 7. Anti-Patterns: Default Deny
+## 7. Anti-Patterns: Commercial-Disziplin statt Default Deny
 
-Folgende Stilmittel sind DEFAULT VERBOTEN. Einsatz nur nach bewusster Entscheidung mit Begründung:
+Früher war hier eine strenge Default-Deny-Tabelle. Für commercial Dark Romantasy ist sie **zu restriktiv** und hat zu literary-kühler Prosa geführt. Neue Regelung: **harte Verbote bleiben hart**, alles andere wird **gebremst, nicht verboten**.
 
-| Stilmittel | Default | Erlaubt wenn |
+### Harte Verbote (weiterhin 0/Kapitel)
+| Stilmittel | Default | Begründung |
 |---|---|---|
-| Stakkato (Fragmentsätze <4W) | VERBOTEN | Schock, Inventur, einzelner Hammerschlag |
-| Erklärende Nachsätze | VERBOTEN | Gedankengang der Figur braucht es als Erkenntnis |
-| Metapher + Erklärung | VERBOTEN | NIE. Bild stehen lassen. |
-| Emotionen benennen (Narrator-Tag von außen) | VERBOTEN | NIE. Körper zeigen. |
-| Emotionen benennen (Figuren-Selbsterkenntnis) | ERLAUBT | Wenn die Figur selbst das Gefühl erkennt — IMMER gekoppelt mit Körper-Markern aus ihrem POV-Register |
-| Analyse in Kontrollverlust-Momenten | VERBOTEN | Die Figur darf nicht denken wenn der Körper übernimmt |
-| Tempo-Monotonie (nur 1 Register) | VERBOTEN | NIE. Min. 2 Register pro Kapitel |
-| Begehren nur über Puls/Handgelenke | VERBOTEN | Breiteres POV-spezifisches Register verwenden |
-| Geschmack fehlt in Nähe-Szene | VERBOTEN | NIE in Szenen mit körperlicher Nähe |
-| „sie dachte" / „er fragte sich" | VERBOTEN | NIE. Erlebte Rede. |
-| Adverb-Tags | VERBOTEN | NIE. |
+| „sie dachte" / „er fragte sich" / „sie überlegte" | **VERBOTEN** | Erlebte Rede ist Default im Deep POV. Denk-Tags sind überflüssig. |
+| Adverb-Tags (*sagte wütend/dominant/kalt*) | **VERBOTEN** | Emotion im Adverb = gescheiterte Szene. Körper zeigen. |
+| Metapher + Erklär-Nachsatz (semantische Doppelung) | **VERBOTEN** | Bild stehen lassen. |
+| Emotionen benennen im Narrator-Register (*"sie war traurig"*) | **VERBOTEN** | Körper zeigen. Figuren-Selbsterkenntnis mit Körper-Marker erlaubt (max 2/Kap). |
+| Analyse in Kontrollverlust-Momenten | **VERBOTEN** | Der Körper übernimmt, der Kopf geht aus. |
+| Geschmack fehlt in Nähe-Szene | **VERBOTEN** | Réage-Pflicht. |
+| „Resonanz" / „Schemen" in Prosa | **VERBOTEN** | Canon-Begriffe, nicht Figuren-Vokabular. |
+| Vulgär-Pornografische Register (*Schaft*, *Muschi*) | **VERBOTEN** | Réage-Klinik-Präzision stattdessen. |
+
+### Gebremst, aber nicht verboten
+| Stilmittel | Zielgrenze | Einsatz |
+|---|---|---|
+| Stakkato (Fragmente <4W) | Nicht als Tapete | Schock, Tempo-Akzent, Hammerschlag. Commercial darf Stakkato als Rhythmus-Werkzeug nutzen. |
+| Erklärende Nachsätze („weil...") | Ok wenn funktional | Nicht mechanisch gegen jeden verbieten. Kausalität macht Satzbau flüssig. |
+| Kursive Gedanken | ~10 pro Kapitel | Commercial Dark Romantasy nutzt direkte kursive Gedanken häufiger als literary Referenz. |
+| Puls als Begehren-Marker | Vermeiden, nicht verboten | Klischee-Warnung, aber wenn der Puls trägt, darf er vorkommen. |
+| Berufslinse-Anteil pro POV | 15–20% | Figur darf ihre Linse aktiv tragen, nicht nur reservieren. |
+| Materialdichte | Dosiert, nicht pauschal niedrig | In Atmosphäre-Szenen darf dicht sein. Chemikalien max 1–2× pro Kapitel bleibt. |
+| Mikromaße bei Alphina | Keine Uhrmacher-Präzision | Zeit-Marker wie "einen halben Zoll" / "eine Weile" ok, keine "Fingerknochen in drei Minuten". |
+| Salz/Metall auf Lippen | Marens Canon | Bei Alphina/Sorel/Vesper nicht. |
+| Anaphern-Kaskade | Max 3 in Folge | (früher 2) Commercial nutzt Anapher als emotionale Eskalation. |
+| Doppelpunkt-Pointe | Max 2–3/Kap | (früher 2) Commercial: gern für Beat-Setzung. |
+
+**Prinzip:** Die harten Verbote schützen POV-Disziplin und Canon-Treue. Die Bremsen verhindern Inflation, blockieren aber nicht den commercial Ton.
 
 ## 8. Anti-Patterns beim Schreiben (Autorin-Durchgang April 2026, ~200 Findings über 8 Kapitel)
 
@@ -167,18 +191,46 @@ Der häufigste Stilfehler des Projekts. Bilder werden auf Abstrakta aufgebaut, A
 
 **Fix-Richtung:** Ding vor Bild. Material benennen (Kupfer, Kalk, Leinen, Messing). Körperteil als Subjekt statt Gefühl. Bild nur auf schon benanntem Gegenstand. Max 1 Abstraktum pro Absatz. Siehe `01-referenz-konkretheit.md`.
 
-## 9. Referenz-Autorinnen (gestrafft April 2026)
+## 9. Referenz-Autorinnen (neu gewichtet April 2026)
 
-Die Stimme von „Der Riss" war früher ein breites Medley (King/Gibson/SenLinYu/Simone/Yarros/Douglas/Black/Bardugo/Kuang/Schwab). Das hat zu verkünstelter Prosa geführt — zu viele Zielrichtungen, Bilder die sich stapeln, Abstrakta als Ersatz für Dinge. Das Medley ist aufgeteilt in **Kern** (alle Szenen) und **BDSM-/Nähe-Zusatz-Register** (nur intime Szenen).
+Die Stimme von „Der Riss" ist zweischichtig: **commercial Dark Romantasy als Ton**, **literary Handwerk als Disziplin**. Die Referenzen teilen sich entsprechend.
 
-### Kern-Referenzen (alle Szenen)
+### Primär-Ton (Commercial Dark Romantasy)
 
-- **King:** Erzähldichte, mundane Details, das Unwichtige das wichtig wird.
-- **Bardugo (Six of Crows):** POV-Differenzierung, Tempo-Wechsel, Atmosphäre durch benannte Einzeldetails.
-- **Yarros (Fourth Wing):** Körper in Action/Intimität — kein Kopf-Kommentar wenn der Körper übernimmt.
-- **Kuang (Babel):** Stil folgt Stoff — sparsam, keine Gewalts-Akkumulation als Selbstzweck.
+- **Rebecca Yarros (Fourth Wing):** Körper in Action und Intimität, direktes Begehren, Enemies-to-Lovers-Heat. **Wo der Körper übernimmt, spricht er zuerst.** Für Alphina/Sorel-Nähe-Register.
+- **Sarah J. Maas (ACOTAR, Throne of Glass):** sinnliche Dichte, Mate-Bond-Intensität, emotionale Höhen und Tiefen, atmosphärische Räume. **Heat mit Atmosphäre.**
+- **Katee Robert (Dark Olympus, Neon Gods):** Dark Romance mit mythologischem Anker, Frauen-Agency, Sex breit und direkt ohne Pornografie.
+- **Sierra Simone (Priest):** geerdet in Material (Wachs, Samt, Stein, Wein), religiös-sinnlicher Kontrast. Bildlastig, aber mit Ding-Boden. **Nicht** ihre fremde-Register-Technik fürs Innenleben.
+- **Raven Kennedy (Plated Prisoner):** Ein-Ding-Leitmetapher über Serie (Gold), Eskalation, melodramatisch-lyrisch.
 
-**Ergänzt durch:** `01-referenz-konkretheit.md` — Konkretheits-Kanon. Material-Erstnennung, Körperbeat-Dialog, Vorfeld-Inversion, Sinnes-3er-Takt, Körper-als-Subjekt.
+### Literary-Disziplin (Handwerks-Kontrolle)
+
+- **Stephen King:** Erzähldichte, mundane Details, Tschechow.
+- **Leigh Bardugo (Six of Crows):** POV-Differenzierung, Tempo-Wechsel, benannte Einzeldetails.
+- **R. F. Kuang (Babel):** Stil folgt Stoff, sparsam, keine Akkumulation als Selbstzweck.
+- **Toni Morrison (Beloved):** Erinnerung im Strom, erlebte Rede ohne Marker.
+
+### BDSM-Register (nur Vesper/Maren-Strang, explizite Szenen)
+
+- **Pauline Réage (Histoire d'O, 1954) — PRIMÄR:** Material-Präzision (jedes Utensil mit Dicke/Mechanismus/Funktion), direkte Anatomie, Dom-Stimme als erklärte Funktion, Ein-Ding-Symbol, Körper vor Kopf, Paradox-Kern (Liebe + Erniedrigung), Kleidungs-Material als Spannungs-Rahmen. **Aktivieren sich nur in expliziten BDSM-Szenen**, nicht in Alltagsszenen.
+- **Tiffany Reisz (Original Sinners):** Dom-Figuren mit innerem Leben, Submission als Entscheidung.
+
+### Gestrichen (zu viel Drift in Abstraktion)
+
+- **SenLinYu (Alchemised):** als Ton-Modell für Nähe-Szenen gestrichen. Bleibt als **Handwerks-Referenz für Satzbau, Material-Erstnennung, Vorfeld-Inversion** (`01-referenz-konkretheit.md`) — nicht als Stimmungs-Vorbild.
+- **William Gibson, Holly Black, Victoria Schwab:** Lyrik-/Farb-/Verb-Register sind gestrichen.
+
+### Anwendung pro Szene
+
+| Szenen-Typ | Primärer Ton | Zusatz-Register |
+|------------|--------------|-----------------|
+| Alltag, Plot, Dialog | Bardugo-POV + King-Dichte | — |
+| Atmosphäre, Magie | Maas-Sinnlichkeit + Simone-Material | — |
+| Nähe Alphina/Sorel | Yarros-Heat | Körper vor Kopf |
+| Sex Alphina/Sorel (nicht BDSM) | Yarros + Maas | Anatomie direkt, kein BDSM-Register |
+| Nähe/Sub Maren/Vesper | Réage + Reisz | Submission als innerer Prozess |
+| BDSM-Szene Maren/Vesper explizit | **Réage primär** | Kleidungs-Rahmen, Material-Präzision, Dom-Funktion erklärt |
+| Dark-Fantasy-Gefahr | Black (Spannung, keine Explizitheit) + Maas (atmosphärisch) | Bardugo-Tempo |
 
 ### BDSM-/Nähe-Zusatz-Register (nur intime Szenen)
 
@@ -254,3 +306,45 @@ Eine Szene mit vier Figuren ist kein Bericht über vier Standpunkte. Sie ist ein
 | Sorel | Sätze die in der Mitte abbrechen. Er beobachtet lieber als zu reden. |
 | Vesper | Imperative. Knappe Benennungen. Fragen die keine Antwort brauchen. |
 | Maren | Analoge aus der See. Wenn sie still ist, bedeutet es mehr als wenn sie spricht. |
+
+## 11. Heat-Level pro Szene (April 2026)
+
+**Nicht jedes Kapitel hat Nähe.** Heat-Level wird **nur pro Kapitel explizit gesetzt**, wenn eine Nähe-/Erotik-/Sex-Szene vorkommt. In Alltags-, Plot-, Kampf-, Dialog-Kapiteln **kein Heat-Feld nötig** — da gilt der literary-disziplinierte Standard-Ton.
+
+### Heat-Level (nur bei Kapiteln mit Nähe)
+
+| Level | Einsatz | Beispiele |
+|-------|---------|-----------|
+| **keine** | Kapitel ohne Nähe | Alltag, Plot, Kampf, Archiv, Dialog |
+| **leise** | Blickwechsel, Wärme ohne Berührung | Begehren angedeutet, Körper-Beats dezent |
+| **commercial** | Kuss, Körper-Masse, Heat spürbar | Yarros-/Maas-Ton, nicht explizit |
+| **explizit (nicht BDSM)** | Sex auf der Seite, Alphina/Sorel | Yarros + Réage-Anatomie, kein Power-Exchange |
+| **explizit BDSM** | Sex auf der Seite, Vesper/Maren | Réage primär, Dom-Stimme, Kleidungs-Rahmen, Material-Präzision |
+
+### Entscheidung Ausblende vs. auf der Seite
+
+**Ausblende ist bewusste Entscheidung**, keine Default-Lösung. Handoff markiert: *„Sex auf der Seite"* oder *„Ausblende vor Akt — warum?"*
+
+Ausblende legitim bei:
+- Erstmaligem Sex als emotionalem Kippmoment (Canon: K23)
+- Wenn der Folge-Akt im nächsten Kapitel breiter entfaltet wird
+- Wenn das Kapitel-Ende als Tschechow-Bild (veränderte Ranke) mehr trägt als der Akt
+
+Sex auf der Seite ist Default bei:
+- Allen Folge-Akten nach dem ersten Mal
+- Allen Vesper/Maren-BDSM-Szenen (Réage-explizit)
+- Jedem Akt, der plotbildend wirkt (Schwangerschaft, Wachstum-Bruch, Magie-Kopplung)
+
+### Heat-Vokabular
+
+**Commercial, nicht pornografisch:**
+- Anatomie direkt benennen (Brüste, Schenkel, Kehle, Schoß, Hüften, Glied, Zunge)
+- Keine Euphemismen (*Weiblichkeit*, *Lenden*)
+- Keine Pornografie-Platzhalter (*Schaft*, *Muschi*)
+- Réage-Klinik-Präzision ist stärker als beides
+
+**Körper vor Kopf:**
+- Figur reagiert körperlich, bemerkt erst danach
+- Gedanke bricht ab, Satz endet nicht, Fragment
+- In Alphina/Sorel-Sex: ohne BDSM-Register
+- In Vesper/Maren-BDSM: Réage-Power-Exchange aktiv
