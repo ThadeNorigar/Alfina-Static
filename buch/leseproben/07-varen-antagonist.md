@@ -12,7 +12,7 @@ canon_status: Ton-Etüde. Spielt in B2 nach Alphinas Gefangennahme, vor dem Seit
 
 Sie wollte ihn nicht ansehen, und er stand mitten im Zimmer.
 
-Alphina saß am Fenster. Der Strang Farn auf dem Sims war gelb an den Spitzen; sie wusste nicht, ob das das Moragh-Licht war oder das Wasser. Sie hatte ihn seit drei Tagen nicht gegossen. Sie hatte es mit Absicht nicht getan.
+Alphina saß am Fenster. Der Strang Farn auf dem Sims war gelb an den Spitzen. Sie hatte ihn nicht gegossen. Drei Tage jetzt. Die Kanne stand zwei Schritte weiter, voll.
 
 »Liebe Alphina«, sagte Varen, »du sitzt hier sehr still.«
 
