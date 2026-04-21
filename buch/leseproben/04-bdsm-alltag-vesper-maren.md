@@ -7,7 +7,7 @@ heat_level: leise (Power-Exchange)
 primaer_referenz: Reisz (Original Sinners) — Power-Dynamik im Alltag, Submission als Entscheidung
 ergaenzende_referenz: Réage (Histoire d'O) — Dom-Stimme als Funktion, Kleidungs-Material als Spannungs-Rahmen
 zweck: Ton-Referenz für Maren/Vesper-Alltag mit aktivem Power-Exchange. Kein Set-Piece, keine Szene. Dom-Befehl bekommt Raum im Alltag, Sub folgt aus Wollen, Material (Mieder, Fischbeinleisten, Ösen, Schnürbänder) trägt die Dynamik. Physisch-räumlich vollständig konsistent nachgezogen — jede Kleidungs-Schicht benannt, jede Position eindeutig.
-canon_status: Ton-Etüde. Morgen im Karst-Zimmer. Nicht Plot-Canon. Dritte Version nach Autor-Feedback — Mieder-Position eindeutig (am Körper, nicht "über Schulter"), Befehl klar ("Komm her. Rücken zu mir. Knie."), Meta-Gloss raus.
+canon_status: Ton-Etüde. Morgen im Karst-Zimmer. Nicht Plot-Canon. Vierte Version nach Autor-Feedback — abgebrochenes Ende rekonstruiert mit Gefühls-Wirkung (sein "Gut" landet in Marens Kehle, Knoten zwischen Schulterblättern als Tag-über-Anker), verbliebener Meta-Gloss Z.37 gestrichen ("das war nicht das Ziel..."), Subjekt-Ambiguität Z.25 ("Heute protestierte er nicht" → "An diesem Morgen nicht") behoben. v3 hatte Mieder-Position, Befehl-Klarheit, Erst-Meta-Gloss-Runde.
 ---
 
 Maren stand halb angezogen vor dem Spiegel. Das Hemd lang bis zu den Waden, der Unterrock darüber, das Mieder obenauf — vorn hatte sie die Haken selbst eingehängt, hinten hingen die Schnürbänder lose an ihrer Taille herunter. Sie hätte sich allein zuziehen können, schlecht, mit verbogenem Arm. Sie tat es nicht. Sie wartete.
@@ -22,7 +22,7 @@ Der erste Zug war leicht. Nur die unterste Schnürung, dort, wo die Fischbeinlei
 
 »Atme aus.«
 
-Sie atmete aus. Er zog die nächsten Ösen. Zug für Zug, von unten nach oben, ohne zu reden, ohne zu fragen. Unter dem Stoff fand ihr Körper die Enge — dieselbe Enge, gegen die er jeden Morgen protestierte, wenn sie sie allein zurrte. Heute protestierte er nicht. Vespers Hände gaben den Takt vor, und was seine Hände vorgaben, stimmte.
+Sie atmete aus. Er zog die nächsten Ösen. Zug für Zug, von unten nach oben, ohne zu reden, ohne zu fragen. Unter dem Stoff fand ihr Körper die Enge — dieselbe Enge, gegen die er jeden Morgen protestierte, wenn sie sie allein zurrte. An diesem Morgen nicht. Vespers Hände gaben den Takt vor, und was seine Hände vorgaben, stimmte.
 
 Bei der dritten Öse hielt er an.
 
@@ -34,7 +34,7 @@ Bei der dritten Öse hielt er an.
 
 »Ja.«
 
-Er zog weiter. Bei der vorletzten Öse spürte sie, dass er kurz überlegte — wie fest, ob noch. Er entschied. Zog. Band den Knoten in einer Art, die sie mit einer Hand später nicht würde öffnen können; das war nicht das Ziel. Das Ziel war, dass sie den Tag über daran dachte.
+Er zog weiter. Bei der vorletzten Öse spürte sie, dass er kurz überlegte — wie fest, ob noch. Er entschied. Zog. Band den Knoten in einer Art, die sie mit einer Hand später nicht würde öffnen können.
 
 »Steh auf.«
 
@@ -46,14 +46,6 @@ Sie zeigte. Er musterte sie — nicht bewertend, kontrollierend. Hob den Finger 
 
 »Gut.«
 
-Das Wort saß anders als die Befehle. Sie spürte es am Nacken, wie eine Hand, die nicht dort war.
+Das Wort saß tiefer in ihrer Kehle, als sie es sich zugestanden hätte. Zwischen den Schulterblättern spürte sie den Knoten, hart und klein und wach. Sie würde ihn den Tag über dort haben.
 
-»Rock und Weste drüber. Dann Frühstück. Ich komme um drei zurück.«
-
-»Ja.«
-
-Sie ging zum Stuhl, wo ihre Kleider hingen. Den Rock zog sie über den Unterrock, die Haken an der Seite machte sie selbst. Dann die Weste. Ihre Finger funktionierten. Das Mieder zwang den Atem oben, und das war nicht unangenehm — es war ein Körper, an dem gearbeitet worden war, und der jetzt den Tag hielt.
-
-Der Knoten, den sie seit gestern Abend unter den Rippen gehabt hatte — der saß jetzt in ihrem Mieder, hinten, wo sie ihn nicht erreichen konnte.
-
-Das war genau richtig.
+Sie drehte sich, griff nach dem Rock über der Lehne und zog ihn an. Das Mieder hielt den Oberkörper gerade, die Schultern hinten, den Atem höher. Er blieb sitzen und sah ihr zu.

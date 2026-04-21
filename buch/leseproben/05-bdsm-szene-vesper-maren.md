@@ -26,7 +26,7 @@ Er trat vor sie, nahm das Band vom Nachttisch, faltete es aus. Es lief durch sei
 
 »Ich binde dir die Augen zu«, sagte er, »damit du mir nicht ausweichen kannst. Das ist nicht Bestrafung. Das ist, damit du hören musst.«
 
-Das war Réage. Das wusste sie nicht; sie wusste nur, dass er ihr erklärte, warum er tat, was er tat, und dass diese Erklärung sie lockerer machte, nicht fester.
+Sie wusste nur, dass er ihr erklärte, warum er tat, was er tat, und dass diese Erklärung sie lockerer machte, nicht fester.
 
 »Ja«, sagte sie.
 
@@ -66,4 +66,4 @@ Er strich mit dem Finger am Messing entlang. Kühler Kreis, einmal. Sie hörte i
 
 »Gut.«
 
-Und dann war seine Hand unten, und sie vergaß die Frage und den Ring und den Tangwald, und ihr Körper tat, was er schon die ganze Zeit hatte tun wollen — sich öffnen, nach hinten kippen, ihm entgegenkommen — und er sagte etwas Leises, das sie nicht verstand, und das war auch nicht nötig.
+Und dann war seine Hand unten, und sie vergaß die Frage und den Ring und den Tangwald, und ihr Körper tat, was er schon die ganze Zeit hatte tun wollen: den Rücken durchgedrückt, die Knie auseinander, die Hüften nach hinten gegen seine Hand. Er sagte etwas Leises, das sie nicht verstand, und das war auch nicht nötig.
