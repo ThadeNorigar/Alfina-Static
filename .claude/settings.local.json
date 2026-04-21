@@ -8,17 +8,13 @@
       "mcp__plugin_playwright_playwright__browser_run_code",
       "Skill(update-config)",
       "Bash(mv /c/Users/micro/.claude/commands/model.md /c/Users/micro/.claude/commands/model-django.md)",
-      "Bash(mv /c/Users/micro/.claude/command-sets/django/model.md /c/Users/micro/.claude/command-sets/django/model-django.md)"
+      "Bash(mv /c/Users/micro/.claude/command-sets/django/model.md /c/Users/micro/.claude/command-sets/django/model-django.md)",
+      "mcp__nano-banana__edit_image",
+      "mcp__nano-banana__continue_editing",
+      "mcp__nano-banana__generate_image",
+      "Bash(cp \"/c/Users/micro/.claude/image-cache/04078d41-4b64-49c1-8a1a-ef39144491a1/5.png\" \"/c/Users/micro/StudioProjects/Alphina-Static/img/figuren/runa.png\")",
+      "Bash(cp \"C:\\\\Users\\\\micro\\\\Documents\\\\nano-banana-images\\\\generated-2026-04-19T15-02-16-595Z-yzq2hb.png\" \"/c/Users/micro/StudioProjects/Alphina-Static/img/maren-werft.png\")"
     ]
-  },
-  "enabledPlugins": {
-    "pyright-lsp@claude-plugins-official": false,
-    "security-guidance@claude-plugins-official": false,
-    "playwright@claude-plugins-official": false,
-    "frontend-design@claude-plugins-official": false,
-    "superpowers@claude-plugins-official": false,
-    "beads@beads-marketplace": false,
-    "github@claude-plugins-official": false
   },
   "disabledMcpjsonServers": [
     "pencil",
@@ -27,5 +23,14 @@
     "claude_ai_Google_Calendar",
     "claude_ai_Hugging_Face"
   ],
-  "hooks": {}
+  "hooks": {},
+  "enabledPlugins": {
+    "pyright-lsp@claude-plugins-official": false,
+    "security-guidance@claude-plugins-official": false,
+    "playwright@claude-plugins-official": false,
+    "frontend-design@claude-plugins-official": false,
+    "superpowers@claude-plugins-official": false,
+    "beads@beads-marketplace": false,
+    "github@claude-plugins-official": false
+  }
 }

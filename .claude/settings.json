@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /c/Users/micro/StudioProjects/Alphina-Static/.claude/hooks/kapitel-check.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
