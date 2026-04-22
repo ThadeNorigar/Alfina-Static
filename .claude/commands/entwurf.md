@@ -57,13 +57,15 @@ Pruefen ob `buch/kapitel/B1-K12-handoff.md` existiert.
 python scripts/kapitel-kontext.py {ID} --phase entwurf
 ```
 
-Das Script liefert auf stdout (~3k Tokens): Kapitel-Info, Nachbar-Kapitel, Zeitleisten-Events bis hierher, offene Tschechow-Waffen, Aktplan-Snippet, Wissensstand der POV-Figur, Begegnungen, Wohnorte. **Diesen Output als Haupt-Kontext verwenden.**
+Das Script liefert auf stdout (~3-4k Tokens): Kapitel-Info, Nachbar-Kapitel, Zeitleisten-Events bis hierher, offene Tschechow-Waffen, Aktplan-Snippet, **Empfohlene Leseproben** (Ton-Referenzen mit POV/Figuren-Score), **Vorgaenger-Kapitel mit Figuren-Ueberlappung** (letzte 2 Kapitel mit gemeinsamen Figuren, inkl. Pfadhinweis), Wissensstand der POV-Figur, Begegnungen, Wohnorte. **Diesen Output als Haupt-Kontext verwenden.**
 
 **Schritt 2: Zusaetzlich mit Read laden (parallel):**
 
 1. **`buch/00-positioning.md` ZUERST** (~800 W — Marktposition, Zielgruppe, Stilvektoren). Jede Plot-Entscheidung muss an diesem Positioning gemessen werden. Bei Konflikt mit anderen Docs gilt Positioning.
 2. `buch/00-canon-kompakt.md` (~800 W — Welt/Figuren/Magie auf einen Blick)
 3. `buch/pov/{figur}.md` — POV-Dossier der Ziel-Figur (POV aus dem Kontext-Output ablesen)
+4. **Top-1 bis Top-2 der empfohlenen Leseproben volle lesen** (aus dem Abschnitt „Empfohlene Leseproben" des Extraktors, „Primaer"-Eintraege mit Score ≥10). Diese sind Ton-Referenz fuer diese Szene — nicht Plot-Vorlage. Die `B2/B3`-Proben nur dann lesen, wenn das Kapitel tatsaechlich in einem dunklen Register spielt.
+5. **Die zwei Vorgaenger-Kapitel mit Figuren-Ueberlappung** (aus dem Abschnitt „Vorgaenger-Kapitel") — wenn das direkte Vorgaenger-Kapitel (K-1) dabei ist, **volle lesen** (Ton-Anschluss). Das zweite Vorgaenger-Kapitel reicht als Nachbar-Kurztext aus dem Extraktor; nur wenn eine direkte Referenz im aktuellen Kapitel vorkommt (Objekt, Geste, Figur-Motiv), volle lesen.
 
 **NICHT laden:**
 - `buch/zeitleiste.json` — NICHT MEHR DIREKT LADEN. Der Kontext-Extraktor liefert die relevanten Events (~3k statt ~36k Tokens)

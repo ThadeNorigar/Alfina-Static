@@ -1,6 +1,6 @@
 # B1-I3 — Elke
 
-*Frostmond 154 · Vael*
+*28. Frostmond 154 · Vael*
 
 Die Erscheinungen waren anders geworden.
 
@@ -36,7 +36,7 @@ Das Feuer kam vor dem Morgengrauen.
 
 Sie knieten zu viert am Steinkreis: Elke, Lene, Kesper, Keldan. Handflächen auf dem Fels, wie sie es in den letzten Wochen gelernt hatten. Kein Ritual. Keine Worte. Nur drücken, alle gleichzeitig, und der Raum gab nach. Die Luft über dem Kreis fing an zu flimmern — ein Beben, das man nicht sah, sondern spürte. In den Zähnen. Im Kieferknochen. In den Fußsohlen auf dem kalten Stein.
 
-Eine Gestalt trat aus einer Öffnung in der Luft, zwischen dem Handelshaus und dem Kreis, dort wo der Garten in die Stadt überging. Die Öffnung war kaum mannshoch, und sie schloss sich hinter ihr wie ein Mund, der ein Wort zurücknahm. Die Gestalt brannte nicht selbst — sie trug das Feuer wie einen Mantel, und wo sie ging, fing der Boden Feuer. Die Luft über dem Handelshaus wurde orange, zu früh, zu grell, und der Geruch war falsch: Pech und Holz und etwas Scharfes, das in den Augen brannte.
+Eine Gestalt trat aus einer Öffnung in der Luft, zwischen dem Handelshaus und dem Kreis, dort wo der Garten in die Stadt überging. Die Öffnung war eineinhalbmal mannshoch und schmal, und sie schloss sich hinter ihr wie ein Mund, der ein Wort zurücknahm. Die Gestalt überragte einen Mann um einen halben. Sie brannte nicht selbst — sie trug das Feuer wie einen Mantel, und was sie berührte, fing Feuer: der Boden unter ihren Sohlen, das Mauerwerk an dem ihre Hand streifte, das Gebälk, gegen das ihre Schulter stiess. Die Luft über dem Handelshaus wurde orange, zu früh, zu grell, und der Geruch war falsch: Pech und Holz und etwas Scharfes, das in den Augen brannte.
 
 Keldan stand auf. Er hatte den Eisenarm, den er sich vor Wochen geschmiedet hatte — ein Schild, breiter als seine Schulter, aus einem Stück gehämmert, und das Eisen sang in seiner Hand. Er stellte sich zwischen das Wesen und den Kreis, und Elke sah sein Gesicht im Feuerschein: ruhig, konzentriert. Er atmete durch die Nase, wie am Amboss. Die Hitze erreichte den Steinkreis. Elkes Handflächen brannten auf dem Fels.
 

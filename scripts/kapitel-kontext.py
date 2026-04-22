@@ -23,6 +23,16 @@ if sys.stderr.encoding != "utf-8":
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 BUCH_DIR = os.path.join(os.path.dirname(SCRIPT_DIR), "buch")
+LESEPROBEN_DIR = os.path.join(BUCH_DIR, "leseproben")
+KAPITEL_DIR = os.path.join(BUCH_DIR, "kapitel")
+
+# Whitelist kanonischer Figurennamen fuer Text-Extraktion.
+# Genutzt fuer Figuren-Matching bei Leseproben und Vorgaenger-Kapiteln.
+MAIN_FIGURES = {
+    "Alphina", "Sorel", "Vesper", "Maren", "Runa", "Varen",
+    "Jara", "Esther", "Halvard", "Henrik", "Edric", "Tohl",
+    "Nyr", "Elke", "Lene", "Haron", "Talven", "Kesper", "Keldan",
+}
 
 AKTPLAN_MAP = {
     "02-akt1.md": lambda k: not k.startswith("I") and int(k) <= 12 or k in ("I1", "I2", "I3"),
@@ -181,6 +191,104 @@ def extract_aktplan_snippet(kap_num):
     while snippet_lines and not snippet_lines[-1].strip():
         snippet_lines.pop()
     return "\n".join(snippet_lines)
+
+
+def extract_figures_from_text(text):
+    """Finde bekannte Figurennamen aus MAIN_FIGURES in einem Text.
+    Robust gegen beliebige Trennzeichen (Komma, Plus, Klammern, Text)."""
+    if not text:
+        return set()
+    found = set()
+    for name in MAIN_FIGURES:
+        if re.search(rf"\b{re.escape(name)}\b", text):
+            found.add(name)
+    return found
+
+
+def get_kapitel_figures(kap_info, events_current):
+    """Vereinigung der Figuren aus POV-Feld, Kurztext und Event-Feldern."""
+    figures = set()
+    pov = kap_info.get("pov", "") or ""
+    text = kap_info.get("text", "") or ""
+    figures |= extract_figures_from_text(pov)
+    figures |= extract_figures_from_text(text)
+    # "Alle vier" / "alle Vier" in POV oder Kurztext → die vier Hauptfiguren
+    for src in (pov, text):
+        if re.search(r"\balle\s+vier\b", src, re.IGNORECASE):
+            figures |= {"Alphina", "Sorel", "Vesper", "Maren"}
+            break
+    for e in events_current:
+        pov_e = e.get("pov", "") or ""
+        figures |= extract_figures_from_text(str(pov_e))
+        figuren_e = e.get("figuren", []) or []
+        if isinstance(figuren_e, list):
+            for f in figuren_e:
+                figures |= extract_figures_from_text(str(f))
+        elif isinstance(figuren_e, str):
+            figures |= extract_figures_from_text(figuren_e)
+        figur_e = e.get("figur", "") or ""
+        figures |= extract_figures_from_text(str(figur_e))
+    return figures
+
+
+def parse_leseprobe_frontmatter(path):
+    """Parse YAML-aehnliches Frontmatter einer Leseproben-Datei.
+    Erwartet Schema: --- key: value ... ---."""
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            content = f.read()
+    except FileNotFoundError:
+        return None
+    m = re.match(r"^---\s*\n(.*?)\n---\s*\n", content, re.DOTALL)
+    if not m:
+        return None
+    front = m.group(1)
+    data = {}
+    for line in front.split("\n"):
+        m2 = re.match(r"^([a-zA-Z_][a-zA-Z_0-9]*):\s*(.*)$", line)
+        if m2:
+            key = m2.group(1)
+            val = m2.group(2).strip()
+            data[key] = val
+    return data
+
+
+def load_all_leseproben():
+    """Laedt alle Frontmatter-Bloecke aus buch/leseproben/*.md."""
+    if not os.path.isdir(LESEPROBEN_DIR):
+        return []
+    result = []
+    for fn in sorted(os.listdir(LESEPROBEN_DIR)):
+        if fn.startswith("README") or not fn.endswith(".md"):
+            continue
+        path = os.path.join(LESEPROBEN_DIR, fn)
+        data = parse_leseprobe_frontmatter(path)
+        if data:
+            data["_file"] = fn
+            result.append(data)
+    return result
+
+
+def score_leseprobe(probe, kap_pov, kap_figures):
+    """Bewertet eine Leseprobe gegen ein Kapitel.
+    POV-Match = 10, Figuren-Ueberlappung je Figur = 3.
+    Rueckgabe: (score, ueberlappte_figuren_set)."""
+    score = 0
+    probe_pov = (probe.get("pov", "") or "").strip()
+    probe_figures_raw = probe.get("figuren", "") or ""
+    probe_figures = (
+        extract_figures_from_text(probe_figures_raw)
+        | extract_figures_from_text(probe_pov)
+    )
+    # POV-Match: Probe-POV-Figur in Kapitel-POV-String
+    kap_pov_figs = extract_figures_from_text(kap_pov)
+    probe_pov_figs = extract_figures_from_text(probe_pov)
+    if probe_pov_figs & kap_pov_figs:
+        score += 10
+    # Figuren-Ueberlappung
+    overlap = probe_figures & kap_figures
+    score += len(overlap) * 3
+    return score, overlap
 
 
 def format_event_compact(event):
@@ -376,6 +484,110 @@ def main():
     print("## Aktplan-Snippet")
     snippet = extract_aktplan_snippet(kap_num)
     print(snippet)
+    print()
+
+    # --- Empfohlene Leseproben ---
+    # Nur fuer entwurf/ausarbeitung. Matching gegen POV + Figuren des Kapitels.
+    kap_figures = get_kapitel_figures(kap_info, events_current)
+    # Auch fruehere Events beruecksichtigen, damit "alle vier"-Kapitel gut matchen.
+    for e in events_current:
+        for field in ("figuren", "figur"):
+            val = e.get(field)
+            if isinstance(val, list):
+                for x in val:
+                    kap_figures |= extract_figures_from_text(str(x))
+            elif isinstance(val, str):
+                kap_figures |= extract_figures_from_text(val)
+
+    probes = load_all_leseproben()
+    print("## Empfohlene Leseproben")
+    if probes:
+        scored = []
+        for p in probes:
+            s, ov = score_leseprobe(p, pov, kap_figures)
+            if s > 0:
+                scored.append((s, ov, p))
+        scored.sort(key=lambda x: (-x[0], x[2].get("_file", "")))
+        if scored:
+            fig_str = ", ".join(sorted(kap_figures)) if kap_figures else "(keine erkannt)"
+            print(f"*Kapitel-Figuren (erkannt): {fig_str}*\n")
+            for s, ov, p in scored[:6]:
+                tier = "Primaer" if s >= 10 else ("Stark" if s >= 6 else "Ergaenzend")
+                ov_str = ", ".join(sorted(ov)) if ov else "—"
+                kat = p.get("kategorie", "?")
+                probe_pov = p.get("pov", "?")
+                probe_heat = p.get("heat_level", "?")
+                zweck = p.get("zweck", "")
+                if len(zweck) > 220:
+                    zweck = zweck[:220] + "…"
+                print(f"- **[{tier}, Score {s}]** `buch/leseproben/{p['_file']}`")
+                print(f"  - Kategorie: {kat} | POV: {probe_pov} | Heat: {probe_heat}")
+                print(f"  - Ueberlappung: {ov_str}")
+                if zweck:
+                    print(f"  - Zweck: {zweck}")
+        else:
+            print("*Keine Leseproben matchen POV/Figuren dieses Kapitels.*")
+    else:
+        print("*Keine Leseproben gefunden.*")
+    print()
+
+    # --- Vorgaenger-Kapitel mit Figuren-Ueberlappung ---
+    # Gehe rueckwaerts durch die Kapitel-Reihenfolge, suche die letzten 2
+    # Kapitel, bei denen mindestens eine Figur mit dem aktuellen Kapitel ueberlappt.
+    print("## Vorgaenger-Kapitel mit Figuren-Ueberlappung")
+    if kap_figures and idx > 0:
+        predecessors = []
+        for i in range(idx - 1, -1, -1):
+            prev_key = order[i]
+            prev_info = get_kap_info(status, prev_key)
+            if not prev_info:
+                continue
+            prev_num = prev_key  # z.B. "24" oder "I3"
+            prev_events = [e for e in kap_events if status_key(e.get("kapitel", "")) == prev_key]
+            prev_figures = get_kapitel_figures(prev_info, prev_events)
+            overlap = prev_figures & kap_figures
+            if overlap:
+                prev_prefix = f"I{prev_key[1:]}" if prev_key.startswith("I") else f"K{prev_key}"
+                b1_id = f"B1-{prev_prefix}"
+                predecessors.append({
+                    "id": b1_id,
+                    "key": prev_key,
+                    "pov": prev_info.get("pov", "?"),
+                    "status": prev_info.get("status", "?"),
+                    "overlap": overlap,
+                    "text": prev_info.get("text", ""),
+                })
+                if len(predecessors) >= 2:
+                    break
+        if predecessors:
+            print(f"*Letzte {len(predecessors)} Kapitel mit mindestens einer gemeinsamen Figur.*\n")
+            for p in predecessors:
+                ov_str = ", ".join(sorted(p["overlap"]))
+                # Passende Datei bestimmen: finale Prosa-Datei bevorzugt, sonst Entwurf
+                candidate_files = []
+                # Finale Kapitel-Dateien (ohne -entwurf, ohne -handoff)
+                if os.path.isdir(KAPITEL_DIR):
+                    for fn in os.listdir(KAPITEL_DIR):
+                        if not fn.endswith(".md"):
+                            continue
+                        if fn.startswith(f"{p['id']}-") or fn.startswith(f"{p['id']}."):
+                            if any(suffix in fn for suffix in ("-handoff", "-prework", ".backup", "-handoff-lektorat")):
+                                continue
+                            candidate_files.append(fn)
+                # Sortierpraeferenz: final (ohne -entwurf) > -entwurf
+                candidate_files.sort(key=lambda f: (0 if "-entwurf" not in f else 1, f))
+                file_hint = candidate_files[0] if candidate_files else "(keine Datei gefunden)"
+                text = p["text"]
+                if text and len(text) > 160:
+                    text = text[:160] + "…"
+                print(f"- **{p['id']}** ({p['pov']}, {p['status']}) — Ueberlappung: {ov_str}")
+                print(f"  - Datei: `buch/kapitel/{file_hint}`")
+                if text:
+                    print(f"  - {text}")
+        else:
+            print("*Keine Vorgaenger-Kapitel mit Figuren-Ueberlappung gefunden.*")
+    else:
+        print("*Kein Vorgaenger oder keine Figuren erkannt.*")
     print()
 
     # --- Wissensstand der POV-Figur ---
