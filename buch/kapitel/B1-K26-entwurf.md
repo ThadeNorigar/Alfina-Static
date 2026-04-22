@@ -86,18 +86,24 @@
 - Sie berichtet: die Pflanze ist nicht in ihren Bestimmungsbüchern. Weder in den drei Floren, die sie aus Velde mitgebracht hat, noch in Henriks Gartenregister. Kein Thalassier hat sie je katalogisiert.
 - *Alphina:* „Farne in Vael drehen sich zu mir, seit ich hier bin. Die Farne sind vaelische Farne — ich kenne sie. Aber diese hier —" (zeigt auf Marens Blatt) „— kenne ich nicht. Gar nicht."
 - *Maren:* „Und der Geruch?" Alphina: *„Süß-metallisch. Wie Kupfer am Gaumen. Kein Salzpflanzen-Register. Keine Grauküsten-Flora."*
-- **Sorel bringt seine Platten.** Er klappt die Mappe auf. *„Ich wollte zeigen, was ich habe. In der Reihenfolge."*
-  - **Erste Platte:** Hafenmauer, Sommerlicht, zwischen zwei Pollern eine Gestalt. *„Ich war allein am Kai. Die Platte war zehn Minuten belichtet — Architekturaufnahme. Die Gestalt steht im Bildmittelgrund. Sie war nicht da, als ich den Verschluss gelöst habe."*
-  - **Zweite Platte:** Dachfirst Oberstadt, nachts, Blitzlicht. Drei Kratzspuren im Schieferdach, gegabelt. *„Ich stand gegenüber im Fenster. Die Platte zeigt, was man vom Dach aus gesehen hätte."*
-  - **Dritte Platte:** Die Standuhr im Tidemoor-Flur, Zeiger auf 4:33. Er hält einen Moment inne, bevor er sie zeigt. *„Ich war zweimal im Tidemoor-Haus, mit der Erlaubnis der Magd, nachdem Alphina mich hingewiesen hatte. Beim ersten Mal habe ich den Zeiger vorher auf 9:15 eingestellt. Platte zeigt 4:33. Beim zweiten Mal habe ich ihn auf 12:00 eingestellt. Platte zeigt wieder 4:33."* Er dreht die Platte herum, damit alle sie sehen.
+- **Sorel bringt nicht Platten als Beweise, sondern als offengelegten Datenpunkt.** Er hat seit K16 (Dunkelkammer-Erkenntnis) verstanden, dass seine Platten zum Teil nicht zeigen, was vor der Linse stand, sondern was in seinem Kopf war. Er kann das nicht als objektiven Befund vorlegen. Er erklärt das offen, knapp: *„Meine Platten sind zum Teil Projektion. Ich kann sie nicht als Beweis vorlegen. Aber ich lege euch offen, was ich selbst belichte."*
+- Er zeigt **drei Platten**, aber mit Markierung, was objektiv und was projiziert ist.
+  - **Erste Platte (objektiv):** Kratzspuren am Kellerfenster-Rahmen des Lichthauses. Drei Linien, gegabelt. Er hat sie mit Tageslicht fotografiert, die Kratzer sind physisch im Holz — Vesper nickt, er hat sie an den Tidemoor-Tür-Pfosten ebenfalls gesehen (K07-Canon-Echo).
+  - **Zweite Platte (objektiv):** Kaimauer, Poller, eine Ritze im Stein, in der sein Sehnen-Nagel geblieben ist. Kein Schem sichtbar, aber Spur.
+  - **Dritte Platte (Projektion, offengelegt):** Alphina an einem Ort, an dem sie nie war — im Mittelgrund einer Oberstadt-Gasse, nachts, die er ohne Kamera aufgenommen hat. *„Das hier ist meine Resonanz. Nicht die Gasse. Die Gasse war leer, als ich sie belichtet habe. Alphina stand zu dem Zeitpunkt bei sich. Das ist nicht Beobachtung, das ist ich."*
 - **Diskussion:**
-  - *Vesper (leise):* „Die Uhr läuft jetzt rein. Ich habe sie vor vier Wochen repariert."
-  - *Sorel:* „Die Platte hält trotzdem 4:33."
-  - *Maren:* „Das ist nicht die Uhr."
-  - *Sorel:* „Nein. Das ist etwas, das 4:33 ist. Nicht die Uhr."
-  - *Vesper:* „Die Tidemoor-Uhr ist seit Jahrzehnten der Ort mit dem stärksten Verlust pro Tag. Sie ist die Baseline. Ich habe sie repariert, aber das, was sie zeigte, bleibt — als wäre 4:33 eine Eigenschaft des Ortes, nicht des Werkes."
-  - *Alphina:* „Wie Haron eine Eigenschaft der Werft ist, nicht des Holzes."
-  - *Maren sieht auf.* Schweigen einen Moment.
+  - *Vesper:* „Dann bist du selbst ein Datenpunkt. Deine Resonanz projiziert. Das System hier wirkt auf dich — du wirkst zurück."
+  - *Alphina:* „Und was du nicht projizierst, siehst du trotzdem. Die Kratzspuren sind real. Die Gestalten, die du im Garten gesehen hast, waren real. Du kannst unterscheiden."
+  - *Sorel:* „Ich lerne es. Nicht jeden Tag zuverlässig."
+  - *Maren:* „Dann schlage ich vor, wir trennen das, was du fotografisch als Spur bringst, von dem, was du als Resonanz einbringst. Beides zählt, aber nicht gleich."
+  - *Alle einverstanden.*
+
+- **Zusätzlicher Befund — Tidemoor-Uhr ohne Platte, nur aus Vespers Daten:**
+  - *Vesper:* „Die Tidemoor-Uhr war der stärkste Verlust-Punkt in Vael. Täglich 4:33. Jahrzehnte. Ich habe sie vor vier Wochen repariert — sie läuft rein, seit ich die Hand auflegte. Kvarns Taschenuhr seitdem auch. Aber die Baseline, die ich an der Tidemoor-Uhr gemessen habe, war nicht die Uhr — sie war der Ort. Vier Minuten dreiunddreißig ist kein Uhrwerkfehler, so eine Abweichung macht kein Mechanismus. Das war der Ort, der die Uhr gebogen hat."
+  - *Alphina:* „Vier Minuten dreiunddreißig pro Stunde — wie kommt man auf die Zahl?"
+  - *Vesper:* „Kommt man nicht. Man misst sie. Sie ist seit Jahrzehnten konstant. Ich habe die Einträge im Tidemoor-Journal gelesen, 1813 schreibt der damalige Vermieter, die Uhr verliere *täglich* vier Minuten und einige Sekunden. Zweihundertfünfzig Jahre derselbe Fehler."
+  - *Maren:* „Eine Eigenschaft des Ortes. Wie Haron eine Eigenschaft der Werft ist, nicht des Holzes."
+  - Vesper registriert die Formulierung. Sagt nichts dazu.
 
 **(C) Marens Gezeiten + Tohl-Bestätigung.**
 
@@ -118,6 +124,26 @@
 - *Alphina:* „Das ist dasselbe Muster wie auf Harons Ritual-Blatt im Archiv."
 - *Maren leise:* „Die Hände, die das Blatt berührt haben."
 - *Sorel:* „Dieselben, die den Wächter geformt haben. Im Garten."
+
+**(D-ZUNAHME) Zunahme und Eskalation — Muster aus Runas + Halvards Daten.**
+
+- Alphina schlägt das Notizbuch auf der Seite mit Runas Sichtungskarte auf und legt Halvards Protokolle daneben. Alle vier beugen sich darüber.
+- *Alphina:* „Runa druckt seit dem Saatmond drei Folgen Flugblätter. Die erste Folge — vier Adressen, Sichtungen aus dem ganzen Lichtmond. Die zweite Folge — sie hat sie im Blütenmond Vesper gegeben, sechs Adressen, Zeitraum zwei Wochen. Die dritte Folge, die sie für nächste Woche plant, hat neun Adressen, Zeitraum zehn Tage."
+- *Vesper:* „Vier in vier Wochen. Sechs in zwei Wochen. Neun in zehn Tagen."
+- *Maren:* „Die Frequenz verdoppelt sich."
+- *Sorel:* „Mindestens."
+- *Alphina:* „Und was sie berichten, ist nicht mehr dasselbe. Die erste Folge — nur Sichtungen. Schatten auf Mauern, Gestalten am Poller, Dinge, die keiner angefasst hat. Die zweite Folge — erste Berührungen. Die Wäscherin mit der Verbrennung. Ein Fischer, der nachts jemanden am Steg gesehen hat und ihm ausgewichen ist. Die dritte Folge — Halvards Junge mit den versengten Haaren. Die Frau mit dem Fingerabdruck am Oberarm. Ein Nachtwächter mit Brandspur am Stiefelschaft, die er sich nicht erklärt."
+- *Vesper:* „Von Beobachtung zu Berührung. Von Berührung zu Versengung."
+- *Maren:* „Der Kampf im Garten war die erste direkte Konfrontation. Ein Wächter-Schem, ein Feuerball aus dem Maul, Sorels Wunde. Das war vor sechs Tagen. Seitdem — Halvards drei Fälle."
+- *Sorel:* „Sechs Tage. Davor Wochen ohne Kontakt, nur Beobachtung."
+- *Alphina leise:* „Das ist nicht mehr passiv. Das ist aktiv. Und es kommt schneller."
+- *Vesper:* „Wenn die Kurve so weiterläuft, haben wir in zwei Wochen mehr Fälle als in den letzten zwei Monaten zusammen. Wenn die Intensität so weitersteigt, haben wir in einem Monat — das, was Lene gezeichnet hat."
+- *Maren:* „Das eineinhalbmal mannshohe Wesen."
+- *Sorel:* „Den Brandpfad durch die Stadt."
+- Pause.
+- *Vesper:* „Das heißt, wir haben nicht so viel Zeit, wie wir vorhin gedacht haben."
+- *Alphina:* „Zwei Wochen Training und Übersetzung sind das Maximum. Vielleicht weniger."
+- *Maren:* „Dann fangen wir heute an."
 
 **(E) Erinnerung an K19-Kampf und Lene-Skizze.**
 
@@ -145,7 +171,7 @@
 
 **Dialog-Informationen:**
 - *Vesper erfährt:* Alphinas Beobachtung von Runas Körperwärme macht Runa explizit zum Teil des Musters, auch ohne Einweihung.
-- *Vesper erfährt:* Sorels 4:33-Platte hält den Wert auch nach der Reparatur — 4:33 ist Orts-Konstante, nicht Uhr-Eigenschaft.
+- *Vesper erfährt:* Die Tidemoor-Uhr-Konstante (4:33 pro Stunde Verlust) ist Orts-Eigenschaft seit mindestens 250 Jahren (Journal-Einträge seit 1813), nicht Werk-Eigenschaft. Kein Mechanismus verursacht solche Abweichungen. Sorels Platten sind als objektive Beweise untauglich (Projektions-Problem aus K16), liefern aber offengelegt einen eigenen Datenpunkt: Sorels Resonanz projiziert aktiv auf Silberhalogenid.
 - *Vesper erfährt:* Marens Gezeitenkurve und seine Drift-Karte sind taktgleich. Derselbe Scheitel, dreimal. Eine Quelle, zwei Phänomene. Schwerkraft als Kandidat — offen gelassen.
 - *Alphina erfährt:* Halvards Patienten haben die Schem-Fingerabdrücke aus K24. Sie hat die Protokolle vorher nicht in den Kontext gebracht — jetzt tut sie es.
 - *Maren erfährt:* Die Pflanze in ihrer Werft hat Geschwister an anderen Orten Vaels, alle in den Ringen.
@@ -155,7 +181,8 @@
 - *Was niemand weiß (kein POV-Leak):* Varen als Absender. Dass Runa eine Feuer-Resonanz hat (K25-privat). Dass Haron Varens Agent war.
 
 **Tschechow-Waffen geladen:**
-- Sorels 4:33-Platte als Orts-Konstante — feuert in K32 (Schwerkraftanomalie wird mathematisch aufgelöst) und K33 (Ritual-Dauer).
+- Sorels offengelegte Resonanz-Projektion (Alphina-Platte ohne Kamera) — Tschechow für sein B3-Arc und die Ritual-Teilnahme. Feuert K29+ (Sorel meistert Licht bewusst).
+- Tidemoor-Uhr-Konstante (4:33 pro Stunde, 250 Jahre dokumentiert) aus Vespers Messdaten — feuert K32 (Schwerkraftanomalie) und K33 (Ritual-Dauer 4:33).
 - Drift-Gezeiten-Korrelation mit exaktem Takt — Seed für K32.
 - Alphinas Trieb + Marens K22-Blatt als Spezies-Paar — Tschechow für Moragh-Flora in B2.
 - Vespers Schachturm-Wärme-Moment bei der Korrelations-Erkenntnis — unbenannt, aber gesetzt. Feuert später, wenn Vesper sich klar wird, dass sein Körper das System registriert, bevor sein Kopf es formuliert (B2+).
@@ -327,7 +354,10 @@
 **Was weiß Vesper am Ende?**
 - Drift-Gezeiten-Korrelation: taktgleich, drei Scheitel, keine Verzögerung. Eine Quelle (Gravitation oder verwandt), zwei Phänomene.
 - Mittelpunkt aller Phänomene: Steinkreis.
-- Sorels 4:33-Platte bestätigt 4:33 als Orts-Konstante, nicht Uhr-Eigenschaft.
+- Tidemoor-Uhr-Konstante: 4:33 pro Stunde Verlust seit mindestens 250 Jahren (Journal 1813), Orts-Eigenschaft, nicht Werk-Eigenschaft. Bestätigt durch Vespers Messdaten und Archiv-Recherche — keine Platte nötig, da Sorels Resonanz sie unbrauchbar als Beweis macht.
+- Sorel hat seine Platten-Resonanz selbst offengelegt (K16-Konsequenz): was er belichtet, ist zum Teil Projektion, nicht Beobachtung. Er kann es bewusst trennen. Er selbst ist Datenpunkt.
+- **Frequenz-Zunahme:** Runas drei Flugblatt-Folgen zeigen Verdopplung (4/4 Wochen → 6/2 Wochen → 9/10 Tage). **Qualitäts-Eskalation:** Sichtung → Berührung → Versengung. Der Kampf K19 war Wendepunkt; seitdem drei Halvard-Fälle in sechs Tagen.
+- **Zeitfenster:** Zwei Wochen Training und Übersetzung sind das Maximum, nicht das Soll. Wenn die Kurve hält, haben sie in einem Monat ein Feuer-Wesen in Vael.
 - Runa ist im Ringsystem (mittlerer Ring), wahrscheinlich Resonanz-Trägerin. Nicht eingeweiht, beobachtet.
 - Halvards Patienten tragen die Schem-Fingerabdrücke aus K24. Eskalation: erster Fall Hände-zu-Haut (der Junge, die Frau mit dem Abdruck am Oberarm).
 - Haron kam von drüben, sprach die fremde Sprache als Muttersprache, lernte Thalassisch, schrieb das Wörterbuch, brachte das Ritual-Blatt, blieb.
