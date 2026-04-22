@@ -18,7 +18,7 @@ Er schrie kurz. Sie hatte das Schreien erwartet. Es war nicht das, was sie festh
 
 Was sie festhielt, war, dass ihre Hand grün geblieben war. Nicht schwarz. Nicht rot. Dornen, aber grün — Efeu-Rank, die sie zwanzigmal aus Wänden gezogen hatte. Disziplin. Der Bund-Kommandant hatte es ihr gesagt, jeden Morgen, und es hatte endlich funktioniert.
 
-»Weiter«, rief jemand hinter ihr. Kerth, sein Name war Kerth, sie merkte ihn sich, weil er einmal ihren Morgentee geholt hatte, als sie nicht aufstehen konnte. Jetzt war er fünf Schritte rechts, mit einem kurzen Schwert, und er brauchte sie, dass sie den Wall rechts von ihm zum Stehen brachte.
+»Weiter«, rief Kerth hinter ihr — Kerth, der ihr einmal den Morgentee geholt hatte, als sie nicht aufstehen konnte. Jetzt fünf Schritte rechts mit einem kurzen Schwert. Er brauchte den Wall rechts von ihm offen.
 
 Sie senkte die andere Hand.
 
