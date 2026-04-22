@@ -22,7 +22,7 @@ Unter Vael liegt der Riss zwischen den Welten. Er kann von der Moragh-Seite als 
 - **Die Interludien von Vael spielen in TZ 154.** Elkes Ankunft, das grosse Feuer, Elkes Durchgang nach Moragh. Technologisch entspricht das dem frühen 15. Jahrhundert irdischer Zeit (~1423) — Handwerk, Pferd und Fuhre, Öllampen, Feder und Tinte, Druckstock statt Druckpresse, Ihr/Euch als Anrede.
 - **Umrechnung:** TZ + ~1269 ≈ irdisches Jahr. Wo die Bibel "~1820" oder "1423" schreibt, ist die **irdische Technikepoche** gemeint, damit die Bildwelt beim Schreiben greifbar bleibt. **Kanonisch ist TZ.** In Kapiteln und Interludien steht die TZ-Zahl ohne Präfix: *11. Mai 551 · 6 Wochen 2 Tage in Vael* — Thalassier denken nicht in "TZ", sie denken in der Zahl, weil es für sie die einzige Jahreszahl gibt.
 
-**Moragh-Zeit (MZ)** — eigener Kalender, eigener Rhythmus. **1 MZ-Jahr ≈ 400 TZ-Jahre** (Zeitdilatation). 1 MZ-Monat ≈ 33 TZ-Jahre. Wird in Moragh-Kapiteln verwendet, nicht in Thalassien-Kapiteln.
+**Moragh-Zeit (MZ)** — eigener Kalender, eigener Rhythmus. **1 MZ-Jahr = 400 TZ-Jahre** (Zeitdilatation). MZ-Tag = 26 h, MZ-Monat = 36 Tage, MZ-Jahr = 8 Monate (288 Tage). 1 MZ-Monat entspricht ~50 TZ-Jahren. MZ 0 = Besiedelung Moragh (TZ-Jahr −1.453.449). **B1-Start = MZ 3635, 1. Torash.** Acht Monatsnamen (Torash, Ashral, Keldath, Reshvan, Dravon, Gormath, Nyrath, Shelkam) mit Halbjahren Licht (1–4) und Dunkel (5–8). Details + Tool: `buch/00-zeitrechnung.md` und `scripts/zeitrechnung.py`.
 
 ---
 

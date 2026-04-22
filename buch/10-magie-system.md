@@ -513,11 +513,15 @@ Schemen sind beschworene Diener aus Moragh — die körperliche Alternative zu k
 
 ### Natur: rein magisch, nichts biologisches
 
-**Schemen sind reine Magie-Konstrukte.** Sie haben keine Biologie — keine Zellen, keine Organe, keine Muskeln im anatomischen Sinn. Was wie ein Körper aussieht und sich wie ein Körper verhält, ist eine Magie-Struktur, die dem Schemen durch den Rufer (und ggf. Mit-Spender) beim Ritual gegeben wurde.
+**Schemen sind magisch beschworene Wesen.** Der Beschwörer bestimmt **Form und Zweck** beim Ritual. Was wie ein Körper aussieht und sich wie ein Körper verhält, ist eine Magie-Struktur, die dem Schemen durch den Rufer (und ggf. Mit-Spender) gegeben wurde. Sie haben keine Biologie — keine Zellen, keine Organe, keine Muskeln im anatomischen Sinn.
 
-**Manche Schemen bringen von Natur aus Magieformen mit** — das heißt: sie kommen aus einer Herkunftsebene, in der bestimmte Magie-Elemente "native" vorhanden sind. Der Rufer holt sie, wie sie sind; welche Elemente sie "mitbringen", hängt von der Ebene und vom Ritual ab. Diese Herkunftsfrage ist im Kanon **nicht abschließend geklärt**.
+**Herkunft offen (Canon-Entscheidung, 22. Apr 2026).** Ob Schemen einzelne Wesen mit eigener Intelligenz sind oder Manifestationen einer größeren magischen Entität, ist **nicht geklärt — auch nicht für die Moragher selbst**. Theoretiker in den Fraktionen diskutieren seit Generationen beides; die Frage bleibt offen und wird in Buch 1 nicht aufgelöst. Praktisch funktioniert die Beschwörung unabhängig von der Antwort: Der Rufer ruft, formt, bindet oder entlässt — was im Moment der Beschwörung *eintritt*, ist nicht gewiss.
 
-> 📌 **TODO (Kanon-Reserve):** Wo Schemen herkommen. Welche Ebene, welche Art von Existenz, welche natürlichen Magieformen sie ohne Zutun des Beschwörers mitbringen. Muss vom Autor geklärt werden. Bis dahin bleiben Schemen als "beschworene Wesen aus einer nicht-physischen Ebene" definiert.
+Implikationen für die Prosa:
+- Schemen reagieren mal zielgerichtet, mal stumpf — je nachdem, wie präzise der Beschwörer sie geformt hat, und (möglicherweise) wie stark die darüberliegende Entität gerade "durchscheint".
+- Schemen wirken in Thalassien gespenstisch/uneinheitlich — das ist kein Darstellungsfehler, sondern Canon.
+- Varen kann Schemen *experimentell* schicken ohne zu wissen, was sie drüben tun werden. Das passt zur offenen Intelligenz-Frage.
+- "Die Moragher wissen es nicht" heißt: keine Figur auf beiden Seiten kann die Frage mit Autorität beantworten. Auch Varen nicht.
 
 ### Substanz
 

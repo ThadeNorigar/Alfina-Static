@@ -2,14 +2,147 @@
   "meta": {
     "titel": "Der Riss — Zeitleiste",
     "untertitel": "Eine Welt, ein Riss, zwei Zeiten — chronologisch",
-    "beschreibung": "Strikte Chronologie nach Thalassien-Jahr (TZ). Moragh-Events erscheinen an ihrer TZ-Äquivalenz-Position (1 Moragh-Monat = 33,33 TZ-Jahre). Interludien sind chronologisch einsortiert, ihr Lesekontext im Roman steht im Feld 'buch/kapitel/leseart'.",
+    "beschreibung": "Strikte Chronologie. TZ = Thalassien-Zeitrechnung (Gregorianisch + thalassische Monatsnamen, TZ 0 = Erfindung des Uhrwerks ~1269 UZ). MZ = Moragh-Zeitrechnung (26h/Tag, 8 Monate à 36 Tage, MZ 0 = Besiedelung Moragh). Kopplung: 1 MZ-Jahr = 400 TZ-Jahre (erzählerisch/Zeitdilatation). Events fuehren 'tz' und 'mz' parallel als Jahres-Zahl (mit Dezimalstellen fuer Teiljahre). Interludien chronologisch einsortiert; Lesekontext im Feld 'buch'/'kapitel'.",
     "zeitrechnung": {
       "tz_null": "Erfindung des Uhrwerks",
-      "mz_null": "Besiedelung von Moragh (Portal-Ankerpunkt)",
-      "verhaeltnis": "1 Moragh-Jahr = 400 TZ-Jahre = 12 MZ-Monate",
-      "ankerpunkt": "B1-Start = 21. Saatmond 551 TZ = MZ 0"
+      "mz_null": "Besiedelung von Moragh",
+      "verhaeltnis": "1 MZ-Jahr = 400 TZ-Jahre",
+      "mz_kalender": {
+        "tag": "26 Stunden (Eigenrotation)",
+        "woche": "8 Tage (Gor-Umlauf, der Rote Mond)",
+        "monat": "36 Tage = 4,5 Wochen (Nyr-Umlauf, der Bleiche Mond)",
+        "jahr": "288 Tage = 8 Monate (Orbit um das Auge)",
+        "doppelflut": "alle 72 Tage (beide Monde in Konjunktion)",
+        "monate": [
+          {
+            "nr": 1,
+            "name": "Torash",
+            "bedeutung": "Bogenwende",
+            "halbjahr": "Licht"
+          },
+          {
+            "nr": 2,
+            "name": "Ashral",
+            "bedeutung": "Glutzeit",
+            "halbjahr": "Licht"
+          },
+          {
+            "nr": 3,
+            "name": "Keldath",
+            "bedeutung": "Doppelflut",
+            "halbjahr": "Licht"
+          },
+          {
+            "nr": 4,
+            "name": "Reshvan",
+            "bedeutung": "Ernteschluss",
+            "halbjahr": "Licht"
+          },
+          {
+            "nr": 5,
+            "name": "Dravon",
+            "bedeutung": "Daemmerfall",
+            "halbjahr": "Dunkel"
+          },
+          {
+            "nr": 6,
+            "name": "Gormath",
+            "bedeutung": "Rotmond",
+            "halbjahr": "Dunkel"
+          },
+          {
+            "nr": 7,
+            "name": "Nyrath",
+            "bedeutung": "Bleichmond",
+            "halbjahr": "Dunkel"
+          },
+          {
+            "nr": 8,
+            "name": "Shelkam",
+            "bedeutung": "Tiefnacht",
+            "halbjahr": "Dunkel"
+          }
+        ]
+      },
+      "tz_kalender": {
+        "tag": "24 Stunden",
+        "jahr": "365 Tage = 12 Monate",
+        "monate": [
+          {
+            "nr": 1,
+            "name": "Eismond",
+            "entspricht": "Januar"
+          },
+          {
+            "nr": 2,
+            "name": "Sturmmond",
+            "entspricht": "Februar"
+          },
+          {
+            "nr": 3,
+            "name": "Saatmond",
+            "entspricht": "März"
+          },
+          {
+            "nr": 4,
+            "name": "Grünmond",
+            "entspricht": "April"
+          },
+          {
+            "nr": 5,
+            "name": "Blütenmond",
+            "entspricht": "Mai"
+          },
+          {
+            "nr": 6,
+            "name": "Lichtmond",
+            "entspricht": "Juni"
+          },
+          {
+            "nr": 7,
+            "name": "Glutmond",
+            "entspricht": "Juli"
+          },
+          {
+            "nr": 8,
+            "name": "Erntemond",
+            "entspricht": "August"
+          },
+          {
+            "nr": 9,
+            "name": "Herbstmond",
+            "entspricht": "September"
+          },
+          {
+            "nr": 10,
+            "name": "Nebelmond",
+            "entspricht": "Oktober"
+          },
+          {
+            "nr": 11,
+            "name": "Frostmond",
+            "entspricht": "November"
+          },
+          {
+            "nr": 12,
+            "name": "Dunkelmond",
+            "entspricht": "Dezember"
+          }
+        ]
+      },
+      "uz_anker": {
+        "kanon_quelle": "buch/00-welt.md:19 — TZ 0 = Erfindung des Uhrwerks (~1269 n. Chr.)",
+        "ankerpunkt": "21. Saatmond 551 TZ = 21. März 1820 UZ (UZ-Monat = TZ-Monat gregorianisch, Offset 1269 Jahre)",
+        "umrechnung": "UZ-Jahr = TZ-Jahr + 1269. UZ-Monat entspricht TZ-Monat (Eismond=Januar, Sturmmond=Februar, ...). UZ-Tag = TZ-Tag (Gregorianisch, 1:1). Schaltjahre folgen Gregorianischer Regel."
+      },
+      "mz_anker": {
+        "ankerpunkt": "MZ 0 = Besiedelung von Moragh = TZ -1.453.449 (absoluter Nullpunkt)",
+        "b1_start_mz": "21. Saatmond 551 TZ ≈ MZ 3635, 1. Torash (Monat 1, Licht-Halbjahr, Jahresanfang)",
+        "b1_umfang_in_mz": "Buch 1 (9 TZ-Monate) = ~0.025 MZ-Jahre = ~7 MZ-Tage. Ganz Buch 1 spielt in MZ 3635, Monat 1 (Torash), Tag 1 bis ~Tag 8.",
+        "umrechnung": "TZ-Jahre seit MZ 0 ÷ 400 = MZ-Jahr. Innerhalb MZ-Jahr: 8 Monate à 36 Tage = 288 Tage. Zeitdilatation: 1 MZ-Stunde entspricht ~468 TZ-Stunden (astronomisch), 400 TZ-Jahre = 1 MZ-Jahr (erzählerisch)."
+      }
     },
-    "schema_version": 2
+    "schema_version": 3
   },
   "typen": {
     "portal": {
