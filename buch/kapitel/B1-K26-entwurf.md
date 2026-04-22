@@ -39,7 +39,7 @@
 
 **Tschechow-Waffen geladen:**
 - Marens K22-Blatt im Glaszylinder und Alphinas Trieb daneben — feuern in Szene 2, wenn klar wird, dass die Pflanze nicht von hier stammt (fremde Welt).
-- Halvards Protokolle auf dem Tisch — feuern in Szene 2, wenn die Fingerabdruck-Muster mit K24-Ritual-Blatt verglichen werden.
+- Halvards Protokolle auf dem Tisch — feuern in Szene 2, wenn die Fingerabdruck-Muster mit K24-Blatt verglichen werden.
 - Marens vorbereiteter Tisch, Humpen statt Tassen, Teerituale — Tschechow der stillen Alltags-Intimität V/M, feuert in Szene 3 bei *„Bleib noch."*
 - Alphinas Trieb nahe Jorans Adresse — räumliche Korrelation mit Vespers Uhren-Ringen, feuert in Szene 2.
 - Der Schachturm in Vespers Rocktasche — default kalt, feuert einmalig bei der Korrelations-Erkenntnis (Szene 2).
@@ -87,22 +87,22 @@
 - *Alphina:* „Farne in Vael drehen sich zu mir, seit ich hier bin. Die Farne sind vaelische Farne — ich kenne sie. Aber diese hier —" (zeigt auf Marens Blatt) „— kenne ich nicht. Gar nicht."
 - *Maren:* „Und der Geruch?" Alphina: *„Süß-metallisch. Wie Kupfer am Gaumen. Kein Salzpflanzen-Register. Keine Grauküsten-Flora."*
 - **Sorel bringt nicht Platten als Beweise, sondern als offengelegten Datenpunkt.** Er hat seit K16 (Dunkelkammer-Erkenntnis) verstanden, dass seine Platten zum Teil nicht zeigen, was vor der Linse stand, sondern was in seinem Kopf war. Er kann das nicht als objektiven Befund vorlegen. Er erklärt das offen, knapp: *„Meine Platten sind zum Teil Projektion. Ich kann sie nicht als Beweis vorlegen. Aber ich lege euch offen, was ich selbst belichte."*
-- Er zeigt **drei Platten**, aber mit Markierung, was objektiv und was projiziert ist.
-  - **Erste Platte (objektiv):** Kratzspuren am Kellerfenster-Rahmen des Lichthauses. Drei Linien, gegabelt. Er hat sie mit Tageslicht fotografiert, die Kratzer sind physisch im Holz — Vesper nickt, er hat sie an den Tidemoor-Tür-Pfosten ebenfalls gesehen (K07-Canon-Echo).
-  - **Zweite Platte (objektiv):** Kaimauer, Poller, eine Ritze im Stein, in der sein Sehnen-Nagel geblieben ist. Kein Schem sichtbar, aber Spur.
-  - **Dritte Platte (Projektion, offengelegt):** Alphina an einem Ort, an dem sie nie war — im Mittelgrund einer Oberstadt-Gasse, nachts, die er ohne Kamera aufgenommen hat. *„Das hier ist meine Resonanz. Nicht die Gasse. Die Gasse war leer, als ich sie belichtet habe. Alphina stand zu dem Zeitpunkt bei sich. Das ist nicht Beobachtung, das ist ich."*
+- Er zeigt **drei Platten**, markiert, was aus der Linse stammt und was aus seinem Kopf.
+  - **Erste Platte (fotografiert):** Kratzspuren am Kellerfenster-Rahmen des Lichthauses. Drei Linien, gegabelt. Tageslicht, Kratzer im Holz — Vesper nickt, er hat ähnliche am Tidemoor-Tür-Pfosten gesehen.
+  - **Zweite Platte (fotografiert):** Kaimauer, Poller, eine Ritze im Stein, in der sein Sehnen-Nagel geblieben ist. Spur, kein Wesen sichtbar.
+  - **Dritte Platte (projiziert, offengelegt):** Alphina in einer Oberstadt-Gasse, in der sie nie war, nachts, ohne Kamera aufgenommen. *„Die Gasse war leer, als ich sie belichtet habe. Alphina stand zu dem Zeitpunkt bei sich. Das ist nicht Beobachtung, das ist ich."*
 - **Diskussion:**
-  - *Vesper:* „Dann bist du selbst ein Datenpunkt. Deine Resonanz projiziert. Das System hier wirkt auf dich — du wirkst zurück."
-  - *Alphina:* „Und was du nicht projizierst, siehst du trotzdem. Die Kratzspuren sind real. Die Gestalten, die du im Garten gesehen hast, waren real. Du kannst unterscheiden."
-  - *Sorel:* „Ich lerne es. Nicht jeden Tag zuverlässig."
-  - *Maren:* „Dann schlage ich vor, wir trennen das, was du fotografisch als Spur bringst, von dem, was du als Resonanz einbringst. Beides zählt, aber nicht gleich."
+  - *Vesper:* „Dann bist du selbst ein Datenpunkt. Was du in dir hältst, legt sich in die Schicht. Der Ort hier wirkt auf dich — du wirkst zurück."
+  - *Alphina:* „Und was du nicht aus dem Kopf belichtest, siehst du trotzdem. Die Kratzspuren sind real. Die Gestalten, die du im Garten gesehen hast, waren real. Du kannst unterscheiden."
+  - *Sorel:* „Ich lerne es. Jeden Tag zuverlässiger, aber nicht jeden."
+  - *Maren:* „Dann trennen wir, was du fotografierst, von dem, was du in die Schicht legst. Beides zählt, aber nicht gleich."
   - *Alle einverstanden.*
 
 - **Zusätzlicher Befund — Tidemoor-Uhr ohne Platte, nur aus Vespers Daten:**
-  - *Vesper:* „Die Tidemoor-Uhr war der stärkste Verlust-Punkt in Vael. Täglich 4:33. Jahrzehnte. Ich habe sie vor vier Wochen repariert — sie läuft rein, seit ich die Hand auflegte. Kvarns Taschenuhr seitdem auch. Aber die Baseline, die ich an der Tidemoor-Uhr gemessen habe, war nicht die Uhr — sie war der Ort. Vier Minuten dreiunddreißig ist kein Uhrwerkfehler, so eine Abweichung macht kein Mechanismus. Das war der Ort, der die Uhr gebogen hat."
-  - *Alphina:* „Vier Minuten dreiunddreißig pro Stunde — wie kommt man auf die Zahl?"
-  - *Vesper:* „Kommt man nicht. Man misst sie. Sie ist seit Jahrzehnten konstant. Ich habe die Einträge im Tidemoor-Journal gelesen, 1813 schreibt der damalige Vermieter, die Uhr verliere *täglich* vier Minuten und einige Sekunden. Zweihundertfünfzig Jahre derselbe Fehler."
-  - *Maren:* „Eine Eigenschaft des Ortes. Wie Haron eine Eigenschaft der Werft ist, nicht des Holzes."
+  - *Vesper:* „Die Tidemoor-Uhr war der stärkste Verlust-Punkt in Vael. Stündlich vier Minuten dreiunddreißig. Jahrzehnte. Ich habe sie vor vier Wochen beim zweiten Besuch rein bekommen — sie läuft seitdem ohne Abweichung. Kvarns Taschenuhr auch. Aber die Baseline, die ich an der Tidemoor gemessen habe, war nicht die Uhr — sie war der Ort. Vier Minuten dreiunddreißig pro Stunde ist kein Uhrwerkfehler. So eine Abweichung macht kein Mechanismus. Der Ort hat die Uhr gebogen."
+  - *Alphina:* „Wie kommt man auf die Zahl?"
+  - *Vesper:* „Kommt man nicht. Man misst sie. Sie ist seit Jahrzehnten konstant. Ich habe die Einträge im Tidemoor-Journal gelesen, achthundertdreizehn schreibt der damalige Vermieter, die Uhr verliere stündlich vier Minuten und einige Sekunden. Zweihundertfünfzig Jahre derselbe Fehler."
+  - *Maren:* „Eine Eigenschaft des Ortes. Wie Haron eine Eigenschaft der Werft geworden ist, ohne aus ihrem Holz zu sein."
   - Vesper registriert die Formulierung. Sagt nichts dazu.
 
 **(C) Marens Gezeiten + Tohl-Bestätigung.**
@@ -121,29 +121,30 @@
   - Patient 2: Fischer, Erfrierung dritter Grades im Saatmond (Sommer), an der Schulter.
   - Patient 3: Junge, acht Jahre, versengtes Haar am Nacken ohne Feuerquelle. Er war abends am Hafen, kam heim ohne Erinnerung.
   - **Patient 4:** Eine erwachsene Frau, Fingerabdruck am Oberarm. Halvard hat den Abdruck skizziert. Drei Linien. Gabelungen. Rillen statt Kuppen. Vesper legt die Skizze oben auf.
-- *Alphina:* „Das ist dasselbe Muster wie auf Harons Ritual-Blatt im Archiv."
+- *Alphina:* „Das ist dasselbe Muster wie auf Harons Blatt im Archiv."
 - *Maren leise:* „Die Hände, die das Blatt berührt haben."
 - *Sorel:* „Dieselben, die den Wächter geformt haben. Im Garten."
 
 **(D-ZUNAHME) Zunahme und Eskalation — Muster aus Runas + Halvards Daten.**
 
 - Alphina schlägt das Notizbuch auf der Seite mit Runas Sichtungskarte auf und legt Halvards Protokolle daneben. Alle vier beugen sich darüber.
-- *Alphina:* „Runa druckt seit dem Saatmond drei Folgen Flugblätter. Die erste Folge — vier Adressen, Sichtungen aus dem ganzen Lichtmond. Die zweite Folge — sie hat sie im Blütenmond Vesper gegeben, sechs Adressen, Zeitraum zwei Wochen. Die dritte Folge, die sie für nächste Woche plant, hat neun Adressen, Zeitraum zehn Tage."
-- *Vesper:* „Vier in vier Wochen. Sechs in zwei Wochen. Neun in zehn Tagen."
-- *Maren:* „Die Frequenz verdoppelt sich."
-- *Sorel:* „Mindestens."
-- *Alphina:* „Und was sie berichten, ist nicht mehr dasselbe. Die erste Folge — nur Sichtungen. Schatten auf Mauern, Gestalten am Poller, Dinge, die keiner angefasst hat. Die zweite Folge — erste Berührungen. Die Wäscherin mit der Verbrennung. Ein Fischer, der nachts jemanden am Steg gesehen hat und ihm ausgewichen ist. Die dritte Folge — Halvards Junge mit den versengten Haaren. Die Frau mit dem Fingerabdruck am Oberarm. Ein Nachtwächter mit Brandspur am Stiefelschaft, die er sich nicht erklärt."
-- *Vesper:* „Von Beobachtung zu Berührung. Von Berührung zu Versengung."
-- *Maren:* „Der Kampf im Garten war die erste direkte Konfrontation. Ein Wächter-Schem, ein Feuerball aus dem Maul, Sorels Wunde. Das war vor sechs Tagen. Seitdem — Halvards drei Fälle."
-- *Sorel:* „Sechs Tage. Davor Wochen ohne Kontakt, nur Beobachtung."
-- *Alphina leise:* „Das ist nicht mehr passiv. Das ist aktiv. Und es kommt schneller."
-- *Vesper:* „Wenn die Kurve so weiterläuft, haben wir in zwei Wochen mehr Fälle als in den letzten zwei Monaten zusammen. Wenn die Intensität so weitersteigt, haben wir in einem Monat — das, was Lene gezeichnet hat."
+- *Alphina:* „Runa druckt die dritte Folge ihres Blattes. Die erste kam im Grünmond heraus, sie deckt den Saatmond ab — heißes Wasser ohne Kessel, Kaminfeuer ohne Holz, eine Handvoll Schattensichtungen, Halvards vier Verbrennungen ohne Hitzequelle. Die zweite hat Vesper von ihr bekommen, als wir uns kaum kannten. Sechs Einträge, der ganze Grünmond."
+- *Vesper legt den Bogen aus der Rocktasche auf den Tisch.* Die zweite Folge, gefaltet. *„Hafenstraße vierzehn, elfter Grünmond. Treidelweg drei, neunzehnter. Speichergasse sieben, zweiundzwanzigster und vierundzwanzigster. Marktbreite acht, achtundzwanzigster. Grauwe-Ufer vier, dreißigster — Grauwe fließt rückwärts zwischen fünf und sechs Uhr morgens."*
+- *Alphina:* „Die dritte plant sie für Anfang Lichtmond. Sie hat mir heute neun Einträge genannt, alle aus den letzten zwölf Tagen Blütenmond."
+- *Maren:* „Zwölf Tage. So viel wie vorher in einem Monat."
+- *Sorel:* „Mindestens doppelt so dicht."
+- *Alphina:* „Und was sie berichten, verschiebt sich. Folge eins — Phänomene ohne Wesen. Heißes Wasser, schmelzende Butter, Feuer ohne Brennstoff. Folge zwei — immer noch Phänomene, aber dazu Gesichter, Schatten auf Dächern, schattenhafte Tiere am Poller. Was man sieht, aber was einen nicht anfasst. Die dritte — Halvards Junge mit den versengten Haaren. Die Frau mit dem Fingerabdruck am Oberarm. Ein Nachtwächter mit Brandspur am Stiefelschaft, die er sich nicht erklären kann."
+- *Vesper:* „Phänomen ohne Wesen. Wesen ohne Berührung. Berührung mit Spur."
+- *Maren:* „Der Kampf im Garten war die erste direkte Konfrontation. Das war vor sechs Tagen. Seitdem — Halvards drei Fälle."
+- *Sorel:* „Sechs Tage. Davor Wochen ohne Kontakt."
+- *Alphina leise:* „Es steht nicht still. Es kommt näher."
+- *Vesper:* „Wenn die Kurve so weiterläuft, haben wir in einem Monat das, was Lene gezeichnet hat."
 - *Maren:* „Das eineinhalbmal mannshohe Wesen."
 - *Sorel:* „Den Brandpfad durch die Stadt."
 - Pause.
-- *Vesper:* „Das heißt, wir haben nicht so viel Zeit, wie wir vorhin gedacht haben."
-- *Alphina:* „Zwei Wochen Training und Übersetzung sind das Maximum. Vielleicht weniger."
-- *Maren:* „Dann fangen wir heute an."
+- *Vesper:* „Wir brauchen Zeit, die wir nicht haben. Und wir brauchen mehr, als wir heute wissen."
+- *Alphina:* „Dann fangen wir heute an und arbeiten schneller als die Kurve."
+- *Maren:* „Solange die Grauwe uns das erlaubt."
 
 **(E) Erinnerung an K19-Kampf und Lene-Skizze.**
 
@@ -159,13 +160,13 @@
 - *Vesper:* „Deine Tabellen. Leg sie neben meine."
 - Sie legen sie übereinander, Marens oben, Vespers unten, durchscheinend. Die Scheitel treffen sich. Drei Scheitel in drei Wochen, keine Verzögerung, kein Versatz.
 - *Alphina:* „Was heißt das?"
-- *Vesper:* „Dass es dieselbe Quelle ist. Uhren und Wasser. Eine Kraft, die beides verzerrt. Das geht nur, wenn —" (er sucht einen halben Atemzug) „— wenn es Schwerkraft ist. Oder etwas, das wie Schwerkraft wirkt. Eine Quelle, zwei Phänomene."
-- *Maren:* „Und die Quelle ist —"
+- *Vesper:* „Dass dasselbe beide verzerrt. Uhren und Wasser. Eine Kraft, die beides biegt. Das geht nur, wenn —" (er sucht einen halben Atemzug) „— wenn es Schwerkraft ist. Oder etwas, das wie Schwerkraft wirkt. Eine Ursache, zwei Phänomene."
+- *Maren:* „Und die Ursache ist —"
 - *Vesper:* „Dort, wo beide Kurven in der Mitte ihren Scheitel haben, wenn ich die beiden Mittelpunkte suche."
 - *Alphina zieht die Karten näher.* „Das ist der Steinkreis."
 - *Vesper nickt.* In demselben Moment greift er mit der rechten Hand in die Rocktasche — nicht bewusst, reflexartig, er dreht den Schachturm, wenn er einen Zug sieht. Der Turm ist kalt, wie immer seit Karst. Dann, unter seiner Handfläche, für einen halben Atemzug: Wärme. Nicht heiß. Nur nicht kalt. Wie in der Nacht mit Sorel im Anker, als er die vier Resonanzen zum ersten Mal als System benannt hat. Er registriert es, dreht den Turm einmal, nimmt die Hand aus der Tasche. Der Turm ist wieder kalt. Er sagt nichts dazu — es ist seine eigene Sache.
-- *Sorel:* „Also eine einzige Quelle. Die Uhren nach, das Wasser rückwärts, die Pflanzen wie Marens Blatt, die Platten mit Dingen, die nicht da waren, die Fingerabdrücke — alles aus demselben Punkt."
-- *Maren:* „Das Wesen, das Vael einmal verbrannt hat, kam aus demselben Punkt."
+- *Sorel:* „Also eine einzige Mitte. Die Uhren nach, das Wasser rückwärts, die Pflanzen wie Marens Blatt, die Platten mit Dingen, die nicht da waren, die Fingerabdrücke — alles aus demselben Ort."
+- *Maren:* „Das Wesen, das Vael einmal verbrannt hat, kam aus demselben Ort."
 - *Alphina:* „Und Haron stand in einer Linie, die vierhundert Jahre zurückreicht."
 - Stille, aber die arbeitende Art.
 
@@ -187,7 +188,7 @@
 - Alphinas Trieb + Marens K22-Blatt als Spezies-Paar — Tschechow für Moragh-Flora in B2.
 - Vespers Schachturm-Wärme-Moment bei der Korrelations-Erkenntnis — unbenannt, aber gesetzt. Feuert später, wenn Vesper sich klar wird, dass sein Körper das System registriert, bevor sein Kopf es formuliert (B2+).
 - Der Junge mit versengtem Haar — Eskalationszeichen, feuert K30+ (Nacht-Angriff).
-- Halvards Fingerabdruck-Skizze neben Harons Ritual-Blatt — dieselben Hände, Tschechow für die Schem-Eskalation.
+- Halvards Fingerabdruck-Skizze neben Harons Blatt — dieselben Hände, Tschechow für die Schem-Eskalation.
 
 **Tschechow-Waffen abgefeuert:**
 - K11 (Vesper): 16 Uhren im Ringsystem mit Mittelpunkt Steinkreis — heute bestätigt und zur Korrelation erweitert.
@@ -212,8 +213,8 @@
 
 **Beats (sachliches Exposé, Vesper-POV):**
 
-- Nach der Korrelations-Erkenntnis entsteht keine Pause — Vesper greift in die Mappe, holt Harons Ritual-Blatt und Wörterbuch heraus. Beide trägt er seit K24 mit sich; sie lagen in seiner Werkstatt in einer Schublade, heute Morgen hat er sie in die Mappe getan.
-- Er legt das Ritual-Blatt in die Mitte. Sieben Rechtecke im Kreis, in der Mitte zusammengekauerte Gestalt, sieben Linien. Außen fremde Schrift. Maren erkennt die Handschrift der Ränder sofort — Haron, wie auf dem Werft-Register. Die Zeichnung der Rechtecke ist steifer, genauer, als hätte er sie mehrmals durchgezeichnet.
+- Nach der Korrelations-Erkenntnis entsteht keine Pause — Vesper greift in die Mappe, holt Harons Blatt und das Wörterbuch heraus. Beide trägt er seit K24 mit sich; sie lagen in seiner Werkstatt in einer Schublade, heute Morgen hat er sie in die Mappe getan.
+- Er legt das Blatt in die Mitte. Sieben Rechtecke im Kreis, in der Mitte zusammengekauerte Gestalt, sieben Linien. Außen fremde Schrift. Maren erkennt die Handschrift der Ränder sofort — Haron, wie auf dem Werft-Register. Die Zeichnung der Rechtecke ist steifer, genauer, als hätte er sie mehrmals durchgezeichnet.
 - Daneben das Wörterbuch. Achtzig Seiten, weicher Einband, Fadenbindung. Harons Handschrift in den thalassischen Übersetzungen, die Fremdsprache links, Thalassisch rechts. Manche Einträge sind durchgestrichen und neu geschrieben — er hat die Thalassisch-Seite mehrfach überarbeitet.
 
 **(A) Lenes Bericht als Rahmen.**
@@ -221,15 +222,16 @@
 - Alphina fasst Lenes Text noch einmal zusammen — knapp, aber so, dass Sorel (der im Archiv weniger gelesen hat als sie und Vesper) den Kontext hat.
 - Vier Fremde am Steinkreis: Elke (Stein), Keldan (Eisen), Kesper (Luft), Lene (Holz). Kein Ritual bekannt, sie drückten gleichzeitig die Hände auf den Fels. Der Raum gab einmal nach. Keldan fiel vor dem Durchgriff. Zwei griffen hinein und verschwanden. Lene blieb. Seit jener Nacht kam nichts mehr zu ihnen.
 - *Maren:* „Und Haron?"
-- *Alphina:* „Haron ist TZ 544 nach Vael gekommen. Adoptiert in die Dahl-Linie. Er hat die Sprache gelernt, nicht gesprochen von Anfang an. Das Wörterbuch ist sein Lernmaterial. Das Ritual-Blatt hat er gebracht."
-- *Sorel:* „Mit fremden Händen darauf."
+- *Alphina:* „Haron kam TZ 514 nach Vael. Dreißig Jahre später, TZ 544, wurde er von Anen und Meren Dahl adoptiert — sie waren kinderlos, er bekam den Namen. Die Dahl-Linie der Werft reichte vierhundert Jahre zurück, bis Lene. Mit Haron endete sie. Er hat die Sprache gelernt, nicht gesprochen von Anfang an. Das Wörterbuch ist sein Lernmaterial. Das Blatt hat er gebracht."
+- *Maren:* „Der Name ging weiter. Das Blut nicht. Er war nicht von hier — und er ist trotzdem hier geblieben, siebenunddreißig Jahre."
+- *Sorel:* „Mit fremden Händen auf dem Blatt."
 - *Vesper:* „Er war nicht allein, als er es brachte."
 
 **(B) Gemeinsames Übersetzen.**
 
-- Sie legen das Ritual-Blatt und das Wörterbuch nebeneinander. Alphina hat das Wörterbuch schon zweimal durchgeblättert (im Archiv). Sie sucht jetzt Wörter, die auf dem Ritual-Blatt mehrfach vorkommen.
+- Sie legen das Blatt und das Wörterbuch nebeneinander. Alphina hat das Wörterbuch schon zweimal durchgeblättert (im Archiv). Sie sucht jetzt Wörter, die auf dem Blatt mehrfach vorkommen.
 - **Methode entwickelt sich im Gespräch:**
-  - *Vesper:* „Wir suchen die Wiederholungen. Wörter, die fünfmal, zehnmal auf dem Ritual-Blatt stehen, sind Funktionsworte — der, die, das, Anweisungen, Pronomen. Die helfen uns wenig."
+  - *Vesper:* „Wir suchen die Wiederholungen. Wörter, die fünfmal, zehnmal auf dem Blatt stehen, sind Funktionsworte — der, die, das, Anweisungen, Pronomen. Die helfen uns wenig."
   - *Maren:* „Wir suchen die Wörter, die selten sind. Einmal, zweimal. Substantive, Fachbegriffe."
   - *Alphina:* „Und wir suchen die, die wir nachschlagen können. Mit Harons Liste."
   - *Sorel:* „Ich schreibe mit. Für jedes gefundene Wort eine Zeile."
@@ -242,13 +244,13 @@
 - **Viertes Wort: zweimal auf dem Blatt, in einer bestimmten Formel.** Es ist ein Zahlwort. Alphina und Vesper zählen zusammen die Schriftzeichen vor und nach — es ist die Ziffer vier. Im Wörterbuch bestätigt.
 - *Vesper:* „Sieben Steine. Vier Menschen. Gemeinsam. Öffnen."
 - *Alphina:* „Die Grundformel steht da. Wir verstehen sie nicht in allen Feinheiten. Aber die Form ist klar."
-- **Fünftes Wort: im Wörterbuch mit einer doppelten Übersetzung, erste Seite des Buches.** Es ist das Wort, das sie schon in K24 gesehen hat — ein Konzept-Wort, das Haron mit zwei verschiedenen Thalassisch-Versionen übersetzt hat: *„Heimat"* und *„mein Ort"*. Auf dem Ritual-Blatt kommt es nicht vor.
+- **Fünftes Wort: im Wörterbuch mit einer doppelten Übersetzung, erste Seite des Buches.** Es ist das Wort, das sie schon in K24 gesehen hat — ein Konzept-Wort, das Haron mit zwei verschiedenen Thalassisch-Versionen übersetzt hat: *„Heimat"* und *„mein Ort"*. Auf dem Blatt kommt es nicht vor.
 - *Alphina:* „Das Wort, mit dem er anfängt, wenn man in seiner Sprache anfängt. Es ist der erste Eintrag."
 - *Sorel:* „*Mein Ort.* Nicht *Heimat.* Das ist nicht dasselbe."
 - *Maren:* „Doch, auf Thalassisch ist es dasselbe. Man sagt *Heimat* für beides. Für Haron war es zwei Dinge — seine Geburtsstadt und sein Platz. Er hat hier beides nicht gehabt."
 - *Alphina leise:* „Also kam er von dort und blieb hier. Freiwillig?"
-- *Vesper:* „Das Ritual-Blatt zeigt, wie man öffnet. Nicht, wie man *zurückkommt.* Wenn er das Blatt gebracht hat, dann als Anleitung — aber für welchen Weg? Hierher oder dorthin?"
-- *Sorel:* „Vielleicht beides. Ein Portal ist ein Portal, egal in welche Richtung man hindurchgeht."
+- *Vesper:* „Das Blatt zeigt, wie man öffnet. Nicht, wie man *zurückkommt.* Wenn er das Blatt gebracht hat, dann als Anleitung — aber für welchen Weg? Hierher oder dorthin?"
+- *Sorel:* „Vielleicht beides. Eine Schwelle ist eine Schwelle, egal in welche Richtung man sie überquert."
 - *Alphina:* „Dann hätte er zurückgehen können."
 - *Maren:* „Er wollte nicht."
 - *Sorel:* „Oder konnte nicht."
@@ -256,43 +258,44 @@
 **(C) Die Pflanze als Bestätigung.**
 
 - Alphinas Blick fällt zurück auf das Glasröhrchen mit der fremden Pflanze.
-- *Alphina:* „Die Pflanze in deiner Werft. Sie gehört nicht hierher. Wenn Haron von dort kam — dann kam die Pflanze auch. Oder sie kam durch dieselbe Quelle, die Haron hergebracht hat. Der Steinkreis."
+- *Alphina:* „Die Pflanze in deiner Werft. Sie gehört nicht hierher. Wenn Haron von dort kam — dann kam die Pflanze auch. Oder sie kam über denselben Ort, der Haron hergebracht hat. Der Steinkreis."
 - *Maren:* „Sie wächst, wo das System am stärksten durchdringt. Die Fugen, die Mauerritzen. Wo der Stein am dünnsten ist."
-- *Vesper:* „Eine fremde Flora, die hierher sickert. Das bestätigt die Quelle."
+- *Vesper:* „Eine fremde Flora, die hierher sickert. Das bestätigt die Mitte."
 
 **(D) Erkenntnis und Entscheidung.**
 
 - Vesper fasst zusammen, laut, für alle:
-  - Eine einzige Quelle im Steinkreis, die Zeit und Wasser gleichzeitig verzerrt.
+  - Eine einzige Ursache im Steinkreis, die Zeit und Wasser gleichzeitig verzerrt.
   - Schemen kommen durch, berühren Papier und Menschen, legen Feuer, haben Vael einmal zu eineinhalb Männern Größe verbrannt.
   - Fremde Flora sickert hierher.
-  - Haron kam von dort, brachte das Ritual-Blatt, schrieb ein Wörterbuch, blieb.
-  - Die Grundformel des Rituals: sieben Steine, vier Menschen, gemeinsam, öffnen.
-  - Sie sind vier Resonanz-Träger am selben Ort.
+  - Haron kam von dort, brachte das Blatt, schrieb ein Wörterbuch, blieb.
+  - Die Grundformel der Anleitung: sieben Steine, vier Menschen, gemeinsam, öffnen.
+  - Sie sind vier Träger der Fähigkeiten, die Haron als Bedingung aufgeschrieben hat, am selben Ort.
 - *Vesper:* „Wir haben die Steine. Wir haben die vier. Wir haben die Anleitung — teilweise. Wir haben das Wörterbuch."
 - *Sorel:* „Wir haben nicht die Erfahrung. Lenes Gruppe hatte auch vier. Sie sind gescheitert."
 - *Alphina:* „Warum?"
-- *Vesper:* „Keldan fiel, bevor sie durchgriffen. Das Ritual braucht alle vier gleichzeitig. Drei halten nicht."
+- *Vesper:* „Keldan fiel, bevor sie durchgriffen. Die Anleitung braucht alle vier gleichzeitig. Drei halten nicht."
 - *Maren:* „Also müssen wir üben. Alle vier. Gleichzeitig halten, ohne zu fallen."
 - *Sorel:* „Und wir müssen die Sprache weiter lernen. Was wir heute übersetzt haben, ist die Form. Die Feinheiten stehen in den Wörtern, die wir noch nicht entziffert haben."
 - *Vesper:* „Dann machen wir genau das. Zwei Stränge parallel. Übersetzen. Üben."
 - **Sorel stellt die zentrale Frage.** *„Aber warum gehen wir überhaupt? Üben, ja — wir müssen stärker werden, sonst sind wir wehrlos. Aber *hindurch?* Warum?"*
 - **Die Antwort setzt sich zusammen.**
-  - *Alphina:* „Weil das, was hier passiert — der Junge mit dem versengten Haar, die Hände am Ritual-Blatt, Halvards Patienten — nicht abgestellt werden kann, solange wir nur auf der Ausgangsseite stehen. Wir sehen, was ankommt. Nicht, was hingeht."
+  - *Alphina:* „Weil das, was hier passiert — der Junge mit dem versengten Haar, die Hände am Blatt, Halvards Patienten — nicht abgestellt werden kann, solange wir nur auf der Ausgangsseite stehen. Wir sehen, was ankommt. Nicht, was hingeht."
   - *Maren:* „Weil Haron von dort kam. Etwas hat ihn hergebracht. Er hat das Wörterbuch zurückgelassen. Das ist eine Geste. Ich weiß nicht, ob Gruß oder Frage, aber sie ist an uns gerichtet."
   - *Sorel:* „Für uns?"
   - *Maren:* „Für die nächsten Vier. Und das sind wir."
-  - *Vesper:* „Symmetrisch. Wenn das Portal offen ist, ist es offen. Nicht nur einseitig. Wenn es hier durchkommt, können wir hin."
+  - *Vesper:* „Symmetrisch. Wenn die Schwelle offen ist, ist sie offen. Nicht nur einseitig. Wenn es hier durchkommt, können wir hin."
   - *Alphina:* „Und wir wollen wissen, warum wir sind, wer wir sind."
 - *Sorel nickt, langsam. Kein Widerspruch mehr.*
 - **Entscheidung ist gefallen.** Keiner sagt „ja". Die Formel „wenn es hierher kann, können wir dorthin" steht jetzt nicht mehr im Konjunktiv, sondern als Arbeitsgrundlage.
 - **Aufteilung:**
-  - *Vesper und Maren:* Übersetzung, ab sofort, an diesem Tisch. Harons Wörterbuch als Rosetta, Ritual-Blatt als Aufgabe. Ziel: die Grundformel verstehen, plus die Warnungen und Bedingungen.
-  - *Alphina und Sorel:* Resonanz-Üben, ab morgen im Garten, tagsüber, nicht am Steinkreis selbst, sondern weiter außen. Licht und Pflanze — Fortsetzung des K23-Experiments. Später Wasser und Zeit dazu, wenn Maren und Vesper Zeit haben.
-  - *Runa:* bleibt außen vor. Alphina hält den Kontakt über die Druckerei, beobachtet weiter. Neubewertung in zwei Wochen.
+  - *Vesper und Maren:* Übersetzung, ab sofort, an diesem Tisch. Harons Wörterbuch als Rosetta, das Blatt als Aufgabe. Ziel: die Grundformel verstehen, plus die Bedingungen.
+  - *Alphina und Sorel:* Üben, ab morgen im Garten, tagsüber, nicht am Steinkreis selbst, sondern weiter außen. Licht und Pflanze — Fortsetzung des K23-Experiments. Später Wasser und Zeit dazu, wenn Maren und Vesper Zeit haben.
+  - *Runa:* bleibt vorerst außen vor. Alphina hält den Kontakt über die Druckerei, beobachtet. Neubewertung, wenn ihre Körperwärme anders wird oder sie selbst fragt.
   - *Halvards Protokolle:* bleiben bei Vesper. Er führt sie weiter, wenn neue Patienten kommen.
-- *Vesper:* „Wir wissen nicht, wie lange das dauert. Zwei Wochen. Vielleicht vier. Wenn die Eskalation schneller wird, beschleunigen wir."
-- *Alphina:* „Wir haben Zeit, solange es hier keinen Ausbruch gibt."
+  - **Mehr über Haron herausfinden (Maren-Auftrag, später):** Maren nimmt sich vor, die Leute zu fragen, die Haron noch kannten. Edric Dahl, der Werftmeister (Harons Geselle, echter Vaeler). Die Nachbarn in der Hafengasse. Die alten Werftler, die noch Anen und Meren gekannt haben. Siebenunddreißig Jahre Vael, und niemand hat ihn wirklich gekannt. Sie weiß, dass das Zeit braucht — sie nimmt es trotzdem mit auf die Liste. Wer hat Haron adoptiert? Warum ausgerechnet ihn? Woher kam er? Wann hat er das Wörterbuch geschrieben — früh, spät?
+- *Vesper:* „Wir wissen nicht, wie lange das dauert. Wochen. Wahrscheinlich Monate. Die Sprache ist nicht in zehn Tagen. Das Üben noch weniger. Wir arbeiten, bis wir halten können, was wir halten müssen."
+- *Alphina:* „Wir haben die Zeit, die uns die Kurve lässt. Nicht mehr. Wir fangen heute an."
 - *Maren:* „Solange die Grauwe nicht anders fließt als heute."
 
 **(E) Aufbruch.**
@@ -300,7 +303,7 @@
 - Sorel steht zuerst auf. Er legt die Platten zurück in die Mappe, ordentlich. Alphina greift ihren Mantel vom Stuhl. Am Knopf ein halber Atemzug, kürzer als beim Ankommen. Sie knöpft zu, sieht Maren an, sieht Vesper an, nickt beiden. Sorel legt die Hand für einen Moment auf ihren Rücken, knapp über dem Schulterblatt, lässt sinken. Alphina nimmt seine Hand. Sie gehen.
 - An der Tür dreht Alphina sich einmal um. Ihr Blick geht zu Maren, nicht zu Vesper. Maren nickt einmal. Tür ins Schloss.
 - **Vesper und Maren allein.**
-- Maren schiebt Harons Wörterbuch auf die Mitte des Tisches, neben das Ritual-Blatt. Sie räumt die Humpen weg, außer ihrem und seinem. Sie holt zwei Bleistifte, einen dritten für Korrektur. Sie setzt sich.
+- Maren schiebt Harons Wörterbuch auf die Mitte des Tisches, neben das Blatt. Sie räumt die Humpen weg, außer ihrem und seinem. Sie holt zwei Bleistifte, einen dritten für Korrektur. Sie setzt sich.
 - Sie sieht Vesper an, einmal, länger als nötig. *„Bleib noch."* Nicht Frage, nicht Befehl. Feststellung.
 - Vesper bleibt. Er streift den Schachturm in der Rocktasche. Kalt, wie immer. Er legt Harons Wörterbuch vor sich, Maren hat es schon aufgeschlagen. Sie fangen an mit dem nächsten nicht übersetzten Wort.
 - **Schluss-Beat (innerer Beat Vesper, nicht ausgesprochen):** Er hat seit der Nacht mit den sechsundzwanzig stehengebliebenen Uhren in Karst nicht mehr gearbeitet, ohne dass das Werkstück am Ende ging. Heute hat er etwas vor sich, von dem er nicht weiß, ob es geht. Zum ersten Mal seit fünfzehn Jahren. Maren neben ihm, der Bleistift in ihrer rechten Hand, der Daumen am Radiergummi. Er fängt an.
@@ -316,13 +319,13 @@
 **Tschechow-Waffen geladen:**
 - Harons Randbemerkung „nicht allein. nie allein." — persönliche Geste, Tschechow für Harons Vereinsamung, feuert in Buch 2 (wenn Maren versteht, wer Haron war).
 - Die doppelte Übersetzung „Heimat / mein Ort" — Tschechow für die Buch-2-Fragen (war Haron Exilant? Gesandter? Spion?).
-- Die ungelesenen Wörter auf dem Ritual-Blatt — Feinheiten, die später in der Übersetzung auftauchen, feuern in K29/K31 (Ritual-Teilschritte werden klarer).
+- Die ungelesenen Wörter auf dem Blatt — Feinheiten, die später in der Übersetzung auftauchen, feuern in K29/K31 (Ritual-Teilschritte werden klarer).
 - Alphinas Blick an der Tür, der Maren galt — Frauensolidarität ohne Worte, Tschechow leise.
 - Marens *„Bleib noch."* — direkter Bogen zu K27.
 - Vespers letzter innerer Beat (zum ersten Mal seit Karst ein ungewisses Werkstück) — Tschechow für Vesper-Arc, feuert in K32 (Schwerkraftanomalie-Lösung) und B2+.
 
 **Tschechow-Waffen abgefeuert:**
-- K24 Ritual-Blatt + Wörterbuch: heute teilweise übersetzt.
+- K24 Blatt + Wörterbuch: heute teilweise übersetzt.
 - K24 Lenes Manuskript: Grundstruktur bestätigt, Scheitern erklärt (Keldan fiel).
 - K22 Pflanze: Quelle erklärt (fremde Flora aus drüben).
 - K09 Runas Halvard-Hinweis: heute in der Gruppe angekommen, als Sammlung.
@@ -345,7 +348,7 @@
 - Seine Drift-Karte: sechzehn Uhren, Mittelpunkt Steinkreis, Tidemoor als Sonderfall.
 - Alphina, Sorel, Maren als Resonanz-Träger (K18-Erkenntnis, seit K19 bestätigt).
 - Alphinas Halvard-Hinweis vor acht Tagen, zwei eigene Halvard-Besuche danach.
-- Harons Wörterbuch und Ritual-Blatt aus dem Archiv (K24), bei sich seit gestern.
+- Harons Wörterbuch und Blatt aus dem Archiv (K24), bei sich seit gestern.
 - Marens Gezeiten-Anomalien aus Gesprächen seit K17/K20, aber ohne Periodizität zuzuordnen.
 - Lenes Manuskript-Text und die Feuer-Wesen-Skizze aus K24.
 - Marens Rathausplatz-Satz, die Kälte in den Körpern aller vier seit gestern.
@@ -360,7 +363,7 @@
 - **Zeitfenster:** Zwei Wochen Training und Übersetzung sind das Maximum, nicht das Soll. Wenn die Kurve hält, haben sie in einem Monat ein Feuer-Wesen in Vael.
 - Runa ist im Ringsystem (mittlerer Ring), wahrscheinlich Resonanz-Trägerin. Nicht eingeweiht, beobachtet.
 - Halvards Patienten tragen die Schem-Fingerabdrücke aus K24. Eskalation: erster Fall Hände-zu-Haut (der Junge, die Frau mit dem Abdruck am Oberarm).
-- Haron kam von drüben, sprach die fremde Sprache als Muttersprache, lernte Thalassisch, schrieb das Wörterbuch, brachte das Ritual-Blatt, blieb.
+- Haron kam von drüben, sprach die fremde Sprache als Muttersprache, lernte Thalassisch, schrieb das Wörterbuch, brachte das Blatt, blieb.
 - Die Pflanze in Marens Werft gehört zu einer fremden Flora, die hier durchsickert.
 - Die Grundformel des Rituals: sieben Steine, vier Menschen, gemeinsam, öffnen.
 - Lenes Gruppe scheiterte, weil Keldan fiel. Das Ritual braucht alle vier gleichzeitig.
