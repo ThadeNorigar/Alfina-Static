@@ -2,38 +2,50 @@
 kategorie: Welt Vael warm (Werft, Hafen, Material)
 pov: Maren
 figuren: Maren, Edric (Werftmeister)
-register: Dark Fantasy Atmosphäre — warm
+register: Dark Fantasy Atmosphäre — warm, mit leisem Moragh-Leckage-Unterton
 heat_level: keine
-primaer_referenz: Sierra Simone (Priest) — Material, Wachs, Samt, Stein + King-Dichte
-ergaenzende_referenz: Maas (ACOTAR) — sinnliche Dichte
-zweck: Ton-Referenz für Welt-Beschreibungen aus Marens POV. Material-Erstnennung (Pech, Hanf, Teer, Eiche), Körperbeats im Arbeiten, warmer Ton ohne Kitsch. Setzt das Schiffbau-Register für die ganze Werft.
-canon_status: Ton-Etüde. Beliebiger Vormittag in der Ilves-Werft.
+primaer_referenz: Sierra Simone (Priest) — Material (Pech, Hanf, Eiche) als Spannungs-Rahmen; King-Dichte als Untergrund
+ergaenzende_referenz: Maas (ACOTAR) — Figur-körperlich-im-Raum; Bardugo (Ausschluss) — Moragh-Detail leise
+zweck: Ton-Referenz für Maren-POV-Welt-Beschreibungen. Werft-Register + Material erhalten, aber mit Figur-Motor (Müdigkeit + Wollen, den Tag zu schaffen) und einem subtilen Moragh-Leckage-Beat (kalte Stelle am Spant). Commercial-Gate: Figur will was, Körper-Beat früh, leise Drohung unter der warmen Oberfläche.
+canon_status: Ton-Etüde. Beliebiger Vormittag in der Ilves-Werft, B1 Akt I/II. Zweite Version — erste war zu atmosphärisch ohne Motor (45% Council-Score).
 ---
 
-Die Werft roch um sieben wie um sieben. Pech im Kessel, weil Edric ihn schon um sechs angeworfen hatte; frischer Hanf, weil die Lieferung gestern gekommen war und unter der Plane noch das Bindfaden-Aroma hatte, bevor es sich in den Wochen mit Salz und Öl mischen würde; und darunter die Hallenluft der Eiche, die beim Abrichten das Holz aufwärmte, bis das Harz in den Poren zu schwitzen begann.
+Maren hatte seit vier Uhr nicht mehr geschlafen, und die Werft würde daran nichts ändern.
 
-Maren legte den Daumen auf die Schnittfläche des Spants, den Edric gestern abgeschliffen hatte. Das Holz war glatt, ohne Riefen, und unter dem Daumen spürte sie die schwache Welligkeit des Abrichthobels — sechs Striche, jeder einen Finger breit, jeder sauber. Er hatte nicht geeilt.
+Sie stand vor dem Spant, den Edric gestern abgerichtet hatte, und legte den Daumen auf die Schnittfläche. Das Holz war glatt, ohne Riefen. Sechs Striche des Abrichthobels, jeder einen Finger breit, jeder sauber — Edric hatte nicht geeilt, und sie hätte es bemerkt, wenn er es doch getan hätte.
 
-»Zeig her«, sagte sie.
+Eine Stelle in der Mitte war kühler als der Rest.
 
-Edric reichte ihr das Hobeleisen. Sie hielt es gegen das Fenster. Der Schliff war frisch, der Grat noch da, die Fase im richtigen Winkel. Sie gab es ihm zurück, ohne zu kommentieren. Er nickte einmal und ging zurück zum Kessel.
+Maren hob den Daumen, setzte ihn neu, spürte es wieder. Fingerbreit, nicht mehr. Sie legte die Hand flach darauf und ließ sie liegen, bis ihre Haut die Kälte zugedeckt hatte. Kein Wasser an der Oberfläche, keine Feuchtigkeit an der Unterseite, als sie nachsah. Eiche sollte sich so nicht anfühlen. Sie merkte es sich, ohne es zu benennen.
 
-Das Hallentor stand einen halben Meter offen. Durch den Spalt kam das Licht der Grauwe — grau, nicht silbrig, weil die Wolken tief hingen und das Wasser das Grau zurückwarf —, und in dem Licht sah sie den Staub der letzten Bohle in der Luft hängen. Späne, nicht Mehl. Noch nicht so lange abgerichtet, dass es Mehl geworden war. Sie atmete ein und spürte die Späne im Hals, angenehm, wie immer, wie das Salz am ersten Tag auf der Ilves-Insel.
+Sie ging zum Werkzeugbord und nahm Edrics Hobeleisen, das dort lag. Hielt es gegen das Fenster. Schliff frisch, Grat noch da, Fase im richtigen Winkel. Sie legte es zurück.
 
-Sie trat ans Werkzeugbord. Die Stemmeisen hingen nach Breite sortiert, alle mit der Schneide nach unten; sie hatte Edric einmal erklärt warum, und er hatte es sich gemerkt. Das zehnte Eisen von links — das schmalste — fehlte. Sie drehte sich um.
+»Edric. Nach dem Mittag machen wir das Ruderblatt.«
 
-»Edric.«
+Er hob den Kopf vom Kessel. »Passt.«
 
-»Beim Achtersteven.«
+Er legte ein Scheit nach und bückte sich wieder über das Pech. Pech blubberte, weil er ihn schon um sechs angeworfen hatte. Daneben unter der Plane der frische Hanf, der noch das Bindfaden-Aroma hatte, bevor es sich in den Wochen mit Salz und Öl mischen würde. Und darunter die Hallenluft der Eiche, die beim Abrichten das Holz aufwärmte, bis das Harz in den Poren zu schwitzen begann. Jede Woche dasselbe Register, und es hatte sie durch schlimmere Morgen getragen.
 
-»Wann kommt es zurück.«
+Sie nahm die Tasse von der Werkbank. Kalter Zichorien-Kaffee, vor zwei Stunden gekocht. Sie trank einen Schluck. Bitter und ohne Geschmack. Sie trank ihn trotzdem.
 
-»Mittag.«
+Vom Hafen kam der Schlag eines Holzhammers. Zweimal, dreimal, dann Stille. Eine Kalfaterung, die endlich saß — der dritte Schlag klang hohler, weil das Werg jetzt in der Fuge saß und das Holz drum herum dicht war. Haron hatte ihr beigebracht, Kalfaterungen zu hören. Haron hatte ihr vieles beigebracht.
 
-Gut. Sie ging nicht zum Achtersteven. Sie lehnte sich an die Werkbank, nahm die Tasse, die dort stand — kalter Zichorien-Kaffee, den sie um sechs gekocht und dann vergessen hatte —, und trank einen Schluck. Der Kaffee war bitter und schmeckte nach nichts. Sie trank ihn trotzdem.
+Sie stellte die Tasse ab.
 
-Vom Hafen kam der Schlag eines Holzhammers, zweimal, dreimal, dann Stille. Jemand hatte eine Kalfaterung nicht sitzen gehabt und es jetzt geschafft. Sie hörte es daran, dass der dritte Schlag anders klang als die ersten beiden — hohler, weil das Werg jetzt in der Fuge saß, und weil das Holz drum herum dicht war. Haron hatte ihr beigebracht, Kalfaterungen zu hören. Haron hatte ihr vieles beigebracht.
+Das Stemmeisen, das zehnte von links, das schmalste — fehlte. Sie drehte sich um.
 
-Sie stellte die Tasse ab. Draußen hob der Wind um einen halben Strich. Der Kessel unterm Pech blubberte ein wenig lauter, und Edric legte ein Scheit nach. Das Licht durch den Torspalt verschob sich um zwei Finger.
+»Edric, wo ist das schmale Stemmeisen?«
 
-Neun Uhr etwa. Sie musste an das Ruderblatt.
+Er hob den Kopf wieder, wischte sich die Hände am Kittel ab. »Pellin hat es am Achtersteven. Kommt zum Mittag zurück.«
+
+»Gut.«
+
+Sie ging nicht zum Achtersteven. Sie ging zur Werkbank zurück, legte die Hände flach darauf und zwang sie ruhig, bis sie ruhig waren.
+
+Neun Uhr etwa. Frachtbrief. Dann die Bestellung aus Sundstein. Nach dem Mittag das Ruderblatt mit Edric. Dann ins Bett.
+
+Sie atmete ein. Pech, Hanf, Eiche. Die Werft trug sie heute, wie sie es immer tat.
+
+Den Spant sah sie nicht noch einmal an. Die kalte Stelle saß in ihrem Daumen, wo die Haut sich gemerkt hatte, und das würde sie am Abend prüfen, wenn Edric nicht mehr da war.
+
+Sie ging zur nächsten Sache.
