@@ -36,11 +36,11 @@ Sie ging in die Knie, vor ihm. Der Boden war hart, und unter ihren Knien war nic
 
 Er hob den Kopf einen halben Zoll. Das reichte.
 
-Sie wusste nicht, was sie sagen sollte. Sie wusste, was sie vor drei Tagen getan hatte. Sie wusste, dass die Zahl der Kinder, die so geatmet hatten, nachdem sie selbst die Quelle überladen hatte, nicht null war. Sie wusste nicht, wie viele, und sie hatte es nicht gefragt.
+Sie wusste nicht, was sie sagen sollte. Was sie vor drei Tagen getan hatte, wusste sie. Sie wusste, dass die Zahl der Kinder, die so geatmet hatten, nachdem sie selbst die Quelle überladen hatte, nicht null war. Wie viele, hatte sie nicht gefragt.
 
 »Es tut mir leid«, sagte sie.
 
-Der Junge zog einmal tiefer ein, und es klang, als wolle die Brust zerreißen, und dann ließ er es wieder raus. Er hob die Hand, die dicken Knöchel, die Pergamenthaut, und legte sie ihr an die Wange. Zwei Finger breit. Seine Haut war kühl und leicht.
+Der Junge zog einmal tiefer ein. Das Kratzen riss. Dann ließ er es wieder raus. Er hob die Hand, die dicken Knöchel, die Pergamenthaut, und legte sie ihr an die Wange. Zwei Finger breit. Seine Haut war kühl und leicht.
 
 Er lächelte. Nicht nett. Müde.
 
