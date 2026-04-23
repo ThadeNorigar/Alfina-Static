@@ -6,12 +6,14 @@
 
 ## Übersicht (Stand nach Verifikation 23. Apr)
 
-| Schwere | Gesamt | Gelöst durch Canon | Gefixt | Fehlalarm | Offen |
+| Schwere | Gesamt | Gelöst durch Canon/Autor | Gefixt | Fehlalarm | Offen |
 |---|---|---|---|---|---|
-| Kritisch (A) | 8 | 6 (A2, A3, A4, A5, A6, A8) | 0 | 1 (A1) | 1 (A7) |
+| Kritisch (A) | 8 | 7 (A2, A3, A4, A5, A6, A7, A8) | 0 | 1 (A1) | 0 |
 | Mittel (B) | 18 | 2 | 1 (B17) | 2 (B3, B10) | 13 |
 | Klein (C) | ~12 | 1 | 0 | 1 (C3) | 10 |
-| **Summe** | **~38** | **9** | **1** | **4** | **24** |
+| **Summe** | **~38** | **10** | **1** | **4** | **23** |
+
+**Alle A-Findings abgearbeitet.** 23 offene Findings verteilt auf B (13) und C (10) — alle Plot-/Prosa-Entscheidungen ohne kritische Konsistenzverletzung.
 
 ## Verifikations-Lektion (23. Apr)
 
@@ -60,12 +62,11 @@ Drei Canon-Infrastruktur-Entscheidungen lösen zusammen viele Folge-Findings:
 - **Files aktualisiert:** `nebenfiguren/haron-dahl.md` (Chronologie-Tabelle ergänzt, "Über 80" → "~70", "~66 Jahre" → "~37 Jahre").
 
 ### A7 · Runa · K9 Halvard-Zugang + Uhrmacher-Zahlen unplausibel
-- **Befund:** K9 zeigt Runa mit präzisen Daten (Halvards Patienten-Fakten, exakte Tidemoor-Uhr-Zahlen 4:33). Drei Lücken:
-  1. Wie kennt sie Halvard persönlich?
-  2. Warum teilt ein Arzt Patientengeheimnisse mit Fremden?
-  3. Woher hat sie präzise Uhren-Zahlen von einer Magd?
-- **Status:** ◻ **Offen** — Plot/Setup-Fix in K5 oder K9.
-- **Möglicher Fix:** Runa/Halvard-Vorkontakt etablieren (Runa druckt medizinische Aushänge; oder Halvard ist Runa-Kunde). Zahlen von der Magd ersetzen durch "ein reisender Uhrmacher im Anker hat sie gemessen".
+- **Status:** ✅ **Gelöst 23. Apr** — Autor-Entscheidung:
+  1. **Halvard-Zugang:** Runa lebt seit Längerem in Vael, darf dort Menschen kennen. Kein Setup nötig.
+  2. **Patientengeheimnisse:** implizit über Vertrauens-Beziehung zu Runa, nicht zu fixen.
+  3. **Uhrmacher-Zahlen:** Magd hat die 4:33 aus dem Haushalt mitbekommen (Vesper sprach sie laut vor Herrn Tidemoor aus, dienstbotische Kettenweitergabe ist alltagsplausibel). K7-Text bleibt unverändert.
+- **Text-Prüfung K7:** Magd ist nicht im Raum beim expliziten Aussprechen, aber als Hausangestellte plausibel durch Gespräche der Herrschaft informiert. Nicht forensisch wasserdicht, aber akzeptabel.
 
 ### A8 · Varen + Elke · I3 endet ohne Varen-Empfang
 - **Status:** ✅ **Gelöst 23. Apr** — Canon: **Finaler I3-Text ist führend.** Elke kommt allein auf Moragh-Boden an. Kespers Tod unterwegs (Riss schloss einen Atemzug zu kurz). Vael-Feuer-Wesen verblasst aus eigener Kraft nach Stunden, weil Portal zu und Bindung durch Welten-Trennung zu schwach für aktives Kappen. Varens Empfang erfolgt off-page zwischen I3 und B1.
