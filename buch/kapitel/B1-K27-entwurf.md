@@ -2,14 +2,14 @@
 
 **POV:** Maren (3. Person nah, Präteritum)
 **Timeline:** 26./27. Blütenmond 551 TZ, späte Nacht · unmittelbarer Anschluss an K26 (Tür fällt ins Schloss, Marens *„Bleib noch."*) · Marens Wohnung in der Hafengasse, fünf Straßen nördlich der Werft
-**Wortziel Ausarbeitung:** 4.000–4.500 W
+**Wortziel Ausarbeitung:** 4.200–4.700 W
 **Gänsehaut-Moment:** In der Stille, die Vesper ihr gibt, hört Maren zum ersten Mal eindeutig ein Pochen unter der Stadt — nicht durch den Boden als Geräusch, sondern in ihrem eigenen Brustkorb, rhythmisch, stetig, zu langsam für die Grauwe und zu schnell für die Gezeiten. Ein fremder Takt, den ihr Körper kennt, bevor ihr Kopf ihn einordnen kann. Kein Raum-Effekt (kein Glas bewegt sich, keine Kerze zuckt), sondern ihre eigene Wasser-Resonanz, die sich im Stillwerden zum ersten Mal meldet statt weggedrückt zu werden. Sie sagt nichts. Vesper merkt an ihrem Atem, dass etwas passiert ist, und wartet.
 
 **Ton-Ziel dieses Kapitels:**
 - Primär: **Réage (Histoire d'O)** — Material-Präzision, Dom-Stimme als erklärte Funktion, Anatomie direkt, Körper vor Kopf, Paradox von Nähe und Kontrolle.
 - Ergänzend: **Rampling (Exit to Eden)** für Sub-POV mit psychologischer Tiefe; **Reisz (Original Sinners)** für Dom mit Innenleben, Submission als Wollen.
 - Leseproben-Anker: **04 (Alltags-Power-Exchange V/M)** und **06 (Aftercare)**. **Nicht Leseprobe 05** — zu explizit für diese Szene. K27 ist *erste Nacht ohne Werkzeug*: keine Bondage, kein Band, kein Ring. Nur Hand, Stimme, Stille, Haltung. Commercial BDSM in der leisesten Form.
-- Heat-Level: explizit BDSM auf der Ebene von Power-Exchange, **keine Sexszene**. Kein Orgasmus, keine Nacktheit über das hinaus, was Entkleiden vor dem Schlaf ohnehin bedeutet. Das Kapitel endet, bevor ein Bett betreten wird — Maren schläft auf der Wohnzimmer-Matte.
+- Heat-Level: explizit BDSM auf der Ebene von Power-Exchange. Szene 3 enthält angewiesenen Vollauszug (Maren nackt auf Anweisung, mit geschlossenen Augen) und sanfte, nicht-sexualisierte Ganzkörperberührung (Arme, Schultern, Rücken entlang). **Keine Sexszene, kein Orgasmus, keine Berührung von Brust, Hüft-Vorderseite, Schenkel-Innenseiten oder Genitalien.** Das Kapitel endet, bevor ein Bett betreten wird — Maren schläft auf der Wohnzimmer-Matte, unter Vespers Gehrock, die Wolldecke über den Beinen.
 - Keine Werft-Atmosphäre. Die Wohnung ist ihre Kajüte, nicht ihre Arbeit. Materialdichte dosiert: Lärche, Leinen, Wolle, Messing, Kerzenwachs, Tintenharz — 1–2×/Kapitel, nie gehäuft.
 
 ---
@@ -18,7 +18,7 @@
 
 **Wortziel:** 1.200–1.400 W
 
-**Ort:** Marens Wohnung, Arbeitsraum (Wohnzimmer), der lange Tisch, an dem K26 stattfand. 26. Blütenmond 551 TZ, kurz nach Mitternacht-Nähe (Kerzen sind heruntergebrannt, zwei Öllampen noch an, die anderen aus). Draußen Hafengasse — Schritte eines Nachtwächters zweimal weit weg, sonst still. Die Tür ist noch warm von Alphinas Hand am Drücker. Auf dem Tisch: Harons Wörterbuch, aufgeschlagen an der Seite, an der sie in K26 aufgehört haben (fünf Wörter gefunden: *Kreis, öffnen, gemeinsam, vier, Heimat*). Daneben das Blatt mit den Ritualanweisungen aus dem Archiv. Humpen — zwei, nicht vier. Zwei Bleistifte und ein dritter für Korrektur. Ein Papierbogen mit den heutigen Notizen. Der Glaszylinder mit dem Blatt aus der Werft steht weiter am Mitteltisch. Am Fenster der Messingkompass. Kamin fast aus, Restglut.
+**Ort:** Marens Wohnung, Arbeitsraum (Wohnzimmer), der lange Tisch, an dem K26 stattfand. 26. Blütenmond 551 TZ, kurz nach Mitternacht-Nähe. Von den sechs Öllampen, die Maren für das Treffen in Dosierung auf Tisch und Sims gestellt hatte (K26-Canon), brennen jetzt noch vier — zwei auf dem Tisch, zwei auf dem Sims; die zwei am Kamin sind zuerst heruntergebrannt. Kerzen zusätzlich auf dem Tisch, die ältesten schon unter der Halsung. Draußen Hafengasse — Schritte eines Nachtwächters zweimal weit weg, sonst still. Die Tür ist noch warm von Alphinas Hand am Drücker. Auf dem Tisch: Harons Wörterbuch, aufgeschlagen an der Seite, an der sie in K26 aufgehört haben (fünf Wörter gefunden: *Kreis, öffnen, gemeinsam, vier, Heimat*). Daneben das Blatt mit den Ritualanweisungen aus dem Archiv. Humpen — zwei, nicht vier. Zwei Bleistifte und ein dritter für Korrektur. Ein Papierbogen mit den heutigen Notizen. Der Glaszylinder mit dem Blatt aus der Werft steht weiter am Mitteltisch. Am Fenster der Messingkompass. Kamin fast aus, Restglut.
 
 **Beats (sachliches Exposé, Maren-POV):**
 
@@ -27,13 +27,13 @@
 - Maren räumt die übrig gebliebenen zwei Humpen zu den zweien, die sie behalten will, und trägt die anderen in die Küche. Sie kommt zurück. Sie schiebt ihren Stuhl näher, diesmal nicht ihm gegenüber, sondern neben ihn — linke Seite des Tisches, rechte Schulter an seiner linken. Sie hat das in K26 nicht getan. Sie tut es jetzt ohne Erklärung.
 - Sie schlagen das nächste nicht übersetzte Wort auf. Maren liest die Handschrift Harons: sechs Zeichen, von denen zwei Bestandteile sind, die sie aus den bereits gefundenen Wörtern kennt (dasselbe Wurzelzeichen wie in *Kreis*, dasselbe Suffix wie in *gemeinsam*). Sie macht mit dem Bleistift die Trennung sichtbar. Vesper sieht zu, ohne einzugreifen.
 - *Arbeit, gemeinsam, still.* Sie finden nach einigen Minuten eine plausible Lesart: *schwelle* oder *übergang*. Das passt zu dem, was sie aus K24 im Bauch haben. Maren schreibt es in die Liste. Vesper nickt.
-- Zwei weitere Wörter versuchen sie. Bei dem einen kommen sie nicht weiter — das Wurzelzeichen sieht aus wie in *Heimat*, aber es hat einen Zusatzstrich, den keins der fünf Wörter aus K26 trägt. Vesper: *„Wir lassen es liegen. Das ist morgen."* Maren nickt. Sie legt den Bleistift quer über die Seite, die Markierung sichtbar.
+- Zwei weitere Wörter versuchen sie. Bei dem einen kommen sie nicht weiter — das Wurzelzeichen sieht aus wie in *Heimat*, aber es hat einen Zusatzstrich, den keins der fünf Wörter aus K26 trägt. Vesper sagt, dass sie das bis morgen liegenlassen sollten; bei Tageslicht werde der Zusatzstrich klarer zu lesen sein, und im Übrigen sei er sich fast sicher, dass das Wort in den nächsten Seiten noch einmal vorkommt, vielleicht deutlicher. Maren nickt, legt den Bleistift quer über die Seite, die Markierung sichtbar.
 - Zwischen dem zweiten und dritten Wort legt Vesper die rechte Hand auf ihre linke Schulter. Nicht plötzlich, nicht geplant — er beugt sich vor, um auf eine Zeile weiter oben zu deuten, und im Nachdeuten bleibt die Hand. Er nimmt sie nicht weg. Er sagt nichts dazu. Er deutet nicht ein zweites Mal.
 - **Maren registriert die Geste exakt.** Sie weiß sofort: das ist nicht K19. In K19 lag ein Verband unter seiner Hand, und sein Daumen war auf ihrer Schlüsselbeinrille, um den Puls zu prüfen — so hieß die Ausrede. Heute ist kein Verband da. Kein Grund. Die Hand liegt schwer, warm, flach auf Wolle und Leinen. Sie spürt die Fingerspitzen einzeln.
 - Sie bewegt sich nicht. Sie atmet einmal durch, etwas tiefer als vorher, und bleibt über dem Buch. Das ist ihre Antwort. Sie macht nicht weiter beim Lesen, aber sie zieht sich auch nicht weg.
 - Vesper wartet drei, vier Atemzüge. Dann sagt er, leise, ohne den Ton zu heben: *„Lies weiter."* Sie liest weiter. Unter seiner Hand. Sie kommt nicht voran — die Zeichen stehen, aber in ihrem Kopf läuft etwas anderes, dringlicher, schneller als das Entziffern.
 - Er merkt es. Er nimmt die Hand nicht weg. Er wartet länger.
-- **Innerer Beat — Maren:** Sie denkt, dass sie seit Solha mit keinem Mann an einem Tisch gesessen hat, an dem sie ihre Hände nicht gewusst hätte. Sie weiß ihre Hände jetzt nicht. Der Bleistift liegt zwischen Daumen und Zeigefinger der Rechten, aber er bewegt sich nicht. Der Daumen ruht auf dem Radiergummi. Das ist Werft-Haltung — die Hand bereit, nichts zu tun.
+- **Innerer Beat — Maren:** Sie denkt, dass sie seit Solha mit keinem Mann an einem Tisch gesessen hat, bei dem ihre Hände nicht von selbst eine Aufgabe gefunden hätten — ein Glas rücken, einen Zettel glattstreichen, nach dem Kerzenstumpf greifen. Jetzt finden sie keine. Der Bleistift liegt zwischen Daumen und Zeigefinger der Rechten, aber er bewegt sich nicht. Die Hand ist geformt wie für die Arbeit und tut doch nichts. Das ist Werft-Haltung — bereit und ohne Auftrag.
 
 **Dialog-Informationen (zu transportierende Inhalte):**
 - *Maren erfährt / benennt:* Alphinas Wärme am Drücker (Cross-POV-Beleg für Alphinas K25-Körperwärme). Sie registriert es, keine Theorie.
@@ -49,7 +49,7 @@
 - **Das siebte, offene Wort mit dem Zusatzstrich** — Tschechow für K29–K31. Die Feinheiten des Rituals liegen in diesen unklaren Zeichen.
 - **Alphinas Handwärme am Drücker** — Tschechow für Alphinas Feuer-Resonanz-Arc (nicht Runa, sondern Alphinas eigene Körper-Schwelle); feuert in K30+ aus Alphina-POV.
 - **Vespers Handlage auf Marens Schulter ohne Verband** — feuert unmittelbar in Szene 2 (wird zur Grundlage der Power-Anweisung).
-- **Marens nicht-bewegte Hände, Bleistift auf Radiergummi** — Tschechow für Szene 2 (Hände flach auf den Tisch als Anweisung).
+- **Marens nicht-bewegte Hände, Bleistift still in der Rechten** — Tschechow für Szene 2 (Hände flach auf den Tisch als Anweisung).
 
 **Tschechow-Waffen abgefeuert:**
 - **K19** (*Hand auf Schulter mit Verband-Vorwand*) — heute ohne Vorwand. Expliziter Canon-Vergleich in Marens Innenleben. Bogen schließt sich.
@@ -71,18 +71,19 @@
 
 **Wortziel:** 1.800–2.100 W
 
-**Ort:** Derselbe Tisch, dieselbe Nacht, später. Eine der zwei Öllampen ist von selbst ausgegangen — Maren hat sie nicht nachgefüllt. Die zweite brennt noch, niedrig. Zwei Kerzen im mittleren Halter brennen, aber eine ist schon unter der Halsung. Es wird dunkler im Raum. Die Fläche, auf der sie arbeiten, ist ein schmaler Kreis aus Licht um das Wörterbuch. Der Rest des Raumes geht in Grauschatten über. Der Kompass am Fenster ist nicht mehr zu sehen. Draußen still.
+**Ort:** Derselbe Tisch, dieselbe Nacht, später. Von den vier Öllampen, die zu Szenen-Beginn 1 noch brannten, sind zwei im Lauf der Arbeit ausgegangen — Maren hat sie nicht nachgefüllt. Die beiden anderen brennen noch, niedrig. Zwei Kerzen im mittleren Halter brennen, aber eine ist schon unter der Halsung. Es wird dunkler im Raum. Die Fläche, auf der sie arbeiten, ist ein schmaler Kreis aus Licht um das Wörterbuch. Der Rest des Raumes geht in Grauschatten über. Der Kompass am Fenster ist nicht mehr zu sehen. Draußen still.
 
 **Beats (sachliches Exposé, Maren-POV):**
 
-- Vesper nimmt die Hand von ihrer Schulter nicht weg, um die Hand zu setzen, sondern um Platz zu schaffen. Er sagt: *„Hände flach."* Zwei Wörter. Kein Fragezeichen, kein Bitte, kein *„wenn du magst"*.
+- Vesper nimmt die Hand von ihrer Schulter nicht weg, um die Hand zu setzen, sondern um Platz zu schaffen. Er greift in die linke Rocktasche und holt eine Figur heraus — dunkles Holz, hüfthoch-knapp für seine Handfläche, oben gezahnt wie eine kleine Zinne. Er stellt sie aufrecht auf den Tisch, unmittelbar neben das Wörterbuch, und lässt sie dort stehen. Er erklärt nichts. Maren hat die Figur in den Wochen seit K14 nie zuvor gesehen; sie versteht die Geste trotzdem, weil er sie mit dieser Ruhe ausführt, mit der er auch die Hand nicht weggenommen hat. Die Figur steht, und was jetzt kommt, gehört zu ihr.
+- Er sagt: *„Leg die Hände flach auf den Tisch, wo das Buch liegt."* Es ist kein Angebot und keine Bitte, nur die Anweisung, ruhig gesagt, ohne *„wenn du magst"*.
 - Maren versteht sofort, was er meint. Sie legt den Bleistift ab. Sie legt beide Handflächen flach auf das Holz der Tischplatte, links und rechts des Wörterbuchs, Finger gestreckt, Daumen dicht am Zeigefinger. So, wie Vesper die seinen vorhin gelegt hatte. Sie ist nicht daraufgekommen, dass das eine Haltung war. Jetzt weiß sie es.
 - Sie schauen beide nicht mehr ins Wörterbuch. Die Arbeit ist unterbrochen. Sie weiß nicht, wie sie wieder hineinfinden soll. Sie will es auch nicht mehr wirklich.
-- Vesper sagt, leise, genau: *„So bleiben. Nicht sprechen. Atmen."* Drei Dinge. In der Reihenfolge.
-- Sie bleibt. Sie spricht nicht. Sie atmet. Erst flach, aus der Brust, dann — nach einer Weile, die sie nicht zählen kann, weil er nicht zählt und sie also auch nicht — tiefer, von unten her. Sie merkt, dass sie seit Mittag nicht so tief geatmet hat.
+- Vesper sagt leise und genau, dass sie genau so sitzen bleiben soll und bis auf Weiteres nichts mehr sagen wird. Zwei Anweisungen, in einem Satz, ohne Vor- und ohne Nachsatz.
+- Sie bleibt sitzen, sie schweigt. Der Atem findet sich von selbst — erst flach, aus der Brust, dann, nach einer Weile, die sie nicht zählen kann, weil er nicht zählt und sie also auch nicht, tiefer und von unten her. Sie merkt, dass sie seit Mittag nicht so tief geatmet hat.
 - Vesper setzt sich nicht neben sie, er tritt hinter ihren Stuhl. Sie hört ihn durch den Stoff seiner Weste hinter sich atmen. Er berührt sie nicht. Das ist, was er tut: er berührt sie nicht, obwohl er näher steht als in K19 je.
 - **Die Hände.** Sie merkt ihre Hände zum ersten Mal seit Solha als still. Maren-Hände sind nie still; sie wischen, sie tasten, sie prüfen Maserungen, sie drehen Bleistifte, sie ziehen Lederriemen fest. Jetzt liegen sie auf Holz. Die Fingerkuppen fühlen die Maserung der Tischplatte — gleichmäßig, Lärche, alt, das Holz sättigt nichts mehr auf.
-- **Der Kopf.** Ihr Kopf hat Abends immer eine Liste gehabt — Flut, Wind, Pech, Leim, was morgen kommt, Edric, die drei Spanten der Mittelhecke. Seit Vael sind andere Dinge dazugekommen — Varens Name kennt sie nicht, aber sie kennt Schemen-Fingerabdrücke, Lenes Zeichnung, Halvards Patienten, Runas Ringe, die Frage, ob sie durchs Tor gehen wird. Die Liste läuft in ihr jeden Abend bis sie schlafen geht, und schlafen geht sie spät, weil die Liste nicht aufhört. Die Liste hört jetzt auf. Nicht weil sie sie abhakt — weil sie keinen Zugriff mehr auf sie hat. Vesper gibt ihr wenig Bewegungsspielraum, und in diesem wenigen Spielraum ist kein Platz für die Liste.
+- **Der Kopf.** Ihr Kopf hat Abends immer eine Liste gehabt — Flut, Wind, Pech, Leim, was morgen kommt, Edric, die drei Spanten der Mittelhecke. Seit Vael sind andere Dinge dazugekommen, die sich nicht so ordentlich abhaken lassen: die Fingerabdrücke auf Harons Blatt, Lenes Zeichnung des Feuer-Wesens, die Patienten bei Halvard, die Frage um Runa, und vor allem die Frage, was auf der anderen Seite auf sie wartet, wenn sie in zwei Wochen durchs Tor gehen. Die Liste läuft in ihr jeden Abend bis sie schlafen geht, und schlafen geht sie spät, weil die Liste nicht aufhört. Die Liste hört jetzt auf. Nicht weil sie sie abhakt — weil sie keinen Zugriff mehr auf sie hat. Vesper gibt ihr wenig Bewegungsspielraum, und in diesem wenigen Spielraum ist kein Platz für die Liste.
 - **Gänsehaut-Moment.** In der Stille, in der ihre Liste aus ist und ihre Hände liegen und ihr Atem tief ist, bemerkt sie ein Pochen. Nicht durch den Boden — sie sitzt, der Fuß ist nicht am Grund. In ihrem Brustkorb, zwischen Herz und Magen, etwas Stetiges. Zu langsam für ihren Herzschlag (sie fühlt ihren Herzschlag am Hals, anders, schneller). Zu regelmäßig für die Grauwe, deren Wellen immer zwei Takte lang sind und dann einen ausgelassen. Das hier ist eins, eins, eins. Ein Takt, den sie nicht kennt und doch kennt.
 - Sie weiß sofort: das hat sie vorher schon gespürt. In der Werft, in der Kajüte, am Steg. Immer, wenn sie gedacht hatte, die Grauwe läuft rückwärts. Sie hat es weggedrückt, weil Werft-Hände nicht *hören,* sondern *tun.* Jetzt hat sie nichts zu tun, nichts zu drücken. Jetzt hört sie. Es ist da. Es ist in ihr. Es kommt von außen und geht durch sie hindurch, oder es kommt von ihr und antwortet auf etwas draußen — das kann sie nicht trennen.
 - Sie sagt nichts. Sie wusste nicht, dass dies ein Satz wäre. Sie hat kein Wort dafür. Sie würde auch mit Wort nichts sagen, weil Vesper *„Nicht sprechen"* gesagt hat.
@@ -92,7 +93,7 @@
 - Vesper lässt sie eine Weile so. Dann geht er nach vorn, um den Stuhl herum, zurück auf seine Seite des Tisches. Er setzt sich. Er legt seine Hand nicht wieder auf ihre Schulter. Er lässt sie ihre Haltung behalten.
 - Er sagt: *„Du darfst die Hände nehmen."* — Nicht: *„Du musst."* Nicht: *„Mach weiter."* Die Erlaubnis ist die Ende-Geste.
 - Maren hebt die Hände vom Tisch. Langsam. Die Handflächen sind warm von der Tischplatte und zeichnen schmale, helle Flecken auf das dunkle Holz, die dann sofort wieder weg sind. Sie legt die Hände in den Schoß. Sie weiß, wo sie jetzt sind.
-- **Keine explizite Sexszene.** Kein Körper-Kontakt über die Hand von Szene 1 hinaus. Keine Kleidung wird entfernt. Das Mieder bleibt geschnürt, der Rock bleibt. Die Szene endet mit der Erlaubnis-Geste und Marens Händen im Schoß.
+- **Keine Sexszene in Szene 2.** Kein Körperkontakt über die Hand aus Szene 1 hinaus. Das Mieder bleibt geschnürt, der Rock bleibt. Die Szene endet mit Vespers Erlaubnis-Geste (*„Du darfst die Hände nehmen."*) und Marens Händen im Schoß. Der Körperzugang kommt erst in Szene 3 — auf Anweisung, nicht spontan.
 
 **Dialog-Informationen (zu transportierende Inhalte):**
 - *Maren erfährt (Kern-Erkenntnis des Kapitels):* Wenn sie wenig Bewegungsspielraum hat, hört ihr Kopf auf zu laufen. Das ist keine Unterwerfung als Bestrafung — das ist ein Zustand, den sie sich selbst nicht herstellen kann.
@@ -107,6 +108,7 @@
 - **Marens still-liegende Hände auf dem Tisch als Haltung** — Tschechow für künftige V/M-Szenen (K31+, B2): Handhaltung als erlernter Sub-Anker, nicht als einmalige Geste.
 - **Die Erlaubnis-Geste „Du darfst"** — Tschechow für V/M-Grammatik: Vesper ist der, der Grenzen setzt und aufhebt. Feuert in späteren Szenen, wenn Maren ohne Erlaubnis nichts beginnt.
 - **Vespers nicht-berührende Nähe** — Tschechow: seine Dominanz braucht keinen Griff. Feuert im Kontrast zu K20 (dort Griff an Handgelenk) und in Moragh (B2), wenn körperliche Trennung verkraftet werden muss.
+- **⚑ Der Schachturm als V/M-Session-Signatur (NEU CANON):** Vesper nimmt den Turm aus der Rocktasche und stellt ihn aufrecht auf den Tisch = Session beginnt. In Szene 3 steckt er ihn wieder ein = Session endet. Das ist ab K27 fester Canon für alle V/M-Sessions. Feuert in jedem künftigen V/M-Kapitel (K31+, B2-Tidemoor-Haus-Szenen, B2-Moragh-Trennung). Doppelfunktion: privater Vesper-Schach-Anker (bisher Canon) **plus** sichtbarer V/M-Ritual-Marker (ab K27). Nicht widersprüchlich — der Turm hat jetzt zwei Aggregatzustände: in-Tasche (Vesper privat, Alltag) und aufgestellt (Session).
 
 **Tschechow-Waffen abgefeuert:**
 - **Marens „Hände-nie-still"-Leitmotiv (POV-Dossier)** — hier zum ersten Mal gebrochen. Ihre Hände sind still.
@@ -123,35 +125,60 @@
 
 ---
 
-## Szene 3 — Schlaf auf der Matte
+## Szene 3 — Ausziehen auf Anweisung, sanfte Berührung, Schlaf
 
-**Wortziel:** 700–900 W
+**Wortziel:** 1.000–1.200 W
 
-**Ort:** Derselbe Raum, eine unbestimmte Zeit später. Die zweite Öllampe ist jetzt auch aus — nicht von Vesper gelöscht, nur heruntergebrannt. Eine Kerze brennt noch, flach, blau am Docht. Der Raum ist fast dunkel. Auf dem Wohnzimmer-Boden zwischen Tisch und Kamin liegt eine dicke Flechtmatte, handgebunden, Hanfseile und Wolle eingezogen — eine Werft-Matte, nicht teuer, aber dicht und satt, warm durch das Wollgewebe. Maren hat sie seit Solha. Sie ist an sie gewöhnt. Sie hat sie in dieser Wohnung öfter unter sich als das Bett in der Kammer.
+**Ort:** Derselbe Raum, eine unbestimmte Zeit später. Die Arbeit am Wörterbuch ist beendet. Von den vier Öllampen, die zu Szenen-Beginn noch brannten, ist nur eine übrig geblieben — die anderen drei sind im Lauf der Nacht ausgegangen, nicht von Vesper gelöscht, nur heruntergebrannt. Die letzte brennt niedrig auf dem Sims. Eine Kerze auf dem Tisch brennt noch, flach, blau am Docht. Der Raum ist fast dunkel. Auf dem Wohnzimmer-Boden zwischen Tisch und Kamin liegt eine dicke Flechtmatte, handgebunden, Hanfseile und Wolle eingezogen — eine Werft-Matte, nicht teuer, aber dicht und satt, warm durch das Wollgewebe. Maren hat sie seit Solha; sie hat sie in dieser Wohnung öfter unter sich als das Bett in der Kammer.
 
 **Beats (sachliches Exposé, Maren-POV):**
 
-- Vesper steht auf. Maren steht ebenfalls auf, ohne dass er es gesagt hat. Der Rock sitzt satt an der Hüfte. Die Schultern sind immer noch unten. Sie geht in die Kammer, kommt mit einem weiteren Kissen und einer Wolldecke zurück. Sie legt beide auf die Matte neben dem Kamin, die Decke gefaltet, das Kissen ans obere Ende.
-- Vesper sieht ihr zu. Er setzt sich nicht wieder. Er löscht eine der Kerzen — nicht alle. Er räumt das Wörterbuch zu, schiebt die Notizen ordentlich zusammen. Die Drift-Karte legt er obenauf, die Papier-Ecken fluchten.
-- Maren zieht vor dem Kamin den Rock aus. Sie hängt ihn über den Stuhl. Sie öffnet das Mieder nicht von hinten, sie hat Vesper nicht gebeten. Sie öffnet es vorn — sie kann es, sie hat den vorderen Hakenreihen-Verschluss. Das Mieder kommt ab. Sie legt es über den Rock. Das Leinenhemd fällt bis unter die Knie. Sie tritt aus den Schuhen, bleibt auf bloßen Füßen. Sie legt sich auf die Matte, auf der rechten Seite, das Kissen unter dem Kopf, die Knie angezogen.
-- Vesper geht zu ihr. Er setzt sich nicht hin. Er zieht seinen Gehrock aus und legt ihn über ihre Schultern und den oberen Teil des Rückens — nicht wie eine Decke, sondern wie einen zweiten Mantel. Der Stoff trägt noch seine Wärme. Er riecht nach dem Schachtholz der Rocktasche und nach ihm. Das Leinenhemd darunter hat das Mieder nicht mehr.
-- **Aftercare-Beat (Maren-POV, Leseprobe-06-Register):** Er legt ihr die Hand noch einmal auf den Kopf, flach, kurz. *„Ich arbeite noch."* Nicht Frage, nicht Bitte, nicht Entschuldigung. Er sagt ihr, was geschehen wird, damit sie es nicht hören muss, um zu wissen. Maren nickt in das Kissen. Sie hat die Augen schon zu.
-- Vesper geht zurück an den Tisch. Maren hört ihn sich setzen. Sie hört das Papier rascheln. Sie hört ihn nicht sprechen. Sie hört die eine Kerze noch einen Augenblick — dann ist sie auch aus (aus Aktplan-Canon: er arbeitet im Dunkeln weiter, aus dem Gedächtnis).
+- Sie schließen das Wörterbuch. Das sechste Wort ist eingetragen, das siebte liegt markiert für morgen. Vesper legt die Bleistifte ordentlich nebeneinander, zieht die losen Notizen zu einem Stapel zusammen und streicht die Ränder glatt. Maren macht die Zinnkappe auf die Tintenflasche. Es ist ein gemeinsames Aufräumen, ohne dass einer den Takt vorgibt — bis es fertig ist, dann ist es fertig.
+- Vesper steht nicht auf. Er lehnt sich leicht zurück, die Arme auf den Armlehnen, und sieht sie an, ohne etwas zu sagen. Maren hat die Hände wieder auf den Oberschenkeln. Sie weiß nicht, was kommt, aber sie merkt, dass etwas kommt.
+- Er sagt, dass sie aufstehen soll und sich drei Schritte vor den Tisch stellen soll, mit dem Gesicht zu ihm und den Händen an der Seite. Sie tut es. Der Wollrock bewegt sich um die Hüfte, als sie die drei Schritte macht; der Rücken wird von selbst gerade, die Schultern unten bleiben, wie sie in Szene 2 gelernt hat.
+- Er sieht sie an, einmal, vollständig, ohne Eile. Dann sagt er, dass sie die Augen schließen und geschlossen halten soll, bis er ihr sagt, dass sie sie wieder öffnen darf. Sie schließt die Augen. Die Welt wird nicht schwarz, sondern mild dunkel hinter den Lidern, mit einem schwachen roten Schimmer vom Kerzenlicht.
+- **Erste Prüfung — macht sie mit?** Er sagt, dass sie den Wollrock öffnen und auf den Stuhl legen soll, auf dem sie eben gesessen hat. Maren findet den Haken an der Hüfte von selbst — ihre Hände kennen ihn auswendig, und geschlossene Augen machen sie nicht unsicher. Der Rock fällt, sie hebt ihn auf, legt ihn über die Stuhllehne. Sie steht im Mieder und im Leinenhemd, die Füße auf dem Holzboden.
+- Er bleibt still. Sie hört ihn nicht atmen — das heißt, er hält den Atem flach und kontrolliert, um zu prüfen, ob sie wirklich mitmacht. Sie macht mit. Sie steht, die Augen geschlossen, und wartet auf das Nächste.
+- Nach einer Weile, die länger ist als nötig und deshalb eine Prüfung bleibt, sagt er, dass sie jetzt das Mieder öffnen soll; die Haken seien vorn, sie kenne sie. Sie öffnet die Hakenreihe von oben nach unten, Haken für Haken, und mit jedem Haken gibt das Fischbein ein Stück Taille frei. Das Mieder fällt von den Schultern, sie fängt es mit den Handrücken auf, faltet es einmal und legt es über den Rock.
+- *„Das Leinenhemd ziehst du über den Kopf und legst es zu dem Mieder."* Sie nimmt den Saum unten, zieht das Hemd langsam hoch, über den Kopf, legt es ohne hinzusehen zu den anderen Stücken. Sie steht nackt in der Mitte des Raums, drei Schritte vor dem Tisch, die Augen geschlossen, den Lederriemen noch am linken Handgelenk. Die Luft ist kühl — auf den Schultern, an den Brustwarzen, am Bauch, an den Innenseiten der Oberschenkel. Das Holz unter den Füßen ist kühler als vorher, oder ihre Füße sind es.
+- Sie bleibt stehen. Sie weiß nicht, ob er sie ansieht, und sie weiß, dass sie die Augen nicht öffnen darf, um es zu prüfen. Das ist der Punkt, an dem sich die Welt auf das reduziert, was sie auf der Haut spürt.
+- Dann hört sie seinen Stuhl leise. Seine Schritte, nicht schnell und nicht langsam, über das Holz. Er bleibt vor ihr stehen — sie spürt die Wärme seines Körpers, bevor er sie berührt.
+- **Erste Berührung — Arme.** Er nimmt ihre rechte Hand, hebt sie einen Moment an, lässt sie wieder sinken. Dann legt er seine Handfläche oberhalb ihres linken Handgelenks, dort wo der Lederriemen endet, und fährt damit langsam den Unterarm hinauf bis zur Ellenbeuge, ohne Druck, fast ohne Gewicht. Dasselbe am rechten Arm. Seine Hand ist warm, ihre Haut nicht.
+- **Schultern.** Er legt beide Handflächen flach auf ihre Schultern, beide gleichzeitig. Er drückt nicht; er hält sie einen Atemzug lang, lässt die Wärme übergehen, und dann gleiten seine Hände nach außen, über die Oberarme zurück, bis zu ihren Ellenbogen, und bleiben dort.
+- **Rücken entlang.** Er geht hinter sie. Die Hand streicht vom Nacken die Wirbelsäule entlang bis zur Hüfte, einmal, offen, mit der ganzen Fläche. Die Haut unter seiner Hand zieht sich nicht zusammen, sie öffnet sich — breiter, ruhiger, eine Linie warmer Wahrnehmung, die ihrem Atem folgt. Er wiederholt die Bewegung, gleich langsam. Beim zweiten Mal spürt sie, dass sich auch ihre Hüften von innen her lockern, nicht nur die Haut.
+- Zwischen den Schulterblättern legt er die Hand flach ab und lässt sie dort, länger als vorher, bis ihre Atmung sich auf seinen Handflächen-Druck einlässt.
+- **Maren-Beat:** ihre Schultern sind unten. Auch die Hüften. Auch die Knie. Sie steht nackt in einem Raum, in dem sie normalerweise allein isst, und sie ist nicht gespannt. Das ist neu — nicht die Nacktheit, nicht das Kühle auf der Haut, sondern das Nicht-gespannt-Sein im eigenen Zuhause, mit jemandem hinter sich, den sie nicht sehen kann.
+- Er sagt leise, dass sie die Augen öffnen darf. Sie öffnet sie. Der Raum ist fast dunkel; sie sieht die Kerze auf dem Tisch, die Öllampe auf dem Sims, und ihre eigene Kleidung auf dem Stuhl. Vesper tritt vor sie, um sie herum, nimmt seinen Gehrock vom anderen Stuhl und legt ihn ihr um die Schultern. Die Innenseite ist noch warm von ihm; der Stoff reicht ihr bis unter die Knie. Er riecht nach seinem Leinenhemd, nach der Tinte des Abends und nach ihm.
+- Er sagt, dass sie sich jetzt hinlegen kann, auf die Matte am Kamin; er hole ihr gleich die Wolldecke. Sie geht die drei Schritte, legt sich auf die rechte Seite, das Kissen unter dem Kopf, die Knie angezogen, der Gehrock noch um die Schultern. Er holt die Wolldecke aus der Kammer und legt sie über ihre Beine und die Hüften.
+- **Aftercare-Beat.** Er legt ihr einmal die flache Hand zwischen die Schulterblätter, außen auf den Gehrock, und lässt sie dort ruhen, bis ihr nächster Atemzug in seine Handfläche hinein geht, nicht an ihr vorbei. Dann sagt er leise: *„Ich bleibe noch eine Weile am Tisch sitzen. Falls du mich brauchst, bin ich da."* Maren nickt in das Kissen. Die Augen hat sie schon halb zu.
+- Bevor Vesper sich wieder setzt, greift er nach der Figur, die den ganzen Abend aufrecht neben dem Wörterbuch gestanden hat. Er nimmt sie zwischen Zeigefinger und Daumen, führt sie in die linke Rocktasche zurück und lässt sie dort ab. Maren sieht es durch die Wimpern — das Holz verschwindet, wie es gekommen war, mit demselben Gewicht und derselben Ruhe. Sie versteht, auch ohne Worte, dass das der Schluss war. Was jetzt wieder kommt, ist die Arbeit am Buch.
+- Vesper setzt sich an den Tisch, sie hört ihn sich niederlassen und die Seiten wenden. Die Kerze brennt noch einen Augenblick und geht dann auch aus — aus Aktplan-Canon: er arbeitet im Dunkeln weiter, aus dem Gedächtnis.
 - Sie schläft.
-- **Nicht-gedachter Schluss-Beat (Maren-POV-typisch: nicht als Meditation, sondern als Tatsache):** Sie hat seit Solha mit keinem Mann geschlafen, der wach war und sie nicht meinte. Vesper arbeitet im Dunkeln, und sie schläft. Die Matte ist dicht. Der Mantel ist warm. Das Pochen, das sie in Szene 2 gehört hat, ist immer noch da, aber sie trägt es jetzt nicht mehr allein durch den Abend. Es pocht, und sie schläft. Das ist nicht Widerspruch. Das ist, was geschieht.
+- **Nicht-gedachter Schluss-Beat (Maren-POV-typisch: nicht als Meditation, sondern als Feststellung):** Sie hat seit Solha mit keinem Mann geschlafen, der wach war und sie trotzdem meinte. Vesper arbeitet im Dunkeln, und sie schläft. Die Matte ist dicht. Der Gehrock ist warm. Das Pochen, das sie in Szene 2 gehört hat, ist immer noch da, aber sie trägt es jetzt nicht mehr allein durch den Abend. Es pocht, und sie schläft; beides zugleich, ohne Widerspruch.
 
 **Dialog-Informationen (zu transportierende Inhalte):**
-- *Maren lässt geschehen:* Sie legt sich auf die Matte, nicht ins Bett. Sie wählt das Bodennah-Register. Das ist Werft-Register, nicht Schlafzimmer-Register — ihr Körper vertraut der Matte, nicht dem Bett.
-- *Vesper legt seinen Gehrock über sie:* Care-Beat als Handlung, nicht als erklärtes Gefühl. Der Mantel enthält den Schachturm. Maren weiß das nicht.
-- *Vesper sagt:* *„Ich arbeite noch."* — Information ohne Entschuldigung. Das ist der Aftercare-Ton.
-- *Maren bleibt:* Sie schläft mit ihm im Raum, und das ist das erste Mal seit Solha.
-- *Das Pochen bleibt hörbar, aber trägt:* Sie hat Gesellschaft in der Wahrnehmung, auch wenn Vesper das Pochen nicht hört.
+- *Vesper führt das Ausziehen:* Stück für Stück, mit ruhiger Stimme, in vollständigen Sätzen. Er prüft bei jedem Schritt, ob Maren mitmacht, indem er zwischen den Anweisungen wartet. Das ist Dom-Register nach Réage: Stimme als Funktion, Geduld als Werkzeug.
+- *Maren-Kern:* Mit geschlossenen Augen nackt in der Mitte des eigenen Raums zu stehen ist für sie *nicht* exponierend, sondern entlastend — sie muss nichts sehen, nichts tun, nichts entscheiden.
+- *Berührungen minimal und nicht-sexualisiert:* Arme, Schultern, Rücken. Keine Brust, keine Hüftlinie nach vorn, keine Schenkel-Innenseiten, keine Genitalien. Das ist absichtlich — die Berührung ist Dom-Aneignung und Care, nicht Sex-Präludium. K27 ist nicht die erste Sex-Szene (die kommt später), K27 ist die erste Power-Nacht.
+- *Lederriemen am Handgelenk bleibt:* persönliches Canon, nicht abgenommen.
+- *Gehrock-Geste:* Care-Handlung. Der Mantel enthält (unausgesprochen) den Schachturm — Maren weiß das nicht.
+- *Wolldecke über die Beine:* praktische Care-Geste, kein Sex-Abdecken.
+- *Aftercare-Hand zwischen den Schulterblättern, bis der Atem in die Hand geht:* körperlich anker-gebend, ohne Worte.
+- *Vespers „ich bin da, falls du mich brauchst"-Info statt „ich arbeite noch"-Rückzug:* Aftercare-Grundton.
+- *Schluss:* Sie schläft, er arbeitet im Dunkeln. Das Pochen bleibt hörbar, aber nicht mehr allein getragen.
 
 **Tschechow-Waffen geladen:**
-- **Vespers Gehrock über Marens Schultern** — Care-Objekt, wärme-tragend. Feuert in späterer Aftercare (K31+) und in B2 (Moragh-Trennung: sie hat den Mantel nicht mehr, sie vermisst die Wärme).
-- **Die Flechtmatte** — nicht-Bett-Register. Feuert als V/M-Grammatik: Maren lässt sich auf Boden ein, nicht auf Bett (Schiff-Kajüten-Register). Feuert in B2, wenn Maren in Moragh keine Betten mehr hat.
-- **Das geöffnete Mieder als Marens eigene Geste (vorn, selbst)** — Power-Exchange-Grammatik: sie submitted, sie ist nicht ausgezogen worden. Tschechow für spätere Szenen, in denen die Unterscheidung zählt.
-- **Vespers Dunkelarbeit aus dem Gedächtnis** — Tschechow für Vesper-Arc (er kann ohne Licht, er kennt den Text auswendig). Feuert in K32 (Schwerkraftanomalie-Lösung) und in B2 (Arbeit unter Druck).
+- **Marens vollständiges Ausziehen auf Anweisung, mit geschlossenen Augen** — Power-Exchange-Grammatik: sie *wird* auf Anweisung ausgezogen (auch wenn ihre Hände es tun), sie entscheidet nicht die Reihenfolge, sie sieht nichts. Tschechow für K31+ (bewusste BDSM-Szenen mit Werkzeug), B2 (Maren in Moragh ohne Vesper — Erinnerung an diesen Zustand als Anker).
+- **Die erste nicht-sexualisierte Ganzkörper-Berührung** — Arme, Schultern, Rücken. Tschechow: Vespers Vokabular der Körper-Aneignung beginnt ruhig und breit, nicht punktuell-erotisch. Feuert im Kontrast zu späteren Szenen, wenn er punktuell wird.
+- **Maren nackt unter Vespers Gehrock** — das Bild schließt Szene 3: Körper-Aneignung + Care-Geste in einer Figur. Feuert in B2 (Moragh-Trennung: sie hat weder seinen Gehrock noch seine Hand).
+- **Die Flechtmatte** — nicht-Bett-Register. Feuert in B2 (kein Bett in Moragh).
+- **Vespers Dunkelarbeit aus dem Gedächtnis** — Tschechow für Vesper-Arc. Feuert in K32 und B2.
+- **Der Lederriemen am linken Handgelenk in Nacktheit** — persönliches Canon-Detail, das bleibt. Tschechow: ihr eigenes, mitgebrachtes Ding, das in Vespers Rahmen nicht abgenommen wird.
+
+**Tschechow-Waffen abgefeuert:**
+- **Marens *„nie bleiben"*-Motiv (POV-Dossier):** hier endgültig gebrochen. Sie lässt sich in der eigenen Wohnung nackt hinstellen, ausziehen, berühren, hinlegen — und bleibt.
+- **Mieder mit vorderem Hakenverschluss (POV-Dossier):** hier kein „schneller Alltagsverschluss" mehr, sondern Ritual-Werkzeug — jeder Haken eigener Schritt.
+- **Marens *„Hände-nie-still"*-Leitmotiv:** Szene 2 hat es gebrochen, Szene 3 bestätigt den Bruch in einem zweiten Aggregatzustand: nicht „still, weil angewiesen", sondern „ruhig an der Seite, weil sie nichts zu tun haben".
 
 **Tschechow-Waffen abgefeuert:**
 - **K26 (Vesper-POV, Schluss):** *„Er fängt an."* — in K26 ist das der letzte Satz, der Vespers innere Bereitschaft zur Arbeit markiert. Hier in K27 aus Marens Sicht bestätigt: er arbeitet tatsächlich weiter, sie hört es kurz, dann schläft sie.
@@ -222,9 +249,9 @@
 
 ### Heat-Kalibrierung (Positioning §3.3)
 
-- Commercial BDSM Power-Exchange, **keine Sexszene**, kein Orgasmus, keine Nacktheit über das übliche Ausziehen vor dem Schlaf hinaus.
+- Commercial BDSM Power-Exchange, **keine Sexszene**, kein Orgasmus. Szene 3: angewiesenes Vollausziehen und sanfte Ganzkörper-Berührung (Arme, Schultern, Rücken entlang), explizit nicht-sexualisiert — keine Brust, keine Hüft-Vorderseite, keine Schenkel-Innenseiten, keine Genitalien. Das ist Réage-Register (Dom-Aneignung, Körper vor Kopf), nicht Sex-Präludium.
 - Material-Präzision (Réage): Mieder mit vorderem Hakenverschluss, Wollrock, Leinenhemd, Hanfmatte, Gehrock-Wärme. Je einmal, nicht gehäuft.
-- Dom-Stimme als erklärte Funktion (Réage): *„Hände flach."* — *„So bleiben. Nicht sprechen. Atmen."* — *„Gut."* — *„Du darfst die Hände nehmen."* — *„Ich arbeite noch."* Nie Erklärung, immer Funktion.
+- Dom-Stimme als erklärte Funktion (Réage), in vollständigen Sätzen (nie Stakkato): *„Leg die Hände flach auf den Tisch, wo das Buch liegt."* — *„Du bleibst genau so sitzen und sprichst bis auf Weiteres nichts mehr."* — *„Gut."* — *„Du darfst die Hände nehmen."* — *„Leg dich hin. Ich bin noch hier, falls du mich brauchst."* Funktionale Anweisungen, keine Erklärungen, keine Bitten.
 - Anatomie direkt, aber nicht explizit (weil keine Sexszene): Schulter, Brustkorb, Kehle, Mund, Hände, Schenkel (im inneren Beat einmal), Rücken. Keine Genital-Erwähnung.
 - Sub-POV psychologisch (Rampling): Marens innerer Satz *„Hier durfte sie sein."* ist der einzige benannte Selbsterkenntnis-Moment. Sonst Körper vor Kopf.
 
@@ -254,12 +281,13 @@
 - **POV-Disziplin:** Maren-POV durchgehend. Kein Vesper-Gedanken-Leak. Wenn Vesper etwas tut, sieht Maren es oder hört sie es — sie denkt nicht für ihn.
 - **Register:** Leseprobe 04 (Alltags-Power-Exchange) + Leseprobe 06 (Aftercare). **Nicht 05** (zu explizit, zu werkzeugbasiert).
 - **Materialdichte:** 1–2 Werft-Referenzen maximal (Lärche, Hanfseil). Keine Chemikalien, kein Pech, kein Pyrogallol — das ist Sorel-Register.
-- **Hand auf Schulter als Szenen-Scharnier:** Szene 1 endet mit der Hand, Szene 2 beginnt mit ihrer Abnahme und der Anweisung *„Hände flach."* Die Hand ist das Gelenk zwischen Arbeit und Power-Exchange.
+- **Hand auf Schulter als Szenen-Scharnier:** Szene 1 endet mit der Hand, Szene 2 beginnt mit ihrer Abnahme und der Anweisung *„Leg die Hände flach auf den Tisch, wo das Buch liegt."* Die Hand ist das Gelenk zwischen Arbeit und Power-Exchange.
+- **⚑ Schachturm als V/M-Session-Signatur (NEU CANON ab K27):** In Szene 2, unmittelbar vor der Hände-flach-Anweisung, holt Vesper den Turm aus der linken Rocktasche und stellt ihn aufrecht neben das Wörterbuch. Maren sieht es zum ersten Mal, kennt die Figur nicht, versteht die Geste aus der Ruhe heraus. In Szene 3 (Aftercare-Ende), bevor Vesper sich wieder an den Tisch setzt, nimmt er den Turm vom Tisch und führt ihn in die Rocktasche zurück — Session-Ende-Marker. Maren sieht es durch die Wimpern. **Regel ab K27:** In allen künftigen V/M-Kapiteln ist der aufgestellte Turm auf dem Tisch/Sims/Kommode das sichtbare Zeichen, dass eine Session läuft. Der in der Tasche versteckte Turm bleibt privater Vesper-Anker (K18/K26-Canon wird nicht überschrieben). In der Ausarbeitung nicht metareflexiv ("das wird sein Ritual werden") — nur zeigen, was Maren sieht.
 - **Pochen präzise schreiben:** In Marens Brustkorb, zwischen Herz und Magen. Nicht durch den Boden. Nicht im Glas. Nicht in der Luft. In ihr. Das ist der Unterschied zu Passiv-Raum-Effekten (verboten nach K21).
 - **Das *„Gut"* landet, aber nicht eskaliert:** Mieder enger, Kehle trocken, Schultern unten. **Nicht** Schenkel, nicht Heißwerden, nicht Schoß. Das ist K20-Register, hier Ruhe-Register.
-- **Keine Bondage, kein Band, kein Ring:** K27 ist *erste Nacht*. Die Werkzeuge kommen später (K31+).
-- **Keine Sexszene:** Die Szene endet mit Marens Händen im Schoß und Vespers *„Du darfst die Hände nehmen."* Szene 3 ist Schlaf, nicht Sex.
-- **Selbst-geöffnetes Mieder:** Maren öffnet es vorn, selbst. Sie wird nicht ausgezogen. Das ist V/M-Grammatik: sie submitted aus Wollen, nicht als Objekt.
-- **Aftercare-Beat knapp:** Gehrock über Schultern, flache Hand auf Kopf, *„Ich arbeite noch."* Nicht ausbreiten. Réage-Niveau-Klinik.
+- **Keine Bondage, kein Band, kein Ring:** K27 ist *erste Nacht*. Die Werkzeuge (Band, Lederschlaufe, Messingring aus Leseprobe 05) kommen im nächsten geplanten V/M-Kapitel nach K27 (siehe Plot-Offen-Punkt: erste explizite V/M-Sex-Szene zwischen K27 und K27b-Zeitsprung).
+- **Keine Sexszene:** Szene 2 endet mit Marens Händen im Schoß und Vespers *„Du darfst die Hände nehmen."* Szene 3 enthält Nacktheit und Berührung auf Anweisung, aber keinen Sex — die Berührungen bleiben an Armen, Schultern und Rücken.
+- **Angewiesenes Ausziehen mit geschlossenen Augen:** Maren zieht sich Stück für Stück auf Vespers Anweisung aus — Wollrock, Mieder (vorderer Hakenverschluss, Stück für Stück), Leinenhemd. Sie *wird* ausgezogen, obwohl ihre Hände es tun. Das ist Réage-Grammatik: die Entscheidung über Reihenfolge und Zeitpunkt gehört Vesper, die Bewegung bleibt bei ihr. Der Lederriemen am linken Handgelenk bleibt.
+- **Aftercare-Beat körperlich verankert, nicht ausgebreitet:** Gehrock über die nackten Schultern, Wolldecke über Beine und Hüften, flache Hand zwischen die Schulterblätter bis Marens Atem in seine Handfläche geht. Danach die Session-Ende-Geste (Schachturm zurück in die Tasche). Vespers Satz: nicht *„Ich arbeite noch"* als Rückzug, sondern als Information mit Anker — *„Ich bin noch hier, falls du mich brauchst."* Réage-Klinik + Reisz-Dom-Fürsorge.
 - **Schluss:** Sie schläft, er arbeitet im Dunkeln. Kein weiterer Satz nach *„Das ist, was geschieht."* (Inhalts-Vorschlag, nicht Wort-Diktat.)
 - **Umlaute.** Keine Anglizismen. Keine Zeit-Präzision in halben Sekunden/halben Atemzügen (Memory-Regel, Maren-Register). Zeit in Marens POV ist *eine Weile*, *kurz*, *einen Augenblick*.
