@@ -20,7 +20,7 @@ Ihre Blüten hatten sie gebissen.
 
 Sie kannte den Begriff nicht, sie dachte ihn trotzdem. Gebissen.
 
-Vesper kniete vor ihr. Sie sah ihn, aber erst, als er schon eine Weile da gewesen war. Sein linker Unterarm endete an einem Tuch, das er sich selbst gebunden hatte, unter dem Ellbogen, und das Tuch war dunkel und feucht und an einer Stelle schon getrocknet, und das hieß, dass er schon eine Weile ohne Arm war und sie es nicht bemerkt hatte.
+Vesper kniete vor ihr. Sie sah ihn, aber erst, als er schon eine Weile da gewesen war. Sein linker Unterarm endete an einem Tuch, das er sich selbst gebunden hatte, unter dem Ellbogen. Das Tuch war dunkel und feucht und an einer Stelle schon getrocknet. Er war schon eine Weile ohne Arm, und sie hatte es nicht bemerkt.
 
 »Alphina.«
 
@@ -32,7 +32,7 @@ Sie schaute. Sein Gesicht war grau. Nicht blass — grau. Die Lippen waren trock
 
 »Kannst du die Hand spüren?«
 
-Sie versuchte es. Der Daumen antwortete. Der kleine Finger antwortete. Zwischen den dreien dazwischen war nichts, dann ein tiefer Zug, der ihr durch den Unterarm bis in den Ellbogen lief und dort saß wie ein kalter Draht.
+Sie versuchte es. Der Daumen antwortete. Der kleine Finger antwortete. Zwischen Daumen und kleinem Finger war nichts, dann ein tiefer Zug, der ihr durch den Unterarm bis in den Ellbogen lief und dort saß wie ein kalter Draht.
 
 »Den Daumen. Den kleinen Finger. Zwischen ihnen — Zug.«
 
