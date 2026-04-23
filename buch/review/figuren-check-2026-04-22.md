@@ -4,14 +4,24 @@
 **Scope:** Alle finalen Kapitel (K1–K22, I1–I3), Entwürfe K23–K25, Aktpläne Akt 3+4, Welt-Bibel, Magie-Canon, Positioning, Memory-Canons.
 **Status nach:** Kalender-Canon (OLD wiederhergestellt) + Schemen-Canon (offene Intelligenz-Frage) + Aktplan/Szenenplan-Cleanup vom 22. April.
 
-## Übersicht
+## Übersicht (Stand nach Verifikation 23. Apr)
 
-| Schwere | Gesamt | Gelöst durch Canon | Verifikation nötig | Offen | Einfacher Fix |
+| Schwere | Gesamt | Gelöst durch Canon | Gefixt | Fehlalarm | Offen |
 |---|---|---|---|---|---|
-| Kritisch (A) | 8 | 3 | 1 | 4 | 0 |
-| Mittel (B) | 18 | 2 | 1 | 13 | 2 |
-| Klein (C) | ~12 | 1 | 0 | 10 | 1 |
-| **Summe** | **~38** | **6** | **2** | **27** | **3** |
+| Kritisch (A) | 8 | 3 | 0 | 1 (A1) | 4 |
+| Mittel (B) | 18 | 2 | 1 (B17) | 2 (B3, B10) | 13 |
+| Klein (C) | ~12 | 1 | 0 | 1 (C3) | 10 |
+| **Summe** | **~38** | **6** | **1** | **4** | **27** |
+
+## Verifikations-Lektion (23. Apr)
+
+**4 von 5 verifizierten Befunden waren Fehlalarme** (B17 war der einzige echte Fund):
+- A1 "K15-Dunkelkammer-Rückblick" → Agent hat Zitat halluziniert
+- B3 "Dom-Ton Behalte diesen Schlag" → Uhrmacherischer Fachbegriff missverstanden
+- B10 "Halvard-Namenskonflikt" → Drei Figuren über 1500 TZ-Jahre verteilt
+- C3 "wächsern = Alphina-Vokabular" → Allgemeinsprache
+
+**Konsequenz für `/figuren-check`:** Agenten-Befunde **immer verifizieren** bevor gefixt wird. Hohe False-Positive-Rate bei Stil-Register- und Wissen-Behauptungen — der Agent sieht das Zitat im Kontext des Prompts und kann eigene Projektionen machen. **Jeder gemeldete Textbefund muss mit Grep oder Read gegengeprüft werden.**
 
 ## Root-Cause-Cluster
 
@@ -26,11 +36,8 @@ Drei Canon-Infrastruktur-Entscheidungen lösen zusammen viele Folge-Findings:
 ## A. KRITISCH
 
 ### A1 · Alphina · Rückblick K15 auf K21 (Temporaler Anachronismus)
-- **Ort:** `buch/kapitel/B1-K15-alphina.md`, Alphina-POV am 18. Blütenmond 551.
-- **Befund:** Agent berichtet Textstelle *"Gestern Abend lag die Dunkelkammer hinter ihnen — seine Platten, sein Geständnis, das Wesen im Rotlicht…"* — diese Ereignisse finden aber in K21 statt (21. Blütenmond, 3 Tage Zukunft).
-- **Kategorie:** Wissen (Sorel-Prinzip: Erzähler weiß mehr als POV)
-- **Status:** ❓ **Zu verifizieren** — Agent war unsicher. Direkte Textprüfung nötig (ist der Satz wirklich in K15?).
-- **Möglicher Fix:** Falls bestätigt: K15-Passage umformulieren ("Etwas an der letzten Nacht im Garten haftete ihr noch an"), keine Vorgriffe.
+- **Status:** ❌ **Fehlalarm — verifiziert 23. Apr**
+- **Ergebnis der Textprüfung:** In `B1-K15-alphina.md` gibt es KEINEN Dunkelkammer-Rückblick. Sorel steht in K15 am Steg und fotografiert (erste Wiederbegegnung nach K12). Das vom Agenten zitierte "Gestern Abend lag die Dunkelkammer hinter ihnen…" ist nicht im Text. Agent hat halluziniert oder aus einem Entwurf-Fragment zitiert.
 
 ### A2 · Alle · Kalender/Monatslängen nicht dokumentiert
 - **Befund:** Unterschiedliche Agenten rechneten mit verschiedenen Monatslängen; Wochen-Rechnungen waren nicht verifizierbar.
@@ -84,8 +91,8 @@ Drei Canon-Infrastruktur-Entscheidungen lösen zusammen viele Folge-Findings:
 - **Status:** ◻ **Offen** — Prosa-Fix: Mittelpunkt-Ermittlung via Runas Flugblatt-Adressen, nicht aus eigener Kartografie.
 
 ### B3 · Vesper · K11 Dom-Ton gegen Alphina ("Schlag")
-- **Befund:** Vesper sagt zu Alphina "Behalte diesen Schlag" — BDSM-Register verletzt (Dom-Kontext nur bei Maren).
-- **Status:** 🔧 **Einfacher Fix** — ein Wort ("Takt" statt "Schlag")
+- **Status:** ❌ **Fehlalarm — verifiziert 23. Apr**
+- **Ergebnis:** "Behalte diesen Schlag" ist Vespers rückblickende Erzählung an Alphina über einen internen uhrmacherischen Moment. "Schlag" = Halbschwung-Frequenz einer Ankerhemmung (2 Halbschwünge/Sekunde = Fachbegriff). "Behalte" ist an das Uhrwerk gerichtet, nicht an Alphina. Kein Dom-Register, kein BDSM-Bezug.
 
 ### B4 · Vesper · K18 Marens Magie-Beschreibung zu vage
 - **Befund:** "Sie hat gezeigt, wie sie einen Strudel in eine Tasse Tee bringt, ohne sie anzufassen" — "sie" mehrdeutig (Becher? Wasser?).
@@ -112,8 +119,12 @@ Drei Canon-Infrastruktur-Entscheidungen lösen zusammen viele Folge-Findings:
 - **Status:** ◻ **Offen** — 1-Satz-Erklärung oder Nicht-Erwähnen.
 
 ### B10 · Halvard · Namenskonflikt mit Familie-Halvard
-- **Befund:** Dr. Halvard (Arzt Vael) vs. `pov/syra-halvard.md` / `pov/tyra-halvard.md`. Verwechslungsgefahr prüfen.
-- **Status:** ❓ **Zu verifizieren** — Grep ob die Halvards aus B2/B3 mit dem Arzt kollidieren.
+- **Status:** ❌ **Fehlalarm — verifiziert 23. Apr**
+- **Ergebnis:** Drei Figuren mit Nachname Halvard, aber klar getrennt durch Zeit und Buch:
+  - **Dr. Halvard** (Arzt Vael, Buch 1, TZ 551) — Nebenfigur in K9
+  - **Tyra Halvard** (Linguistin Expedition 1, Buch 3, TZ 2020+) — Marens Ur-Großtante
+  - **Dr. Syra Halvard** (Institutsleiterin Buch 3, TZ 2110–2152) — Tyras Ur-Großnichte (Seitenlinie)
+  - Zwischen Buch 1 und Buch 3 liegen ~1500 TZ-Jahre; keine Verwechslung möglich.
 
 ### B11 · Maren · K20 verbindet Haron-Akzent (K4) nicht rückwirkend
 - **Befund:** Edrics K4-Satz "Akzent, Woanders her" bleibt in K20 ungenutzt, obwohl Maren liest "verfügte über Landessprache nur eingeschränkt".
@@ -139,7 +150,7 @@ Drei Canon-Infrastruktur-Entscheidungen lösen zusammen viele Folge-Findings:
 - **Status:** ◻ **Offen** — K21-Prosa erweitern ODER K35-Plan anpassen.
 
 ### B17 · Maren · K8 "Jackentaschen" ×2 (Kleidungs-Canon)
-- **Status:** 🔧 **Einfacher Fix** — "Manteltaschen" oder "Schürzentaschen".
+- **Status:** ✅ **Gefixt 23. Apr** — Beide Treffer in `08-maren.md` von "Jackentaschen" auf "Manteltaschen" geändert.
 
 ### B18 · Runa · K25 Zeitspanne Szene 1 → Szene 2 unklar
 - **Status:** ◻ **Offen** — 1 Zeitmarker im Szene-2-Eröffnungs-Beat.
@@ -152,7 +163,7 @@ Drei Canon-Infrastruktur-Entscheidungen lösen zusammen viele Folge-Findings:
 |---|---|---|---|
 | C1 | Sorel | K6 Falkensand-Kassette nicht explizit eingepackt | ◻ offen |
 | C2 | Maren | K8 Tohl kennt sie ohne Setup | ◻ offen |
-| C3 | Maren | K22 "wächsern" (Alphina-Vokabular) | 🔧 einfacher Fix |
+| C3 | Maren | K22 "wächsern" (Alphina-Vokabular) | ❌ Fehlalarm — Allgemeinsprache, kein Fach-Vokabular. Maren arbeitet mit Wachs. |
 | C4 | Runa | K5 Kerze-Beobachtung nicht weitergeführt bis K25 | ◻ offen |
 | C5 | Elke | I3 "zwei Monde" nicht explizit in Prosa | ◻ offen |
 | C6 | Sorel | Bart-Canon, Chemie-Geruch in Nähe — in finaler Prosa eingehalten | ✅ gelöst |

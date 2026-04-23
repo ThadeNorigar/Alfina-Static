@@ -111,6 +111,23 @@ Nach Rückkehr aller Agenten:
 3. **Gruppieren** — nach Kategorie (Canon-Infrastruktur | Plot-Entscheidung | Text-Fix)
 4. **Ablegen** als `buch/review/figuren-check-{JJJJ-MM-TT}.md` (Dateiname mit aktuellem Datum, Vorlage siehe bestehende Reports)
 
+## Phase 3b: Verifikations-Pflicht
+
+**Agenten-Befunde haben hohe False-Positive-Rate** (Lektion vom 23. Apr: 4 von 5 waren Fehlalarme). Typische Fehlerquellen:
+
+- **Zitat-Halluzination**: Agent "zitiert" Text, der so nicht im finalen Kapitel steht
+- **Stil-Register-Überinterpretation**: Fachbegriff wird als Dom/Sub-Code missdeutet
+- **Namens-Paranoia**: Figuren aus anderen Büchern werden als Konflikt gemeldet, obwohl sie durch Zeit/Welt klar getrennt sind
+- **Vokabular-Fehleinschätzung**: Allgemeinsprache wird als POV-spezifisches Spezialvokabular gebrandmarkt
+
+**Regel:** Bevor ein gemeldeter Textbefund als echter Fehler eingestuft und gefixt wird:
+1. Grep/Read im gemeldeten Kapitel — Zitat wirklich vorhanden?
+2. Canon-Kontext prüfen — ist der Fachbegriff/Name in der Welt etabliert?
+3. Bei Stil-Register-Befunden: gegen Memory-Canon in MEMORY.md prüfen
+4. Erst dann fixen oder als Fehlalarm markieren
+
+**Das gilt für den Konsolidierungs-Schritt in Phase 3 UND für spätere Fix-Runden.**
+
 ## Phase 4: Gate
 
 Dem Autor zeigen:
