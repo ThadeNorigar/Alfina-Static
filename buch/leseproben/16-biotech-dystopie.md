@@ -10,11 +10,11 @@ zweck: Ton-Referenz für B3-Akt-III Expedition-2-Ankunft in Dravek. Aus Moragh-P
 canon_status: Ton-Etüde, B3 Akt III. Nicht Plot-Canon.
 ---
 
-Das Ding stand auf zwei Beinen, aber Nyr hatte zu lange zu nah an Kessler gearbeitet, um das zu glauben.
+Das Ding stand auf zwei Beinen, aber Nyr hatte zu lange an Kessler gearbeitet, um die Beine für Beine zu halten.
 
 Sie war geduckt hinter dem Steinwall, Vesper rechts von ihr, die Hand an ihrem Handgelenk — nicht haltend, markierend, damit sie sich ans Ruhigbleiben erinnerte. Dreißig Schritte vor ihnen, am Rand des Steinplatzes, stand die Expedition-Soldatin.
 
-Zwei Beine, ja. Aber die Beine waren zu lang. Nicht länger als die einer großen Frau — länger als die einer **Frau**. Das Knie saß zu hoch, oder zu tief, Nyr konnte es nicht entscheiden, weil das Bein sich bei jedem halben Schritt, den die Soldatin machte, einmal anders bog als zweimal davor.
+Zwei Beine, ja. Aber die Beine waren zu lang. Nicht länger als die einer großen Frau — länger als die einer **Frau**. Das Knie saß zu hoch, oder zu tief, Nyr konnte es nicht entscheiden — das Bein bog sich bei jedem halben Schritt anders als beim vorangegangenen.
 
 Der Anzug war grau. Nicht Leder, nicht Stoff, nicht Metall. Wo er sich bewegte, bewegte er sich wie Haut über Muskel — aber der Muskel darunter war nicht da, wo ein Muskel hätte sein sollen. An der Schulter saß eine Wulst. An der Hüfte zwei.
 
@@ -34,7 +34,7 @@ Etwas an ihrer Schulter klickte. Aus der Wulst fuhr eine Nadel, fingerlang, dunk
 
 Sie hörte auf. Ihr Herz war gleichmäßig — sie hatte das bei Kessler geübt, langes Atmen in enger Kammer, und es hielt jetzt. Aber die Hand am Boden neben ihr, die nicht ihre war — Vespers —, zitterte einmal kurz. Sie bemerkte es, weil er nie zitterte.
 
-Die Soldatin ging weiter. Zwei Schritte nach links, einer zurück. Die Nadel fuhr in die Wulst ein, kam an der anderen Schulter wieder heraus, eine Spur dicker. Nyr verstand nicht, was das Ding tat. Nyr verstand nicht, warum es das Ding gab. Keine Bestie der Thar bewegte sich so, weil keine Bestie der Thar gebaut war, um die Welt nicht zu kennen. Dieses Ding kannte die Welt nicht. Es schmeckte sie ab.
+Die Soldatin ging weiter. Zwei Schritte nach links, einer zurück. Die Nadel fuhr in die Wulst ein, kam an der anderen Schulter wieder heraus, eine Spur dicker. Nyr verstand nicht, was das Ding tat. Nyr verstand nicht, warum es das Ding gab. Keine Bestie der Thar bewegte sich so. Thar-Bestien kannten ihre Welt. Dieses Ding kannte sie nicht. Es schmeckte sie ab.
 
 Hinter der Soldatin, auf dem Steinplatz, wo das Portal noch vor drei Stunden geglüht hatte, standen zwölf weitere dieser Gestalten. Kein Gespräch. Keine Gesten. Sie standen, und sie standen auf die gleiche Weise, und das war das Schlimmste.
 
@@ -50,7 +50,7 @@ Erst zehn Schritte weiter, in der Rinne hinter dem Wall, wagte sie zu sprechen.
 
 »Wie viele?«
 
-Vesper sah sie an. Seine Augen waren klar, das war das Furchtbare an ihm — er war noch immer bei sich.
+Vesper sah sie an. Seine Augen waren klar. Er war noch immer bei sich.
 
 »Zweitausendfünfhundert.«
 
