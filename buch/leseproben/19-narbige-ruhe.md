@@ -26,7 +26,7 @@ Vesper drehte sich im Bett. Sie sah es im Spiegel. Er hatte den Stumpf-Unterarm 
 
 Draußen rief eine Stimme — Runa, vom Dock her, wahrscheinlich mit Nyr, weil Kessler unten am Hafen arbeitete. Alphina öffnete das Fenster und winkte mit der rechten Hand, und Runa winkte zurück. Ein einfaches Gruß-Winken. Nicht zu lange. Nicht zu kurz.
 
-Sie zog sich an. Das Hemd über den Kopf, zwei Arme durch, der Kragen gerade. Der Rock band sich an der Seite zu, mit einem Haken, den sie selbst machen konnte. Sie brauchte neun Minuten dafür — sie hatte sie einmal gezählt, im zweiten Monat, und dann aufgehört zu zählen, weil sie schneller werden würde und das war es dann auch wert.
+Sie zog sich an. Das Hemd über den Kopf, zwei Arme durch, der Kragen gerade. Der Rock band sich an der Seite zu, mit einem Haken, den sie selbst machen konnte. Sie brauchte neun Minuten dafür — sie hatte sie einmal gezählt, im zweiten Monat, und dann aufgehört zu zählen, weil aus neun Minuten irgendwann sechs werden würden.
 
 Vesper öffnete die Augen.
 
