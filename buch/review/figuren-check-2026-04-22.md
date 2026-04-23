@@ -1,0 +1,195 @@
+# Figuren-Check — Buch 1 (22./23. April 2026)
+
+**Erzeugt durch:** 8 parallele Explore-Agenten (`/figuren-check alle`)
+**Scope:** Alle finalen Kapitel (K1–K22, I1–I3), Entwürfe K23–K25, Aktpläne Akt 3+4, Welt-Bibel, Magie-Canon, Positioning, Memory-Canons.
+**Status nach:** Kalender-Canon (OLD wiederhergestellt) + Schemen-Canon (offene Intelligenz-Frage) + Aktplan/Szenenplan-Cleanup vom 22. April.
+
+## Übersicht
+
+| Schwere | Gesamt | Gelöst durch Canon | Verifikation nötig | Offen | Einfacher Fix |
+|---|---|---|---|---|---|
+| Kritisch (A) | 8 | 3 | 1 | 4 | 0 |
+| Mittel (B) | 18 | 2 | 1 | 13 | 2 |
+| Klein (C) | ~12 | 1 | 0 | 10 | 1 |
+| **Summe** | **~38** | **6** | **2** | **27** | **3** |
+
+## Root-Cause-Cluster
+
+Drei Canon-Infrastruktur-Entscheidungen lösen zusammen viele Folge-Findings:
+
+1. **Kalender-Mathematik** → A2, B12, teilweise Harons Zeitleiste (A6). **Erledigt** 22. Apr.
+2. **Schemen-Typologie** → A4, B14. **Erledigt** 22. Apr.
+3. **Varen-Biografie** (Alter in MZ, Signatur-Frequenz 4:33, Plan-Motivation) → A3, A5, A8. **Teilweise erledigt** (A3) durch MZ-Kalender; A5/A8 bleiben Plot-Entscheidung.
+
+---
+
+## A. KRITISCH
+
+### A1 · Alphina · Rückblick K15 auf K21 (Temporaler Anachronismus)
+- **Ort:** `buch/kapitel/B1-K15-alphina.md`, Alphina-POV am 18. Blütenmond 551.
+- **Befund:** Agent berichtet Textstelle *"Gestern Abend lag die Dunkelkammer hinter ihnen — seine Platten, sein Geständnis, das Wesen im Rotlicht…"* — diese Ereignisse finden aber in K21 statt (21. Blütenmond, 3 Tage Zukunft).
+- **Kategorie:** Wissen (Sorel-Prinzip: Erzähler weiß mehr als POV)
+- **Status:** ❓ **Zu verifizieren** — Agent war unsicher. Direkte Textprüfung nötig (ist der Satz wirklich in K15?).
+- **Möglicher Fix:** Falls bestätigt: K15-Passage umformulieren ("Etwas an der letzten Nacht im Garten haftete ihr noch an"), keine Vorgriffe.
+
+### A2 · Alle · Kalender/Monatslängen nicht dokumentiert
+- **Befund:** Unterschiedliche Agenten rechneten mit verschiedenen Monatslängen; Wochen-Rechnungen waren nicht verifizierbar.
+- **Status:** ✅ **Gelöst** 22. Apr — TZ-Canon ist Gregorianisch + thalass. Namen (`buch/00-zeitrechnung.md`). MZ = 8×36×26h. Tool `scripts/zeitrechnung.py`.
+
+### A3 · Varen · Altersparadox (Mitte 40 vs. "400 Jährlein")
+- **Befund:** `19-varen.md` sagt Mitte-Ende 40; K35-Plan "Über vierhundert Jährlein erspüret".
+- **Status:** ✅ **Gelöst** 22. Apr — Varen ist Mitte 40 in MZ-Jahren. 1 MZ-Jahr = 400 TZ-Jahre. "400 Jährlein" = TZ-gerechnet 1 MZ-Jahr = Zeit seit Elke (I3 = MZ 3634, B1 = MZ 3635). Canon-konsistent.
+
+### A4 · Varen · Schemen-Motivation persönlich vs. atmosphärisch
+- **Befund:** `00-storyline.md` sagt Experiment-Aussendung; K35-Plan dramatisiert als persönlich gezielt.
+- **Status:** ✅ **Gelöst** 22. Apr — Schemen-Canon (Beschwörer bestimmt Form+Zweck; Intelligenz-Frage offen auch für Moragher). Beides Canon-zulässig: Varen kann gezielt schicken, gleichzeitig ist das Verhalten der Schemen drüben nicht vollständig deterministisch.
+
+### A5 · Varen · 4:33-Signatur (natürlich vs. künstlich)
+- **Befund:** K32-Plan sagt Schwerkraftanomalie-Baseline (natürlich); K35-Plan sagt "SEIN Atem" (künstlich).
+- **Status:** ◻ **Offen** — Plot-Entscheidung nötig.
+- **Möglicher Fix:** K35-Text klären: "Die 4:33 — er nutzt sie als Fenster, erzeugt sie aber nicht." Oder umgekehrt: Varens Ritual-Atem formt die Baseline in Jahrzehnten.
+
+### A6 · Haron · Drei widersprüchliche Zeitpunkte
+- **Befund:**
+  - `nebenfiguren/haron-dahl.md`: "~66 Thalassien-Jahre" vor B1 → TZ 485
+  - K20-Register: Zuzug TZ 514
+  - K20-Register: Adoption TZ 544
+  - Unterschied 29–59 Jahre
+- **Status:** ◻ **Offen** — muss entschieden werden: welches Datum ist Canon?
+- **Möglicher Fix:** Ein sauberes Haron-Register: z.B. Portal-Durchgang TZ 485, lebte unerkannt bis TZ 514 (Zuzug Vael), Adoption TZ 544, Briefe an Maren ab TZ 546, Tod ~TZ 550.
+
+### A7 · Runa · K9 Halvard-Zugang + Uhrmacher-Zahlen unplausibel
+- **Befund:** K9 zeigt Runa mit präzisen Daten (Halvards Patienten-Fakten, exakte Tidemoor-Uhr-Zahlen 4:33). Drei Lücken:
+  1. Wie kennt sie Halvard persönlich?
+  2. Warum teilt ein Arzt Patientengeheimnisse mit Fremden?
+  3. Woher hat sie präzise Uhren-Zahlen von einer Magd?
+- **Status:** ◻ **Offen** — Plot/Setup-Fix in K5 oder K9.
+- **Möglicher Fix:** Runa/Halvard-Vorkontakt etablieren (Runa druckt medizinische Aushänge; oder Halvard ist Runa-Kunde). Zahlen von der Magd ersetzen durch "ein reisender Uhrmacher im Anker hat sie gemessen".
+
+### A8 · Varen + Elke · I3 endet ohne Varen-Empfang
+- **Befund:** Canon sagt Varen empfängt Elke drüben und kappt Schemen-Bindung. I3-Text endet mit Elke allein auf Moragh-Boden, keine Varen-Präsenz.
+- **Status:** ◻ **Offen** — Prosa-Ergänzung oder Canon-Anpassung.
+- **Möglicher Fix:** I3-Schluss um kurzen Varen-Moment ergänzen (Schatten, "Willkommen", Kinn-Geste als Tschechow für K35). ODER K35-Plan-Text: Varen begegnet Elke erst später.
+
+---
+
+## B. MITTEL
+
+### B1 · Runa · Präsenz in K19 (Kampf im Garten) unklar
+- **Befund:** Welt-Canon sagt "Runa schlüpft mit durch" (K34); K19-Text/Aktplan nennt sie nicht.
+- **Status:** ◻ **Offen** — Plot-Entscheidung: dabei oder nicht?
+
+### B2 · Vesper · K11 Oberstadt-Geografie ohne Ortsbesuch
+- **Befund:** Vesper kennt in K11 den Botanischen Garten genau genug, um dessen Position auf selbst gezeichneter Karte zu markieren — obwohl er nie in der Oberstadt war.
+- **Status:** ◻ **Offen** — Prosa-Fix: Mittelpunkt-Ermittlung via Runas Flugblatt-Adressen, nicht aus eigener Kartografie.
+
+### B3 · Vesper · K11 Dom-Ton gegen Alphina ("Schlag")
+- **Befund:** Vesper sagt zu Alphina "Behalte diesen Schlag" — BDSM-Register verletzt (Dom-Kontext nur bei Maren).
+- **Status:** 🔧 **Einfacher Fix** — ein Wort ("Takt" statt "Schlag")
+
+### B4 · Vesper · K18 Marens Magie-Beschreibung zu vage
+- **Befund:** "Sie hat gezeigt, wie sie einen Strudel in eine Tasse Tee bringt, ohne sie anzufassen" — "sie" mehrdeutig (Becher? Wasser?).
+- **Status:** ◻ **Offen** — Formulierungs-Fix.
+
+### B5 · Maren · Magie-Wendepunkt K8→K17 fehlt
+- **Befund:** K8 Maren leugnet aktiv ("waren die Gezeiten"); K17 sie weiß es; K20 sie benennt es stumm. Der innere Kippmoment fehlt.
+- **Status:** ◻ **Offen** — Innerer Beat in K8-Ende oder K17-Anfang.
+
+### B6 · Maren · K4 Haron-Adoption nicht vorbereitet
+- **Befund:** K4 Edric sagt "Dahl heißt die Werft. Den Namen übernimmt man, wenn man bleibt." K20 offenbart Adoption — dazwischen keine Einordnung.
+- **Status:** ◻ **Offen** — Edric-Dialog in K4 erweitern.
+
+### B7 · Jara · Motivation springt K20 → K24
+- **Befund:** K20 passive Archivarin; K24 aktive Forscherin mit neuen Funden ohne Setup.
+- **Status:** ◻ **Offen** — Setup-Satz in K20-Ende oder K24-Eröffnung.
+
+### B8 · Esther · "Weiß mehr" bleibt unaufgelöst
+- **Befund:** Esther reagiert kontrolliert und informiert in K20/K24, ohne Klärung. Wenn in Buch 1 nicht gelöst, braucht es einen expliziten Marker.
+- **Status:** ◻ **Offen** — 1-Satz-Marker.
+
+### B9 · Magd Tidemoor · Verschwindet K7 → K11
+- **Befund:** K7 zentrale Ansprechperson; K11 fehlt sie unerklärt.
+- **Status:** ◻ **Offen** — 1-Satz-Erklärung oder Nicht-Erwähnen.
+
+### B10 · Halvard · Namenskonflikt mit Familie-Halvard
+- **Befund:** Dr. Halvard (Arzt Vael) vs. `pov/syra-halvard.md` / `pov/tyra-halvard.md`. Verwechslungsgefahr prüfen.
+- **Status:** ❓ **Zu verifizieren** — Grep ob die Halvards aus B2/B3 mit dem Arzt kollidieren.
+
+### B11 · Maren · K20 verbindet Haron-Akzent (K4) nicht rückwirkend
+- **Befund:** Edrics K4-Satz "Akzent, Woanders her" bleibt in K20 ungenutzt, obwohl Maren liest "verfügte über Landessprache nur eingeschränkt".
+- **Status:** ◻ **Offen** — 1 Erinnerungssatz in K20.
+
+### B12 · Elke · I1-I2 "6 Wochen"-Angabe stimmig?
+- **Status:** ✅ **Gelöst** — Gregorianisch: 1. Oktober → 15. November = 45 Tage = 6 Wochen 3 Tage. Passt.
+
+### B13 · Elke · Kespers Hafenbild vs. K24-Manuskript
+- **Befund:** I3 zeigt Kesper gibt Lene sein Bild für das Manuskript. K24 zeigt Lenes Manuskript mit Feuer-Wesen-Zeichnung — Kespers Hafenbild fehlt.
+- **Status:** ◻ **Offen** — entweder K24 beide Zeichnungen oder I3-Text entschärfen.
+
+### B14 · Elke · Schemen-Eskalation I1→I2→I3 (Typen konsistent?)
+- **Befund:** I1 tierhafte kleine Schemen, I3 mannshohe Feuer-Wesen. Unterschiedliche Arten?
+- **Status:** ✅ **Gelöst** 22. Apr — Schemen-Canon erlaubt Form-Variabilität durch Beschwörer.
+
+### B15 · Varen · K26-Prosa als Tschechow-Basis für K35 fehlt
+- **Befund:** K35-Plan referenziert K26-Schem-Geste; K26 existiert nur als Entwurf.
+- **Status:** ◻ **Offen** — K26 ausarbeiten.
+
+### B16 · Varen · K21-Schem Hand-an-Kinn-Geste nicht vorbereitet
+- **Befund:** K35-Plan sagt "dieselbe Geste wie der Schem im Lichthaus-Keller (K21)". K21-Text hat andere Schem-Haltung.
+- **Status:** ◻ **Offen** — K21-Prosa erweitern ODER K35-Plan anpassen.
+
+### B17 · Maren · K8 "Jackentaschen" ×2 (Kleidungs-Canon)
+- **Status:** 🔧 **Einfacher Fix** — "Manteltaschen" oder "Schürzentaschen".
+
+### B18 · Runa · K25 Zeitspanne Szene 1 → Szene 2 unklar
+- **Status:** ◻ **Offen** — 1 Zeitmarker im Szene-2-Eröffnungs-Beat.
+
+---
+
+## C. KLEIN (Auswahl)
+
+| ID | Figur | Kurz | Status |
+|---|---|---|---|
+| C1 | Sorel | K6 Falkensand-Kassette nicht explizit eingepackt | ◻ offen |
+| C2 | Maren | K8 Tohl kennt sie ohne Setup | ◻ offen |
+| C3 | Maren | K22 "wächsern" (Alphina-Vokabular) | 🔧 einfacher Fix |
+| C4 | Runa | K5 Kerze-Beobachtung nicht weitergeführt bis K25 | ◻ offen |
+| C5 | Elke | I3 "zwei Monde" nicht explizit in Prosa | ◻ offen |
+| C6 | Sorel | Bart-Canon, Chemie-Geruch in Nähe — in finaler Prosa eingehalten | ✅ gelöst |
+| C7 | Alphina | K15 Halvard-Daten-Verbindung fehlt intern | ◻ offen |
+| C8 | Runa | Herkunft/Familie in Buch 1 nicht etabliert (Absicht?) | ◻ offen |
+
+---
+
+## Priorisierte Empfehlung
+
+**Sofort (Text-Fixes, ~30 Min gesamt):**
+1. B17 Jackentaschen → Manteltaschen
+2. B3 "Schlag" → "Takt"
+3. C3 "wächsern" → "ölige Oberfläche"
+
+**Verifikation zuerst (~15 Min):**
+4. A1 K15-Text gegen K21 lesen — ist der Rückblick wirklich drin?
+5. B10 Halvard-Namen grep — kollidieren sie?
+
+**Canon-Entscheidung nötig (je 15–30 Min mit Autor):**
+6. A5 4:33: natürlich oder Varens Atem?
+7. A6 Haron-Zeitleiste konsolidieren
+8. A8 I3-Schluss: Varen-Moment ergänzen?
+9. B1 K19 Runa dabei?
+
+**Prosa-Ergänzungen (je 30–60 Min):**
+10. A7 Runa-Halvard-Vorkontakt (K5 oder K9)
+11. B2 Vesper-Geografie via Flugblatt
+12. B5 Marens Magie-Kippmoment
+13. B6 Haron-Adoption in K4 vorbereiten
+14. B15 K26 ausarbeiten (eigener Kapitel-Entwurf-Lauf)
+15. B16 K21 Schem-Geste setzen oder K35 anpassen
+
+## Reproduktion
+
+```
+/figuren-check alle
+```
+
+Startet denselben Lauf. Findings landen als `buch/review/figuren-check-{JJJJ-MM-TT}.md`.
