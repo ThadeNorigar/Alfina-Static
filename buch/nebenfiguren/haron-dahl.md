@@ -20,9 +20,23 @@ welt: thalassien
 
 ---
 
-**Alter bei Tod:** Über 80. Lebte ein volles thalassisches Leben in Vael.
+**Alter bei Tod:** ~70. Lebte ein volles thalassisches Leben in Vael.
 
-**Herkunft:** **Moragh-Mann.** Vor ~66 Thalassien-Jahren durch das Portal nach Vael geschickt, von Varens Vorgängerzirkel oder Varen selbst. Lebte als Werftbesitzer getarnt, baute über Jahrzehnte das Agenten-Netzwerk auf, das Alphina und die Vier nach Vael zieht.
+**Herkunft:** **Moragh-Mann.** TZ 514 (~37 Jahre vor B1-Start) durch das Portal direkt nach Vael geschickt, von Varens Vorgängerzirkel oder Varen selbst. Lebte als Werftlehrling und Geselle getarnt, baute über drei Jahrzehnte das Agenten-Netzwerk auf, das Alphina und die Vier nach Vael zieht.
+
+**Chronologie (Canon seit 23. Apr 2026):**
+
+| Jahr | Ereignis | Alter |
+|---|---|---|
+| TZ ~480 | Geburt in Moragh | 0 |
+| TZ 514 | Portal-Durchgang + Zuzug Vael (Thalassisch bereits in Moragh gelernt) | ~34 |
+| TZ 514–544 | 30 Jahre Werftlehre/Gesellenarbeit bei Anen und Meren Dahl | 34–64 |
+| TZ 544 | Adoption durch Anen und Meren Dahl als Erbe, Name „Dahl" angenommen | ~64 |
+| TZ 546 | Briefwechsel mit Maren beginnt (5 Jahre bis Tod) | ~66 |
+| TZ ~550 | Tod, Altersschwäche, kurz vor Marens Ankunft | ~70 |
+| TZ 551 | Maren erbt die Werft (B1-K4) | — |
+
+Die K20-Archiv-Register-Daten (Zuzug TZ 514, Adoption TZ 544) sind Canon aus der finalen Prosa. Geburts- und Todesjahr leiten sich aus dem Tod-Alter (~70) und den fünf Briefjahren ab. 29 Jahre als Lehrling/Geselle vor der Adoption sind plausibel — Anen und Meren brauchten eine lange Vertrauens-Spanne, bevor sie einen Fremden zum Erben machten. Gleichzeitig Zeit genug für Haron, das Agenten-Netzwerk aufzubauen, das Alphina nach Vael zieht.
 
 **Fähigkeiten:** **Beschwörer** — der einzige aktive Beschwörer in Thalassien dieser Generation. Trainiert in einer nicht rekonstruierten Linie (vermutlich Velmar-Schule, vor seiner Aussendung). Hat in Vael mindestens einen Schemen beschworen, der noch nach seinem Tod aktiv ist.
 

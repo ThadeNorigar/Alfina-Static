@@ -458,6 +458,22 @@ Quellen sind **natürliche Energiequellen in der Erde** — wie Geothermie. Sie 
 
 **Wenn eine Quelle stirbt**, hört der Puls auf. Stille im Gestein. Der Fels wird kalt. Pflanzen verdorren. Resonanz-Begabte in der Nähe spüren es wie einen Herzstillstand.
 
+### Grundfrequenz der Quellen (Canon seit 23. Apr 2026)
+
+Jede Quelle pulsiert in einer eigenen **Grundfrequenz**, messbar als Schwingungsperiode im Gestein. Die Frequenz hängt von der geologischen Signatur und der Resonanz-Konfiguration des Felses ab.
+
+**Die Riss-Quelle unter Vael** hat eine Eigenfrequenz von **273 Sekunden = 4 Minuten 33 Sekunden**. Diese Zahl ergibt sich aus der 7-Stein-Konfiguration des Steinkreises im Botanischen Garten: **7 Purpursteine × 39-Sekunden-Grundschwingung des einzelnen Steins = 273 Sekunden** — die Harmonik des gesamten Kreises. Andere Quellen haben andere Frequenzen je nach Struktur und Stein-Anzahl.
+
+**Amplifikation durch Stein:** Purpurstein-Ausläufer verstärken die Grundfrequenz lokal. Orte, die auf einem Ausläufer stehen, messen eine spürbar größere Drift als Orte, die nur in der Nähe der Quelle liegen, aber auf neutralem Gestein.
+
+**Die Tidemoor-Standuhr** steht auf einem solchen Purpurstein-Ausläufer, der den Quellen-Takt in den Fundament-Fels trägt. Mechanische Uhren in Reichweite werden durch die Schwerkraftanomalie dieser Schwingung verlangsamt — **4:33 Verlust pro Tag** entspricht einer Überlagerung der Quellenfrequenz mit dem Pendel-Takt. Brächte man die Uhr einen Häuserblock weiter weg, auf normalem Kalkstein, würde die Drift deutlich kleiner werden. Vespers Lösung ist kein geometrischer Fix, sondern eine Resonanz-Kompensation: er legt den Uhrwerk-Takt manuell in das Gehäuse, wodurch die Uhr die Schwingung des Steins ignoriert.
+
+**Grossvater-Spur:** Diese Drift ist **nicht neu**. Die Tidemoor-Uhr verliert 4:33 seit Generationen. Vespers Großvater hat die Zahl schon notiert, ohne sie zu verstehen. Kein Thalassier hat je den Zusammenhang zur darunterliegenden Quelle gesehen — es gab keinen Begriff für "Quelle", keine Theorie für Resonanz-Schwingung im Fels. Die Anomalie wurde als Handwerker-Rätsel weitergegeben.
+
+**Varen nutzt, erzeugt nicht:** Varens Schemen-Übertritte folgen natürlichen Resonanz-Fenstern in dieser Grundfrequenz — er sendet seine Agenten in den 4:33-Takt, weil die Portalgrenze dort am durchlässigsten ist. **Er hat die Frequenz nicht erzeugt. Er hat sie studiert** (400 TZ-Jahre = 1 MZ-Jahr Beobachtung, genug für Muster-Erkennung) und **nutzt sie als Fahrplan**. In der K35-Offenbarung ist "SEIN Atem" metaphorisch: sein Ritual-Atem in MZ-Zeit synchronisiert sich mit der Quellen-Frequenz und verstärkt sie in der Periode seiner Aussendungen. Die Baseline bleibt Natur.
+
+**Implikation für Buch 2/3:** Andere Quellen pulsieren in anderen Frequenzen. Ein Resonanz-Ritual für eine andere Quelle braucht andere Timing-Werte. Das 4:33-Portal-Fenster ist spezifisch für Vael. In Moragh wird Vesper andere Frequenzen lesen müssen.
+
 ---
 
 ## Quellen-Überladung als Waffe
@@ -572,6 +588,8 @@ Der Schemen zahlt den Preis seiner eigenen Zauber aus seinem eigenen Magie-Vorra
 Jeder lebende Beschwörer ist mit seinen Schemen **mental verbunden**. Grobe Ahnung vom Sehen des Schemen, Gefühl körperlicher Empfindung inkl. Schmerz und Lust. Distanz dämpft.
 
 **Durchs Portal hindurch** ist die Bindung massiv gedämpft. Varen bekommt von seinen Schemen in Vael nur **sehr ungefähre Ahnungen**.
+
+**Portal geschlossen → Bindung erlischt praktisch.** Ein Schemen, der in der fremden Welt aktiv ist, während der Riss zu ist, kann vom Beschwörer nicht mehr aktiv gelenkt oder gekappt werden. Er erschöpft sich nach wenigen Stunden von selbst und verblasst. Das gilt für Varens Feuer-Schemen in I3: Nach dem Portal-Durchgang (Elke rüber, Riss zu) zog das Wesen noch durch Vaels Oberstadt, legte Feuer — bis es aus eigener Kraft verblasste, ohne dass Varen es „gekappt" hätte.
 
 Boots-Schemen in Marens Werft: **keine Bindung mehr**. Einziger Schemen in Thalassien ohne lebenden Beschwörer.
 

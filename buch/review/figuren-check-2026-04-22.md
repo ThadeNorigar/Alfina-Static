@@ -8,10 +8,10 @@
 
 | Schwere | Gesamt | Gelöst durch Canon | Gefixt | Fehlalarm | Offen |
 |---|---|---|---|---|---|
-| Kritisch (A) | 8 | 3 | 0 | 1 (A1) | 4 |
+| Kritisch (A) | 8 | 6 (A2, A3, A4, A5, A6, A8) | 0 | 1 (A1) | 1 (A7) |
 | Mittel (B) | 18 | 2 | 1 (B17) | 2 (B3, B10) | 13 |
 | Klein (C) | ~12 | 1 | 0 | 1 (C3) | 10 |
-| **Summe** | **~38** | **6** | **1** | **4** | **27** |
+| **Summe** | **~38** | **9** | **1** | **4** | **24** |
 
 ## Verifikations-Lektion (23. Apr)
 
@@ -52,18 +52,12 @@ Drei Canon-Infrastruktur-Entscheidungen lösen zusammen viele Folge-Findings:
 - **Status:** ✅ **Gelöst** 22. Apr — Schemen-Canon (Beschwörer bestimmt Form+Zweck; Intelligenz-Frage offen auch für Moragher). Beides Canon-zulässig: Varen kann gezielt schicken, gleichzeitig ist das Verhalten der Schemen drüben nicht vollständig deterministisch.
 
 ### A5 · Varen · 4:33-Signatur (natürlich vs. künstlich)
-- **Befund:** K32-Plan sagt Schwerkraftanomalie-Baseline (natürlich); K35-Plan sagt "SEIN Atem" (künstlich).
-- **Status:** ◻ **Offen** — Plot-Entscheidung nötig.
-- **Möglicher Fix:** K35-Text klären: "Die 4:33 — er nutzt sie als Fenster, erzeugt sie aber nicht." Oder umgekehrt: Varens Ritual-Atem formt die Baseline in Jahrzehnten.
+- **Status:** ✅ **Gelöst 23. Apr** — Canon: 4:33 ist die **Eigenfrequenz der Vaeler Quelle** (= 273 s = 7 Purpursteine × 39-s-Grundschwingung). Baseline seit Generationen in der Tidemoor-Uhr (Purpurstein-Ausläufer amplifiziert lokal; Uhr auf normalem Fels würde weniger driften). Varen nutzt die natürlichen Resonanz-Fenster, erzeugt sie nicht. "SEIN Atem" in K35 wird als Rhythmus IM Takt der Quelle neu formuliert.
+- **Files aktualisiert:** `10-magie-system.md` (neuer Abschnitt "Grundfrequenz der Quellen"), `04-akt3.md` (K32-Prosa-Plan), `05-akt4.md` (K35-Plan-Satz).
 
 ### A6 · Haron · Drei widersprüchliche Zeitpunkte
-- **Befund:**
-  - `nebenfiguren/haron-dahl.md`: "~66 Thalassien-Jahre" vor B1 → TZ 485
-  - K20-Register: Zuzug TZ 514
-  - K20-Register: Adoption TZ 544
-  - Unterschied 29–59 Jahre
-- **Status:** ◻ **Offen** — muss entschieden werden: welches Datum ist Canon?
-- **Möglicher Fix:** Ein sauberes Haron-Register: z.B. Portal-Durchgang TZ 485, lebte unerkannt bis TZ 514 (Zuzug Vael), Adoption TZ 544, Briefe an Maren ab TZ 546, Tod ~TZ 550.
+- **Status:** ✅ **Gelöst 23. Apr** — Canon: Haron stirbt mit ~70 (nicht 85). Neue Chronologie: Geburt ~TZ 480, Portal-Durchgang + Zuzug Vael TZ 514 (Alter 34, Thalassisch bereits in Moragh gelernt), 30 Jahre Werftlehre/Gesellen-Arbeit, Adoption TZ 544 (Alter 64), Briefe an Maren ab TZ 546, Tod ~TZ 550.
+- **Files aktualisiert:** `nebenfiguren/haron-dahl.md` (Chronologie-Tabelle ergänzt, "Über 80" → "~70", "~66 Jahre" → "~37 Jahre").
 
 ### A7 · Runa · K9 Halvard-Zugang + Uhrmacher-Zahlen unplausibel
 - **Befund:** K9 zeigt Runa mit präzisen Daten (Halvards Patienten-Fakten, exakte Tidemoor-Uhr-Zahlen 4:33). Drei Lücken:
@@ -74,9 +68,8 @@ Drei Canon-Infrastruktur-Entscheidungen lösen zusammen viele Folge-Findings:
 - **Möglicher Fix:** Runa/Halvard-Vorkontakt etablieren (Runa druckt medizinische Aushänge; oder Halvard ist Runa-Kunde). Zahlen von der Magd ersetzen durch "ein reisender Uhrmacher im Anker hat sie gemessen".
 
 ### A8 · Varen + Elke · I3 endet ohne Varen-Empfang
-- **Befund:** Canon sagt Varen empfängt Elke drüben und kappt Schemen-Bindung. I3-Text endet mit Elke allein auf Moragh-Boden, keine Varen-Präsenz.
-- **Status:** ◻ **Offen** — Prosa-Ergänzung oder Canon-Anpassung.
-- **Möglicher Fix:** I3-Schluss um kurzen Varen-Moment ergänzen (Schatten, "Willkommen", Kinn-Geste als Tschechow für K35). ODER K35-Plan-Text: Varen begegnet Elke erst später.
+- **Status:** ✅ **Gelöst 23. Apr** — Canon: **Finaler I3-Text ist führend.** Elke kommt allein auf Moragh-Boden an. Kespers Tod unterwegs (Riss schloss einen Atemzug zu kurz). Vael-Feuer-Wesen verblasst aus eigener Kraft nach Stunden, weil Portal zu und Bindung durch Welten-Trennung zu schwach für aktives Kappen. Varens Empfang erfolgt off-page zwischen I3 und B1.
+- **Files aktualisiert:** `00-welt.md` (Canon-Memo Portal-Übertritt umformuliert), `10-magie-system.md` (Bindungs-Regel "Portal geschlossen → Bindung erlischt praktisch" ergänzt), `_archiv/02-akt1.md` (Aktplan-I3-Sektion angepasst).
 
 ---
 
