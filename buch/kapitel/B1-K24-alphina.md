@@ -20,7 +20,7 @@ Der Aufstieg zur Oberstadt war steil. Das Pflaster wurde heller, Kalk unter dem 
 
 Die Kellertreppe begann hinter einer schweren Eichentür, die offen stand, den Griff glatt gescheuert. Alphina nahm die Hand aus Sorels Manteltasche, bevor sie die Treppe betrat. Die Stufenkanten waren in der Mitte ausgetreten, die Ränder glatt. Die Luft wurde kühler mit jedem Schritt. Trockener, ruhiger. Am Fuß der Treppe stand eine zweite Tür, einen Spalt offen, Licht aus Öllampen auf dem Steinboden davor.
 
-Der vordere Raum war alt. Regale aus dunklem Holz bis zur Decke, dicht an dicht, Folianten in Leder gebunden — verblasste Rücken, in jeder Höhe andere Schrift. Stapel loser Blätter auf einem Nebentisch, Papier vergilbt, die Ränder eingerollt. Ein Kerzenleuchter aus Messing, zwei Flammen. Über allem lag der Geruch von altem Papier und dem feinen Staub, der aus Leder bricht, wenn es trocken wird.
+Regale aus dunklem Holz reichten bis zur Decke, dicht an dicht, die Folianten in Leder gebunden — verblasste Rücken, in jeder Höhe andere Schrift. Stapel loser Blätter auf einem Nebentisch, Papier vergilbt, die Ränder eingerollt. Ein Kerzenleuchter aus Messing, zwei Flammen. Über allem lag der Geruch von altem Papier und dem feinen Staub, der aus Leder bricht, wenn es trocken wird.
 
 Eine Tür im hinteren Ende des Raums öffnete sich, und Esther trat heraus. Ihr Blick ging über die Gruppe und hielt kurz bei Alphina und Sorel. Ein kurzer Halt in den Augen, keiner in der Haltung.
 
@@ -32,9 +32,9 @@ Vesper, den Mantel noch zu, hielt kurz Alphinas und Sorels Blick, dann sah er Es
 
 Esther drehte sich zur Hintertür und winkte sie durch. Sie gingen zu viert ein, Alphina als letzte vor Sorel. Die Tür fiel hinter ihnen ins Schloss, ein kurzes Klacken aus Messing.
 
-Der hintere Raum war eng. Regale aus dunklem Holz bis zur Decke an drei Wänden, ein Lesetisch in der Mitte, zwei Kerzen in Halterungen an der Wand, eine Öllampe auf dem Tisch. Drei hätten Platz gehabt. Sie waren sechs. Alphinas Schulter berührte Sorels Oberarm, Marens Hüfte Vespers Hüfte. Keiner wich.
+An drei Wänden standen Regale aus dunklem Holz bis zur Decke, in der Mitte ein Lesetisch, an der Wand zwei Kerzen in Halterungen, auf dem Tisch eine Öllampe. Drei hätten Platz gehabt. Sie waren sechs. Alphinas Schulter berührte Sorels Oberarm, Marens Hüfte Vespers Hüfte. Keiner wich.
 
-Alphina atmete flacher als sonst. Das Herz unter ihrem Schlüsselbein schlug lauter. Jara schob den Foliant auf den Tisch, ohne ihn abzulegen. »Beim Umsortieren heute Morgen. Ich habe mehr gefunden, als ich mir erklären kann.«
+Alphina atmete flacher als sonst. Ihr Herzschlag kam höher. Jara schob den Foliant auf den Tisch, ohne ihn abzulegen. »Beim Umsortieren heute Morgen. Ich habe mehr gefunden, als ich mir erklären kann.«
 
 Esther legte die Hand auf den Folianten, neben Jaras. »Sie werden sehen.« Sie schlug den Einband auf. Leder knirschte leise, Seiten fächerten, das Papier gelb im Schein der Öllampe. Alphinas Daumen fuhr über die Kuppen ihrer anderen Finger, einmal, ohne dass sie es wollte.
 
@@ -48,7 +48,7 @@ Esther schob eine Seite aus dem letzten Drittel halb auf den Tisch, zeigte mit d
 
 Haron war für Alphina ein Name, nicht ein Gesicht. Maren hatte ihn zweimal erwähnt, nebenbei. Maren selbst war keine Dahl. Sie hatte die Werft geerbt, die Linie hatte sie nicht. Aber die Linie reichte jetzt vier Jahrhunderte zurück. Die Werft war dieselbe — die Lene gebaut hatte, die Maren heute offenhielt.
 
-Maren wurde ruhiger. Nicht unruhiger. Alphina kannte das an ihr — die Ruhe eines Dinges, das gelandet war. Vesper sah Maren an, einmal kurz. Maren sah zurück. Keine Geste, aber eine Quittung.
+Maren wurde ruhiger. Alphina kannte das an ihr — die Ruhe eines Dinges, das gelandet war. Vesper sah Maren an, einmal kurz. Maren sah zurück. Keine Geste, aber eine Quittung.
 
 Esther hob die Öllampe etwas höher. Der Lichtkreis wurde weiter, die braune Tinte dunkler. Alphina beugte sich über den Tisch und las zuerst stumm. Die Handschrift war schwer, aber machbar — alte Orthographie, Ränder weggefressen, ein Absatz fehlte.
 
@@ -76,11 +76,11 @@ Jara blätterte weiter, die Finger schnell, als wüsste sie, wohin sie wollte. U
 
 Die Zeichnung war Kohle und graue Tusche, grob, aber sicher geführt. Eine Küstensilhouette zeichnete sich ab: links der alte Leuchtturm, rechts das erste Drittel der Kaimauer, Konturen, die stimmten — Vael. Auf der Straße zwischen Handelshaus und Hafen stand eine einzelne Gestalt, aufrecht, schmal, eineinhalbmal mannshoch, deutlich über die Dachtraufen hinaus.
 
-Die Gestalt hatte einen Körper: Kopf, Schultern, Arme, zwei Beine — gezeichnet von einer, die ihn gesehen hatte. Aus den Schultern stiegen zwei schmale Rauchfahnen. Um die Gestalt herum brannte alles, was sie berührte: das Pflaster unter den Füßen als schwarzer Kreis, das Mauerwerk neben der rechten Hand als heller Fleck, ein Dachbalken über der nächsten Gasse als Glut-Zeichnung. Der Weg durch die Stadt stand als Spur — ein Trampelpfad aus Brand. An den Rändern Lenes eigene Hand: das Datum einer Nacht, die Alphina aus den Chroniken kannte — das Datum des Großen Feuers, Frostmond hundertvierundfünfzig. Und ein einzelner Satz in derselben Schrift wie der Fließtext: *Die Stadt nannte es Funkenflug.*
+Die Gestalt hatte einen Körper — gezeichnet von einer, die ihn gesehen hatte. Der Kopf saß auf den Schultern, die Arme hingen, die Beine standen fest. Aus den Schultern stiegen zwei schmale Rauchfahnen. Um die Gestalt herum brannte alles, was sie berührte: das Pflaster unter den Füßen als schwarzer Kreis, das Mauerwerk neben der rechten Hand als heller Fleck, ein Dachbalken über der nächsten Gasse als Glut-Zeichnung. Der Weg durch die Stadt stand als Spur — ein Trampelpfad aus Brand. An den Rändern Lenes eigene Hand: das Datum einer Nacht, die Alphina aus den Chroniken kannte — das Datum des Großen Feuers, Frostmond hundertvierundfünfzig. Und ein einzelner Satz in derselben Schrift wie der Fließtext: *Die Stadt nannte es Funkenflug.*
 
 Alphinas Atem kam kühler ein, als sie wollte. Die Haare am Nacken hoben sich und blieben. An den Fingerspitzen, wo das Kribbeln stand, das sie von den Beeten kannte, lag jetzt Kälte. Unter dem Schlüsselbein straffte sich ein Punkt. Sie ließ das Papier, wo es war. Sorel stellte sich neben sie, auf gleicher Höhe, und legte zwei Finger ans Handgelenk, flach, leicht. Sein Blick blieb auf der Skizze. Sein Schweigen wog jetzt mehr als in der Küche.
 
-Esther redete halb für sich. »Das Datum steht in drei Chroniken. Die Zeichnung ist nur hier.« Alphina registrierte den Satz am Rande. Unter ihrem Schlüsselbein blieb der Punkt gestrafft.
+Esther redete halb für sich. »Das Datum steht in drei Chroniken. Die Zeichnung ist nur hier.« Alphina registrierte den Satz am Rande. Der Druck in der Brustmitte hielt.
 
 Maren fuhr den Brand-Pfad auf der Zeichnung nach, knapp über dem Papier — von den Füßen der Gestalt aus, um zwei Ecken, bis zum Rand des Blatts. Ihre Fingerknöchel waren weiß. Vesper verglich die Gestalt mit dem Dachfirst daneben, wog den Kopf einmal. Maren sah ihn an. Er nickte ihr, kurz. Maren atmete aus.
 
@@ -112,7 +112,7 @@ Maren beugte sich über Vespers Schulter und sah auf die thalassische Zeile am R
 
 Maren tippte knapp neben die Zeile. »Als wir das Blatt damals hergebracht haben, stand im Register ein Vermerk zu Haron: *beherrscht die Landessprache nur eingeschränkt*. Er hat Thalassisch gelernt.« Sie sah auf das Buch. »Die andere Sprache hatte er vorher. Das hier ist sein Lernbuch.«
 
-Vesper nickte einmal. »Das Buch ist in Harons Hand. Aber Haron ist tot. Jemand anderer hat es hier abgelegt.« Unter Alphinas Schlüsselbein zog der Punkt fester.
+Vesper nickte einmal. »Das Buch ist in Harons Hand. Aber Haron ist tot. Jemand anderer hat es hier abgelegt.« Zwischen Alphinas Rippen zog es fester.
 
 Vesper griff in die Rocktasche und holte ein flaches Stück Kohle heraus, gebrochen, das er sonst für Uhrwerk-Zeichnungen benutzte. »Fett auf Papier bindet Staub«, sagte er. »Die einfachste Probe.« Er legte Harons Ritual-Blatt flach auf den Tisch, streute vorsichtig Kohlestaub über die freien Flächen und blies behutsam darüber.
 
@@ -130,7 +130,7 @@ Alphina sah von den Abdrücken auf Vesper. »Also war das Papier bei ihnen, bevo
 
 »Ja.«
 
-Der Rest kam ohne Worte. Das Blatt, das Vesper damals bei Esther abgelegt hatte, war schon davor von den Händen der anderen Seite berührt. Haron hatte es in Begleitung nach Vael gebracht. Das Sprachbuch dazu, aus derselben Hand, lag unregistriert in Jaras Regal. Vier Fremde. Sieben Steine.
+Der Rest kam ohne Worte. Das Blatt, das Vesper damals bei Esther abgelegt hatte, war schon davor von den Händen der anderen Seite berührt. Das Sprachbuch dazu, aus derselben Hand, lag unregistriert in Jaras Regal. Vier Fremde. Sieben Steine.
 
 Alphina trat einen Schritt zurück. Die Fingerspitzen waren kalt. Unter ihrem Schlüsselbein zog sich der Faden fester als heute morgen. Sie atmete einmal durch den offenen Mund. Ihre linke Hand griff an Sorels Ärmel, den Stoff über dem Unterarm, und blieb dort. Er hob den Arm leicht, so dass ihre Hand besser lag.
 
@@ -142,12 +142,12 @@ Alphina sah auf das Blatt und das Buch. »Beides.« Die anderen drei nickten.
 
 Jara legte das Ritual-Blatt zwischen zwei Pappstücke, das Sprachbuch dazu, und schob alles in eine Mappe. Sie reichte die Mappe Vesper. Esther nickte.
 
-Auf der Treppe nach oben war Nachmittag geworden. Später Frühling, immer noch bedeckt. Das Licht war jetzt härter — Himmel über Dach statt Keller über Stein. Die vier standen auf dem Rathausplatz. Schweigen.
+Auf der Treppe nach oben war Nachmittag geworden. Später Frühling, immer noch bedeckt. Das Licht war jetzt härter — Himmel über Dach statt Keller über Stein. Die vier standen auf dem Rathausplatz. Zwischen den Pflasterfugen saß ein Löwenzahn, die Rosette niedergedrückt. Schweigen.
 
-Maren sah auf das Pflaster zwischen ihren Füßen. »Wir müssen etwas tun.« Alle drei nickten. Bei Alphina blieb der Faden unter dem Schlüsselbein gespannt, als der Satz im Raum stand. Sorel nickte zuletzt, eine Spur verzögert, und stand trotzdem dicht.
+Maren sah auf das Pflaster zwischen ihren Füßen. »Wir müssen etwas tun.« Alle drei nickten. Bei Alphina zog es weiter, als der Satz im Raum stand. Sorel nickte zuletzt, eine Spur verzögert, und stand trotzdem dicht.
 
 Maren sah zu Alphina. »Ich gehe jetzt zum Wasser. Heute Abend bei mir. Ich bereite vor.« Dann zu Vesper, nur ein Nicken. Sie ging.
 
 Vesper sah ihr einen Moment nach. »Wir brauchen sie. Sie braucht das jetzt.« Das galt Alphina und Sorel. Er zeigte kurz das Sprachbuch unter dem Mantel, nickte und ging nach Süden, Richtung *Anker*. Maren ließ er den Weg zum Wasser.
 
-Sorel blieb bei ihr. Der Platz lag leer jetzt, und sie standen still. Sie ließ seinen Ärmel los und nahm seine Hand. Er ließ sie. Ihre Finger waren kalt von dem, was unter der Treppe lag, sein Handrücken warm vom Gehen. Sie nahm den Unterschied auf, eine Beobachtung für später. Der Faden unter ihrem Schlüsselbein saß tiefer als am Morgen.
+Sorel blieb bei ihr. Der Platz lag leer jetzt, und sie standen still. Sie ließ seinen Ärmel los und nahm seine Hand. Er ließ sie. Ihre Finger waren kalt von dem, was unter der Treppe lag, sein Handrücken warm vom Gehen. Sie nahm den Unterschied auf, eine Beobachtung für später. Der Faden unter dem Schlüsselbein saß tiefer als am Morgen.
