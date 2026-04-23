@@ -1,13 +1,13 @@
 ---
 kategorie: Völkermord-Täter-POV (Quellen-Zerstörung)
 pov: Alphina
-figuren: Alphina, Bund-Kommandant, Thar-Schmied, Kinder
-register: Dunkle Register — Völkermord, Täter-POV
+figuren: Alphina, Bund-Kommandant, Thar-Magier (off-page)
+register: Dunkle Register — Völkermord, Täter-POV, schleichendes Grauen
 heat_level: Gewalt
 primaer_referenz: Kuang (Poppy War) — Rin-Register, Täter ohne Anästhesie, Konsequenz ohne moralischen Filter
-ergaenzende_referenz: SenLinYu (Alchemised) — Körper unter Druck, Körperteil-Präzision
-zweck: Ton-Referenz für die zentrale B2-Szene: Alphina zerstört absichtlich eine Quelle im Bund-Auftrag. Täter-POV. Keine Moral im Moment; die kommt später. Körper handelt, Konsequenz ist sofort sichtbar (Bäume verdorren, Schmied bricht zusammen, Kinder schreien).
-canon_status: Ton-Etüde, spielt in B2 Akt IV am 2/3-Mark. Nicht Plot-Canon, aber plot-kompatibel.
+ergaenzende_referenz: SenLinYu (Alchemised) — Körper unter Druck, Körperteil-Präzision; Bardugo — Ausschluss-Technik in Stille
+zweck: Ton-Referenz für B2 Akt IV: Alphina zerstört absichtlich eine Quelle im Bund-Auftrag. Täter-POV. Canon-konform: Quelle tot = Nachladen fällt aus (2-3 Tage-Welle). Armee im Einsatz merkt es sofort (Magier versagen mitten im Akt, in Wellen nach Verbrauch-Reihenfolge), Zivilisten Tage später. Keine sofortigen physischen Effekte — der Horror ist das Ausbleiben der Nachladung.
+canon_status: Ton-Etüde, B2 Akt IV am 2/3-Mark. Zweite Version — erste zeigte sofortige Effekte (Baum stirbt, Schmied röchelt), Canon-Verstoß. Neue Version nutzt die Verzögerungs-Mechanik als Grusel-Instrument.
 ---
 
 Der Boden fühlte sich richtig an unter ihren Händen, und das war das erste Problem.
@@ -28,35 +28,37 @@ Sie hatte das noch nie gemacht. Sie hatte es nie tun wollen. Aber ihr Körper wu
 
 Drücken war einfach. Drücken war, was sie jeden Tag gemacht hatte, wenn sie einen Steckling wachsen ließ — nur rückwärts. Sie schickte alles hinein, was sie hatte, und die Quelle nahm es, eine Sekunde, zwei, und dann nicht mehr.
 
-Die Erde bebte.
-
-Nicht stark. Ein Zucken, das durch ihre Knie ging und weiterlief. Oben, am Rand der Mulde, fiel ein Baum. Sie hörte ihn. Sie hörte auch, dass der Baum nicht brach — er starb. Die Blätter trockneten sofort, und der Stamm kippte, weil die Wurzel im selben Moment aufhörte, Wurzel zu sein.
-
-»Weiter«, sagte der Kommandant.
-
-Sie drückte noch einmal.
-
 Etwas in der Quelle zerbrach. Es war kein Knacken, es war kein Geräusch, es war ein Nicht-mehr-Sein. Die Wärme unter ihrer Hand wurde kühl. Dann kalt. Dann weg.
 
-In der Siedlung, die sie nicht sehen konnte, weil der Wall dazwischen war, schrie jemand. Ein Kind. Dann mehr Kinder. Dann ein Mann — tiefer Ton, nicht Schrei, ein Röcheln, das kurz wurde und aufhörte. Sie hatte später gehört, dass Thar-Schmiede die Quellen im eigenen Körper trugen, als wären sie Gelenke, und dass das für Thalassier nicht galt.
+Außerhalb der Mulde passierte zunächst nichts.
 
-Sie zog die Wurzel zurück. Langsam. Wie man einen Faden aus einem Knopfloch zieht.
+Kein Erdbeben. Kein Baum fiel. Die Siedlung hinter dem Wall summte weiter im Gefecht — Stahl auf Stahl, Rufe, das Knarren von Leitern an Holz. Alphina blieb knien, die Hände auf der kalten Stelle, wo eben noch das Herz gewesen war. Sie wartete. Sie wusste nicht, worauf.
 
-Ihre Hände waren schwarz bis zum Handgelenk. Nicht Blut. Die Farbe. Die Farbe, die die Bund-Meister Verunreinigung nannten, und sie kam jetzt höher, schob sich unter die Ärmel, und Alphina sah hinunter und stellte fest, dass sie nicht atmete, und sie zwang sich zu atmen.
+Der erste Schrei kam etwa eine halbe Minute später.
 
-Der Kommandant sagte etwas. Sie hörte es nicht.
+Er war nicht von einem Kind oder einer verwundeten Frau. Er war von einem Magier — tiefer, überrascht, abgebrochen mitten im Wort. Jemand, der gerade seine Gabe ausschickte und sie nicht wiederbekam. Alphina wusste das, weil sie denselben Klang einmal bei einem alten Mann gehört hatte, dem das Herz mitten im Satz stehen geblieben war.
 
-Der Boden unter ihr, die Erde, die noch eben gesummt hatte wie ein Kessel — still. Kein Puls. Nichts, was nachwuchs. Sie legte die Hand flach drauf und spürte Stein, und unter dem Stein Stein, und unter dem Stein Nichts.
+Der zweite Schrei kam Sekunden nach dem ersten. Dann der dritte.
 
-»Thalsen.«
+Sie kamen in Wellen, nicht gleichzeitig — die, die gerade verbrauchten, zuerst. Sie hatte in der Ausbildung gehört, wie das klingt: Feuer, das einem ausgeht, wenn man es am höchsten braucht. Metall, das unter der Hand weich bleibt, weil das Härten aufhört. Jedes Mal ein abrupter Laut, kurz, dann nichts.
 
-»Ja.«
+Sie zählte bis sieben, bevor sie aufhörte zu zählen.
 
-»Die große.«
+Dann wurde es stiller auf der anderen Seite des Walls, nicht leiser — anders. Die Rufe des Gefechts veränderten sich. Thar-Kämpfer riefen Namen, die nicht antworteten. Bund-Soldaten riefen Befehle, die sich erst verwirrt anhörten, dann fester. Sie merkten, dass der Widerstand kippte.
 
-Sie sah ihn an. Seine Augen waren auf ihren Händen, die schwarz waren. Er nickte trotzdem Richtung Siedlung.
+Alphina zog die Wurzel zurück. Langsam. Wie man einen Faden aus einem Knopfloch zieht.
 
-»Die große.«
+Ihre Hände waren schwarz bis zum Handgelenk. Nicht Blut. Die Farbe, die die Bund-Meister Verunreinigung nannten, und sie kam jetzt höher, schob sich unter die Ärmel.
+
+Der Kommandant war hinter ihr. »Thalsen.«
+
+Sie hörte ihn nicht sofort. Sie hörte noch immer die Schreie, auch die, die noch nicht gekommen waren — die Zivilisten, die Kinder, die alten Männer in den Häusern, die ihre kleine Gabe jeden Tag benutzten, um Feuer am Brennen zu halten, Wunden zu schließen, Brot aufgehen zu lassen. Die würden es heute Abend merken. Morgen fester. In drei Tagen gar nicht mehr.
+
+»Die große«, sagte der Kommandant.
+
+Sie sah ihn an. Seine Augen waren auf ihren Händen.
+
+»Die große«, sagte er noch einmal.
 
 Sie stand auf.
 
