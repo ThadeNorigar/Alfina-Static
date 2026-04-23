@@ -1628,8 +1628,8 @@
     },
     {
       "tz": 551,
-      "tz_sort": 551.52,
-      "tz_datum": "26. Blütenmond 551 TZ",
+      "tz_sort": 551.49,
+      "tz_datum": "25. Blütenmond 551 TZ",
       "welt": "thalassien",
       "pov": "Vesper",
       "buch": "B1",
@@ -1652,8 +1652,8 @@
     },
     {
       "tz": 551,
-      "tz_sort": 551.54,
-      "tz_datum": "26. Blütenmond 551 TZ",
+      "tz_sort": 551.495,
+      "tz_datum": "25. Blütenmond 551 TZ",
       "welt": "thalassien",
       "pov": "Maren",
       "buch": "B1",

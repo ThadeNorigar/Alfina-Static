@@ -373,6 +373,85 @@ Die Leserin versteht. Der Satz arbeitet allein.
 
 **Der /stil-check prüft:** Semantische Doppelung nach Bildsprache = FINDING.
 
+## Negations-Disziplin (April 2026)
+
+**Grundproblem:** Sinnfreie Verneinungen sind ein Prosa-Tic. Sätze wie *„Sie brannte selbst nicht"*, *„Kein Ritual"*, *„Nichts hat sie berührt"*, *„Was aus ihnen wurde, weiß ich nicht"*, *„Nichts blieb"* lassen sich fast immer durch positive Formulierungen ersetzen oder ganz weglassen. Negations-Dichte macht Prosa hölzern und nach Übersetzungs-Duktus klingend.
+
+**Regel:** Wenn ein positiver Satz dieselbe Information trägt, ist die Negation Füllmaterial. Weglassen, wenn ein anderes Bild im selben Absatz den Inhalt schon trägt. Positiv umformulieren, wenn die Information nötig ist.
+
+### Test pro negiertem Satz
+1. Kann dieser Satz durch einen positiven ersetzt werden, der dieselbe Information trägt?
+2. Wird der Inhalt schon durch ein anderes Bild/Fakt im selben Absatz getragen?
+3. Ist der Akt des Nicht-Tuns selbst die Handlung (Verweigerung, Schweigen, Fehlen)?
+
+Ist Antwort 1 oder 2 „ja" → streichen oder umformulieren. Ist 3 „ja" → Negation bleibt.
+
+### Beispiele
+
+| Tot | Lebendig |
+|-----|----------|
+| *„Sie brannte selbst nicht."* (wenn direkt davor: *„Sie trug das Feuer wie einen Mantel"*) | **Streichen** — Mantel impliziert es |
+| *„Nichts hat sie berührt."* | *„Jedes Mittel versagte."* |
+| *„Was aus ihnen wurde, weiß ich nicht."* | *„Wohin sie kamen, blieb stumm."* |
+| *„Nichts blieb."* (nach Auflösung) | *„Der Morgen kam ohne es."* |
+| *„Der Stein gab nicht nach."* | *„Der Stein blieb taub."* |
+| *„Kein Ritual. Nur das."* | **Streichen** — das aktive Tun trägt den Gegensatz selbst |
+| *„Es war nicht leise."* | *„Es war laut."* / konkretes Geräusch |
+| *„Kein Fenster."* (als Info-Satz) | *„Die Wand war geschlossen."* / Raum beschreiben |
+
+### Muster, die fast immer streichen/umformulieren
+- *„Nicht X — sondern Y"* (Antithese, gesondert auf max 1/Kap limitiert)
+- *„Kein X. Nur Y."* als Pointe
+- *„X, nicht Y"* wenn Y nie behauptet wurde
+- *„weiß nicht / kann nicht / konnte nicht"* am Satzende als resignativer Abschluss
+- *„Nichts [Verb]te"* als Absatz-Abschluss-Hammer
+- *„[Figur] hatte X nicht kommen hören"* ohne etablierten Grund (siehe Szenenführung)
+
+### Ausnahme
+
+Echte Negation, wenn das Nicht-Tun SELBST die Handlung ist: *„Er sagte nichts"* (Verweigerung), *„Sie kam nicht mehr"* (Abwesenheit als Ereignis). Dann ist der Akt der Leere die Aussage.
+
+### Der /stil-check prüft
+
+- Gesamt-Dichte der Negations-Marker (*nicht*, *nichts*, *kein/e/r*) pro 1.000 Wörter
+- FINDING wenn > 15 pro 1.000 W (Prosa ist negations-lastig)
+- Liste der Sätze mit Negations-Marker zur manuellen Prüfung (ob positive Umformulierung möglich)
+- Spezifische Muster: *„Nicht X — sondern Y"* (siehe Antithese-Limit 1/Kap), *„Kein X. Nur Y."*, *„Nichts [Verb]te"* am Absatz-Ende
+
+## Pseudo-Präzision: „halb X"-Tic (April 2026)
+
+**Grundproblem:** Formulierungen der Form *„halb + Zeit-/Maß-/Körpereinheit"* — *halbe Sekunde*, *halber Zoll*, *halber Schritt*, *halber Atemzug*, *halbe Handbreit* — sind ein verdeckter Mess-Tic. Sie klingen präzise, liefern aber keine Information, die *kurz*, *knapp*, *einen Moment*, *einen Augenblick* nicht auch trügen. Wiederholt als Muster wirkt es pseudo-wissenschaftlich und untergräbt die Regel *„Alphina keine Uhrmacher-Präzision"*.
+
+**Regel:** *„halb + Zeit/Maß/Körper"* als subtiler Geste-Marker **max 2× pro Kapitel**. Darüber hinaus: durch natürlichere Wörter ersetzen.
+
+### Test
+
+Ist *„halb X"* ein echtes Maß (Uhrzeit, Position, Canon-Zitat)? Oder ein subtiler Geste-Marker, der auch mit *kurz* / *knapp* / *einen Moment* funktionieren würde?
+
+### Beispiele
+
+| Pseudo-Präzision (tot) | Natürlich (lebendig) |
+|---|---|
+| *eine halbe Sekunde länger* | *einen Augenblick länger* |
+| *eine halbe Sekunde Pause* | *ein kurzer Halt* / *einen Moment Pause* |
+| *einen halben Schritt zurück* | *einen Schritt zurück* / *trat zurück* |
+| *einen halben Zoll über dem Papier* | *knapp über dem Papier* |
+| *einen halben Atemzug* (anhalten/kurz) | *kurz inne* / *einen Moment* |
+| *eine halbe Handbreit* | *eine Handbreit* / *knapp* |
+
+### Ausnahme — echte Maße bleiben erlaubt
+
+- Uhrzeit: *auf die halbe Stunde* (Takt-Angabe)
+- Position/Fläche: *halb auf dem Tisch*, *halb offen*
+- Sprech-Beat: *halb für sich*, *halblaut*
+- Canon-Zitate: *einen Mann um den halben überragend*, *eineinhalbmal mannshoch* (I3 / Lenes Bericht)
+
+### Der /stil-check prüft
+
+- Gesamt-Zahl *halb*-Treffer pro Kapitel
+- FINDING wenn > 4 Treffer gesamt (inklusive echter Maße)
+- Besonders flagen: Regex `halb[en]?\s+(Sekund|Minut|Atemzug|Zoll|Schritt|Handbreit|Meter|Zentimeter)` — das sind die Tic-Formen
+
 ## Default-Deny-Prinzip (Council April 2026)
 
 Stilmittel sind **DEFAULT VERBOTEN** bis sie bewusst freigegeben werden. Die folgende Tabelle ist die Referenz für alle Prüfungen:

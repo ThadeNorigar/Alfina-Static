@@ -44,6 +44,9 @@ Zähle mit Grep/Bash — keine Schätzungen:
 | Satzlängen-Verteilung: KURZ (1-10W), MITTEL (11-20W), LANG (21+W) | MITTEL >20% | FINDING wenn MITTEL <15% (Register-Monotonie) |
 | Begehren-Wort-Wiederholung ("Puls", "Handgelenk", "kippte", "unter dem Nabel") | 3x pro Wort | FINDING wenn >3x dasselbe Begehren-Wort |
 | Geschmack in Nähe-Szenen ("schmeckte", "Geschmack", "Zunge", "Lippen", "salzig", "bitter", "süß", "Metall auf") | min. 1 in Nähe-Szene | FINDING wenn Nähe-Szene ohne Geschmacks-Referenz |
+| **Negations-Dichte** (Grep auf `\bnicht\b`, `\bnichts\b`, `\bkein[ern]?\b`) — Gesamtzahl pro 1.000 Wörter | ≤ 15 pro 1.000 W | FINDING wenn > 15 — Kapitel ist negations-lastig, vermutlich hölzerner Ton (siehe Stilregeln "Negations-Disziplin") |
+| **Negations-Tic-Muster** Regex: `Nicht [^.]{2,30}\. Nur `, `[Nn]ichts \w+te\.$`, `weiß ich nicht\.$`, `kann nicht\.$`, `Kein \w+\.$` am Absatzende | 0 | Jeden Treffer markieren zur manuellen Prüfung (positive Umformulierung möglich?) |
+| **„halb"-Pseudo-Präzisions-Tic** (Grep auf `halb[en]?\b`) — Gesamtzahl pro Kapitel | ≤ 4 | FINDING wenn > 4. Tic-Formen (subtiler Geste-Marker) besonders flaggen, Regex: `halb[en]?\s+(Sekund\|Minut\|Atemzug\|Zoll\|Schritt\|Handbreit\|Meter\|Zentimeter)` — Ersatz: *kurz*, *knapp*, *einen Moment*, *einen Augenblick*. Echte Maße (`halbe Stunde`/Uhrzeit, `halb auf`/Position, `halb für sich`/Sprechweise, Canon-Zitate) zählen mit, sind aber legitim (siehe Stilregeln "Pseudo-Präzision"). |
 
 ## Phase 2: Rhythmus-Analyse
 
