@@ -216,10 +216,11 @@
       "25": {
         "titel": "Runa",
         "pov": "Runa (mit Alphina-Auftakt)",
-        "status": "entwurf-ok",
-        "woerter": null,
-        "text": "Alphina besucht Runa in der Druckerei (Heilkräuter-Plakat für Halvard, Anomalien-Sichtungen). Bei der Umarmung spürt Alphina Runas Körperwärme — registriert es, sagt nichts. Nach Alphinas Abgang: POV-Switch zu Runa. Tagträume, Bewusstwerdung des Begehrens für Alphina, Selbstberührung im Hinterzimmer. Beim Höhepunkt fängt der Papierstapel auf dem Setztisch zu brennen an — kein sichtbarer Auslöser. Runa löscht, ordnet als Pechfunke ein, verdrängt die Verbindung. Erste Manifestation der Feuer-Resonanz.",
-        "entwurfs_datei": "B1-K25-entwurf.md"
+        "status": "ausarbeitung",
+        "woerter": 2036,
+        "text": "Alphina besucht Runa in der Druckerei (Heilkräuter-Plakat für Halvard, Anomalien-Sichtungen). Bei der Umarmung spürt Alphina Runas Körperwärme — registriert es, sagt nichts. Nach Alphinas Abgang: POV-Switch zu Runa. Tagträume, Bewusstwerdung des Begehrens für Alphina, Selbstberührung im Hinterzimmer. Beim Höhepunkt erste Manifestation der Feuer-Resonanz: Öllampen-Stichflamme und Werkbank-Holz schwelt unter ihrer Hand, eingebrannter Fingerabdruck bleibt. Runa findet keine tragende Erklärung und ordnet es als vierte Anomalien-Sichtung neben Tohl/Magd/Joran ein; will es Alphina beim nächsten Treffen nennen. Sorel-Prinzip: zieht die Verbindung zum eigenen Körper nicht.",
+        "entwurfs_datei": "B1-K25-entwurf.md",
+        "datei": "B1-K25-runa.md"
       },
       "26": {
         "titel": "Vesper",
