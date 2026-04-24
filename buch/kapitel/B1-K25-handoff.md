@@ -1,44 +1,60 @@
 # Handoff — B1-K25
 
-**Von Phase:** entwurf → **Zu Phase:** ausarbeitung
-**Erstellt:** 2026-04-20
-**Status beim Handoff:** entwurf-ok
+**Von Phase:** ausarbeitung → **Zu Phase:** lektorat-fix
+**Erstellt:** 2026-04-24
+**Status beim Handoff:** lektorat
 
 ## Modell-Empfehlung
-claude --model opus
+
+```
+claude --model sonnet
+```
+
+(oder `claude --model haiku` für Mikro-Fixes)
 
 ## Aufruf für nächste Session
-/ausarbeitung B1-K25
 
-## Kontext für nächste Session
+```
+/lektorat-fix B1-K25
+```
 
-- **POV:** Multi-POV — Alphina-Auftakt (Szene 1, ~25%) → Runa-Hauptteil (Szene 2, ~75%); 3. Person nah, Präteritum
-- **Wortziel:** 4.000–4.500
-- **Timeline-Anker:** 26. Blütenmond 551 TZ, Vormittag bis früher Nachmittag, ein Tag nach K24
-- **Freigegebener Entwurf:** buch/kapitel/B1-K25-entwurf.md
-- **Ton-Referenz für Alphina-Anteil:** das letzte fertige Alphina-Kapitel (B1-K24)
-- **Ton-Referenz für Runa-Anteil:** kein bisheriges Runa-POV-Kapitel — neue Stimme; Druckerin in der Oberstadt; Wahrnehmungsregister Bleisatz/Tinte/Bögen
+## Kontext
 
-## Kritische Anweisungen für die Ausarbeitung (aus dem Entwurf)
+- **Datei:** `buch/kapitel/B1-K25-runa.md` (2081 Wörter)
+- **POV:** Multi — Alphina-Auftakt (~25%) + Runa-Hauptteil (~75%)
+- **Timeline:** 26. Blütenmond 551 TZ, Nachmittag (zwischen K24-Mittag und K26-Abend, alle am selben Tag)
+- **Phase:** Lektorat-Fixes (Autor-getrieben, kleine Edits)
+- Kein neuer Stil-Check, kein neuer Council. Nur was der Autor anfasst.
 
-- **Magie-Kanon-Schutz:** Brand-Sequenz NICHT als Körper-Emission formulieren. Runa kontrolliert Feuer (analog Sorels Licht-Formung): Öllampen-Stichflamme + Werkbank-Holz-Glimmen sind als parallele Phänomene zu schildern, ohne kausale Erzähler-Verknüpfung. Die Leserin darf die Verbindung ziehen, der Text suggeriert sie nicht.
+## Was im Council/Audit eingearbeitet wurde
 
-- **Wärme-Wahrnehmung Alphina:** kein Pflanzen-Vergleich, keine Botanik-Metapher; Alphina nimmt die Wärme körperlich wahr (Haut/Stoff), mag sie, bleibt länger in der Umarmung.
+Alle vier Council-Stimmen (Stilkritiker, Heat-Leserin, Romantasy-Leserin, Autorin-Durchgang Opus) plus zwei Re-Audits sind durchgearbeitet. Wichtigste Eingriffe:
 
-- **Erzähler-Wertung-Adverbien vermeiden:** im Schluss-Beat Szene 1 ("fast eine Spur zu lang" o.ä.) — Alphina merkt die Wärme, Satz endet, kein Kommentar.
+- **Magie-Kanon-Schutz:** „Im selben Atemzug zwei Dinge nebeneinander:" (kausal-suggestive Klammer) gestrichen — Brand und Stichflamme stehen jetzt als parallele Phänomene ohne Erzähler-Verknüpfung
+- **A18 Kopfkino erweitert** — Bilder eskalierend mit Körper-Reaktionen dazwischen, Sapphic-Detail dichter (Alphinas Gewicht, „Bleib." als imaginierte Wunsch-Phrase)
+- **A15 Selbsterkenntnis** mit Runa-spezifischem Körper-Marker („Hände wurden heiß" — K05-Canon, Vorbote der Feuer-Resonanz)
+- **A11 Alphina-Körperbeat** „Unter dem Schlüsselbein zog es sich kurz zusammen" — Leitmotiv aus POV-Dossier aktiviert
+- **Geschmack-Pflicht in Nähe-Szene:** „Die Luft schmeckte nach Tinte und Öllampe" in A19
+- **Zahlreiche Streichungen** von Aphorismen, Doppelpunkt-Pointen, erklärenden Nachsätzen
+- **Neue Memory-Regel** während der Arbeit angelegt: „Keine Gegen-Adverbien bei Ton-Kritik"
 
-- **Velde-Vorgeschichte ist falsch:** Alphina + Runa kennen sich erst seit Vael (Erstbegegnung K05, ~7 Wochen vor K25).
+## Anweisungen für /lektorat-fix
 
-- **POV-Switch:** Marker-Geste ist die Tür-Glocke nach Alphinas Abgang. Wahrnehmungsregister sauber trennen (Alphina = Körper/Haut/Stoff; Runa = Druckerei-Vokabular).
+- **Edit-Tool bevorzugt vor Write-Tool**
+- Kein ungefragtes Umformulieren
+- Bei größeren Wünschen: Hinweis auf Rückstufung zu `/ausarbeitung`
+- Status `final` NUR auf explizite Autor-Freigabe
 
-- **Riegel:** Runa schiebt den inneren Riegel vor dem Hinterzimmer-Gang (bewusste Abgrenzung).
+## Offene Punkte für mögliche Lektorat-Runde
 
-- **Krallen-Timing:** die freie Hand krallt erst kurz vor dem Höhepunkt ins Werkbank-Holz, nicht von Anfang an.
+Aus den Audits noch offen (alle bewusst stehen gelassen, weil entweder Autor-Entscheidung oder Genre-Konflikt):
 
-- **Positioning beachten:** Jede Prosa-Session liest zuerst buch/00-positioning.md (per CLAUDE.md). Commercial Dark Romantasy für weibliche Leserinnen 20-45.
+- **„Sie wollte Alphina. Körperlich."** — Heat-Leserin lobt die Direktheit, Stilkritiker wollte mehr Körper-Marker. Jetzt mit „Hände wurden heiß, die Schenkel zog es zusammen" gekoppelt — Autor entscheidet, ob das reicht.
+- **Wortzahl 2.081** liegt unter dem ursprünglichen Handoff-Ziel 4.000–4.500. Plot-Beats sind aber vollständig abgedeckt. Falls Erweiterung gewünscht: Szene 1 könnte vor der zweiten Umarmung ausgebaut werden (mehr Reibung Alphina/Runa), oder Szene 2 nach dem Brand mehr Aftermath.
 
-## Anweisungen
+## Plot-Anker für Folge-Kapitel
 
-- Prosa aus dem Entwurf ausarbeiten, Plot nicht verändern
-- Jeder Dialog-Info-Punkt aus dem Entwurf muss in der Prosa landen
-- Keine Plot-Änderung ohne Rückkehr zu /entwurf
+- Drei Sichtungs-Adressen (Tohl Daverin, namenlose Magd, Joran) wandern in K26 (Vespers Datenabgleich, gleicher Tag, Abend)
+- Eingebrannter Fingerabdruck im Werkbank-Holz bleibt als physische Spur — Tschechow für späteren Druckerei-Besuch
+- Runas Plan, die Brand-Sichtung Alphina zu nennen — Tschechow für späteres Alphina-Runa-Treffen, in dem Alphina das als Datenpunkt einordnen wird (zusammen mit Wärme-Wahrnehmung aus Szene 1)
+- Runas „Hände wurden heiß" beim Begehren — verstärkter Vorbote der Feuer-Resonanz für spätere Manifestationen
