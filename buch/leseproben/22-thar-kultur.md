@@ -22,7 +22,7 @@ Nyr antwortete nicht sofort. Sie drehte weiter. Der Bolzen kam heraus, dreckig, 
 
 »Ja«, sagte sie. »Ich brauchte ihn.«
 
-Durm nickte. Er stand neben Kessler, die Hände auf dem Rücken, wie er immer stand. Schweres Leder, dunkle Hose, Hemd bis zu den Ellbogen zurückgeschlagen. Sein Unterarm trug eine alte Verbrennung, sauber verheilt, vom Dampf-Unfall vor zwei Jahren. Das hatte er Nyr am ersten Tag erzählt. Beim Thar erzählt man die Fehler zuerst.
+Durm nickte. Er stand neben Kessler, die Hände auf dem Rücken, wie er immer stand. Schweres Leder, dunkle Hose, Hemd bis zu den Ellbogen zurückgeschlagen. Sein Unterarm trug eine alte Verbrennung, sauber verheilt, vom Dampf-Unfall vor zwei Jahren. Das hatte er Nyr am ersten Tag erzählt.
 
 »Die Kupplung hält noch«, sagte er. »Aber nur noch so.«
 
@@ -38,11 +38,11 @@ Er zeigte mit dem Daumen den Bereich. Sieben von zehn. Keine mittelformellen Aus
 
 Er drehte sich zur Rückwand der Halle. »Vesper«, sagte er, »setz dich nicht drunter. Wenn die obere Kammer absackt, presst er dich an die Decke. Das wäre schade um deinen Kopf.«
 
-Nyr sah auf. Vesper saß auf einer der Materialtruhen, Knöchel übergeschlagen, und sah ihnen zu. Er lächelte nicht, aber sein Gesicht hatte diesen Ausdruck, den Nyr inzwischen kannte: leicht erhellt, leicht interessiert, einen Tick weiter als höflich.
+Nyr sah auf. Vesper saß auf einer der Materialtruhen, Knöchel übergeschlagen, und sah ihnen zu. Er lächelte nicht; die Augen waren offener als sonst, der Mund still. Nyr kannte den Ausdruck.
 
 »Ich verstehe«, sagte Vesper.
 
-Durm wandte sich wieder Kessler zu. Er legte die flache Hand auf den Stahl, knapp hinter dem Schulterblatt, dort, wo das Herzstück saß. Kessler atmete. Das war kein Bild. Er atmete. Die Druckkammern über seinen Schulterblättern hoben sich einen Finger breit, eine dünne Dampffahne stieg aus dem linken Ventil, und die Wanne zwischen Halle und Hof bekam einen warmen Geruch von Kessel und Moos.
+Durm wandte sich wieder Kessler zu. Er legte die flache Hand auf den Stahl, knapp hinter dem Schulterblatt, dort, wo der Druckkern saß. Kessler atmete. Das war kein Bild. Er atmete. Die Druckkammern über seinen Schulterblättern hoben sich einen Finger breit, eine dünne Dampffahne stieg aus dem linken Ventil, und die Wanne zwischen Halle und Hof bekam einen warmen Geruch von Kessel und Moos.
 
 »Er ist ruhig heute«, sagte Nyr.
 
@@ -52,7 +52,7 @@ Durm wandte sich wieder Kessler zu. Er legte die flache Hand auf den Stahl, knap
 
 »Ich habe es bemerkt«, sagte Durm, und da war kein Lob darin. Nur eine Feststellung. Die Thar zeichneten keine Reiter aus, weil ein Reiter ruhig war. Ruhig war die Grundvoraussetzung, nicht die Leistung.
 
-Nyr stand auf. Sie wischte sich die Hände am Lederlappen ab, der an ihrem Gürtel hing. Öl blieb in den Fingernägeln, egal wie oft sie wischte. Das war ebenfalls Normal.
+Nyr stand auf. Sie wischte sich die Hände am Lederlappen ab, der an ihrem Gürtel hing. Öl blieb in den Fingernägeln, egal wie oft sie wischte. Das gehörte dazu.
 
 Vesper lehnte sich nach vorn. »Darf ich eine Frage stellen?«
 
@@ -68,7 +68,7 @@ Durm nahm das Werkzeug auf, das auf dem Rollbrett lag, legte es zurück in den W
 
 »Ich brauche dich morgen früh«, sagte er zu Nyr. »Vier Uhr. Kessler will vor dem ersten Licht raus. Er läuft lieber dunkel.«
 
-»Ich bin da.«
+»Ich weiß. Ich bin da.«
 
 Durm ging. Die Tür fiel ins Schloss, ohne zu knallen.
 
