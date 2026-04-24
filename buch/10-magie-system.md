@@ -79,19 +79,23 @@ Moragh-Bürger-Rituale sind kulturell etabliert und in `20-moragh-talente.md` be
 
 ## Magie-Dämpfung durch präparierte Materialien
 
-Ein Magier mit **Energie-Talent ab Stufe 5** (siehe `20-moragh-talente.md` — *Energie*) kann in weiche, organische Materialien (Leder, Lammhaut, Seide) eine Dämpfungs-Ladung einbinden. Das präparierte Material strahlt ein passives Feld ab, solange die Ladung reicht — **Tage bis Wochen**, abhängig von Material-Güte und Ladungs-Intensität. Trägt ein Magier das Material direkt auf der Haut, wird seine Resonanz **gedämpft, nicht blockiert**.
+Ein Magier mit **Energie-Talent ab Stufe 5** (siehe `20-moragh-talente.md` — *Energie*) kann in weiche, organische Materialien (Leder, Lammhaut, Seide) eine Dämpfungs-Ladung einbinden. Das präparierte Material **saugt Magie ab, sobald sie ausgeübt wird** — es ist kein konstantes Feld, sondern reaktiver Absorber. Die Ladung reicht über **Tage bis Wochen**, abhängig von Material-Güte, Ladungs-Intensität und wie oft der Träger versucht zu wirken. Jeder Wirk-Versuch verbraucht etwas Ladung.
 
-**Wirkung:** Nur schwache, langsame Wirkungen bleiben möglich. Alphina könnte Moos oder Gras aus einer Fuge ziehen, aber **keine Wurzel schicken, keine Ranke schlingen, keine Mauer sprengen**. Kampf- und Sprengwirkung entfällt. Feine Wahrnehmungs-Resonanz (Quellenpuls spüren, Pflanzen-Zustand ablesen) bleibt rudimentär. Der Gedämpfte ist bei vollem Bewusstsein und spürt, dass seine Magie versucht zu wirken — sie reagiert nur nicht mit voller Kraft.
+**Wirkung:** Nur schwache, langsame Wirkungen bleiben möglich — ein Bruchteil der Magie entkommt, bevor das Material absorbiert. Alphina könnte Moos oder Gras aus einer Fuge ziehen, aber **keine Wurzel schicken, keine Ranke schlingen, keine Mauer sprengen**. Kampf- und Sprengwirkung entfällt. Feine Wahrnehmungs-Resonanz (Quellenpuls spüren, Pflanzen-Zustand ablesen) bleibt rudimentär. Der Gedämpfte ist bei vollem Bewusstsein und spürt, dass seine Magie versucht zu wirken — sie wird abgeführt, bevor sie greift. Während des Wirkens wird das präparierte Material spürbar **warm**.
 
-**Standard-Modell der Velmar-Binder:** Zwei Lederschlaufen mit Messingschnallen über den Handgelenken, zwischen ihnen eine kurze Kette — das Leder ist der magische Dämpfer, die Kette die mechanische Bewegungs-Einschränkung. Seit etwa 15 Jahren in Velmar-Binder-Kreisen etabliert für Begabte, die "ruhiggestellt" werden sollen ohne dauerhafte Wächter.
+**Standard-Modell der Velmar-Binder: das enge Lederhalsband.** Ein schmales, eng anliegendes Halsband aus präpariertem Leder mit einem **dunklen Stahlring** vorn an der Kehle. Der enge, konstante Hautkontakt am Hals ist der wirkungsvollste Absorberort; der Ring dient als Zugpunkt (Führleine, kurzes Reißen zur Disziplinierung) und als **Anzeige**: je mehr Magie das Band absorbiert hat, desto heller glüht der Stahl **matt-violett**. Frisch nachgeladen ist der Ring schwarz; im Laufe einer Wirk-Versuchs-Phase zieht das Violett von innen nach außen auf. Das gibt dem Wärter die Möglichkeit, den Ladungs-Stand zu lesen, ohne den Gefangenen zu befragen — und zeigt dem Gefangenen selbst, wie viel sein Widerstand "kostet".
 
-**Varen** als Fünffach-Begabter (Energie als eines seiner Talente) ist der stärkste bekannte Präparator. Seine Schlaufen dämpfen Thalassier-Resonanz besonders effektiv, weil er als Einziger diese Resonanz kennt.
+Das Halsband ist das magisch wirksame Stück — **Lederarmbänder mit Kette zwischen den Handgelenken** sind dagegen rein mechanisch und werden zusätzlich oder getrennt verwendet, wenn physische Kontrolle gebraucht wird. Beide Formen seit etwa 15 Jahren in Velmar-Binder-Kreisen etabliert.
+
+**Warum Hals statt Handgelenk:** Der konstante Hautkontakt am Hals (enges Band, Haut direkt unter dem Leder, 24/7 Kontakt) und die zentrale Position nahe Atem und Stimme macht den Hals zum stärksten Absorberort. Armband-Versionen existieren (lockerer Sitz, nur Handgelenk) und dämpfen, aber schwächer — sie werden eingesetzt, wenn das Halsband aus kulturellen oder kosmetischen Gründen ausgeschlossen ist.
+
+**Varen** als Fünffach-Begabter (Energie als eines seiner Talente) ist der stärkste bekannte Präparator. Seine Halsbänder dämpfen Thalassier-Resonanz besonders effektiv, weil er als Einziger diese Resonanz kennt.
 
 **Abgrenzungen:**
 - **Nicht Blockade.** Der Gedämpfte kann immer noch wirken, nur schwach.
 - **Nicht Resonanz-Entzug.** Das ist Energie Stufe 10 + Varens Ernte-Technik, ein anderer Vorgang (siehe Abschnitt *Resonanz-Ernte* in `22-moragh-figuren.md` Varen-Dossier).
 - **Nicht Betäubung.** Keine Bewusstseins-Wirkung.
-- **Nicht dauerhaft.** Lädt sich nicht selbst nach — wer eine Gedämpfte über längere Zeit halten will, muss das Material periodisch neu präparieren.
+- **Nicht dauerhaft.** Lädt sich nicht selbst nach — wer eine Gedämpfte über längere Zeit halten will, muss das Halsband periodisch neu präparieren (häufiger, wenn die Gefangene oft zu wirken versucht).
 
 ---
 

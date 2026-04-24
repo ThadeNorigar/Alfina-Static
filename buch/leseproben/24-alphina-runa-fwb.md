@@ -28,7 +28,7 @@ Runa setzte den Mund auf Alphinas Mund, ohne Anlauf. Sie küsste, wie sie immer 
 
 Alphina zog das Hemd über den Kopf. Runa zog ihre Weste aus, dann das Unterhemd. Darunter nichts. Sie hatte nie etwas darunter. Ihre Brüste waren klein, fest, und die linke hatte einen kleinen Brandfleck am äußeren Rand, nicht größer als eine Erbse, von einer Lettern-Charge vor Jahren.
 
-Sie legte sich nicht hin. Sie zog Alphina zu sich auf den Schoß, das war Runas Art — sitzen, die Beine um ihre Hüfte, dicht. Alphina ließ sich ziehen. Runas Schenkel waren warm an ihrem Bauch. Alphinas Finger fanden die Stelle unter Runas Kinn, wo ein Puls lief, und blieben dort, weil sie es mochte, wie der Puls gegen ihre Fingerkuppe schlug.
+Sie legte sich nicht hin. Sie zog Alphina zu sich auf den Schoß, das war Runas Art — sitzen, die Beine um ihre Hüfte, dicht. Alphina ließ sich ziehen. Runas Schenkel waren warm an ihrem Bauch. Alphinas Finger fanden die Stelle unter Runas Kinn, wo die Halsschlagader lief, und blieben dort, weil sie mochte, wie das Blut gegen ihre Fingerkuppe schlug.
 
 »Still heute«, sagte Runa, an ihren Mund.
 
