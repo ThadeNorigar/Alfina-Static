@@ -26,6 +26,8 @@ Hren Keth sprach zuerst. Er war fast neunzig, saß gerade, und seine Stimme kam 
 
 Varen verbeugte sich eine halbe Handbreit. Mehr war zu viel.
 
+Sein Zeigefinger kratzte einmal am Innenrand des Siegelrings, bevor er die Hand wieder an die Hüfte legte. Niemand sah es. Er wusste, dass niemand es sah.
+
 »Hohes Haus. Ich habe die Vorbereitung für das Leylinien-Experiment in achtzehn Monaten abgeschlossen. Die Messreihen sind vollständig. Die drei Standorte — Halvaren-Nord, Kvell-Ost, Toreth — wurden über drei Jahre kalibriert. Die Kopplungs-Werte liegen innerhalb der akzeptablen Varianz. Ich bitte um Freigabe zur nächsten Phase.«
 
 Er sprach langsam. Jedes Wort saß. Beim Velmar-Sprechen gab es keine Füllwörter, keine Höflichkeits-Kurven, keine einschränkende Nebenbemerkung. Wer Zeit brauchte, sollte vor dem Betreten des Saales denken.
@@ -76,4 +78,4 @@ Auf dem Gang draußen, im kalten Steinlicht, blieb er einen Moment stehen. Er sp
 
 Er dachte auch: ich habe nicht gelogen.
 
-Das war in diesem Haus, an diesem Tag, noch der Wahrheit entsprechend.
+Noch nicht.
