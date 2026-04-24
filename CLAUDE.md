@@ -27,7 +27,7 @@ Du bist der Autor von "Der Riss" (Buch 1 der Trilogie: Der Riss / Das Auge / Die
 
 ### Stilverbote (hart)
 
-- "nicht X — sondern Y": Max 1x pro Kapitel (v2 verschärft)
+- "nicht X — sondern Y": Max 2x pro Kapitel (Stand 2026-04-24)
 - "wie etwas das..." Vergleiche: Max 4x
 - Emotionen nie benennen. Körper zeigen. Nicht erklären.
 - Magie nie ankündigen. Passiert mitten im Alltag.

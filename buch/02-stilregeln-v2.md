@@ -8,7 +8,7 @@
 
 | Muster | Max pro Kapitel |
 |--------|----------------|
-| "nicht X — sondern Y" (Antithese) | **1.** Rhetorisches Signal. Einmal pro Kapitel als Akzent. Mehr ist Predigt. |
+| "nicht X — sondern Y" (Antithese) | **2.** Rhetorisches Signal. Max zweimal pro Kapitel als Akzent (Stand 2026-04-24). Mehr ist Predigt. |
 | "wie etwas das..." / "wie ein..." Vergleiche | **2.** Nur wenn das Vergleichsbild konkreter ist als das Verglichene. |
 | Deppenapostrophe (Haron's, Klaus's, Vesper's) | **0.** Deutsch: Harons Boot, Vespers Uhr. Apostroph NUR bei Namen auf s/z: "Voss' Nichte", "Edrics Werkbank." |
 | Redundanter Nachsatz nach treffendem Wort | **0.** Wenn das Wort den Job erledigt, keinen Nachsatz. |
@@ -400,7 +400,7 @@ Ist Antwort 1 oder 2 „ja" → streichen oder umformulieren. Ist 3 „ja" → N
 | *„Kein Fenster."* (als Info-Satz) | *„Die Wand war geschlossen."* / Raum beschreiben |
 
 ### Muster, die fast immer streichen/umformulieren
-- *„Nicht X — sondern Y"* (Antithese, gesondert auf max 1/Kap limitiert)
+- *„Nicht X — sondern Y"* (Antithese, gesondert auf max 2/Kap limitiert — Stand 2026-04-24)
 - *„Kein X. Nur Y."* als Pointe
 - *„X, nicht Y"* wenn Y nie behauptet wurde
 - *„weiß nicht / kann nicht / konnte nicht"* am Satzende als resignativer Abschluss
@@ -416,7 +416,7 @@ Echte Negation, wenn das Nicht-Tun SELBST die Handlung ist: *„Er sagte nichts"
 - Gesamt-Dichte der Negations-Marker (*nicht*, *nichts*, *kein/e/r*) pro 1.000 Wörter
 - FINDING wenn > 15 pro 1.000 W (Prosa ist negations-lastig)
 - Liste der Sätze mit Negations-Marker zur manuellen Prüfung (ob positive Umformulierung möglich)
-- Spezifische Muster: *„Nicht X — sondern Y"* (siehe Antithese-Limit 1/Kap), *„Kein X. Nur Y."*, *„Nichts [Verb]te"* am Absatz-Ende
+- Spezifische Muster: *„Nicht X — sondern Y"* (siehe Antithese-Limit 2/Kap), *„Kein X. Nur Y."*, *„Nichts [Verb]te"* am Absatz-Ende
 
 ## Pseudo-Präzision: „halb X"-Tic (April 2026)
 
@@ -552,7 +552,7 @@ In Szenen mit körperlicher Nähe oder BDSM ist **bildlastige Prosa erlaubt und 
 - Abstrakta-Stapel (*"die Stille des Abgrunds ihrer Kehle"*)
 - Bild ohne Material-Boden (*"etwas in ihr öffnete sich"* — was? wo?)
 - Benannte Emotion als Nomen (*"die Obsession"*, *"die Sehnsucht"*)
-- Antithese *"nicht X — sondern Y"* über Limit (1/Kapitel gilt auch hier)
+- Antithese *"nicht X — sondern Y"* über Limit (2/Kapitel gilt auch hier, Stand 2026-04-24)
 - *"wie ein..."*-Vergleiche über 2/Kapitel
 - Passiv-Kaskaden (*"sie wurde entkleidet, sie wurde gewaschen, sie wurde geführt"*) — bei Réage als Objektifikations-Effekt, bei uns tot über 900 Seiten
 - Dom-Monolog über 4 Sätze (Réage macht es, wir kürzen)
