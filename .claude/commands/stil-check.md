@@ -47,6 +47,9 @@ Zähle mit Grep/Bash — keine Schätzungen:
 | **Negations-Dichte** (Grep auf `\bnicht\b`, `\bnichts\b`, `\bkein[ern]?\b`) — Gesamtzahl pro 1.000 Wörter | ≤ 15 pro 1.000 W | FINDING wenn > 15 — Kapitel ist negations-lastig, vermutlich hölzerner Ton (siehe Stilregeln "Negations-Disziplin") |
 | **Negations-Tic-Muster** Regex: `Nicht [^.]{2,30}\. Nur `, `[Nn]ichts \w+te\.$`, `weiß ich nicht\.$`, `kann nicht\.$`, `Kein \w+\.$` am Absatzende | 0 | Jeden Treffer markieren zur manuellen Prüfung (positive Umformulierung möglich?) |
 | **„halb"-Pseudo-Präzisions-Tic** (Grep auf `halb[en]?\b`) — Gesamtzahl pro Kapitel | ≤ 4 | FINDING wenn > 4. Tic-Formen (subtiler Geste-Marker) besonders flaggen, Regex: `halb[en]?\s+(Sekund\|Minut\|Atemzug\|Zoll\|Schritt\|Handbreit\|Meter\|Zentimeter)` — Ersatz: *kurz*, *knapp*, *einen Moment*, *einen Augenblick*. Echte Maße (`halbe Stunde`/Uhrzeit, `halb auf`/Position, `halb für sich`/Sprechweise, Canon-Zitate) zählen mit, sind aber legitim (siehe Stilregeln "Pseudo-Präzision"). |
+| **Label-Adjektive/Adverbien** (siehe Autorin-Stimme §6.5 Label-Verbot) — Regex: `\b(verspielt(es)?\|wollüstig(es)?\|ernsthaft(es)?\|nüchtern(es)?\|sanft(es)?\|zärtlich(es)?\|liebevoll(es)?\|leidenschaftlich(es)?\|hingerissen(es)?\|bedrohlich(es)?\|unheimlich(es)?)\b` | **0 pro Kapitel** | Jeden Treffer markieren als HARTES FINDING. Test: Würde ein präziseres Verb / ein Körperbeat das Adjektiv ersetzen? Wenn ja: Adjektiv streichen, Beat einsetzen. Ausnahme: in Dialog-Repliken, wo eine Figur das Wort *selbst* sagt (Selbst-Diagnose) — dann zählt es nicht als Erzähler-Label. |
+| **Sinnes-Adjektiv-Coverage pro Absatz** (siehe Autorin-Stimme §6.5 Pflicht-Stellen) — Anteil Absätze mit mindestens einem konkreten Sinnes-Adjektiv (warm/kalt/rauh/weich/feucht/trocken/dicht/satt/glatt/klebrig/hart/scharf/dumpf/hell/gedämpft/süß/bitter/salzig/herb/würzig/laut/leise) | ≥ 70% der Absätze | FINDING wenn < 70%. Der commercial Dark-Romantasy-Ton lebt von sinnlicher Verankerung. Absätze ohne Sinnes-Adjektiv sind erlaubt (Dialog-Bursts, Tempo-Beschleunigungen), dürfen aber nicht das Default sein. |
+| **POV-Lieblingswörter-Coverage** (siehe Autorin-Stimme §6.5 Pkt. 6) — pro POV mindestens 3× im Kapitel | ≥ 3 Treffer aus dem POV-Register | FINDING wenn < 3. Pro POV Register prüfen: Maren (*stetig*, *gleichmäßig*, *satt*, *warm*, *dicht*, *eng*, *Lücke*), Vesper (*gleichmäßig*, *präzise*, *Takt*, *ohne Spiel*), Sorel (*Schein*, *Schimmer*, *hell*, *gedämpft*), Alphina (*knospen*, *schwellen*, *grün*, *frischer Schnitt*), Runa (*warm*, *weich*, *dicht gewoben*, *satt*). |
 
 ## Phase 2: Rhythmus-Analyse
 
@@ -240,6 +243,20 @@ Gehe jeden Absatz durch und prüfe die folgenden 5 Qualitäts-Dimensionen. Diese
 - Atmosphäre-Sätze prüfen: Ist das Bild spezifisch für diesen Raum / diese Figur / diesen Moment?
 - `"Die Luft war schwer und still"` → generisch. `"Die Luft roch nicht nach Garten"` → spezifisch, weil es sagt was fehlt, nicht was da ist.
 - FINDING wenn ein Stimmungs-Satz austauschbar gegen eine beliebige Dark-Fantasy-Szene ist.
+
+**6. Sinnes-Adjektiv-Pflichtstellen-Audit (siehe Autorin-Stimme §6.5):**
+Identifiziere die folgenden Stellen im Kapitel und prüfe, ob mindestens ein konkretes Sinnes-Adjektiv (Material/Temperatur/Textur/Geruch/Geschmack/Lichtqualität) gesetzt ist:
+
+| Pflicht-Stelle | Test | FINDING wenn |
+|---|---|---|
+| **Erste Berührung im Beat** | Bei jeder ersten Berührung der POV-Figur mit Material (Stein, Holz, Stoff, Haut, Wasser, Pflanze): trägt der Satz Sinnes-Adjektiv? | Berührung ohne Adjektiv → BERÜHRUNGS-LÜCKE |
+| **Szenen-Eröffnung** | Erste 50 Wörter jeder Szene: 1-2 sinnliche Anker (Pflastersteine *kalt*, Nebel *dicht*, Lampenöl-Geruch)? | Szene eröffnet ohne Sinnes-Anker → ERÖFFNUNGS-LÜCKE |
+| **Magie-Manifest** | Wenn Resonanz wirkt: konkretes Sinnes-Adjektiv (warm/pulsierend/klebrig/schwitzend)? | Magie ohne Sinn → MAGIE-ABSTRAKT |
+| **Heat/Nähe-Moment** | Anatomie + Adjektiv (hart/weich/feucht/glatt/rauh/heiß)? Auch nicht-explizite Nähe (Hand auf Schulter, Atem im Nacken) braucht 1 Sinn. | Nähe ohne Anatomie-Adjektiv → NÄHE-LÜCKE |
+| **Horror/Leichenfund** | Fremder Geruch, kalte Haut, *graue* Lippen, *raue* Stoppel? | Horror ohne Sinnes-Konkretheit → HORROR-PATHOS |
+| **POV-Lieblingswörter ≥3×** | Aus POV-Register (Maren: stetig/satt/dicht; Vesper: präzise/Takt; Sorel: Schein/gedämpft; Alphina: knospen/grün; Runa: warm/dicht gewoben) min. 3 Treffer? | <3 Treffer → POV-REGISTER-LÜCKE |
+
+**Fix-Prinzip bei Lücke:** Adjektiv setzen, das aus dem Sinnes-Register stammt (Geruch/Tastsinn/Geschmack/Temperatur/Textur/Lautstärke/Lichtqualität). Nicht aus dem Label-Register (verspielt/wollüstig/ernsthaft/sanft/zärtlich) — das wäre ein neues Finding (siehe Phase 1 Label-Adjektive-Zeile).
 
 **Ausgabe dieser Phase im Gate-Bericht:**
 ```
