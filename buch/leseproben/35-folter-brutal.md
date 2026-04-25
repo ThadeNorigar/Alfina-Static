@@ -10,7 +10,7 @@ zweck: Gegenstück zu #20 (Kalt-Captivity ohne Schmerz). Diese Probe trägt phys
 canon_status: Ton-Etüde, nicht Plot-Canon.
 ---
 
-Nyr konnte die linke Hand noch bewegen. Die rechte war nicht mehr da, wo ihre rechte Hand sein sollte — sie hing in einer mit Leder unterlegten Schlaufe aus Metall über ihrem Kopf, und die Finger darin waren taub, aber die Schulter darin war das Lauteste, was je in ihrem Körper gewesen war. Sie war seit drei Stunden hier. Drei Stunden, das wusste sie, weil sie den Dampfstoß aus der Haupthalle dreimal gehört hatte, und der Dampfstoß kam jede Stunde, sobald der Kessel-Boiler den Druck ablassen musste.
+Nyr konnte die linke Hand noch bewegen. Die rechte war nicht mehr da, wo ihre rechte Hand sein sollte — sie hing in einer mit Leder unterlegten Schlaufe aus Metall über ihrem Kopf, und die Finger darin waren taub, aber die Schulter war das Lauteste, was je in ihrem Körper gewesen war. Sie war seit drei Stunden hier. Drei Stunden, das wusste sie, weil sie den Dampfstoß aus der Haupthalle dreimal gehört hatte, und der Dampfstoß kam jede Stunde, sobald der Kessel-Boiler den Druck ablassen musste.
 
 Der Raum war eine Nebenkammer der Kessler-Halle, die sie selbst hundertmal betreten hatte. Die Haken an der Decke waren normalerweise für Kettenzüge, für das Herausheben von Druckköpfen aus ihren Sitzen, für die Art Arbeit, bei der zwei Männer ein Seil brauchten. Heute hingen zwei Lederschlaufen an zwei dieser Haken, und in einer der Schlaufen hing ihre rechte Hand.
 
@@ -36,7 +36,7 @@ Sie antwortete nicht. Sie hatte zwei Stunden lang überlegt, ob sie lügen sollt
 
 Er stand auf, ging zu ihrer linken Hand — die noch frei war — und nahm ihren kleinen Finger.
 
-Der Schraubstock war klein. Das war die Idee. Ein großer Schraubstock schadete schnell, so schnell, dass man danach keinen zweiten Versuch machen konnte. Ein kleiner Schraubstock schadete lange und gleichmäßig, so dass man zwischendurch pausieren und die Antwort abwarten konnte.
+Der Schraubstock war klein. Das war die Idee. Ein großer Schraubstock schadete schnell. Zu schnell — danach gab es keinen zweiten Versuch. Ein kleiner Schraubstock schadete lange und gleichmäßig, so dass man zwischendurch pausieren und die Antwort abwarten konnte.
 
 Kestan legte ihren kleinen Finger in den Schraubstock. Er schraubte ihn nicht sofort zu. Er drehte die Spindel einmal, bis die Backen den Finger an den Seiten berührten, dann ließ er die Hand los und sah Nyr an.
 
@@ -52,7 +52,7 @@ Sie schloss die Augen.
 
 Kestan drehte die Spindel eine Umdrehung weiter.
 
-Der Schmerz kam zuerst als Klarheit — alles im Raum wurde heller, als hätte jemand eine zweite Lampe gezündet, und dann kam das, was nach der Klarheit kam. Sie spürte den Knochen unter der Haut. Sie spürte die Haut zwischen zwei Flächen. Sie spürte, wie der Finger keine Richtung mehr hatte, nur Druck, immer weiter, und irgendwann begann die Haut an einer Kante zu platzen, und das Blut war warm und lief über den Schraubstock auf ihre Handfläche.
+Der Schmerz kam zuerst als Klarheit — alles im Raum wurde heller, als hätte jemand eine zweite Lampe gezündet, und dann kam das, was nach der Klarheit kam. Sie spürte den Knochen unter der Haut. Sie spürte die Haut zwischen zwei Flächen. Der Finger hatte keine Richtung mehr, nur Druck, immer weiter, und irgendwann begann die Haut an einer Kante zu platzen, und das Blut war warm und lief über den Schraubstock auf ihre Handfläche.
 
 Sie hörte ein Geräusch und wusste nach einer Zeit, dass es aus ihrer Kehle gekommen war.
 
