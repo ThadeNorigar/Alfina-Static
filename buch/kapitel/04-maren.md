@@ -62,7 +62,7 @@ Seine Hände waren das Erste was Maren richtig sah, als er näher kam. Breite Ha
 
 "Zeigen Sie mir das Boot?"
 
-Edric nickte. Nicht wie ein Führer der Dinge erklärte, sondern als teilte er einen Raum und ging davon aus, dass die andere Person sehen konnte.
+Edric nickte. Er führte nicht. Er ging neben ihr und ließ sie sich selbst ein Bild machen.
 
 "Kiel aus Eiche. Massiv, ein Stück." Seine Hand fuhr über das Holz, ohne es zu berühren, ein Fingerbreit Abstand, als könnte Berührung etwas stören.
 
@@ -80,7 +80,7 @@ Edric nickte. Nicht wie ein Führer der Dinge erklärte, sondern als teilte er e
 
 Maren umrundete den Rumpf. Harons Boot war ein guter Kompromiss. Die Linien sauber, die Proportionen stimmig. Das Holz roch nach Leinöl und nach der Geduld, mit der jemand Jahre an einem einzigen Gegenstand gearbeitet hatte.
 
-Auf der Werkbank lagen Zeichnungen — Harons Handschrift, die sie aus den Briefen kannte, klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Millimetern, sauber, mit Lineal gezogen.
+Auf der Werkbank lagen Zeichnungen — Harons Handschrift, die sie aus den Briefen kannte, klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Zoll, sauber, mit Lineal gezogen.
 
 "Die kenne ich", sagte Maren. Sie tippte auf eine Zeichnung. "Diesen Querschnitt hat er mir geschickt. Im siebten Brief. Ich hatte gefragt, warum die Kimm so flach ist."
 
@@ -188,7 +188,7 @@ An ihrer Wade zuckte etwas. Ein Strom, kaum spürbar, der vorher nicht da gewese
 
 Das Wasser wurde still.
 
-Nicht stiller als es war — es war schon still gewesen, Wannenwasser, kein Wind, kein Strom. Aber jetzt war es anders still. Die Oberfläche, die eben noch leicht gezittert hatte, vom Atem, von der Bewegung des Brustkorbs, vom Pulsschlag in den Adern: reglos. Glatt. Gestrichen und gehalten.
+Nicht stiller als es war — es war schon still gewesen, Wannenwasser, kein Wind, kein Strom. Aber jetzt war es anders still. Die Oberfläche, die eben noch leicht gezittert hatte, vom Atem, von der Bewegung des Brustkorbs, vom Schlag in den Adern: reglos. Glatt. Gestrichen und gehalten.
 
 Maren hielt den Atem an.
 
