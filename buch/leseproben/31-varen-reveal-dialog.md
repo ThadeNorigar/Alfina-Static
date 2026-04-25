@@ -58,11 +58,11 @@ Alphina atmete aus. Sie hörte ihren eigenen Atem und nichts sonst. Ihre Fingerk
 
 »Warum ich.«
 
-Er sah sie an, lange, und das war der Moment, in dem sein Gesicht kippte. Nicht theatralisch — nur der schmale Zug um den Mund, der in der Ratssitzung in Orath vor zwei Jahren noch Höflichkeit gewesen war, verschob sich um einen halben Millimeter.
+Er sah sie an, lange, und das war der Moment, in dem sein Gesicht kippte. Nicht theatralisch — nur der schmale Zug um den Mund, der in der Ratssitzung in Orath vor zwei Jahren noch Höflichkeit gewesen war, verschob sich kaum sichtbar.
 
 »Kleine naive Alphina«, sagte er.
 
-Sie spürte den Satz im Magen bevor im Kopf. Die Epitheta, die er ihr seit dem ersten Tag gegeben hatte — *Liebe, Meine* —, waren ein System gewesen. Jetzt war das System aus. *Kleine naive Alphina.* Das war das erste ohne Wärme, und die Kälte darin war ein Ding, das er lang bereit gehalten hatte, und jetzt nahm er es heraus.
+Sie spürte den Satz im Magen bevor im Kopf. Die Epitheta, die er ihr seit dem ersten Tag gegeben hatte — *Liebe, Meine* —, waren ein System gewesen. *Kleine naive Alphina.* Das war das erste ohne Wärme, und die Kälte darin war ein Ding, das er lang bereit gehalten hatte, und jetzt nahm er es heraus.
 
 »Du warst sauberer zu lesen als Sorel«, sagte er. »Er hatte Widerstand. Du hattest Fleiß. Fleiß ist mir lieber.«
 
@@ -78,7 +78,7 @@ Das war der Satz, der hängen blieb. Sie verstand das Wort *Frequenzwert* — Ve
 
 Ihre Hand war jetzt schwarz bis zum Gelenk. Farbe, nicht Schmutz. Wie damals.
 
-Varen sah die Hand. Er sah sie immer. Er sah alles, das war ja der Punkt.
+Varen sah die Hand. Er sah sie immer. Er sah alles.
 
 »Du zürnst«, sagte er. »Das verstehe ich.«
 
@@ -90,14 +90,14 @@ Varen sah die Hand. Er sah sie immer. Er sah alles, das war ja der Punkt.
 
 Sie hob sie. Sie zeigte ihm die Farbe. Sie sprach ruhiger, als sie erwartet hatte, und das war der zweite Moment an diesem Nachmittag, in dem sie selbst überrascht war.
 
-»Ich habe Sorel nicht vergessen. Ich habe Elke nicht vergessen. Ich habe Maren nicht vergessen, die wir bei deiner Expedition-2 getötet haben.«
+»Ich habe Sorel nicht vergessen. Ich habe Elke nicht vergessen. Ich habe Maren nicht vergessen, die wir bei deiner zweiten Expedition getötet haben.«
 
 »Ich habe sie nicht getötet. Ich habe eine Möglichkeit geschaffen.«
 
 »Ja«, sagte Alphina. »Das war ja das Geschäft.«
 
-Sie trat einen Schritt näher. Unter ihrem Fuß zog eine schmale Linie grünen Trieb über die Fuge im Stein, den sie nicht gewollt hatte und den sie zum ersten Mal seit einem Jahr nicht schwarz sah. Die Hand blieb schwarz. Der Trieb kam grün. Sie sah nach unten, sah hinauf zu Varen, sah die eine halbe Sekunde, in der er den Trieb ebenfalls sah und einmal, kurz, blinzelte.
+Sie trat einen Schritt näher. Unter ihrem Fuß zog eine schmale Linie grünen Trieb über die Fuge im Stein, den sie nicht gewollt hatte. Zum ersten Mal seit einem Jahr kein Schwarz. Die Hand blieb schwarz. Der Trieb kam grün. Sie sah nach unten, sah hinauf zu Varen, sah die eine halbe Sekunde, in der er den Trieb ebenfalls sah und einmal, kurz, blinzelte.
 
 Das war das erste Mal, dass er blinzelte.
 
-Sie wusste, sie hatte gewonnen, bevor das Duell anfing.
+Sie senkte die Hand. Sie ging nicht zurück.
