@@ -87,7 +87,7 @@ Stuhl an die Wand geschoben. Die Lehne gegen den Stein, warm durch das Hemd. Hä
 
 Er ging hinaus als die Laternen herunterbrannten.
 
-Nicht alle — einzelne, verstreut, gelbe Punkte im Dunst. Sorel trug die Kamera über der Schulter, das Stativ unter dem Arm, die Ledertasche mit den Platten am Gurt. Schwer. Die Straße unter seinen Sohlen war feucht, die Luft kalt nach der Wärme des Kellers, der Übergang so scharf dass seine Haut sich zusammenzog — Unterarme, Nacken, Kopfhaut. Seine Schritte klangen gedämpft. Die Luft schluckte den Klang bevor er den Boden erreichte.
+Nicht alle — einzelne, verstreut, gelbe Punkte im Dunst. Sorel trug die Kamera über der Schulter, das Stativ unter dem Arm, die Ledertasche mit den Platten am Gurt. Schwer. Die Straße unter seinen Sohlen war feucht, die Luft kalt nach der Wärme des Kellers, der Übergang so scharf dass seine Haut sich zusammenzog — Unterarme, Nacken, Kopfhaut. In einer Seitengasse stritten Männerstimmen vor einer Schenke, gedämpft hinter geschlossenen Läden, eine Flasche zerbrach auf Pflaster. Ein Hund bellte zwei Höfe weiter, antwortete einem zweiten, beide hörten auf. Eine Wache ging an der Ecke der Hafengasse, die Stiefel schwer, die Laterne an der Hüfte, schaute ihn kurz an und ging weiter. Seine Schritte klangen gedämpft. Die Luft schluckte den Klang bevor er den Boden erreichte.
 
 Nachts war die Stadt eine Platte aus Tonwerten. Sorels Augen, schärfer im Dunkeln als im Licht, lasen die Gassen wie Negative — helle Flächen dort wo Laternenlicht auf Stein traf, dunkle Flächen wo der Dunst die Konturen fraß, dazwischen Abstufungen, fünfzig Grautöne die nur ein Auge las das lang genug trainiert hatte. Die Giebel über ihm kaum sichtbar. Eine Katze auf einem Sims, die Augen zwei helle Punkte, belichtet, scharf. Wasser das irgendwo tropfte — kein Regen, kein Rinnsal, nur Tropfen die fielen, gleichmäßig, etwas das in den Mauern tickte.
 
@@ -168,7 +168,7 @@ Er stellte das Stativ wieder auf. Am selben Punkt, derselbe Winkel. Holzbeine, M
 
 Er wartete.
 
-Der Dunst lag auf dem Wasser. Das Meer schlug gegen den Stein. Nichts kam. Sorel stand am Kai, die Hände an der Kamera, die Augen im Dunst, und wartete auf etwas das sein Gesicht trug und nicht wiederkam.
+Der Dunst lag auf dem Wasser. Das Meer schlug gegen den Stein. An einem Schoner weiter unten am Pier brannte eine Laterne, ein Glutpunkt zog Kreise in der Dunkelheit — der Wachmann, der rauchte und nicht herübersah. Aus dem Lagerschuppen drüben schlug eine Tür, einmal, zweimal, der Wind, kein Mensch. Eine Möwe schrie über dem Wasser, irgendwo im Dunst, einsam, ein Schrei, dann nichts. Nichts kam. Sorel stand am Kai, die Hände an der Kamera, die Augen im Dunst, und wartete auf etwas das sein Gesicht trug und nicht wiederkam.
 
 Nach einer Stunde — vielleicht länger, er hatte aufgehört die Zeit zu messen — baute er das Stativ ab. Zwölf Schritte rückwärts. Die Abfolge hielt ihn aufrecht. Aber sie hielt ihn anders als vorher, provisorisch, als trüge das Gerüst Risse die vorher nicht da gewesen waren.
 

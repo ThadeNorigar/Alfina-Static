@@ -32,7 +32,7 @@ Er wusch sich die Hände im Waschkrug, das Wasser kalt, der Staub der Reise lös
 
 Er ging zurück nach unten.
 
-Im Schankraum brannte ein Kaminfeuer, niedrig, das Holz knackte in unregelmäßigen Abständen. Zwei Männer saßen an einem Tisch in der Mitte und sprachen leise über ihren halbvollen Biergläsern, ohne aufzuschauen als Vesper hereinkam. Am Fenster saß eine Frau, allein, dunkles Haar, aufrechte Haltung, ein Notizbuch aufgeschlagen vor ihr. Sie schaute auf als er die Treppe herunterkam. Ihre Augen trafen seine für eine halbe Sekunde — dunkel, ruhig, ein Blick der nichts fragte. Dann war er vorbei, sie schrieb weiter. Vesper ging zur Theke.
+Im Schankraum brannte ein Kaminfeuer, niedrig, das Holz knackte in unregelmäßigen Abständen. Zwei Männer saßen an einem Tisch in der Mitte und sprachen leise über ihren halbvollen Biergläsern, ohne aufzuschauen als Vesper hereinkam. Im hinteren Teil des Raumes eine Würfelrunde, vier Männer in dunklen Wollkitteln, einer fluchte gedämpft, ein anderer lachte und sagte einen Namen, den Vesper nicht aufnahm. Eine Magd trug zwei Krüge zu ihnen, dabei tropfte Bier über den Rand, ihre Schürze hatte am Saum einen frischen Fleck, sie schaute nicht nach unten. Am Fenster saß eine Frau, allein, dunkles Haar, aufrechte Haltung, ein Notizbuch aufgeschlagen vor ihr. Sie schaute auf als er die Treppe herunterkam. Ihre Augen trafen seine für eine halbe Sekunde — dunkel, ruhig, ein Blick der nichts fragte. Dann war er vorbei, sie schrieb weiter. Vesper ging zur Theke.
 
 "Ein Bier, bitte." Der Wirt stellte ein Glas auf das Holz. Vesper trank. In Karst schmeckte Bier nach Kupfer, hier schmeckte es nach etwas das er nicht benennen konnte, süßlich und dicht, derselbe Geruch der in der Luft lag seit er die Küste erreicht hatte.
 
@@ -54,9 +54,9 @@ Vesper nickte.
 
 Vesper stellte sein Glas ab. Eine Uhr die niemand gebaut hat und die niemand reparieren kann. Er legte eine Münze auf den Tresen und ging.
 
-Im Vorbeigehen streifte sein Blick die Frau am Fenster — Tintenflecken am Zeigefinger und Mittelfinger, die Feder schnell über das Papier, eine Hand die wusste was sie tat. Er registrierte es und ging durch die Tür, den Fluss entlang.
+Im Vorbeigehen streifte sein Blick die Frau am Fenster — Tintenflecken am Zeigefinger und Mittelfinger, die Feder schnell über das Papier, eine Hand die wusste was sie tat. Er registrierte es und ging durch die Tür, den Fluss entlang. Am Ufer schlugen drei Wäscherinnen Wäsche auf den flachen Steinen, die Hände rot, das Wasser dampfte trotz der Kühle. Weiter unten saß ein Mann auf einem Poller, flickte ein Netz, die Ahle zwischen den Zähnen, der Faden in den schweren Fingern.
 
-Am Ufer, hinter einer niedrigen Mauer, stand ein Haus. Zwei Stockwerke, die Fenster dunkel, ein Garten der sich selbst überlassen war, Hecken die in den Weg wuchsen, Moos auf den Stufen. Es sah aus als hätte das Haus aufgehört sich darum zu kümmern ob jemand kam.
+Hinter einer niedrigen Mauer stand ein Haus. Zwei Stockwerke, die Fenster dunkel, ein Garten der sich selbst überlassen war, Hecken die in den Weg wuchsen, Moos auf den Stufen. Es sah aus als hätte das Haus aufgehört sich darum zu kümmern ob jemand kam.
 
 Vesper stand vor der Tür. In seiner Tasche lag der Turm still. Zum ersten Mal seit vier Tagen drehte er sich nicht.
 
@@ -168,7 +168,7 @@ Vesper ging. Auf dem Rückweg den Fluss entlang, im Nebel, den Schlüssel warm i
 
 Er schlief nicht.
 
-Um elf stand er auf und ging. Durch den Nebel, den Fluss entlang, den Schlüssel in der Hand, das Tidemoor-Haus dunkel vor ihm. Die Seitentür, ein sauberes Klicken.
+Um elf stand er auf und ging. Im Schankraum unten brannte noch eine einzige Kerze, der Wirt saß dahinter und las im Hauptbuch, schaute hoch, nickte, nichts mehr. Auf der Hafengasse begegnete ihm eine Patrouille, zwei Mann mit Laternen, die ihn musterten und weitergingen, ohne ihn anzuhalten. Durch den Nebel, den Fluss entlang, den Schlüssel in der Hand, das Tidemoor-Haus dunkel vor ihm. Die Seitentür, ein sauberes Klicken.
 
 Er ging nicht in den Salon. Er ging in die Küche.
 

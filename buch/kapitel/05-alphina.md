@@ -58,7 +58,7 @@ Sie drehte sich nicht um, weil Umdrehen bedeuten würde, dass sie es ernst nahm.
 ---
 
 
-Das Gasthaus hieß "Zum Anker." Der Kutscher zeigte mit dem Kinn die Hafengasse runter, ein einziges Wort — "Da" — die Kutsche hielt. Sie stieg aus. Die Luft war mild, feucht, der Dunst hing in den Gassen wie Gardinen die niemand aufzog. Die Sonne war noch da, irgendwo hinter dem Schleier, der Stein dampfte leise. Die Luft schmeckte nach Salz, nach dem Geruch den sie nicht benennen konnte, süßlich, dicht. Er war stärker hier, am Hafen, wo ein Fluss ins Meer mündete — trübes Wasser das sich mit dem Salzwasser mischte, langsam, schwer, in eine Richtung die sie noch nicht kannte.
+Das Gasthaus hieß "Zum Anker." Der Kutscher zeigte mit dem Kinn die Hafengasse runter, ein einziges Wort — "Da" — die Kutsche hielt. Sie stieg aus. Die Luft war mild, feucht, der Dunst hing in den Gassen wie Gardinen die niemand aufzog. Vom Hafen her ein Schlagen von Holz auf Holz — eine Werftpresse, irgendwo, gleichmäßig. Eine Kinderstimme zählte ab im Treppenhaus gegenüber, eins, zwei, drei, brach in Lachen. Aus einem offenen Fenster ein Geruch von gekochtem Kohl, scharf, vermischt mit Talg. Eine Möwe stritt mit einer anderen über etwas das auf dem Pflaster lag. Die Sonne war noch da, irgendwo hinter dem Schleier, der Stein dampfte leise. Die Luft schmeckte nach Salz, nach dem Geruch den sie nicht benennen konnte, süßlich, dicht. Er war stärker hier, am Hafen, wo ein Fluss ins Meer mündete — trübes Wasser das sich mit dem Salzwasser mischte, langsam, schwer, in eine Richtung die sie noch nicht kannte.
 
 Durch die Gassenlücke: das Graue Meer. Grau, wirklich grau, ein Grau das Tiefe hatte, das nach unten ging, Schicht für Schicht; das Licht drang nicht hindurch. Alles in dieser Stadt schien aus einem einzigen Farbton zu bestehen, aus einem Geruch, den sie nicht kannte, aus Farnen, die sie kannten.
 
@@ -94,7 +94,7 @@ Papier. Kvist. Oberstadt.
 ---
 
 
-Die Druckerei lag drei Gassen vom Marktplatz, eine Treppe hoch die in das Pflaster gehauen war, Stufen aus Purpurstein, jede einzelne ausgetreten in der Mitte, die Kanten abgerundet von Jahrhunderten Schuhe. Der Stein unter ihren Sohlen war warm. Wie am Stadttor. Wie die Erde in Velde. Sie registrierte es, ging weiter.
+Die Druckerei lag drei Gassen vom Marktplatz, eine Treppe hoch die in das Pflaster gehauen war. Auf dem Marktplatz Stände unter Segeltuch, viele schon gepackt — eine Frau verkaufte Salzheringe, das Wasser in den Eimern grau. Drei Frauen warteten am Brunnen ihre Reihe ab und sprachen nicht. Stufen aus Purpurstein, jede einzelne ausgetreten in der Mitte, die Kanten abgerundet von Jahrhunderten Schuhe. Der Stein unter ihren Sohlen war warm. Wie am Stadttor. Wie die Erde in Velde. Sie registrierte es, ging weiter.
 
 Die Tür der Druckerei stand offen.
 
@@ -198,7 +198,7 @@ Sie schlief nicht.
 
 Abends war die Sonne weg. Der Dunst, der tagsüber dünn genug gewesen war für Licht, für dampfenden Stein, für blasse Schatten — verdichtete sich, fiel auf die Stadt wie ein Tuch. Das Fenster beschlug von außen.
 
-Das Bett war schmal. Das Laken roch nach Lauge, nach der Kälte die in Stoff kriecht, wenn er zu lange in einem Schrank lag den niemand öffnet. Sie lag auf der linken Seite, der einzigen Seite, der Körper suchte die Mulde die es nicht gab, weil dieses Bett sie nicht kannte. Durch die Wand: das Meer. Nicht laut — ein Summen, ein Atem, der nicht aufhörte, der die Mauern durchdrang, sich in den Knochen des Hauses festsetzte. Der Nebel drückte gegen das Fenster, dünne Tropfen sammelten sich am Glas, liefen herunter, langsam, das Geräusch der Tropfen kleiner als Stille.
+Das Bett war schmal. Das Laken roch nach Lauge, nach der Kälte die in Stoff kriecht, wenn er zu lange in einem Schrank lag den niemand öffnet. Sie lag auf der linken Seite, der einzigen Seite, der Körper suchte die Mulde die es nicht gab, weil dieses Bett sie nicht kannte. Unter ihr im Schankraum redete jemand laut, ein Mann, ein langer Erzählton, dann das Lachen zweier Frauen, dann Stille. Eine Tür schlug, Schritte auf der Treppe, eine andere Tür. Im Nachbarzimmer ein Husten, alt, geduldig, der Husten eines Mannes der lange wach lag. Durch die Wand: das Meer. Nicht laut — ein Summen, ein Atem, der nicht aufhörte, der die Mauern durchdrang, sich in den Knochen des Hauses festsetzte. Der Nebel drückte gegen das Fenster, dünne Tropfen sammelten sich am Glas, liefen herunter, langsam, das Geräusch der Tropfen kleiner als Stille.
 
 Sie dachte an die neunundvierzig Pflanzen. An Madame Herault, die den Gießplan hatte, zwei Seiten, sortiert nach Topf. Die Monstera brauchte wenig. Der Nestfarn brauchte viel. Die Orchidee brauchte nichts außer Licht, Vergessen. Sie dachte an den Farn, dem sie "Langsamer" gesagt hatte — an die Farne am Stadttor, die sich gedreht hatten, langsam, als hätten sie gehorcht, als hätte das Wort vierhundert Kilometer getragen.
 

@@ -14,7 +14,7 @@ In der ersten Woche hatte sie geglaubt, sie hätte sich verzählt. Planken sahen
 
 Jetzt stand sie auf, wischte die Knie ab und ging zur Werkbank. Harons Zeichnungen lagen noch dort, unter ihren eigenen Notizen — Bootsrisse, Querschnitte, Maße. Die Schürze hatte Edric gefaltet und auf die Bank gelegt, am ersten Tag, eine Geste die ein Abschluss war. Sie lag noch dort. Maren hatte sie nicht bewegt.
 
-Schritte draußen. Edric kam durch die Tür, die Ärmel hochgekrempelt, einen Eimer Wasser in der Hand. Er stellte ihn neben die Werkbank, schaute auf das Boot, auf die neue Planke. Sein Blick ging die Reihen ab, systematisch, wie jeden Morgen. Er sagte nichts.
+Schritte draußen. Edric kam durch die Tür, die Ärmel hochgekrempelt, einen Eimer Wasser in der Hand. Drei Stege flussabwärts schlug einer auf einen Kessel — die Tagschicht in der Nachbarwerft, jeden Morgen um die gleiche Stunde, sechs Schläge, gleichmäßig. Eine Frauenstimme von dort rief etwas zu einem Lehrling, scharf, dann milder. Edric stellte den Eimer neben die Werkbank, schaute auf das Boot, auf die neue Planke. Sein Blick ging die Reihen ab, systematisch, wie jeden Morgen. Er sagte nichts.
 
 "Fünfte Reihe", sagte Maren.
 
@@ -102,7 +102,7 @@ Sie stand auf. Ihre Beine waren taub, das Blut kam zurück, ein Kribbeln das in 
 
 In Thessa hatte sie einmal ein Mann eine Nacht bei sich behalten, beide Hände um ihre eine, und am nächsten Morgen war sie gegangen. So machte sie das. Seesack, Fähre, leerer Horizont. Jetzt stand sie in einer Werft in einer Stadt in der sie niemanden kannte, und ihr Körper wollte nicht gehen. Das war neu. Das war nicht einmal unangenehm. Sie stellte es fest, wie man feststellt, dass der Wind gedreht hatte.
 
-Sie nahm die Hand vom Boot und ging. Durch den Nebel, zum Gasthof, die Gassen nass und still. In ihrer Tasche das Papier, der Bleistift, die Erinnerung an breite Hände die durch Holz gingen wie durch Wasser.
+Sie nahm die Hand vom Boot und ging. Durch den Nebel, zum Gasthof. An der Ecke der Werftgasse grüßte sie der alte Mann aus dem Erdgeschoss gegenüber, der jeden Abend sein Fenster öffnete und auf die Gasse schaute, weil seine Beine ihn nicht mehr hinaustrugen — sie hob die Hand, er hob seine, mehr brauchte es nicht zwischen ihnen. Im Anker brannte Licht, die Tür stand einen Spalt offen, drinnen die Stimme einer Frau, die auf einen Mann eingeredet hatte, der nichts antwortete. In ihrer Tasche das Papier, der Bleistift, die Erinnerung an breite Hände die durch Holz gingen wie durch Wasser.
 
 
 ---
@@ -112,9 +112,11 @@ Am Morgen roch die neue Planke nach etwas das kein Holz war.
 
 Maren stand neben dem Boot, die Handfläche auf der sechsten Reihe, und der Geruch war da — süßlich, dicht, tiefer als Lärche, tiefer als Leinöl, ein Geruch der unter dem Holzgeruch lag wie ein zweiter Boden unter dem ersten. Sie hatte die Nacht kaum geschlafen. Im Gasthof, in dem schmalen Bett, unter der Decke die nach Kalk roch und nach dem Rauch des Kamins, hatte sie an die Hände gedacht, an die breiten Knöchel, an die Art wie sie das Holz berührt hatten, und ihr Körper war wach gewesen, hellwach, jede Stelle an der die Decke ihre Haut berührte ein Punkt den sie fühlte, die Falte im Laken an ihrer Hüfte, der Stoff am Hals, die Luft auf dem Gesicht. Sie hatte auf dem Rücken gelegen, die Arme neben dem Körper, und die Dunkelheit über sich angeschaut und an Hände gedacht die nicht mehr da waren und die trotzdem arbeiteten.
 
+Vom Vorplatz her das Klappern eines Pferdehufs, dann zwei: der Fuhrmann vom Sägewerk brachte die Lieferung, der Wagen rumpelte über die Bohlen, das Pferd schnaubte, der Mann schimpfte mit dem Tier, mehr Routine als Ärger. Eine Möwe stritt mit einer anderen oben auf dem Dach, das Blech schepperte.
+
 Sie nahm die Hand vom Holz und ging nach draußen.
 
-Der Steg. Maren ging ihn nicht bis zum Ende — sie blieb auf halbem Weg stehen, an der Stelle wo die Planken am breitesten waren, wo die Nägel noch fest saßen. Das Graue Meer lag vor ihr, flach, der Wind schwach. Der Nebel hing tief, aber dünner als am Vortag, die Sonne ein blasser Fleck hinter dem Grau, der den Dunst zum Leuchten brachte ohne ihn aufzulösen.
+Der Steg. Maren ging ihn nicht bis zum Ende — sie blieb auf halbem Weg stehen, an der Stelle wo die Planken am breitesten waren, wo die Nägel noch fest saßen. Das Graue Meer lag vor ihr, flach, der Wind schwach. Der Nebel hing tief, aber dünner als am Vortag, die Sonne ein blasser Fleck hinter dem Grau, der den Dunst zum Leuchten brachte ohne ihn aufzulösen. Auf dem Wasser ein Beiboot mit zwei Männern, einer ruderte, einer saß am Heck und sortierte einen Sack. Weiter draußen, hinter dem Nebel, eine Schiffsglocke, einmal, dann nichts. Auf dem Nachbarsteg stand eine Frau und schüttete einen Eimer aus, der Inhalt klatschte ins Wasser, sie schaute kurz herüber, drehte sich weg.
 
 Ein Mann saß am Ende des Stegs, die Beine über der Kante, die Füße über dem Wasser. Alt. Sein Gesicht hatte zu lange im Wind gestanden — die Wangenknochen zu scharf, die Haut rissig dort wo die Kälte sie erwischt hatte. Er schaute nicht auf als sie die Planken betrat, obwohl der Steg unter ihren Schritten leicht schwang und er das gespürt haben musste.
 
