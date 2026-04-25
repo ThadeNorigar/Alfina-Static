@@ -25,9 +25,9 @@
 
 - **Drei Szenen:** Ankunft+Kernfrage → Einzeltests+Kombination → Begehren/Ausblende
 - **Gänsehaut-Moment:** Farnspitze wächst in zehn Minuten eine Handlänge gerichtet in Sorels Lichtkegel — multiplikative Kopplung, nicht Summe
-- **Zentraler Tschechow:** "Kopplung zweier Resonanzen ist multiplikativ" — Prototyp für das Ritual K33/K34
-- **K35-Fundament:** Alphinas stille Erkenntnis "Sein Licht konkurriert nicht. Es trägt."
-- **K34-Setup:** Sorels "Darf ich bleiben?" als direkt gesprochene Frage (ersetzt alten Bruch-Rhyme)
+- **Zentraler Tschechow:** "Kopplung zweier Resonanzen ist multiplikativ" — Prototyp für das Ritual K34/K36
+- **K37-Fundament:** Alphinas stille Erkenntnis "Sein Licht konkurriert nicht. Es trägt."
+- **K36-Setup:** Sorels "Darf ich bleiben?" als direkt gesprochene Frage (ersetzt alten Bruch-Rhyme)
 
 ## Magie-Modell (aktualisiert)
 

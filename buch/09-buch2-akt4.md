@@ -2,7 +2,7 @@
 
 ## Alphinas Kontroll-Status
 
-**Am Anfang Akt IV:** Bewusst tagsüber (wie Akt III), Schlaf-Haine unbewusst. Aber jetzt kommt eine neue Ebene: **ihre Resonanz fließt über Varen.** Beim Sex (K36) setzt Varen heimlich einen Anker in ihrer Frequenz. Danach zapft er einen Teil ihrer Resonanz ab — sie merkt es nicht. **Manipulationslinie, die in B3 zerbricht.**
+**Am Anfang Akt IV:** Bewusst tagsüber (wie Akt III), Schlaf-Haine unbewusst. Aber jetzt kommt eine neue Ebene: **ihre Resonanz fließt über Varen.** Beim Sex (K38) setzt Varen heimlich einen Anker in ihrer Frequenz. Danach zapft er einen Teil ihrer Resonanz ab — sie merkt es nicht. **Manipulationslinie, die in B3 zerbricht.**
 
 ## Struktur
 
@@ -61,7 +61,7 @@ Varen antwortet, ohne zu zögern: *„Weil dein Hass Treibstoff brauchte. Ohne i
 
 Alphina sagt nichts. Die Ketten klirren nicht.
 
-### Kap. 32 — Alphina (S. 616–632, ~4.000 Wörter)
+### Kap. 33 — Alphina (S. 616–632, ~4.000 Wörter)
 *Die Nacht nach dem Geständnis. Rechnen.*
 
 Allein. Die Ketten. Die Karten. Die vier roten Markierungen.
@@ -76,7 +76,7 @@ Sie denkt an Sorel. Versucht ihn um Rat zu fragen. Er antwortet nicht. Er kann n
 
 Ihr Selbstbild — die Gute, die Rächerin, die für Sorel kämpft — beginnt zu bröckeln. Nicht laut. Nicht dramatisch. Stück für Stück.
 
-### Kap. 33 — Alphina (S. 632–648, ~4.000 Wörter)
+### Kap. 34 — Alphina (S. 632–648, ~4.000 Wörter)
 *Oszillation. Selbstverletzung. Die Dornen werden kleiner.*
 
 Zweiter Tag in den Ketten. Varen kommt nicht. Er lässt sie allein, absichtlich. Sie hat Zeit.
@@ -91,7 +91,7 @@ Eingebettet: das erste Mal seit Wochen denkt sie an Vesper. An seine Präzision.
 
 Am Ende des Tages hat sie die Ketten gelockert — genug, um zu entkommen. Sie entkommt nicht. Sie weiß noch nicht warum.
 
-### Kap. 34 — Varen-POV (S. 648–660, ~3.000 Wörter)
+### Kap. 36 — Varen-POV (S. 648–660, ~3.000 Wörter)
 *Der Beobachter. Er kennt diese Nacht.*
 
 Varen beobachtet Alphina durch die Tür, durch die Schemen die ihm berichten. Die Dornen werden kleiner. Die Ketten hängen lose — sie KÖNNTE sie brechen. Sie tut es nicht.
@@ -106,7 +106,7 @@ Eingebettet: Varen an seinem Arbeitstisch. Eine kleine Schale Wasser, ein Krista
 
 Er sitzt bis zum Morgen. Liest in Alphinas Akte, die er selbst angelegt hat — Jahre bevor er sie traf. Fragen, die sie noch nicht beantwortet hat. Er ist wissbegierig. Nicht gespielt, nicht als Werkzeug. Echt. Er will **verstehen**, wie ihre Resonanz funktioniert. Das macht ihn für sie attraktiv. Das macht ihn für sie gefährlich.
 
-### Kap. 35 — Alphina (S. 660–680, ~5.000 Wörter)
+### Kap. 37 — Alphina (S. 660–680, ~5.000 Wörter)
 *Fragen. Rückfälle. Sie rechtfertigt sich zurecht.*
 
 Dritter Tag. Alphina setzt sich vor die Karten. Varen kommt herein. Diesmal mit Tee. Er setzt sich nah — nicht zu nah. Schiebt die Tasse zu ihr.
@@ -131,7 +131,7 @@ Varen lässt sie weinen, ohne sie zu berühren. Am Morgen bringt er wieder Tee.
 
 Die Ketten sind noch da. Aber Alphina berührt sie nicht mehr. Die Frage hat sich verändert — von *„Wie komme ich hier raus?"* zu *„Was soll ich tun wenn ich draußen bin?"*
 
-### Kap. 36 — Alphina + Varen (S. 680–705, ~6.500 Wörter)
+### Kap. 38 — Alphina + Varen (S. 680–705, ~6.500 Wörter)
 *Dornen statt Farne. Verbündete.*
 
 Vierter Tag. Es beginnt nicht mit Verlangen. Es beginnt mit einem Gespräch über Quellen-Reparatur. Zwei Stunden Konzentration, nebeneinander am Tisch. Alphina zeichnet eine Ranke, Varen zeichnet eine Frequenzkurve. Er sagt irgendwann: *„Du denkst wie eine Forscherin."* Sie: *„Ich bin Botanikerin."* Er: *„Du bist beides. Das wissen sie nur nicht in Velde."*
@@ -160,7 +160,7 @@ Varen sieht sie an. Mit einem Ausdruck, den sie für Liebe hält. Der Leser wei�
 
 **Sie reisen nach Torkal** — Varens Basis, eine freie Stadt im Südwesten, abgelegen. Drei Tage per Schemen-begleitetem Pfad.
 
-### Kap. 37 — Maren (S. 705–722, ~4.500 Wörter)
+### Kap. 39 — Maren (S. 705–722, ~4.500 Wörter)
 *Die Karte in der Thar-Bibliothek.*
 
 Parallel zu Alphinas Wechsel. Maren ist Wochen mit Vesper bei den Thar in Thar-Kem. Sie ist ihm gefolgt — nicht wegen der Thar, wegen der Bibliothek. Die Thar hat alte Karten. Moragh-Karten die das Portal-Netzwerk zeigen — nicht nur das eine Portal unter Vael. Dutzende. Die meisten tot. Aber die METHODE steht in den Büchern.
@@ -171,7 +171,7 @@ Eingebettet: Marens Gedanken. Das Boot in Vael — drei Viertel fertig. *„Wart
 
 Sie sieht Vesper nicht sofort. Braucht einen Tag, um es auszusprechen. Allein in der Bibliothek liest sie die Karte. Drei Mal. Rechnet nach.
 
-### Kap. 38 — Vesper + Maren (S. 722–742, ~5.000 Wörter)
+### Kap. 40 — Vesper + Maren (S. 722–742, ~5.000 Wörter)
 *Der Abschied. Das Portal.*
 
 Maren sagt es Vesper. In der Bibliothek, zwischen zwei Regalen. Kein Drama. *„Ich habe den Weg gefunden. Allein."*
@@ -186,7 +186,7 @@ Maren tritt durch. Das Portal schließt sich. Vesper sieht ihr nach den halben H
 
 **Vespers Gedanken auf dem Rückweg:** die Zeitdilatation. Er hatte es berechnet, aber es zu SEHEN — Maren tritt durch und ist im Jahr 1987 TZ — ist anders. Er denkt an Alphina. Sie ist irgendwo in Moragh. Wenn er sie findet, sind dort drüben wie viele Jahre vergangen? Das Wort *wenn* ist neu für ihn.
 
-### Kap. 39 — Runa (S. 742–758, ~4.500 Wörter)
+### Kap. 41 — Runa (S. 742–758, ~4.500 Wörter)
 *Beim Bund. Der Plan. Der Marsch nach Sulkara.*
 
 Runa in der Bund-Hauptstadt Halvaren. Wochen seit Alphinas Verschwinden. Sie hat Information gesammelt — Bund-Chiffre, Deserteure, Karten.
@@ -221,7 +221,7 @@ Er notiert sich zwei Dinge:
 
 Der Leser schaudert. Alphina weiß nichts.
 
-### Kap. 40 — Vesper + Nyr (S. 765–782, ~5.000 Wörter)
+### Kap. 42 — Vesper + Nyr (S. 765–782, ~5.000 Wörter)
 *Sulkara. Verteidigung. Die Bestie wartet.*
 
 Thar-Kem hat den Bund-Angriff lange erwartet. Nyr wird nach Sulkara entsandt — mit Kessler, ihrer 40-Tonnen-Bestie. Vesper geht mit. Offiziell als Analytiker der Thar-Kommandantin. Inoffiziell, weil er Alphina sucht — seine Muster sagen, sie wird kommen.
@@ -234,7 +234,7 @@ Nyr im Cockpit von Kessler. Testet die Hydraulik. *„Wir halten die Linie."* Ve
 
 Eingebettet: Vesper sieht Muster, die ihn erschrecken. Der Bund greift groß an. Die Thar hat eine Gegenoffensive mit Kessler + zwei weitere Bestien. Beide Seiten haben viele Tote einkalkuliert.
 
-### Kap. 41 — Alphina + Varen (S. 782–800, ~5.500 Wörter)
+### Kap. 43 — Alphina + Varen (S. 782–800, ~5.500 Wörter)
 *Die Annäherung. Die Nebenquelle. Der Plan.*
 
 Alphina und Varen erreichen Sulkara am Morgen des Bund-Angriffs. Schemen als Vorhut. Sie kommen von Süden, durch unkartiertes Gelände (Varen kennt die Routen — seit Jahren Operation).
@@ -373,19 +373,19 @@ Elke (Dravek, alt)
 |------------------------|------------------|
 | Vier rote Markierungen (Akt III) | Kap 31/32 — Varens Geständnis. Drei seine, eine ihre. Die Spiegelung |
 | „Vierhundert Menschen" (Akt III) | Kap 31 — Die Zahl wird Alphinas Maß |
-| Dornen statt Farne (Buch 1) | Kap 36 — Sex mit Varen. Zwei Täter die sich erkennen |
-| Alphinas Schlaf-Haine | Kap 33/34 — Sie wachsen auch in Ketten. Varen beobachtet |
+| Dornen statt Farne (Buch 1) | Kap 38 — Sex mit Varen. Zwei Täter die sich erkennen |
+| Alphinas Schlaf-Haine | Kap 34/34 — Sie wachsen auch in Ketten. Varen beobachtet |
 | Varens altes Thalassisch | Kap 31 — Er legt die Maske ab. Eloquenz, keine Rhetorik |
-| Varens Resonanz-Anker (NEU) | Kap 36 — Sex platziert den Anker. Feuert in B3 Akt III |
-| Varens Vier-Thalassier-Ritual-Liste (NEU, Kap 34) | B3 Akt III — Alphina findet die Liste. Bereit sie zu opfern |
-| Runas Brief mit Farn (NEU, Kap 39) | Kap 42 — Sie reißt den Namen raus. Behält den Farn |
+| Varens Resonanz-Anker (NEU) | Kap 38 — Sex platziert den Anker. Feuert in B3 Akt III |
+| Varens Vier-Thalassier-Ritual-Liste (NEU, Kap 36) | B3 Akt III — Alphina findet die Liste. Bereit sie zu opfern |
+| Runas Brief mit Farn (NEU, Kap 41) | Kap 42 — Sie reißt den Namen raus. Behält den Farn |
 | „Seit wann nimmst du Befehle?" (Akt III) | Kap 42 — Runas letzte Erinnerung |
-| Marens Wasserweg (Akt II/III) | Kap 37/38 — Sie findet den echten Rückweg |
+| Marens Wasserweg (Akt II/III) | Kap 39/38 — Sie findet den echten Rückweg |
 | Vespers Zeitlinien | Kap 42 — Er sieht Varens Anker, weiß: Heute nicht |
-| Kessler (Nyrs Bestie) | Kap 40-42 — Erste schwere Wunden |
+| Kessler (Nyrs Bestie) | Kap 42-42 — Erste schwere Wunden |
 | Runas Presse in Moragh-Metall | Off-screen Akt IV — druckt. Ab B3: zweisprachig, Waffe |
 | Varens Wort an Sorel (Buch 1) | Kap 31 — Brennt noch. Alphina erwähnt es nicht |
-| Halvara-Kel (Alphinas tote Quelle, B2-Akt III) | Kap 36 — Erste Reparatur-Ziel in B3 |
+| Halvara-Kel (Alphinas tote Quelle, B2-Akt III) | Kap 38 — Erste Reparatur-Ziel in B3 |
 | Varens Manipulation Draels (off-screen) | B3 Akt III — Enthüllung: er hat Draels Quellen-Auswahl via Schemen beeinflusst |
 | Varens Charakter (eloquent, gutaussehend, älter) | Durchgehend — der Leser muss verstehen warum Alphina **wirklich** fällt |
 

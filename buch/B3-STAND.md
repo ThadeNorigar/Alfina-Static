@@ -46,7 +46,7 @@ zum Subplot dieses äußeren Drucks.
 | B3-Ende | Monat 10 Moragh = **~2153 TZ** |
 
 **Korrigieren in bestehenden Dokumenten:**
-- `09-buch2-akt4.md` K38 — „~1910" muss zu „~1987" werden.
+- `09-buch2-akt4.md` K40 — „~1910" muss zu „~1987" werden.
 - `12-buch3-konzept.md` — alle Thalassien-Zeitangaben neu rechnen (alte 2250-Zahlen sind falsch).
 
 ---

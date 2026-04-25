@@ -63,7 +63,7 @@ Der Wächter-Schemen ist da. Drei bis vier Meter groß, tierisch-humanoid, Schat
 
 [MAREN-MOMENT] Maren steht direkt am Riss-Ort. Der Schemen schlägt zu — Schattenklaue, Schulter. Maren fliegt. Zwei, drei Meter, Rücken auf den Boden, der Schmerz kommt sofort. Blut am Stoff. Sie liegt. Sie steht wieder auf.
 
-[SOREL-MOMENT] Sorel reagiert ohne Nachdenken. Gebündeltes Licht — er nimmt das Nachmittagssonnenlicht durch die Baumkronen, zieht es zusammen, wirft es auf den Schemen. Der Schemen schluckt es. Licht geht hinein wie in Wasser das sich schließt — und kommt nicht zurück. Keine Ablenkung, kein Zurückwerfen, kein Flimmern. Das Licht hört auf zu sein. Sorel greift nach Alphina und zieht sie weg vom Schemen, ein Reflex. Beschützer-Instinkt, direkt im Körper, nicht im Kopf. (Das ist der Instinkt der in K36 sein Tod sein wird.)
+[SOREL-MOMENT] Sorel reagiert ohne Nachdenken. Gebündeltes Licht — er nimmt das Nachmittagssonnenlicht durch die Baumkronen, zieht es zusammen, wirft es auf den Schemen. Der Schemen schluckt es. Licht geht hinein wie in Wasser das sich schließt — und kommt nicht zurück. Keine Ablenkung, kein Zurückwerfen, kein Flimmern. Das Licht hört auf zu sein. Sorel greift nach Alphina und zieht sie weg vom Schemen, ein Reflex. Beschützer-Instinkt, direkt im Körper, nicht im Kopf. (Das ist der Instinkt der in K38 sein Tod sein wird.)
 
 [VESPER-MOMENT] Vesper spürt den Schemen als Frequenz — falsch, zu schnell, außerhalb jedes Takts. Sein Körper beginnt gegenzuhalten, bevor sein Kopf den Befehl gibt. Die Hände in der Luft, eine Geste die nichts greift und trotzdem etwas hält. Der Schemen wird langsamer. Nicht gestoppt — aber seine Bewegungen werden zähflüssig, seine Schläge kommen einen Herzschlag zu spät.
 
@@ -81,7 +81,7 @@ Das Wurzelgespinst durchzieht den Schemen, von unten nach oben, durch die Schatt
 - Alle vier erfahren: ihre Resonanzen ergänzen sich. Sie können zusammen, was sie allein nicht können.
 
 **Tschechow-Waffen geladen:**
-- Sorels Beschützer-Reflex (Alphina wegziehen) → feuert K36 (sein Tod)
+- Sorels Beschützer-Reflex (Alphina wegziehen) → feuert K38 (sein Tod)
 - Vier-Resonanzen-Synergie → Setup Tor-Öffnung, Ende Buch 1
 - Sorel kann Licht aktiv formen (bisher nur auf Platten) → neues Wissen über seine Resonanz
 - Maren verletzt, bleibt trotzdem → Entscheidung zu bleiben, auch wenn sie bluten

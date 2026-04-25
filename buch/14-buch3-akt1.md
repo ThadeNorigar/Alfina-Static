@@ -17,7 +17,7 @@ Zwei Schauplätze parallel:
 
 ## Kapitelplan
 
-### Kap. 41 — Alphina (S. 1–22, ~5.500 Wörter)
+### Kap. 43 — Alphina (S. 1–22, ~5.500 Wörter)
 *Torkal. Drei Wochen nach Sulkara. Der erste Morgen ohne Ketten.*
 
 Alphina wacht in Varens Quartier auf. Moragh-Bettwäsche, schwere Leinen, zu warm für die Jahreszeit. Die Karten an der Wand — vier rote Markierungen (drei Varens, eine ihre). Sie steht auf, geht barfuß auf den Basalt. Der Stein ist warm im Untergrund — die Quelle von Torkal pulsiert zwei Kilometer entfernt. Sie spürt es als Puls in den Fußsohlen.
@@ -26,7 +26,7 @@ Varen schläft nicht. Er arbeitet am Tisch seit vor Sonnenaufgang. Als sie eintr
 
 Sie trinkt, sieht über seine Schulter auf das Papier. Die Route: Torkal nach Süden, dann Ostschwenk in das Bund-Grenzland. Halvara-Kel ist die Quelle, die sie in B2-K25 zerstört hat — Alphinas erste. Sie soll ihre eigene Spur umkehren.
 
-**Tschechow-Schatten:** Varens Hand an ihrer Wirbelsäule, als er ihr die Route zeigt. Keine besitzergreifende Geste. Leicht, zwischen den Schulterblättern, dort wo in B2-K36 der Anker sitzt. Alphina spürt die Wärme, ordnet sie falsch zu (Nähe, Vertrauen). Der Leser sieht mit.
+**Tschechow-Schatten:** Varens Hand an ihrer Wirbelsäule, als er ihr die Route zeigt. Keine besitzergreifende Geste. Leicht, zwischen den Schulterblättern, dort wo in B2-K38 der Anker sitzt. Alphina spürt die Wärme, ordnet sie falsch zu (Nähe, Vertrauen). Der Leser sieht mit.
 
 Sie gehen am Nachmittag los. Drei Tage Marsch. Schemen tragen die Ausrüstung — dieselbe Varen-Schemen-Eskorte wie in B2. Keiner spricht. Einmal, auf einem Pass, lacht Varen über etwas, das sie sagt. Alphina merkt: sein Lachen ist ungeübt. Er lacht nicht oft. Das macht sie weich.
 
@@ -231,7 +231,7 @@ Runa-POV. Seit Sulkara bei der Bund-Stadt Halvaren. Offiziell: Druckerin, Drucke
 
 Sie siezt ihn. Bietet ihm Tee an. Er lehnt ab. Er stellt drei Fragen in zwanzig Minuten, die wie Plaudertaschen klingen. In Wahrheit: Er will wissen, ob Runa ihn beobachtet. Sie gibt ihm drei Antworten, die wie Plauderei klingen. In Wahrheit: Sie lässt ihn glauben, sie sei harmlos. Er geht, halb befriedigt.
 
-**Nachts.** Sie zieht den Brief aus der Schublade — den, den sie in B2-K39 geschrieben hat, mit dem Farn und Alphinas Namen. Sie hatte den Namen rausgerissen. Jetzt hält sie den Rest. Der Farn, der nur noch schwarz auf weißem Papier ist, nicht mehr grün, nicht mehr Alphinas Signatur.
+**Nachts.** Sie zieht den Brief aus der Schublade — den, den sie in B2-K41 geschrieben hat, mit dem Farn und Alphinas Namen. Sie hatte den Namen rausgerissen. Jetzt hält sie den Rest. Der Farn, der nur noch schwarz auf weißem Papier ist, nicht mehr grün, nicht mehr Alphinas Signatur.
 
 Sie faltet ihn wieder zusammen. Steckt ihn in die Schublade. Geht zu Bett.
 

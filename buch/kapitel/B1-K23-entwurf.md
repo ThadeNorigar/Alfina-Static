@@ -36,7 +36,7 @@ Alphina legt die Schere weg. Sorel dreht den Hocker zur Fensterbank. Keine Worte
 - Beide erkennen: K19 war kein Kombinations-Test. Der Test steht aus.
 
 **Tschechow-Waffen geladen:**
-- **Marens Wasser fehlte in K19** — feuert in K28 (Maren allein am Steinkreis, erste bewusste Wasser-Resonanz) und K33/K34 (Ritual braucht alle vier).
+- **Marens Wasser fehlte in K19** — feuert in K28 (Maren allein am Steinkreis, erste bewusste Wasser-Resonanz) und K34/K36 (Ritual braucht alle vier).
 
 **Tschechow-Waffen abgefeuert:**
 - K22 (Werft-Pflanze, Alphinas Speisung) — explizit thematisiert.
@@ -83,16 +83,16 @@ Alphina vollendet ihn nicht. Der Gedanke bleibt.
 - Alphina erfaehrt: Licht und Resonanz koppeln multiplikativ (genaue Faktoren nicht ausgerechnet, aber Groessenordnung klar).
 - Sorel erfaehrt: sein Licht kann als Traeger dienen, nicht nur als Waffe.
 - Alphinas Erkenntnis: K19 war Gleichzeitigkeit. K23 ist Kopplung. Zwei Begriffe, zwei Wirkungen.
-- Alphinas Selbst-Erkenntnis (Fundament fuer K35): Sorels Licht konkurriert nicht mit ihrer Resonanz, es traegt sie. Andere Maenner haetten neben ihr gestanden. Er nicht.
+- Alphinas Selbst-Erkenntnis (Fundament fuer K37): Sorels Licht konkurriert nicht mit ihrer Resonanz, es traegt sie. Andere Maenner haetten neben ihr gestanden. Er nicht.
 - Sorels unvollendeter Satz steht als geteilter Gedanke im Raum: vier wuerden multiplikativ werden.
 
 **Tschechow-Waffen geladen:**
-- **Kopplung zweier Resonanzen ist multiplikativ** — feuert in K33/K34 (Ritual, vier Resonanzen). Zentrale Waffe.
+- **Kopplung zweier Resonanzen ist multiplikativ** — feuert in K34/K36 (Ritual, vier Resonanzen). Zentrale Waffe.
 - **Alphinas Resonanz gibt Form in fremdes Medium (Sorels Licht)** — feuert in Moragh (B2), wenn ihre Resonanz in fremde Quellen tragt.
-- **Sorels Licht als Traeger** — feuert in K29 (Prisma, Brennpunkt), K30 (Licht im Kampf), K34 (Ritual).
+- **Sorels Licht als Traeger** — feuert in K29 (Prisma, Brennpunkt), K30 (Licht im Kampf), K36 (Ritual).
 - **Veraenderte Ranke mit neuer Achse** — physischer Beweis, bleibt im Zimmer.
 - **Sorels „Wenn vier das machen…"** — Seed fuer K26 (Gruppen-Entscheidung, Durchgangs-Idee).
-- **„Er traegt, er konkurriert nicht"** — Fundament-Brett fuer K35 (Alphinas Verlust: sie verliert den einzigen, der unter ihrer Arbeit stand, nicht neben ihr).
+- **„Er traegt, er konkurriert nicht"** — Fundament-Brett fuer K37 (Alphinas Verlust: sie verliert den einzigen, der unter ihrer Arbeit stand, nicht neben ihr).
 
 **Tschechow-Waffen abgefeuert:**
 - K22 Werft-Resonanz empirisch wiederholt, Faktor quantifiziert.
@@ -124,12 +124,12 @@ Letzter Satz: die veraenderte Ranke liegt auf dem Untersetzer, neue Wachstumsach
 **Dialog-Informationen:**
 - Alphina erfaehrt: Sorel spricht Begehren direkt aus — bricht mit seinem sonstigen Subtext-Muster.
 - Alphina erfaehrt: sie laesst bei ihm mehr los als bei anderen, und sie weiss es. Label erlaubt (Selbsterkenntnis).
-- Sorels *„Darf ich bleiben?"* ersetzt alten Bruch-Rhyme, setzt neuen Tschechow fuer K34.
+- Sorels *„Darf ich bleiben?"* ersetzt alten Bruch-Rhyme, setzt neuen Tschechow fuer K36.
 - Erster Sex bei ihr im Zimmer (K21 war in der Dunkelkammer — sein Terrain).
 
 **Tschechow-Waffen geladen:**
-- **Sorels „Darf ich?"** — feuert in K34 (Portal-Moment). Ersetzt den alten „Du hast mich genommen ohne zu fragen"-Rhyme.
-- **Alphinas Loslassen bei Sorel** — feuert in K29 (er registriert neuen Tonus), K35 (Zerstoerung dieser Lockerheit), Buch 3 Sub-Phase mit Vesper (Echo).
+- **Sorels „Darf ich?"** — feuert in K36 (Portal-Moment). Ersetzt den alten „Du hast mich genommen ohne zu fragen"-Rhyme.
+- **Alphinas Loslassen bei Sorel** — feuert in K29 (er registriert neuen Tonus), K37 (Zerstoerung dieser Lockerheit), Buch 3 Sub-Phase mit Vesper (Echo).
 - **Ranke mit neuer Wachstumsachse** — physisches Schlussbild, Tschechow fuer spaetere Szene in der Maren-Werft oder in Moragh.
 
 **Tschechow-Waffen abgefeuert:**
@@ -166,7 +166,7 @@ Letzter Satz: die veraenderte Ranke liegt auf dem Untersetzer, neue Wachstumsach
 - Nichts von einer Gruppen-Entscheidung zum Durchgang (K26)
 - Sorel stirbt in Moragh
 - Runas Haende tragen Feuer (K25/K31)
-- 4:33-Drift = Schwerkraftanomalie (K32)
+- 4:33-Drift = Schwerkraftanomalie (K33)
 
 **Premature Doubt vermeiden:**
 - Keine Vorahnung von Sorels Tod.

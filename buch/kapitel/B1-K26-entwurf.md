@@ -183,8 +183,8 @@
 
 **Tschechow-Waffen geladen:**
 - Sorels offengelegte Resonanz-Projektion (Alphina-Platte ohne Kamera) — Tschechow für sein B3-Arc und die Ritual-Teilnahme. Feuert K29+ (Sorel meistert Licht bewusst).
-- Tidemoor-Uhr-Konstante (4:33 pro Stunde, 250 Jahre dokumentiert) aus Vespers Messdaten — feuert K32 (Schwerkraftanomalie) und K33 (Ritual-Dauer 4:33).
-- Drift-Gezeiten-Korrelation mit exaktem Takt — Seed für K32.
+- Tidemoor-Uhr-Konstante (4:33 pro Stunde, 250 Jahre dokumentiert) aus Vespers Messdaten — feuert K33 (Schwerkraftanomalie) und K34 (Ritual-Dauer 4:33).
+- Drift-Gezeiten-Korrelation mit exaktem Takt — Seed für K33.
 - Alphinas Trieb + Marens K22-Blatt als Spezies-Paar — Tschechow für Moragh-Flora in B2.
 - Vespers Schachturm-Wärme-Moment bei der Korrelations-Erkenntnis — unbenannt, aber gesetzt. Feuert später, wenn Vesper sich klar wird, dass sein Körper das System registriert, bevor sein Kopf es formuliert (B2+).
 - Der Junge mit versengtem Haar — Eskalationszeichen, feuert K30+ (Nacht-Angriff).
@@ -322,7 +322,7 @@
 - Die ungelesenen Wörter auf dem Blatt — Feinheiten, die später in der Übersetzung auftauchen, feuern in K29/K31 (Ritual-Teilschritte werden klarer).
 - Alphinas Blick an der Tür, der Maren galt — Frauensolidarität ohne Worte, Tschechow leise.
 - Marens *„Bleib noch."* — direkter Bogen zu K27.
-- Vespers letzter innerer Beat (zum ersten Mal seit Karst ein ungewisses Werkstück) — Tschechow für Vesper-Arc, feuert in K32 (Schwerkraftanomalie-Lösung) und B2+.
+- Vespers letzter innerer Beat (zum ersten Mal seit Karst ein ungewisses Werkstück) — Tschechow für Vesper-Arc, feuert in K33 (Schwerkraftanomalie-Lösung) und B2+.
 
 **Tschechow-Waffen abgefeuert:**
 - K24 Blatt + Wörterbuch: heute teilweise übersetzt.
@@ -336,8 +336,8 @@
 **Cross-POV-Ankerpunkte:**
 - K27 (Maren, folgende Nacht): Übersetzung beginnt an diesem Tisch, nahtlos. Marens *„Bleib noch."* als letzter Satz ist der Beginn.
 - K29+ (Sorel, Licht-Training): Alphina+Sorel-Aufteilung folgt dem heute Beschlossenen.
-- K32 (Vesper): Schwerkraftanomalie-Rekonstruktion baut auf der heutigen Drift-Gezeiten-Korrelation auf.
-- K33 (alle): Ritual-Vollzug folgt der heutigen Aufteilung und dem gelernten Wortschatz.
+- K33 (Vesper): Schwerkraftanomalie-Rekonstruktion baut auf der heutigen Drift-Gezeiten-Korrelation auf.
+- K34 (alle): Ritual-Vollzug folgt der heutigen Aufteilung und dem gelernten Wortschatz.
 - B2+ (Buch 2): Harons *„nicht allein. nie allein."* wird Marens Faden in Moragh.
 
 ---
@@ -420,7 +420,7 @@ Zu prüfen:
 - Halvard-Einführung canon-konsistent mit K09 (Runa→Alphina→Halvard)?
 - Teilweise Übersetzung plausibel? Fünf Wörter reichen für Grundformel, Feinheiten offen — das ist Seed für K27ff.
 - Runa-Diskussion canon-konsistent mit K05 und K25? Alphinas Beobachtung als eingebrachtes Argument, keine Einweihung.
-- Drift-Gezeiten-Korrelation als Seed für K32 sauber? Keine Auflösung in K26.
+- Drift-Gezeiten-Korrelation als Seed für K33 sauber? Keine Auflösung in K26.
 - Gänsehaut-Moment trägt durch Rationalität, nicht durch Schauwert?
 - Gruppenszene-Disziplin (Leseprobe 12): Kein Reihum-Dialog, verwobene Körperbeats? Diskussion mit Widerspruch?
 - Keine „Warnung"-Scharnier-Mystik in den Wörtern — nur entzifferbare Wörter.

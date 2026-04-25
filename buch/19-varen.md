@@ -174,16 +174,16 @@ Maren ist Wasser/Fluss — Raummanipulation, nicht Zeit. Nach der Regel kann sie
 
 ---
 
-## 8. Die Sorel-Todesszene (K35 + K36 + K37)
+## 8. Die Sorel-Todesszene (K37 + K38 + K39)
 
 **Kapitelstruktur:**
-- **K35 — Sorel: Durchgang** (Sorel POV). Das Ritual funktioniert, das Portal öffnet sich, die Vier gehen durch. Runa schlüpft im letzten Moment mit. Fünf treten auf dem Moragh-Steinplatz aus dem Licht. Erster Eindruck: andere Schwerkraft (0.7g, sie fühlen sich leicht), andere Farbe des Himmels (Akkretionsscheibe statt Sonne, ein Graugelb das niemand erwartet hat), zwei Monde. Sorels Kapitel endet mit dem Moment, in dem sie begreifen, dass sie nicht mehr in Thalassien sind.
-- **K36 — Alphina: Varen** (Alphina POV). Erste Begegnung mit Varen. Er tritt aus dem Schatten. Kennt ihre Namen. Kennt Alphina. Legt die Hand an ihr Kinn. Bindungsmagie hält sie. Er studiert sie — nicht sexuell gemeint, aber sexuell wirkend. Die Leserin hat Angst dass er sie missbraucht. Er tut es nicht, aber die Grenze ist dünn. Die Szene ist **die Berührung**, nicht der Kampf. K36 endet mit Sorels Bewegung ("Nimm die Hand weg.") und dem Beat der Stille bevor alles kippt.
-- **K37 — Alphina: Sorels Tod** (Alphina POV). Die eigentliche Kampfszene. Schemen verteidigen Varen, Sorel stirbt zu schnell. Alphinas Zorn-Explosion. Anti-Flora. Varens erschöpfter Rückzug mit "Wir sehen uns nicht das letzte Mal."
+- **K37 — Sorel: Durchgang** (Sorel POV). Das Ritual funktioniert, das Portal öffnet sich, die Vier gehen durch. Runa schlüpft im letzten Moment mit. Fünf treten auf dem Moragh-Steinplatz aus dem Licht. Erster Eindruck: andere Schwerkraft (0.7g, sie fühlen sich leicht), andere Farbe des Himmels (Akkretionsscheibe statt Sonne, ein Graugelb das niemand erwartet hat), zwei Monde. Sorels Kapitel endet mit dem Moment, in dem sie begreifen, dass sie nicht mehr in Thalassien sind.
+- **K38 — Alphina: Varen** (Alphina POV). Erste Begegnung mit Varen. Er tritt aus dem Schatten. Kennt ihre Namen. Kennt Alphina. Legt die Hand an ihr Kinn. Bindungsmagie hält sie. Er studiert sie — nicht sexuell gemeint, aber sexuell wirkend. Die Leserin hat Angst dass er sie missbraucht. Er tut es nicht, aber die Grenze ist dünn. Die Szene ist **die Berührung**, nicht der Kampf. K38 endet mit Sorels Bewegung ("Nimm die Hand weg.") und dem Beat der Stille bevor alles kippt.
+- **K39 — Alphina: Sorels Tod** (Alphina POV). Die eigentliche Kampfszene. Schemen verteidigen Varen, Sorel stirbt zu schnell. Alphinas Zorn-Explosion. Anti-Flora. Varens erschöpfter Rückzug mit "Wir sehen uns nicht das letzte Mal."
 
-**K36 ist also NICHT die Kampfszene.** K36 ist die Berührung und die Drohung, K37 ist der Kampf und der Tod.
+**K38 ist also NICHT die Kampfszene.** K38 ist die Berührung und die Drohung, K39 ist der Kampf und der Tod.
 
-### K36 — Berührungsszene im Detail
+### K38 — Berührungsszene im Detail
 
 **Setting:** Moragh-Steinplatz, nahe Dravek. Abend. Zwei Monde, Akkretionsscheibe in Grau-Gelb am Horizont. Es ist kühl, die Luft anders als in Vael (dünner, trockener, metallisch im Geschmack). Der Steinplatz ist das Gegenstück zum Botanischen Garten in Vael — Purpurstein, kreisförmig, beschriftet, gewartet. Elke lebt zwei Stunden Fußweg entfernt in Dravek. Keiner der Fünf weiß das.
 
@@ -205,9 +205,9 @@ Maren ist Wasser/Fluss — Raummanipulation, nicht Zeit. Nach der Regel kann sie
 
 **Das Kippen:** Sorel bewegt sich. Instinkt. Kein Plan. "Nimm die Hand weg." Er geht zwischen Varen und Alphina.
 
-**K36 endet mit diesem Moment.** Sorel steht zwischen ihnen. Varen dreht sich langsam. Zeitluke. Die Welt hält den Atem an. Ein Beat der Stille. Dann: Kapitelende.
+**K38 endet mit diesem Moment.** Sorel steht zwischen ihnen. Varen dreht sich langsam. Zeitluke. Die Welt hält den Atem an. Ein Beat der Stille. Dann: Kapitelende.
 
-### K37 — Todesszene im Detail
+### K39 — Todesszene im Detail
 
 **Die Schemen.** Varen hat sie mitgebracht. Ein Dutzend, vielleicht mehr. Sie sind ausgewachsen — nicht die kleinen die Alphina in Vael gesehen hat. Diese sind groß wie Menschen, schnell, dunkel, mit leuchtenden Augen. Sie haben bis jetzt am Rand gestanden, unsichtbar für die Thalassier. Als Sorel sich bewegt, reagieren sie. **Sehr schnell.**
 
@@ -219,13 +219,13 @@ Maren ist Wasser/Fluss — Raummanipulation, nicht Zeit. Nach der Regel kann sie
 
 **Wie genau er stirbt:** Nicht hübsch. Seine Augen brennen zuerst — sein eigenes Licht, das rausfließt. Dann seine Lunge (die Bindung hat seine Brust getroffen). Blut aus Nase, Mund, Ohren. Er sinkt auf den Boden. Keine letzten Worte. Kein dramatischer Kampftod. Nur ein Körper, der seine eigene Magie nicht halten kann und zerbricht.
 
-**Die Kamera.** Sorel hatte seine Kamera bei sich — er hat sie durchs Portal genommen, weil er nie ohne sie ist. Sie liegt jetzt zerschlagen neben ihm. Eine Platte ist zerbrochen, Silberhalogenid rieselt aus den Fragmenten. Die Kamera ist als Tschechow bereits etabliert (K13, K25, K35). Hier stirbt sie mit ihm.
+**Die Kamera.** Sorel hatte seine Kamera bei sich — er hat sie durchs Portal genommen, weil er nie ohne sie ist. Sie liegt jetzt zerschlagen neben ihm. Eine Platte ist zerbrochen, Silberhalogenid rieselt aus den Fragmenten. Die Kamera ist als Tschechow bereits etabliert (K13, K25, K37). Hier stirbt sie mit ihm.
 
 **Der Beat der Stille.** Für drei Atemzüge passiert nichts. Die Schemen stehen still. Varen steht still. Alphina begreift es nicht. Sie dreht den Kopf langsam — die Bindungsmagie schwankt, weil Varens Konzentration gebrochen ist — und sieht Sorel am Boden. Sie will etwas sagen. Vielleicht seinen Namen. Sie öffnet den Mund. **Nichts.**
 
 **Dann kippt die Welt.**
 
-### Alphinas Zorn (K37 Hauptteil)
+### Alphinas Zorn (K39 Hauptteil)
 
 **Der Beat:** Erst Stille. Dann alles auf einmal. Kein langsames Crescendo — eine Explosion.
 
@@ -253,7 +253,7 @@ Maren ist Wasser/Fluss — Raummanipulation, nicht Zeit. Nach der Regel kann sie
 
 10. **Stille danach.** Kein Geräusch. Kein Wind. Die drei anderen atmen, aber sprechen nicht. Vesper kniet nieder, aber nähert sich nicht. Maren steht still und sieht die aufgerissene Erde. Runa sieht Alphinas Rücken und die Narbe, die entlang der Wirbelsäule sichtbar ist, und weiß dass sie die Narbe nie mit einem Wort benennen wird.
 
-**K37 endet mit diesem Bild.** Alphina kniet bei Sorel. Die Blüten bleiben. Die Welt ist stumm. Die anderen warten, bis sie aufstehen kann. Sie weiß noch nicht dass Elke gleich kommt (K38 ist Vesper-POV, K40 ist "Alphina: Elke").
+**K39 endet mit diesem Bild.** Alphina kniet bei Sorel. Die Blüten bleiben. Die Welt ist stumm. Die anderen warten, bis sie aufstehen kann. Sie weiß noch nicht dass Elke gleich kommt (K40 ist Vesper-POV, K42 ist "Alphina: Elke").
 
 **Wichtige Regeln für die Todesszene:**
 - Kein cooler One-Liner von Alphina. Sie sagt nichts. Das Kapitel hat fast keine Dialoge.
@@ -384,7 +384,7 @@ Moragh hat **keine Sonne**. Es hat eine Akkretionsscheibe (ein Ring aus leuchten
 
 **Wann die Farbe schwankt:**
 - **Thalassien komplett:** immer grün (Kap 1-35, Sorel-POV-Kap ausgenommen wo sie nicht wächst)
-- **Moragh Sorel-Tod (K37):** voll schwarz/purpur/rot. Erstes Mal. Die Umstellung. Wie ein Körper der von einer Farbe zur anderen wechselt.
+- **Moragh Sorel-Tod (K39):** voll schwarz/purpur/rot. Erstes Mal. Die Umstellung. Wie ein Körper der von einer Farbe zur anderen wechselt.
 - **Moragh Buch 2 Bund-Training:** schwankend. Diszipliniert = grün (der Bund verlangt Disziplin, die Bund-Meister trainieren sie zurück zu grün). Wütend = schwarz/rot. Bund-Meister nennen es "Verunreinigung" und verstehen nicht was sie sehen.
 - **Moragh Buch 2 Quellen-Zerstörung (2/3-Mark):** voll schwarz/rot. Keine Disziplin mehr.
 - **Moragh Buch 2 Endakt Varen-Sex:** schwarz unter dem Bett.
@@ -392,7 +392,7 @@ Moragh hat **keine Sonne**. Es hat eine Akkretionsscheibe (ein Ring aus leuchten
 
 **Regel für Schreibenden:** Alphinas Pflanzen werden nie als "grün" beschrieben, solange sie in Moragh emotional aufgewühlt ist. Die Beschreibung bleibt in schwarz, purpur, rot — über Farbwörter oder implizit (tief wie Wein, fast violett im Stängel, Blüten dunkel wie geronnenes Blut, Rinde wie Kohle im Regen). Grün kommt nur wenn sie ruhig ist, oder wenn sie sich zu einem kurzen Moment an Thalassien erinnert und die alte Farbe noch in ihr ist.
 
-**Tschechow über die Trilogie:** Die Farbe ist ein stiller Barometer. Die Leserin lernt es in K37 zum ersten Mal lesen — und dann schaut sie bei jeder Alphina-Szene auf die Farbe. Wenn Alphina am Ende von Buch 3 an der Riss-Quelle steht, um sie zu zerstören, wird die Leserin die Farbe sehen und sofort wissen, in welchem inneren Zustand Alphina ist.
+**Tschechow über die Trilogie:** Die Farbe ist ein stiller Barometer. Die Leserin lernt es in K39 zum ersten Mal lesen — und dann schaut sie bei jeder Alphina-Szene auf die Farbe. Wenn Alphina am Ende von Buch 3 an der Riss-Quelle steht, um sie zu zerstören, wird die Leserin die Farbe sehen und sofort wissen, in welchem inneren Zustand Alphina ist.
 
 ---
 
@@ -420,9 +420,9 @@ Moragh hat **keine Sonne**. Es hat eine Akkretionsscheibe (ein Ring aus leuchten
 
 6. **Talven als Velmar-Deserteur?** Canon hat Talven als "Bund-Lehrling, mittleres Reservoir". Das ist Bund-Gebiet, nicht Velmar. Aber: Talven lernt von Varen die Resonanz-Ernte, und Varen ist Velmar-Forscher. Vielleicht ist Talven ein Velmar-Deserteur, der mit Varens Crew nach Bund-Gebiet gekommen ist? Oder er ist ein Bund-Lehrling, den Varen als Schüler angenommen hat? Braucht Klärung.
 
-7. **K36/K37-Split:** Die Todesszene liegt in K37 (Alphina: Sorels Tod). K36 (Alphina: Varen) ist die Berührungsszene. Diese Trennung ist wichtig für die Pacing und sollte beim Entwurf von K36 und K37 beachtet werden. Zwei Kapitel, nicht eins.
+7. **K38/K39-Split:** Die Todesszene liegt in K39 (Alphina: Sorels Tod). K38 (Alphina: Varen) ist die Berührungsszene. Diese Trennung ist wichtig für die Pacing und sollte beim Entwurf von K38 und K39 beachtet werden. Zwei Kapitel, nicht eins.
 
-8. **Elkes Rolle in K40:** Kapitel 40 ist "Alphina: Elke" — das ist nach der Todesszene, wenn Elke die Gruppe findet. Elke wird hier wahrscheinlich NICHT ihre Beziehung zu Varen preisgeben. Das Schweigen beginnt hier. Das muss der Entwurf von K40 berücksichtigen: Elke ist erschüttert, hilfsbereit, aber zurückhaltend. Sie lügt nicht offen, aber sie lässt wichtige Informationen weg.
+8. **Elkes Rolle in K42:** Kapitel 42 ist "Alphina: Elke" — das ist nach der Todesszene, wenn Elke die Gruppe findet. Elke wird hier wahrscheinlich NICHT ihre Beziehung zu Varen preisgeben. Das Schweigen beginnt hier. Das muss der Entwurf von K42 berücksichtigen: Elke ist erschüttert, hilfsbereit, aber zurückhaltend. Sie lügt nicht offen, aber sie lässt wichtige Informationen weg.
 
 ---
 
@@ -446,7 +446,7 @@ Moragh hat **keine Sonne**. Es hat eine Akkretionsscheibe (ein Ring aus leuchten
 | Die Blüten auf Sorels Körper | Blutrot und schwarz mit purpurnen Kanten. **Nicht weiß.** Sie bleiben, wenn alles andere stirbt. |
 | Varens Rückzug | Erschöpft, nicht würdevoll. Seine Magie ist zyklisch, Alphinas azyklisch. |
 | Varens Abgangstext | "Wir sehen uns nicht das letzte Mal." In altes Thalassisch. |
-| K36 vs. K37 | K36 ist die Berührungsszene (Bindung, Studieren). K37 ist der Kampf und der Tod. Zwei Kapitel, nicht eins. |
+| K38 vs. K39 | K38 ist die Berührungsszene (Bindung, Studieren). K39 ist der Kampf und der Tod. Zwei Kapitel, nicht eins. |
 
 ---
 

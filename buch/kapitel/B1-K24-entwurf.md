@@ -186,7 +186,7 @@ Alphinas letzter innerer Beat (nicht ausgesprochen, als Koerperwissen): Sie sind
 - Sorel-Beat (Alphina registriert, ohne zu deuten): Hebt den Arm leicht unter ihrer Hand, so dass die Hand besser liegt. Sagt die flache Feststellung zu den Abdruecken. Sein Schweigen hat mehr Gewicht als heute morgen. Alphina registriert den Wechsel, deutet ihn nicht — Autorennotiz fuer die Ausarbeitung: Koerpersignale, keinen Erzaehler-Kommentar. Der Leser weiss aus K23, dass er Varen erkannt hat.
 
 **Tschechow-Waffen geladen:**
-- Ritual-Papier (Harons Symbolblatt) jetzt in Vespers Obhut — feuert K27+ (Uebersetzungsarbeit), K36 (Ritualpraxis).
+- Ritual-Papier (Harons Symbolblatt) jetzt in Vespers Obhut — feuert K27+ (Uebersetzungsarbeit), K38 (Ritualpraxis).
 - Sprachbuch in Harons Hand — feuert K27 (Maren+Vesper Dom/Sub ueber Sprachuebungen) und Buch 2 (Haron hat die Sprache gelernt, nicht mitgebracht).
 - Gestalt in der Kreismitte (Zeichnung) + wurzelfreie Flaeche (Realitaet) — feuert im Finale, wenn klar wird, wer in die Mitte gehoert.
 - Schem-Fingerabdruecke auf Harons Blatt — feuert, wenn klar wird, wer Haron begleitet hat.

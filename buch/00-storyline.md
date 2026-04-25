@@ -126,7 +126,7 @@ Schemen eskalieren. Alphina+Sorel: Bruch → Versöhnung. Alphina+Runa: FWB begi
 **Interludium 3 — ERSTER VAREN-POV**
 Varen in Moragh. Spürt die Resonanzen. Seine Karten: 3 tote Quellen rot markiert. Auf einer zweiten Karte: Bund-Truppenbewegungen, die auf weitere Quellen zielen. "Sie kommen." Notwendigkeit.
 
-**Akt IV — Das Portal (3 Kapitel, K34-K36)**
+**Akt IV — Das Portal (3 Kapitel, K36-K38)**
 Ritual. Portal öffnet sich (4:33). Runa schlüpft durch. Fünf in Moragh.
 
 **VAREN.** altes Thalassisch. Hand an Alphinas Kinn. Besitzergreifend, forschend.
@@ -137,7 +137,7 @@ Alphinas Explosion. Dornen, Vegetation. Verletzt die eigenen Leute. Varen zieht 
 
 **Grab aus fremder Erde.** Alphinas Resonanz ist in Moragh stärker. Weiße Blüten wachsen aus dem Boden und decken Sorels Körper. Ein Grab ohne Spaten, nur mit Händen und Willen.
 
-**Schlussbild K36: Aufbruch zum Lichtschein.** Am Horizont ein Lichtschein — niemand weiß was er ist. Vier stehen auf. Sorel bleibt unter Blüten zurück. Sie gehen. Cliffhanger.
+**Schlussbild K38: Aufbruch zum Lichtschein.** Am Horizont ein Lichtschein — niemand weiß was er ist. Vier stehen auf. Sorel bleibt unter Blüten zurück. Sie gehen. Cliffhanger.
 
 **Epilog B1 — Vael ohne die Fünf.** Eine Woche später. Halvards Bericht. Schemen verschwunden. Boot wartet. Zwei parallele Schlussbilder: weißes Blütenbeet in Moragh / Tohl am Fenster in Vael. ENDE BUCH 1.
 

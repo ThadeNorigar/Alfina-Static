@@ -118,4 +118,4 @@ Er geht zurück in den Keller. Die Schublade liegt zu. Nicht abgeschlossen.
 - Vespers Name, Maren's Existenz
 - Dass Alphina ihn beobachtet hat (K15, vom Hafen aus)
 - Was die Schemen wollen, wer sie schickt
-- Dass sein Beschützer-Instinkt sein Tod sein wird (K36)
+- Dass sein Beschützer-Instinkt sein Tod sein wird (K38)

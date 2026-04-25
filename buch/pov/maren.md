@@ -80,7 +80,7 @@ Drei Register, nie »Jacke«:
 
 ## Buch 2 / Buch 3 — Ende
 
-**B2-K38:** Tritt nach 5 Moragh-Monaten durchs Portal von Moragh-Seite zurück nach Thalassien. Landet in Vael **~1987 TZ**. Vesper bleibt, sie geht — beide wissen: sie hat allein zu wenig Magie für den Rückweg. Gestrandet, absichtlich.
+**B2-K40:** Tritt nach 5 Moragh-Monaten durchs Portal von Moragh-Seite zurück nach Thalassien. Landet in Vael **~1987 TZ**. Vesper bleibt, sie geht — beide wissen: sie hat allein zu wenig Magie für den Rückweg. Gestrandet, absichtlich.
 
 **B3 (Thalassien):** Gründet ~1990 TZ die **Schwellenforschungsgesellschaft** aus Haron Dahls Werft-Erbe. Vier Mitglieder zu Beginn, eine Karte des Steinkreises an der Wand. Wächst über vier Jahrzehnte zum staatlich finanzierten Institut. Die Farne im Botanischen Garten werden zu ihrem Lebensgegenstand — Bodentemperatur-Messungen, Sensoren, Hypothesen.
 

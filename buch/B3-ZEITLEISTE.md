@@ -31,7 +31,7 @@ Auf Thalassien-Seite vergehen ~333 TZ-Jahre. B3 allein entspricht ~5 Moragh-Mona
 
 **Alphina + Varen:**
 - In **Torkal** (freie Stadt Südwesten) als Basis.
-- Varen hat während Sulkara-Sex in B2-K36 heimlich einen Resonanz-Anker
+- Varen hat während Sulkara-Sex in B2-K38 heimlich einen Resonanz-Anker
   in Alphinas Frequenz gesetzt. Sie weiß es nicht.
 - Sie planen Quellen-Reparatur als Mission. Varen inszeniert Schuld-Partnerschaft.
 - Alphina hat in Sulkara Dornen gegen Bund-Soldaten gewirkt, auch gegen Runa gesehen.
@@ -49,7 +49,7 @@ Auf Thalassien-Seite vergehen ~333 TZ-Jahre. B3 allein entspricht ~5 Moragh-Mona
 - Vesper weiß: Alphina steht unter Anker, der brechen wird.
   Plant ihre Rückholung — *„nicht heute."*
 
-**Maren (in I/K38, kurz vor Ende):**
+**Maren (in I/K40, kurz vor Ende):**
 - Hat Portal von Moragh-Seite geöffnet (Velmar-Karte aus Thar-Bibliothek).
 - **Tritt am Steinplatz durch ins Thalassien 1987 TZ** (statt 1910 — Korrektur).
 - Hat Elke vor dem Durchgang das Velmar-Dokument + Ritual-Notizen übergeben.
@@ -69,7 +69,7 @@ Auf Thalassien-Seite vergehen ~333 TZ-Jahre. B3 allein entspricht ~5 Moragh-Mona
 
 **Haupt-Setups für B3:**
 - Varens Anker in Alphina.
-- Vier-Thalassier-Liste in Varens Notizen (K34, zwischen zwei Büchern versteckt).
+- Vier-Thalassier-Liste in Varens Notizen (K36, zwischen zwei Büchern versteckt).
 - Varens Vier-Thalassier-Ziele (Alphina, Vesper, Runa, Maren).
 - Maren gestrandet in Thalassien 1987.
 
@@ -174,7 +174,7 @@ Zeitraum: ca. 30 Tage Moragh, ca. 33 TZ-Jahre Thalassien.
 
 | Jahr | Ereignis | Interludium |
 |---|---|---|
-| 1987 | Maren tritt durchs Portal in Thalassien ein | (B2-K38) |
+| 1987 | Maren tritt durchs Portal in Thalassien ein | (B2-K40) |
 | 1990 | Maren gründet Schwellenforschungsgesellschaft in Vael | **I7** |
 | 1990–2019 | Gesellschaft wächst zu staatlich finanziertem Institut | (off-screen) |
 | 2019 | Expedition 1 vor Aufbruch. Tyra Halvard + Team | **I13** |

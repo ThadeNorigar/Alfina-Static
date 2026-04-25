@@ -68,14 +68,14 @@ Das ist erzählerisch. Astronomisch würde 288 MZ-Tage × 26 MZ-Stunden = 7.488 
 |---|---|---|---|
 | **B1-Start** (K1, 21. Saatmond) | **21. Saatmond 551 TZ** | 21. März 1820 | **1. Torash 3635** |
 | K22 (Plot-Gegenwart) | 22. Blütenmond 551 TZ | 22. Mai 1820 | 1. Torash 3635 (selber MZ-Tag!) |
-| B1-Ende (K34) | 4. Dunkelmond 551 TZ | 4. Dezember 1820 | 1. Torash 3635 (~7 MZ-Tage später) |
+| B1-Ende (K36) | 4. Dunkelmond 551 TZ | 4. Dezember 1820 | 1. Torash 3635 (~7 MZ-Tage später) |
 | Elke Portal-Durchgang (I3) | 28. Frostmond 154 TZ | 28. November 1423 | 3. Torash 3634 (~1 MZ-Jahr vor B1) |
 | MZ 0 (Besiedelung Moragh) | TZ −1.453.449 | ~UZ −184.180 | 1. Torash 0 |
 
 ## Konsequenzen für den Plot
 
 1. **Ganz Buch 1 spielt in MZ 3635, Monat 1 (Torash).** Zwischen B1-Start und B1-Ende vergehen nur ~7 MZ-Tage.
-2. **Varens Präsenz seit ~1 MZ-Jahr:** Elke kam in MZ 3634 (3. Torash) an, B1-Start ist MZ 3635 (1. Torash) — das ist praktisch genau 1 MZ-Jahr. Das bestätigt K35-Text "Über vierhundert Jährlein erspüret" (TZ-Jahre = 400 MZ-gerechnet wäre 1 MZ-Jahr ↔ 400 TZ-Jahre).
+2. **Varens Präsenz seit ~1 MZ-Jahr:** Elke kam in MZ 3634 (3. Torash) an, B1-Start ist MZ 3635 (1. Torash) — das ist praktisch genau 1 MZ-Jahr. Das bestätigt K37-Text "Über vierhundert Jährlein erspüret" (TZ-Jahre = 400 MZ-gerechnet wäre 1 MZ-Jahr ↔ 400 TZ-Jahre).
 3. **Varens Alter:** Mitte–Ende 40 (MZ-Jahre). Wenn 1 MZ-Jahr = 400 TZ-Jahre, wäre er aus TZ-Sicht "18.000 TZ-Jahre alt" — aber das ist irrelevant, weil er in MZ lebt und dort ein ganz normaler Mitte-40er ist.
 4. **4:33-Canon** (Vespers Uhren-Anomalie): Passt mit Varens "Atem-Signatur" wenn Varens Atemrhythmus in MZ-Zeit fein genug ist, dass er TZ-seitig als 4 min 33 sec/Tag-Drift sichtbar wird.
 

@@ -17,7 +17,7 @@
 | B3 Akt III (Expedition 2 Ankunft, Monat 9) | **~2120 TZ** | Bodymods, Exoskelette, militärische Biotech, Neural-Interfaces 3. Generation |
 | B3 Ende (Monat 10) | **~2153 TZ** | ausgereifte 2150er-Technologie — stockwerkshohe Killermaschinen im Finale |
 
-**Zeit ist nicht rückdrehbar.** Wenn Maren durch das Portal zurückkehrt (B2-K38), ist Vael Jahrhunderte älter. Alle Nebencharaktere aus Buch 1 sind seit Generationen tot. Sorels Glasplatten sind in einem Museum. „Die Vier von Vael" ist eine Legende.
+**Zeit ist nicht rückdrehbar.** Wenn Maren durch das Portal zurückkehrt (B2-K40), ist Vael Jahrhunderte älter. Alle Nebencharaktere aus Buch 1 sind seit Generationen tot. Sorels Glasplatten sind in einem Museum. „Die Vier von Vael" ist eine Legende.
 
 ## Thalassien-Magie — Ursprung
 

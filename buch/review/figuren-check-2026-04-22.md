@@ -46,16 +46,16 @@ Drei Canon-Infrastruktur-Entscheidungen lösen zusammen viele Folge-Findings:
 - **Status:** ✅ **Gelöst** 22. Apr — TZ-Canon ist Gregorianisch + thalass. Namen (`buch/00-zeitrechnung.md`). MZ = 8×36×26h. Tool `scripts/zeitrechnung.py`.
 
 ### A3 · Varen · Altersparadox (Mitte 40 vs. "400 Jährlein")
-- **Befund:** `19-varen.md` sagt Mitte-Ende 40; K35-Plan "Über vierhundert Jährlein erspüret".
+- **Befund:** `19-varen.md` sagt Mitte-Ende 40; K37-Plan "Über vierhundert Jährlein erspüret".
 - **Status:** ✅ **Gelöst** 22. Apr — Varen ist Mitte 40 in MZ-Jahren. 1 MZ-Jahr = 400 TZ-Jahre. "400 Jährlein" = TZ-gerechnet 1 MZ-Jahr = Zeit seit Elke (I3 = MZ 3634, B1 = MZ 3635). Canon-konsistent.
 
 ### A4 · Varen · Schemen-Motivation persönlich vs. atmosphärisch
-- **Befund:** `00-storyline.md` sagt Experiment-Aussendung; K35-Plan dramatisiert als persönlich gezielt.
+- **Befund:** `00-storyline.md` sagt Experiment-Aussendung; K37-Plan dramatisiert als persönlich gezielt.
 - **Status:** ✅ **Gelöst** 22. Apr — Schemen-Canon (Beschwörer bestimmt Form+Zweck; Intelligenz-Frage offen auch für Moragher). Beides Canon-zulässig: Varen kann gezielt schicken, gleichzeitig ist das Verhalten der Schemen drüben nicht vollständig deterministisch.
 
 ### A5 · Varen · 4:33-Signatur (natürlich vs. künstlich)
-- **Status:** ✅ **Gelöst 23. Apr** — Canon: 4:33 ist die **Eigenfrequenz der Vaeler Quelle** (= 273 s = 7 Purpursteine × 39-s-Grundschwingung). Baseline seit Generationen in der Tidemoor-Uhr (Purpurstein-Ausläufer amplifiziert lokal; Uhr auf normalem Fels würde weniger driften). Varen nutzt die natürlichen Resonanz-Fenster, erzeugt sie nicht. "SEIN Atem" in K35 wird als Rhythmus IM Takt der Quelle neu formuliert.
-- **Files aktualisiert:** `10-magie-system.md` (neuer Abschnitt "Grundfrequenz der Quellen"), `04-akt3.md` (K32-Prosa-Plan), `05-akt4.md` (K35-Plan-Satz).
+- **Status:** ✅ **Gelöst 23. Apr** — Canon: 4:33 ist die **Eigenfrequenz der Vaeler Quelle** (= 273 s = 7 Purpursteine × 39-s-Grundschwingung). Baseline seit Generationen in der Tidemoor-Uhr (Purpurstein-Ausläufer amplifiziert lokal; Uhr auf normalem Fels würde weniger driften). Varen nutzt die natürlichen Resonanz-Fenster, erzeugt sie nicht. "SEIN Atem" in K37 wird als Rhythmus IM Takt der Quelle neu formuliert.
+- **Files aktualisiert:** `10-magie-system.md` (neuer Abschnitt "Grundfrequenz der Quellen"), `04-akt3.md` (K33-Prosa-Plan), `05-akt4.md` (K37-Plan-Satz).
 
 ### A6 · Haron · Drei widersprüchliche Zeitpunkte
 - **Status:** ✅ **Gelöst 23. Apr** — Canon: Haron stirbt mit ~70 (nicht 85). Neue Chronologie: Geburt ~TZ 480, Portal-Durchgang + Zuzug Vael TZ 514 (Alter 34, Thalassisch bereits in Moragh gelernt), 30 Jahre Werftlehre/Gesellen-Arbeit, Adoption TZ 544 (Alter 64), Briefe an Maren ab TZ 546, Tod ~TZ 550.
@@ -77,7 +77,7 @@ Drei Canon-Infrastruktur-Entscheidungen lösen zusammen viele Folge-Findings:
 ## B. MITTEL
 
 ### B1 · Runa · Präsenz in K19 (Kampf im Garten) unklar
-- **Befund:** Welt-Canon sagt "Runa schlüpft mit durch" (K34); K19-Text/Aktplan nennt sie nicht.
+- **Befund:** Welt-Canon sagt "Runa schlüpft mit durch" (K36); K19-Text/Aktplan nennt sie nicht.
 - **Status:** ◻ **Offen** — Plot-Entscheidung: dabei oder nicht?
 
 ### B2 · Vesper · K11 Oberstadt-Geografie ohne Ortsbesuch
@@ -135,13 +135,13 @@ Drei Canon-Infrastruktur-Entscheidungen lösen zusammen viele Folge-Findings:
 - **Befund:** I1 tierhafte kleine Schemen, I3 mannshohe Feuer-Wesen. Unterschiedliche Arten?
 - **Status:** ✅ **Gelöst** 22. Apr — Schemen-Canon erlaubt Form-Variabilität durch Beschwörer.
 
-### B15 · Varen · K26-Prosa als Tschechow-Basis für K35 fehlt
-- **Befund:** K35-Plan referenziert K26-Schem-Geste; K26 existiert nur als Entwurf.
+### B15 · Varen · K26-Prosa als Tschechow-Basis für K37 fehlt
+- **Befund:** K37-Plan referenziert K26-Schem-Geste; K26 existiert nur als Entwurf.
 - **Status:** ◻ **Offen** — K26 ausarbeiten.
 
 ### B16 · Varen · K21-Schem Hand-an-Kinn-Geste nicht vorbereitet
-- **Befund:** K35-Plan sagt "dieselbe Geste wie der Schem im Lichthaus-Keller (K21)". K21-Text hat andere Schem-Haltung.
-- **Status:** ◻ **Offen** — K21-Prosa erweitern ODER K35-Plan anpassen.
+- **Befund:** K37-Plan sagt "dieselbe Geste wie der Schem im Lichthaus-Keller (K21)". K21-Text hat andere Schem-Haltung.
+- **Status:** ◻ **Offen** — K21-Prosa erweitern ODER K37-Plan anpassen.
 
 ### B17 · Maren · K8 "Jackentaschen" ×2 (Kleidungs-Canon)
 - **Status:** ✅ **Gefixt 23. Apr** — Beide Treffer in `08-maren.md` von "Jackentaschen" auf "Manteltaschen" geändert.
@@ -189,7 +189,7 @@ Drei Canon-Infrastruktur-Entscheidungen lösen zusammen viele Folge-Findings:
 12. B5 Marens Magie-Kippmoment
 13. B6 Haron-Adoption in K4 vorbereiten
 14. B15 K26 ausarbeiten (eigener Kapitel-Entwurf-Lauf)
-15. B16 K21 Schem-Geste setzen oder K35 anpassen
+15. B16 K21 Schem-Geste setzen oder K37 anpassen
 
 ## Reproduktion
 

@@ -110,7 +110,7 @@ Siehe `buch/kapitel-ton-referenzen.md#k25` für die Zentralstelle.
 - Runas Feuer-Resonanz nach K05-Vorboten (heiße Hände, Kerzenstillstand) jetzt erstmals als Doppel-Manifestation sichtbar (Nahfeld-Verstärkung + Kontakt-Glimmen) — Mechanismus: sie kann existierendes Feuer im Nahfeld manipulieren (Öllampe wird höher), und über Hautkontakt entsteht Glut/Brand am Material; feuert wieder in späteren Runa-Szenen, kontrollierter ab Akt III/Buch 2 (Schemen-Kampf K76+)
 - **Eingebrannter Fingerabdruck im Werkbank-Holz** — bleibt als physische Spur in der Werkstatt; kann von Runa selbst später wieder gesehen werden (Erinnerungsanker), oder von einer anderen Figur entdeckt werden, die in die Druckerei kommt (Alphina bei späterem Besuch, oder Vesper bei Sichtungs-Daten-Abholung post-K26)
 - Runas Verdrängungs-Mechanismus mit **Restspannung und Erzählplan** — sie schiebt nicht ganz weg, sie kann nur nicht einordnen, und sie beschließt, Alphina die Anekdote zu erzählen (nicht als Verdacht, sondern als kuriose Werkstatt-Geschichte); Tschechow für eine spätere Alphina-Runa-Szene, in der Alphina diese Erzählung als Datenpunkt einordnet (Runas Feuer + Alphinas Wärme-Wahrnehmung aus Szene 1 = Puzzle-Stück für Alphina)
-- Runas Körperwärme als Konstante — feuert wieder, wenn jemand sie länger berührt (vermutlich K30+ oder beim Ritual K33/K34)
+- Runas Körperwärme als Konstante — feuert wieder, wenn jemand sie länger berührt (vermutlich K30+ oder beim Ritual K34/K36)
 - Öllampe als Resonanz-Indikator — kann in einer späteren Runa-Szene wieder als Verstärker fungieren (Stichflamme bei Erregung)
 
 **Tschechow-Waffen abgefeuert:**

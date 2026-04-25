@@ -259,7 +259,7 @@ Varen: *„Ich weiß nicht. Aber ich werde es herausfinden."*
 
 Sie blickt auf den Boden der Küche (sie geht zurück hinein, um eine Decke zu holen). Der Boden ist sauber. Zu sauber. Kein Blut, keine Haare. Das Haus wurde gewischt. Die Küche, nicht der Garten. Sie notiert das unbewusst, ohne es zu formulieren.
 
-**Am Grab.** Varen organisiert eine kleine Bestattung. Zwei Nachbarn aus Dravek kommen. Alphina lässt Blüten aus dem Boden wachsen, weiße, dichte Blüten, die Elkes Grab bedecken. Wie damals Sorels Grab in B1-K36. Der Kreis schließt sich mit dunkleren Gedanken.
+**Am Grab.** Varen organisiert eine kleine Bestattung. Zwei Nachbarn aus Dravek kommen. Alphina lässt Blüten aus dem Boden wachsen, weiße, dichte Blüten, die Elkes Grab bedecken. Wie damals Sorels Grab in B1-K38. Der Kreis schließt sich mit dunkleren Gedanken.
 
 **Die Verdächtigung beginnt.** Auf dem Rückweg denkt Alphina: *„Wer tötet eine Frau mit einem Garten?"* Ihre erste Theorie: ein Dorfstreit, ein betrunkener Bauer. Aber die Würgespuren sind präzise, geübt. Kein Bauer.
 

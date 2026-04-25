@@ -10,7 +10,7 @@
 
 - **Arbeitstitel:** „Die Quelle" (bleibt)
 - **Umfang:** ~225.000 Wörter, ~900 Seiten, 4 Akte
-- **Kapitel:** K41-K80 + Interludien I7-I15 + Epilog (laut `status.json`)
+- **Kapitel:** K43-K80 + Interludien I7-I15 + Epilog (laut `status.json`)
 - **Genre:** Dark Romantasy, Yarros-Niveau für Action-Szenen, King-Niveau für Dichte
 - **Perspektiven:** Alphina, Vesper, Varen, Runa, Maren, Nyr
 
@@ -19,7 +19,7 @@
 ## 1. Ausgangssituation — Ende Buch 2
 
 **Moragh:**
-- **Alphina + Varen** — in Varens Basis **Torkal** (freie Südwest-Stadt). Varen hat beim Sex in B2-K36 einen **Resonanz-Anker** in Alphinas Frequenz gesetzt — sie weiß es nicht. Er zapft ihre Resonanz bei jeder Quellen-Reparatur (~10% pro Sitzung). Sie reparieren gemeinsam die ersten toten Quellen — beginnend mit **Halvara-Kel** (die Alphina in B2-K25 selbst getötet hat).
+- **Alphina + Varen** — in Varens Basis **Torkal** (freie Südwest-Stadt). Varen hat beim Sex in B2-K38 einen **Resonanz-Anker** in Alphinas Frequenz gesetzt — sie weiß es nicht. Er zapft ihre Resonanz bei jeder Quellen-Reparatur (~10% pro Sitzung). Sie reparieren gemeinsam die ersten toten Quellen — beginnend mit **Halvara-Kel** (die Alphina in B2-K25 selbst getötet hat).
 - **Vesper + Nyr** — bei den Thar in **Thar-Kem**. Nyr pilotiert Kessler (40-t Bestie). Vesper als Muster-Analytiker. Beide beginnen zu zweifeln (Resonanz-Käfig-Pläne zeichnen sich ab).
 - **Runa** — beim Bund in **Halvaren**. Innerlich zerbrochen nach dem Sulkara-Moment (sie sah Alphina freiwillig bei Varen kämpfen). Druckt weiter. Hat mit dem Bund innerlich abgeschlossen, wartet aber auf den Moment zu gehen.
 
@@ -27,7 +27,7 @@
 - **Maren** — gestrandet in Thalassien ~1910. Hat die **Schwellenforschungsgesellschaft** gegründet. Altert normal. B3 trifft sie als alte Frau im Jahr ~2250.
 
 **Tot:**
-- Sorel (in Moragh begraben unter weißen Blüten, B1-K36)
+- Sorel (in Moragh begraben unter weißen Blüten, B1-K38)
 
 ---
 
@@ -223,12 +223,12 @@ Aktuelle Dokumente sind obsolet:
 ## 8. Spezifische offene Fragen (für die neue Session)
 
 1. **Portal-Ende:** Zerstört (harter Cut, Maren-Rückkehr unmöglich) oder offen (Hoffnung)?
-2. **B3-Kapitelzahl:** aktuell 40 laut status.json (K41-K80). Passt das, oder Kürzung?
+2. **B3-Kapitelzahl:** aktuell 40 laut status.json (K43-K80). Passt das, oder Kürzung?
 3. **Elkes Tod:** Plotträchtig (sie gibt etwas weiter an Alphina) oder still (Altersschwäche)?
 4. **Talvens Tod:** passt er zum Zerfall (sein Körper bricht zusammen) oder stirbt er durch eine der Figuren (Konfrontation)?
 5. **Iven-Einführung:** früh in Akt I (als Neben-POV) oder spät (als Hilfsfigur)?
 6. **Marens Rolle in B3:** Erscheint sie persönlich (Expedition mit jungen Nachfolgern) oder nur als Off-Screen-Institution?
-7. **Varens Todes-Wort an Alphina:** welches Wort flüstert er im Sterben? (Parallel zu B1-K35 *„Wort an Sorel"*)
+7. **Varens Todes-Wort an Alphina:** welches Wort flüstert er im Sterben? (Parallel zu B1-K37 *„Wort an Sorel"*)
 
 ---
 
