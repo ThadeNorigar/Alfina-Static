@@ -211,7 +211,7 @@ Maren ist Wasser/Fluss — Raummanipulation, nicht Zeit. Nach der Regel kann sie
 
 **Die Schemen.** Varen hat sie mitgebracht. Ein Dutzend, vielleicht mehr. Sie sind ausgewachsen — nicht die kleinen die Alphina in Vael gesehen hat. Diese sind groß wie Menschen, schnell, dunkel, mit leuchtenden Augen. Sie haben bis jetzt am Rand gestanden, unsichtbar für die Thalassier. Als Sorel sich bewegt, reagieren sie. **Sehr schnell.**
 
-**Was geschieht:** Drei Schemen stürzen auf Sorel. Nicht auf einmal — in einer Bruchteilssekunden-Folge. Einer trifft seine Schulter, einer seine Hüfte, einer seinen Hals. Sein Körper wird **umgeworfen** vor der eigentlichen Kampfhandlung. Er schlägt auf die Steinplatten. Er versucht aufzustehen. Ein vierter Schem ist über ihm.
+**Was geschieht:** Drei Schemen stürzen auf Sorel. Nicht auf einmal — in einer Bruchteilssekunden-Folge. Einer trifft seine Schulter, einer seine Hüfte, einer seinen Hals. Sein Körper wird **umgeworfen** vor der eigentlichen Kampfhandlung. Er schlägt auf die Steinplatten. Er versucht aufzustehen. Ein vierter Schemen ist über ihm.
 
 **Varens Bindung trifft dazu.** Varen hatte sie auf Alphina gerichtet. Als Sorel sich dazwischen wirft, wechselt Varen das Ziel — zu spät. Die Bindung trifft Sorels Resonanz. **Seine Licht-Resonanz reißt aus ihm.** Bilder explodieren um seinen Körper herum — Momente seines Lebens, die seine Augen gesehen haben, werden als Licht freigesetzt. Alphina im Garten. Ein Verband an seiner Hand. Eine Platte in der Dunkelkammer. Sein Vater. Die Grauwe. Die Momente verpuffen in Millisekunden, eine Lichtsäule aus Sorels Leben.
 
@@ -233,9 +233,9 @@ Maren ist Wasser/Fluss — Raummanipulation, nicht Zeit. Nach der Regel kann sie
 
 **Die Elemente (in ungefährer Reihenfolge):**
 
-1. **Durchwuchs.** Eine pechschwarze Wurzel wächst durch den nächsten Schem hindurch, knackt ihn wie Glas. Aus den Bruchstellen quellen blutrote Blüten, so dunkel dass sie fast schwarz sind — geronnenes Blut, das Blütenform annimmt.
+1. **Durchwuchs.** Eine pechschwarze Wurzel wächst durch den nächsten Schemen hindurch, knackt ihn wie Glas. Aus den Bruchstellen quellen blutrote Blüten, so dunkel dass sie fast schwarz sind — geronnenes Blut, das Blütenform annimmt.
 
-2. **Zellteilung umkehrt sich.** Ein anderer Schem zerfällt in seine Schatten-Zellen, jede wird von einem schwarzen Wurzelhaar durchbohrt. 10.000 winzige Nadelstiche gleichzeitig. Der Schem ist Staub.
+2. **Zellteilung umkehrt sich.** Ein anderer Schemen zerfällt in seine Schatten-Zellen, jede wird von einem schwarzen Wurzelhaar durchbohrt. 10.000 winzige Nadelstiche gleichzeitig. Der Schemen ist Staub.
 
 3. **Wurzelgreifer aus dem Boden.** Finger aus pechschwarzen Wurzeln kommen aus der Erde und ziehen Schemen nach unten. Die Steinplatten des Moragh-Steinplatzes brechen auf. Die Erde öffnet sich in purpurroten Spalten und frisst die Schemen.
 
@@ -245,7 +245,7 @@ Maren ist Wasser/Fluss — Raummanipulation, nicht Zeit. Nach der Regel kann sie
 
 6. **Die anderen drei sehen es.** Vesper, Maren, Runa stehen am Rand. Varens Bindung hat sie losgelassen, weil seine Konzentration gebrochen ist — aber sie können sich nicht bewegen, weil sie zu schockiert sind. Keiner von ihnen greift helfend ein. Sie sind **Zeugen**, nicht Kämpfer. Sie werden verletzt — Dornen reißen Marens Wade auf, eine Wurzel trifft Vespers Schulter, Brombeeren schneiden Runas Unterarme. Sie zucken, schreien, aber greifen nicht ein.
 
-7. **Varen flieht.** Nicht würdevoll. Erschöpft. Seine Magie ist zyklisch — sie kostet seinen Körper, sein Reservoir, seine Konzentration. Alphinas Magie ist azyklisch — sie kostet nichts, weil sie aus Wut gespeist wird, und Wut ist unerschöpflich. Ein Moragh-Meister gegen eine Thalassier-Anfängerin, und sie zermalmt ihn weil ihre Wut nicht erschöpflich ist. Er zieht sich hinter die letzten stehenden Schemen zurück, spuckt Blut (die Bindung schlägt auf ihn zurück), und flüstert auf Thalassisch: **"Wir sehen uns nicht das letzte Mal."** Dann ist er weg — ein Schem hat ihn auf die andere Seite des Steinplatzes gezogen, oder er ist selbst gerannt, oder er hat sich in die Dunkelheit fallen lassen. Die Leserin weiß es nicht genau. Sie sieht nur, dass er weg ist.
+7. **Varen flieht.** Nicht würdevoll. Erschöpft. Seine Magie ist zyklisch — sie kostet seinen Körper, sein Reservoir, seine Konzentration. Alphinas Magie ist azyklisch — sie kostet nichts, weil sie aus Wut gespeist wird, und Wut ist unerschöpflich. Ein Moragh-Meister gegen eine Thalassier-Anfängerin, und sie zermalmt ihn weil ihre Wut nicht erschöpflich ist. Er zieht sich hinter die letzten stehenden Schemen zurück, spuckt Blut (die Bindung schlägt auf ihn zurück), und flüstert auf Thalassisch: **"Wir sehen uns nicht das letzte Mal."** Dann ist er weg — ein Schemen hat ihn auf die andere Seite des Steinplatzes gezogen, oder er ist selbst gerannt, oder er hat sich in die Dunkelheit fallen lassen. Die Leserin weiß es nicht genau. Sie sieht nur, dass er weg ist.
 
 8. **Der Preis.** Alphina sackt zusammen. Jetzt erst. Ihre Knie auf dem Stein, ihre Hände in der aufgerissenen Erde. Aus allen schwarzen Wurzeln, die sie erschaffen hat, fallen die schwarzen und purpurnen Blüten ab und der Boden nimmt sie auf. **Alles was sie gewachsen hat, stirbt in dem Moment wo sie aufhört.** Die Wurzeln verdorren. Der Dschungel verschwindet. Nach einer Minute ist der Steinplatz wieder nackt — aufgebrochen, aber nackt.
 

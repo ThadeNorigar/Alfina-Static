@@ -39,8 +39,14 @@
 - Wer zahlt den Preis: Moragh-Geborene zahlen mit dem Körper (Müdigkeit wie Sport); Thalassier zahlen KEINEN persönlichen Preis — das ist der Konflikt.
 - Sichtbarkeit in Buch 1: King-Niveau — subtil, ambivalent; die Leserin zweifelt bis Akt III; könnte Zufall sein.
 - Resonanz-Modi:
-  - Geben (aktiv) — formt Material dauerhaft (Vesper legt Takt ins Uhrwerk; Alphina gibt Farnen Wachstumsform)
+  - Geben (aktiv) — formt Material dauerhaft (Vesper legt Takt ins Uhrwerk; Alphina gibt Pflanzen Wachstumsform)
   - Hören (passiv) — Puls im Stein spüren, Muster wahrnehmen, ohne einzugreifen
+- Resonanz-Profile B1 (nach 5 Monaten Training, Kapitel 28+):
+  - **Alphina (Pflanzen):** alle Pflanzen, nicht nur Farne. Wachstum lenken, Form geben, kleine Heilung an Wunden (Wundheilung über Pflanzen-Substrate). Sucht aktiv Moragh-Pflanzen in Vael, analysiert sie wissenschaftlich. **Sprachbegabt** — versteht Moragh-Sprache aus Harons Wörterbuch als einzige der Vier richtig (die anderen kommen über Grundbestand nicht hinaus). Mentorat bei Halvard (Medizin) — sie hilft heilen, er gibt ihr ärztliches Handwerk zurück.
+  - **Sorel (Licht):** hat das Fotografieren aufgegeben — sah es als nutzlos, seit er Licht direkt formen kann. Restlicht verstärken (Keller ohne Lampe sehen), Licht weglenken (Räume verdunkeln), Licht bündeln als Brennglas (Kerzen entzünden, kleine Flammen). Liefert die Beleuchtung für die Gruppe, wenn nötig. Verbote bleiben (kein Röntgen, kein UV/IR, kein Licht aus dem Nichts, in Dunkelheit blind).
+  - **Vesper (Zeit):** nicht nur Uhrwerk-Drift. Lokale Zeit-Manipulation — Dinge fallen verlangsamen, andere beschleunigen. Kann ein Uhrwerk in Zeitlupe versetzen für hochpräzise Justierung. Kann Material altern lassen (Obst beginnt zu schimmeln, Metall in Wasser rostet in Minuten). Setzt Zeit-Resonanz später in V/M-Sessions ein — sehr langsame Bewegungen, sehr lange Berührungen.
+  - **Maren (Wasser):** erhitzt und friert Wasser ein (kühle Getränke im Hochsommer). Formt Wasser leicht — kann aus einer Teetasse das Wasser als Säule aufsteigen lassen. Manipuliert Nebeltropfen — Nebel vor sich lichten oder an anderer Stelle verdichten. Spürt Gezeiten-/Strömungs-Anomalien.
+  - **Runa (Feuer/Hitze, ab K31 öffentlich):** Hände immer warm. Verformt Blei, schmilzt Wachs. Eigene Haut immun gegen eigenes Feuer. Stufe 1-2 in B1, kommt in B2/B3 zur Vollform.
 - Verbote (was geht NICHT):
   - Kein Strom, keine Elektrik in Buch 1
   - Magie kommt aus der Umgebung, nicht aus dem Körper (Alphina wachsen keine Pflanzen aus den Händen)

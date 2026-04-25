@@ -1597,7 +1597,7 @@
       ],
       "tags": [
         "Tschechow: Lene Dahls Bericht (2 verschwunden, 1 getötet, 1 überlebt)",
-        "Tschechow: Ritual-Papier mit Schem-Fingerabdrücken (Varen hat es platziert)",
+        "Tschechow: Ritual-Papier mit Schemen-Fingerabdrücken (Varen hat es platziert)",
         "Tschechow: Harons Moragh-Wörterbuch",
         "Manuskript teilweise gefälscht (Varens Überschreibungen)"
       ],
@@ -1705,8 +1705,8 @@
       "buch": "B1",
       "kapitel": "29",
       "leseart": "normal",
-      "titel": "Sorel meistert Licht — Schem im Schatten sichtbar",
-      "detail": "Sorel entdeckt seine volle Licht-Fähigkeit. Er kann einen Lichtstrahl durch ein Loch in ein Prisma auffächern, zu einem Brennpunkt bündeln, den Raum abdunkeln oder heller machen. Schockmoment: Er macht den Raum heller — und sieht im Schatten einen verborgenen Schem sitzen. Sie werden die ganze Zeit beobachtet. [Offen: Ort, ob Alphina dabei, Reaktion des Schem, Fluchtdynamik, ob privat A+S oder öffentlich zur Gruppe.]",
+      "titel": "Sorel meistert Licht — Schemen im Schatten sichtbar",
+      "detail": "Sorel entdeckt seine volle Licht-Fähigkeit. Er kann einen Lichtstrahl durch ein Loch in ein Prisma auffächern, zu einem Brennpunkt bündeln, den Raum abdunkeln oder heller machen. Schockmoment: Er macht den Raum heller — und sieht im Schatten einen verborgenen Schemen sitzen. Sie werden die ganze Zeit beobachtet. [Offen: Ort, ob Alphina dabei, Reaktion des Schemen, Fluchtdynamik, ob privat A+S oder öffentlich zur Gruppe.]",
       "typen": [
         "resonanz",
         "erkenntnis",
@@ -1739,7 +1739,7 @@
         "Tschechow: Sorels Schwur, Alphina zu schützen (feuert K35)",
         "Erste große Schemen-Offensive, orchestriert von Varen (verborgen)",
         "Sorel nutzt Licht-Magie im Kampf (aktive Anwendung nach K29-Meisterung)",
-        "Eskalationspunkt nach K29 Schem-Entdeckung"
+        "Eskalationspunkt nach K29 Schemen-Entdeckung"
       ],
       "kapitel_status": "szenenplan"
     },
@@ -1753,7 +1753,7 @@
       "kapitel": "31",
       "leseart": "normal",
       "titel": "Schemen-Angriff am Tag — Runas Hände glühen, Feuer-Resonanz entdeckt",
-      "detail": "Ein Schem tötet einen Händler am Hafen — am helllichten Tag. Thar-Schemen, Metallgeruch, andere Fraktion als Varen. Runa steht neben Alphina. Ihre Hände glühen buchstaeblich, Brandfleck auf dem Holz. 'Runa. Deine Hände.' Feuer-Resonanz entdeckt. Alphina weiß: nicht vier — fünf.",
+      "detail": "Ein Schemen tötet einen Händler am Hafen — am helllichten Tag. Thar-Schemen, Metallgeruch, andere Fraktion als Varen. Runa steht neben Alphina. Ihre Hände glühen buchstaeblich, Brandfleck auf dem Holz. 'Runa. Deine Hände.' Feuer-Resonanz entdeckt. Alphina weiß: nicht vier — fünf.",
       "typen": [
         "erkenntnis",
         "tschechow"

@@ -34,7 +34,7 @@
   - **Alphina** war seit dem Glutmond knapper geworden. Beim Tee fragte sie nach Marens Werft, nach dem Hafen-Geschäft, nach den Patrouillen — Fragen, die nicht Alphina-Fragen waren. Sie hatte Botaniker-Augen, aber ihre Fragen waren von jemandem, der wissen wollte, wo sich was versammelte.
   - **Maren** war zweimal hier gewesen, einmal allein, einmal mit Vesper, der seit dem Glutmond bei ihr in der Hafengasse-Wohnung wohnt (in der Druckerei wussten die zwei Gesellen das vom Hafenmeister-Eintrag, Runa hatte beim Drucken der Quartalsliste den Namenszug gesehen). Beim zweiten Druckerei-Besuch hatte Maren gesagt, *„Vesper und ich arbeiten an einer Übersetzung"*, und sie hatten Bleilettern für eine Tafel bestellt — fremde Zeichen, sechs verschiedene, Runa hatte sie nach Anweisung gegossen, ohne Bedeutung. Sie hatte nicht gefragt, was die Zeichen waren. Maren hatte nicht erklärt.
   - **Sorel** war zweimal in der Hafengasse gewesen, abends, mit der Kamera-Tasche. Sie hatte ihn von ihrem Schlafzimmer-Fenster gesehen. Sorel arbeitet im Lichthaus-Keller, das war Canon. Was tat er nachts in der Hafengasse?
-  - **Vesper** war im Erntemond einmal hier gewesen. Hatte Schem-Geschichten gesammelt — als „Volkskunde-Material", hatte er gesagt, er sammele für ein Manuskript. Seine Augen waren nicht Volkskunde-Augen.
+  - **Vesper** war im Erntemond einmal hier gewesen. Hatte Schemen-Geschichten gesammelt — als „Volkskunde-Material", hatte er gesagt, er sammele für ein Manuskript. Seine Augen waren nicht Volkskunde-Augen.
   - **Esther und Jara** waren seit Wochen zusammen in der Druckerei gewesen, wenn sie Sprachbücher abholten — die zwei waren gemeinsam nervös, in einer Art, die Runa nicht zu Esthers Geduldsregister gepasst hatte.
   - **Die eigenen Flugblätter.** Drei Folgen *„Die Geister von Vael — was sie wollen"*, gedruckt im Glutmond, Erntemond, Herbstmond. Sie hatte die Geschichten gesammelt aus den Kunden — der Fischer, der drei Schiffe von Achterland verschwunden meldete, die Wäscherin mit der Verbrennung am Fußrist, der Junge mit den versengten Haaren am Nacken. Sie hatte gedruckt, weil es ihre Arbeit war. Sie hatte nicht zusammengesetzt, dass sie ihre eigene Welt kartografierte.
 - **Erkenntnis 1:** Sie hatte alles gesehen. Sie hatte es nicht zusammengesetzt, weil sie nicht wollte.
@@ -47,7 +47,7 @@
 - *Runa erfährt (rückwärts):* Sie hat alles gesehen, alles bemerkt — nichts zusammengesetzt. Ihre Verdrängung bricht jetzt rückwirkend.
 - *Runa erfährt (Schutz-Motiv):* Die Vier haben sie nicht eingeweiht, weil sie sie schützen wollten. Sie ist nicht verletzt — sie ist in einer zugehörigen Stelle.
 - *Runa-Canon-Beat (neu):* Eigene Haut immun gegen eigenes Feuer. Sie zündet mit den Fingern den Docht — keine Verbrennung. Dossier-Canon (POV-Dossier B2: „Eigene Haut immun") hier zum ersten Mal in B1 sichtbar.
-- *Runa-Verdacht (offen, nicht aufgelöst):* Marens Bleilettern-Bestellung mit fremden Zeichen war auffällig. Sorels nächtliche Hafengasse-Spaziergänge passten nicht zu seinem Lichthaus-Keller. Vespers „Volkskunde"-Fragen klangen nicht volkskundlich. Runa registriert die Auffälligkeiten, ohne sie zu deuten — die Deutung kommt erst in Sz2 nach Alphinas Erklärung (Schem-Recherche / Resonanz-Training / Sprach-Arbeit). Sorel-Prinzip: Runa weiß in Sz1 nur, *dass* etwas seltsam war, nicht *was*.
+- *Runa-Verdacht (offen, nicht aufgelöst):* Marens Bleilettern-Bestellung mit fremden Zeichen war auffällig. Sorels nächtliche Hafengasse-Spaziergänge passten nicht zu seinem Lichthaus-Keller. Vespers „Volkskunde"-Fragen klangen nicht volkskundlich. Runa registriert die Auffälligkeiten, ohne sie zu deuten — die Deutung kommt erst in Sz2 nach Alphinas Erklärung (Schemen-Recherche / Resonanz-Training / Sprach-Arbeit). Sorel-Prinzip: Runa weiß in Sz1 nur, *dass* etwas seltsam war, nicht *was*.
 
 **Tschechow-Waffen geladen Sz1:**
 - **Der Brandfleck am Setzkasten** — Tschechow für K34 (Aktplan: *„Sie fasst einen Bleilettern-Block, und er wird weich unter ihren Fingern."*) und Buch 2 (Runas Feuer-Stufe-Progression).
@@ -135,7 +135,7 @@
 - **POV-Dossier-Canon (Runa-Klarsicht)** — *„Es ist nicht einfach. Es ist klar."* — die Klarsicht wird hier zum ersten Mal in B1 explizit benannt. Feuert in B3 mit ihrem Schlüsselsatz *„Ich glaube dir nicht."*
 
 **Cross-POV-Ankerpunkte Sz2:**
-- **K31 (Alphina-POV):** Heutiger Tag aus Alphina-Sicht — Schem-Angriff, Runas Hände glühen, „Runa. Deine Hände." Hier aus Runa-POV nachverarbeitet, ohne K31-Sätze zu wiederholen.
+- **K31 (Alphina-POV):** Heutiger Tag aus Alphina-Sicht — Schemen-Angriff, Runas Hände glühen, „Runa. Deine Hände." Hier aus Runa-POV nachverarbeitet, ohne K31-Sätze zu wiederholen.
 - **K22 (Alphina-POV):** Alphinas Pflanzen-Kanon nicht wiederholt — Runa hat keine Pflanzen-Erfahrung selbst.
 - **K28 (Maren-POV):** Cross-POV — Maren erwähnt in K28 Sz3 *„Edric oder Runa schicken — anonym, über Umwege"*. Aus Runa-POV in K32 nicht aktiv (Maren hat Runa nicht als Botin geschickt — die K28-Erwähnung war hypothetisch). Kein Konflikt.
 - **K25 (Alphina-POV, Runa-Papier-Brand):** Hier von Alphina explizit zitiert, von Runa rückwärts nachvollzogen. Cross-POV-Schließung.
@@ -195,10 +195,10 @@
 
 ### Was weiß Runa am Anfang?
 
-- **Aus K31 (heute Mittag):** Sie hat eine Resonanz (Feuer/Wärme). Alphina hat ihre Hände sehen und sie benennen können. Es gab ein toter Händler am Marktplatz, ein Schem mit Metallgeruch am Hafen — beides öffentlich.
+- **Aus K31 (heute Mittag):** Sie hat eine Resonanz (Feuer/Wärme). Alphina hat ihre Hände sehen und sie benennen können. Es gab ein toter Händler am Marktplatz, ein Schemen mit Metallgeruch am Hafen — beides öffentlich.
 - **Vor K31:** Sie hat unbewusst Wärme an den Händen. Bleilettern werden weicher. Alphinas Arm bei Berührung *„deine Hände brennen"* — Antwort *„ich war am Ofen"* (Verdrängung).
 - **K25 (vergangen):** Papier auf ihrem Tisch hat gebrannt, sie hat es weggedrückt — nicht eingeordnet als Eigen-Wärme.
-- **Aus den letzten Monaten:** Beobachtungen — Alphina nervös, Maren mit Vesper an „Übersetzung", Sorel in der Hafengasse, Vesper bei ihr in der Druckerei mit Schem-Fragen, Esther/Jara nervös, eigene Flugblätter über *„Geister von Vael"*.
+- **Aus den letzten Monaten:** Beobachtungen — Alphina nervös, Maren mit Vesper an „Übersetzung", Sorel in der Hafengasse, Vesper bei ihr in der Druckerei mit Schemen-Fragen, Esther/Jara nervös, eigene Flugblätter über *„Geister von Vael"*.
 - **Vom Wachstum der Stadt-Unruhe (Zeitsprung-Hintergrund):** Erste Familien gehen, Patrouillen seit wenigen Tagen, brennende Häuser ohne Feuer, süß-dichter Geruch. Sie hat alles gesehen, auch wenn die anderen das nicht wussten.
 
 ### Was weiß Runa am Ende?

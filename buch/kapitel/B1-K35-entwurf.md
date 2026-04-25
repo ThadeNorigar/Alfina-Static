@@ -148,8 +148,10 @@
 
 **Beats (sachliches Exposé, Maren-POV mit zwei Vesper-POV-Wechseln):**
 
+- **[Canon-Hinweis Vesper-Zeit-Resonanz in Sessions seit Glutmond]:** Vesper hat seine Zeit-Resonanz in den letzten Monaten in V/M-Sessions integriert — sehr langsame Bewegungen, sehr lange Atemzüge, Berührungen die fünfmal länger dauern als sie sollten. Er macht das nicht jedes Mal; heute Nacht setzt er es ein. Maren weiß es, ohne dass er es benennen muss.
+
 - Vesper begann nicht mit den Genitalien. Er begann am Hals.
-- Sie hörte ihn — er beugte sich über sie, der Atem an ihrem Ohr, dann seine Lippen am Hals, an der Halsschlagader, an dem Punkt, wo sein Daumen einmal in K19 gelegen hatte (vor einem halben Jahr, mit einem Verband-Vorwand). Heute kein Vorwand. Er küsste sie nicht — er legte die Lippen auf, einen Atemzug lang, hob sie ab. Ein zweiter Atemzug, weiter unten am Schlüsselbein. Ein dritter über dem Brustbein. Er bewegte sich systematisch.
+- Sie hörte ihn — er beugte sich über sie, der Atem an ihrem Ohr, dann seine Lippen am Hals, an der Halsschlagader, an dem Punkt, wo sein Daumen einmal in K19 gelegen hatte (vor einem halben Jahr, mit einem Verband-Vorwand). Heute kein Vorwand. Er küsste sie nicht — er legte die Lippen auf, einen Atemzug lang, hob sie ab. Ein zweiter Atemzug, weiter unten am Schlüsselbein. Ein dritter über dem Brustbein. Er bewegte sich systematisch — und langsam, langsamer als ein menschlicher Atem es geben würde. Maren spürte, dass er heute Nacht seine Zeit-Resonanz in die Berührung legte: jeder Kontakt dehnte sich, jeder Übergang dauerte fünf Atemzüge statt einen. Sein Daumen, der die Halsschlagader fand, lag dort eine ganze Pendel-Schwingung lang, bevor er weiter wanderte.
 - Brustwarzen — Mund. Erst die linke, dann die rechte. Er nahm sie zwischen die Lippen, zog sie minimal, ließ los. Ihre Brustwarzen, schon hart von der Luft, wurden härter. Sie hörte sich selbst — ein leiser Atem, der zu lang wurde.
 - *„Atme normal. Heute lasse ich dich nichts halten, du musst nichts tragen."* — Vespers Stimme nah, ruhig, als würde er ihr eine Werkstatt-Anweisung geben.
 - Maren atmete. Es war schwer.

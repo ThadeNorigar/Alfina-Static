@@ -48,7 +48,7 @@ Satzlänge bis ~50 Wörter, Bandwürmer erlaubt. Rhythmus: Stille + Beobachtung.
 
 **Stufen der Bewusstheit:**
 - **Seit Nachtholm (13 Jahre vor Buch 1):** unbewusst eingesetzt. Die zerbrochene Platte aus der Kellerschublade ist der erste dokumentierte Beweis.
-- **K10:** erste deutliche Manifestation in Vael (Katzen-Schem-Angriff, Handrücken-Verbrennung).
+- **K10:** erste deutliche Manifestation in Vael (Katzen-Schemen-Angriff, Handrücken-Verbrennung).
 - **K13:** er entwickelt eine Platte mit Alphina am Hafen, aus einem Winkel den keine Kamera eingenommen haben kann, mit einem Farn im Hintergrund, der dort nicht wachsen kann. Er weiß, dass etwas nicht stimmt, weigert sich aber, die einzige Erklärung anzusehen.
 - **K16:** die Erkenntnis sackt durch. Er versteht die Mechanik bewusst, erkennt rückwirkend alle früheren Platten. Seit Jahren, nicht neu.
 - **K19:** erste **bewusste** Licht-Manipulation in der Erzählung. Mondlicht/Nachmittagssonne gebündelt auf die Schulter des Wächter-Schemens — wird geschluckt. Er lernt: magische Wesen absorbieren Licht.

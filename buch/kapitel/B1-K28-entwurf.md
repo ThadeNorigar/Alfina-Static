@@ -58,6 +58,7 @@
 - *Die offene Nebentür* ist Canon-Anker für K29 (Sorel im Kreis; derselbe Eingang).
 
 **Tschechow-Waffen geladen:**
+- **Marens Nebel-Manipulation auf dem Hinweg** — sie hat in den letzten Monaten gelernt, Nebeltropfen zu lichten oder zu verdichten. Übt es einmal kurz an einer dichten Stelle (Hafengasse-Ausgang) — Hand hebt, Nebel öffnet sich vor ihr in einer kleinen Bahn, drei Schritte, Hand sinkt, Nebel schließt wieder. Routinierte Geste, halb unbewusst. Tschechow für K34/K37 (Wasser-Resonanz im Ritual unter Hochstress).
 - **Die Messinglaterne mit Sprung im rechten Glas** — feuert in Sz3 als Identifikator der Leiche.
 - **Die Pistole (vermutete) in der Gürteltasche** — Tschechow-Beat: die Bewaffnung der Nachtwache half ihm nicht. Feuert implizit in Sz3 (die Tasche ist offen, vielleicht hat er die Waffe gezogen, fehlt dann in der Leiche — oder sie ist noch drin ungenutzt; Autor-Detail).
 - **Die offene Nebentür am Gärtnerhaus** — Tschechow für K29 (Sorel kommt denselben Weg).
@@ -70,7 +71,7 @@
 **Tschechow-Waffen abgefeuert:**
 - **Das Pochen in Marens Brustkorb (K27 Sz2)** — fünf Monate getragen, heute zum ersten Mal als Kompass aktiv.
 - **Marens weggedrücktes Körper-Wissen um die Wasser-Resonanz (K08/K22)** — hier aktiv gewandelt: sie hat in fünf Monaten Wasser *gesteuert*, aber nie *gehört*. Heute hört sie.
-- **K24 Schem-Fingerabdrücke** — der süß-dichte Geruch ist die Signatur derselben Kategorie; Maren zieht die Verbindung nicht laut, aber der Leser kann.
+- **K24 Schemen-Fingerabdrücke** — der süß-dichte Geruch ist die Signatur derselben Kategorie; Maren zieht die Verbindung nicht laut, aber der Leser kann.
 
 **Cross-POV-Ankerpunkte:**
 - **K27 (Maren-POV, Sz2):** Das Pochen als Innen-Ereignis — hier als Außen-Ereignis. Eigene Körpergeographie (Werftboden, Schulter an Haustür, barfuß in Nebelgassen).
@@ -194,7 +195,7 @@
 
 **Tschechow-Waffen geladen:**
 - **Der süß-dichte Geruch als Stadt-Signatur** — feuert in K31 (Marktplatz-Wiedererkennung), B2 (Moragh-Geruch-Wiedererkennung für Maren).
-- **Der Tote ohne Wunde, Pistole nicht gezogen** — Canon für Schem-Tötungs-Signatur (überraschend, kein Kampf möglich).
+- **Der Tote ohne Wunde, Pistole nicht gezogen** — Canon für Schemen-Tötungs-Signatur (überraschend, kein Kampf möglich).
 - **Marens Entschluss zu anonymem-Hinweis** — Tschechow für K29/K30 (Bote) oder Schuld-Last in B2/B3.
 - **Marens Gedächtnis-Merkung der Hausposition** — Tschechow für mögliche Gruppen-Rückkehr.
 - **Marens erster abgeschlossener Wohnungstür-Abend** — Tschechow für Akt III.
@@ -204,14 +205,14 @@
 - **Laterne mit Sprung (Sz1)** — Leichen-Identifikator.
 - **Schemen-Grenze (Sz2)** — Rettungs-Rechtfertigung.
 - **Das Pochen** — sättigend.
-- **K24 Schem-Fingerabdruck-Register** — der süß-dichte Geruch ist die olfaktorische Entsprechung.
+- **K24 Schemen-Fingerabdruck-Register** — der süß-dichte Geruch ist die olfaktorische Entsprechung.
 - **Der Südost-Stadt-Rauchgeruch aus Sz1-Opener** — in Sz3 als Leichen-Geruch wiedererkannt.
 
 **Cross-POV-Ankerpunkte:**
 - **K27-Schluss:** Maren schläft, Vesper arbeitet. K28-Schluss: Maren liegt wach bis zum Morgen, allein. Bewusster Kontrast.
 - **K29/K30:** Nebentür, warmer Boden, Schemen-Grenze, Nebel-Bruch.
 - **K31 (Alphina-POV, Marktplatz):** Der süß-dichte Geruch ist Ensemble-Anker — wenn Alphina ihn in K31 am Marktplatz riecht, erinnert sie sich an Marens Erzählung aus K29.
-- **K24 (gemeinsame Archiv-Szene):** Schem-Fingerabdrücke als Canon-Echo.
+- **K24 (gemeinsame Archiv-Szene):** Schemen-Fingerabdrücke als Canon-Echo.
 
 ---
 
@@ -223,8 +224,8 @@
 - **Aus fünf Monaten V/M (Zeitsprung-Hintergrund, Autor-Input „eingespielt"):** Maren und Vesper haben eingespielte BDSM-Grammatik. Schachfigur inzwischen an Maren übergeben (Übergabe-Moment offen). Wörterbuch substantiell fortgeschritten (Dutzende Wörter, Jara/Esther helfen).
 - **Aus fünf Monaten Magie-Training (Zeitsprung-Hintergrund):** Maren steuert Wasser bewusst — kleine Tests, geheim. Kein körperlicher Preis.
 - **Aus fünf Monaten Vael-Unruhe (Zeitsprung-Hintergrund):** Zwei größere unerklärliche Vorfälle in den letzten Monaten (Seilerei Mert brannte im Glutmond ohne Feuer, ein Händler verschwand im Herbstmond am Hafen). Erste Einzelfamilien verlassen die Stadt (nicht Karrenkolonnen). Militärpatrouillen seit wenigen Tagen. Süß-dichter Rauchgeruch aus Südost seit drei, vier Nächten — neu. Edric pfeift in der letzten Woche nicht mehr. Aufträge etwas ruhiger. Das Kippen beginnt gerade; K28 ist der erste, der es direkt spürt.
-- **Aus K26:** Halvards vier Patienten mit Schem-Fingerabdrücken.
-- **Aus K24:** Lenes Skizze, Schem-Fingerabdrücke auf Harons Blatt.
+- **Aus K26:** Halvards vier Patienten mit Schemen-Fingerabdrücken.
+- **Aus K24:** Lenes Skizze, Schemen-Fingerabdrücke auf Harons Blatt.
 - **Aus K20:** Haron kam mit 16 nach Vael, Adoptivsohn. Ritual-Diagramm war seine Handschrift.
 
 ### Was weiß Maren am Ende?
