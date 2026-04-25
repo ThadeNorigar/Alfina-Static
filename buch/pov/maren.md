@@ -20,7 +20,11 @@ reihenfolge: 85
 
 ## Berufslinse
 
-Schiffbauerin. Sie denkt in Kiel, Spant, Planke, Kimm, Lärche, Eiche, Dampfgebogen, Leinöl, Hobel, Stechbeitel, Schleifstaub, Pech, Zwingen. Holz hat Handschrift — Maserung, Jahresringe, Knoten. Wasser ist Gegenspieler: Strömung, Auftrieb, Wellengang, Gezeiten. Eine Planke "sitzt" oder "gibt nach". Sie beurteilt Hände an Hornhaut und Schnittwunden. Wer keine Schwielen hat, hat das Handwerk nicht gelernt.
+Schiffbauerin. Holz hat Handschrift — Maserung, Jahresringe, Knoten. Sie tastet, bevor sie bewertet. Wasser ist Gegenspieler: Strömung, Auftrieb, Wellengang, Gezeiten. Eine Planke „sitzt" oder „gibt nach". Sie beurteilt Hände an Hornhaut und Schnittwunden. Wer keine Schwielen hat, hat das Handwerk nicht gelernt.
+
+**Verfügbares Fachregister (seltener Akzent, kein Pflichtvokabular):** Kiel, Spant, Planke, Kimm, Lärche, Eiche, Dampfgebogen, Leinöl, Hobel, Stechbeitel, Schleifstaub, Pech, Zwingen.
+
+**Tick-Schranke (Handlung > Vokabular):** Die Linse trägt sich primär durch Gewohnheiten und Denkrichtung — Daumen am Holz, Bleistift in der Schürzentasche, sie wartet bis der andere fertig erzählt hat. Max **ein Fachbegriff pro Kapitel**, **kein Begriff zweimal**. Test: Streich den Begriff. Liest sich der Satz noch nach Maren? Wenn ja, Begriff raus. (Memory: `feedback_berufslinse_max_10_prozent.md`)
 
 ## Körper-Leitmotiv
 

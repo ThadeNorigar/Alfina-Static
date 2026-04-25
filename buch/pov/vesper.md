@@ -18,7 +18,11 @@ reihenfolge: 90
 
 ## Berufslinse
 
-Uhrmacher aus Karst. Welt erscheint als: **Toleranz, Passung, Eingriff, Abweichung, Hemmung, Federspannung, Ankerrad, Unruh, Krone, Welle.** Diagnosen in Sekunden — Knick am dritten Bogen, trockenes Lager, Grad der Abweichung. Muster vor Bedeutung: sortiert Zahlen in Gruppen, zeichnet Bögen, findet Mittelpunkte. Wenn etwas nicht stimmt, sucht er den Systemfehler, nicht die Schuld. Alles ist erklärbar. Alles hängt zusammen.
+Uhrmacher aus Karst. Welt erscheint als Diagnose in Sekunden — Knick am dritten Bogen, trockenes Lager, Grad der Abweichung. Muster vor Bedeutung: sortiert Zahlen in Gruppen, zeichnet Bögen, findet Mittelpunkte. Wenn etwas nicht stimmt, sucht er den Systemfehler, nicht die Schuld. Alles ist erklärbar. Alles hängt zusammen.
+
+**Verfügbares Fachregister (seltener Akzent, kein Pflichtvokabular):** Toleranz, Passung, Eingriff, Abweichung, Hemmung, Federspannung, Ankerrad, Unruh, Krone, Welle.
+
+**Tick-Schranke (Handlung > Vokabular):** Die Linse trägt sich primär durch Gewohnheiten und Denkrichtung — Notizbuch, Daumen-Diagnose, Schraubendreher in der Tasche, Pause vor der Antwort. Max **ein Fachbegriff pro Kapitel**, **kein Begriff zweimal**. Test: Streich den Begriff. Liest sich der Satz noch nach Vesper? Wenn ja, Begriff raus. (Memory: `feedback_berufslinse_max_10_prozent.md`)
 
 ## Körper-Leitmotiv
 

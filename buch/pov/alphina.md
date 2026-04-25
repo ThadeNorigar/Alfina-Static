@@ -20,7 +20,11 @@ reihenfolge: 100
 
 ## Berufslinse
 
-Botanikerin. Welt erscheint als: Wachstum, Wurzeln, Druck, Risse, Verwitterung. Sie sieht Rhizome die Beton durchbrechen, nennt Farne beim Gattungsname (*Asplenium nidus*, *Reynoutria japonica*), misst Bewurzelung — vier weiße Fäden, fest, reif. Purpurstein interessiert sie als Substrat (Kalk, Feuchtigkeit, Spaltenbreite). Gerüche gehen durch Chlorophyll: Lavendelduft auf der Haut, ein vierter Geruch im Garten den sie nicht benennen kann — süß, nicht Obst, nicht Honig. Zahlen: siebenundzwanzig Farne, zwölf Stecklinge die warten, sechs Wochen und zwei Tage.
+Botanikerin. Welt erscheint als Wachstum, Wurzeln, Druck, Risse, Verwitterung. Sie sieht Rhizome, die Beton durchbrechen, misst Bewurzelung — vier weiße Fäden, fest, reif. Purpurstein interessiert sie als Substrat (Kalk, Feuchtigkeit, Spaltenbreite). Gerüche gehen durch Chlorophyll: Lavendelduft auf der Haut, ein vierter Geruch im Garten, den sie nicht benennen kann — süß, nicht Obst, nicht Honig. Zahlen: siebenundzwanzig Farne, zwölf Stecklinge die warten, sechs Wochen und zwei Tage.
+
+**Verfügbares Fachregister (seltener Akzent, kein Pflichtvokabular):** Rhizom, Substrat, Bewurzelung, Spaltenbreite, Chlorophyll, Anthocyan, Steckling, Wedel; lateinische Gattungsnamen (*Asplenium nidus*, *Reynoutria japonica*) nur, wenn sie tatsächlich am Tisch oder im Garten arbeitet.
+
+**Tick-Schranke (Handlung > Vokabular):** Die Linse trägt sich primär durch Gewohnheiten und Denkrichtung — Knie auf Erde, Hand am Wedel, sie zählt Pflanzen, sie greift bevor sie spricht. Max **ein Fachbegriff pro Kapitel**, **kein Begriff zweimal**. Test: Streich den Begriff. Liest sich der Satz noch nach Alphina? Wenn ja, Begriff raus. (Memory: `feedback_berufslinse_max_10_prozent.md`)
 
 ## Körper-Leitmotiv
 

@@ -241,7 +241,7 @@ Früher war hier eine strenge Default-Deny-Tabelle. Für commercial Dark Romanta
 | Erklärende Nachsätze („weil...") | Ok wenn funktional | Nicht mechanisch gegen jeden verbieten. Kausalität macht Satzbau flüssig. |
 | Kursive Gedanken | ~10 pro Kapitel | Commercial Dark Romantasy nutzt direkte kursive Gedanken häufiger als literary Referenz. |
 | Puls als Begehren-Marker | Vermeiden, nicht verboten | Klischee-Warnung, aber wenn der Puls trägt, darf er vorkommen. |
-| Berufslinse-Anteil pro POV | 15–20% | Figur darf ihre Linse aktiv tragen, nicht nur reservieren. |
+| Berufslinse-Anteil pro POV | 3–5 Momente | Gewohnheiten und Denkrichtung tragen die Linse, nicht Fachvokabular. Max 1 Fachbegriff pro Kapitel, kein Begriff zweimal. |
 | Materialdichte | Dosiert, nicht pauschal niedrig | In Atmosphäre-Szenen darf dicht sein. Chemikalien max 1–2× pro Kapitel bleibt. |
 | Mikromaße bei Alphina | Keine Uhrmacher-Präzision | Zeit-Marker wie "einen halben Zoll" / "eine Weile" ok, keine "Fingerknochen in drei Minuten". |
 | Salz/Metall auf Lippen | Marens Canon | Bei Alphina/Sorel/Vesper nicht. |

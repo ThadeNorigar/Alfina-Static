@@ -24,7 +24,7 @@
 | Markante Phrase wiederholt ("dreizehn Jahre") | 3-4 pro Kapitel | Jede an eigenem Zweck. |
 | "als hätte/wäre/könnte..." Hypothetische | ~6 pro Kapitel | Bewusst, nicht als Standardanschluss. |
 | Puls als Begehren-Marker | max 1-2× | Klischee-Warnung; nur wenn er konkret trägt |
-| Berufslinse-Anteil pro POV | 15-20% | Aktiv tragen, nicht reservieren |
+| Berufslinse-Anteil pro POV | 3-5 Momente | Gewohnheiten und Denkrichtung tragen die Linse. Max 1 Fachbegriff pro Kapitel, kein Begriff zweimal. |
 | Chemikalien-Namen (Pyrogallol/Fixiersalz) | max 1-2× pro Kapitel | Einführung reicht, dann Oberbegriff |
 | Mikromaße bei Alphina (Fingerknochen, Atemzüge) | 0 | Keine Uhrmacher-Präzision; normale Zeit-Marker ok |
 

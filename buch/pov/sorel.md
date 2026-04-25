@@ -18,7 +18,11 @@ reihenfolge: 95
 
 ## Berufslinse
 
-Sorel denkt in Tonwerten, nicht in Farben. Die Welt besteht für ihn aus Belichtungszeiten, Blenden, Grauwerten, Schatten und Mittelwerten. Konkretes Vokabular: Kollodium-Nassplatte, Daguerreotypie, Pyrogallol, Kaliumzyanid, Fixiersalz, Entwicklerbad, Rotlicht, Emulsion, Schärfering, Kassette, Stativ, Verschluss, f/11, zwanzig Sekunden. Nebel ist „Dunst" — ein Tonwert, kein Wetter. Purpurstein sieht er in Grauwerten. Jede Gasse, jedes Gesicht berechnet er unwillkürlich: Blende, Belichtung, ob das Licht hält. Er prüft Hintergründe zweimal.
+Sorel denkt in Tonwerten, nicht in Farben. Die Welt besteht für ihn aus Licht und Schatten, Schärfe und Unschärfe — er berechnet jede Gasse und jedes Gesicht unwillkürlich auf das Licht hin. Nebel ist „Dunst" — ein Tonwert, kein Wetter. Purpurstein sieht er in Grauwerten. Er prüft Hintergründe zweimal.
+
+**Verfügbares Fachregister (seltener Akzent, kein Pflichtvokabular):** Kollodium-Nassplatte, Daguerreotypie, Pyrogallol, Kaliumzyanid, Fixiersalz, Entwicklerbad, Rotlicht, Emulsion, Schärfering, Kassette, Stativ, Verschluss, f/11, zwanzig Sekunden.
+
+**Tick-Schranke (Handlung > Vokabular):** Die Linse trägt sich primär durch Gewohnheiten und Denkrichtung — er sieht Licht zuerst, prüft zweimal, schweigt lange. Max **ein Fachbegriff pro Kapitel**, **kein Begriff zweimal**. Chemikalien-Namen (Pyrogallol, Fixiersalz) nur in Arbeit-am-Material-Szenen, nicht in Nähe-/BDSM-/Gesprächs-Szenen. Test: Streich den Begriff. Liest sich der Satz noch nach Sorel? Wenn ja, Begriff raus. (Memory: `feedback_berufslinse_max_10_prozent.md`)
 
 ## Körper-Leitmotiv
 
