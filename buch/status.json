@@ -459,8 +459,9 @@
         "text": "Drei Feuer-Schemen brechen durch den Riss. Keldan stirbt. Kesper geht mit Elke durch den instabilen Riss — schafft es nicht. Elke sieht durch das Portal absolute Schwärze und einen gleißenden Bogen aus Licht. Springt. Lene überlebt allein, schreibt das Manuskript. Das Große Feuer."
       }
     },
-    "_umbau_2026_04_18": "B1 endet jetzt in K38 mit Schlussbild »Aufbruch zum Lichtschein«. Alte K37-K41 sind nach B2 verschoben (siehe zeitleiste.json buch=B2). Szenenpläne 34-01 bis 40-04 tragen Mapping-Banner im Kopf.",
-    "_umbau_2026_04_25": "Kapitel-Umnummerierung: K31b → K32 (Runa-POV neu), K33b → K35 (V/M-BDSM-Nacht neu), alle anderen ab K32 alt um +2 verschoben. K39-K43 sind status.json-Slots, in B1-Aktplan/Akt-4-Struktur verschoben nach B2 (siehe Banner _umbau_2026_04_18). Akt 3 endet jetzt bei K35 (V/M), Akt 4 startet bei K36 (Letzter Abend)."
+    "_umbau_2026_04_18": "OBSOLET (siehe _umbau_2026_04_25_v2). B1 endet doch nicht in K38, sondern später — alles bis zum Aufbruch zum Lichtschein bleibt B1.",
+    "_umbau_2026_04_25": "Kapitel-Umnummerierung: K31b → K32 (Runa-POV neu), K33b → K35 (V/M-BDSM-Nacht neu), alle anderen ab K32 alt um +2 verschoben. Akt 3 endet jetzt bei K35 (V/M), Akt 4 startet bei K36 (Letzter Abend).",
+    "_umbau_2026_04_25_v2": "B1-Schlussgrenze geklärt: alles bis zum Aufbruch zum Lichtschein bleibt B1. Das umfasst K36 (Letzter Abend), K37 (Ritual+Durchgang), K38 (Varen tritt), K39 (Sorel stirbt + Alphinas Explosion), K40 (Vesper-Moragh-Wahrnehmung), K41 (Maren-Moragh-Stadt-Elke), K42 (Alphina-Garten-mit-Elke), K43 (Epilog Vael). Akt 4 enthält damit alle Slots K36-K43 (8 Kapitel + Epilog). Aktplan-Akt-4-Datei 05-akt4.md hat aktuell nur 3 Sektionen — Restrukturierung steht aus (offene Aufgabe Autor)."
   },
   "buch2": {
     "meta": {
