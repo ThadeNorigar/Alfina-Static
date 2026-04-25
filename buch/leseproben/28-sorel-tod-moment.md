@@ -26,11 +26,11 @@ Das Wort war kurz, drei Silben, und es war nicht in einer Sprache, die Alphina k
 
 Dann stand Varen auf.
 
-Er trat zurück, nicht schnell, nicht schuldbewusst. Er trat, wie man aus einem Zimmer tritt, in dem die Arbeit getan ist. Er sah Alphina an, kurz, und sein Gesicht sagte nichts.
+Er trat zurück, ohne Hast. Er sah Alphina an, kurz, und sein Gesicht sagte nichts.
 
 Alphina stand.
 
-Sie spürte zuerst ihre Füße — den Boden, der aus Stein war, dunkler Stein, Moragh-Stein. Sie spürte die Sohlen, und über den Sohlen die Waden, und über den Waden das Becken, und in ihrem Becken begann etwas, das nicht Schmerz war und nicht Wut, sondern ein Druck, der von innen nach außen wollte. Sie wollte ihn nicht zurückhalten. Sie konnte ihn nicht zurückhalten. Sie presste nicht. Sie ließ.
+Sie spürte zuerst ihre Füße — den Boden, der aus Stein war, dunkler Stein, Moragh-Stein. Sie spürte die Sohlen, und über den Sohlen die Waden, und über den Waden das Becken, und in ihrem Becken begann etwas, das nicht Schmerz war und nicht Wut, sondern ein Druck, der von innen nach außen wollte. Sie konnte ihn nicht zurückhalten. Sie presste nicht. Sie ließ.
 
 Der Stein unter Sorels Körper brach.
 
@@ -40,6 +40,8 @@ Die Dornen fanden Sorels Haut.
 
 Auf seinem Hemd, auf seiner Brust, aus der dunklen Stelle, die er trug, brachen kleine Blüten auf. Schwarz, mit einem Rand, der so rot war, wie es kein Rot gab, das sie kannte — Blut-Rot und Tiefer. Die Blüten waren nicht groß. Sie saßen eng aneinander, in Gruppen von vier, fünf, sechs, und sie öffneten sich in seinem Körper, als wüchsen sie aus seiner Haut heraus und nicht aus dem Stein.
 
+Sorels Brust hob sich nicht mehr.
+
 Das war der Moment, in dem Alphina nicht mehr wusste, wo ihr Körper aufhörte.
 
 Sie spürte einen Schmerz an ihrer rechten Hüfte. Dort, aus dem Stoff ihres Kleides, brach etwas Spitzes hindurch. Sie sah nicht hin. Sie sah auf Sorel. Er atmete nicht mehr.
@@ -48,7 +50,7 @@ Im Halbkreis um sie herum schrie jemand. Es war Runa, kurz, ein Wort, das Alphin
 
 Alphina drehte sich zu Varen.
 
-Er war schon weiter hinten, außerhalb des wachsenden Kreises. Er hatte die Hände nicht gehoben. Er sah ihr zu, wie er Sorel zugesehen hatte. Keine Angst. Keine Freude. Etwas zwischen Neugier und Buchführung.
+Er war schon weiter hinten, außerhalb des wachsenden Kreises. Er hatte die Hände nicht gehoben. Er sah ihr zu, wie er Sorel zugesehen hatte. Keine Angst. Keine Freude. Sein Gesicht hatte den Ausdruck eines Mannes, der gerade etwas notiert.
 
 »Geh nicht weg«, sagte Alphina. Ihre Stimme kam aus einer anderen Kehle als ihre sonst.
 
@@ -62,7 +64,7 @@ Sie fiel nicht auf die Knie. Sie ging auf die Knie. Neben Sorel. Sie setzte die 
 
 Die Dornen um sie standen. Sie wuchsen nicht weiter. Aber sie zogen sich nicht zurück.
 
-Ihre rechte Hand, sie sah es jetzt, war schwarz-rot bis zum Handgelenk. Farbe, nicht Blut. Wie Tinte, die man in die Haut gerieben hatte, und wie sie kannte, dass sie nicht wieder herausging.
+Ihre rechte Hand, sie sah es jetzt, war schwarz-rot bis zum Handgelenk. Farbe, nicht Blut. Wie Tinte in der Haut.
 
 Sie hob die andere Hand, die noch ihre war, und legte sie auf Sorels Augenlider, wo Varens Finger gewesen waren, und ließ sie dort.
 
