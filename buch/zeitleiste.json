@@ -1675,6 +1675,212 @@
     },
     {
       "tz": 551,
+      "tz_sort": 551.501,
+      "tz_datum": "1. Lichtmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Hintergrund (kein Kapitel)",
+      "buch": "B1",
+      "kapitel": "ZEITSPRUNG",
+      "leseart": "hintergrund",
+      "titel": "Resonanz-Training beginnt — Quartett trainiert geheim",
+      "detail": "Anfang des 5-Monate-Zeitsprungs. Die Vier beginnen, ihre Resonanzen systematisch zu trainieren — geheim, vorsichtig nach K19, aber regelmäßig. Alphina an Pflanzen aller Art (nicht nur Farne); sie sucht in Vael Moragh-Flora, die durch den Riss sickert (Mauerritzen, Hafen-Steine, Botanischer Garten), zeichnet, vergleicht. Sorel an Licht, beginnt Restlicht-Verstärkung im Lichthaus-Keller. Vesper an Uhren-Drift und ersten Zeit-Manipulations-Übungen (Stein fallen lassen, Geschwindigkeit verändern). Maren an Wasser — Steg-Pegel, Badewanne, später Teetasse. Alphina beginnt parallel die Moragh-Sprache aus Harons Wörterbuch zu lernen — sie ist sprachbegabter als die anderen drei, kommt schneller voran.",
+      "typen": ["hintergrund", "training"],
+      "tags": [
+        "Zeitsprung-Beginn",
+        "Resonanz-Training startet systematisch",
+        "Alphina sprachbegabt — lernt Moragh-Sprache richtig"
+      ],
+      "kapitel_status": "hintergrund"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.503,
+      "tz_datum": "15. Lichtmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Hintergrund (kein Kapitel)",
+      "buch": "B1",
+      "kapitel": "ZEITSPRUNG",
+      "leseart": "hintergrund",
+      "titel": "Sorel gibt das Fotografieren auf",
+      "detail": "Nach zwei Wochen Licht-Resonanz-Training erkennt Sorel: er kann was er sieht direkt verstärken oder formen, ohne Kamera. Plattenchemie und Belichtungszeit sind nutzlos geworden. Er stellt die Plattenkamera unter ein Tuch in der Lichthaus-Keller-Ecke. Sein Tisch wird Lupe + Hohlspiegel + Prisma. Tschechow für K39: beim Sterben strahlt Licht direkt aus ihm, ohne Kamera — sein letzter Resonanz-Akt.",
+      "typen": ["hintergrund", "charakter"],
+      "tags": [
+        "Sorel: Fotografieren aufgegeben",
+        "Plattenkamera unter Tuch",
+        "Setup für K39 (Sterben mit Licht aus dem Körper)"
+      ],
+      "kapitel_status": "hintergrund"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.510,
+      "tz_datum": "1. Glutmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Hintergrund (kein Kapitel)",
+      "buch": "B1",
+      "kapitel": "ZEITSPRUNG",
+      "leseart": "hintergrund",
+      "titel": "Seilerei Mert brennt ohne Feuer — erstes öffentliches Vorzeichen",
+      "detail": "Die Ladenfront der Seilerei Mert in der Hafengasse brennt nieder, ohne dass jemand ein Feuer gelegt hat. Hitze aus den Wänden, geschmolzenes Hanf-Tau, kein Funke. Edric pfeift seitdem nicht mehr, wenn er den Pechkessel anheizt. Erstes öffentliches Vorzeichen, dass etwas in Vael nicht stimmt — die Stadt redet, ohne zu wissen worüber. Die Vier wissen mehr, sagen nichts.",
+      "typen": ["hintergrund", "vorfall"],
+      "tags": [
+        "Erster öffentlicher Vorfall (Schemen-Aktivität)",
+        "Tschechow: Edric pfeift nicht mehr (K28-Canon)"
+      ],
+      "kapitel_status": "hintergrund"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.515,
+      "tz_datum": "12. Glutmond 551 TZ · Abend",
+      "welt": "thalassien",
+      "pov": "Hintergrund (kein Kapitel) — V/M",
+      "buch": "B1",
+      "kapitel": "ZEITSPRUNG",
+      "leseart": "hintergrund",
+      "titel": "V/M-Einzug + Schachturm-Übergabe (in K35-Sz1 als Maren-Rückblende erinnert)",
+      "detail": "Vesper bringt seine letzten Sachen aus dem Anker zu Maren in die Hafengasse-Wohnung — zwei Reisetaschen, Schreinerkoffer mit Werkzeug, die Werkstatt-Pendule auf einem Wagen. Sie stellen die Werkbank in der Wohnzimmer-Ecke beim Fenster auf. Vesper hat bei einem Vael-Schreiner ein neues Doppelbett bauen lassen mit gedrechselten Pfosten und Eisenringen an den unteren — Maren hat es beim Aufbau gesehen, nicht kommentiert (V/M-Anker für künftige Sessions). Am selben Abend übergibt Vesper Maren den Schachturm. Dialog: 'Ich gebe ihn dir nicht. Ich gebe ihn dir auf. Als Wächter. Du stellst ihn auf, wenn du eine Nacht willst — ich verstehe.' Maren: 'Und wenn du eine willst?' Vesper: 'Ich frage dich mit Worten, wie ein Erwachsener.' Maren: 'Wie soll ich ihn tragen?' Vesper: 'Wie ich. In der Tasche. Jeden Tag. Wenn du ihn vergisst, vergisst er dich.' Vesper näht ihr in einer Stunde am Saum des Leinenhemdes ein Geheimfach ein, von außen unsichtbar. Schachturm-Origin: aus Vespers letztem Schachspiel mit neunzehn (Karst-Schachclub-Aufnahme-Endspiel — Steine ordneten sich von selbst, er ging, nahm den schwarzen Turm mit; erste Manifestation seiner Zeit-Resonanz, die er damals für Spuk hielt, fünfzehn Jahre in der linken Rocktasche getragen). Vesper: 'Erinnerung an den Tag, an dem ich aufgehört habe zu lügen.' Marens linke Rocktasche bleibt ab heute leer.",
+      "typen": ["hintergrund", "beziehung", "tschechow"],
+      "tags": [
+        "V/M zieht zusammen (Glutmond)",
+        "Schachturm-Übergabe als 'Wächter'",
+        "Hemd-Saum-Geheimfach (Maren trägt Turm immer bei sich)",
+        "Tschechow für K28-Sz1, K35-Sz1, B2-Trennung"
+      ],
+      "kapitel_status": "hintergrund"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.518,
+      "tz_datum": "18. Glutmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Hintergrund (kein Kapitel) — V/M",
+      "buch": "B1",
+      "kapitel": "ZEITSPRUNG",
+      "leseart": "hintergrund",
+      "titel": "Maren stellt den Schachturm zum ersten Mal auf — erste Initiations-Umkehrung",
+      "detail": "Nach sechs Tagen mit dem Turm im Saum legt Maren ihn zum ersten Mal auf den gemeinsamen Esstisch. Vesper sieht ihn beim Heimkommen, kommt zu ihr ohne ein Wort. Erste V/M-Session mit Maren als Initiierender (Umkehrung zu K27-Vesper-Initiation). Ab jetzt stellt Maren den Turm 2-3× pro Woche auf — Routine bis K35.",
+      "typen": ["hintergrund", "beziehung"],
+      "tags": [
+        "V/M: erste Maren-Initiation",
+        "Routine etabliert (2-3× pro Woche bis K35)"
+      ],
+      "kapitel_status": "hintergrund"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.520,
+      "tz_datum": "5. Erntemond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Hintergrund (kein Kapitel) — Alphina + Halvard",
+      "buch": "B1",
+      "kapitel": "ZEITSPRUNG",
+      "leseart": "hintergrund",
+      "titel": "Alphina-Halvard-Mentorat beginnt",
+      "detail": "Maren hat sich beim Stechbeitel an der Werft-Hand geschnitten. Alphina behandelt die Wunde mit einem Pflanzen-Substrat — die Heilung ist schneller, sauberer als sie sein dürfte. Halvard, der zufällig dabei ist (er war wegen einer anderen Sache an der Werft), bemerkt es. Stellt keine Fragen vor Maren, aber lädt Alphina später zu sich in die Praxis ein. Sie spricht mit ihm vorsichtig — er weiß seit den vier Patient-Akten (K26), dass etwas in Vael läuft. Vereinbarung: Alphina hilft ihm bei seinen Patienten, er gibt ihr im Gegenzug medizinische Grundausbildung (Anatomie, Wickel, Salben, Knochenbrüche). Sie kommt von da an zwei-, dreimal pro Woche in die Praxis. Halvard wird zur stillen vierten Vertrauensperson außerhalb der Vier (neben Esther, Jara, später Runa).",
+      "typen": ["hintergrund", "beziehung", "charakter"],
+      "tags": [
+        "Alphina lernt Heilkunde von Halvard",
+        "Halvard wird Vertrauter (nach Esther, Jara)",
+        "Tschechow für K40 (Alphina heilt Wunden nach ihrem Ausbruch)"
+      ],
+      "kapitel_status": "hintergrund"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.530,
+      "tz_datum": "1. Herbstmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Hintergrund (kein Kapitel)",
+      "buch": "B1",
+      "kapitel": "ZEITSPRUNG",
+      "leseart": "hintergrund",
+      "titel": "Erste Familien beginnen Vael zu verlassen",
+      "detail": "Einzelne Reeder und Böttcher mit Familien gehen — nicht in Karrenkolonnen, einzelne Wagen, leise. Die Familie Treks aus der Hafengasse Nummer sieben packt im Verlauf des Herbstmondes. Aufträge in Marens Werft werden ruhiger. Die Stadt nicht in Panik, aber die Bewegung ist da. Halvards Patienten häufen sich (mehr Verbrennungen ohne Hitzequelle, mehr versengte Haare).",
+      "typen": ["hintergrund", "stadt"],
+      "tags": [
+        "Stadt-Vorzerfall: erste Familien gehen",
+        "Halvards Patienten häufen sich",
+        "Tschechow für K28-Sz1-Opener (vernageltes Haus Nummer sieben)"
+      ],
+      "kapitel_status": "hintergrund"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.535,
+      "tz_datum": "12. Herbstmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Hintergrund (kein Kapitel)",
+      "buch": "B1",
+      "kapitel": "ZEITSPRUNG",
+      "leseart": "hintergrund",
+      "titel": "Händler verschwindet am Hafen — zweites öffentliches Vorzeichen",
+      "detail": "Ein Händler verschwindet spurlos am Hafen, am hellen Tag. Sein Stand bleibt, sein Karren bleibt, er ist weg. Niemand hat etwas gesehen. Die Hafenwache sucht zwei Tage, findet nichts. Zweites öffentliches Vorzeichen nach der Seilerei. Die Stadt redet leiser, aber konkreter — etwas geht in Vael um.",
+      "typen": ["hintergrund", "vorfall"],
+      "tags": [
+        "Zweites öffentliches Vorzeichen",
+        "Stadt-Unruhe wird konkreter"
+      ],
+      "kapitel_status": "hintergrund"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.540,
+      "tz_datum": "25. Herbstmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Hintergrund (kein Kapitel)",
+      "buch": "B1",
+      "kapitel": "ZEITSPRUNG",
+      "leseart": "hintergrund",
+      "titel": "Militärpatrouillen werden eingerichtet",
+      "detail": "Der Vael-Obrist ordnet nächtliche Militärpatrouillen in den Hafengassen und der Oberstadt an. Zwei Soldaten pro Gasse, Öllaternen nach unten gehalten, leise reden. Niemand weiß genau, wonach sie suchen — der Obrist redet leise von 'Unruhen'. Nachtwächter-Lehrlinge bekommen Pistolen, schlecht ausgebildet darin (siehe K28-Tschechow: der Lehrling hat eine Gürteltasche mit Pistole, die er nicht zieht).",
+      "typen": ["hintergrund", "stadt"],
+      "tags": [
+        "Militärpatrouillen seit ~6 Tagen vor K28",
+        "Nachtwächter mit Pistolen",
+        "Tschechow für K28-Sz1 (Patrouille + Lehrling-Pistole)"
+      ],
+      "kapitel_status": "hintergrund"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.545,
+      "tz_datum": "28. Herbstmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Hintergrund (kein Kapitel)",
+      "buch": "B1",
+      "kapitel": "ZEITSPRUNG",
+      "leseart": "hintergrund",
+      "titel": "Süß-dichter Rauchgeruch aus Südost-Stadt beginnt",
+      "detail": "Drei, vier Nächte vor K28: aus der Richtung des Archivhügels (Südost-Stadt) zieht ein süß-dichter Geruch in die Stadt — wie nach einem schweren Teig, der zu lange im Ofen war. Die Alten an der Fischhalle reden darüber, niemand weiß Bescheid. Die Quelle ist nicht sichtbar — keine Brände, keine Bäcker. Maren bemerkt den Geruch zum ersten Mal vor ihrer Wohnungstür (Canon: drei oder vier Nächte vor K28). Der Geruch wird Tschechow für K28-Leichenfund (gleicher Geruch beim toten Nachtwächter) und K31-Marktplatz ('riecht süß und dicht — nach Moragh').",
+      "typen": ["hintergrund", "vorfall"],
+      "tags": [
+        "Süß-dichter Geruch (Varens Schemen-Signatur)",
+        "Tschechow für K28-Leiche und K31-Marktplatz"
+      ],
+      "kapitel_status": "hintergrund"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.55,
+      "tz_datum": "30. Herbstmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Hintergrund (kein Kapitel)",
+      "buch": "B1",
+      "kapitel": "ZEITSPRUNG",
+      "leseart": "hintergrund",
+      "titel": "Zeitsprung-Ende — Stand der Vier am Vorabend von K28",
+      "detail": "Letzter Tag vor K28 (1. Nebelmond). Stand: (Sprache) Alphina liest und übersetzt das Moragh-Wörterbuch eigenständig, die anderen drei beherrschen den Grundbestand (einzelne Worte, Lautschrift). (Resonanzen ausgebaut) Alphina formt Pflanzen aller Art, sucht Moragh-Flora, heilt kleine Blessuren mit Pflanzen-Substraten + Halvard-Lehre. Sorel hat das Fotografieren aufgegeben, sieht im Dunkeln, dunkelt Räume ab, zündet Kerzen mit Brennglas. Vesper manipuliert Zeit lokal — Dinge fallen verlangsamen, Material altern, Uhrwerke in Zeitlupe; setzt Zeit-Resonanz in V/M-Sessions ein. Maren erhitzt/friert Wasser, formt es leicht (Säule aus Teetasse), manipuliert Nebeltropfen (lichten/verdichten). (V/M) zusammengezogen seit Glutmond, Schachturm-Routine 2-3×/Woche etabliert. (A/S) drei Monate ruhige Liebe. (Stadt) Seilerei Mert brannt, Händler verschwand, erste Familien gehen, Patrouillen seit Tagen, süß-dichter Geruch seit Nächten. (Helferkreis) Esther + Jara (Archiv), Halvard (Medizin/Patient-Akten), Runa (Druckerei, Stadt-Klatsch — ahnt mehr als sie sagt). Heute Nacht zieht das Pochen Maren das erste Mal aktiv aus der Wohnung.",
+      "typen": ["hintergrund"],
+      "tags": [
+        "Zeitsprung-Ende-Stand",
+        "Letzter Tag vor K28",
+        "Übersicht aller Resonanz-Stände + Beziehungen + Stadt"
+      ],
+      "kapitel_status": "hintergrund"
+    },
+    {
+      "tz": 551,
       "tz_sort": 551.56,
       "tz_datum": "1. Nebelmond 551 TZ",
       "welt": "thalassien",
@@ -1846,26 +2052,6 @@
         "Réage-Register vollausgeschöpft",
         "Letzte Nacht in Vael (Beziehungs-Zenit)",
         "Tschechow für B2 (V/M-Trennung in Moragh)"
-      ],
-      "kapitel_status": "szenenplan"
-    },
-    {
-      "tz": 551,
-      "tz_sort": 551.67,
-      "tz_datum": "Glutmond bis Nebelmond 551 TZ",
-      "welt": "thalassien",
-      "pov": "Kein eigenes Kapitel",
-      "buch": "B1",
-      "kapitel": "ZEITSPRUNG",
-      "leseart": "normal",
-      "titel": "3 Monate: Sprache lernen, unkontrollierte Risse eskalieren",
-      "detail": "Die Gruppe lernt die Moragh-Sprache aus dem Sprachbuch. Vesper übersetzt systematisch, die anderen üben. Wenig Magie-Training — sie trauen sich nach K19 nicht. Risse eskalieren: Moragh-Flora in Mauerritzen, Hafenwasser nach fremdem Salz, Nebel dreimal die Woche, die Grauwe fließt regelmaessig rückwärts. Alphina und Sorel: parallel, kühl, professionell. Vesper und Maren: schweigend, praezise, ohne Benennung.",
-      "typen": [
-        "hintergrund"
-      ],
-      "tags": [
-        "Zeitsprung: 3 Monate",
-        "Unkontrollierte Risse eskalieren"
       ],
       "kapitel_status": "szenenplan"
     },
