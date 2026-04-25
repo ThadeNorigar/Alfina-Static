@@ -14,7 +14,7 @@ Die Wand war Stahl.
 
 Nyr stieß Vesper dagegen, weil das ihr Lieblingsplatz war, und er stieß zurück, weil er den Stoß erwartet hatte. Sein Schulterblatt traf einen Nieten-Kopf. Er fluchte einmal, kurz, fasste mit der einen Hand in ihr Haar und zog ihren Kopf so weit zurück, dass er an ihre Kehle kam.
 
-Sie lachte. Es war kein freundliches Lachen.
+Sie lachte mit Zähnen.
 
 »Du wartest immer, bis ich die Bewegung mache.«
 
@@ -28,7 +28,7 @@ Sie biss ihn in den Hals, nicht zart. Er schloss die Augen einen Lidschlag und l
 
 Sie waren in ihrer Kammer hinten in der Kessler-Halle, an der Stahlrückwand, die für Vibration besser hielt als Holz und für solche Abende auch. Die Tür hatte einen Riegel, den sie ohne Hinsehen vorwarf. Das Licht kam von einer einzigen Öllampe an der Werkbank, gelb, schmal, genug.
 
-Nyr riss ihm das Hemd auf, mit einem Ruck, der zwei Knöpfe absprengen ließ. Einer rollte über den Stahlboden in eine Ölwanne. Sie hörte das Plumpsen und kümmerte sich nicht.
+Nyr riss ihm das Hemd auf, mit einem Ruck, der zwei Knöpfe absprengen ließ. Einer rollte über den Stahlboden in eine Ölwanne. Sie hörte das Plumpsen und ließ es liegen.
 
 »Das war ein gutes Hemd«, sagte Vesper.
 
@@ -42,7 +42,7 @@ Nyr drückte ihn wieder rückwärts an die Stahlplatte, und der Nieten-Kopf zwis
 
 Dann ging eine Welle durch die Luft.
 
-Nichts Großes. Vesper spürte es im Kiefer zuerst — als hätte jemand den Druck im Raum kurz nach oben gesetzt. Sie presste enger an ihn, und die Luft um sie zog sich zusammen, eine Sekunde, zwei. Bei ihr setzte die Magie aus, wenn sie hochfuhr. Bei ihm setzte sie nie aus.
+Nichts Großes. Vesper spürte es im Kiefer — der Druck im Raum kurz nach oben. Sie presste enger an ihn, und die Luft um sie zog sich zusammen, eine Sekunde, zwei. Bei ihr setzte die Magie aus, wenn sie hochfuhr. Bei ihm setzte sie nie aus.
 
 »Lass«, sagte er.
 
@@ -50,7 +50,9 @@ Nichts Großes. Vesper spürte es im Kiefer zuerst — als hätte jemand den Dru
 
 »Ich weiß.«
 
-Er drehte sie mit einem Schwung, den sie nicht erwartet hatte. Plötzlich war er an der Wand vorbei und sie an dem Stahl, seine Hand an ihrer Hüfte, seine andere am Hosenbund. Sie lachte wieder, jetzt kürzer. Hier waren sie. Hier war keine Hierarchie, nur wer in welchem Moment wessen Druck war.
+Er drehte sie mit einem Schwung, den sie nicht erwartet hatte. Plötzlich war er an der Wand vorbei und sie an dem Stahl, seine Hand an ihrer Hüfte, seine andere am Hosenbund. Sie lachte wieder, jetzt kürzer. Hier war nur, wer in welchem Moment wessen Druck war.
+
+Sie fand seinen Takt erst gegen den ihren, dann mit ihm. Toleranz, dachte er. Passung.
 
 Sie zogen einander die Klamotten aus, manches grob, manches schon geübt. Stoffstücke fielen, Stiefel polterten. Die Stahlplatte war kalt an Nyrs Rücken, dann nicht mehr. Vesper kniete sich kurz und fand sie mit der Zunge, zwei, drei Striche. Dann stand er wieder auf, Nyr lachte erneut, und er nahm sie an Ort und Stelle gegen die Wand. Ihre Beine schlossen sich um seine Hüfte, sein Mund fand ihre Halsschlagader.
 
