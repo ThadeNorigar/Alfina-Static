@@ -2,7 +2,7 @@
 
 *21. Saatmond 551 · Nachtholm*
 
-Das Rotlicht machte seine Hände zu etwas, das nicht ihm gehörte.
+Das Rotlicht machte seine Hände fremd.
 
 Es war ein Trick der Wellenlänge, nichts weiter — rotes Licht, zu lang für die Emulsion, zu kurz um die Dunkelheit zu brechen. Aber Sorel mochte den Effekt. Im Rotlicht waren seine Hände fremd. Gleichzeitig präziser als im Tageslicht, als hätte jemand alles Überflüssige von ihnen abgezogen und nur die Funktion übrig gelassen. Finger, Knöchel, Sehnen unter der Haut. Werkzeuge, die einmal einem Menschen gehört hatten.
 
@@ -14,7 +14,7 @@ Der Basalt unter seinen nackten Füßen war kalt, immer, auch im Sommer, eine K�
 
 Er rettete Bilder.
 
-Alte Glasplatten, Kollodium-Nassplatten, Daguerreotypien, Lichtdrucke auf Papier das zerfiel. Bilder die niemand mehr wollte, aus Nachlässen, Auktionen, Kellern die geräumt wurden. Er kaufte sie, entwickelte sie, fixierte sie. Hängte sie auf, in einem Raum der einmal eine Küche gewesen war — eine Wand, vom Boden bis zur Decke, bedeckt mit Bildern toter Fremder. Zweihundertdreiundsechzig Gesichter. Er kannte keines. Er bewahrte sie, weil jemand es hätte tun sollen. Jedes Gesicht ein Gesicht, das nicht seines war. Eine Art von Trost, die er sich nicht erklären konnte.
+Alte Glasplatten, Kollodium-Nassplatten, Daguerreotypien, Lichtdrucke auf Papier das zerfiel. Bilder die niemand mehr wollte, aus Nachlässen, Auktionen, Kellern die geräumt wurden. Er kaufte sie, entwickelte sie, fixierte sie. Hängte sie auf, in einem Raum der einmal eine Küche gewesen war — eine Wand, vom Boden bis zur Decke, bedeckt mit Bildern toter Fremder. Zweihundertdreiundsechzig Gesichter. Er kannte keines. Er bewahrte sie, weil jemand es hätte tun sollen. Jedes Gesicht war ein Gesicht, das nicht seines war. Es war eine Art Trost, die er sich nie erklärt hatte.
 
 Sorel hatte eine Gewohnheit. Bei jedem Bild, jeder Platte, jedem Druck — er prüfte den Hintergrund. Zweimal. Einmal für das Motiv, einmal für das, was dahinter lag. Die meisten Hintergründe waren leer. Mauern, Straßen, Nebel. Manchmal eine offene Tür, manchmal ein Tier, manchmal ein verschwommener Passant den der Fotograf nicht bemerkt hatte. Sorel bemerkte sie alle. Er prüfte jeden Hintergrund, weil er einmal nicht geprüft hatte. Was er dabei übersehen hatte, ließ ihn nie ganz los.
 
@@ -34,7 +34,7 @@ Drei Sekunden. Vielleicht vier. Die Länge eines Atemzugs, den er nicht nahm. Se
 
 Er kannte das Gesicht, weil es seines war.
 
-Sorel hob die Platte aus dem Bad. Fixierer. Seine Hände arbeiteten, weil seine Hände immer arbeiteten. Er legte die Platte auf den Tisch, neben die anderen sechs. Der Fixierer lief über die Oberfläche, tropfte auf das Holz. Sorel wischte ihn nicht weg. Er stand da. Die Luft roch nach Chemie und nach nassem Glas. Sein Puls war in seinem Hals, in seinen Schläfen. Seine Hände waren ruhig. Der Rest von ihm nicht.
+Sorel hob die Platte aus dem Bad. Fixierer. Seine Hände arbeiteten, weil seine Hände immer arbeiteten. Er legte die Platte auf den Tisch, neben die anderen sechs. Der Fixierer lief über die Oberfläche, tropfte auf das Holz. Sorel wischte ihn nicht weg. Er stand da. Die Luft roch nach Chemie und nach nassem Glas. Sein Blut schlug im Hals, in den Schläfen. Seine Hände waren ruhig. Der Rest von ihm nicht.
 
 Er ging in die Küche. Zur Wand. Zweihundertdreiundsechzig Gesichter, vom Boden bis zur Decke. Er stand davor, im Rotlicht, das durch die Tür fiel. Die Gesichter schauten ihn an. Tot. Fremd. Keines davon war seines, und dreizehn Jahre lang hatte das gereicht. Dreizehn Jahre lang waren die Gesichter anderer Leute ein Beweis gewesen, dass die Welt aus anderen Menschen bestand, aus Fremden, aus Toten die nicht er waren. Jetzt stand ein zweihundertvierundsechzigstes Gesicht auf dem Tisch in der Dunkelkammer. Es war kein Fremder. Es war nicht tot. Es war er.
 
@@ -112,7 +112,7 @@ Er saß auf dem Stuhl neben dem Regal. Trank kalten Tee. Dachte.
 
 Vael. Er wusste den Namen von der Tinte auf der Rückseite, von der Beschriftung auf dem Holzkasten. Mehr nicht. Er stellte die Tasse ab, ging zum Regal, dem unteren, wo die Auktionskataloge lagen, Jahrgänge, gestapelt. Unter den Katalogen, eingeklemmt zwischen Holz und Wand, der Schifffahrtsatlas. Gelb, eselsohrig, der Einband gerissen. Er benutzte ihn seit Jahren — wenn ein Los aus Thessa kam oder aus Solha oder von der Grauküste, schlug er nach, um zu wissen wie weit die Kiste reisen musste und was es ihn kostete.
 
-Er schlug die Küstenkarten auf. Die Grauküste: eine Linie aus Buchten und Klippen, nördlich, weit nördlich von Nachtholm. Sein Finger fuhr an der Küste entlang, Name für Name — Hafenstädte, Fischerdörfer, Leuchtfeuer. Dort. Vael. Ein Punkt auf einer Halbinsel, kaum beschriftet, Graues Meer auf drei Seiten. Der Atlas sagte nichts über Purpurstein oder Nebel. Nur: Hafen, Reede, Ankergrund bei Westwind. Er maß die Entfernung mit dem Daumen. Vierhundert Kilometer, vielleicht mehr. Fähre bis Harst, dann Kutsche die Grauküste entlang. Drei Tage. Vier, wenn die Straßen schlecht waren. Im Saatmond waren die Straßen immer schlecht.
+Er schlug die Küstenkarten auf. Die Grauküste: eine Linie aus Buchten und Klippen, nördlich, weit nördlich von Nachtholm. Sein Finger fuhr an der Küste entlang, Name für Name — Hafenstädte, Fischerdörfer, Leuchtfeuer. Dort. Vael. Ein Punkt auf einer Halbinsel, kaum beschriftet, Graues Meer auf drei Seiten. Der Atlas sagte nichts über Purpurstein oder Nebel. Nur: Hafen, Reede, Ankergrund bei Westwind. Er maß die Entfernung mit dem Daumen. Fünfzig Meilen, vielleicht mehr. Fähre bis Harst, dann Kutsche die Grauküste entlang. Drei Tage. Vier, wenn die Straßen schlecht waren. Im Saatmond waren die Straßen immer schlecht.
 
 Er klappte den Atlas zu und legte ihn zurück.
 
@@ -126,7 +126,7 @@ Zwei Platten. Dreizehn Jahre. Dieselbe Stadt. Dasselbe Gesicht. Sein Gesicht. Va
 
 Sorel stellte die Tasse ab. Löschte das Rotlicht.
 
-Die Dunkelheit war vollständig. Kein Mond, kein Stern, kein Fenster. Er stand in ihr und ließ sie kommen. Sie legte sich auf seine Augen, auf seine Haut, in die Lücke zwischen seinen Lippen. Er schmeckte sie — kalt, mineralisch, nach Basalt und Chemie. Er hob die Hand vor sein Gesicht. Nicht da. Die Hand, die dreizehn Jahre lang Platten gehalten hatte, existierte nicht in dieser Dunkelheit. Das Gesicht auf den Platten existierte. Irgendwo, vierhundert Kilometer nördlich, in einer Stadt am Meer.
+Die Dunkelheit war vollständig. Kein Mond, kein Stern, kein Fenster. Er stand in ihr und ließ sie kommen. Sie legte sich auf seine Augen, auf seine Haut, in die Lücke zwischen seinen Lippen. Er schmeckte sie — kalt, mineralisch, nach Basalt und Chemie. Er hob die Hand vor sein Gesicht. Nicht da. Die Hand, die dreizehn Jahre lang Platten gehalten hatte, existierte nicht in dieser Dunkelheit. Das Gesicht auf den Platten existierte. Irgendwo, fünfzig Meilen nördlich, in einer Stadt am Meer.
 
 Er tastete nach dem Streichholz. Zündete die Gaslampe im Flur. Das Licht war gelb und warm und nach dem Rotlicht sah die Welt falsch aus, zu hell, zu wirklich. Er nahm die Platte. Hielt sie gegen das Licht der Gaslampe.
 
@@ -134,7 +134,7 @@ Das Bild veränderte sich. Im warmen Licht waren die Schatten weicher, die Kontu
 
 Aber da war etwas, das er im Rotlicht nicht gesehen hatte.
 
-Hinter ihm. Hinter seinem eigenen Gesicht auf dem Bild. Halb im Nebel. Eine zweite Gestalt. Nicht klar genug für ein Gesicht. Nur Umrisse — Schultern, ein Kopf, die Andeutung eines Körpers. Die Gestalt stand neben ihm. Sorel spürte etwas in seinem Nacken, kalt, als hätte jemand ihn von hinten berührt. Er drehte sich um. Der Flur war leer. Das Rotlicht war aus, die Gaslampe flackerte. Er war allein.
+Hinter ihm. Hinter seinem eigenen Gesicht auf dem Bild. Halb im Nebel. Eine zweite Gestalt. Nicht klar genug für ein Gesicht. Nur Umrisse — Schultern, ein Kopf, die Andeutung eines Körpers. Die Gestalt stand neben ihm. Eine Kälte legte sich auf seinen Nacken, als hätte jemand ihn von hinten berührt. Er drehte sich um. Der Flur war leer. Das Rotlicht war aus, die Gaslampe flackerte. Er war allein.
 
 Er stand im Flur. Die Platte in der Hand. Die Gaslampe an der Wand, das Licht gelb und zitternd. Sein Atem. Das Tropfen des Wassers, irgendwo, tief in der Schlucht. Sonst nichts. Er stand da, lange. Die Platte wurde schwer in seiner Hand. Das Gesicht darauf schaute nach oben, in den Flur. Die zweite Gestalt stand daneben, im Nebel. Wartete.
 
