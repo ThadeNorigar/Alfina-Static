@@ -225,10 +225,11 @@
       "26": {
         "titel": "Vesper",
         "pov": "Vesper",
-        "status": "entwurf-ok",
-        "woerter": null,
+        "status": "ausarbeitung",
+        "woerter": 6331,
         "text": "26. Blütenmond 551 TZ, abends. Alle vier in Marens Wohnung — Datenabgleich nach dem Archiv-Schock aus K24 (Lenes Zeichnung des Feuer-Wesens, Schemen-Fingerabdrücke auf Harons Ritual-Blatt). Vesper: Uhren-Drift in sechzehn Vael-Uhren, periodisches Muster. Maren: Gezeiten-Anomalien, rückwärts fließende Grauwe, Salzveränderungen. Alphina: Pflanzen-Resonanz wächst, Farne tragen Moragh-Geruch, fremde Pflanzen in Mauerritzen. Sorel: Platten zeigen Dinge, die nicht vor der Linse standen. Halvards Patienten-Notizen (via Vesper): kauterisierte Wunden, Schemen-Fingerabdrücke. Marens Satz aus K24 im Raum: wir müssen etwas tun. Kernfrage: wenn es hierher kann, können wir dorthin? Entscheidung: Durchgang + vorher Training, Moragh-Sprache aus Harons Wörterbuch lernen, Ritual-Anweisungen übersetzen. Vesper bemerkt Drift-Gezeiten-Korrelation (Seed für K32). Schluss: Sorel+Alphina gehen zusammen in Alphinas Unterkunft, Vesper+Maren bleiben für K27.",
-        "entwurfs_datei": "B1-K26-entwurf.md"
+        "entwurfs_datei": "B1-K26-entwurf.md",
+        "datei": "B1-K26-vesper.md"
       },
       "27": {
         "titel": "Maren",

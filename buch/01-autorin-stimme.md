@@ -4,17 +4,19 @@
 
 ## 1. Leitprinzip
 
-**Commercial Dark Romantasy mit literary Kontrolle.** Ziel ist ein marktfähiger Dark-Romantasy-Roman im Feld von Yarros, Maas, Robert, Simone, Kennedy — körperlich spürbar, emotional direkt, mit Heat wo er hingehört — aber diszipliniert durch literary-Handwerk (King-Dichte, Bardugo-POV, Kuang-Stoff-Disziplin). Die Prosa ist **zugänglich und sinnlich, nicht literary-zurückhaltend**. 3. Person nah/Präteritum, erlebte Rede als Default. Der Narrator klebt an der Figur, sieht nur was sie sieht, denkt nur was sie denkt.
+**Voll commercial Dark Romantasy.** Ziel ist ein marktfähiger Dark-Romantasy-Roman im Feld von Yarros, Maas, Robert, Simone, Kennedy — körperlich spürbar, emotional direkt, mit Heat wo er hingehört. 3. Person nah/Präteritum, erlebte Rede als Default. Der Narrator klebt an der Figur, sieht nur was sie sieht, denkt nur was sie denkt.
 
-**Konkretheit bleibt** — Alphina riecht **Kalkstein, nicht "die Kälte des Steins"** — aber Konkretheit bedeutet nicht Kargheit. Commercial Dark Romantasy hat sinnliche Dichte, körperliche Masse und emotionale Höhen, die in literary-disziplinierter Prosa nur dezent auftauchen würden.
+**Alle Referenz-Autoren sind commercial Bestseller.** Es gibt keine „literary-Disziplin im Untergrund". Stephen King schreibt commercial mit hoher Erzähldichte. Leigh Bardugo schreibt commercial mit POV-Schärfe. Rebecca Yarros schreibt commercial mit Tempo. Alle drei schreiben in **vollständigen, lebendigen Sätzen**. Wer meint, „literarisch-knapp" sei eine Disziplin-Kategorie, täuscht sich — das ist Pseudo-Literatur-Imitation ohne Quelle im Referenz-Feld.
+
+**Konkretheit und Erzähldichte** — Alphina riecht **Kalkstein, nicht „die Kälte des Steins"**. Jeder Absatz trägt Material, Sinneseindrücke, Tschechow-Details. Das ist die King-Erzähldichte, die auch in commercial Prosa lebt. Konkretheit bedeutet nicht Kargheit, sondern reiche Details **in vollständigen, beschreibenden Sätzen**.
 
 **Zwei Register-Ebenen je nach Szene:**
-- **Alltags- und Plot-Szenen:** literary-dichter Ton (K16–K18 als Handwerks-Referenz), Material sparsam, POV diszipliniert.
-- **Begehren-/Nähe-/Sex-Szenen:** commercial Dark Romantasy, Heat spürbar, Körper drängt, emotionale Direktheit. Für Vesper/Maren-BDSM: **Réage (Histoire d'O, 1954)** als Primärmodell — Material-Präzision, direkte Anatomie, Paradox-Kern.
+- **Alltags- und Plot-Szenen:** hohe Erzähldichte (King-Niveau), POV diszipliniert (Bardugo-Niveau), vollständige lebendige Sätze.
+- **Begehren-/Nähe-/Sex-Szenen:** Heat spürbar, Körper drängt, emotionale Direktheit. Für Vesper/Maren-BDSM: **Réage (Histoire d'O, 1954)** als Primärmodell — Material-Präzision, direkte Anatomie, Paradox-Kern.
 
 **Nicht vulgär.** Commercial heißt nicht Pornografie. Anatomie direkt benennen (Brüste, Schenkel, Kehle, Schoß, Hüften, Glied, Zunge), keine Euphemismen, keine Pornografie-Platzhalter (*"Schaft"*, *"Muschi"*). Réage-Klinik-Präzision.
 
-**Historie:** Das breite Autoren-Medley (SenLinYu-Yearning, Gibson-Lyrik, Simone-fremde-Register, Black-verfremdete-Verben) ist gestrichen. SenLinYu (`01-referenz-konkretheit.md`) bleibt als Handwerks-Referenz für Satzbau und Material-Erstnennung, **nicht als Ton-Modell für Nähe-Szenen** — ihr Alchemised-Stil ist zu literary für unseren commercial Kern.
+**Historie:** Das breite Autoren-Medley (SenLinYu-Yearning, Gibson-Lyrik, Simone-fremde-Register, Black-verfremdete-Verben) ist gestrichen. SenLinYu (`01-referenz-konkretheit.md`) bleibt als Handwerks-Referenz für Satzbau und Material-Erstnennung. Die frühere Formulierung „literary-Disziplin" war irreführend und wurde aus dem Dokument entfernt.
 
 ## 2. Die drei Register
 
@@ -38,6 +40,88 @@ Die Autorin hat DREI Geschwindigkeiten. Jedes Kapitel braucht mindestens zwei da
 - KEIN Stakkato-Dauerfeuer — einzelne Hammerschläge nach langem Aufbau
 - DEFAULT VERBOTEN. Nur bei: Schock, Kampf, Kontrollverlust in Erotik, Panik
 - Max 2–3 solcher Passagen pro Kapitel
+
+## 2.5 Vollständige Sätze als Default
+
+Jeder Satz hat **Subjekt und Verb**. Keine isolierten Adjektiv-/Partizip-Anhänge nach Komma. Keine Substantiv-Phrasen ohne Verb als eigene Sätze. Keine Stichwort-Aufzählungen als Erzählton.
+
+**Tote Muster (verboten als Default):**
+- `„X in Y: A, B, C."` ohne Verb („Spalten in ihrer Hand: Datum, Pegelstand…")
+- `„X, ADJ"` als nachgestelltes Attribut („Tee, dampfend" / „die Hände lose, sie wartete")
+- `„Substantiv + Ort"` als Fragment („Schritte auf der Treppe, leicht und schwerer ineinander.")
+- Stichwort-Atmosphäre: „Stille im Raum." „Kälte an den Fingern." „Schwere in der Brust."
+
+**Bessere Form:**
+- „Sie hatte vier Spalten geführt: Datum, Pegelstand, Temperatur, Salz."
+- „Maren schenkte dampfenden Tee in zwei Becher ein."
+- „Auf der Treppe kamen Schritte hoch, leicht und schwerer ineinander."
+- „Im Raum war es still." / „Seine Finger waren kalt." / „In seiner Brust lag Schwere."
+
+**Mündlicher Lese-Test vor dem Schreiben:** Kann ich diesen Satz einer Person am Tisch sagen, ohne dass sie stockt? Wenn nein — umformulieren. Wenn er sich nicht natürlich spricht, ist er tot.
+
+**Ausnahme — Hammerschlag als Akzent:**
+Max **2 pro Kapitel**. Ein Fragment- oder Stichwort-Satz als bewusster emotionaler Akzent (Schock, Erkenntnis, Aufprall). Nicht als Tapete, nicht als Erzählton. Der SCHNELL-Modus oben ist diese Akzent-Kategorie, nicht ein „ganzer Register-Modus".
+
+**Warum so hart:** Der Versuch, elliptisch oder „literarisch-knapp" zu schreiben, endet immer in telegrafisch oder bürokratisch. Alle Referenz-Autoren des Projekts (King, Yarros, Maas, Bardugo, Robert, Simone) schreiben in vollständigen Sätzen. Knappheit als Default ist Pseudo-Literatur-Imitation ohne Quelle.
+
+**Konkrete Lokalisierung statt vager Pronomen-Phrasen.** Vage Phrasen wie *„in mir"*, *„da draußen"*, *„irgendwo"*, *„etwas davon"* sind verboten als Default. Sie geben dem Leser keine räumliche Verankerung.
+
+- Wenn die Figur etwas spürt: **wo?** Konkret: *„in meinem Kopf"*, *„in der Brust"*, *„im Bauch"*, *„an den Schläfen"*.
+- Wenn etwas existiert: **wo?** Konkret: *„in der Welt"*, *„vor der Linse"*, *„in dem Garten"*, *„im Wasser"*, *„auf dem Tisch"*.
+- Wenn etwas zeitlich liegt: **wann?** Konkret: *„heute Vormittag"*, *„vor vier Stunden"*, *„im Grünmond"*, statt *„kürzlich"*, *„vor einer Weile"*.
+
+Beispiel: *„Es war in mir"* → *„Es war in meinem Kopf, in meinen Gedanken"*. Konkretes Bild, der Leser sieht es.
+
+## 2.6 Allgemeinverständlich vor Fachterminus
+
+Default ist das **allgemeinverständliche Wort**. Berufs-Fachterminus nur, wenn er im Kontext eindeutig ist oder wenn die Figur ihn der anderen erklärt. Berufslinse ist ein **Filter der Wahrnehmung**, kein Fachvokabular-Tic.
+
+| Fachterminus (gefährlich) | Allgemein-verständlich (Default) |
+|---|---|
+| Floren (Botanik) | Bestimmungsbücher / Pflanzenbücher |
+| Hemmung (Uhrmacher) | erst erklären, dann verwenden |
+| Tonwert (Fotograf) | Helligkeit / Grauton |
+| Spant (Werft) | Rippe / Holzbogen |
+| Pyrogallol (Chemie) | Entwickler / Lösung |
+
+**Test:** Würde ein Leser, der den Beruf nicht kennt, das Wort verstehen? Wenn nein → allgemeinverständlich oder im Satz erklären.
+
+**Berufslinse zeigt sich anders:**
+- Alphina sieht eine Pflanze sofort als „Strauchart, fünfblättrig" — das ist Berufslinsen-Wahrnehmung ohne Fachterminus.
+- Vesper hört bei einer Uhr „den Schlag eine Spur länger" — Wahrnehmung, kein Wort wie „Hemmungsfehler" nötig.
+- Sorel sieht „den Schatten unter der Augenbraue" — Beobachtung, kein „Tonwert".
+
+## 2.7 Welt-Vokabular: thalassisch / vaelisch / moraghisch
+
+Adjektive mit Welt-Bezug richtig verwenden. **Vor jeder Verwendung prüfen: Welt-Ebene oder Stadt-Ebene?**
+
+| Adjektiv | Bedeutung | Beispiel |
+|---|---|---|
+| **thalassisch** | gehört zur Welt Thalassien | thalassische Flora, thalassische Sprache, thalassische Pflanzen, ein Thalassier |
+| **vaelisch** | gehört zur Stadt Vael | vaelisches Pflaster, vaelische Bauart, vaelische Tradition |
+| **moraghisch** / **aus Moragh** | gehört zur anderen Welt | moraghische Pflanze, moraghisches Licht (NUR in Moragh-Kapiteln) |
+| **„die andere Seite"** | Moragh in Thalassien-Kapiteln | Solange wir in Vael sind, bleibt Moragh namenlos |
+
+**Häufige Fehler:**
+- *„Die Farne sind vaelisch"* — falsch, sie sind **thalassisch** (Farne sind eine Flora der Welt, nicht eine Eigenheit der Stadt).
+- *„Die Sprache ist vaelisch"* — falsch, sie ist **thalassisch** (Sprache der Welt).
+- Aber: *„Das Brot ist vaelisch"* — richtig, wenn es eine Stadt-Tradition ist.
+
+## 2.8 Doppelungs-Check pro Replik / Absatz
+
+Bei Repliken oder Absätzen über drei Sätze: prüfen, ob derselbe Inhalt zweimal gesagt wird. Wenn ja: einen Satz streichen.
+
+**Tot:**
+> „Es war in meinem Kopf, in meinen Gedanken. […] Manches davon war nur in meinem Kopf."
+
+Zweimal „Kopf", zweimal die selbe Aussage. Ein Satz reicht.
+
+**Lebendig:**
+> „Es war in meinem Kopf, in meinen Gedanken. […] Ich kann nicht versprechen, dass das, was ihr gleich seht, wirklich existiert hat."
+
+Zwei verschiedene Aussagen — die zweite trägt die Konsequenz, nicht die Wiederholung.
+
+**Test:** Jeden längeren Absatz/Replik einmal durchlesen und nach Schlüsselwörtern suchen, die zweimal vorkommen. Bei Wiederholung prüfen: trägt der zweite Satz neue Information? Wenn nein, streichen.
 
 ## 3. Kontrollverlust-Momente
 
@@ -85,6 +169,54 @@ Das Begehren-Vokabular muss so differenziert sein wie die Berufslinsen:
 **Moragh:** Schwerer, süßer, wie Stein der atmet. Dickere Luft. Sattere Farben. Die Sinne sind LAUTER — alles intensiver, fast überfordernd.
 
 **Die Grauwe:** Salz, aber nicht Meer-Salz. Etwas Fremdes. Brackig und warm, wo es kalt sein sollte.
+
+## 6.5 Sinnes-Adjektive: Pflicht-Stellen + Label-Verbot (Positiv-Regel)
+
+Commercial Dark Romantasy lebt von sinnlicher Sprache. Die Anti-Pattern-Sektion (§7) sagt, **welche** Adjektive verboten sind — diese Sektion sagt, **wo** Adjektive Pflicht sind. Beide Regeln zusammen ergeben den commercial Ton: Yarros/Maas/Robert/Réage benutzen Adjektive reichlich, aber nur konkrete sinnliche; Label-Adjektive sind Erzähler-Faulheit.
+
+### Sinnes-Adjektiv-Pflichtstellen (mindestens ein konkretes Sinnes-Adjektiv pro Stelle)
+
+1. **Erste Berührung im Beat** — wenn die Figur etwas anfasst, schmeckt, riecht: Material + Temperatur + Textur konkret. *„Sie legte die Hand auf den warmen, feuchten Stein"* (statt *„Sie legte die Hand auf den Stein"*).
+
+2. **Szenen-Eröffnung (Ort/Luft/Licht)** — die ersten ~50 Wörter brauchen 1-2 sinnliche Anker. Pflastersteine *kalt*, Nebel *dicht*, Lampenöl-Geruch, *nasses* Laub.
+
+3. **Magie-Manifest** — wenn Resonanz wirkt, konkrete sinnliche Beobachtung Pflicht (warm, pulsierend, klebrig, salzig, schwitzend). Sonst wirkt Magie abstrakt. *„Der Stein war warm, feucht, gleichmäßig perlend"* statt *„Der Stein reagierte"*.
+
+4. **Heat/Nähe-Moment** — Anatomie + Adjektiv konkret (hart, weich, feucht, glatt, rauh, heiß). Réage-Material-Präzision. Auch nicht-explizite Nähe (Hand auf Schulter, Atem im Nacken) braucht 1 Sinnes-Adjektiv.
+
+5. **Horror/Leichenfund** — fremder Geruch, kalte Haut, *graue* Lippen, *raue* Stoppel. Sinnlich-konkret, nicht Pathos. *„Er war einfach aufgehört zu sein"* + *„Die Luft über ihm flimmerte schwach"* tragen mehr als jede Klage.
+
+6. **POV-Lieblingswörter (mindestens 3× pro Kapitel)** — pro POV existiert ein Register-Set, das mindestens dreimal auftauchen sollte:
+   - **Maren:** *stetig, gleichmäßig, satt, warm, dicht, eng, Lücke*
+   - **Alphina:** Wachstums-/Pflanzen-Register (knospen, schwellen, anders blass, frischer Schnitt, würzig, *grün*)
+   - **Sorel:** Licht-/Belichtungs-Register (Schein, Schimmer, *hell*, *gedämpft*, scharf gerandet, weich gestreut)
+   - **Vesper:** Mechanik-Register (*gleichmäßig*, *präzise*, in Takt, ohne Spiel, sauber gegossen, glatt geschliffen)
+   - **Runa:** Wärme-/Material-Register (*warm*, *weich*, *gleichmäßig*, dicht gewoben, satt, leicht)
+
+### Faustregel beim Schreiben (pro Absatz)
+
+- **Mindestens ein konkretes Sinnes-Adjektiv pro Absatz**, das aus mindestens einem dieser Register stammt: Geruch, Tastsinn, Geschmack, Temperatur, Textur, Lautstärke, Lichtqualität.
+- An jeder Tür, jedem Erstkontakt, jedem Material-Wechsel: *„Wie fühlt sich das an?"* → Adjektiv setzen.
+
+### Label-Adjektiv/Adverb-Verbot (HART)
+
+Folgende Adjektive labeln Ton/Stimmung statt zu zeigen — sie sind verboten, weil sie dem Leser die Empfindung wegnehmen, die er aus dem Körperbeat selbst ableiten soll:
+
+| Verboten | Funktion | Ersatz |
+|---|---|---|
+| *verspielt* (Lächeln, Geste) | Labelt Stimmung | Mundwinkel-Beat, Augen-Beat |
+| *wollüstig* (lächte, sah, atmete) | Labelt Lust | Anatomie + Tempo |
+| *ernsthaft, ruhig, nüchtern, kalt* (sagte, sah) | Labelt Ton | Verb-Wahl, Körper |
+| *sanft, zärtlich, liebevoll* (Geste, Stimme) | Labelt Gefühl | Tempo, Druck, Distanz |
+| *leidenschaftlich, hingerissen* | Labelt Begehren | Körper-Reaktion (Atem, Hände, Mund) |
+| *bedrohlich, unheimlich, böse* (Atmosphäre) | Labelt Drohung | Konkrete Drohung (Schatten, Geruch, Geräusch) |
+
+**Bestehende Negativ-Regel** (§7 oben): „Adverb-Tags (sagte wütend/dominant/kalt) — VERBOTEN." Diese §6.5-Liste erweitert das auf **Adjektive vor Substantiven** (verspieltes Lächeln) und **Modus-Adverbien nach Verben** (lächte wollüstig).
+
+**Test pro Adjektiv:**
+1. Trägt es Sinnliches, das die Leserin sonst nicht weiß? → behalten.
+2. Labelt es nur Ton/Stimmung, die aus dem Körperbeat ableitbar wäre? → streichen, Körperbeat einsetzen.
+3. Würde ein präziseres Verb das Adverb überflüssig machen? → Verb tauschen (*flüsterte* statt *sagte leise*, *zischte* statt *sagte wütend*).
 
 ## 7. Anti-Patterns: Commercial-Disziplin statt Default Deny
 
@@ -193,22 +325,25 @@ Der häufigste Stilfehler des Projekts. Bilder werden auf Abstrakta aufgebaut, A
 
 ## 9. Referenz-Autorinnen (neu gewichtet April 2026)
 
-Die Stimme von „Der Riss" ist zweischichtig: **commercial Dark Romantasy als Ton**, **literary Handwerk als Disziplin**. Die Referenzen teilen sich entsprechend.
+**Alle Referenzen sind commercial Bestseller.** Es gibt keine „literary-Disziplin"-Kategorie mehr. King ist commercial (Bestseller mit ~70 Romanen), Bardugo ist commercial (YA-Fantasy-Bestseller), Yarros ist commercial (Romantasy-Bestseller). Alle schreiben in vollständigen, lebendigen Sätzen. Die Unterscheidung verläuft entlang **Schwerpunkt** (Tempo / Erzähldichte / POV-Schärfe), nicht entlang „commercial vs. literary".
 
-### Primär-Ton (Commercial Dark Romantasy)
+### Tempo und Heat (Romantasy-Kern)
 
 - **Rebecca Yarros (Fourth Wing):** Körper in Action und Intimität, direktes Begehren, Enemies-to-Lovers-Heat. **Wo der Körper übernimmt, spricht er zuerst.** Für Alphina/Sorel-Nähe-Register.
 - **Sarah J. Maas (ACOTAR, Throne of Glass):** sinnliche Dichte, Mate-Bond-Intensität, emotionale Höhen und Tiefen, atmosphärische Räume. **Heat mit Atmosphäre.**
 - **Katee Robert (Dark Olympus, Neon Gods):** Dark Romance mit mythologischem Anker, Frauen-Agency, Sex breit und direkt ohne Pornografie.
-- **Sierra Simone (Priest):** geerdet in Material (Wachs, Samt, Stein, Wein), religiös-sinnlicher Kontrast. Bildlastig, aber mit Ding-Boden. **Nicht** ihre fremde-Register-Technik fürs Innenleben.
 - **Raven Kennedy (Plated Prisoner):** Ein-Ding-Leitmetapher über Serie (Gold), Eskalation, melodramatisch-lyrisch.
 
-### Literary-Disziplin (Handwerks-Kontrolle)
+### Erzähldichte und Material (Alltag, Atmosphäre, Tschechow)
 
-- **Stephen King:** Erzähldichte, mundane Details, Tschechow.
-- **Leigh Bardugo (Six of Crows):** POV-Differenzierung, Tempo-Wechsel, benannte Einzeldetails.
-- **R. F. Kuang (Babel):** Stil folgt Stoff, sparsam, keine Akkumulation als Selbstzweck.
-- **Toni Morrison (Beloved):** Erinnerung im Strom, erlebte Rede ohne Marker.
+- **Stephen King:** commercial Horror-/Suspense-Bestseller. Hohe Erzähldichte, mundane Alltags-Details, Sinnes-Material, Tschechow-Setup. **Schreibt immer in vollständigen, beschreibenden Sätzen — niemals Stakkato als Stil.** Wer „literarische Knappheit" als King-Disziplin verkauft, hat King nicht gelesen.
+- **Sierra Simone (Priest):** geerdet in Material (Wachs, Samt, Stein, Wein), religiös-sinnlicher Kontrast. Bildlastig, aber mit Ding-Boden. **Nicht** ihre fremde-Register-Technik fürs Innenleben.
+
+### POV-Schärfe und Tempo-Verflechtung
+
+- **Leigh Bardugo (Six of Crows):** commercial YA-Fantasy-Bestseller. POV-Differenzierung, Tempo-Wechsel, benannte Einzeldetails. **Vollständige Sätze, kein Telegramm.** Bardugos „Schnelligkeit" entsteht aus klaren Sätzen, nicht aus Fragmenten.
+- **R. F. Kuang (Babel):** Stil folgt Stoff, sparsam, keine Akkumulation als Selbstzweck. Auch hier: vollständige Sätze, nur dichte Auswahl.
+- **Toni Morrison (Beloved):** Erinnerung im Strom, erlebte Rede ohne Marker. Gilt als literarische Referenz im Bibliotheks-Sinn — wird hier aber nicht als Stil-Vorbild für Satzbau benutzt.
 
 ### BDSM-Register (nur Vesper/Maren-Strang, explizite Szenen)
 

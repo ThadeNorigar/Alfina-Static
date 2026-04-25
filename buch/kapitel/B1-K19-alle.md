@@ -173,11 +173,11 @@ Im dritten stand etwas an der Kante. Es trat durch.
 
 Die Kante schloss sich hinter ihm. Die Luft wurde wieder Luft.
 
-Es war groß. Drei Meter, vielleicht vier, an der Schulter. Es hatte eine Schulter aus Dunkelheit, die kein Schatten war. Der Kopf war tierisch gezogen, länger als ein Menschenkopf, mit einer Schnauze, in der keine Zähne zu sehen waren. Es hatte Arme, deren Finger erst aus der Hand wuchsen, wenn sie gebraucht wurden. Die Haltung war die eines Menschen auf zwei Beinen, die Ausführung die eines Tieres, das zum ersten Mal stand.
+Es war groß. Zwei Meter an der Schulter, schwer wie ein Stier, mit einem gewölbten Rücken wie bei einem Bären. Vier Beine, breite Schultern, keine Hörner. Es hatte eine Schulter aus Dunkelheit, die kein Schatten war. Der Kopf war tierisch gezogen, länger als ein Menschenkopf, mit einer Schnauze, in der keine Zähne zu sehen waren. An den Vorderpfoten saßen Krallen, die erst aus den Pfoten wuchsen, wenn sie gebraucht wurden.
 
 Maren war am nächsten.
 
-Der Arm zog, die Finger wuchsen im Zug, und die Schattenklaue traf Marens linke Schulter in einem Bogen, den ein umstürzender Baum beschreibt.
+Die Vorderpfote zog, die Krallen wuchsen im Zug, und die Schattenkralle traf Marens linke Schulter in einem Bogen, den ein umstürzender Baum beschreibt.
 
 Maren flog.
 
@@ -185,9 +185,9 @@ Zwei Meter, drei. Sie kam mit dem Rücken auf dem Boden auf, rollte einmal über
 
 Alphinas Knie gaben einen halben Zoll nach. Der Garten kippte, fing sich wieder. Blut am Stoff von Marens Schulter, dunkel, breiter werdend.
 
-Das Ding zog den Arm zurück, hob ihn neu, und Maren versuchte sich aufzudrücken — der rechte Arm trug, der linke hing.
+Das Ding zog die Pfote zurück, hob sie neu, und Maren versuchte sich aufzudrücken — der rechte Arm trug, der linke hing.
 
-Zwischen ihr und der Klaue trat Sorel. Die Nachmittagssonne fiel in schrägen Bahnen durch die Baumkronen. Licht war das einzige Werkzeug, das er hatte. Er nahm es zwischen Daumen und Zeigefinger, zog es zusammen, warf es auf die Schulter des Wesens, mit der Präzision, mit der er eine Belichtung auf eine Platte legte.
+Zwischen ihr und der Kralle trat Sorel. Die Nachmittagssonne fiel in schrägen Bahnen durch die Baumkronen. Licht war das einzige Werkzeug, das er hatte. Er nahm es zwischen Daumen und Zeigefinger, zog es zusammen, warf es auf die Schulter des Wesens, mit der Präzision, mit der er eine Belichtung auf eine Platte legte.
 
 Das Licht traf.
 
@@ -207,7 +207,7 @@ Vesper hob die Hände vor den Körper, die Finger gespreizt, wie bei den Messung
 
 Das Wesen wurde langsamer.
 
-Nicht viel. Einen Herzschlag, zwei. Die Klaue, die gerade anhob, brauchte einen Atemzug länger, als sie gebraucht hätte. Die Schläge kamen spät, und spät reichte.
+Nicht viel. Einen Herzschlag, zwei. Die Kralle, die gerade anhob, brauchte einen Atemzug länger, als sie gebraucht hätte. Die Schläge kamen spät, und spät reichte.
 
 Alphina warf sich auf die Knie. Die Handflächen drückten in die Erde des Kreises, dort wo sonst kein Halm wuchs. Sie schickte den Willen nach unten, durch die Hände, in den Boden, und verlangte Wurzeln: fest und holzig, dick genug für die Beine des Wesens.
 
@@ -235,13 +235,13 @@ Die Wurzeln kamen.
 
 Sie schossen von drei Seiten durch die Grasnarbe, erst fingerdick, dann daumendick, dann handgelenkstark. Um die Füße des Wesens schlangen sie sich und stiegen auf.
 
-Das Wesen bewegte sich nur noch langsam. Die Klaue, die vorhin zum Schlag anhob, zog sich zäh durch die Luft, handbreit für handbreit.
+Das Wesen bewegte sich nur noch langsam. Die Kralle, die vorhin zum Schlag anhob, zog sich zäh durch die Luft, handbreit für handbreit.
 
 Vesper hatte beide Hände in der Luft, die Finger gespreizt in einer Form, die sie an ihm noch nie gesehen hatte. Seine Schultern zitterten. Alphina spürte durch die Erde zwei Takte, die nichts miteinander zu tun hatten — einen, der das Wesen anhielt, einen, der die Wurzeln trieb. Vesper hielt beide.
 
 Zehn Sekunden. Zwanzig.
 
-Die Wurzeln wuchsen durch das Wesen, von unten nach oben, durch die Schattensubstanz hindurch. Der Kopf, den es hatte, bog sich zurück, ohne Geräusch. Seine Arme versuchten, sich in den Rumpf zurückzuziehen, aber die Wurzeln ließen sie nicht.
+Die Wurzeln wuchsen durch das Wesen, von unten nach oben, durch die Schattensubstanz hindurch. Der Kopf, den es hatte, bog sich zurück, ohne Geräusch. Seine Vorderbeine versuchten, sich in den Rumpf zurückzuziehen, aber die Wurzeln ließen sie nicht.
 
 Etwas brach.
 
@@ -261,7 +261,7 @@ Sie zog die Hände einzeln heraus, als wären es nicht ihre.
 
 Dann sah sie.
 
-In der Mitte des Steinkreises, wo gerade eben das Wesen gestanden hatte, stand eine Skulptur aus lebendigem Holz. Humanoid. Drei Meter, vielleicht vier. Die Arme leicht geöffnet, noch im Aufdrehen. Die Wurzeln hatten die Form des Körpers gehalten, auch nachdem der Körper nicht mehr war. Sie waren holzig, dunkel, mit feinen helleren Trieben an den Enden, die sich in die Nachmittagsluft reckten.
+In der Mitte des Steinkreises, wo gerade eben das Wesen gestanden hatte, stand eine Skulptur aus lebendigem Holz. Tierisch, vierbeinig. Zwei Meter an der Schulter. Die Vorderpfoten leicht angehoben, noch im Drücken. Die Wurzeln hatten die Form des Körpers gehalten, auch nachdem der Körper nicht mehr war. Sie waren holzig, dunkel, mit feinen helleren Trieben an den Enden, die sich in die Nachmittagsluft reckten.
 
 Niemand hatte sie gemeißelt.
 
