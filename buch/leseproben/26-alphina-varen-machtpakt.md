@@ -30,11 +30,11 @@ Sie stieg auf ihn. Die Hüfte über der Hüfte, die Handflächen auf seinem Brus
 
 Er lag. Er sah sie an. Er griff nicht. Das war sein Teil der Abmachung: Er griff nicht, solange sie ihn nicht rief. Das hatten sie vor dem Abend besprochen, klar, trocken, wie man eine Vorschrift bespricht.
 
-Sie nahm ihn in die Hand. Er war schon halb bereit, und sie arbeitete die restliche Bereitschaft aus, ohne Eile. Er atmete anders, aber er sagte nichts. Sie auch nicht. Sie führte ihn hinein, und das war der Moment, in dem sie hätte zittern können und nicht zitterte.
+Sie nahm ihn in die Hand. Er war schon halb bereit, und sie machte ihn fertig, ohne Eile. Er atmete anders, aber er sagte nichts. Sie auch nicht. Sie führte ihn hinein. Er war wärmer, als sie wollte. Das war der Moment, in dem sie hätte zittern können und nicht zitterte.
 
 Sie bewegte sich. Langsam. Sie fand den Winkel, der für sie war, und sie blieb darauf, weil sie für sich hier war. Er passte sich unter ihr an, ohne Worte, und das war vielleicht das Schlimmste an ihm — dass er tat, was sie brauchte, ohne zu fragen.
 
-Seine Hand hob sich einmal, als wollte sie an ihren Nacken. Sie sah die Bewegung. Sie sah sie im Keim. Er ließ die Hand wieder sinken. Sie nickte, einmal, knapp, und sie fuhr fort.
+Seine Hand hob sich einmal, als wollte sie an ihren Nacken. Sie sah die Bewegung schon in den Schultern. Er ließ die Hand wieder sinken. Heute ließ er. Sie kannte ihn lange genug, um zu wissen, dass das nicht jeden Tag galt. Sie nickte, einmal, knapp, und sie fuhr fort.
 
 Unter dem Bett, zwischen den Dielen, die hier in Moragh schwarzes Holz waren, kroch etwas durch die Fuge. Sie spürte es, bevor sie es sah — ein Ziehen an einer Stelle in ihrer Brust, die zum Boden zeigte. Sie hob den Kopf nicht, um nachzusehen. Sie wusste.
 
@@ -42,9 +42,9 @@ Es waren Wurzeln. Sie waren schwarz.
 
 Sie waren nicht groß. Sie krochen nicht an der Wand hoch wie damals. Sie lagen in der Fuge, einen Finger lang, verzweigt, glänzend wie frisch gewaschenes Holz, und sie wuchsen jetzt still weiter, während sie oben auf ihm saß und sich bewegte und sich selbst zu Ende brachte.
 
-Varen sah nicht zu Boden. Aber sie sah in seinen Augen, dass er es wusste. Er sah sie an, hielt den Blick, und die Augen blieben ruhig. Er sagte nichts. Das war ihre Abmachung, und es war auch seine Antwort: Er zeigte, dass er sah, ohne zu sprechen, und indem er schwieg, zeigte er, dass er verstand, was die Farbe bedeutete.
+Varen sah nicht zu Boden. Aber sie sah in seinen Augen, dass er es wusste. Er sah sie an, hielt den Blick, und die Augen blieben ruhig. Er sagte nichts. Das war ihre Abmachung, und es war auch seine Antwort.
 
-Sie kam, leise, und fiel nicht vornüber. Sie blieb aufrecht. Das war ihr wichtig. Er kam kurz danach, ebenfalls leise. Sie stieg von ihm. Sie ging zum Waschbecken am Fenster und wusch sich — ohne Hast, wie man nach Gartenarbeit wäscht — und trocknete die Hände an dem Leinentuch, das dort hing.
+Sie kam, leise, und fiel nicht vornüber. Sie blieb aufrecht. Das war ihr wichtig. Er kam kurz danach, ebenfalls leise. Sie stieg von ihm. Sie ging zum Waschbecken am Fenster und wusch sich — ohne Hast, wie man nach Gartenarbeit wäscht. Sorel war in ihrem Kopf, und sie ließ ihn da. Sie trocknete die Hände an dem Leinentuch, das dort hing.
 
 Er hatte sich aufgesetzt, als sie zurückkam, die Beine über die Bettkante, Füße auf dem Teppich. Er sah zu ihr.
 
@@ -58,8 +58,6 @@ Er hatte sich aufgesetzt, als sie zurückkam, die Beine über die Bettkante, Fü
 
 Sie zog das Hemd wieder an. Nicht das Kleid. Sie legte sich auf das Bett, auf die andere Seite, den Rücken zu ihm. Er blieb sitzen, stand nach einer Weile auf, zog Hemd und Weste wieder an. Er legte sich nicht zu ihr. Das war ebenfalls Abmachung: keine Nähe nach der Sache. Nachher nicht zusammen.
 
-Unter dem Bett wuchsen die Wurzeln einen halben Finger weiter und hielten.
+Unter dem Bett wuchsen die Wurzeln einen Finger weiter und hielten. Das Kleinere musste warten.
 
-Sie dachte: Ich vergebe ihm Sorel nicht. Das bleibt. Aber das Kleinere muss warten.
-
-Sie schloss die Augen. Sie schlief nicht. Sie wartete, bis er ging.
+Sie schloss die Augen. Sie wartete wach, bis er ging.
