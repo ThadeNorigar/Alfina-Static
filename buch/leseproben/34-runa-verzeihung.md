@@ -10,7 +10,7 @@ zweck: Canon-Direktive: "Ruhige harte Anerkennung, kein Versöhnungs-Kitsch." Ru
 canon_status: Ton-Etüde, nicht Plot-Canon.
 ---
 
-Sie trafen sich im Lagerraum hinter der Küche des Notbündnis-Hauses. Das war nicht Alphinas Wahl. Das war Runas Wahl, und Alphina hatte die Nachricht gelesen und war gegangen, ohne zu fragen, warum es der Lagerraum war. Sie verstand es, als sie hineintrat: der Raum hatte keinen Tisch. Man konnte sich nicht gegenübersetzen. Man stand, oder man lehnte an den Regalen.
+Sie trafen sich im Lagerraum hinter der Küche des Notbündnis-Hauses. Das war nicht Alphinas Wahl. Das war Runas Wahl, und Alphina hatte die Nachricht gelesen und war gegangen, ohne zu fragen, warum es der Lagerraum war. Sie verstand es, als sie hineintrat: der Raum hatte keinen Tisch. Man stand, oder man lehnte an den Regalen.
 
 Runa lehnte. Linker Ellbogen auf einem Sack Mehl, das Haar unter einem Tuch, das sie in Vael nie getragen hatte.
 
@@ -20,13 +20,13 @@ Runa lehnte. Linker Ellbogen auf einem Sack Mehl, das Haar unter einem Tuch, das
 
 Eine Lampe brannte. Der Raum roch nach Mehl und nach dem Rauch aus der Küche nebenan. Drei Schüsseln standen auf einem Regal, leer, abgewischt, übereinander. Das war gelagert, nicht benutzt.
 
-Alphina machte die Tür hinter sich zu. Sie hatte die rechte Hand am Türrahmen und sah Runa nicht sofort an. Sie sah auf den Boden, auf die breiten Dielen, auf den Mehl-Staub in einer Fuge.
+Alphina machte die Tür hinter sich zu. Sie hatte die rechte Hand am Türrahmen und sah Runa nicht sofort an. Sie sah auf die breiten Dielen, auf den Mehl-Staub in einer Fuge.
 
 »Komm rein«, sagte Runa. »Die Tür ist zu.«
 
 Sie kam einen Schritt herein. Mehr nicht. Sie blieb an der Tür.
 
-Runa sah sie an, lang. Ihre Augen waren nicht feindlich. Sie waren geprüft. Als hätte sie Alphina in den letzten Monaten mehrere Male gesehen, in verschiedenen Zuständen, und als setze sie die Bilder jetzt nebeneinander, um herauszufinden, welches davon heute galt.
+Runa sah sie an, lang. Ihre Augen waren nicht feindlich. Sie waren geprüft. Als setze sie Bilder nebeneinander, um herauszufinden, welches heute galt.
 
 »Du riechst nicht mehr nach ihm«, sagte Runa schließlich.
 
@@ -34,7 +34,7 @@ Runa sah sie an, lang. Ihre Augen waren nicht feindlich. Sie waren geprüft. Als
 
 »Das war das Erste, was ich wissen musste.«
 
-Alphina nickte. Sie fühlte, wie ihr die Tränen kamen, nicht heftig, nur ein langsames Volllaufen in den Augen, das sie schon kannte. Sie machte nichts dagegen. Sie ließ sie kommen. Sie schluckte nicht, sie wischte nicht, sie ließ sie an ihren Wangen herunter.
+Alphina nickte. Sie fühlte, wie ihr die Tränen kamen, ein langsames Volllaufen in den Augen, das sie schon kannte. Sie machte nichts dagegen. Sie ließ sie kommen. Sie schluckte nicht, sie wischte nicht, sie ließ sie an ihren Wangen herunter.
 
 Runa rührte sich nicht vom Mehlsack.
 
@@ -94,4 +94,4 @@ Sie ging durch, und die Tür klappte, und Alphina blieb im Lagerraum stehen, die
 
 Sie ging nicht hinterher. Noch nicht.
 
-Sie blieb einen Moment bei dem Mehl.
+Sie blieb einen Moment bei dem Mehl. Der Geruch saß in ihrer Kehle, mehlig und kühl, und an ihren Fingerkuppen klebte feiner Staub vom Türrahmen.
