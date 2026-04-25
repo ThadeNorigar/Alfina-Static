@@ -24,7 +24,7 @@ Runa trug ihre Arbeitsweste und die Hose mit dem Tintenfleck am rechten Obersche
 
 Durfte sie.
 
-Runa setzte den Mund auf Alphinas Mund, ohne Anlauf. Sie küsste, wie sie immer küsste: direkt, ohne Frage, mit leichtem Druck am Unterkiefer, der Alphina den Kopf in die richtige Schräge zog. Runa schmeckte nach Tabak und der kalten Luft des Weges hierher und, unter allem, nach dem Metall ihrer Druckerlettern, das durch die Haut bis in den Atem kam.
+Runa setzte den Mund auf Alphinas Mund, ohne Anlauf. Sie küsste, wie sie immer küsste: direkt, ohne Frage, mit leichtem Druck am Unterkiefer, der Alphina den Kopf in die richtige Schräge zog. Runa schmeckte nach Tabak und der kalten Luft des Weges hierher und, unter allem, nach der Tinte, die bei ihr immer in der Haut saß.
 
 Alphina zog das Hemd über den Kopf. Runa zog ihre Weste aus, dann das Unterhemd. Darunter nichts. Sie hatte nie etwas darunter. Ihre Brüste waren klein, fest, und die linke hatte einen kleinen Brandfleck am äußeren Rand, nicht größer als eine Erbse, von einer Lettern-Charge vor Jahren.
 
@@ -40,13 +40,13 @@ Runa lachte einmal leise, und dann sprach sie eine Weile nicht mehr.
 
 Alphina ließ sich aufs Bett drücken, rücklings, und Runa kam über sie. Runas Mund fand die eine Brust, dann die andere, dann die Haut unterhalb der Rippen, und Alphina hörte sich selbst atmen. Es war lauter, als sie es wollte, und auch das war mit Runa anders. Runa machte sie laut.
 
-Runa nahm ihre Hand zwischen Alphinas Schenkel. Sie fragte nicht, sie tat. Das mochte Alphina. Runas Finger fanden, was sie kannten. Es dauerte nicht lang. Alphina hob die Hüfte einmal, zweimal, und Runa passte sich an, ohne zu sprechen, und dann kamen die Wellen, die nicht groß waren, aber tief, und Alphina machte ein Geräusch, das sie selbst nicht benannte, weil es zu nah war, um es zu benennen.
+Runa nahm ihre Hand zwischen Alphinas Schenkel. Sie fragte nicht, sie tat. Das mochte Alphina. Runas Finger fanden die Klitoris, präzise, ohne Suchen — sie wusste den Weg seit dem ersten Mal. Alphina war schon feucht, bevor Runa hineinging, und Runa ging hinein, zwei Finger, langsamer als ihre Außenhand. Es dauerte nicht lang. Alphina hob die Hüfte einmal, zweimal, und Runa passte sich an, ohne zu sprechen, und dann kamen die Wellen, die nicht groß waren, aber tief, und Alphina machte ein Geräusch, das sie selbst nicht benannte, weil es zu nah war, um es zu benennen. Ihr Rücken hob sich vom Laken, blieb dort, fiel zurück. Runas Hand blieb, wo sie war, bis Alphina mit einer Bewegung zeigte, dass es genug war.
 
 Es kam nichts.
 
-Kein Trieb aus der Fuge. Keine Blüte unter dem Bett. Keine Ranke am Fensterrahmen. Der Raum war still und blieb still. Als hätte ihr Körper nicht verstanden, dass das, was eben passiert war, das Gleiche war wie mit Sorel. Oder: als hätte er sehr gut verstanden, dass es das nicht war.
+Kein Trieb aus der Fuge. Keine Ranke am Fensterrahmen. Der Raum roch nach ihnen und sonst nach nichts. Als hätte ihr Körper nicht verstanden, dass das, was eben passiert war, das Gleiche war wie mit Sorel. Oder: als hätte er sehr gut verstanden, dass es das nicht war.
 
-Runa setzte sich auf. Sie wischte sich die Hand am Laken ab, geistesabwesend, dann rutschte sie von Alphina herunter und legte sich auf den Rücken neben sie. Ihre Schulter lag nicht an Alphinas Schulter. Zwei Finger Abstand. Das war ebenfalls Runa.
+Runa setzte sich auf. Sie wischte sich die Hand am Laken ab — ohne zu fragen, ob es das saubere war —, dann rutschte sie von Alphina herunter und legte sich auf den Rücken neben sie. Ihre Schulter lag nicht an Alphinas Schulter. Zwei Finger Abstand. Das war ebenfalls Runa.
 
 »Wein?«, sagte sie, an die Decke.
 
@@ -70,4 +70,4 @@ Sie ging.
 
 Alphina blieb im Bett, die Decke bis zur Hüfte, und sah an die Decke. Der Haken am Fensterrahmen, an dem früher ein Topf gehangen hatte, war leer. Da war kein Trieb. Da war nie einer gewesen.
 
-Sie fand, es war in Ordnung.
+Es war in Ordnung.
