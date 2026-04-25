@@ -30,7 +30,7 @@ Sie atmete.
 
 »Langsamer.«
 
-Sie atmete langsamer. Er wartete, bis ihr Atem den Takt fand, den er meinte. Er kannte den Takt seit sechs Monaten. Sie hatte ihn gelernt, indem sie sich ihn von ihm hatte zeigen lassen, an dem ersten Abend, an dem sie ihm gesagt hatte, dass sie nicht wusste, wie sie ohne Struktur durch diese Monate kommen sollte, nicht nach Varen, nicht nach der Reihe von Dingen, die sie getan hatte und die nicht rückgängig waren.
+Sie atmete langsamer. Er wartete, bis ihr Atem den Takt fand, den er meinte. Er kannte den Takt seit sechs Monaten. Sie hatte ihn gelernt am ersten Abend, an dem sie ihm gesagt hatte, dass sie ohne Struktur nicht durch diese Monate kommen würde. Nicht nach Varen. Nicht nach allem, was nicht rückgängig war.
 
 Er hatte genickt. Er hatte gefragt, was sie früher gewusst habe, was sie trage. Sie hatte geantwortet: Ordnung. Er hatte gesagt: Dann Ordnung.
 
@@ -50,7 +50,7 @@ Er streckte jetzt die rechte Hand aus und legte sie an ihren Hinterkopf, nicht d
 
 Er nickte. Er stellte diese Fragen jedes Mal, bevor etwas anderes kam. Sie hatte es am Anfang lästig gefunden. Dann hatte sie begriffen, dass die Fragen ein Teil der Sache waren, nicht davor.
 
-Er legte seine Hand von ihrem Hinterkopf an ihre Schläfe, dann unter ihr Kinn, und hob ihren Kopf. Sie sah ihn an. Seine Augen waren ruhig, nicht warm, nicht kalt. Sie waren er.
+Er legte seine Hand von ihrem Hinterkopf an ihre Schläfe, dann unter ihr Kinn, und hob ihren Kopf. Sie sah ihn an. Seine Augen waren ruhig, nicht warm, nicht kalt. Sie kannte den Blick seit Monaten.
 
 »Zieh das Kleid aus«, sagte er. »Langsam. Benutz die Linke, wo du kannst.«
 
@@ -76,7 +76,7 @@ Das Kleid lag neben ihrem rechten Knie. Sie blieb, wie sie war.
 
 »Gut.«
 
-Er band. Mit der rechten Hand, ein Stück Seide, das Vesper an diesem Ort bei sich trug, weil er Seide brauchte und weil Seide nicht rieb. Die Bewegung war ungelenk — er übte noch, ein Jahr reichte dafür nicht — aber sie war präzise. Er ließ das Band an der offenen Stelle weg. Er zog einen halben Zoll straffer, als hätte Maren es gemacht, weil er mit einer Hand keinen anderen Halt hatte. Er hielt ihre Handgelenke kurz in seiner Hand, prüfte den Sitz, ließ los.
+Er band. Mit der rechten Hand, ein Stück Seide, das Vesper an diesem Ort bei sich trug, weil er Seide brauchte und weil Seide nicht rieb. Die Bewegung war ungelenk — er übte noch, ein Jahr reichte dafür nicht — aber sie war präzise. Er ließ das Band an der offenen Stelle weg. Er zog ein Stück straffer, als hätte Maren es gemacht, weil er mit einer Hand keinen anderen Halt hatte. Er hielt ihre Handgelenke kurz in seiner Hand, prüfte den Sitz, ließ los.
 
 »Stirn auf das Knie«, sagte er. »Mein Knie.«
 
@@ -94,4 +94,4 @@ Nach langer Zeit — sie wusste nicht, wie lange — löste er das Band. Er legt
 
 »Ja.«
 
-Er legte das Kinn auf ihren Scheitel. Er sagte nichts mehr. Sie saß gegen ihn, die gebundenen und wieder gelösten Handgelenke auf ihrem Schoß, und hörte das Meer, und nach einer Weile stand er auf, und sie stand mit ihm auf, und er ging nicht. Er blieb im Zimmer. Er machte Tee.
+Er legte das Kinn auf ihren Scheitel. Er sagte nichts mehr. Sie saß gegen ihn, die gebundenen und wieder gelösten Handgelenke auf ihrem Schoß, und hörte das Meer, und nach einer Weile stand er auf, und sie stand mit ihm auf, und er ging nicht. Er blieb im Zimmer. Er hob die Teekanne mit der Rechten — die Linke fehlte für den Henkel — und schenkte ein. Der Tee schmeckte nach Anis und heißem Wasser.
