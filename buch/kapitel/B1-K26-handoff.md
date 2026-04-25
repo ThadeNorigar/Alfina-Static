@@ -47,8 +47,16 @@ Aphorismus gestrafft, Erklär-Nachsätze raus, V/M-Mikro-Beat + Tee-
 Geschmack im Mittelteil, Pause-Beats vor Sorels Warum-Frage und Harons
 Randbemerkung, Sorel-Platte-3 verlangsamt mit Alphina-Beat.
 
-## Council-Findings die NICHT eingearbeitet wurden
-- Vespers Berufslinse (s.o., separate Session)
-- „Konkretheit 31% Absätze ohne Material" (Stil-Check) — Plot-tragend, Risiko: zusätzliche Material-Details würden den Text aufblähen
-- „nickte" 19× (monoton) — Ersetzungen würden bei vielen Stellen kleinere Eingriffe brauchen
-- Vesper-Sätze über 30W (Z23, Z77) — Halvard-Erklärung dicht, aber funktional
+## Council-Findings — Entscheidungen (2026-04-25)
+
+### Vespers Berufslinse
+**Entscheidung:** Separate Opus-Session. Memory korrigiert + Tick-Schranke ergänzt: max. 1 Fachbegriff pro Kapitel, kein Begriff zweimal. Handlung vor Vokabular.
+
+### „Konkretheit 31% Absätze ohne Material"
+**Entscheidung:** Skippen. Material in Plot-Absätzen erzwingen wäre Aufblähung. Konkretheit-Memory greift bei Atmosphäre/Nähe; Plot-Absätze dürfen schlanker sein. Nur fixen, wo's beim Lesen natürlich auffällt.
+
+### „nickte" 19× monoton
+**Entscheidung:** Halbierung als Ziel im /lektorat-fix-Pass. ~10 Stellen anschauen: Hälfte streichen (Beat überflüssig), andere durch konkrete Geste ersetzen (kurzer Blick, Kopf zur Seite, „Hm"). Schneller Pass.
+
+### Vesper-Sätze >30W (Z23, Z77)
+**Entscheidung:** Belassen. Council selbst markiert „funktional dicht für Halvard-Erklärung". Lange Sätze bei Erklär-Information sind richtig.
