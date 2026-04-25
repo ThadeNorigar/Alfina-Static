@@ -38,7 +38,7 @@ Sie stand zwischen der Kreatur und Maren. Sie hob die Hände, nicht als Abwehr, 
 
 Sie sah Maren nicht an beim Fallen. Sie sah niemanden an. Das ging zu schnell.
 
-Aus dem Nebenraum kam Olan gelaufen, mit einer Schiffskeule, die über dem Schreibtisch gehangen hatte — sie war älter als Olan, älter als Maren, ein Stück von Haron Dahls Werft, das sie seit den ersten Jahren hier aufgehängt hatten, weil Maren gesagt hatte, es gehöre dazu. Olan schlug zu. Die Keule ging durch die Kreatur hindurch wie durch einen Schatten und schlug an die Wand dahinter. Er schlug noch einmal. Die Kreatur drehte den Kopf und sah Olan an, wie man ein unbrauchbares Werkzeug ansieht.
+Aus dem Nebenraum kam Olan gelaufen, mit einer Schiffskeule, die über dem Schreibtisch gehangen hatte — älter als Olan, älter als Maren. Ein Stück von Haron Dahls Werft, das sie seit den ersten Jahren hier aufgehängt hatten, weil Maren gesagt hatte, es gehöre dazu. Olan schlug zu. Die Keule ging durch die Kreatur hindurch wie durch einen Schatten und schlug an die Wand dahinter. Er schlug noch einmal. Die Kreatur drehte den Kopf und sah Olan an, wie man ein unbrauchbares Werkzeug ansieht.
 
 Sie tötete ihn.
 
@@ -46,7 +46,7 @@ Maren wich zurück in ihr Büro. Sie schloss die Tür nicht. Sie hatte die Klink
 
 Hinter den Fenstern, über den Dächern, stand Dampf auf. Zwei weitere Dampfsäulen, klein von hier, aber sie standen an den Stellen, wo das Haupthaus war und wo die Bibliothek war. Drei, dachte Maren. Es sind drei.
 
-Sie griff nicht nach dem Telegrafenhebel. Sie griff nach dem oberen Schubfach, weil dort das Notizbuch lag, und sie nahm es heraus. Sie legte es offen auf den Schreibtisch, zur letzten Seite, und schrieb nicht — sie sah nur hin, als vergäbe sie einer Seite, die sie lange gefüllt hatte. Auf der Seite stand: *Expedition 2, Kalibrierung Oktober.* Ihre eigene Handschrift.
+Sie griff nicht nach dem Telegrafenhebel. Sie griff nach dem oberen Schubfach, weil dort das Notizbuch lag, und sie nahm es heraus. Sie legte es offen auf den Schreibtisch, zur letzten Seite, und schrieb nicht — sie sah nur hin, als vergäbe sie einer Seite, die sie lange gefüllt hatte. Auf der Seite stand: *Expedition 2, Kalibrierung Erntemond.* Ihre eigene Handschrift.
 
 Sie hatte vor zwölf Jahren eine Expedition geschickt. Kleine Gruppe, drei Leute, über den Bogen. Die Kalibrierung hatte funktioniert. Die Rückkehrer hatten berichtet, sie seien gesehen worden. Zu früh.
 
@@ -60,7 +60,7 @@ Maren sagte es laut.
 
 »Ich habe sie hergeschickt.«
 
-Das Ding griff nicht. Es trat einen Schritt, und es war bei ihr, und sein Arm ging durch ihren Brustkorb wie durch die Wand, wie durch Thyra, wie durch Olan, und Maren spürte den Stich und die Stille nacheinander, sehr kurz.
+Das Ding griff nicht. Es trat einen Schritt, und es war bei ihr, und sein Arm ging durch ihren Brustkorb wie durch die Wand, wie durch Thyra, wie durch Olan, und Maren spürte den Stich und die Stille nacheinander, sehr kurz. Salz schmeckte sie zuletzt — Werftsalz, von einer Lippe, die sich erinnerte.
 
 Sie fiel vorwärts auf das Notizbuch.
 
