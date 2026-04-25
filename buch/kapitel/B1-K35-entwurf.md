@@ -1,7 +1,7 @@
-# B1-K33b — Maren — Entwurf
+# B1-K35 — Maren — Entwurf
 
 **POV:** Maren (3. Person nah, Präteritum) **mit gelegentlichen Wechseln zu Vesper-POV** (drei kurze Vesper-POV-Beats markiert)
-**Timeline:** Nacht vom 1. auf den 2. Dunkelmond 551 TZ · unmittelbar nach K33 (Ritual-Planung beendet) · vor K34 (Letzter Abend, Sorel hält Hand) und K35 (Ritual-Vollzug)
+**Timeline:** Nacht vom 1. auf den 2. Dunkelmond 551 TZ · unmittelbar nach K34 (Ritual-Planung beendet) · vor K36 (Letzter Abend, Sorel hält Hand) und K37 (Ritual-Vollzug)
 **Wortziel Ausarbeitung:** 5.000–5.800 W (lang wegen expliziter BDSM-Sex-Szene mit klinischer Réage-Präzision)
 **Gänsehaut-Moment:** Maren steht in der Mitte von Vespers Wohnung, nackt, die Augen verbunden, die Hände über dem Kopf am Bettpfosten gefesselt, die Beine an den Fußpfosten gestreckt auseinander. Sie hört ihn atmen. Er steht im Raum, sie weiß nicht wo. Sie hat den Schachturm aufgestellt — ihr erstes Mal als Initiierende, nach fünf Monaten als Eingeladene. Er ist gekommen. Was jetzt geschieht, hat sie selbst gerufen.
 
@@ -55,17 +55,17 @@
 - **Die Saatmond-Übergabe des Turms** — neuer Canon-Beat. Feuert in K28-Entwurf-Korrektur (Schachfigur-Übergabe-Frage geschlossen).
 - **Das *halt*-Wort** — feuert später in der Szene falls Maren es sagt (im Entwurf nicht vorgesehen, aber als Tschechow geladen).
 - **Die offene Taschenuhr und die Hemmungsfeder** — Vesper hat seine Arbeit unterbrochen für sie. Tschechow-leise: er war bereit, sie zu unterbrechen. Feuert nicht weiter, ist nur Charakter-Beat.
-- **Die Standuhr-Schläge drei-vier-drei** — Vespers Lieblings-Takt (4:33 = Vesper-Canon aus K11/K32). Feuert hier als Ambient-Anker — Vesper ist im Raum, mit seinem Takt.
+- **Die Standuhr-Schläge drei-vier-drei** — Vespers Lieblings-Takt (4:33 = Vesper-Canon aus K11/K33). Feuert hier als Ambient-Anker — Vesper ist im Raum, mit seinem Takt.
 
 **Tschechow-Waffen abgefeuert Sz1:**
 - **Schachturm als V/M-Session-Signatur (K27-Canon)** — hier durch Maren initiiert, K27-Grammatik gespiegelt.
 - **K28-Schluss (Maren denkt *„nicht heute, aber bald — nach dem Ritual die Nacht"*)** — *„nach dem Ritual"* ist falsch gewesen, es ist *vor* dem Ritual; der Bogen schließt sich anders, aber er schließt sich.
-- **K33-Schluss-Beat (Maren am Boot, *„warte auf mich"*)** — direkt fortgesetzt.
+- **K34-Schluss-Beat (Maren am Boot, *„warte auf mich"*)** — direkt fortgesetzt.
 
 **Cross-POV-Ankerpunkte Sz1:**
 - **K27 (Maren-POV, Sz1):** Erste V/M-Nacht, Vesper als Initiator. Hier umgekehrt. Eigene Beat-Welt — keine Wiederholung der K27-Sätze.
-- **K33 (Alle-POV):** Maren am Boot, Vesper bei der Quartett-Beratung. Hier kommen sie zusammen. K33-Sätze nicht wiederholt — eigene Geographie (Vespers Wohnung statt Steinkreis).
-- **K35 (kommend, Ritual):** Cross-POV-Anker — die Maren von K35 ist die, die diese Nacht durchlebt hat.
+- **K34 (Alle-POV):** Maren am Boot, Vesper bei der Quartett-Beratung. Hier kommen sie zusammen. K34-Sätze nicht wiederholt — eigene Geographie (Vespers Wohnung statt Steinkreis).
+- **K37 (kommend, Ritual):** Cross-POV-Anker — die Maren von K37 ist die, die diese Nacht durchlebt hat.
 - **Sprach-Register Maren:** Satz mittellang, fließend. Lieblings-Wörter *stetig, gleichmäßig, satt, warm.* In V/M-Szenen wird die Sprache straffer und konkreter (Réage-Stil), aber nicht Stakkato.
 - **Kleidung:** Ankunfts-Register — Wollrock (Herbst, Dunkelmond ist Spätherbst), Leinenhemd, Lederriemen, Mantel. Kein Mieder heute (Werft-Abend, sie hat es nicht getragen).
 
@@ -199,11 +199,11 @@
 - *Anus-Berührung mit Olivenöl, kreisend, ohne Eindringen:* präzise umrissen, mit *halt*-Wort-Klausel und *„heute nicht öffnen"*-Aufschub.
 - *Penetration mit Klitoris-Reiben:* gleichzeitig, gleicher Takt.
 - *Vesper kommt nicht:* Disziplin, Réage-Service-Top.
-- *Standuhr-Takt 4:33:* Vesper fickt im Takt seiner eigenen Resonanz-Signatur. Subtiler Cross-POV-Anker für K32.
+- *Standuhr-Takt 4:33:* Vesper fickt im Takt seiner eigenen Resonanz-Signatur. Subtiler Cross-POV-Anker für K33.
 
 **Tschechow-Waffen geladen Sz3:**
 - **Vespers Disziplin (kommt nicht in dieser Nacht)** — Tschechow für B2 (Vesper-Trennung von Maren in Moragh: er wird auf das, was er heute Nacht zurückhielt, lange warten müssen).
-- **4:33-Takt im Ficken** — Vespers Resonanz-Signatur körperlich gemacht. Cross-POV zu K32.
+- **4:33-Takt im Ficken** — Vespers Resonanz-Signatur körperlich gemacht. Cross-POV zu K33.
 - **Anus-Berührung mit Aufschub** — Tschechow für B2/B3 (Vesper wird sie dort öffnen, wenn die Zeit ist).
 - **Marens Schwellen-Erfahrung** — neuer Sub-Canon für sie. In B2-Solo-Kapiteln Erinnerungs-Anker.
 
@@ -214,7 +214,7 @@
 
 **Cross-POV-Ankerpunkte Sz3:**
 - **K11 (Vesper-POV, Tidemoor-Uhr 4:33-Drift):** Hier körperlich integriert — Vesper fickt im 4:33-Takt der Standuhr. Cross-POV-Echo.
-- **K32 (Vesper-POV, kommend):** Vespers Schwerkraftanomalie-Erkenntnis. Hier vorausschauend angeklungen — er kennt seinen Takt.
+- **K33 (Vesper-POV, kommend):** Vespers Schwerkraftanomalie-Erkenntnis. Hier vorausschauend angeklungen — er kennt seinen Takt.
 - **K27 Sz3 (Aufschub-Versprechen, *„Heute noch Geduld"*):** Hier eingelöst. Bogen schließt sich.
 
 ---
@@ -256,7 +256,7 @@
 **Tschechow-Waffen geladen Sz4:**
 - **Schachturm in Vespers linker Tasche** — Tschechow für B2 (Vesper trägt ihn nach Moragh; in Trennungs-Szenen ist er bei Vesper, nicht bei Maren). Canon-Stand zurückgesetzt: Turm wechselt die Hand je nach wer initiiert.
 - **Vespers Hemd nach Tinte und Lampenöl** — Geruchs-Anker für B2 (Maren in Moragh ohne Vesper: Erinnerung an dieses Hemd).
-- **Standuhr-4:33 als Schlaflied** — Tschechow für K35 (Ritual mit 4:33-Takt) und B2 (Maren in Moragh ohne den Takt).
+- **Standuhr-4:33 als Schlaflied** — Tschechow für K37 (Ritual mit 4:33-Takt) und B2 (Maren in Moragh ohne den Takt).
 
 **Tschechow-Waffen abgefeuert Sz4:**
 - **K27 Sz3 Aftercare (Hand zwischen Schulterblättern, bis Atem in die Hand geht)** — hier wieder, jetzt nach voller Sex-Szene.
@@ -265,8 +265,8 @@
 
 **Cross-POV-Ankerpunkte Sz4:**
 - **K27 Sz3-Aftercare:** Direktes Echo, hier in voller Aftercare-Form (mit Wasser, Massage, Decke).
-- **K34 (Letzter Abend, Alphina-POV, kommend):** Maren ist morgen früh wieder in der Werft oder bei Vesper, dann zum Steinkreis. Anschluss offen — Autor-Frage: kommt Maren ausgeruht zum Ritual oder müde?
-- **K35 (Ritual, kommend):** Vesper trägt den Turm bei sich — zeigt sich oder nicht im Ritual. Autor-Detail.
+- **K36 (Letzter Abend, Alphina-POV, kommend):** Maren ist morgen früh wieder in der Werft oder bei Vesper, dann zum Steinkreis. Anschluss offen — Autor-Frage: kommt Maren ausgeruht zum Ritual oder müde?
+- **K37 (Ritual, kommend):** Vesper trägt den Turm bei sich — zeigt sich oder nicht im Ritual. Autor-Detail.
 
 ---
 
@@ -274,7 +274,7 @@
 
 ### Was weiß Maren am Anfang?
 
-- **Aus K33 (vorher):** Quartett hat sich entschieden — Durchgang morgen. Runa kommt mit. Vesper hat das Ritual übersetzt. Maren hat *„warte auf mich"* zum Boot gesagt.
+- **Aus K34 (vorher):** Quartett hat sich entschieden — Durchgang morgen. Runa kommt mit. Vesper hat das Ritual übersetzt. Maren hat *„warte auf mich"* zum Boot gesagt.
 - **Aus K27b (Zeitsprung-Canon):** Fünf Monate V/M-Beziehung eingespielt. Schachturm-Übergabe im Saatmond.
 - **Aus K28:** Pochen in der Brust (jetzt wieder, sitzend, ruhig). Stadt im Vorfeld-Zerfall.
 - **Aus K27:** Erste V/M-Nacht. Schachturm-Signatur.
@@ -290,10 +290,10 @@
 ### Was darf Maren NICHT wissen (Sorel-Prinzip)?
 
 - **Den Namen Varen.**
-- **Die Details des Rituals**, falls Vesper sie heute Nacht nicht erklärt hat (Annahme: sie wissen es alle aus K33-Beratung; bestätigt im Aktplan-Snippet). Falls nein: ja, sie weiß die Grundzüge.
-- **Vespers Schwerkraft-Erkenntnis (K32)** — die ist bereits Canon-Wissen seit K32; sie kennt das.
-- **Dass Sorel sterben wird (K35)** — keine Vorahnung.
-- **Dass Vesper sich von ihr trennen wird in B2** — keine Vorahnung; das Wort *„Trennung"* fällt in K33b nicht.
+- **Die Details des Rituals**, falls Vesper sie heute Nacht nicht erklärt hat (Annahme: sie wissen es alle aus K34-Beratung; bestätigt im Aktplan-Snippet). Falls nein: ja, sie weiß die Grundzüge.
+- **Vespers Schwerkraft-Erkenntnis (K33)** — die ist bereits Canon-Wissen seit K33; sie kennt das.
+- **Dass Sorel sterben wird (K37)** — keine Vorahnung.
+- **Dass Vesper sich von ihr trennen wird in B2** — keine Vorahnung; das Wort *„Trennung"* fällt in K35 nicht.
 
 ### Premature-Doubt-Check
 
@@ -324,7 +324,7 @@
 
 ### Horror-Kalibrierung
 
-- Keine. K33b ist Heat, kein Horror.
+- Keine. K35 ist Heat, kein Horror.
 - Subtile Drohung im Hintergrund (morgen Ritual, Stadt im Zerfall) — nur als Resonanz, nicht aktiv.
 
 ### Commercial 95%-Gate-Check (Positioning §9)
@@ -343,7 +343,7 @@
 
 ### Kanon-Checks
 
-- **1./2. Dunkelmond 551 TZ Nacht** = direkt nach K33, vor K34/K35.
+- **1./2. Dunkelmond 551 TZ Nacht** = direkt nach K34, vor K36/K37.
 - **Vespers Wohnung über der Uhrmacherei am Marktplatz** = Canon-Annahme (POV-Dossier Vesper prüfen).
 - **Bett mit gedrechselten Pfosten oben und unten** = Canon-Vorschlag für die Wohnung; falls anderes Bett-Design Canon ist, anpassen.
 - **Wohnungstüren im 1820-Vael:** Schlüssel mit Riegel, plausibel.
@@ -352,10 +352,10 @@
 
 ### Aktplan-Abgleich
 
-- K33b ist **neu** (Autor-Wunsch nach K28-Council und Council-Reviews).
-- K33-Aktplan endet mit *„Maren am Boot, Hand auf das Holz. *„Warte auf mich.""* — K33b setzt direkt an: Maren verlässt das Boot, geht zu Vesper.
-- K34-Aktplan: *„Letzter Abend. Steinkreis. Sorel hält zum ersten Mal ihre Hand ungebeten."* — K34 spielt nach K33b, am Tag des 2. Dunkelmonds.
-- K35: Ritual am 2. Dunkelmond Nacht.
+- K35 ist **neu** (Autor-Wunsch nach K28-Council und Council-Reviews).
+- K34-Aktplan endet mit *„Maren am Boot, Hand auf das Holz. *„Warte auf mich.""* — K35 setzt direkt an: Maren verlässt das Boot, geht zu Vesper.
+- K36-Aktplan: *„Letzter Abend. Steinkreis. Sorel hält zum ersten Mal ihre Hand ungebeten."* — K36 spielt nach K35, am Tag des 2. Dunkelmonds.
+- K37: Ritual am 2. Dunkelmond Nacht.
 
 ---
 
@@ -384,5 +384,5 @@
 3. **Marens Schreien beim Orgasmus** — leise, einmalig. Falls Autor stärkeres Ausagieren wünscht: anpassbar.
 4. **Vesper kommt nicht** — Réage-Disziplin-Lesart. Falls Autor will, dass Vesper nach ihr kommt (im Stillstand in ihr): einfügbar.
 5. **Olivenöl als Anus-Material** — historisch plausibel (1820, Hafenstadt). Alternativen: Mandelöl, Walnussöl. Préférenz?
-6. **Standuhr-Takt 4:33 im Ficken** — Cross-POV-Anker zu K11/K32. Falls zu meta/zu auffällig: streichen, dann nur als ambient Geräusch.
+6. **Standuhr-Takt 4:33 im Ficken** — Cross-POV-Anker zu K11/K33. Falls zu meta/zu auffällig: streichen, dann nur als ambient Geräusch.
 7. **Schluss-Satz** — Vorschlag oben. Alternative: *„Sie schliefen ineinander, drei-vier-drei."* — emotionaler. Préférenz?

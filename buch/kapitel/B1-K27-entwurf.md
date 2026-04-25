@@ -39,13 +39,13 @@
 - *Maren erfährt / benennt:* Alphinas Wärme am Drücker (Cross-POV-Beleg für Alphinas K25-Körperwärme). Sie registriert es, keine Theorie.
 - *Maren erfährt:* Harons Handschrift hat Wurzel- und Suffix-Logik — die fremde Sprache ist baubar, nicht willkürlich. Vesper liest Muster, sie Handschrift. Ihre Arbeit ist komplementär, wie Kiel und Spant.
 - *Gemeinsam gefunden:* ein sechstes Wort, *Schwelle/Übergang*. Die Wortliste wächst von fünf auf sechs.
-- *Ein siebtes Wort bleibt offen.* Tschechow für K33.
+- *Ein siebtes Wort bleibt offen.* Tschechow für K34.
 - *Maren erkennt:* Vespers Hand ist ohne Ausrede. Das ist der Unterschied zu K19.
 - *Maren erkennt:* Sie bewegt sich nicht. Das ist ihre Antwort, nicht sein Triumph.
 - *Vesper-Beat (durch Maren-Augen):* Er nimmt die Hand nicht weg, sagt nicht, dass er sie liegen lässt, macht nichts daraus. Das ist das, was sie an ihm wiedererkennt.
 
 **Tschechow-Waffen geladen:**
-- **Das sechste Wort (*Schwelle/Übergang*)** — erhöht den übersetzten Wortschatz. Feuert in K33 bei Ritual-Vollzug, wenn das Ritual in Teilschritte gegliedert werden muss.
+- **Das sechste Wort (*Schwelle/Übergang*)** — erhöht den übersetzten Wortschatz. Feuert in K34 bei Ritual-Vollzug, wenn das Ritual in Teilschritte gegliedert werden muss.
 - **Das siebte, offene Wort mit dem Zusatzstrich** — Tschechow für K29–K31. Die Feinheiten des Rituals liegen in diesen unklaren Zeichen.
 - **Alphinas Handwärme am Drücker** — Tschechow für Alphinas Feuer-Resonanz-Arc (nicht Runa, sondern Alphinas eigene Körper-Schwelle); feuert in K30+ aus Alphina-POV.
 - **Vespers Handlage auf Marens Schulter ohne Verband** — feuert unmittelbar in Szene 2 (wird zur Grundlage der Power-Anweisung).
@@ -119,7 +119,7 @@
 - **K20 (Maren-POV, *„Gut"*-Dossier):** Hier physiologisch wiederholt, aber *anders* ausgebildet — Ruhe statt Welle. Kein Reihum-Körperbeat-Katalog. Konkret das Mieder und der Mund.
 - **K25 (Alphina-POV):** Runas Körperwärme wurde von Alphina registriert. In K27 spielt Runa keine Rolle, aber Marens Wasser-Resonanz-Erwachen schließt den Resonanz-Erwachen-Ring über die vier — drei sind jetzt bewusst (Alphina Pflanze, Sorel Licht, Vesper Zeit), Maren beginnt in K27 mit dem Hören, wird in K28 körperlich.
 - **K28 (Maren, drei Monate später):** Das Pochen von K27 ist das, was sie in K28 zum Steinkreis zieht. Ohne K27-Öffnung keine K28-Handlung.
-- **K31/K33 (Ritual-Training / Ritual-Vollzug):** Marens Sub-Haltung (Hände flach, Atmen, Schweigen auf Anweisung) ist dann auch eine Ritual-tauglich übbare Form der Konzentration. Tschechow-Bogen.
+- **K31/K34 (Ritual-Training / Ritual-Vollzug):** Marens Sub-Haltung (Hände flach, Atmen, Schweigen auf Anweisung) ist dann auch eine Ritual-tauglich übbare Form der Konzentration. Tschechow-Bogen.
 
 ---
 
@@ -177,7 +177,7 @@
 - **Die erste nicht-sexualisierte Ganzkörper-Berührung** — Arme, Schultern, Rücken. Tschechow: Vespers Vokabular der Körper-Aneignung beginnt ruhig und breit, nicht punktuell-erotisch. Feuert im Kontrast zu späteren Szenen, wenn er punktuell wird.
 - **Maren nackt unter Vespers Gehrock** — das Bild schließt Szene 3: Körper-Aneignung + Care-Geste in einer Figur. Feuert in B2 (Moragh-Trennung: sie hat weder seinen Gehrock noch seine Hand).
 - **Die Flechtmatte** — nicht-Bett-Register. Feuert in B2 (kein Bett in Moragh).
-- **Vespers Dunkelarbeit aus dem Gedächtnis** — Tschechow für Vesper-Arc. Feuert in K32 und B2.
+- **Vespers Dunkelarbeit aus dem Gedächtnis** — Tschechow für Vesper-Arc. Feuert in K33 und B2.
 - **Der Lederriemen am linken Handgelenk in Nacktheit** — persönliches Canon-Detail, das bleibt. Tschechow: ihr eigenes, mitgebrachtes Ding, das in Vespers Rahmen nicht abgenommen wird.
 
 **Tschechow-Waffen abgefeuert:**

@@ -61,11 +61,11 @@
 - **Die Messinglaterne mit Sprung im rechten Glas** — feuert in Sz3 als Identifikator der Leiche.
 - **Die Pistole (vermutete) in der Gürteltasche** — Tschechow-Beat: die Bewaffnung der Nachtwache half ihm nicht. Feuert implizit in Sz3 (die Tasche ist offen, vielleicht hat er die Waffe gezogen, fehlt dann in der Leiche — oder sie ist noch drin ungenutzt; Autor-Detail).
 - **Die offene Nebentür am Gärtnerhaus** — Tschechow für K29 (Sorel kommt denselben Weg).
-- **Das rückwärts fließende Wasser in der Grauwe** — Tschechow für K32 (Vespers Schwerkraft-Rechnen braucht Marens Gezeitendaten) und K33 (Ritual-Vollzug).
+- **Das rückwärts fließende Wasser in der Grauwe** — Tschechow für K33 (Vespers Schwerkraft-Rechnen braucht Marens Gezeitendaten) und K34 (Ritual-Vollzug).
 - **Warme Werft-Planken (von unten im Herbst)** — Tschechow für Alphina (K29/K30: Bodentemperatur-Anomalie, nicht Sommer-Rest).
 - **Der süß-dichte Geruch aus dem Südosten** — Tschechow-Fundament für Sz3-Leichenfund (dieselbe Signatur) und K31-Marktplatz *„riecht süß und dicht — nach Moragh"*.
 - **Marens Schlüssel am Lederband am Hals** — Fünf-Monate-Canon-Detail, feuert in B2.
-- **Der Schachturm auf Marens Kommode (nicht aufgestellt-als-Signal)** — Canon-Stand für K28, feuert in K33b (V/M-BDSM-Nacht: Maren stellt ihn *absichtlich* auf Vespers Tisch).
+- **Der Schachturm auf Marens Kommode (nicht aufgestellt-als-Signal)** — Canon-Stand für K28, feuert in K35 (V/M-BDSM-Nacht: Maren stellt ihn *absichtlich* auf Vespers Tisch).
 
 **Tschechow-Waffen abgefeuert:**
 - **Das Pochen in Marens Brustkorb (K27 Sz2)** — fünf Monate getragen, heute zum ersten Mal als Kompass aktiv.
@@ -126,11 +126,11 @@
 
 **Tschechow-Waffen geladen:**
 - **Der Stein-Salz-Geschmack** — feuert in B2 (*„sie kannte den Geschmack schon"*).
-- **Die Schemen-Grenze** — Canon für K29/K30/K33. Feuert in B2, wenn ähnliche Grenzen in Moragh begegnen.
+- **Die Schemen-Grenze** — Canon für K29/K30/K34. Feuert in B2, wenn ähnliche Grenzen in Moragh begegnen.
 - **Der warme Boden im Kreis (im Herbst besonders auffällig)** — Tschechow für Alphina K29/K30 (Bodentemperatur-Anomalie messbar).
-- **Marens Steuern-vs-Hören-Unterscheidung** — Tschechow für K33 (Ritual-Vollzug: sie muss hören und steuern gleichzeitig).
+- **Marens Steuern-vs-Hören-Unterscheidung** — Tschechow für K34 (Ritual-Vollzug: sie muss hören und steuern gleichzeitig).
 - **Die Anzahl der Schemen: sechs oder sieben** — Canon-Anker.
-- **Der Nebel-Bruch am Kreis** — neuer Canon-Beat. Feuert in K29/K33/K34.
+- **Der Nebel-Bruch am Kreis** — neuer Canon-Beat. Feuert in K29/K34/K36.
 
 **Tschechow-Waffen abgefeuert:**
 - **Das Pochen (K27 Sz2)** — hier körperlich unter der Hand.
@@ -174,7 +174,7 @@
 - **Die Erkenntnis, rückwärts klar:** Was der Körper im Kreis wusste, weiß jetzt der Kopf. *Die Gefahr war draußen. Er war draußen. Er ist tot. Ich bin es nicht.* Der Zug zum Kreis war ihre Rettung. Sie hat die Schemen nur im Kreis-Blick gesehen, nicht bei einer Tat. Kein direkter Beweis. Aber Gleichzeitigkeit und der süß-dichte Geruch, der auch aus den letzten Nächten über der Südost-Stadt klingt.
 - **Sie benennt die Schemen nicht als Täter** — nur die Kausalität. *Etwas. Nicht sie.* (Sorel-Prinzip.)
 - Sie hebt die Hand vom Schlüsselbein. Sie geht nicht zum Körper, sie kniet sich nicht nieder. Sie wüsste nichts zu tun. Sie merkt sich die Position: Haus, geschlossene Haustür, Hausnummer (unscharf im Nebel), Gassen-Einbiegung.
-- **Innerer Entschluss:** Nicht zur Wache. Wenn sie jetzt auftritt und sagt, dass ein Mann in einer Gasse liegt, muss sie sagen, woher sie kommt. Das kann sie nicht. Morgen wird sie Edric oder Runa schicken, anonym, über Umwege. Oder sie geht zu den anderen dreien und sie entscheiden zusammen. Canon-stand für K29: Maren wird bei Alphina/Sorel/Vesper auftauchen und erzählen, was sie gesehen hat — das ist, was K29-K32 als Ensemble-Arbeit weiter aufschaukelt.
+- **Innerer Entschluss:** Nicht zur Wache. Wenn sie jetzt auftritt und sagt, dass ein Mann in einer Gasse liegt, muss sie sagen, woher sie kommt. Das kann sie nicht. Morgen wird sie Edric oder Runa schicken, anonym, über Umwege. Oder sie geht zu den anderen dreien und sie entscheiden zusammen. Canon-stand für K29: Maren wird bei Alphina/Sorel/Vesper auftauchen und erzählen, was sie gesehen hat — das ist, was K29-K33 als Ensemble-Arbeit weiter aufschaukelt.
 - Sie nimmt die Augen vom Körper. Geht an der anderen Seite der Gasse entlang vorbei, einen Bogen um den Sitz — unsinnig, aber der einzige Akt der Achtung, den sie hat.
 
 - **Heimweg.** Die restlichen zwei Gassen schneller. Das Pochen ist nicht lauter — es ist wieder auf den Stand der letzten Wochen zurückgesunken. Als hätte der Kreis eine Sättigung gegeben, die jetzt reicht.
@@ -198,7 +198,7 @@
 - **Marens Entschluss zu anonymem-Hinweis** — Tschechow für K29/K30 (Bote) oder Schuld-Last in B2/B3.
 - **Marens Gedächtnis-Merkung der Hausposition** — Tschechow für mögliche Gruppen-Rückkehr.
 - **Marens erster abgeschlossener Wohnungstür-Abend** — Tschechow für Akt III.
-- **Der Schachturm als nicht-Signal** — Tschechow für K33b (dann *als* Signal aufgestellt).
+- **Der Schachturm als nicht-Signal** — Tschechow für K35 (dann *als* Signal aufgestellt).
 
 **Tschechow-Waffen abgefeuert:**
 - **Laterne mit Sprung (Sz1)** — Leichen-Identifikator.
@@ -276,7 +276,7 @@
 
 - **Keine Sexszene, kein V/M.**
 - Intimster Moment: Hand auf Stein. Resonanz-Erwachen, keine Heat.
-- Schachfigur auf Kommode: nicht aufgestellt als Signal, zufällige Position. K28 ist kein V/M-Kapitel; das V/M-Register ist für K33b reserviert (Maren stellt dann den Turm absichtlich auf Vespers Tisch).
+- Schachfigur auf Kommode: nicht aufgestellt als Signal, zufällige Position. K28 ist kein V/M-Kapitel; das V/M-Register ist für K35 reserviert (Maren stellt dann den Turm absichtlich auf Vespers Tisch).
 
 ### Horror-Kalibrierung
 
@@ -347,9 +347,9 @@
 ## Offene Punkte für Autor-Entscheidung (vor /ausarbeitung)
 
 1. **Schachfigur-Übergabe an Maren:** Wann genau in den fünf Monaten? Empfohlen als Beat in einem ungeschriebenen Zwischen-V/M-Kapitel (*K27c*?) oder als stille Geste am Ende einer Session, die nur per Canon-Eintrag fixiert wird (kein eigenes Kapitel). Autor-Entscheidung.
-2. **Wörterbuch-Stand nach fünf Monaten:** Anzahl übersetzter Wörter, Stand der Grammatik-Regeln. Für K28 irrelevant, für K32/K33 relevant.
-3. **Durchgangs-Zeitpunkt:** Laut Zeitleiste K33 = 1. Dunkelmond, K35 Ritual = 2. Dunkelmond. Bestätigt.
+2. **Wörterbuch-Stand nach fünf Monaten:** Anzahl übersetzter Wörter, Stand der Grammatik-Regeln. Für K28 irrelevant, für K33/K34 relevant.
+3. **Durchgangs-Zeitpunkt:** Laut Zeitleiste K34 = 1. Dunkelmond, K37 Ritual = 2. Dunkelmond. Bestätigt.
 4. **Geruch-Signatur Canon:** Vorgeschlagen *süß-dicht* (konsistent zu K31-Marktplatz). Alternative Autor-Lesart möglich.
 5. **K29-Streit-Logik:** Der Autor hat gesagt „stabile Paar-Beziehungen nach fünf Monaten". K29-Kurztext sagt *„Alphina sucht Sorel seit Tagen. Versöhnung."* — das deutet auf einen Streit. Ist das eine Delle innerhalb einer stabilen Beziehung (mini-Abstand), oder muss K29 umgeschrieben werden? Für K28 nicht kritisch, aber der Anschluss K28→K29 sollte gesetzt werden.
 6. **Nachtwächter-Lehrling:** Statistenrolle OK?
-7. **Runa-Eifersucht:** Autor-Input übernommen — Runa ist grundgut, gönnt, leidet heimlich. In K28 nur als Boten-Option erwähnt (ohne Eröffnung ihrer Eifersucht). Das eigentliche Runa-Kapitel (*K31b*, siehe status.json) trägt den Canon.
+7. **Runa-Eifersucht:** Autor-Input übernommen — Runa ist grundgut, gönnt, leidet heimlich. In K28 nur als Boten-Option erwähnt (ohne Eröffnung ihrer Eifersucht). Das eigentliche Runa-Kapitel (*K32*, siehe status.json) trägt den Canon.

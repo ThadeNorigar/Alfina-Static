@@ -1,4 +1,4 @@
-# B1-K31b — Runa — Entwurf
+# B1-K32 — Runa — Entwurf
 
 **POV:** Runa Kvist (3. Person nah, Präteritum) · **einziges Runa-POV-Kapitel in B1**
 **Timeline:** 14. Nebelmond 551 TZ · später Nachmittag bis späterer Abend · Druckerei Kvist, Oberstadt Vael · unmittelbarer Anschluss an K31 (Marktplatz-/Hafen-Angriff am Tag, Runas Feuer-Resonanz öffentlich geworden)
@@ -50,13 +50,13 @@
 - *Runa-Verdacht (gerechtfertigt):* Marens Bleilettern-Bestellung mit fremden Zeichen war Teil der Moragh-Sprach-Arbeit. Sorels nächtliche Hafengasse-Spaziergänge waren Resonanz-Training. Vespers „Volkskunde"-Fragen waren Schem-Recherche. Alle Beobachtungen passen.
 
 **Tschechow-Waffen geladen Sz1:**
-- **Der Brandfleck am Setzkasten** — Tschechow für K33 (Aktplan: *„Sie fasst einen Bleilettern-Block, und er wird weich unter ihren Fingern."*) und Buch 2 (Runas Feuer-Stufe-Progression).
-- **Runas Verformbarkeit von Blei** — neue Canon-Manifestation der Resonanz unter Stufe 3. Tschechow für K33 und B2 (Stein in Hand wird glühend).
+- **Der Brandfleck am Setzkasten** — Tschechow für K34 (Aktplan: *„Sie fasst einen Bleilettern-Block, und er wird weich unter ihren Fingern."*) und Buch 2 (Runas Feuer-Stufe-Progression).
+- **Runas Verformbarkeit von Blei** — neue Canon-Manifestation der Resonanz unter Stufe 3. Tschechow für K34 und B2 (Stein in Hand wird glühend).
 - **Eigene Haut immun gegen eigenes Feuer** — Dossier-Canon, hier erstmals in B1 sichtbar. Feuert in B2 (Stein in der Hand glühend; Metall biegsam in der Nähe).
-- **Die zwei Druckergesellen Bren und Talen** — Tschechow für die Frage „wer führt die Druckerei nach Runas Durchgang weiter?". Feuert in K34 oder Epilog (K41 — *„Esther Voss vor dem toten Riss. Thies an der Werft."* — Bren/Talen analog für die Druckerei).
+- **Die zwei Druckergesellen Bren und Talen** — Tschechow für die Frage „wer führt die Druckerei nach Runas Durchgang weiter?". Feuert in K36 oder Epilog (K43 — *„Esther Voss vor dem toten Riss. Thies an der Werft."* — Bren/Talen analog für die Druckerei).
 
 **Tschechow-Waffen abgefeuert Sz1:**
-- **K25 (Runa-Papier-Brand bei Alphina-Treffen)** — hier rückwärts integriert: Runa erinnert sich an einen früheren Wärme-Moment, den sie weggedrückt hat. (POV-Dossier-Canon: „Papier brennt bei Runas Orgasmus (sie verdrängt)" → in K31 öffentlich geworden, hier in K31b nachvollzogen.)
+- **K25 (Runa-Papier-Brand bei Alphina-Treffen)** — hier rückwärts integriert: Runa erinnert sich an einen früheren Wärme-Moment, den sie weggedrückt hat. (POV-Dossier-Canon: „Papier brennt bei Runas Orgasmus (sie verdrängt)" → in K31 öffentlich geworden, hier in K32 nachvollzogen.)
 - **K31 (Marktplatz-Hände-glühen)** — direkt vorher, hier nachverarbeitet.
 
 **Cross-POV-Ankerpunkte Sz1:**
@@ -124,9 +124,9 @@
 - *Runa-Beziehungs-Beat:* Heimliche Eifersucht ohne Bitterkeit. Sie sieht Alphinas Glück und sagt *gut*. Das ist Runa-Charakter (POV-Dossier: grundgut, klarsichtig).
 
 **Tschechow-Waffen geladen Sz2:**
-- **Runas Selbstkontrolle der Wärme** — sie hält den Becher kühler als ihre Hand. Tschechow für K33 (sie wird im Steinkreis kontrollieren müssen) und B2 (Stufe-4-Progression: Hitze entziehen).
-- **Runas „Wenn ihr mich lasst"** — Tschechow für K33 (sie sagt es dort öffentlich vor allen vieren; hier ist die Privat-Version).
-- **Alphinas Versprechen, mit Vesper/Sorel/Maren zu reden** — Tschechow für K32-Ende oder K33-Anfang (Quartett-Beratung).
+- **Runas Selbstkontrolle der Wärme** — sie hält den Becher kühler als ihre Hand. Tschechow für K34 (sie wird im Steinkreis kontrollieren müssen) und B2 (Stufe-4-Progression: Hitze entziehen).
+- **Runas „Wenn ihr mich lasst"** — Tschechow für K34 (sie sagt es dort öffentlich vor allen vieren; hier ist die Privat-Version).
+- **Alphinas Versprechen, mit Vesper/Sorel/Maren zu reden** — Tschechow für K33-Ende oder K34-Anfang (Quartett-Beratung).
 - **„Du bist nicht das, was die Stadt verbrennt"** — Alphinas Satz. Tschechow für Buch 2/3 (Runas mögliche Schuld-Frage, wenn sie in Moragh ihre Feuer-Resonanz voll nutzt und reflektiert).
 
 **Tschechow-Waffen abgefeuert Sz2:**
@@ -137,7 +137,7 @@
 **Cross-POV-Ankerpunkte Sz2:**
 - **K31 (Alphina-POV):** Heutiger Tag aus Alphina-Sicht — Schem-Angriff, Runas Hände glühen, „Runa. Deine Hände." Hier aus Runa-POV nachverarbeitet, ohne K31-Sätze zu wiederholen.
 - **K22 (Alphina-POV):** Alphinas Pflanzen-Kanon nicht wiederholt — Runa hat keine Pflanzen-Erfahrung selbst.
-- **K28 (Maren-POV):** Cross-POV — Maren erwähnt in K28 Sz3 *„Edric oder Runa schicken — anonym, über Umwege"*. Aus Runa-POV in K31b nicht aktiv (Maren hat Runa nicht als Botin geschickt — die K28-Erwähnung war hypothetisch). Kein Konflikt.
+- **K28 (Maren-POV):** Cross-POV — Maren erwähnt in K28 Sz3 *„Edric oder Runa schicken — anonym, über Umwege"*. Aus Runa-POV in K32 nicht aktiv (Maren hat Runa nicht als Botin geschickt — die K28-Erwähnung war hypothetisch). Kein Konflikt.
 - **K25 (Alphina-POV, Runa-Papier-Brand):** Hier von Alphina explizit zitiert, von Runa rückwärts nachvollzogen. Cross-POV-Schließung.
 
 ---
@@ -176,18 +176,18 @@
 - *Runa-Resonanz-Beat:* An der Brust-Stelle, wo bei den anderen das „Pochen" sitzt, hat sie Wärme. *„Eine Wärme, die nicht zog. Eine Wärme, die einfach nur war."* — bewusste Differenzierung von Maren-Pochen.
 
 **Tschechow-Waffen geladen Sz3:**
-- **Die drei Dinge (Notizbuch, Zinnflasche, Bleilettern-Sammlung)** — Tschechow für K34/K35 (Runa stolpert durchs Tor mit den drei Dingen) und B2 (sie hat nur das, was sie mitgenommen hat).
-- **Der Übergabevertrag mit Beln und Talen** — Tschechow für Epilog K41 (*„Vael ohne die Fünf"* — die Druckerei läuft weiter).
+- **Die drei Dinge (Notizbuch, Zinnflasche, Bleilettern-Sammlung)** — Tschechow für K36/K37 (Runa stolpert durchs Tor mit den drei Dingen) und B2 (sie hat nur das, was sie mitgenommen hat).
+- **Der Übergabevertrag mit Beln und Talen** — Tschechow für Epilog K43 (*„Vael ohne die Fünf"* — die Druckerei läuft weiter).
 - **Runa-Pochen-Differenzierung** — *Wärme, die nicht zog* — Canon-Differenzierung zur Maren-Pochen-Resonanz, und zu Alphinas Pflanzen-Pulsschlag, und zu Sorels/Vespers Resonanzen. Feuert in B2 wenn alle Resonanzen verglichen werden.
 
 **Tschechow-Waffen abgefeuert Sz3:**
 - **K28 (Maren-POV, Pochen am Schlüsselbein):** Maren hat einmal, vor Wochen, vor sich hin gesagt — Runa hat es gehört. Cross-POV-Echo.
 - **POV-Dossier-Canon (Runa wird klarsichtig, unerschüttert):** Hier in B1 zum ersten Mal voll sichtbar.
-- **Aktplan-K33 (Runa-„Ich komme mit"):** Hier privat vorbereitet, in K33 öffentlich gesprochen.
+- **Aktplan-K34 (Runa-„Ich komme mit"):** Hier privat vorbereitet, in K34 öffentlich gesprochen.
 
 **Cross-POV-Ankerpunkte Sz3:**
 - **K28 (Maren-POV):** Maren schließt zum ersten Mal die Wohnungstür ab als Sicherheitsbruch. Runa schließt die Werkstatt ab als Vorbereitungs-Geste. Eigene Geographie.
-- **K33 (Alle):** Runas Mitnehm-Liste hier (drei Dinge) und Runas „Ich komme mit"-Privat-Aussage hier — beides feuert in K33 öffentlich. K33 wird die Liste nicht wiederholen, aber die Konsequenz ist verankert.
+- **K34 (Alle):** Runas Mitnehm-Liste hier (drei Dinge) und Runas „Ich komme mit"-Privat-Aussage hier — beides feuert in K34 öffentlich. K34 wird die Liste nicht wiederholen, aber die Konsequenz ist verankert.
 
 ---
 
@@ -214,8 +214,8 @@
 
 - **Den Namen Varen.** Alphina hat ihn nicht genannt.
 - **Den Namen Moragh.** Memory-Regel: erst in Moragh.
-- **Dass Maren in K28 einen Toten gefunden hat** — Maren hat das den anderen erzählt, aber nicht Runa direkt. (Falls die Quartett-Beratung in K32 oder K33 das einbezieht, dann erfährt Runa es da. In K31b nicht.)
-- **Wie das Ritual genau funktioniert** — Vesper hat das noch nicht ausgearbeitet (kommt in K32/K33).
+- **Dass Maren in K28 einen Toten gefunden hat** — Maren hat das den anderen erzählt, aber nicht Runa direkt. (Falls die Quartett-Beratung in K33 oder K34 das einbezieht, dann erfährt Runa es da. In K32 nicht.)
+- **Wie das Ritual genau funktioniert** — Vesper hat das noch nicht ausgearbeitet (kommt in K33/K34).
 - **Dass Sorel Varen auf den Platten erkannt hat (K23-Canon)** — privat, nicht geteilt.
 - **Dass Maren auch eine Wasser-Resonanz hat in dem Sinne, wie Alphina das benannt hat** — Alphina hat *„Wasser"* genannt, Runa weiß jetzt, dass Maren die Wasser-Trägerin ist. Aber sie kennt keine Details.
 
@@ -250,7 +250,7 @@
 
 ### Horror-Kalibrierung
 
-- Kein Horror-Peak in K31b. Der Horror war K31 (Marktplatz). K31b ist Verarbeitung.
+- Kein Horror-Peak in K32. Der Horror war K31 (Marktplatz). K32 ist Verarbeitung.
 - Subtile Drohung im Hintergrund: zwei Familien mit Bündeln zum Tor (Sz1), Patrouille jede halbe Stunde. Ton: Bardugo-Six-of-Crows, nicht Kuang-Härte.
 
 ### Commercial 95%-Gate-Check
@@ -278,9 +278,9 @@
 
 ### Aktplan-Abgleich
 
-- K31b ist **neu** (kein Aktplan-Eintrag).
-- K31-Aktplan sagt: *„Runa bei Alphina. Sie hat alles beobachtet, Flugblätter gedruckt, Fragen gestellt. Dritte Serie: 'Die Geister von Vael — was sie wollen.' Jetzt will sie Antworten. Alphina erzählt — nicht alles, aber genug."* — **K31 enthält bereits Alphinas Erklärung an Runa.** K31b nimmt das auf und erweitert: K31 endet vermutlich mit dem Marktplatz-Schluss und dem Versprechen *„heute Abend bei dir"*. K31b ist die Abend-Szene aus Runas POV, in der Alphina das Versprechen einlöst.
-- **Empfehlung an Autor:** K31-Entwurf so anpassen, dass die volle Alphina-Erklärung in K31b liegt, nicht in K31. K31 endet mit *„Runa. Deine Hände."* + Alphinas Versprechen *„heute Abend"*. K31b liefert die Erklärung.
+- K32 ist **neu** (kein Aktplan-Eintrag).
+- K31-Aktplan sagt: *„Runa bei Alphina. Sie hat alles beobachtet, Flugblätter gedruckt, Fragen gestellt. Dritte Serie: 'Die Geister von Vael — was sie wollen.' Jetzt will sie Antworten. Alphina erzählt — nicht alles, aber genug."* — **K31 enthält bereits Alphinas Erklärung an Runa.** K32 nimmt das auf und erweitert: K31 endet vermutlich mit dem Marktplatz-Schluss und dem Versprechen *„heute Abend bei dir"*. K32 ist die Abend-Szene aus Runas POV, in der Alphina das Versprechen einlöst.
+- **Empfehlung an Autor:** K31-Entwurf so anpassen, dass die volle Alphina-Erklärung in K32 liegt, nicht in K31. K31 endet mit *„Runa. Deine Hände."* + Alphinas Versprechen *„heute Abend"*. K32 liefert die Erklärung.
 
 ---
 
@@ -306,6 +306,6 @@
 
 1. **Druckergesellen-Namen** Beln und Talen — fantasy-phonetisch vorgeschlagen. Andere Namen?
 2. **Mutter/Familie-Canon Runa** — POV-Dossier hat keine Familie-Info. Im Entwurf habe ich „keine Mutter, keinen Mann, keine Frau" gesetzt — ist das Canon, oder gibt es Familie-Reste in Vael?
-3. **K31-Anpassung empfohlen:** Die volle Alphina-an-Runa-Erklärung von K31 nach K31b verschieben. K31 endet dann mit Alphinas Versprechen *„heute Abend bei dir"*. Autor-Freigabe?
+3. **K31-Anpassung empfohlen:** Die volle Alphina-an-Runa-Erklärung von K31 nach K32 verschieben. K31 endet dann mit Alphinas Versprechen *„heute Abend bei dir"*. Autor-Freigabe?
 4. **Übergabevertrag-Detail** — Notar morgen. Falls Vael keinen Notar-Stand-Canon hat, müsste man hier eine andere Form finden (Übergabevertrag mit Zeugen?).
 5. **Heimliche Eifersucht — wem gegenüber?** Aktuelle Lesart: Runa beobachtet *beide* Paare und ist allein. Sie sieht in Alphina eine Frau mit Mann. Keine Romance-Andeutung Runa-Alphina selbst. Stimmt das mit der Autor-Intention überein?
