@@ -74,7 +74,7 @@ Sie hob das Dokument. Sie ließ es nicht fallen. Sie hielt es fester.
 
 »Ich habe dich nie angesehen«, sagte Varen. »Nur deinen Frequenzwert.«
 
-Das war der Satz, der hängen blieb. Sie verstand das Wort *Frequenzwert* — Velmar-Terminus, eine Zahl auf einer Skala, die nur Velmar führten. Was sie bis jetzt nicht verstanden hatte: dass sie eine hatte. Dass jemand sie ausgelesen hatte. Dass sie in einem Heft stand, geordnet nach Zahlen.
+Das war der Satz, der hängen blieb. Sie verstand das Wort *Frequenzwert* — Velmar-Terminus, eine Zahl auf einer Skala, die nur Velmar führten. Was sie bis jetzt nicht verstanden hatte: dass sie eine hatte. Dass jemand sie ausgelesen hatte. Dass sie in einem Register stand, geordnet nach Zahlen.
 
 Ihre Hand war jetzt schwarz bis zum Gelenk. Farbe, nicht Schmutz. Wie damals.
 

@@ -82,7 +82,7 @@ Er fragte nach einer Weile. "Wann hast du das bekommen?"
 
 Er nickte einmal. Zog das Notizbuch zu sich, schlug eine leere Seite auf, nahm einen kurzen Bleistift aus der Brusttasche. Begann zu zeichnen: eine Spalte aus den Zählzeichen, die er vorher angelegt hatte. Er verglich. Sie sah, wie sein Finger zwischen dem Blatt und seiner Spalte hin und her ging, wie er an zwei Stellen auf dem Blatt anhielt, den Bleistift leicht hob, dann wieder ansetzte.
 
-"Reich mir das hier." Er deutete mit dem Kinn auf ein kleines Heft, das am Ende der Tischkante lag, in blauem Karton. Sie nahm es auf, reichte es ihm, ohne es zu öffnen. Er schlug eine Seite im hinteren Drittel auf, legte das Heft so, dass eine Tabelle neben dem Blatt lag. Sie sah, dass die Tabelle Vaeler Registriernummern zeigte. Die Form kannte sie von den Papieren der Werft-Übernahme.
+"Reich mir das hier." Er deutete mit dem Kinn auf ein kleines Register, das am Ende der Tischkante lag, in blauem Karton. Sie nahm es auf, reichte es ihm, ohne es zu öffnen. Er schlug eine Seite im hinteren Drittel auf, legte das Register so, dass eine Tabelle neben dem Blatt lag. Sie sah, dass die Tabelle Vaeler Registriernummern zeigte. Die Form kannte sie von den Papieren der Werft-Übernahme.
 
 Sie reichte ihm das Papier mit dem langen Maß, bevor er danach griff. Reichte ihm den feinen Stift, als seine Hand an die Seite der Brusttasche ging. Rückte die Lampe, als das Blatt einen Schatten warf. Sie merkte erst beim dritten Griff, dass sie es tat.
 
@@ -110,7 +110,7 @@ Er nahm den Bleistift nach unten, zwischen seine Finger. Drehte ihn eine halbe U
 
 Sie sah auf das Blatt. Der Atem stockte. Zwischen den Schenkeln eine Hitze, die sich sammelte — ein Puls, der nicht zu ihr gehörte. Ihre Brustwarzen wurden hart, sie spürte sie am Mieder drücken. Auf der Oberlippe der Geschmack von Salz. Sie schmeckte ihn und leckte ihn nicht weg.
 
-Er zog das kleine Heft näher heran, setzte den Bleistift neben eine Zahl in der Tabelle. "Das hier." Er unterstrich eine Ziffernfolge. "Das ist eine Vaeler Registriernummer. Archiv-Kennung. Das Blatt verweist auf ein Dokument, das im Rathauskeller liegt." Er machte eine Pause, nicht aus Unsicherheit. "Oder lag."
+Er zog das kleine Register näher heran, setzte den Bleistift neben eine Zahl in der Tabelle. "Das hier." Er unterstrich eine Ziffernfolge. "Das ist eine Vaeler Registriernummer. Archiv-Kennung. Das Blatt verweist auf ein Dokument, das im Rathauskeller liegt." Er machte eine Pause, nicht aus Unsicherheit. "Oder lag."
 
 "Heute?"
 

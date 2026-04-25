@@ -35,10 +35,12 @@ Satz, sondern als Sprachgebrauch + Gewohnheiten. Memory-Eintrag
 
 Autor-Wunsch: in einer **frischen Session** anpacken, nicht in K26-Lektorat.
 
-### 2. „Hefte vs. Bücher" final entscheiden
-Marens Werft-Tabellen werden im Text als „Bücher" bezeichnet (war vorher
-„Hefte"). Möglicherweise besser: „Register" oder „Logbuch" als Werft-
-Variante. Final-Entscheidung steht noch aus.
+### 2. „Hefte vs. Bücher" — ENTSCHIEDEN (2026-04-25)
+Marens Werft-Tabellen heißen jetzt **Logbuch** (Werft-Berufslinse,
+nautisch, 1820-zeitgemäß, Mess-Spalten passen). Auf **ein** Logbuch
+reduziert (vorher „zwei dünne Bücher" mit ungenutzter Differenzierung).
+Buchweit angepasst: K20-Haron „Heft" → „Register"; Leseprobe 31
+Velmar-Heft → Register; Aktplan 04-akt3.md → Logbüchern.
 
 ## Council-Findings die EINGEARBEITET wurden
 15 Stellen gefixt: Vesper-untypische Pointe, Maren-Doppelung, Narrator-
