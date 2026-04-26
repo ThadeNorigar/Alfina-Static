@@ -167,7 +167,6 @@ Wichtig: KEINE Erklärung, KEINE Benennung, KEINE Einordnung. Die Leserin darf b
 Bereits gepatcht:
 - `00-canon-kompakt.md`: Portal "im" statt "unter"; Austrittsort ~500m Radius; beide Seiten gleichzeitig; Quelle indifferent; Varen wusste nicht was auf der anderen Seite ist
 - `10-magie-system.md`: Elke-Eintrag; Portal-Geometrie-Abschnitt
-- `buch/szenen/I3-01.md`: LEGACY-Header
 
 Noch offen (für spätere Klärung):
 - Was passiert mit Kesper physisch im Übergang? (Ausarbeitung entscheidet die Formulierung — kein Leichnam, aber was kommt an? Nichts? Asche? Besser: gar keine Beschreibung.)

@@ -31,7 +31,7 @@ Falls nicht existiert, neu anlegen. Sonst appendieren.
 
 ### Kapitel-Bewegungen
 - B1-K14 entwurf → entwurf-ok
-- B1-K12 ausarbeitung → lektorat
+- B1-K12 ausarbeitung → final
 - (nur falls Status-Änderungen in dieser Session)
 
 ### Offene Threads

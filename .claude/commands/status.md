@@ -7,7 +7,7 @@ Verwalte den Status der Kapitel in `buch/status.json`.
 - `/status` — Zeigt aktuellen Status aller Kapitel
 - `/status 02 entwurf` — Setzt Kapitel 02 auf "entwurf"
 - `/status 02 final 4013` — Setzt Kapitel 02 auf "final" mit 4013 Wörtern
-- `/status I1 lektorat` — Setzt Interludium I auf "lektorat"
+- `/status I1 entwurf-ok` — Setzt Interludium I auf "entwurf-ok"
 
 ## Gültige Stati (in Reihenfolge)
 
@@ -16,10 +16,7 @@ Verwalte den Status der Kapitel in `buch/status.json`.
 3. **entwurf-checked** — Entwurf auf Canon/Logik geprüft
 4. **entwurf-ok** — Entwurf Autor-freigegeben für Ausarbeitung
 5. **ausarbeitung** — Prosa geschrieben (`/ausarbeitung`)
-6. **lektorat** — In Lektorat (`/lektorat-fix`)
-7. **final** — Fertig
-
-**Legacy-Stati** (nur noch auf Altbestand zulässig, nicht für neue Kapitel): `szenenplan`, `council`, `logik-check`, `stil-check`, `final-council`. Die Status-Stufe `szenenplan` ist obsolet — Szenenpläne wurden am 22. Apr 2026 nach `buch/szenen/_archiv_2026-04-22/` verschoben. Neue Kapitel gehen direkt `idee → entwurf`.
+6. **final** — Fertig (`/ausarbeitung` setzt seit 2026-04-26 direkt `final`; Mikro-Fixes danach via `/lektorat-fix`)
 
 ## Was der Skill tut
 
@@ -31,9 +28,9 @@ Verwalte den Status der Kapitel in `buch/status.json`.
 
 ## Regeln
 
-- Status darf nur VORWÄRTS gehen (idee → entwurf → entwurf-checked → entwurf-ok → ausarbeitung → lektorat → final) oder auf "idee" zurückgesetzt werden
+- Status darf nur VORWÄRTS gehen (idee → entwurf → entwurf-checked → entwurf-ok → ausarbeitung → final) oder auf "idee" zurückgesetzt werden
 - Bei "final": Wortanzahl ist Pflicht (zähle mit `wc -w` wenn nicht angegeben)
 - Warnung wenn ein Kapitel auf "final" gesetzt wird ohne dass /logik-check UND /stil-check gelaufen sind
-- Warnung wenn ein Gate-Status übersprungen wird (z.B. direkt von council auf final)
+- Warnung wenn ein Gate-Status übersprungen wird
 
 $ARGUMENTS

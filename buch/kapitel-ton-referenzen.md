@@ -210,8 +210,8 @@ Alle Leseproben siehe `buch/leseproben/` (YAML-Frontmatter enthält Heat-Level, 
 
 ---
 
-## Hinweis: Legacy-Entwürfe K1-K11 + I1-I2
+## Hinweis: Ton-Referenzen für K1-K11 + I1-I2
 
-Die alten Entwurfs-Dateien (`01-alphina-entwurf.md`, `01-alphina-v2-entwurf.md`, `02-entwurf.md`, `02-entwurf-v2.md`, `03-entwurf.md`, `05-entwurf.md`, `06-entwurf.md`, `07-entwurf.md`, `08-entwurf.md`, `09-entwurf.md`, `10-entwurf.md`, `11-entwurf.md`, `I1-entwurf.md`, `I2-entwurf.md`) sind mit `> **LEGACY — KONTEXT IRRELEVANT**` markiert. Die finalen Kapitel haben Vorrang. Für jene Kapitel sind die Ton-Referenzen **hier in diesem Dokument** persistiert, nicht in den Legacy-Entwürfen.
+Für die finalen Kapitel K1-K11 und I1-I2 (alte Pipeline) gibt es keine Entwurfs-Dateien mehr — die finalen Kapitel haben Vorrang, die Ton-Referenzen sind **hier in diesem Dokument** persistiert.
 
 Die aktuellen Entwurfs-Dateien (B1-I3, B1-K12 bis B1-K25) tragen zusätzlich einen Inline-Block mit Verweis auf diese Zentralstelle.

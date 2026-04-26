@@ -68,7 +68,7 @@ Ebene  Typ                Dateien                             Inhalt
 
 **Aktpläne Akt 1+2 sind archiviert.** Für alle finalen Kapitel (K1-K22 + I1-I3) hat das finale Kapitel Vorrang — Aktplan `02-akt1.md` und `03-akt2.md` wurden am 22. Apr 2026 nach `buch/_archiv/` verschoben. Der Kontext-Extraktor (`scripts/kapitel-kontext.py`) greift für diese Kapitel weiter auf das Archiv zu, falls nötig.
 
-**Szenenpläne sind Legacy.** `buch/szenen/*.md` wurde am 22. Apr 2026 nach `buch/szenen/_archiv_2026-04-22/` verschoben. Die Pipeline v2 liest sie nicht — die detaillierten Szenen-Beats leben jetzt inline im jeweiligen Entwurf (`## Szene 1 — ...` mit Wortziel, Beats, Tschechow-Waffen, Dialog-Infos).
+**Szenenpläne entfallen.** Die alten `buch/szenen/`-Pläne wurden am 26. Apr 2026 entfernt. Die detaillierten Szenen-Beats leben jetzt inline im jeweiligen Entwurf (`## Szene 1 — ...` mit Wortziel, Beats, Tschechow-Waffen, Dialog-Infos).
 
 **Kaskaden-Regel:** Änderung auf Ebene N invalidiert N+1 bis 8. Abwärts durcharbeiten.
 
