@@ -20,12 +20,12 @@
 **Wortziel:** ~1.000 W
 **Ort:** Lichthaus-Keller, Sorels Wohnung. Später Abend. Eine Öllampe am Tisch, eine zweite an der Wand. Die Kammer ist klein, der Steinboden warm wie immer (Purpurstein-Restwärme). Plattenkamera in der hinteren Ecke unter Tuch — Sorel hat das Tuch seit Anfang Lichtmond nicht angerührt.
 
-**Hook Z.1 (Pflicht-Anweisung Ausarbeitung):** Sorel **will** etwas in Z.1 sichtbar — nicht nur Inventar zeigen. Antrieb: Scham, weil er bei der Gruppe gestern Abend gemerkt hat, dass er als einziger Licht braucht, um zu sehen — Maren spürt Wasser durch Steinwände, Vesper Zeit ohne Lichtquelle, Alphina Wachstum mit geschlossenen Augen. Er, der Fotograf, sieht ohne Licht nichts.
+**Hook Z.1 (Pflicht-Anweisung Ausarbeitung):** Sorel **will** etwas in Z.1 sichtbar — nicht nur Inventar zeigen. **Antrieb: Schutz**, abgeleitet aus K26-Wissen. In K26 hat Maren der Gruppe erzählt, ihr Werft-Schemen sei durch das geschlossene Tor gegangen wie durch einen Vorhang. Sorel hat seitdem die Frage im Kopf: wenn nachts einer in seine Kammer kommt, während die Lampe erloschen ist, sieht er ihn nicht. In absoluter Dunkelheit ist er blind — er hat es geprüft. Das Restlicht-Verstärken im Keller ist die letzte ungeprüfte Stufe seines Repertoires. Wenn er es heute schafft, kann er sie sehen. Wenn nicht, ist er ihnen ausgeliefert. Das ist sein Drang — sehen lernen, weil etwas durch Türen kommt.
 
 **Formulierungs-Skizze als Anker** (kein Pflicht-Wortlaut, aber Ton-Maß):
-> *Heute war der Abend, an dem er es schaffen musste. Er hatte gestern bei Maren am Tisch gesessen und mit allen drei zugleich gesehen, wie sie ohne Lampe arbeiteten — und seine Hand hatte nach dem Streichholz gegriffen, ohne dass er es entschieden hatte.*
+> *Heute war der Abend, an dem er es prüfen musste. Vier Wochen lang hatte er auf dem Boden geübt, wo das Straßenlicht durch die schmalen Fenster fiel — da ging es. Im Keller hatte er es nie versucht. Im Keller war kein Straßenlicht. Im Keller waren nur die zwei Lampen. Wenn er sie wegnahm, sah er nichts. Und Maren hatte gesagt, der eine sei durchs geschlossene Tor gekommen wie durch einen Vorhang.*
 
-Z.1 muss diesen Drang tragen — Bewegung des Körpers (Hand-zur-Lampe-Reflex), nicht das Inventar.
+Z.1 muss diesen Drang tragen — Bewegung des Körpers (Hand zum Schloss prüfen, dann zur Werkbank), nicht das Inventar. Der Schutz-Antrieb ist Tschechow-perfekt: er übt für den Fall, dass einer kommt — und in Sz2 sieht er DEN Schemen, der die ganze Zeit da war. Der Antrieb wird im Schock eingelöst.
 
 Sorel arbeitet allein am Tisch. Er hat ihn umgeräumt — das Stativ steht zerlegt an der Wand, Kassetten und Werkzeugrolle in einer Kiste unter der Werkbank. Auf dem Tisch nur noch das, was er heute braucht: drei kleine Lupen mit verschiedenen Brennweiten, ein Hohlspiegel, ein dreieckiges Prisma aus Bleiglas, eine Reihe von sieben Kerzen unterschiedlicher Stärke, ein Schiefertäfelchen mit Kreideabriebsspuren von früheren Übungen.
 
