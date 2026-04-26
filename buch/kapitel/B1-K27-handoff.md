@@ -1,30 +1,36 @@
 # Handoff — B1-K27
 
-**Von Phase:** entwurf → **Zu Phase:** ausarbeitung
-**Erstellt:** 2026-04-23
-**Status beim Handoff:** entwurf-ok
+**Von Phase:** ausarbeitung → **Zu Phase:** lektorat-fix
+**Erstellt:** 2026-04-26
+**Status beim Handoff:** lektorat
 
 ## Modell-Empfehlung
-claude --model opus
+claude --model sonnet
+(oder claude --model haiku für Mikro-Fixes)
 
 ## Aufruf für nächste Session
-/ausarbeitung B1-K27
+/lektorat-fix B1-K27
 
-## Kontext für nächste Session
-- **POV:** Maren (3. Person nah, Präteritum)
-- **Wortziel:** 4.200–4.700 W
-- **Timeline-Anker:** 26./27. Blütenmond 551 TZ, späte Nacht — direkter Anschluss an K26
-- **Freigegebener Entwurf:** buch/kapitel/B1-K27-entwurf.md
-- **Ton-Referenzen:** buch/leseproben/04-bdsm-alltag-vesper-maren.md (Alltags-Power-Exchange) und buch/leseproben/06-aftercare.md. NICHT Leseprobe 05 (zu werkzeugbasiert). Maren-POV-Vorgänger: buch/kapitel/B1-K20-maren.md
+## Kontext
+- Datei: `buch/kapitel/B1-K27-maren.md` (4.202 W)
+- Phase: Lektorat-Fixes (Autor-getrieben, kleine Edits)
+- Kein neuer Stil-Check, kein Council. Nur was der Autor anfasst.
+
+## Status-Bogen
+- **Tschechow geschlossen:** Marens „nie-bleiben"-Motiv → »Sie blieb.«
+- **NEU CANON:** Schachturm als V/M-Session-Signatur (Westentasche, aufrecht = Session, in Tasche = Ende)
+- **Heat-Kalibrierung:** Erste explizite V/M-Sex-Szene (Klitoris-Stimulation, Orgasmus, Réage-Symbol-Geste „Finger ablecken")
+- **K17-Phantasie eingelöst:** Vespers Hand „nicht fest, nur gesetzt, ein Gewicht, das wartete" — Schultern statt Handgelenk
+
+## Mit-Edits aus dieser Phase
+- `B1-K27-entwurf.md`: Schwelle → Durchgang (sechstes Wort, Canon-Update)
+- `B1-K17-maren.md`: „Puls"-Klischee raus (Memory-Regel), konkrete Körperstellen
 
 ## Anweisungen
-- Drei Szenen, klar markiert: Szene 1 (Wörterbuch + erste Hand auf Schulter), Szene 2 (stille Stunde bei Tisch), Szene 3 (Anweisung & Schamhügel-Beat).
-- Öllampen-Canon: 4 Lampen zu S1-Start, 2 übrig am S2-Ende. Keine Kerzen. Kamin ausgegangen.
-- Szene 3: Vollauszug auf Anweisung, Ganzkörperberührung (Arme/Schultern/Rücken), ein Schamhügel-Beat (Fingerspitzen, offen) + Aufschub-Satz. Kein Sex, kein Orgasmus, keine innere Vulva.
-- Schachturm-Canon: Raus bei Szene-3-Start, rein nach Aftercare.
-- Heat-Level: Commercial BDSM (Power-Exchange nur), Körper vor Kopf (Réage-Ton), Dom-Stimme als Funktion.
-- Jeder Dialog-Info-Punkt aus Entwurf (S. 38–100) muss landen.
-- Keine Stakkato-Dialoge, keine Plot-Änderung.
+- Edit-Tool bevorzugt vor Write-Tool
+- Kein ungefragtes Umformulieren
+- Bei größeren Wünschen: Hinweis auf Rückstufung zu /ausarbeitung
+- Status `final` NUR auf explizite Autor-Freigabe
 
 ## Offen
-- Erste explizite V/M-Sex-Szene als separates Kapitel zwischen K27 und Zeitsprung — wartet auf Autor-Entscheidung.
+- Erste explizite V/M-Sex-Szene jetzt in K27 integriert (NICHT separates Kapitel) — Plot-Plan Heat-Kalibrierung vom Autor erweitert

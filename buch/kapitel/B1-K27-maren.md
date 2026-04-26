@@ -20,7 +20,7 @@ Sie wandte das Blatt um, suchte nach dem nächsten Eintrag. Vesper beugte sich �
 
 Maren hatte sich das einmal vorgestellt, in ihrer Werft, an dem Tag, als der Tee im Steingut sich von selbst gedreht hatte: seine Fingerkuppen an ihrem Handgelenk innen, nicht fest, nur gesetzt, ein Gewicht, das wartete. Damals hatte sie nicht gewusst, dass ihre Schultern auf etwas gewartet hatten. Heute lag es auf der linken Schulter, Hand statt Vorstellung. Seine Handfläche war warm, leicht schwer; sie spürte die Fingerspitzen einzeln, vier auf der Schulter, der Daumen ein Stück tiefer.
 
-Sie bewegte sich nicht — fast. Ihre linke Schulter zog einen Augenblick nach hinten, ein altes Ausweichen unter Druck, und sie nahm die Bewegung zurück, bevor seine Hand sie verlor. Sie blieb über dem Buch. Die Zeichen standen, aber sie hatte sie aus den Augen verloren. Vesper ließ ihr drei, vier Atemzüge. Dann sagte er leise: »Lies weiter.«
+Sie bewegte sich nicht — fast. Ihre linke Schulter zog einen Augenblick nach hinten, ein altes Ausweichen unter Druck, und sie nahm die Bewegung zurück, bevor seine Hand sie verlor. Sie blieb über dem Buch. Die Zeichen standen, aber sie hatte sie aus den Augen verloren. Vesper ließ ihr drei, vier Atemzüge. Dann sagte er: »Lies weiter.«
 
 Sie las. Die Hand lag noch auf ihrer Schulter. Zwischen der Schrift und ihren Augen war nur das — der Druck durch das Leinen, an einer einzigen Stelle, kaum größer als ein Daumen. Sie las dieselbe Zeile zweimal. Dann noch einmal.
 
@@ -50,11 +50,11 @@ Ein Pochen kam. Es war nicht der Herzschlag. Den kannte sie — der saß höher,
 
 Sie kannte es. Aus der Werft, aus der Kajüte, vom Steg in der Dämmerung, wenn das Holz unter ihr nachgab und die Grauwe sich anfühlte, als liefe sie rückwärts. Sie hatte weitergearbeitet. Werft-Hände hörten nicht — sie griffen, stemmten, zogen. Heute Nacht griffen ihre Hände nichts. Also hörte sie zu.
 
-Der Atem ging von selbst länger, als er hätte sein sollen. Sie merkte es erst danach — das Ausatmen, das nicht aufgehört hatte, und die Schultern, die nachgaben, ohne dass sie es befohlen hatte. Kein Wort stieg ihr in die Kehle. Sie hatte keins für das Pochen. Sie hätte auch mit Wort nichts gesagt. Vesper wartete eine Weile. Dann: »Gut.«
+Der Atem ging von selbst länger, als er hätte sein sollen. Sie merkte es erst danach — das Ausatmen, das nicht aufgehört hatte, und die Schultern, die nachgaben, ohne dass sie es befohlen hatte. Kein Wort stieg ihr in die Kehle. Sie hatte keins für das Pochen. Vesper wartete eine Weile. Dann: »Gut.«
 
 Das Wort landete im Mieder — nicht als Druck, als Weitung. In der Kehle löste sich etwas, das sie nicht als gespannt erkannt hatte. Die Schultern blieben unten.
 
-Der Satz war einfach da, fertig, ohne Anlauf — so wie man morgens aufwacht und weiß, welcher Tag ist, ohne ihn sich zu sagen.
+Der Satz war einfach da, fertig, ohne Anlauf.
 
 *Hier durfte sie sein.*
 
@@ -66,15 +66,15 @@ Maren hörte es mehr, als sie es sah — das leise Scharren seiner Sohlen auf de
 
 »Du darfst die Hände nehmen.«
 
-Maren hob die Hände vom Tisch. Langsam — die Handflächen waren satt warm vom Holz, und sie wollte die Wärme noch einen Moment tragen. Auf der dunklen Fläche standen zwei helle Abdrücke, schmal wie zwei Finger nebeneinander, und verschwanden, während sie zusah. Sie legte die Hände in den Schoß. Die Wärme blieb. Sie wusste, wo sie jetzt waren.
+Maren hob die Hände vom Tisch. Langsam — die Handflächen waren satt warm vom Holz, und sie wollte die Wärme noch einen Moment tragen. Auf der dunklen Fläche standen zwei helle Abdrücke, schmal wie zwei Finger nebeneinander, und verschwanden, während sie zusah. Sie legte die Hände in den Schoß. Die Wärme blieb.
 
 ---
 
 Vesper schloss das Wörterbuch — Maren hörte das leise Klappen wie einen Punkt am Ende eines langen Satzes. Der Einband war warm, von ihren Händen, von seinen. Er ordnete die Bleistifte, einen nach dem anderen, die Spitzen in dieselbe Richtung. Maren schraubte die Zinnkappe auf die Tintenflasche, drehte sie zu, fester als nötig. Sie zogen die Notizen zusammen, jede auf ihre Seite hin — kein Takt, kein Wort, bis die Tischfläche leer war. Vom Kamin her zog noch ein Rest Wärme, schwächer jetzt als zu Beginn des Treffens. Zwischen Tisch und Kamin lag die Werft-Matte, die Maren aus Solha mitgebracht hatte — Hanfseil und Wolle, dicht geflochten, gemacht zum Knien an Bootsrümpfen. Hier in der Wohnung war sie ihr Liegeplatz, dichter und wärmer als die Dielen, näher am Feuer als das Bett in der Kammer.
 
-Vesper lehnte sich zurück, die Arme auf den Lehnen, die Hände offen. Kein Wort. Sein Blick lag auf ihr wie ein Gewicht. Maren spürte ihn zuerst auf den Oberschenkeln, bevor er ihr Gesicht erreichte; ihre Hände legten sich flacher auf die Schenkel, als ließe sich Druck so ableiten. Etwas würde kommen. Sie wusste es nicht aus Worten.
+Vesper lehnte sich zurück, die Arme auf den Lehnen, die Hände offen. Kein Wort. Sein Blick lag auf ihr, schwer. Maren spürte ihn zuerst auf den Oberschenkeln, bevor er ihr Gesicht erreichte; ihre Hände legten sich flacher auf die Schenkel, als ließe sich Druck so ableiten. Etwas würde kommen. Sie wusste es nicht aus Worten.
 
-Er griff in die linke Westentasche und stellte etwas neben das Wörterbuch — eine Figur aus dunklem Holz, handflächenhoch, mit gleichmäßigen Zähnen am oberen Rand. Vesper ließ sie stehen, sagte nichts. Die Ruhe war dieselbe wie vorhin, als seine Hand auf ihrer Schulter gelegen hatte. Maren wusste nicht, was die Figur bedeutete. Sie verstand, dass jetzt etwas anderes begann.
+Er griff in die linke Westentasche und stellte etwas neben das Wörterbuch — eine Figur aus dunklem Holz, handflächenhoch, mit gleichmäßigen Zähnen am oberen Rand. Vesper ließ sie stehen, sagte nichts. Maren kannte die Figur nicht; sie hatte sie nie zuvor gesehen. Und doch — als er die Hand zurückzog und die Figur aufrecht ließ, löste sich etwas in ihrer Brust, das sie die ganze Stunde über zusammengehalten hatte. Nicht Anspannung. Das Gegenteil davon. Als hätte ihr Körper gewusst, worauf er wartete, bevor sie selbst es wusste. Maren spürte, wie ihre Schultern sanken.
 
 Vesper sagte: »Steh auf. Drei Schritte vor den Tisch, Gesicht zu mir, Hände an der Seite.«
 
@@ -100,19 +100,19 @@ Maren wartete, Hände locker am Körper, Fußsohlen auf den Dielen. Das Schweige
 
 »Mach das Mieder auf. Leg es zum Wollrock.«
 
-Maren hob die Hände an den vorderen Verschluss. Der linke Zeigefinger fand den obersten Haken ohne Suchen — Werftarbeit, alles blind. Der erste gab nach, der zweite, der dritte; bei jedem Haken gab das Fischbein einen Fingerbreit Taille frei, ein Stück weniger Druck, ein Stück mehr Atem. Sie öffnete die Reihe bis zum letzten, spürte, wie die Schalen auseinandertraten. Das Mieder glitt von den Schultern in ihre Hände. Sie faltete es einmal an der Naht und legte es zum Wollrock.
+Maren hob die Hände an den vorderen Verschluss. Der linke Zeigefinger fand den obersten Haken ohne Suchen — Werftarbeit, alles blind. Der erste gab nach, der zweite, der dritte. Mit jedem Haken wurde sie leichter — das Fischbein gab einen Fingerbreit Taille frei, ein Stück weniger Druck, ein Stück mehr Atem. Sie öffnete die Reihe bis zum letzten, spürte, wie die Schalen auseinandertraten. Das Mieder glitt von den Schultern in ihre Hände. Sie faltete es einmal an der Naht und legte es zum Wollrock.
 
 »Das Hemd. Über den Kopf, zum Mieder.«
 
 Maren griff nach unten, fand den Saum des Leinens. Sie zog langsam, wie er es ihr in der Stille beigebracht hatte — ohne Eile. Das Leinen löste sich von den Hüften, glitt über den Bauch, gab die Brüste frei, kühl an den Brustwarzen, glitt weiter über die Schultern, sammelte sich in ihren Händen über dem Kopf. Sie zog es ab, faltete es ohne hinzusehen, legte es zum Mieder.
 
-Die Luft fand jetzt jede Stelle: Schultern, Brust, Rippen, Bauch, Hüften, Oberschenkel. Kühl und gleichmäßig, wie eine Hand, die nichts forderte und nichts gab. Der Lederriemen am linken Handgelenk lag schwer und warm, der einzige Punkt, an dem sie noch wusste, wo sie war. Drei Schritte vor dem Tisch. Augen zu. Sonst nichts.
+Die Luft fand jetzt jede Stelle: Schultern, Brust, Rippen, Bauch, Hüften, Oberschenkel. Kühl und gleichmäßig, ohne Forderung. Der Lederriemen am linken Handgelenk lag schwer und warm, der einzige Punkt, an dem sie noch wusste, wo sie war. Drei Schritte vor dem Tisch. Augen zu. Sonst nichts.
 
 Das Holz des Stuhls gab nach — ein leises Schieben, fast beiläufig, wie das Setzen eines Werkzeugs auf den Tisch. Dann Schritte über das Holz. Gleichmäßig. Nicht schnell genug, dass Maren eine Richtung gehabt hätte, nicht langsam genug, dass es Qual gewesen wäre. Sie merkte erst jetzt, dass sie aufgehört hatte zu atmen.
 
 Er blieb vor ihr stehen. Die Luft zwischen ihnen veränderte sich, wurde wärmer — wie die Planke eines Schiffes, die nachmittags die Sonne gespeichert hatte. Seine Hand kam noch nicht. Nur die Hitze, die von ihm ausging, und der Lederriemen am linken Handgelenk, der warm und schwer dort lag, ohne dass sie ihn anders gehalten hätte als sonst.
 
-Seine Finger schlossen sich um ihre rechte Hand — vollständig, wie man ein Werkstück einschätzt, bevor man es ablegt — und ließen sie wieder sinken. Kein Wort. Nur diese eine Geste, die ihr sagte: *Ich bin hier.*
+Seine Finger schlossen sich um ihre rechte Hand — vollständig, wie man ein Werkstück einschätzt, bevor man es ablegt — und ließen sie wieder sinken. Kein Wort.
 
 Dann setzte seine Handfläche oberhalb des Lederriemens an, dort wo das Leder endete und ihre Haut begann. Die Wärme traf sie fast schmerzhaft gegen die kalte Haut. Er fuhr den Unterarm hinauf, langsam, ohne Druck, als läge das Gewicht seiner Hand woanders. Sie spürte jeden einzelnen Finger. An der Ellenbeuge hielt er inne — kurz, lang genug um registriert zu werden.
 
@@ -128,9 +128,9 @@ Er wiederholte es. Gleiche Breite, gleicher Druck. Beim zweiten Mal löste sich 
 
 Zwischen den Schulterblättern legte er die Hand flach ab. Blieb. Maren atmete, und er war noch da. Sie atmete noch einmal, und er ließ ihren Atem unter seiner Handfläche ankommen, bevor er sich mit ihm hob und senkte.
 
-Vespers Wärme trat näher, bevor noch etwas sie berührte. Eine Hand legte sich an ihren Nacken, Daumen unter dem Ohr, Finger flach gegen die Halswirbel — kein Druck, nur Gewicht. Genug. Dann neigte er den Kopf. Sein Atem traf die Schulterbeuge zuerst, ruhig, knapp über der Haut, dann kamen die Lippen — flach, ohne Eile, an die Stelle, wo Schulter in Hals übergeht. Nicht ein Kuss, sondern ein Kontaktpunkt: Lippenwärme gegen Sehne, eine Spur, die sich in die Haut einschrieb. Die Berührung blieb. Darunter die stille Hitze, die sich langsam ausbreitete.
+Vespers Wärme trat näher, bevor noch etwas sie berührte. Eine Hand legte sich an ihren Nacken, Daumen unter dem Ohr, Finger flach gegen die Halswirbel — kein Druck, nur Gewicht. Genug. Dann neigte er den Kopf. Sein Atem traf die Schulterbeuge zuerst, ruhig, knapp über der Haut, dann kamen die Lippen — flach, ohne Eile, an die Stelle, wo Schulter in Hals übergeht. Lippenwärme gegen Sehne. Die Berührung blieb. Darunter die stille Hitze, die sich langsam ausbreitete.
 
-Sein Mund verließ die Halsbeuge, und Maren spürte die Kühle seiner Abwesenheit, bevor seine Lippen auf dem Schlüsselbein ankamen und der Linie folgten — langsam, jeden Punkt für sich. Die Hand am Nacken bewegte sich nicht. Daumen unter dem Ohr, Finger an den Wirbeln — ein Gewicht, das sagte: *ich bin noch hier*.
+Sein Mund verließ die Halsbeuge, und Maren spürte die Kühle seiner Abwesenheit, bevor seine Lippen auf dem Schlüsselbein ankamen und der Linie folgten — langsam, jeden Punkt für sich. Die Hand am Nacken bewegte sich nicht. Daumen unter dem Ohr, Finger an den Wirbeln — ein Gewicht, das sie an seine Hand erinnerte.
 
 Dann das Brustbein, die weiche Stelle zwischen den Brüsten, wo die Haut besonders dünn lag. Er küsste zweimal, kurz. Dann die linke Brustwarze: Lippen, Wärme, ein kurzer Zug. Maren stand still. Das Blut schoss ihr in die Fingerspitzen. Vesper ließ los, setzte neu an, ruhiger, länger an der rechten. Sie merkte erst danach, dass sie die Kiefer zusammengepresst hatte.
 
@@ -150,27 +150,25 @@ So stand sie. Hüften nach hinten gekippt, Po angehoben. Die Spannung zog von de
 
 Vespers linke Hand lag flach auf ihrem Kreuz wie eine Anweisung: bleib. Mehr nicht. Und das reichte, um Marens Gedanken zum Schweigen zu bringen.
 
-Die rechte Hand kam die Innenseite des Oberschenkels hoch — langsam, viel zu langsam. Maren biss die Zähne zusammen. Sie kannte Geduld. Das hier war etwas anderes: die Geduld eines Mannes, der genau wusste, was er tat, und der sich Zeit nahm, weil es ihm gehörte.
+Die rechte Hand kam die Innenseite des Oberschenkels hoch — langsam, viel zu langsam. Maren biss die Zähne zusammen. Sie kannte Geduld. Das hier war etwas anderes: die Geduld eines Mannes, der genau wusste, was er tat, und der sich Zeit nahm.
 
-Die Finger streiften die Schamlippen, einmal, mit dem präzisen Gleichmut eines Menschen, der einen Befund notiert. Maren hörte sich einen kleinen Laut machen, den sie nicht geplant hatte. Vesper sagte nichts. Natürlich nicht. Maren krallte sich in die Tischkante und ließ das Holz die Schande halten, die sie nicht benennen konnte, weil es keine Schande war, nur Wahrheit.
+Die Finger streiften die Schamlippen, einmal, mit dem präzisen Gleichmut eines Menschen, der einen Befund notiert. Maren hörte sich einen kleinen Laut machen, den sie nicht geplant hatte. Vesper sagte nichts. Natürlich nicht. Maren krallte sich in die Tischkante und ließ das Holz die Schande halten, die sie nicht benennen konnte.
 
-Dann kreiste ein Finger. Knapp neben der Klitoris, immer knapp neben — und Maren verstand, dass Vesper das wusste. Natürlich wusste er es. Der Kreis war die Antwort auf jede Frage, die sie nicht gestellt hatte. Ihre Hüften schoben sich minimal vor, Zentimeter, ein Verrat, den sie nicht hatte kommen sehen.
+Dann kreiste ein Finger. Knapp neben der Klitoris, immer knapp neben — und Maren verstand, dass Vesper das wusste. Natürlich wusste er es. Ihre Hüften schoben sich minimal vor, Zentimeter, ein Verrat, den sie nicht hatte kommen sehen.
 
 Vespers Griff auf ihrem Rücken wurde fester. *Halt.*
 
 Maren hielt. Ihr Atem brach — nicht als Aufschrei, als Lücke, als Fehlschlag der Lunge, die vergessen hatte, was sie tun sollte. Die Knie wollten nachgeben. Die Hüfte wollte nachgeben. Etwas in ihr schob sich in Richtung der Hand. Vespers Griff blieb. Die Kreise gingen weiter, gleichmäßig, geduldig, knapp neben der Stelle.
 
-Das war das Schlimmste: dass sie es konnte. Dass ihr Körper auf diesen Druck hörte und blieb und brannte und trotzdem wartete — weil Vesper es wollte, und weil ein Teil von ihr, den sie nicht benennen würde, genau das wollte.
-
-Dann kam der Moment.
+Ihr Körper blieb auf diesem Druck, brannte, wartete.
 
 Kein Kreisen mehr. Kein Täuschen. Vespers Finger verließen den Rand, ohne Vorwarnung — und plötzlich war er da, genau da, und Maren hörte sich aufschreien, einen Laut, den sie nicht kannte, roh und zu groß für den Raum. Er drückte. Gleichmäßig, unausweichlich, genau so, wie ihr Körper seit Minuten geschrien hatte. Ihre Hüften schoben sich zurück gegen seine Hand, als wollte sie ihn halten, tiefer, fester, mehr — der Gedanke formte sich nicht mehr zu Worten.
 
 Es kam ohne Warnung.
 
-Erst ein Zittern in den Schenkeln, dann riss es ihr den Boden weg. Der linke Arm gab nach. Sie sank auf den Unterarm, die Wange fast an der Tischkante. Vespers Hand am Rücken blieb — fest, ohne Druck, nur da. *Ich hab dich. Fall.* Sie fiel. Die Welle rollte durch sie, und sie ließ es, weil sie keine Wahl mehr hatte, weil Wahl schon lange kein Teil dieser Gleichung war. Vesper hörte nicht auf. Er hielt sie offen, ließ sie nicht ausweichen, bis ihr Körper aufgehört hatte zu kämpfen und nur noch zitterte.
+Erst ein Zittern in den Schenkeln, dann riss es ihr den Boden weg. Der linke Arm gab nach. Sie sank auf den Unterarm, die Wange fast an der Tischkante. Vespers Hand am Rücken blieb — fest, ohne Druck, nur da. Sie fiel. Die Welle rollte durch sie, und sie ließ es. Vesper hörte nicht auf. Er hielt sie offen, ließ sie nicht ausweichen, bis ihr Körper aufgehört hatte zu kämpfen und nur noch zitterte.
 
-Es brannte. Es war hässlich. Es war das Schönste, was sie je gespürt hatte. Sie hasste sich dafür eine Sekunde lang — dann war auch das weg.
+Es brannte. Es war das Schönste, was sie je gespürt hatte. Ihre Finger krallten sich fester in die Tischkante — eine Sekunde lang. Dann war auch das weg.
 
 Danach Stille. Ihr Gewicht auf dem Unterarm. Vespers Hand warm am Rücken. Nichts von ihr übrig, das irgendetwas wollte.
 
@@ -178,11 +176,11 @@ Vespers Hand zog sich zurück — Millimeter um Millimeter, bis nur noch die Wä
 
 »Augen auf.«
 
-Maren öffnete die Augen. Das Licht kam zu früh — die Tischkante, das Muster im Holz, der Schatten von Vespers Schulter. Alles zu scharf, zu nah, als hätte die Welt ihre Abstände neu verhandelt.
+Maren öffnete die Augen. Das Licht kam zu früh — die Tischkante, das Muster im Holz, der Schatten von Vespers Schulter. Alles zu scharf, zu nah.
 
 Dann hob er die Hand. Die Finger, noch feucht.
 
-Maren verstand einen Herzschlag, bevor es passierte. Das war das Schlimmste daran: dass sie es verstand, dass sie sah, was kam, und den Mund trotzdem öffnete. Salz. Warm. Werftsalz, und darunter das Fremde ihrer eigenen Feuchte. Vespers Augen auf ihrem Gesicht, ruhig, wachend darauf, dass sie nicht zu früh schluckte.
+Maren verstand einen Herzschlag, bevor es passierte. Sie sah, was kam — und öffnete den Mund. Salz. Warm. Werftsalz, und darunter das Fremde ihrer eigenen Feuchte. Vespers Augen auf ihrem Gesicht, ruhig, wachend darauf, dass sie nicht zu früh schluckte.
 
 Maren schluckte. Schloss die Lippen um seine Finger. Nahm, was er ihr gab.
 
@@ -190,7 +188,7 @@ Vesper zog die Hand zurück. Er sagte nichts.
 
 »Braves Mädchen.«
 
-Mehr nicht. In ihr löste sich ein letzter angespannter Draht.
+Mehr nicht.
 
 Sie versuchte sich aufzurichten, und die Ellbogen gaben nach. Vespers Hand kam sofort, flach unter ihrem Oberarm — kein Griff, nur tragen.
 
@@ -214,6 +212,6 @@ Vesper setzte sich an den Tisch. Maren hörte den Stuhl, hörte das Rascheln der
 
 Er arbeitete im Dunkeln. Aus dem Gedächtnis, wie immer.
 
-Sie hatte seit Solha neben keinem Mann geschlafen, der wach war und an sie dachte. Nicht an sie wie an Besitz, nicht an sie wie an Belohnung. Einfach an sie. Die Matte war dicht unter ihr. Der Gehrock schwer und warm über den Schultern. Das Pochen aus der Session war noch da, tief und gleichmäßig wie das Wasser unter den Planken — aber sie trug es nicht mehr allein. Es pochte, und sie schlief; beides zugleich, ohne Widerspruch.
+Sie hatte seit Solha neben keinem Mann geschlafen, der wach war und an sie dachte. Er dachte an sie. Einfach an sie. Die Matte war dicht unter ihr. Der Gehrock schwer und warm über den Schultern. Das Pochen aus der Session war noch da, tief und gleichmäßig wie das Wasser unter den Planken — aber sie trug es nicht mehr allein. Es pochte, und sie schlief.
 
 Sie blieb.
