@@ -42,7 +42,7 @@ Nyr drückte ihn wieder rückwärts an die Stahlplatte, und der Nieten-Kopf zwis
 
 Dann ging eine Welle durch die Luft.
 
-Nichts Großes. Vesper spürte es im Kiefer — der Druck im Raum kurz nach oben. Sie presste enger an ihn, und die Luft um sie zog sich zusammen, eine Sekunde, zwei. Bei ihr setzte die Magie aus, wenn sie hochfuhr. Bei ihm setzte sie nie aus.
+Nichts Großes. Vesper spürte es im Kiefer — der Druck im Raum kurz nach oben. Sie presste enger an ihn, und die Luft um sie zog sich zusammen, eine Sekunde, zwei. Ihre Magie kippte, wenn sie hochfuhr. Seine nicht.
 
 »Lass«, sagte er.
 
@@ -82,7 +82,7 @@ Er sah hinunter zu seinem Hemd. Ein Knopf weniger an der Brust.
 
 Er lachte. Sie zog die Hose an, ohne sich umzudrehen, ging die zwei Schritte zurück zur Werkbank, weil dort der Ölfilter lag, an dem sie heute früh gearbeitet hatte. Sie hob ihn auf, drehte ihn in der Hand, legte ihn an seinen Platz in der Wandnische zurück.
 
-Bei Thar hatte jedes Werkzeug seine Nische. Auch nach allem.
+Bei Thar hatte jedes Werkzeug seine Nische.
 
 Vesper richtete den Hemdkragen.
 

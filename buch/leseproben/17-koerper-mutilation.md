@@ -18,8 +18,6 @@ Die Hand war da. Der Daumen war da. Der kleine Finger war da. Dazwischen waren d
 
 Ihre Blüten hatten sie gebissen.
 
-Sie kannte den Begriff nicht, sie dachte ihn trotzdem. Gebissen.
-
 Vesper kniete vor ihr. Sie sah ihn, aber erst, als er schon eine Weile da gewesen war. Sein linker Unterarm endete an einem Tuch, das er sich selbst gebunden hatte, unter dem Ellbogen. Das Tuch war dunkel und feucht und an einer Stelle schon getrocknet. Er war schon eine Weile ohne Arm, und sie hatte es nicht bemerkt.
 
 »Alphina.«

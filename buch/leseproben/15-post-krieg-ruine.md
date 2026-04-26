@@ -22,7 +22,7 @@ Alphina sah ihn zuerst an den Händen — dicke Knöchel, Altersflecken, Haut wi
 
 Der Junge atmete. Man hörte es. Jeden Atemzug hörte man — ein flaches Kratzen, das zu hoch saß. Seine Lunge hatte in der ersten Woche nach der Quellen-Zerstörung damit angefangen, und seitdem hatte sie nicht wieder aufgehört.
 
-Alphina stand sehr still. Der Wind kam aus Nordost und brachte nichts mit — kein Gras, kein Tier, kein Ton. Die Ebene hinter dem Jungen war grau bis zum Horizont. Sie hatte in Thalassien Ebenen gesehen, die nach einem harten Winter grau gewesen waren, aber das hier war anders. Der Winter ging wieder weg. Das hier ging nicht wieder weg.
+Alphina stand sehr still. Der Wind kam aus Nordost und brachte nichts mit — kein Gras, kein Tier, kein Ton. Die Ebene hinter dem Jungen war grau bis zum Horizont. Sie hatte in Thalassien Ebenen gesehen, die nach einem harten Winter grau gewesen waren, aber das hier war anders.
 
 »Kann er —«
 

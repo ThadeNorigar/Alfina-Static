@@ -48,7 +48,7 @@ Er nahm die Hand weg. Er sah sie an.
 
 Sie war blass. Die Finger waren ohne Farbe. Er legte sie auf die Tischkante — das Holz war warm, er wusste das, er hatte seit Stunden hier gesessen — und seine Handfläche nahm die Wärme des Holzes nicht an. Die Haut nahm keine Wärme an. Seit sechs Wochen war das so.
 
-Er hatte sich entschieden, das nicht zu bezeichnen. Es war Teil des Preises, den er zahlte, und Preise zu bezeichnen hieß, über sie zu verhandeln.
+Er hatte sich entschieden, das nicht zu bezeichnen. Es war Teil des Preises, den er zahlte.
 
 Er wischte das Messer. Er schnitt einen kleinen Streifen Leinen, legte ihn auf den Schnitt, band zu, knotete mit der rechten Hand, wie er das gelernt hatte. Er wusch die Schale am Becken im Nebenzimmer, mit kaltem Wasser, und das Wasser war das Ding, das er heute am deutlichsten spürte.
 

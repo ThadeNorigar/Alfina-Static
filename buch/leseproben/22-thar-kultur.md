@@ -26,7 +26,7 @@ Durm nickte. Er stand neben Kessler, die Hände auf dem Rücken, wie er immer st
 
 »Die Kupplung hält noch«, sagte er. »Aber nur noch so.«
 
-Er zeigte mit dem Daumen den Bereich. Sieben von zehn. Keine mittelformellen Ausdrücke. Keine Schmeichel-Zahl. Beim Thar nannte man die Zahl, die stimmte.
+Er zeigte mit dem Daumen den Bereich. Sieben von zehn.
 
 »Ich weiß«, sagte Nyr. »Ich hab es letztens beim Druck-Test gemerkt. Er wackelt rechts raus, wenn ich die obere Kammer öffne.«
 
@@ -64,7 +64,7 @@ Durm drehte sich zu ihm. »Ja.«
 
 Vesper nickte. Langsam. Nyr sah, wie er das notierte — nicht auf Papier, er hatte keine Feder dabei, aber irgendwo hinter seiner Stirn. Bei ihm sah man das.
 
-Durm nahm das Werkzeug auf, das auf dem Rollbrett lag, legte es zurück in den Wandhalter, in die Nische, die dafür vorgesehen war. Beim Thar hatte jedes Werkzeug seine Nische. Es war nicht schön, es war praktisch, und das Praktische war, beim Thar, eine Art Schönheit.
+Durm nahm das Werkzeug auf, das auf dem Rollbrett lag, legte es zurück in den Wandhalter, in die Nische, die dafür vorgesehen war. Beim Thar hatte jedes Werkzeug seine Nische.
 
 »Ich brauche dich morgen früh«, sagte er zu Nyr. »Vier Uhr. Kessler will vor dem ersten Licht raus. Er läuft lieber dunkel.«
 

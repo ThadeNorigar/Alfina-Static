@@ -44,7 +44,7 @@ Runa nahm ihre Hand zwischen Alphinas Schenkel. Sie fragte nicht, sie tat. Das m
 
 Es kam nichts.
 
-Kein Trieb aus der Fuge. Keine Ranke am Fensterrahmen. Der Raum roch nach ihnen und sonst nach nichts. Als hätte ihr Körper nicht verstanden, dass das, was eben passiert war, das Gleiche war wie mit Sorel. Oder: als hätte er sehr gut verstanden, dass es das nicht war.
+Kein Trieb aus der Fuge. Keine Ranke am Fensterrahmen. Der Raum roch nach ihnen und sonst nach nichts.
 
 Runa setzte sich auf. Sie wischte sich die Hand am Laken ab — ohne zu fragen, ob es das saubere war —, dann rutschte sie von Alphina herunter und legte sich auf den Rücken neben sie. Ihre Schulter lag nicht an Alphinas Schulter. Zwei Finger Abstand. Das war ebenfalls Runa.
 

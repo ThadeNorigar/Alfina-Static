@@ -38,7 +38,7 @@ Thaera zeigte auf einen grünen Punkt am nördlichen Rand. »Hier«, sagte sie.
 
 »Eine verbrauchte. Verbund-Quelle. Die vor drei Jahren gestorben ist. Da wollen wir Ihnen zeigen, was wir mit dem Fels tun, wenn der Puls weg ist.«
 
-Alphina nickte. Sie hatte das Wort Puls noch nicht oft gehört, hier klang es sachlich, nicht mystisch. Sie mochte das.
+Alphina nickte. Sie hatte das Wort Puls noch nicht oft gehört, hier klang es sachlich. Sie mochte das.
 
 Ihr Blick fiel auf einen anderen Punkt. Weiter südlich, kleiner, in Rot umrandet. Kein Name daneben. Ein Kreis mit einem Strich quer durch, sauber gezogen. Sie hätte es nicht gesehen, wenn Thaeras Hand nicht kurz darüber geruht hätte, bevor sie weitergezogen war.
 

@@ -42,8 +42,6 @@ Auf seinem Hemd, auf seiner Brust, aus der dunklen Stelle, die er trug, brachen 
 
 Sorels Brust hob sich nicht mehr.
 
-Das war der Moment, in dem Alphina nicht mehr wusste, wo ihr Körper aufhörte.
-
 Sie spürte einen Schmerz an ihrer rechten Hüfte. Dort, aus dem Stoff ihres Kleides, brach etwas Spitzes hindurch. Sie sah nicht hin. Sie sah auf Sorel. Er atmete nicht mehr.
 
 Im Halbkreis um sie herum schrie jemand. Es war Runa, kurz, ein Wort, das Alphina nicht verstand. Vesper trat einen Schritt zurück, und eine Wurzel, die Alphina nicht bestellt hatte, traf seine Schulter, riss den Stoff, nahm Blut mit. Maren saß auf der linken Seite am Boden, die Hand auf einer Wade, in der ein Dorn steckte, flach und tief. Sie machte keinen Laut.

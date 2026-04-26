@@ -10,7 +10,7 @@ zweck: Ton-Referenz für B2 Akt IV: Alphina zerstört absichtlich eine Quelle im
 canon_status: Ton-Etüde, B2 Akt IV am 2/3-Mark. Zweite Version — erste zeigte sofortige Effekte (Baum stirbt, Schmied röchelt), Canon-Verstoß. Neue Version nutzt die Verzögerungs-Mechanik als Grusel-Instrument.
 ---
 
-Der Boden fühlte sich richtig an unter ihren Händen, und das war das erste Problem.
+Der Boden fühlte sich richtig an unter ihren Händen.
 
 Alphina kniete am Rand der Mulde. Die Quelle lag drei Schritte vor ihr — nicht sichtbar, aber spürbar, wie ein Herz, das unter der Haut schlug, wenn man die Hand auf eine fremde Brust legte. Warm. Gleichmäßig. Lebendig.
 
@@ -24,7 +24,7 @@ Sie hatte heute Morgen Brot gegessen, mit Butter von einer Frau namens Idrun, di
 
 Sie schickte die Wurzel. Nicht oben, nicht Efeu, nicht Dornen. Tief. Die Wurzel, die sie benutzte, wenn ein Baum trank — lang, fein, kaum sichtbar, ein Tausendfuß von Fäden. Die Fäden fanden das Herz. Legten sich auf die Wärme. Schoben sich hinein.
 
-Sie hatte das noch nie gemacht. Sie hatte es nie tun wollen. Aber ihr Körper wusste, wie. Das war das zweite Problem.
+Sie hatte das noch nie gemacht. Sie hatte es nie tun wollen. Aber ihr Körper wusste, wie.
 
 Drücken war einfach. Drücken war, was sie jeden Tag gemacht hatte, wenn sie einen Steckling wachsen ließ — nur rückwärts. Sie schickte alles hinein, was sie hatte, und die Quelle nahm es, eine Sekunde, zwei, und dann nicht mehr.
 

@@ -62,7 +62,7 @@ Er sah sie an, lange, und das war der Moment, in dem sein Gesicht kippte. Nicht 
 
 »Kleine naive Alphina«, sagte er.
 
-Sie spürte den Satz im Magen bevor im Kopf. Die Epitheta, die er ihr seit dem ersten Tag gegeben hatte — *Liebe, Meine* —, waren ein System gewesen. *Kleine naive Alphina.* Das war das erste ohne Wärme, und die Kälte darin war ein Ding, das er lang bereit gehalten hatte, und jetzt nahm er es heraus.
+Sie spürte den Satz im Magen bevor im Kopf. Die Epitheta, die er ihr seit dem ersten Tag gegeben hatte — *Liebe, Meine* —, waren ein System gewesen. *Kleine naive Alphina.* Das war das erste ohne Wärme, und die Kälte darin hatte er lang bereit gehalten, und jetzt nahm er sie heraus.
 
 »Du warst sauberer zu lesen als Sorel«, sagte er. »Er hatte Widerstand. Du hattest Fleiß. Fleiß ist mir lieber.«
 

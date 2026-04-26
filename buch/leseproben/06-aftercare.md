@@ -40,7 +40,7 @@ Das Zittern ließ nach, nicht auf einmal, sondern in Wellen. Nach ein paar Minut
 
 »Ich weiß.«
 
-Er blieb. Er stand nicht auf, um etwas anderes zu tun. Das war der Teil, den die Meister meistens falsch machten — das Aufstehen, um Tee zu machen, um die Kerzen zu löschen, um etwas zu erledigen. Man stand nicht auf. Man blieb, bis sie einschlief oder sagte: *Steh auf.*
+Er blieb. Er stand nicht auf, um etwas anderes zu tun. Tee, Kerzen, alles konnte warten. Er blieb, bis sie einschlief oder sagte: *Steh auf.*
 
 Sie sagte es nicht. Sie schlief ein.
 

@@ -68,7 +68,7 @@ Er drehte die Spindel eine Umdrehung zurück. Nicht ganz auf, nur einen Schritt.
 
 »Doch.«
 
-Er sah sie an und kippte den Kopf, wie bei einem Motorproblem, dessen Klang er prüfte. Er war kein Sadist, er war ein Mechaniker, und er schlug nach dem Klacken.
+Er sah sie an und kippte den Kopf, wie bei einem Motorproblem, dessen Klang er prüfte.
 
 »Ich glaube dir das nicht«, sagte er. »Aber die Antwort reicht für jetzt. Das war die zweite.«
 
@@ -94,7 +94,7 @@ Er lockerte die Spindel, aber nicht ganz. Zwei Umdrehungen zurück, dann blieb e
 
 Sie hing.
 
-Die linke Hand begann zu beben. Ein feines Beben, das aus dem Unterarm kam und nach oben lief, und sie konnte es nicht stoppen. Der Körper rechnete. Der Körper addierte Schaden und traf eine Entscheidung, dass der Arm ab jetzt beben würde, damit der Rest still bleiben konnte.
+Die linke Hand begann zu beben. Ein feines Beben, das aus dem Unterarm kam und nach oben lief, und sie konnte es nicht stoppen. Der Körper rechnete.
 
 Sie schloss die Augen.
 

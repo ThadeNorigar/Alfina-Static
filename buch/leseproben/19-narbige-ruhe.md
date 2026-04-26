@@ -54,6 +54,6 @@ Sie lachte. Kurz. Es war nicht das erste Mal, aber noch immer selten genug, dass
 
 Er stand auf. Sie ging zur Tür.
 
-Auf der Schwelle blieb sie einmal stehen und schaute zurück — auf ihn, am Waschtisch, die Hand im Becken, der Rücken zum Fenster. Sie sah einen Mann, der ihr gehörte, weil er sie gewählt hatte, und weil sie ihn gewählt hatte, und weil niemand mehr da war, der ihnen das nehmen konnte.
+Auf der Schwelle blieb sie einmal stehen und schaute zurück — auf ihn, am Waschtisch, die Hand im Becken, der Rücken zum Fenster. Sie sah einen Mann, der ihr gehörte.
 
 Sie ging die Treppe hinunter.
