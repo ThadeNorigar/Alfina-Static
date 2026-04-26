@@ -53,7 +53,7 @@
 - **Der Brandfleck am Setzkasten** — Tschechow für K34 (Aktplan: *„Sie fasst einen Bleilettern-Block, und er wird weich unter ihren Fingern."*) und Buch 2 (Runas Feuer-Stufe-Progression).
 - **Runas Verformbarkeit von Blei** — neue Canon-Manifestation der Resonanz unter Stufe 3. Tschechow für K34 und B2 (Stein in Hand wird glühend).
 - **Eigene Haut immun gegen eigenes Feuer** — Dossier-Canon, hier erstmals in B1 sichtbar. Feuert in B2 (Stein in der Hand glühend; Metall biegsam in der Nähe).
-- **Die zwei Druckergesellen Bren und Tarn** — Tschechow für die Frage „wer führt die Druckerei nach Runas Durchgang weiter?". Feuert in K36 oder Epilog (K43 — *„Esther Voss vor dem toten Riss. Thies an der Werft."* — Bren/Tarn analog für die Druckerei).
+- **Die zwei Druckergesellen Bren und Tarn** — Tschechow für die Frage „wer führt die Druckerei nach Runas Durchgang weiter?". Feuert in K36 oder Epilog (K40 — *„Esther Voss vor dem toten Riss. Thies an der Werft."* — Bren/Tarn analog für die Druckerei).
 
 **Tschechow-Waffen abgefeuert Sz1:**
 - **K25 (Runa-Papier-Brand bei Alphina-Treffen)** — hier rückwärts integriert: Runa erinnert sich an einen früheren Wärme-Moment, den sie weggedrückt hat. (POV-Dossier-Canon: „Papier brennt bei Runas Orgasmus (sie verdrängt)" → in K31 öffentlich geworden, hier in K32 nachvollzogen.)
@@ -177,7 +177,7 @@
 
 **Tschechow-Waffen geladen Sz3:**
 - **Die drei Dinge (Notizbuch, Zinnflasche, Bleilettern-Sammlung)** — Tschechow für K36/K37 (Runa stolpert durchs Tor mit den drei Dingen) und B2 (sie hat nur das, was sie mitgenommen hat).
-- **Der Übergabevertrag mit Beln und Tarn** — Tschechow für Epilog K43 (*„Vael ohne die Fünf"* — die Druckerei läuft weiter).
+- **Der Übergabevertrag mit Beln und Tarn** — Tschechow für Epilog K40 (*„Vael ohne die Fünf"* — die Druckerei läuft weiter).
 - **Runa-Pochen-Differenzierung** — *Wärme, die nicht zog* — Canon-Differenzierung zur Maren-Pochen-Resonanz, und zu Alphinas Pflanzen-Pulsschlag, und zu Sorels/Vespers Resonanzen. Feuert in B2 wenn alle Resonanzen verglichen werden.
 
 **Tschechow-Waffen abgefeuert Sz3:**

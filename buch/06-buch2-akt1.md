@@ -1,8 +1,8 @@
 # Buch 2 — Akt I — Fremde Welt (Seite 1–200, ~50.000 Wörter, 10 Kapitel + 2 Interludien)
 
-> **HINWEIS 2026-04-18 — B2-Akt-I neu zu strukturieren:**
-> B1 endet jetzt in K38 mit *„Aufbruch zum Lichtschein"* (nicht mehr bei Elke). Das heißt B2 Akt I beginnt **unterwegs**, nicht in Elkes Garten. Die ersten 3-4 Kapitel müssen umgebaut werden:
-> - **B2-K1:** Drei Tage Marsch zum Lichtschein — Moragh-Flora/Fauna am eigenen Leib, Harons Sprache angewendet, Runas Feuer hält Wunden.
+> **HINWEIS 2026-04-26 — B2-Akt-I neu zu strukturieren:**
+> B1 endet mit K40 (Vael-Epilog). In B1 brechen die Vier am Ende von K39 zu Fuß durch Moragh-Natur auf — kein Lichtschein-Stadt-Cliffhanger mehr, nur Aufbruch durch Natur als Bewegung. **In B1 begegnen die Vier in Moragh niemandem außer Varen und seinen Schemen.** Stadt-Ankunft, Elke und alle weiteren Begegnungen sind B2-Material. B2 Akt I beginnt **unterwegs**, nicht in Elkes Garten. Die ersten 3-4 Kapitel müssen umgebaut werden:
+> - **B2-K1:** Marsch durch Natur (Tag 2-X nach Aufbruch in B1-K39) — Moragh-Flora/Fauna am eigenen Leib, Harons Sprache angewendet, Runas Feuer hält Wunden. Lichtschein am Horizont wird zur Stadt.
 > - **B2-K2:** Stadt-Ankunft — porös-gewachsener Stein, Purpur-Augen, gedämpfte Geräusche, der ältere Mann mit verdünnten purpurnen Augen.
 > - **B2-K3:** Die Gruppe findet Elke (nicht umgekehrt — Elke sucht sie NICHT). Erster Kontakt, altes Thalassisch.
 > - **B2-K4+:** Elkes Hof, Alphinas Zusammenbruch / Dornen statt Farne, Trauer als unbewusstes Wachstum, Lernen.

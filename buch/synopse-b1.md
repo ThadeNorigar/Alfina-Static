@@ -6,7 +6,7 @@ zeitraum_tz: "551 Blütenmond – 551 Erntemond"
 zeitraum_beschreibung: "Ein Sommer in Vael. Ankunft bis zum Durchgang durchs Tor."
 pov: [Alphina, Sorel, Vesper, Maren]
 pov_verteilung: "je ~25%"
-status: "K1–K22 weitgehend final, K23–K42 als Entwurf/Akt-Plan"
+status: "K1–K22 weitgehend final, K23–K40 als Entwurf/Akt-Plan"
 wortumfang_ziel: 225000
 last_update: 2026-04-19
 ---

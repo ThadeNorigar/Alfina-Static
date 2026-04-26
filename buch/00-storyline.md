@@ -126,22 +126,19 @@ Schemen eskalieren. Alphina+Sorel: Bruch → Versöhnung. Alphina+Runa: FWB begi
 **Interludium 3 — ERSTER VAREN-POV**
 Varen in Moragh. Spürt die Resonanzen. Seine Karten: 3 tote Quellen rot markiert. Auf einer zweiten Karte: Bund-Truppenbewegungen, die auf weitere Quellen zielen. "Sie kommen." Notwendigkeit.
 
-**Akt IV — Das Portal (3 Kapitel, K36-K38)**
-Ritual. Portal öffnet sich (4:33). Runa schlüpft durch. Fünf in Moragh.
+**Akt IV — Das Portal (5 Kapitel, K36-K40)**
 
-**VAREN.** altes Thalassisch. Hand an Alphinas Kinn. Besitzergreifend, forschend.
+**K36 — Letzter Abend in Vael.** Steinkreis-Kuss, Garten blüht.
 
-**SOREL STIRBT.** Stellt sich dazwischen. Greift Varen an. Varens Abwehr übermäßig. Sorel sterbend. Varen KÖNNTE retten — tut es NICHT. Deckt Sorels Augen zu. Flüstert ein Wort in Moragh. DAS verfolgt Alphina.
+**K37 — Ritual.** Portal öffnet sich (4:33). Runa schlüpft durch. Fünf in Moragh.
 
-Alphinas Explosion. Dornen, Vegetation. Verletzt die eigenen Leute. Varen zieht sich zurück.
+**K38 — Schock-Kapitel.** Moragh-Ankunft. **VAREN.** Altes Thalassisch. Hand an Alphinas Kinn. Besitzergreifend, forschend. **SOREL STIRBT.** Stellt sich dazwischen. Varens Schutzschemen reißt ihn auf. Sorel stirbt instant. Beim Sterben bricht Licht aus ihm. Alphinas Explosion: Dornen, Vegetation, verletzt die eigenen Leute. Varen flieht blutend. Drei-Resonanzen-Beruhigung (Vesper Zeit, Maren Wasser, Runa Wärme). Alphina bricht zusammen.
 
-**Grab aus fremder Erde.** Alphinas Resonanz ist in Moragh stärker. Weiße Blüten wachsen aus dem Boden und decken Sorels Körper. Ein Grab ohne Spaten, nur mit Händen und Willen.
+**K39 — Trauer + Grab + Wandlung + Aufbruch.** Tag nach dem Tod. Alphinas Resonanz in Moragh hundertfach stärker. **Grab aus fremder Erde:** Boden öffnet sich mit Händen und Willen, weiße Blüten wachsen über Sorels Körper. Wahrnehmung der Welt — nur Natur (zwei Monde, Akkretionsscheibe, fremde Pflanzen, dicke Luft, 0,7g). KEINE Stadt, KEINE Begegnungen außer Varen + Schemen. Alphinas Wandlung: Zorn-Farbpalette schlägt voll schwarz/rot. *„Wir suchen ihn und vernichten ihn."* Aufbruch: vier Rücken, sie gehen weiter durch Natur. Cliffhanger mit Bewegung.
 
-**Schlussbild K38: Aufbruch zum Lichtschein.** Am Horizont ein Lichtschein — niemand weiß was er ist. Vier stehen auf. Sorel bleibt unter Blüten zurück. Sie gehen. Cliffhanger.
+**K40 — Vael-Epilog.** Vael ohne die Fünf — kurz nach Portal-Schließung. Mini-POVs: Esther vor totem Riss, Halvards Bericht, Edric an der Werft, Tohl an der Grauwe, Jara im Archiv. Schemen verschwinden schlagartig (Varens Inszenierungen enden). Aber kleine Anomalien bleiben: Riss noch nicht endgültig zu. Ruhiges Gegenbild zum Moragh-Schock. ENDE BUCH 1.
 
-**Epilog B1 — Vael ohne die Fünf.** Eine Woche später. Halvards Bericht. Schemen verschwunden. Boot wartet. Zwei parallele Schlussbilder: weißes Blütenbeet in Moragh / Tohl am Fenster in Vael. ENDE BUCH 1.
-
-**Nach B1 (Buch 2):** Drei Tage Marsch zum Lichtschein — Moragh-Flora/Fauna am eigenen Leib, Sprache angewendet, Runas Feuer hält Wunden. Stadt-Ankunft. Die Gruppe FINDET Elke (nicht umgekehrt). Elke ist Geheimnis, nicht Rettungsanker.
+**Nach B1 (Buch 2):** Marsch durch Natur (Moragh-Flora/Fauna am eigenen Leib, Sprache angewendet, Runas Feuer hält Wunden). Lichtschein am Horizont wird zur Stadt. Die Gruppe FINDET Elke (nicht umgekehrt). Elke ist Geheimnis, nicht Rettungsanker.
 
 ```
 Beziehungskarte Ende Buch 1:
