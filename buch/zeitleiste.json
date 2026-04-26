@@ -1684,7 +1684,10 @@
       "leseart": "hintergrund",
       "titel": "Resonanz-Training beginnt — Quartett trainiert geheim",
       "detail": "Anfang des 5-Monate-Zeitsprungs. Die Vier beginnen, ihre Resonanzen systematisch zu trainieren — geheim, vorsichtig nach K19, aber regelmäßig. Alphina an Pflanzen aller Art (nicht nur Farne); sie sucht in Vael Moragh-Flora, die durch den Riss sickert (Mauerritzen, Hafen-Steine, Botanischer Garten), zeichnet, vergleicht. Sorel an Licht, beginnt Restlicht-Verstärkung im Lichthaus-Keller. Vesper an Uhren-Drift und ersten Zeit-Manipulations-Übungen (Stein fallen lassen, Geschwindigkeit verändern). Maren an Wasser — Steg-Pegel, Badewanne, später Teetasse. Alphina beginnt parallel die Moragh-Sprache aus Harons Wörterbuch zu lernen — sie ist sprachbegabter als die anderen drei, kommt schneller voran.",
-      "typen": ["hintergrund", "training"],
+      "typen": [
+        "hintergrund",
+        "training"
+      ],
       "tags": [
         "Zeitsprung-Beginn",
         "Resonanz-Training startet systematisch",
@@ -1703,7 +1706,10 @@
       "leseart": "hintergrund",
       "titel": "Sorel gibt das Fotografieren auf",
       "detail": "Nach zwei Wochen Licht-Resonanz-Training erkennt Sorel: er kann was er sieht direkt verstärken oder formen, ohne Kamera. Plattenchemie und Belichtungszeit sind nutzlos geworden. Er stellt die Plattenkamera unter ein Tuch in der Lichthaus-Keller-Ecke. Sein Tisch wird Lupe + Hohlspiegel + Prisma. Tschechow für K39: beim Sterben strahlt Licht direkt aus ihm, ohne Kamera — sein letzter Resonanz-Akt.",
-      "typen": ["hintergrund", "charakter"],
+      "typen": [
+        "hintergrund",
+        "charakter"
+      ],
       "tags": [
         "Sorel: Fotografieren aufgegeben",
         "Plattenkamera unter Tuch",
@@ -1713,7 +1719,7 @@
     },
     {
       "tz": 551,
-      "tz_sort": 551.510,
+      "tz_sort": 551.51,
       "tz_datum": "1. Glutmond 551 TZ",
       "welt": "thalassien",
       "pov": "Hintergrund (kein Kapitel)",
@@ -1722,7 +1728,10 @@
       "leseart": "hintergrund",
       "titel": "Seilerei Mert brennt ohne Feuer — erstes öffentliches Vorzeichen",
       "detail": "Die Ladenfront der Seilerei Mert in der Hafengasse brennt nieder, ohne dass jemand ein Feuer gelegt hat. Hitze aus den Wänden, geschmolzenes Hanf-Tau, kein Funke. Edric pfeift seitdem nicht mehr, wenn er den Pechkessel anheizt. Erstes öffentliches Vorzeichen, dass etwas in Vael nicht stimmt — die Stadt redet, ohne zu wissen worüber. Die Vier wissen mehr, sagen nichts.",
-      "typen": ["hintergrund", "vorfall"],
+      "typen": [
+        "hintergrund",
+        "vorfall"
+      ],
       "tags": [
         "Erster öffentlicher Vorfall (Schemen-Aktivität)",
         "Tschechow: Edric pfeift nicht mehr (K28-Canon)"
@@ -1740,7 +1749,11 @@
       "leseart": "hintergrund",
       "titel": "V/M-Einzug + Schachturm-Übergabe (in K35-Sz1 als Maren-Rückblende erinnert)",
       "detail": "Vesper bringt seine letzten Sachen aus dem Anker zu Maren in die Hafengasse-Wohnung — zwei Reisetaschen, Schreinerkoffer mit Werkzeug, die Werkstatt-Pendule auf einem Wagen. Sie stellen die Werkbank in der Wohnzimmer-Ecke beim Fenster auf. Vesper hat bei einem Vael-Schreiner ein neues Doppelbett bauen lassen mit gedrechselten Pfosten und Eisenringen an den unteren — Maren hat es beim Aufbau gesehen, nicht kommentiert (V/M-Anker für künftige Sessions). Am selben Abend übergibt Vesper Maren den Schachturm. Dialog: 'Ich gebe ihn dir nicht. Ich gebe ihn dir auf. Als Wächter. Du stellst ihn auf, wenn du eine Nacht willst — ich verstehe.' Maren: 'Und wenn du eine willst?' Vesper: 'Ich frage dich mit Worten, wie ein Erwachsener.' Maren: 'Wie soll ich ihn tragen?' Vesper: 'Wie ich. In der Tasche. Jeden Tag. Wenn du ihn vergisst, vergisst er dich.' Vesper näht ihr in einer Stunde am Saum des Leinenhemdes ein Geheimfach ein, von außen unsichtbar. Schachturm-Origin: aus Vespers letztem Schachspiel mit neunzehn (Karst-Schachclub-Aufnahme-Endspiel — Steine ordneten sich von selbst, er ging, nahm den schwarzen Turm mit; erste Manifestation seiner Zeit-Resonanz, die er damals für Spuk hielt, fünfzehn Jahre in der linken Rocktasche getragen). Vesper: 'Erinnerung an den Tag, an dem ich aufgehört habe zu lügen.' Marens linke Rocktasche bleibt ab heute leer.",
-      "typen": ["hintergrund", "beziehung", "tschechow"],
+      "typen": [
+        "hintergrund",
+        "beziehung",
+        "tschechow"
+      ],
       "tags": [
         "V/M zieht zusammen (Glutmond)",
         "Schachturm-Übergabe als 'Wächter'",
@@ -1760,7 +1773,10 @@
       "leseart": "hintergrund",
       "titel": "Maren stellt den Schachturm zum ersten Mal auf — erste Initiations-Umkehrung",
       "detail": "Nach sechs Tagen mit dem Turm im Saum legt Maren ihn zum ersten Mal auf den gemeinsamen Esstisch. Vesper sieht ihn beim Heimkommen, kommt zu ihr ohne ein Wort. Erste V/M-Session mit Maren als Initiierender (Umkehrung zu K27-Vesper-Initiation). Ab jetzt stellt Maren den Turm 2-3× pro Woche auf — Routine bis K35.",
-      "typen": ["hintergrund", "beziehung"],
+      "typen": [
+        "hintergrund",
+        "beziehung"
+      ],
       "tags": [
         "V/M: erste Maren-Initiation",
         "Routine etabliert (2-3× pro Woche bis K35)"
@@ -1769,7 +1785,7 @@
     },
     {
       "tz": 551,
-      "tz_sort": 551.520,
+      "tz_sort": 551.52,
       "tz_datum": "5. Erntemond 551 TZ",
       "welt": "thalassien",
       "pov": "Hintergrund (kein Kapitel) — Alphina + Halvard",
@@ -1778,7 +1794,11 @@
       "leseart": "hintergrund",
       "titel": "Alphina-Halvard-Mentorat beginnt",
       "detail": "Maren hat sich beim Stechbeitel an der Werft-Hand geschnitten. Alphina behandelt die Wunde mit einem Pflanzen-Substrat — die Heilung ist schneller, sauberer als sie sein dürfte. Halvard, der zufällig dabei ist (er war wegen einer anderen Sache an der Werft), bemerkt es. Stellt keine Fragen vor Maren, aber lädt Alphina später zu sich in die Praxis ein. Sie spricht mit ihm vorsichtig — er weiß seit den vier Patient-Akten (K26), dass etwas in Vael läuft. Vereinbarung: Alphina hilft ihm bei seinen Patienten, er gibt ihr im Gegenzug medizinische Grundausbildung (Anatomie, Wickel, Salben, Knochenbrüche). Sie kommt von da an zwei-, dreimal pro Woche in die Praxis. Halvard wird zur stillen vierten Vertrauensperson außerhalb der Vier (neben Esther, Jara, später Runa).",
-      "typen": ["hintergrund", "beziehung", "charakter"],
+      "typen": [
+        "hintergrund",
+        "beziehung",
+        "charakter"
+      ],
       "tags": [
         "Alphina lernt Heilkunde von Halvard",
         "Halvard wird Vertrauter (nach Esther, Jara)",
@@ -1788,7 +1808,7 @@
     },
     {
       "tz": 551,
-      "tz_sort": 551.530,
+      "tz_sort": 551.53,
       "tz_datum": "1. Herbstmond 551 TZ",
       "welt": "thalassien",
       "pov": "Hintergrund (kein Kapitel)",
@@ -1797,7 +1817,10 @@
       "leseart": "hintergrund",
       "titel": "Erste Familien beginnen Vael zu verlassen",
       "detail": "Einzelne Reeder und Böttcher mit Familien gehen — nicht in Karrenkolonnen, einzelne Wagen, leise. Die Familie Treks aus der Hafengasse Nummer sieben packt im Verlauf des Herbstmondes. Aufträge in Marens Werft werden ruhiger. Die Stadt nicht in Panik, aber die Bewegung ist da. Halvards Patienten häufen sich (mehr Verbrennungen ohne Hitzequelle, mehr versengte Haare).",
-      "typen": ["hintergrund", "stadt"],
+      "typen": [
+        "hintergrund",
+        "stadt"
+      ],
       "tags": [
         "Stadt-Vorzerfall: erste Familien gehen",
         "Halvards Patienten häufen sich",
@@ -1816,7 +1839,10 @@
       "leseart": "hintergrund",
       "titel": "Händler verschwindet am Hafen — zweites öffentliches Vorzeichen",
       "detail": "Ein Händler verschwindet spurlos am Hafen, am hellen Tag. Sein Stand bleibt, sein Karren bleibt, er ist weg. Niemand hat etwas gesehen. Die Hafenwache sucht zwei Tage, findet nichts. Zweites öffentliches Vorzeichen nach der Seilerei. Die Stadt redet leiser, aber konkreter — etwas geht in Vael um.",
-      "typen": ["hintergrund", "vorfall"],
+      "typen": [
+        "hintergrund",
+        "vorfall"
+      ],
       "tags": [
         "Zweites öffentliches Vorzeichen",
         "Stadt-Unruhe wird konkreter"
@@ -1825,7 +1851,7 @@
     },
     {
       "tz": 551,
-      "tz_sort": 551.540,
+      "tz_sort": 551.54,
       "tz_datum": "25. Herbstmond 551 TZ",
       "welt": "thalassien",
       "pov": "Hintergrund (kein Kapitel)",
@@ -1834,7 +1860,10 @@
       "leseart": "hintergrund",
       "titel": "Militärpatrouillen werden eingerichtet",
       "detail": "Der Vael-Obrist ordnet nächtliche Militärpatrouillen in den Hafengassen und der Oberstadt an. Zwei Soldaten pro Gasse, Öllaternen nach unten gehalten, leise reden. Niemand weiß genau, wonach sie suchen — der Obrist redet leise von 'Unruhen'. Nachtwächter-Lehrlinge bekommen Pistolen, schlecht ausgebildet darin (siehe K28-Tschechow: der Lehrling hat eine Gürteltasche mit Pistole, die er nicht zieht).",
-      "typen": ["hintergrund", "stadt"],
+      "typen": [
+        "hintergrund",
+        "stadt"
+      ],
       "tags": [
         "Militärpatrouillen seit ~6 Tagen vor K28",
         "Nachtwächter mit Pistolen",
@@ -1853,7 +1882,10 @@
       "leseart": "hintergrund",
       "titel": "Süß-dichter Rauchgeruch aus Südost-Stadt beginnt",
       "detail": "Drei, vier Nächte vor K28: aus der Richtung des Archivhügels (Südost-Stadt) zieht ein süß-dichter Geruch in die Stadt — wie nach einem schweren Teig, der zu lange im Ofen war. Die Alten an der Fischhalle reden darüber, niemand weiß Bescheid. Die Quelle ist nicht sichtbar — keine Brände, keine Bäcker. Maren bemerkt den Geruch zum ersten Mal vor ihrer Wohnungstür (Canon: drei oder vier Nächte vor K28). Der Geruch wird Tschechow für K28-Leichenfund (gleicher Geruch beim toten Nachtwächter) und K31-Marktplatz ('riecht süß und dicht — nach Moragh').",
-      "typen": ["hintergrund", "vorfall"],
+      "typen": [
+        "hintergrund",
+        "vorfall"
+      ],
       "tags": [
         "Süß-dichter Geruch (Varens Schemen-Signatur)",
         "Tschechow für K28-Leiche und K31-Marktplatz"
@@ -1871,7 +1903,9 @@
       "leseart": "hintergrund",
       "titel": "Zeitsprung-Ende — Stand der Vier am Vorabend von K28",
       "detail": "Letzter Tag vor K28 (1. Nebelmond). Stand: (Sprache) Alphina liest und übersetzt das Moragh-Wörterbuch eigenständig, die anderen drei beherrschen den Grundbestand (einzelne Worte, Lautschrift). (Resonanzen ausgebaut) Alphina formt Pflanzen aller Art, sucht Moragh-Flora, heilt kleine Blessuren mit Pflanzen-Substraten + Halvard-Lehre. Sorel hat das Fotografieren aufgegeben, sieht im Dunkeln, dunkelt Räume ab, zündet Kerzen mit Brennglas. Vesper manipuliert Zeit lokal — Dinge fallen verlangsamen, Material altern, Uhrwerke in Zeitlupe; setzt Zeit-Resonanz in V/M-Sessions ein. Maren erhitzt/friert Wasser, formt es leicht (Säule aus Teetasse), manipuliert Nebeltropfen (lichten/verdichten). (V/M) zusammengezogen seit Glutmond, Schachturm-Routine 2-3×/Woche etabliert. (A/S) drei Monate ruhige Liebe. (Stadt) Seilerei Mert brannt, Händler verschwand, erste Familien gehen, Patrouillen seit Tagen, süß-dichter Geruch seit Nächten. (Helferkreis) Esther + Jara (Archiv), Halvard (Medizin/Patient-Akten), Runa (Druckerei, Stadt-Klatsch — ahnt mehr als sie sagt). Heute Nacht zieht das Pochen Maren das erste Mal aktiv aus der Wohnung.",
-      "typen": ["hintergrund"],
+      "typen": [
+        "hintergrund"
+      ],
       "tags": [
         "Zeitsprung-Ende-Stand",
         "Letzter Tag vor K28",
@@ -1981,7 +2015,10 @@
       "leseart": "normal",
       "titel": "Runa allein — Selbst-Erkenntnis und Hilfe-Entschluss",
       "detail": "Abend nach dem Marktplatz-Angriff aus K31. Runa in der Druckerei, allein, der Brandfleck am Setzkasten frisch. Sie geht durch die letzten Wochen rückwärts: Alphinas nervöse Blicke seit Glutmond, Marens beiläufige Erwähnung einer 'Übersetzung' mit Vesper, Sorels späte Stunden in der Stadt, die Flugblätter, die sie selbst gedruckt hat. Sie hat alles beobachtet, alles gesehen, nichts gesagt. Sie ist nicht verletzt, dass die Vier sie nicht eingeweiht haben — sie versteht, dass Schutz das Motiv war. Erkenntnis: Sie will helfen. Heimliche Trauer um die ungelebte Naehe — sie ist allein, die anderen sind zu zweit — aber ohne Bitterkeit; sie goennt beiden Paaren ihr Glueck. Innere Vorbereitung auf K34 'Ich komme mit'. Runa-POV, einziges Runa-Kapitel in B1.",
-      "typen": ["erkenntnis", "charakter"],
+      "typen": [
+        "erkenntnis",
+        "charakter"
+      ],
       "tags": [
         "Runa-POV (einziges Buch-1)",
         "Erkenntnis: alles beobachtet, alles verstanden",
@@ -2045,7 +2082,10 @@
       "leseart": "normal",
       "titel": "Letzte Nacht V/M — Schachturm-Initiation, harte BDSM-Szene",
       "detail": "Nach K34 (Ritual-Planung) und vor K36 (Letzter Abend) / K37 (Ritual-Vollzug). Maren geht direkt von der Werft (Boot, 'Warte auf mich') zu Vesper. Sie stellt den Schachturm auf seinen Tisch — Session-Wunsch nach K27-Grammatik, jetzt von ihr initiiert (erstmals seit Übergabe der Figur in den fünf Monaten). Vesper versteht ohne Wort. Harte BDSM-Szene, Réage-Register: Ausziehen auf Anweisung (stehen, drehen, bücken), Augenbinde, Hände über dem Kopf gefesselt, Beine gestreckt auseinander gebunden. Sehr langsames Spiel: Scham, Anus, Lecken, Stopp-vor-Orgasmus, Ficken, Reiben bis zum Orgasmus. Aftercare: Schachturm zurück, Decke, Hand zwischen den Schulterblättern, Atem in seine Hand. Maren-POV durchgehend mit gelegentlichen Vesper-POV-Wechseln (Réage-Dom-Innenleben: Zeit-Kontrolle als Dienst an ihr, nicht Machtgenuss). Letzte Vael-Nacht.",
-      "typen": ["beziehung", "tschechow"],
+      "typen": [
+        "beziehung",
+        "tschechow"
+      ],
       "tags": [
         "V/M-Initiation durch Maren (Schachturm-Aufstellung)",
         "Erste explizite V/M-Sex-Szene mit Penetration",
@@ -2111,35 +2151,16 @@
       "buch": "B1",
       "kapitel": "38",
       "leseart": "normal",
-      "titel": "Varen begegnet Alphina — altes Thalassisch, Hand an ihr Kinn",
-      "detail": "'Eure Resonanz. Ich hab sie durch den Riss erspueret. Über vierhundert Jaehrlein.' Bindungsmagie haelt sie. 4:33 war nie die Frequenz des Risses — es war Varens Signatur.",
+      "titel": "Moragh-Ankunft + Varen + Sorel stirbt + Alphinas Explosion + Beruhigung",
+      "detail": "Direkt nach Portal-Durchgang. Erste Sekunden auf Moragh-Boden: zwei Monde, Akkretionsscheibe, dicke Luft, sattere Farben, 0,7g, süß-metallischer Geruch. Varen tritt aus dem Schatten — groß, muskulös, graue Schläfen, purpurne Augen. Altes Thalassisch (gelernt von Elke). Kennt ihre Namen. Legt die Hand an Alphinas Kinn. Bindungsmagie hält sie. 4:33 war Varens Signatur. Sorel stellt sich zwischen Varen und Alphina (Schwur K30 eingelöst). Varens Schutzschemen (pferdgroß, vier Arme, Klauen) reißt Sorels Brust auf. Sorel stirbt instant. Beim Sterben bricht Licht aus ihm. Alphinas Schrei — Schmerz hoch und dünn, dann Wut tief und rau, ohne Pause. Vernichtungswille. Wurzeln/Dornen/Ranken explodieren aus Moragh-Stein. Schutzschemen durchbohrt. Varen verwundet, flieht blutend durch Schemen-Bresche. Alphinas Ausbruch trifft auch eigene Leute (Maren, Vesper, Runa). Drei-Resonanzen-Beruhigung: Vesper Zeit (Atem/Schreien verlangsamt), Maren Wasser-Entzug (Pflanzen welken), Runa Wärme + »Ich bin da«. Alphina bricht zusammen. Vier am Boden, einer tot. Auf Sorels Körper: weiße Blumen.",
       "typen": [
         "begegnung",
-        "schlüssel"
+        "tod",
+        "schluessel"
       ],
       "tags": [
         "Erste Begegnung: Alphina + Varen",
-        "Erkenntnis: Varens altes Thalassisch"
-      ],
-      "kapitel_status": "szenenplan",
-      "mz": 0.02
-    },
-    {
-      "tz": 551,
-      "tz_sort": 551.8301,
-      "tz_datum": "3. Dunkelmond 551 TZ · Moragh",
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B1",
-      "kapitel": "39",
-      "leseart": "normal",
-      "titel": "Sorel stirbt — Schutzschemen + Alphina-Schrei/Ausbruch + Team-Beruhigung",
-      "detail": "Sorel stellt sich zwischen Varen und Alphina (Schwur K30). Varens monströser Schutzschemen (pferdgroß, vier Arme, Klauen) deutet Sorels Bewegung als Angriff, reagiert in Sekunden-Bruchteilen. Klauen-Schlag reißt Sorel die Brust auf. Blut spritzt auf Alphina. Sorel stirbt instant. Beim Sterben bricht Licht aus ihm (Resonanz-Ende ohne Kamera). **Alphinas Schrei** durchgängig — erst Schmerz hoch und dünn, dann Wut tief und rau, ohne Pause; unbedingter Vernichtungswille gegen Varen. **Ausbruch instant** — keine Sekunde für Varen zu reagieren. Wurzeln/Dornen/Ranken explodieren aus Moragh-Stein. **Heftiger Kampf:** Alphina vs. Varen, Pflanzen-Resonanz auf Moragh-Boden überwältigend. Schutzschemen durchbohrt, einer fällt. Varens Bindungsmagie schleudert zurück, doch überrumpelt — Wunden an Arm, Wange, Brust. Nach Sekunden flieht er blutend durch eine Schemen-Bresche. Alphinas Ausbruch trifft auch eigene Leute (Maren, Vesper, Runa). **Aber Alphina hört nicht auf** — Schrei läuft weiter, Pflanzen wachsen weiter. **Team-Beruhigung mit drei Resonanzen:** Vesper Zeit-Resonanz auf Alphina (verlangsamt Atem/Schreien), Maren entzieht dem Boden Wasser (Pflanzen welken), Runa umarmt sie von hinten und lässt Wärme durch sie laufen, *„Ich bin da.“* Alphinas Schrei verstummt, sie bricht zusammen, Runa fängt sie. Vier am Boden, einer tot. Auf Sorels Körper: kleine weiße Blumen.",
-      "typen": [
-        "tod",
-        "schlüssel"
-      ],
-      "tags": [
+        "Erkenntnis: Varens altes Thalassisch",
         "Tod: Sorel",
         "Schluesselereignis: Alphinas Ausbruch"
       ],
@@ -2155,31 +2176,20 @@
       "buch": "B1",
       "kapitel": "39",
       "leseart": "normal",
-      "titel": "Grab aus fremder Erde — weiße Blueten, die nicht wachsen sollten",
-      "detail": "Alphina kniet in fremder Erde. Ihre Resonanz ist stärker hier — Pflanzen antworten sofort. Aus dem Boden wachsen weiße Blueten und decken Sorels Körper. Ein Grab ohne Spaten, nur mit Händen und Willen. Die fremde Erde nimmt ihn an. Sie spricht nicht. Maren kniet neben ihr. Vesper und Runa warten einen halben Schritt zurueck.",
+      "titel": "Trauer + Grab + Wahrnehmung der Welt + Alphinas Wandlung + Aufbruch",
+      "detail": "Tag nach dem Tod. Trauer ohne Worte. Alphina kniet in fremder Erde — ihre Resonanz hier hundertfach stärker. Sie öffnet den Boden mit Händen und Willen, ohne Spaten. Sorels Körper sinkt. Weiße Blüten wachsen über der Stelle (Tschechow für B3-Finale). Wahrnehmung der Welt — nur Natur: zwei Monde, Akkretionsscheibe, fremde Pflanzen die sich drehen, dicke Luft, sattere Farben, 0,7g, süß-metallischer Geruch. KEINE Stadt, KEINE Menschen-Begegnung. Außer Varen und seinen Schemen begegnen sie niemandem in B1. Alphinas Wandlung: Zorn-Farbpalette schlägt zum ersten Mal voll schwarz/rot — Anti-Flora, Anthocyane statt Chlorophyll. Hass auf Varen verbalisiert: »Wir suchen ihn und vernichten ihn.« Mission gesetzt. Aufbruch: vier Rücken, sie gehen weiter durch Natur. Cliffhanger mit Bewegung. ENDE Moragh-Block B1.",
       "typen": [
         "resonanz",
-        "schlüssel"
+        "wandlung",
+        "schluessel"
       ],
-      "tags": [],
-      "kapitel_status": "idee",
-      "mz": 0.04
-    },
-    {
-      "tz": 551,
-      "tz_sort": 551.8801,
-      "tz_datum": "4. Dunkelmond 551 TZ · Moragh · Abend",
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B1",
-      "kapitel": "42",
-      "leseart": "normal",
-      "titel": "Aufbruch zum Lichtschein — ENDE Buch 1",
-      "detail": "Am Horizont ein Lichtschein. Niemand weiß was er ist — eine Stadt, ein Feuer, eine Sonne der anderen Welt. Vier stehen auf. Sorel bleibt unter Blueten zurueck. Sie gehen. Schlussbild Buch 1. Cliffhanger.",
-      "typen": [
-        "schlüssel"
+      "tags": [
+        "Grab aus fremder Erde",
+        "Weisse Blueten (Tschechow B3)",
+        "Alphina-Wandlung schwarz/rot",
+        "Mission gegen Varen gesetzt",
+        "Aufbruch — ENDE Moragh-Block B1"
       ],
-      "tags": [],
       "kapitel_status": "idee",
       "mz": 0.04
     },
@@ -2190,7 +2200,7 @@
       "welt": "thalassien",
       "pov": "Nebencharaktere (Halvard, Tohl, Edric, Jara)",
       "buch": "B1",
-      "kapitel": "Epilog",
+      "kapitel": "40",
       "leseart": "normal",
       "titel": "Vael ohne die Fünf -- Varens Spuren verschwinden",
       "detail": "Schemen verschwinden schlagartig — Varens Inszenierungen enden. Aber kleinere Anomalien bleiben: Wasser fließt ungewoehnlich, Uhren gehen falsch, Tidemoor-Uhr kaputt, Farne im Garten wachsen weiter. Die Riss-Quelle sickert weiter. Halvard schreibt seinen Bericht — das einzige schriftliche Zeugnis. Jara archiviert Runas Flugblaetter. Das Boot wartet, drei Viertel fertig.",
