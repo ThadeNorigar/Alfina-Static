@@ -276,7 +276,7 @@ Sie stand da. Scheiße. Ihre Hände zitterten. Ihr Atem ging flach, schnell — 
 
 Sie ging zurück. Schnell. Die Gasse, die Treppe, die Tür. Der Riegel, diesmal vorgelegt. Die Stufen hoch, das Knarren unter ihren Stiefeln, ihr Zimmer, die Tür zu, der Schlüssel, zweimal.
 
-Sie lehnte sich gegen die Tür. Das Holz an ihrem Rücken, kühl, fest. Ihr Atem, laut im kleinen Raum. Die Stiefel nass. Die Hände — sie schaute auf ihre Hände. Sie zitterten. Sie schloss sie. Öffnete sie. Schloss sie.
+Sie lehnte sich gegen die Tür. Das Holz an ihrem Rücken, kühl, fest. Ihr Atem, laut im kleinen Raum. Die Stiefel nass. Die Hände — sie schaute auf ihre Hände. Sie zitterten. Sie ballte die Fäuste, öffnete sie wieder, ballte sie noch einmal.
 
 Auf dem Tisch lag das Notizbuch. Runas Papier. Die Feder.
 

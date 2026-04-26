@@ -250,7 +250,7 @@ Abrupt. Total. Kein Ticken. Kein Dröhnen. Kein Nachschwingen. Die Werkstatt war
 
 Vesper stand in der Tür. Barfuß. Sein Atem ging schnell. Flach. Seine Hände hingen an seinen Seiten. Der Turm lag irgendwo auf dem Boden. Er konnte nichts sehen.
 
-Er tastete nach dem Streichholz. Auf der Werkbank, neben den Pinzetten, Position drei. Er traf. Die Finger zitterten. Einmal, zweimal. Das Streichholz fing. Schwefellicht, gelb, zuckend.
+Er tastete nach dem Streichholz. Auf der Werkbank, neben den Pinzetten, Position drei. Er traf. Die zitternden Finger schlugen einmal und ein zweites Mal, dann fing das Streichholz. Schwefellicht, gelb, zuckend.
 
 Die Uhren standen.
 
@@ -266,7 +266,7 @@ Vesper stand in seiner Werkstatt. Barfuß auf kaltem Stein. Die Luft roch nach S
 
 Er hob den Turm auf. Das Holz war kalt. Zum ersten Mal seit dreizehn Jahren war das Holz kalt.
 
-Er ging in den Schlafraum. Öffnete den Schrank. Der Koffer stand dort — Leder, klein, die Schnallen aus Messing, stumpf vom Liegen. Daneben: drei Hemden, gefaltet, identisch. Eine Hose. Rasiermesser. Seife.
+Er ging in den Schlafraum. Öffnete den Schrank. Der Koffer stand dort — Leder, klein, die Schnallen aus Messing, stumpf vom Liegen. Daneben: drei Hemden, gefaltet, identisch. Dazu eine Hose, ein Rasiermesser und Seife.
 
 Er packte. Die Hände zitterten nicht mehr. Sie arbeiteten. Hemden, Hose, Rasiermesser. Werkzeugrolle — Pinzetten, Schraubendreher, Lupe, Ölfläschchen. Den Samtbeutel mit den Zahnrädern. Dreiunddreißig erklärbare Dinge.
 

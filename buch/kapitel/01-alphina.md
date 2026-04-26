@@ -8,7 +8,7 @@ Das war das Erste was sie bemerkte, in dieser Nacht, um zwölf Minuten nach drei
 
 Aber in dieser Nacht war es nicht der Boden, der sie wach hielt.
 
-Die Pflanzen waren still. Für andere Menschen waren Pflanzen immer still. Für sie gab es eine Stille und eine Stille. Nachts, normalerweise, raschelten sie. Ein Geräusch am Rand der Wahrnehmung, dort wo Hören aufhörte und Spüren anfing. Die Farne am Fenster, die Monstera neben dem Bücherregal, die Sukkulenten auf dem Fensterbrett der Küche, die kein Wasser brauchten und trotzdem wuchsen, schneller als sie sollten, üppiger als jeder Topf erlaubte. Nachts raschelten sie. Regelmäßig. Warm. Sie hatte Jahre gebraucht um es zu hören, und weitere Jahre um aufzuhören, es für Zugluft zu halten. Es war keine Zugluft. Sie wusste nicht was es war. Aber es gehörte zu ihren Nächten wie das Ticken einer Uhr zu den Nächten anderer Menschen, und wenn es fehlte, fehlte etwas.
+Die Pflanzen waren still. Für andere Menschen waren Pflanzen immer still. Für sie gab es eine Stille und eine Stille. Nachts, normalerweise, raschelten sie. Ein Geräusch am Rand der Wahrnehmung, dort wo Hören aufhörte und Spüren anfing. Die Farne am Fenster, die Monstera neben dem Bücherregal, die Sukkulenten auf dem Fensterbrett der Küche, die kein Wasser brauchten und trotzdem wuchsen, schneller als sie sollten, üppiger als jeder Topf erlaubte. Das Rascheln hörte nachts nie auf. Sie hatte Jahre gebraucht um es zu hören, und weitere Jahre um aufzuhören, es für Zugluft zu halten. Es war keine Zugluft. Sie wusste nicht was es war. Aber es gehörte zu ihren Nächten wie das Ticken einer Uhr zu den Nächten anderer Menschen, und wenn es fehlte, fehlte etwas.
 
 In dieser Nacht fehlte es.
 
@@ -117,7 +117,7 @@ Zehn Sekunden. Zwanzig. Die Monstera tat nichts.
 
 Die Treppe hoch, und auf dem Absatz zum zweiten Stock die Efeutute, die der Hausbesitzer vor Jahren aufgehängt und vergessen hatte. Sie ging an ihr vorbei und ein Kribbeln fuhr in ihre linke Hand. Ein Ziehen in den Fingerspitzen, als würde jemand an Fäden ziehen die unter ihrer Haut verliefen. Sie blieb stehen. Drehte sich um. Die Efeutute hing da. Reglos. Grün.
 
-Das Kribbeln wurde stärker. Kroch den Arm hoch, bis zum Ellbogen. Sie machte eine Faust. Öffnete sie. Schloss sie. Es verschwand, langsam.
+Das Kribbeln wurde stärker. Kroch den Arm hoch, bis zum Ellbogen. Sie ballte die Hand zur Faust und öffnete sie wieder, ein zweites Mal, ein drittes. Das Kribbeln verschwand langsam.
 
 Es passierte öfter. Seit Wochen. Im Botanischen Garten von Velde, als ihr Arm warm wurde, mitten auf der Palmenallee. Nachts, als die Orchidee auf dem Regal ihren Stiel bewegt hatte — oder sie war zu spät gewesen, hatte nur den Nachhall gesehen, das Zittern einer Saite die aufgehört hatte zu schwingen. Die warme Erde. Und jetzt die Efeutute. Wie viele Male musste etwas passieren, bevor es aufhörte Zufall zu sein?
 
@@ -196,7 +196,7 @@ Sie stand vor dem Farn. Dem Farn, der sich gedreht hatte.
 
 "Langsamer", sagte sie. Laut. In die leere Wohnung. Die Wände schluckten das Wort und gaben es nicht zurück.
 
-Am nächsten Morgen, als sie die Wohnung abschloss, den Koffer in der Hand, sah sie dass seine Wedel sich zurückgelehnt hatten. Flach. Ruhig. Alle fünf. Eine Hand die sich öffnete und losließ.
+Am nächsten Morgen, als sie die Wohnung abschloss, den Koffer in der Hand, sah sie dass seine Wedel sich zurückgelehnt hatten. Alle fünf lagen flach und ruhig, eine Hand die sich öffnete und losließ.
 
 Unten, im Flur, die Monstera des Hausmeisters. Sie ging an ihr vorbei. Kein Kribbeln. Keine Wärme. Die Monstera stand da und tat was Zimmerpflanzen taten. Durch die Haustür in den Morgen von Velde, und der Kanal glänzte im frühen Licht, und ein Kahnschiffer rief etwas das sie nicht verstand, und vor dem Haus wartete die Kutsche. Zwei Pferde, braun und dampfend in der Frühlingsluft, und der Kutscher rauchte und warf die Kippe in den Kanal und Velde schluckte sie, wortlos, wie alles andere.
 
