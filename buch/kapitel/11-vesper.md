@@ -22,7 +22,7 @@ Kein Uhrmacher in Vael hätte eine solche Verteilung für Zufall gehalten.
 
 ---
 
-Schritte vom Tresen. Der Wirt kam mit dem kleinen Kupferkessel, ohne zu fragen, und blieb eine halbe Armlänge vom Tisch stehen, aus Rücksicht auf die Samtrolle und die aufgeschlagene Karte.
+Schritte vom Tresen. Der Wirt kam mit dem kleinen Kupferkessel, ohne zu fragen, und blieb eine Armlänge vom Tisch stehen, aus Rücksicht auf die Samtrolle und die aufgeschlagene Karte.
 
 "Noch einen?"
 
@@ -89,7 +89,7 @@ Er schrieb nichts über sie ins Notizbuch. Punkte auf Karten und Menschen im Sch
 
 Er klappte die Karte zusammen, drückte sie in die Innenfalte des Notizbuchs zurück und schlug das Notizbuch zu. Kvarns Uhr lag unberührt in der Samtrolle unter dem schmalen Samtlappen, wo er sie seit gestern Abend nicht mehr angefasst hatte. Er würde sie heute Nachmittag dort lassen. Das Problem des Vormittags war das Papier.
 
-Er brauchte schmales Papier. Fest und glatt, für Linien, die eine Hausreihe trennen konnten und nicht verwischen durften. Der halbe Finger Unschärfe bedeutete in Vaeler Maßstab eine ganze Häuserreihe — den Unterschied zwischen Adresse und Viertel.
+Er brauchte schmales Papier. Fest und glatt, für Linien, die eine Hausreihe trennen konnten und nicht verwischen durften. Eine Fingerbreite Unschärfe bedeutete in Vaeler Maßstab eine ganze Häuserreihe — den Unterschied zwischen Adresse und Viertel.
 
 Der Turm in seiner linken Außentasche war so kalt wie am Morgen. Kein Grad wärmer, kein Grad kälter, nur die Kälte eines Stücks Holz, das seit fünf Wochen seine Körperwärme nicht angenommen hatte. Er streifte ihn mit der Daumenkuppe, registrierte die Temperatur, ließ ihn dort.
 
@@ -109,7 +109,7 @@ Er ging los.
 
 Die Oberstadt lag im Mittagslicht. Vesper ging die siebte Stufe der Treppe in den Purpurstein, wandte sich oben angekommen rechts. Die Pflastersteine waren hier flacher als unten am Hafen, mit weniger Spurrinnen, weil die Karren nur bis zur Hälfte der Steigung fuhren. Drei Häuser. Das dritte hatte die Tür mit dem eisernen Beschlag, von der ihm der Wirt am zweiten Tag erzählt hatte.
 
-Über der Tür hing ein schmiedeeisernes Schild in der Form eines aufgeschlagenen Buches. Eingeschlagen in das Eisen die Buchstaben *DRUCKEREI KVIST · RUNA KVIST, DRUCKERIN UND VERLEGERIN.* Das *N* in *RUNA* saß einen halben Strich zu hoch. Wer einen solchen Fehler hängen ließ, hatte zu viel Arbeit, um das Schild als Hauptsache zu behandeln.
+Über der Tür hing ein schmiedeeisernes Schild in der Form eines aufgeschlagenen Buches. Eingeschlagen in das Eisen die Buchstaben *DRUCKEREI KVIST · RUNA KVIST, DRUCKERIN UND VERLEGERIN.* Das *N* in *RUNA* saß einen Strich zu hoch. Wer einen solchen Fehler hängen ließ, hatte zu viel Arbeit, um das Schild als Hauptsache zu behandeln.
 
 Er drückte die Klinke. Die Tür war offen. Aus dem Inneren kam ein gleichmäßiges Geräusch, schwer und leise, das er in der Schwelle als das Klacken einer Tiegelpresse erkannte.
 
@@ -123,7 +123,7 @@ Sie hatte ihn nicht gehört. Er wartete, bis sie eine Zeile gesetzt und den Hake
 
 "Guten Tag."
 
-Sie hob den Kopf. Ihr Gesicht war zuerst eine Asymmetrie — das linke Auge stand einen halben Millimeter tiefer als das rechte, eine Abweichung, die auffiel, wenn man auf solche Dinge geeicht war. Dann ein Mund, der sich zu einer Frage öffnete und sie nicht stellte.
+Sie hob den Kopf. Ihr Gesicht war zuerst eine Asymmetrie — das linke Auge stand kaum sichtbar tiefer als das rechte, eine Abweichung, die auffiel, wenn man auf solche Dinge geeicht war. Dann ein Mund, der sich zu einer Frage öffnete und sie nicht stellte.
 
 "Guten Tag. Was darf es sein?"
 
@@ -189,7 +189,7 @@ Die Ringe stimmten.
 
 Vesper hielt den Bogen am Rand mit den Fingerspitzen, damit die Schwärze nicht abgab, und las die sechste Adresse noch einmal. *Grauwe-Ufer 4.* Das war weit draußen, am Fluss, fast schon außerhalb der Stadt. Nichts, das in seine Uhren-Ringe passte — aber auch nicht in einem Gebiet, in dem er Uhren gemessen hatte. Grauwe-Ufer vier lag zwei Häuser vom Tidemoor-Haus entfernt, am selben Flusslauf, am selben Rand der Stadt.
 
-Sein Körper war einen halben Grad kälter als zwei Minuten zuvor, und er kannte das Gefühl. Er hatte es schon einmal gehabt, an einem Morgen, an dem in seiner Werkstatt sechsundzwanzig Uhren gleichzeitig stehengeblieben waren und alle auf 4:33.
+Sein Körper war kühler als zwei Minuten zuvor, und er kannte das Gefühl. Er hatte es schon einmal gehabt, an einem Morgen, an dem in seiner Werkstatt sechsundzwanzig Uhren gleichzeitig stehengeblieben waren und alle auf 4:33.
 
 Vier Überlappungen auf seinen Ringen. Eine Anomalie außerhalb der Ringe, an derselben Stelle, an der die Tidemoor-Uhr stand.
 
@@ -205,7 +205,7 @@ Er setzte sich an seinen Tisch rechts. Kvarns Uhr lag unter dem Samtlappen unang
 
 Den feinen Stift aus der Samtrolle nahm er in die rechte Hand. Er übertrug zuerst die vier Runa-Adressen auf das Velin, exakter als auf dem groben Hadernpapier. Dann zog er die siebzehn Uhren-Punkte nach, die Abweichungszahlen daneben. Dann die vier Ringe, als leichte Kreislinien, nicht zu fest gedrückt. Tidemoor markierte er mit einem kleinen Kreuz am unteren Kartenrand, ohne Ring, als eigenen Punkt.
 
-Die Ringe lagen jetzt auf dem Velin, wie sie auf dem Hadernpapier gelegen hatten, nur schmäler, und der Mittelpunkt saß auf einen halben Finger genau, nicht mehr auf zwei Fingern unscharf. Ein Quadrat, keine sechzig Fuß im Durchmesser. In der Oberstadt. Hinter dem Handelshaus. Hinter den Speichern.
+Die Ringe lagen jetzt auf dem Velin, wie sie auf dem Hadernpapier gelegen hatten, nur schmäler, und der Mittelpunkt saß auf eine Fingerbreite genau, nicht mehr auf zwei Finger unscharf. Ein Quadrat, keine sechzig Fuß im Durchmesser. In der Oberstadt. Hinter dem Handelshaus. Hinter den Speichern.
 
 Er legte den Stift auf den Velinbogen. Las die Skala ab, einmal, zweimal. Unterstrich nichts. Schloss die Augen für drei Atemzüge.
 
@@ -217,7 +217,7 @@ Den Turm in seiner Tasche streifte er auf der Treppe einmal mit der Daumenkuppe.
 
 Im Zimmer war die Lampe schon angezündet. Vesper saß am kleinen Klapptisch unter dem Fenster, den Rücken gerade, Kvarns Taschenuhr in der Pinzette. Er hatte sie nach dem Abendessen aus der Samtrolle genommen, wo sie den ganzen Tag unberührt gelegen hatte, und auf den Reparaturtisch gestellt. Seit anderthalb Stunden arbeitete er an der Welle, mit derselben Konzentration, mit der er am Vormittag an der Karte gearbeitet hatte.
 
-Die Welle war leichter geworden. Das halbe Haar Spiel, das sich drei Tage lang nicht hatte überreden lassen, saß jetzt nur noch als Gefühl unter der Pinzette — ein Widerstand, der fast weg war, aber nicht ganz. Er hatte zwei Grad zurückgedreht, ein Grad nachjustiert, das Werk laufen lassen und das Ohr daran gelegt. Der Schlag war ruhiger geworden. Noch nicht ganz rein. Er kannte den Ton, an dem er erkennen würde, wann die Hemmung saß — ein klares, unbeladenes Tickern, ohne das schwache Schleifen am Übergang. Den Ton hatte er noch nicht.
+Die Welle war leichter geworden. Das Haarbreit Spiel, das sich drei Tage lang nicht hatte überreden lassen, saß jetzt nur noch als Gefühl unter der Pinzette — ein Widerstand, der fast weg war, aber nicht ganz. Er hatte zwei Grad zurückgedreht, ein Grad nachjustiert, das Werk laufen lassen und das Ohr daran gelegt. Der Schlag war ruhiger geworden. Noch nicht ganz rein. Er kannte den Ton, an dem er erkennen würde, wann die Hemmung saß — ein klares, unbeladenes Tickern, ohne das schwache Schleifen am Übergang. Den Ton hatte er noch nicht.
 
 Auf dem Tisch neben der Samtrolle lag das Notizbuch, geschlossen, mit dem Velin und dem Flugblatt darin. Hinter dem Fenster die Hafengasse im Halbdunkel. Drei Gaslaternen standen in der Reihe unter ihm, zwei davon brannten schon, die dritte würde der Laternenanzünder in den nächsten Minuten erreichen.
 
@@ -235,7 +235,7 @@ Es war die Frau vom Fenstertisch.
 
 Er sagte nichts, weil er nichts zu sagen hatte. Sie hatte angeklopft, also würde sie anfangen.
 
-"Entschuldigen Sie die Störung." Ihre Stimme war ruhig, aber sie hatte einen halben Atemzug hinter sich, bevor sie die Worte fand. "Mein Name ist Alphina. Ich wohne zwei Türen weiter, auf der linken Seite des Flurs."
+"Entschuldigen Sie die Störung." Ihre Stimme war ruhig, aber sie hatte einen Atemzug hinter sich, bevor sie die Worte fand. "Mein Name ist Alphina. Ich wohne zwei Türen weiter, auf der linken Seite des Flurs."
 
 Er nickte einmal. Sie hob den Blick von der Türschwelle und sah ihm zum ersten Mal aus der Nähe in die Augen — auch wenn sie einander seit Wochen flüchtig über die Weite des Schankraums gesehen hatten.
 
@@ -253,7 +253,7 @@ Er brauchte einen Atemzug, um zu antworten. Nicht, weil er die Antwort nicht kan
 
 "Die Uhr heißt Tidemoor-Uhr. Sie verliert seit Generationen vier Minuten und dreiunddreißig Sekunden pro Tag. Drei Uhrmacher vor mir haben das Gehäuse geöffnet und keinen Fehler gefunden." Er legte die linke Hand auf den Türrahmen, ohne den Druck auf das Holz zu verstärken. "Vor fünf Wochen, am ersten Tag hier, habe ich sie im Salon der Tidemoors gemessen. Sechs Stunden, drei Durchgänge. Hand aufs Gehäuse, eine Stunde gewartet, meine Taschenuhr verglichen: null Drift. Hand weg, eine Stunde gewartet: vier Minuten dreiunddreißig. Hand drauf, null. Hand weg, vier dreiunddreißig. Drei Mal hintereinander, derselbe Verlauf."
 
-Alphinas Kopf bewegte sich kaum — einen halben Zoll nach vorn, der Hals nicht steifer, nur aufmerksamer.
+Alphinas Kopf bewegte sich kaum — einen Zoll nach vorn, der Hals nicht steifer, nur aufmerksamer.
 
 "Ich bin an dem Abend aus dem Haus gegangen ohne Erklärung. Es gab keine. Das Werk war sauber. Das Gehäuse war dicht. Die Hemmung stimmte, der Anker, das Pendel, jedes Zahnrad einzeln. In dreizehn Jahren Werkbank hatte ich nichts gesehen, das so aussah, und ich hatte kein Wort dafür."
 
@@ -263,7 +263,7 @@ Er hielt einen Moment inne. Das Nächste war der Teil, den er bis zu diesem Atem
 
 Er sah an Alphina vorbei auf die Wand hinter ihr. Es war leichter, das zu erzählen, ohne dabei jemanden anzusehen.
 
-"Und dann habe ich etwas getan, das ich vorher nie getan hatte. Ich habe nicht gemessen. Ich habe in mir den Takt gesucht, den eine Ankerhemmung dieser Bauart haben sollte. Zwei Halbschwünge pro Sekunde, rein, unbeladen. Diesen Takt habe ich nach dreizehn Jahren Werkbank in der Brust. Ich kenne ihn besser als meinen eigenen Puls. Und ich habe ihn dem Werk vorgelegt. Nicht gedacht, nicht gesagt — gehalten, als Form in der Brust, durch die Handfläche ins Messing. Zwanzig, dreißig Atemzüge lang. Dann drei Sätze innerlich, sehr knapp, weil mir in dem Augenblick nichts anderes einfiel. *So. Genau so. Behalte diesen Schlag.*"
+"Und dann habe ich etwas getan, das ich vorher nie getan hatte. Ich habe nicht gemessen. Ich habe in mir den Takt gesucht, den eine Ankerhemmung dieser Bauart haben sollte. Zwei Halbschwünge pro Sekunde, rein, unbeladen. Diesen Takt habe ich nach dreizehn Jahren Werkbank in der Brust. Ich kenne ihn besser als meinen eigenen Herzschlag. Und ich habe ihn dem Werk vorgelegt. Nicht gedacht, nicht gesagt — gehalten, als Form in der Brust, durch die Handfläche ins Messing. Zwanzig, dreißig Atemzüge lang. Dann drei Sätze innerlich, sehr knapp, weil mir in dem Augenblick nichts anderes einfiel. *So. Genau so. Behalte diesen Schlag.*"
 
 Er hörte sein eigenes Wort *behalte*. Uhrmacher sprachen keine Beschwörungen aus. Er sagte es trotzdem zu Ende.
 
@@ -301,7 +301,7 @@ Ein Dielenbrett im Flur knackte leise, ohne dass jemand darauf getreten wäre. U
 
 "Sie haben dabei nichts hineingelegt."
 
-"Nichts. Ich habe nur gehört. Das ist die andere Richtung. Bei den Farnen habe ich gegeben. Beim Stein habe ich empfangen. Heute Nachmittag habe ich es ein zweites Mal am Stein getan, um zu prüfen, ob der Puls wiederkommt. Er ist wiedergekommen. Drei Stöße, dichter diesmal. Danach bin ich in den Anker zurück, und dann habe ich eine halbe Stunde gebraucht, bis ich mich entschieden habe, an Ihre Tür zu klopfen statt durch meine zu gehen."
+"Nichts. Ich habe nur gehört. Das ist die andere Richtung. Bei den Farnen habe ich gegeben. Beim Stein habe ich empfangen. Heute Nachmittag habe ich es ein zweites Mal am Stein getan, um zu prüfen, ob der Puls wiederkommt. Er ist wiedergekommen. Drei Stöße, dichter diesmal. Danach bin ich in den Anker zurück, und dann habe ich dreißig Minuten gebraucht, bis ich mich entschieden habe, an Ihre Tür zu klopfen statt durch meine zu gehen."
 
 Vesper stand einen Atemzug still. Die Pinzette hinter ihm auf dem Tisch machte kein Geräusch.
 
@@ -333,7 +333,7 @@ Alphinas Gesicht veränderte sich nicht. Nur die Linie zwischen den Brauen ging 
 
 "Das Viertel hinter dem Handelshaus ist der Botanische Garten. Der Hügel im westlichen Drittel steht ziemlich genau an der Stelle, wohin Ihre Bögen zeigen. Sieben Steine, hüfthoch. Der Stein, auf den ich meine Hand gelegt habe, ist Ihr Mittelpunkt."
 
-Vesper hielt den Finger am Papier still. Sein eigenes Atmen setzte für zwei Schläge aus und setzte einen halben Takt zu langsam wieder ein.
+Vesper hielt den Finger am Papier still. Sein eigenes Atmen setzte für zwei Schläge aus und setzte einen Takt zu langsam wieder ein.
 
 "Ich stelle mir das vor wie ein Gewicht auf einem gespannten Tuch", sagte er leise. "Je schwerer das Gewicht, desto tiefer beugt sich das Tuch. Die Uhren weiter draußen verlieren weniger, weil die Beugung dort flacher ist. Die weiter innen verlieren mehr. Der Stein in der Mitte ist das Gewicht."
 
