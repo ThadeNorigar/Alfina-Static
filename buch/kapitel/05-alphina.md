@@ -4,7 +4,7 @@
 
 Der dritte Tag roch nach Salz.
 
-Die ersten beiden rochen nach Pferd, nach Leder, nach dem Staub der Landstraße, der sich in alles setzte — in die Nähte des Koffers, in die Falten des Hemds, unter die Nägel. Der Kutscher hatte zweimal angehalten, einmal an einer Poststation aus grauem Stein, wo ein Mann mit Schürze Brot verkaufte, das nach Kümmel roch, zu hart war — das sie trotzdem ganz aß, weil der Magen sich nicht dafür interessiert, ob Brot gut ist, nur dafür, ob es da ist. Einmal am Straßenrand, weil eines der Pferde ein Eisen verloren hatte, der Kutscher zwanzig Minuten brauchte, auf den Knien, die Zange in der Hand, der Schweiß auf der Stirn. Sie saß in der Kutsche, wartete. Der Hammer auf das Eisen. Der Huf auf die Erde. Dazwischen die Stille der Landschaft, die nicht still war, weil Landschaften nie still sind — es sind die Menschen die still werden, wenn niemand da ist der sie hört.
+Die ersten beiden rochen nach Pferd, nach Leder, nach dem Staub der Landstraße, der sich in alles setzte — in die Nähte des Koffers, in die Falten des Hemds, unter die Nägel. Der Kutscher hatte zweimal angehalten, einmal an einer Poststation aus grauem Stein, wo ein Mann mit Schürze Brot verkaufte, das nach Kümmel roch, zu hart war — das sie trotzdem ganz aß, weil der Magen sich nicht dafür interessiert, ob Brot gut ist, nur dafür, ob es da ist. Einmal am Straßenrand, weil eines der Pferde ein Eisen verloren hatte, der Kutscher zwanzig Minuten brauchte, auf den Knien, die Zange in der Hand, der Schweiß auf der Stirn. Sie saß in der Kutsche, wartete. Der Hammer auf das Eisen. Der Huf auf die Erde. Dazwischen die Stille der Landschaft, die nicht still war.
 
 An der Poststation stand ein Farn in einer Mauerspalte.
 
@@ -30,7 +30,7 @@ Jede Pflanze einzeln: erklärbar. Windschutz, Lichtbrechung, Bodenneigung. Zufal
 
 Hundert Pflanzen über drei Tage, die alle in dieselbe Richtung zeigten.
 
-Das Herz hämmerte in ihrer Brust. Dunst lag über der Stadt, dünn genug dass die Sonne durchkam — nicht als Scheibe, als milchiger Fleck hinter Schleierwolken, der den Stein zum Dampfen brachte. Die Kutsche rumpelte über Kopfsteinpflaster, härter als die Landstraße, regelmäßiger. Stein auf Stein. Durch das Fenster: Häuser, Giebel aus dunklem Gestein, der Purpurstein feucht, dampfend in der blassen Sonne, als schwitze er. Die Gassen eng, ein Hauch von Nebel darin, der nie ganz ging. Gaslampen brannten am Nachmittag — nicht weil es dunkel gewesen wäre, aus Gewohnheit, ihr Licht fiel in blasse Kreise auf das nasse Pflaster.
+Das Herz hämmerte in ihrer Brust. Dunst lag über der Stadt, dünn genug dass die Sonne durchkam — als milchiger Fleck hinter Schleierwolken, der den Stein zum Dampfen brachte. Die Kutsche rumpelte über Kopfsteinpflaster, härter als die Landstraße, regelmäßiger. Stein auf Stein. Durch das Fenster: Häuser, Giebel aus dunklem Gestein, der Purpurstein feucht, dampfend in der blassen Sonne, als schwitze er. Die Gassen eng, ein Hauch von Nebel darin, der nie ganz ging. Gaslampen brannten am Nachmittag — nicht weil es dunkel gewesen wäre, aus Gewohnheit, ihr Licht fiel in blasse Kreise auf das nasse Pflaster.
 
 Vael.
 
@@ -42,7 +42,7 @@ Das Stadttor. Purpurstein, drei Meter hoch, die Fugen breit, feucht. Ihre Hand l
 
 Der Stein war warm.
 
-Nicht sonnenwarm — die Sonne kam durch, ja, als milchiger Fleck, aber so viel Wärme speichert Stein nicht von einem halben Nachmittag blassem Licht. Warm wie die Erde in ihrem Topf in Velde, warm wie Haut. Ihre Fingerspitzen lagen auf dem Stein, die Wärme kroch in ihre Hand. Sie dachte: Gestein speichert Wärme. Sie dachte: es gibt keine Wärme die er speichern könnte. Sie zog die Hand zurück.
+Die Sonne kam durch, ja, als milchiger Fleck — aber so viel Wärme speichert Stein nicht von einem kurzen Nachmittag blassem Licht. Warm wie die Erde in ihrem Topf in Velde, warm wie Haut. Ihre Fingerspitzen lagen auf dem Stein, die Wärme kroch in ihre Hand. Sie dachte: Gestein speichert Wärme. Sie dachte: es gibt keine Wärme die er speichern könnte. Sie zog die Hand zurück.
 
 Dann sah sie die Farne.
 
@@ -176,7 +176,7 @@ Sie nahm die Münzen.
 
 "Ratten. Groß wie Katzen. Sitzen auf der Straße, schauen einen an."
 
-Sie sagte es beiläufig, als erzähle sie vom Wetter. Aber ihre Stimme hatte den Ton gewechselt, kaum merklich, ein halber Schritt tiefer. Alphina fragte nicht. Noch nicht.
+Sie sagte es beiläufig, als erzähle sie vom Wetter. Aber ihre Stimme hatte den Ton gewechselt, kaum merklich, einen Hauch tiefer. Alphina fragte nicht. Noch nicht.
 
 "Danke", sagte sie. Nahm das Paket. Das Papier war warm, durch das Packpapier hindurch — sie wusste nicht ob es vom Raum kam oder von Runas Händen.
 
@@ -200,7 +200,7 @@ Abends war die Sonne weg. Der Dunst, der tagsüber dünn genug gewesen war für 
 
 Das Bett war schmal. Das Laken roch nach Lauge, nach der Kälte die in Stoff kriecht, wenn er zu lange in einem Schrank lag den niemand öffnet. Sie lag auf der linken Seite, der einzigen Seite, der Körper suchte die Mulde die es nicht gab, weil dieses Bett sie nicht kannte. Unter ihr im Schankraum redete jemand laut, ein Mann, ein langer Erzählton, dann das Lachen zweier Frauen, dann Stille. Eine Tür schlug, Schritte auf der Treppe, eine andere Tür. Im Nachbarzimmer ein Husten, alt, geduldig, der Husten eines Mannes der lange wach lag. Durch die Wand: das Meer. Nicht laut — ein Summen, ein Atem, der nicht aufhörte, der die Mauern durchdrang, sich in den Knochen des Hauses festsetzte. Der Nebel drückte gegen das Fenster, dünne Tropfen sammelten sich am Glas, liefen herunter, langsam, das Geräusch der Tropfen kleiner als Stille.
 
-Sie dachte an die neunundvierzig Pflanzen. An Madame Herault, die den Gießplan hatte, zwei Seiten, sortiert nach Topf. Die Monstera brauchte wenig. Der Nestfarn brauchte viel. Die Orchidee brauchte nichts außer Licht, Vergessen. Sie dachte an den Farn, dem sie "Langsamer" gesagt hatte — an die Farne am Stadttor, die sich gedreht hatten, langsam, als hätten sie gehorcht, als hätte das Wort vierhundert Kilometer getragen.
+Sie dachte an die neunundvierzig Pflanzen. An Madame Herault, die den Gießplan hatte, zwei Seiten, sortiert nach Topf. Die Monstera brauchte wenig. Der Nestfarn brauchte viel. Die Orchidee brauchte nichts außer Licht, Vergessen. Sie dachte an den Farn, dem sie "Langsamer" gesagt hatte — an die Farne am Stadttor, die sich gedreht hatten, langsam, als hätten sie gehorcht, als hätte das Wort vierzig Meilen getragen.
 
 Sie lag wach. Die Feder lag auf dem Tisch, neben dem Notizbuch, neben Runas Papier. Sie hätte aufstehen können, schreiben. Die Welt in Sätze ordnen, die Anfang haben, Ende. Aber ihr Körper wollte nicht aufstehen. Ihr Körper lag da, in einem fremden Bett, in einer Stadt die nach etwas roch das sie nicht benennen konnte, in der die Farne sich nach ihr drehten.
 
