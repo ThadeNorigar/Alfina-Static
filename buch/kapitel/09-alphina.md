@@ -66,7 +66,7 @@ Als sie am Ende der Reihe ankam, stand der Lavendelduft nicht mehr auf der Haut.
 
 Sie drehte sich zurück zum Hauptweg. Den Klee, um den Henrik sie gebeten hatte — hinter dem Treibhaus, Westseite. Sie ging los.
 
-Und zwischen einem Schritt und dem nächsten merkte sie, dass ihre Füße den Weg schon selbst nahmen, den sie seit Wochen jeden Tag nahmen: am Hauptweg links haltend, am Teilungspunkt nach Süden, am Rosarium vorbei. An etwas vorbei. Sie blieb stehen. Sie war hier dreimal die Woche gegangen, drei Wochen lang, und hatte jedes Mal die Kurve genommen, ohne sich zu fragen, warum dort eine Kurve war. Sie drehte sich langsam nach rechts. Zu ihrer Rechten, wo der Weg sonst abbog, erhob sich ein kleiner Erdhügel, einen halben Meter hoch, kahl, in etwa vier Meter Durchmesser, gefasst von einer Buchsbaumhecke, die nur im Süden offen stand. Sie hatte ihn nie gesehen. Nicht so. Am Rand ihrer Wahrnehmung hatte er gelegen wie ein Gegenstand im Eck eines Zimmers, den man nicht anschaut, weil man ihn nicht anschauen will.
+Und zwischen einem Schritt und dem nächsten merkte sie, dass ihre Füße den Weg schon selbst nahmen, den sie seit Wochen jeden Tag nahmen: am Hauptweg links haltend, am Teilungspunkt nach Süden, am Rosarium vorbei. An etwas vorbei. Sie blieb stehen. Sie war hier dreimal die Woche gegangen, drei Wochen lang, und hatte jedes Mal die Kurve genommen, ohne sich zu fragen, warum dort eine Kurve war. Sie drehte sich langsam nach rechts. Zu ihrer Rechten, wo der Weg sonst abbog, erhob sich ein kleiner Erdhügel, kniehoch, kahl, in etwa fünf Schritt Durchmesser, gefasst von einer Buchsbaumhecke, die nur im Süden offen stand. Sie hatte ihn nie gesehen. Nicht so. Am Rand ihrer Wahrnehmung hatte er gelegen wie ein Gegenstand im Eck eines Zimmers, den man nicht anschaut, weil man ihn nicht anschauen will.
 
 Ihre Füße wollten weiter zum Klee. Ihr Körper wollte den Hügel hinter sich lassen. Irgendetwas wollte das, und sie war es nicht.
 
@@ -96,7 +96,7 @@ Sie hob die Hand.
 
 Der Impuls war noch da, leiser, ein Nachhall in den Fingerkuppen, der abebbte, wie ein Ton in einem großen Raum. Er hörte nicht auf, weil sie die Hand wegnahm — er hörte auf, weil ihr Körper aufhörte, ihn zu empfangen.
 
-Sie stand auf. Zu schnell. Etwas in ihrem Sehen verrutschte einen Moment, ein heller Punkt am Rand, der kam und ging. Sie stützte sich an einem der Steine ab, die andere Hand auf dem Knie, und wartete, bis die Welt zurückkam.
+Sie stand auf. Zu schnell. Ihr Sehen verrutschte einen Moment, ein heller Punkt am Rand, der kam und ging. Sie stützte sich an einem der Steine ab, die andere Hand auf dem Knie, und wartete, bis die Welt zurückkam.
 
 Die Welt kam zurück. Das Treibhausdach in der Ferne, die Scheiben beschlagen an einer Stelle, klar an einer anderen, dort wo die dünne Sonne durchgekommen war. Henriks Schaufel im Kies, ein Mal, zwei Mal, aus der Richtung der Hortensien. Eine Hecke ohne Vögel. Der Lavendelrest an ihren Fingern, vermischt jetzt mit einem mineralischen Beigeschmack, als hätte sie an feuchtem Stein geleckt.
 
@@ -189,7 +189,7 @@ Alphina wartete.
 
 "Die Uhr?"
 
-"Ein altes Ding, Nussbaum, zwei Meter hoch. Sie war im Haus, als die Tidemoors es vor fast vierzig Jahren gekauft haben — ohne Papiere, ohne Stempel, keiner weiß, wer sie gebaut hat. Und die Uhr verliert jeden Tag exakt vier Minuten und dreiunddreißig Sekunden. Jeden einzelnen Tag. Mechanisch tadellos. Drei Uhrmacher haben in den letzten Jahrzehnten das Gehäuse geöffnet, jede Feder geprüft, jedes Rad abgezählt — niemand hat etwas gefunden. Der letzte ist drei Tage lang geblieben, hat gemessen, und ist ohne ein Wort gegangen. Tidemoor nennt das Ding nur noch 'das Ding' und hat sich mit der Abweichung abgefunden."
+"Ein altes Ding, Nussbaum, mannshoch. Sie war im Haus, als die Tidemoors es vor fast vierzig Jahren gekauft haben — ohne Papiere, ohne Stempel, keiner weiß, wer sie gebaut hat. Und die Uhr verliert jeden Tag exakt vier Minuten und dreiunddreißig Sekunden. Jeden einzelnen Tag. Mechanisch tadellos. Drei Uhrmacher haben in den letzten Jahrzehnten das Gehäuse geöffnet, jede Feder geprüft, jedes Rad abgezählt — niemand hat etwas gefunden. Der letzte ist drei Tage lang geblieben, hat gemessen, und ist ohne ein Wort gegangen. Tidemoor nennt das Ding nur noch 'das Ding' und hat sich mit der Abweichung abgefunden."
 
 "Seit wann verliert sie?"
 
@@ -201,7 +201,7 @@ Alphina wartete.
 
 "Nur wenn er die Uhr berührt?"
 
-"Das war der erste Tag. Aber seitdem kommt er fast jeden Nachmittag wieder und arbeitet im Salon an Taschenuhren, die er aus der Stadt mitbringt. Und die Magd hat beobachtet — die Standuhr läuft jetzt auch richtig, wenn er überhaupt nur im Raum ist. Drei Meter weit weg am Reparaturtisch. Er hämmert an einer Ankerplatte, und die Standuhr verliert keine Sekunde. Er steht auf und geht in die Küche, sie fängt wieder an zu schleichen. Kommt zurück, sie ist wieder sauber. Vier Tage in Folge hat das die Magd jetzt gesehen. Sie wusste nicht mehr, wem sie es sagen soll, und gestern ist es aus ihr rausgebrochen, als sie bei mir Briefpapier holte. Ich war heute morgen selbst im Tidemoor-Haus, hab mit ihr eine halbe Stunde am Hinterausgang gestanden. Sie hat mir alles nochmal genauso erzählt, und dann hat sie mich gebeten, nichts in die Flugblätter zu setzen, weil Tidemoor ihr die Stelle kosten würde. Ich hab's versprochen."
+"Das war der erste Tag. Aber seitdem kommt er fast jeden Nachmittag wieder und arbeitet im Salon an Taschenuhren, die er aus der Stadt mitbringt. Und die Magd hat beobachtet — die Standuhr läuft jetzt auch richtig, wenn er überhaupt nur im Raum ist. Drei Schritt weit weg am Reparaturtisch. Er hämmert an einer Ankerplatte, und die Standuhr verliert keine Sekunde. Er steht auf und geht in die Küche, sie fängt wieder an zu schleichen. Kommt zurück, sie ist wieder sauber. Vier Tage in Folge hat das die Magd jetzt gesehen. Sie wusste nicht mehr, wem sie es sagen soll, und gestern ist es aus ihr rausgebrochen, als sie bei mir Briefpapier holte. Ich war heute morgen selbst im Tidemoor-Haus, hab mit ihr eine halbe Stunde am Hinterausgang gestanden. Sie hat mir alles nochmal genauso erzählt, und dann hat sie mich gebeten, nichts in die Flugblätter zu setzen, weil Tidemoor ihr die Stelle kosten würde. Ich hab's versprochen."
 
 Sie hielt den Gesichtsausdruck, weil Runa jetzt zu ihr schaute. Der Kiefer klemmte einen Augenblick lang, bevor sie ihn gehen ließ.
 
@@ -234,7 +234,7 @@ Alphina schaute auf das Flugblatt, dann an Runa vorbei auf die Vogelhecke, die k
 
 "Lass mich das erst überlegen."
 
-"Gut." Runa nickte. Sie hatte die Antwort weder erwartet noch ausgeschlossen, sie nahm sie, wie sie kam. Dann legte sie die Hand auf das Flugblatt und schob es Alphina einen halben Zentimeter näher. "Da ist noch etwas. Das Andere, von Halvard. Ich will nicht warten, bis die Wäscherin zum zweiten Mal eine Hand auf dem Fuß spürt."
+"Gut." Runa nickte. Sie hatte die Antwort weder erwartet noch ausgeschlossen, sie nahm sie, wie sie kam. Dann legte sie die Hand auf das Flugblatt und schob es Alphina ein Stück weit zu. "Da ist noch etwas. Das Andere, von Halvard. Ich will nicht warten, bis die Wäscherin zum zweiten Mal eine Hand auf dem Fuß spürt."
 
 "Die Wäscherin aus der Flechtergasse."
 
@@ -308,7 +308,7 @@ Sie sah es im Augenwinkel, in dem schmalen Streifen der Wahrnehmung, in dem Ding
 
 Auf dem Sims war nichts. Eine Möwe vielleicht. Möwen kamen bis hierher hoch, wenn der Wind vom Meer ins Land schob.
 
-Sie ging weiter. Schneller. Nicht viel — ein halber Schritt mehr pro Sekunde, kein Mensch hätte es bemerkt. Sie merkte es selbst nur, weil ihr Knie protestierte.
+Sie ging weiter. Schneller. Nicht viel — kaum merklich, kein Mensch hätte es bemerkt. Sie merkte es selbst nur, weil ihr Knie protestierte.
 
 Beim nächsten Gebäude rechts: wieder. Diesmal länger im Augenwinkel — vier Beine, ein Rumpf, der zu lang war für die Beine, ein Kopf, der die Linien einer Katze hatte, und Augen, die etwas reflektierten, das nicht da war. Die Gasse lag in dem dünnen, schrägen Licht, die Lampen waren noch nicht an, und doch leuchteten die Augen. Gelb, mit einem grünen Stich, falsch hell für die Stunde. Sie schaute direkt hin.
 
@@ -328,7 +328,7 @@ Sie senkte den Kopf wieder. Aus dem Augenwinkel: drei Formen, in derselben Anord
 
 Etwas in ihrem Brustkorb zog sich eng zusammen. Ihre Lungen wurden flacher. Sie zwang sie tiefer. Atmen war eine Tätigkeit, die man üben konnte. Sie hatte es geübt.
 
-Der Mund wurde trocken, so plötzlich, dass sie das Trockene schmeckte, bevor sie den Speichel vermisste. Ihre Kopfhaut zog sich an einer Stelle zusammen, dort wo sie die Haare hochgesteckt hatte, als fiele der Nacken ein halbes Zoll tiefer. Zwischen den Zähnen lag etwas, das sie nicht dort hingelegt hatte, ein Geschmack wie Blei.
+Der Mund wurde trocken, so plötzlich, dass sie das Trockene schmeckte, bevor sie den Speichel vermisste. Ihre Kopfhaut zog sich an einer Stelle zusammen, dort wo sie die Haare hochgesteckt hatte, als zucke der Nacken nach unten. Zwischen den Zähnen lag etwas, das sie nicht dort hingelegt hatte, ein Geschmack wie Blei.
 
 *Nicht rennen.* Der Gedanke kam aus der Pflanzen-Logik, die sie kannte: ein Halm, der zitterte, lockte das Tier. Die Dinge, die jagten, kannten den Unterschied zwischen Schritt und Flucht.
 
