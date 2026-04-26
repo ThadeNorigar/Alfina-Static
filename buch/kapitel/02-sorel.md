@@ -122,7 +122,7 @@ Emulsionsfehler. Möglich. Kollodium war launisch. Manchmal erschienen Formen di
 
 Er trank den Rest des Tees. Kalt, bitter, metallischer Nachgeschmack. Die Schluchtstadt summte leise um ihn herum — das Tropfen von Wasser, der Wind drei Stockwerke über ihm, das Knarren der Holzhäuser die sich nachts bewegten. Unmerklich.
 
-Zwei Platten. Dreizehn Jahre. Dieselbe Stadt. Dasselbe Gesicht. Sein Gesicht. Vael. Ein Punkt auf dem Atlas, vierhundert Kilometer nördlich. Eine Halbinsel im Grauen Meer, ein Gebäude das Lichthaus hieß. Sein Gesicht auf Glasplatten die älter waren als er. Sorel saß in seinem Keller. Sein Verstand sagte: bleib. Sein Verstand sagte: bleib.
+Zwei Platten. Dreizehn Jahre. Dieselbe Stadt. Dasselbe Gesicht. Sein Gesicht. Vael. Ein Punkt auf dem Atlas, fünfzig Meilen nördlich. Eine Halbinsel im Grauen Meer, ein Gebäude das Lichthaus hieß. Sein Gesicht auf Glasplatten die älter waren als er. Sorel saß in seinem Keller. Sein Verstand sagte: bleib. Sein Verstand sagte: bleib.
 
 Sorel stellte die Tasse ab. Löschte das Rotlicht.
 

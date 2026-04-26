@@ -197,7 +197,7 @@ Aus dem Maul — wenn es ein Maul war — schleuderte sich ein Feuerball, faustg
 
 Das Wesen setzte zum Sprung an.
 
-Zwei Bewegungen nur, die Distanz von drei Schritt in weniger als einer Sekunde — und dann stand es auf Armlänge vor ihm, die Augen auf seinem Gesicht, die Pfoten im Kies, der Rauch an seinen Schultern dicht und warm. Für einen Herzschlag, der sich dehnte, stand Sorel in dem einen Meter, in dem das Wesen ihn töten konnte. Seine Lunge arbeitete nicht. Seine Knie waren weich. Das Licht, das eben noch auf dem Wesen gelegen hatte, war erloschen, weil sein Blick von dem Punkt abgeglitten war — er sah jetzt in die Augen des Tiers und nichts anderes mehr.
+Zwei Bewegungen nur, die Distanz von drei Schritt in weniger als einer Sekunde — und dann stand es auf Armlänge vor ihm, die Augen auf seinem Gesicht, die Pfoten im Kies, der Rauch an seinen Schultern dicht und warm. Für einen Herzschlag, der sich dehnte, stand Sorel in dem einen Schritt, in dem das Wesen ihn töten konnte. Seine Lunge arbeitete nicht. Seine Knie waren weich. Das Licht, das eben noch auf dem Wesen gelegen hatte, war erloschen, weil sein Blick von dem Punkt abgeglitten war — er sah jetzt in die Augen des Tiers und nichts anderes mehr.
 
 Dann wandte sich das Wesen.
 

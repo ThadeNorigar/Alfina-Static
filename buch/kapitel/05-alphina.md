@@ -38,7 +38,7 @@ Der Kutscher rief etwas, das sie nicht verstand, breiter Küstendialekt. Die Kut
 
 Da war die Stadt. Die Stadt war aus dem Stein, der keine Farbe hatte die sie kannte, nicht schwarz, nicht grau, nicht violett, sondern etwas dazwischen, etwas das die Augen nicht halten konnten, das sich verschob wenn man es festhielt. Wo die Sonne den Stein traf, dampfte er — feiner Dunst der aus den Fugen stieg, aus den Giebeln, aus dem Pflaster, als verdunste das Meer direkt aus dem Fels. In den Gassen, wo die Häuser die Sonne abschnitten, hing der Nebel dichter, träger. Der Stein glänzte, als atme er.
 
-Das Stadttor. Purpurstein, drei Meter hoch, die Fugen breit, feucht. Ihre Hand lag auf dem Kutschrahmen; als die Kutsche durch das Tor fuhr, langsam, die Räder knirschten auf nassem Stein, streifte sie mit den Fingerspitzen die Mauer. Beiläufig. Eine Geste die nichts bedeutete.
+Das Stadttor. Purpurstein, zehn Fuß hoch, die Fugen breit, feucht. Ihre Hand lag auf dem Kutschrahmen; als die Kutsche durch das Tor fuhr, langsam, die Räder knirschten auf nassem Stein, streifte sie mit den Fingerspitzen die Mauer. Beiläufig. Eine Geste die nichts bedeutete.
 
 Der Stein war warm.
 
@@ -154,7 +154,7 @@ Alphina legte die Münzen auf den Tresen. Die Druckerin nahm sie — dabei berü
 
 Ihre Hand war heiß.
 
-Nicht warm. Nicht die Wärme von jemandem der am Schmelztiegel gearbeitet hatte, nicht die Restwärme von Blei. Heißer. Eine Hitze die aus der Haut kam, nicht von der Oberfläche. Alphinas Finger zuckten zurück, Reflex, unwillkürlich, bevor ihr Kopf entschied. Ein Ruck in der Hand, drei Zentimeter — sie stand da mit den Münzen halb losgelassen, ihren Fingern in der Luft.
+Nicht warm. Nicht die Wärme von jemandem der am Schmelztiegel gearbeitet hatte, nicht die Restwärme von Blei. Heißer. Eine Hitze die aus der Haut kam, nicht von der Oberfläche. Alphinas Finger zuckten zurück, Reflex, unwillkürlich, bevor ihr Kopf entschied. Ein Ruck in der Hand, einen Daumen weit — sie stand da mit den Münzen halb losgelassen, ihren Fingern in der Luft.
 
 Sie nahm die Münzen.
 
@@ -220,17 +220,17 @@ Sie stand am Fenster. Ihre Finger am Rahmen, die Knöchel weiß.
 
 Sie zog sich an. Mantel, Stiefel, die Schnallen mit Fingern die nicht ruhig sein wollten. Die Treppe hinunter, die Stufen knarrten, die Haustür — der Riegel war nicht vorgelegt, das Schloss klemmte, der Nebel drückte von außen dagegen als sie öffnete.
 
-Die Hafengasse. Kalt. Der Nebel dichter als am Nachmittag, tiefer, er reichte ihr bis zur Brust, ihre Beine verschwanden darin. Die Gaslampe an der Ecke, gelb, ein Kreis aus trübem Licht der drei Meter weit reichte. Darüber hinaus: nichts. Grau auf Grau.
+Die Hafengasse. Kalt. Der Nebel dichter als am Nachmittag, tiefer, er reichte ihr bis zur Brust, ihre Beine verschwanden darin. Die Gaslampe an der Ecke, gelb, ein Kreis aus trübem Licht der wenige Schritte weit reichte. Darüber hinaus: nichts. Grau auf Grau.
 
 Sie ging.
 
 Sie wusste nicht warum. Sie wusste, dass sie nicht gehen sollte, dass Runa gesagt hatte — aber ihre Beine trugen sie die Gasse entlang, am Kopfsteinpflaster vorbei, das nass glänzte im Laternenschein, vorbei an geschlossenen Türen, dunklen Fenstern. Ihre Schritte hallten. Sonst nichts.
 
-Dann, zwanzig Meter vor ihr — Bewegung. Im Nebel. Tief, am Boden, ein Schatten der sich löste, der glitt, nicht ging. Elegant. Lautlos. Der Körper dunkelgrau, dicht, aber an den Rändern löste sich etwas — feiner Dunst, der von seiner Haut aufstieg, sich kräuselte, verwehte, als schwele das Ding von innen. Es bewegte sich von ihr weg, die Gasse entlang, geschmeidig, eine Kurve die kein Tier machte das sie kannte.
+Dann, zwanzig Schritt vor ihr — Bewegung. Im Nebel. Tief, am Boden, ein Schatten der sich löste, der glitt, nicht ging. Elegant. Lautlos. Der Körper dunkelgrau, dicht, aber an den Rändern löste sich etwas — feiner Dunst, der von seiner Haut aufstieg, sich kräuselte, verwehte, als schwele das Ding von innen. Es bewegte sich von ihr weg, die Gasse entlang, geschmeidig, eine Kurve die kein Tier machte das sie kannte.
 
 Sie blieb stehen. Es blieb stehen.
 
-Sie atmete. Es — sie wusste nicht ob es atmete. Es stand da, im Nebel, zehn Meter vor ihr, der Rücken zu ihr, wenn es einen Rücken hatte. Die rauchige Oberfläche kräuselte sich, feine Härchen die im nicht vorhandenen Wind wehten.
+Sie atmete. Es — sie wusste nicht ob es atmete. Es stand da, im Nebel, zehn Schritt vor ihr, der Rücken zu ihr, wenn es einen Rücken hatte. Die rauchige Oberfläche kräuselte sich, feine Härchen die im nicht vorhandenen Wind wehten.
 
 Dann drehte es den Kopf. Nicht den Körper — nur den Kopf, weiter als ein Gelenk erlauben sollte. Die Augen. Schwarz, leuchtend, als brenne etwas hinter dem Schwarz. Zwei Punkte in einem Gesicht das kein Gesicht war. Es schaute sie an.
 
@@ -242,7 +242,7 @@ Scheiße.
 
 Ihr Atem ging schneller. Sie drehte sich um — die Gasse hinter ihr, dunkel, die Gaslampe am anderen Ende, weit — drehte sich zurück.
 
-An der Hauswand. Drei Meter über dem Boden. Etwas saß an der Mauer, die Beine — wenn es Beine waren — gegen den Stein gedrückt, der Körper flach wie ein Schatten der an der Wand klebte. Dieselbe rauchende Oberfläche, dieselben Proportionen, zu groß der Kopf, zu lang die Glieder. Es saß an der Wand als wäre die Wand der Boden, als gäbe es keine Schwerkraft, als hätte niemand ihm gesagt dass Mauern senkrecht sind.
+An der Hauswand. Drei Schritt über dem Boden. Etwas saß an der Mauer, die Beine — wenn es Beine waren — gegen den Stein gedrückt, der Körper flach wie ein Schatten der an der Wand klebte. Dieselbe rauchende Oberfläche, dieselben Proportionen, zu groß der Kopf, zu lang die Glieder. Es saß an der Wand als wäre die Wand der Boden, als gäbe es keine Schwerkraft, als hätte niemand ihm gesagt dass Mauern senkrecht sind.
 
 Die Augen. Nach unten. Auf sie.
 
@@ -260,7 +260,7 @@ Vor ihr. Bodenhöhe. Sie kamen näher, langsam, aus dem Nebel, zwei schwarze Pun
 
 Hinter dem ersten — ein zweites. Kleiner. Dieselben Augen. Derselbe Rauch.
 
-Auf dem Fenstersims neben ihr — ein drittes. Sie hatte es nicht kommen sehen. Es saß da, einen Meter von ihrem Gesicht, den Kopf geneigt, die Augen auf ihrer Höhe. Das Gurren. Leise, fragend, als wolle es etwas von ihr das es nicht benennen konnte.
+Auf dem Fenstersims neben ihr — ein drittes. Sie hatte es nicht kommen sehen. Es saß da, auf Armlänge von ihrem Gesicht, den Kopf geneigt, die Augen auf ihrer Höhe. Das Gurren. Leise, fragend, als wolle es etwas von ihr das es nicht benennen konnte.
 
 Sie schlichen auf sie zu. Alle drei. Langsam. Nicht bedrohlich — neugierig, tastend, als prüften sie wie nah sie kommen konnten. Die Haare auf ihren Unterarmen standen. Ihr Atem —
 

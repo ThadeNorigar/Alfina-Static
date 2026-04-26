@@ -4,7 +4,7 @@
 
 Der Schuppen roch nach Haron.
 
-Nicht nach Haron persönlich — Maren wusste nicht, wie Haron gerochen hatte, sie hatten sich nie getroffen, fünf Jahre Briefwechsel und kein einziges Mal seine Stimme gehört — sondern nach dem, was Haron gewesen war. Holz und Leim und Bootslack. Sägemehl, das noch in der Luft hing, obwohl seit drei Wochen niemand mehr gesägt hatte. Schleifstaub auf jeder Oberfläche, fein wie Mehl, und darunter, in den Wänden, im Boden, in den Ritzen zwischen den Brettern: das Meer. Der Schuppen lag zwanzig Meter vom Wasser entfernt, aber das Meer war trotzdem drin. Es war immer drin, wenn man lange genug an einem Ort blieb.
+Nicht nach Haron persönlich — Maren wusste nicht, wie Haron gerochen hatte, sie hatten sich nie getroffen, fünf Jahre Briefwechsel und kein einziges Mal seine Stimme gehört — sondern nach dem, was Haron gewesen war. Holz und Leim und Bootslack. Sägemehl, das noch in der Luft hing, obwohl seit drei Wochen niemand mehr gesägt hatte. Schleifstaub auf jeder Oberfläche, fein wie Mehl, und darunter, in den Wänden, im Boden, in den Ritzen zwischen den Brettern: das Meer. Der Schuppen lag zwanzig Schritt vom Wasser entfernt, aber das Meer war trotzdem drin. Es war immer drin, wenn man lange genug an einem Ort blieb.
 
 Maren blieb nie lange genug.
 

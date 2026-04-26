@@ -24,7 +24,7 @@ So roch Velde. So roch die Stadt in der sie lebte, seit elf Jahren, in einer Woh
 
 Ihr Herz schlug zu schnell. Nicht viel, aber spürbar, dort unter dem Schlüsselbein, wo sie es immer zuerst merkte. Schneller, als es um drei Uhr nachts schlagen sollte.
 
-Sie löste sich vom Fenster. Der Abdruck ihrer Stirn blieb im Beschlag, ein blasser Kreis, der kleiner wurde und verschwand. In der Wohnung war es dunkel bis auf das Mondlicht, das durch die Fenster fiel und die Pflanzen in Umrisse verwandelte — die Farne, deren Wedel im Mondlicht Schatten warfen, die sich nicht bewegten. Die Orchidee auf dem Regal, drei violette Blüten, so still, dass sie aussahen wie Wachs. Die Monstera neben dem Bücherregal, deren Blätter so groß waren, dass sie die Buchrücken verdeckten. Das Bücherregal selbst — Kiefernholz, drei Meter hoch, vollgestopft mit Fachbüchern, Herbariumsmappen, und einem einzigen Roman, den sie nie gelesen hatte, der dort stand weil Laris ihn dagelassen hatte und weil sie ihn nicht wegwerfen konnte und nicht lesen wollte, und so stand er da, zwischen "Systematik der Gefäßpflanzen" und "Moose Mitteleuropas", und sein Rücken war dunkelrot und sein Titel war "Die Gezeiten von Irra" und sie kannte den Titel weil sie ihn jeden Tag sah und nie aufschlug.
+Sie löste sich vom Fenster. Der Abdruck ihrer Stirn blieb im Beschlag, ein blasser Kreis, der kleiner wurde und verschwand. In der Wohnung war es dunkel bis auf das Mondlicht, das durch die Fenster fiel und die Pflanzen in Umrisse verwandelte — die Farne, deren Wedel im Mondlicht Schatten warfen, die sich nicht bewegten. Die Orchidee auf dem Regal, drei violette Blüten, so still, dass sie aussahen wie Wachs. Die Monstera neben dem Bücherregal, deren Blätter so groß waren, dass sie die Buchrücken verdeckten. Das Bücherregal selbst — Kiefernholz, deckenhoch, vollgestopft mit Fachbüchern, Herbariumsmappen, und einem einzigen Roman, den sie nie gelesen hatte, der dort stand weil Laris ihn dagelassen hatte und weil sie ihn nicht wegwerfen konnte und nicht lesen wollte, und so stand er da, zwischen "Systematik der Gefäßpflanzen" und "Moose Mitteleuropas", und sein Rücken war dunkelrot und sein Titel war "Die Gezeiten von Irra" und sie kannte den Titel weil sie ihn jeden Tag sah und nie aufschlug.
 
 Sie ging zum Farn am Fenster. Asplenium nidus, Nestfarn, der größte in ihrer Sammlung. Sie hatte ihn vor sechs Jahren auf einem Markt gekauft, von einem Mann in einer fleckigen Schürze, der Gemüse verkaufte und den Farn daneben stehen hatte, zwischen Kartoffeln und Sellerie. Der Farn war halb tot. Braune Spitzen, schlaffe Wedel, die Erde trocken und rissig. Sie hatte ihn gekauft, ohne zu handeln, und der Mann hatte sie angesehen als wäre sie verrückt, und vielleicht hatte er recht gehabt, weil sie den Farn nach Hause getragen hatte, vier Stockwerke hoch, schwerer als man denkt, und die Erde rieselte auf die Treppe und die Concierge hatte geschimpft, und sie hatte ihn auf das Fensterbrett gestellt und die Erde gewässert und gewartet. Drei Wochen. Die ersten zwei hatte er nichts getan, hatte dagestanden wie ein Gegenstand, und dann, eines Morgens, ragten seine Wedel über den Topfrand, grün und voll, und sie hatte mit der Hand über die Blattoberfläche gestrichen — glatt und kühl und gleichzeitig lebendig, pulsierend, ein ganz leichtes Vibrieren unter der Oberfläche.
 
@@ -83,9 +83,9 @@ Das Wasser traf die Blätter und der Geruch stieg auf, rauchig und grün und lei
 
 Die Tasse war dünn genug um hindurchzusehen. Sie hielt sie gegen das Licht, jeden Morgen. Das Licht fiel durch das Porzellan und für einen Moment hielt sie etwas Schönes.
 
-Der Schreibtisch unter dem Fenster. Neben dem Farn, der dastand wie eine Pflanze die nichts anderes war als eine Pflanze. Reglos. Die Erde in seinem Topf — sie wollte nicht nachfühlen. Ihre Hand lag auf dem Tisch, dreißig Zentimeter vom Topf entfernt, und es kostete sie etwas, sie nicht hinüberzuschieben. Sie fühlte trotzdem nach. Warm. Wie letzte Nacht.
+Der Schreibtisch unter dem Fenster. Neben dem Farn, der dastand wie eine Pflanze die nichts anderes war als eine Pflanze. Reglos. Die Erde in seinem Topf — sie wollte nicht nachfühlen. Ihre Hand lag auf dem Tisch, einen Fuß vom Topf entfernt, und es kostete sie etwas, sie nicht hinüberzuschieben. Sie fühlte trotzdem nach. Warm. Wie letzte Nacht.
 
-Invasive Pflanzenarten in den westlichen Tideländen. Reynoutria japonica, Staudenknöterich. Sie schrieb über seine Wurzeln — Rhizome, die sieben Meter tief gingen, die Beton durchbrachen, die unter Gebäuden entlangwuchsen und Risse in Mauern trieben, so fein dass man sie nicht sah, bis das Fundament nachgab. Es gab einen Aufsatz darüber aus der Universität von Karst — einer Handwerkerstadt in den Innenländern, berühmt für Uhrmacher und Mechaniker, wo man alles maß und alles prüfte und nichts dem Zufall überließ — und in diesem Aufsatz stand ein Satz, den sie unterstrichen hatte, vor Monaten schon: "Das Unsichtbare ist nicht das Abwesende. Es ist das Geduldige." Das stand in einer Abhandlung über Wurzelsysteme.
+Invasive Pflanzenarten in den westlichen Tideländen. Reynoutria japonica, Staudenknöterich. Sie schrieb über seine Wurzeln — Rhizome, die mehrere Klafter tief gingen, die Beton durchbrachen, die unter Gebäuden entlangwuchsen und Risse in Mauern trieben, so fein dass man sie nicht sah, bis das Fundament nachgab. Es gab einen Aufsatz darüber aus der Universität von Karst — einer Handwerkerstadt in den Innenländern, berühmt für Uhrmacher und Mechaniker, wo man alles maß und alles prüfte und nichts dem Zufall überließ — und in diesem Aufsatz stand ein Satz, den sie unterstrichen hatte, vor Monaten schon: "Das Unsichtbare ist nicht das Abwesende. Es ist das Geduldige." Das stand in einer Abhandlung über Wurzelsysteme.
 
 Ihre Finger stoppten auf den Tasten der Schreibmaschine.
 
@@ -111,7 +111,7 @@ Der Rückweg am Kanal entlang, und die Sonne stand flach über den Giebeln, und 
 
 Alphina ging schneller. Die schwere Messingklinke der Haustür war kalt unter ihrer Hand.
 
-Im Flur die Monstera des Hausmeisters. Anderthalb Meter hoch, Blätter groß wie Teller, und sie ging jeden Tag an ihr vorbei. Heute blieb sie stehen. Die Blätter hatten eine Neigung, die gestern nicht da gewesen war. Kaum messbar. Aber da. Die Monstera neigte sich zur Treppe. Zu dem Weg den sie nahm, zweimal am Tag.
+Im Flur die Monstera des Hausmeisters. Knapp mannshoch, Blätter groß wie Teller, und sie ging jeden Tag an ihr vorbei. Heute blieb sie stehen. Die Blätter hatten eine Neigung, die gestern nicht da gewesen war. Kaum messbar. Aber da. Die Monstera neigte sich zur Treppe. Zu dem Weg den sie nahm, zweimal am Tag.
 
 Zehn Sekunden. Zwanzig. Die Monstera tat nichts.
 
@@ -202,6 +202,6 @@ Unten, im Flur, die Monstera des Hausmeisters. Sie ging an ihr vorbei. Kein Krib
 
 Drei Tage bis Vael.
 
-Sie wusste nicht warum sie fuhr. Sie wusste nur, dass die Erde warm gewesen war. Und dass der Farn sie kannte. Und dass irgendwo, vierhundert Kilometer nördlich, an einer Küste die sie nie gesehen hatte, eine Pflanze wuchs, die nicht wachsen dürfte. In einem Garten, der im Jahr des großen Feuers gegründet worden war.
+Sie wusste nicht warum sie fuhr. Sie wusste nur, dass die Erde warm gewesen war. Und dass der Farn sie kannte. Und dass irgendwo, fünfzig Meilen nördlich, an einer Küste die sie nie gesehen hatte, eine Pflanze wuchs, die nicht wachsen dürfte. In einem Garten, der im Jahr des großen Feuers gegründet worden war.
 
 Das musste reichen.

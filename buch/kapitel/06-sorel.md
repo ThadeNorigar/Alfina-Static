@@ -105,7 +105,7 @@ Nicht der Dunst. Nicht der Wind, den es nicht gab. Gerichtet, punktuell, ein Zug
 
 Sorel drehte sich um.
 
-Zwischen den Pollern. Zehn Meter entfernt, vielleicht weniger — im Dunst ließ sich Entfernung nicht schätzen. Etwas stand dort. Sein erster Gedanke war: ein Mensch. Sein zweiter zerfiel. Zu groß. Anderthalb Köpfe größer als Sorel, die Schultern zu schmal für die Höhe, die Glieder zu lang — eine menschliche Form, in die Länge gezogen, gedehnt, die Proportionen einer Skizze die jemand nicht fertig gezeichnet hatte.
+Zwischen den Pollern. Zehn Schritt entfernt, vielleicht weniger — im Dunst ließ sich Entfernung nicht schätzen. Etwas stand dort. Sein erster Gedanke war: ein Mensch. Sein zweiter zerfiel. Zu groß. Anderthalb Köpfe größer als Sorel, die Schultern zu schmal für die Höhe, die Glieder zu lang — eine menschliche Form, in die Länge gezogen, gedehnt, die Proportionen einer Skizze die jemand nicht fertig gezeichnet hatte.
 
 Die Füße. Sein Blick ging nach unten — Instinkt, wie bei einer Platte: den Vordergrund zuerst. Keine Schuhe. Etwas Dunkles, Hartes, das auf dem Stein stand. Ein leises Klicken, als die Gestalt das Gewicht verlagerte. Huf auf nassem Stein. Sorel fand kein Wort. Sein Verstand bot keines an.
 
@@ -137,9 +137,9 @@ Dann löste sie sich auf. Der Körper zerfiel in Rauch, sein Gesicht zuletzt, di
 
 Stille. Drei Atemzüge.
 
-Dann, auf dem Poller zu seiner Rechten — fünf Meter, näher als vorher — verdichtete sich der Rauch. Für einen Moment, kürzer als ein Lidschlag, stand die Figur dort, zusammengezogen, kleiner, sein Gesicht immer noch auf ihrem Kopf. Die Augen auf ihn gerichtet.
+Dann, auf dem Poller zu seiner Rechten — fünf Schritt, näher als vorher — verdichtete sich der Rauch. Für einen Moment, kürzer als ein Lidschlag, stand die Figur dort, zusammengezogen, kleiner, sein Gesicht immer noch auf ihrem Kopf. Die Augen auf ihn gerichtet.
 
-Die Kälte traf ihn wie ein Schlag. Nicht das langsame Kriechen von vorher, nicht der gerichtete Zug — ein Aufprall, flächig, als hätte jemand eine Tür aufgerissen hinter der der Winter wartete. Seine Lungen brannten. Der Atem gefror ihm auf den Lippen, weißer Reif, der Dunst vor seinem Mund wurde zu Eis das in der Luft hing. Seine Haut zog sich zusammen, die Poren schlossen sich, die feinen Härchen auf seinen Unterarmen standen auf und blieben stehen. Fünf Meter. Die Figur war fünf Meter entfernt, und die Kälte war so dicht dass sie einen Geschmack hatte — metallisch, scharf, ein Geschmack der auf den Zähnen lag.
+Die Kälte traf ihn wie ein Schlag. Nicht das langsame Kriechen von vorher, nicht der gerichtete Zug — ein Aufprall, flächig, als hätte jemand eine Tür aufgerissen hinter der der Winter wartete. Seine Lungen brannten. Der Atem gefror ihm auf den Lippen, weißer Reif, der Dunst vor seinem Mund wurde zu Eis das in der Luft hing. Seine Haut zog sich zusammen, die Poren schlossen sich, die feinen Härchen auf seinen Unterarmen standen auf und blieben stehen. Fünf Schritt. Die Figur war fünf Schritt entfernt, und die Kälte war so dicht dass sie einen Geschmack hatte — metallisch, scharf, ein Geschmack der auf den Zähnen lag.
 
 Dann auch das: Rauch, Dunst, nichts. Die Kälte riss ab, schlagartig, als hätte jemand die Tür wieder zugeschlagen. Die Nachtluft fühlte sich warm an. Warm wie Sommer, warm wie Haut, nach dem was eben gewesen war.
 
