@@ -52,7 +52,7 @@ Sie stand auf. Langsam, weil das rechte Knie steif war, immer noch, auch nach si
 
 Die mannshohen Farne standen in ihren Reihen, frisch geschnitten, ein scharfer grüner Schnittgeruch in der Luft. Henrik hatte gestern fünf von ihnen radikal zurückgenommen; die Kielnerven ragten noch aus den Spalten, zwei Hand breit, mit kleinen Stummeln statt Wedeln. Die übrigen zweiundzwanzig standen, wie sie bei ihrem letzten Besuch gestanden hatten, mannshoch, dunkelgrün, die Blattspreiten glänzend. Sie kannte jede einzelne. Sie hatte sie gezählt, in der ersten Woche, als sie das erste Mal vor ihnen gestanden hatte und ihr Körper Minuten gebraucht hatte, um sich zu ordnen. Siebenundzwanzig. Heute, nach Henriks Schnitt, waren es zweiundzwanzig im Bestand und fünf Stummel, und die Stummel zählten, weil sie wieder wachsen würden.
 
-Sie stellte sich mittig vor die Reihe. Der dunkelste Wedel — ganz links, der, der ihr bis ans Kinn reichte — drehte sich langsam in ihre Richtung. Sie schaute ihn an. Drei Wedel rechts davon folgten. Sie ging einen halben Schritt nach rechts. Die Welle lief mit. Sie blieb stehen.
+Sie stellte sich mittig vor die Reihe. Der dunkelste Wedel — ganz links, der, der ihr bis ans Kinn reichte — drehte sich langsam in ihre Richtung. Sie schaute ihn an. Drei Wedel rechts davon folgten. Sie ging einen Schritt nach rechts. Die Welle lief mit. Sie blieb stehen.
 
 Sie legte die Handfläche flach gegen den Mittelnerv des nächsten Wedels. Das Blatt war glatt und kühl und lebte. Sie hielt, was in ihr hielt, ohne es zu sagen, ohne es zu denken als Sprache. Nur als Form.
 
@@ -121,7 +121,7 @@ Das Holz der Bank war abgewetzt an zwei Stellen, dort wo im Lauf der Jahre Hinte
 
 "Lass mich das in Ruhe tun. Erst atmen."
 
-Runa ließ die Hand sinken, überrascht für den halben Atemzug, dann einverstanden. Alphina nahm selbst den Stapel heraus, langsam, und legte ihn zwischen sie auf die Bank. Das oberste Blatt war noch leicht klamm, der Druck nicht ganz trocken. Heißes Blei, ölige Schwärze, das Papier leicht feucht vom Presswerk. Druckerei in einem Korb.
+Runa ließ die Hand sinken, überrascht für einen Atemzug, dann einverstanden. Alphina nahm selbst den Stapel heraus, langsam, und legte ihn zwischen sie auf die Bank. Das oberste Blatt war noch leicht klamm, der Druck nicht ganz trocken. Heißes Blei, ölige Schwärze, das Papier leicht feucht vom Presswerk. Druckerei in einem Korb.
 
 "Lies das. Sag mir, ob ich verrückt bin."
 
@@ -262,7 +262,7 @@ Jemand hatte einmal von einer Mauer gesprochen. Laris, eine andere Stadt, ein an
 
 "Nach neun reicht."
 
-"Gut." Runa schob den Stapel zurück in den Korb, behielt zwei gefaltete Bögen in der Hand, drückte sie Alphina vorsichtig gegen die Innenseite des Handgelenks, statt sie ihr in die Handfläche zu legen. Eine Sekunde Hautkontakt — Runas Fingerspitzen an dem schmalen Stück Haut zwischen Ärmelkante und Daumenwurzel. Die Stelle war dünn. Alphina wusste das jetzt auf eine Weise, die sie vorher nicht gewusst hatte — eine Stelle, an der die Haut kaum über dem Puls lag, eine Stelle, die ein Mensch nicht beiläufig berührte, wenn er die andere kennen wollte. Die Wärme kam erst danach, und sie kam deutlich: heißer als die eigene Hand, heißer, als die Hand einer Frau Anfang Blütenmond sein sollte, die eine halbe Stunde in einem Garten saß. Alphinas Körper registrierte beides, bevor ihr Verstand die Frage stellen konnte. Die Stelle behielt die andere Temperatur einige Atemzüge.
+"Gut." Runa schob den Stapel zurück in den Korb, behielt zwei gefaltete Bögen in der Hand, drückte sie Alphina vorsichtig gegen die Innenseite des Handgelenks, statt sie ihr in die Handfläche zu legen. Eine Sekunde Hautkontakt — Runas Fingerspitzen an dem schmalen Stück Haut zwischen Ärmelkante und Daumenwurzel. Die Stelle war dünn. Alphina wusste das jetzt auf eine Weise, die sie vorher nicht gewusst hatte — eine Stelle, an der die Haut kaum über der Schlagader lag, eine Stelle, die ein Mensch nicht beiläufig berührte, wenn er die andere kennen wollte. Die Wärme kam erst danach, und sie kam deutlich: heißer als die eigene Hand, heißer, als die Hand einer Frau Anfang Blütenmond sein sollte, die eine halbe Stunde in einem Garten saß. Alphinas Körper registrierte beides, bevor ihr Verstand die Frage stellen konnte. Die Stelle behielt die andere Temperatur einige Atemzüge.
 
 "Wenn du noch was siehst, das nicht passieren sollte", sagte Runa und stand auf, den Korb wieder über dem Arm, "komm zur Druckerei. Ich bin spät nachts noch da."
 

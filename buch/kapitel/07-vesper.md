@@ -130,7 +130,7 @@ Vesper wartete. Nach einer Stunde verglich er: die Standuhr hatte 273 Sekunden v
 
 Dann legte er die Hand auf das Gehäuse.
 
-Das Holz war warm. Nicht die Wärme eines Raums, nicht die Restwärme von Sonnenlicht auf Nussbaum. Eine Wärme die von innen kam, die durch das Holz in seine Handfläche kroch, in seine Finger, in sein Handgelenk, ein Puls der nicht seiner war. Er ließ die Hand dort, und etwas in seiner Brust reagierte auf den Schlag, ein Echo, als hätte sein Körper auf diesen Rhythmus gewartet und ihn jetzt erkannt.
+Das Holz war warm. Nicht die Wärme eines Raums, nicht die Restwärme von Sonnenlicht auf Nussbaum. Eine Wärme die von innen kam, die durch das Holz in seine Handfläche kroch, in seine Finger, in sein Handgelenk, ein Puls der nicht seiner war. Er ließ die Hand dort, und ein Echo schlug in seiner Brust an, als hätte sein Körper auf diesen Rhythmus gewartet und ihn jetzt erkannt.
 
 Er wartete eine Stunde. Las seine Taschenuhr ab.
 

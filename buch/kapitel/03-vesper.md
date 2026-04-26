@@ -30,7 +30,7 @@ Zum ersten Mal seit sechs Jahren war das Buch leer. Letzte Seite, letzte Zeile, 
 
 Er ging zum Fenster.
 
-Karst lag unter ihm. Türme und Giebel und Schiefer der im Märzlicht glänzte. Eine Stadt die maß und prüfte. In den Nachbarhöfen das Hämmern der Kupferschmiede. Von der Straße Stimmen über Federstahlpreise. Aus der Messerwerkstatt gegenüber ein gleichmäßiges, hohes Zischen — der Schleifstein, der nie aufhörte. Am Turm der Mechanikersgilde schlug es vier. Ein einzelner, tiefer Ton, der über die Dächer rollte und in den Hinterhöfen verschwand.
+Karst lag unter ihm. Türme und Giebel und Schiefer der im Frühlingslicht glänzte. Eine Stadt die maß und prüfte. In den Nachbarhöfen das Hämmern der Kupferschmiede. Von der Straße Stimmen über Federstahlpreise. Aus der Messerwerkstatt gegenüber ein gleichmäßiges, hohes Zischen — der Schleifstein, der nie aufhörte. Am Turm der Mechanikersgilde schlug es vier. Ein einzelner, tiefer Ton, der über die Dächer rollte und in den Hinterhöfen verschwand.
 
 Im Hof die Kastanie. Kahl. Die Äste schwarz vor dem Grau. Drei Krähen auf dem höchsten Ast. Sie saßen dort jeden Nachmittag. Er kannte sie nicht auseinander. Aber er kannte ihren Platz.
 
@@ -216,11 +216,11 @@ Die Uhren tickten.
 
 Vesper hielt den Atem an.
 
-Etwas hatte sich verändert. Im Ticken. Das Durcheinander der Stimmen hinter der Wand, das er kannte wie seinen eigenen Puls — es war anders. Nicht lauter. Nicht leiser. Anders. Als hätte jemand in dem Gewirr aus Ticken und Tacken eine Lücke geöffnet. Eine Pause, die vorher nicht da war. Ein winziger Abstand zwischen zwei Schlägen, der sich wiederholte, regelmäßig, und der das Durcheinander ordnete, ob es wollte oder nicht.
+Etwas hatte sich verändert. Im Ticken. Das Durcheinander der Stimmen hinter der Wand, das er kannte wie seinen eigenen Herzschlag — es war anders. Nicht lauter. Nicht leiser. Anders. Als hätte jemand in dem Gewirr aus Ticken und Tacken eine Lücke geöffnet. Eine Pause, die vorher nicht da war. Ein winziger Abstand zwischen zwei Schlägen, der sich wiederholte, regelmäßig, und der das Durcheinander ordnete, ob es wollte oder nicht.
 
 Vesper setzte sich auf. Das Bettzeug raschelte. Er hörte zu.
 
-Die Pause wurde größer. Breiter. Als würde sie Platz machen. Die einzelnen Stimmen der Uhren fielen in sie hinein, eine nach der anderen, nicht gezählt, nicht zählbar, ein langsames Kippen von Chaos in Ordnung. Das Ticken wurde dichter. Gleichmäßiger. Die Stimmen verschwanden, verschmolzen, und an ihre Stelle trat ein Rhythmus, ein einziger Puls, der lauter wurde.
+Die Pause wurde größer. Breiter. Als würde sie Platz machen. Die einzelnen Stimmen der Uhren fielen in sie hinein, eine nach der anderen, nicht gezählt, nicht zählbar, ein langsames Kippen von Chaos in Ordnung. Das Ticken wurde dichter. Gleichmäßiger. Die Stimmen verschwanden, verschmolzen, und an ihre Stelle trat ein Rhythmus, ein einziger Schlag, der lauter wurde.
 
 Lauter.
 

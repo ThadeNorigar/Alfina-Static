@@ -16,7 +16,7 @@ Die Schmiede roch nach Kohle und nach heißem Eisen und nach dem Salz das der Wi
 
 "Ich habe am Morgen Kohle nachgelegt," sagte Keldan. "Drei Schaufeln, wie sonst auch. Das reicht für eine halbe Stunde auf Weißglut." Er zeigte auf die Esse. "Es brennt seit dem Morgen. Weißglut. Ich habe keine Kohle mehr nachgelegt."
 
-Elke trat näher. Die Glut schlug ihr entgegen, dichter als sie hätte sein sollen, und sie spürte sie nicht nur auf der Haut sondern tiefer, in den Knochen der Unterarme, ein Druck der ihre Handgelenke erreichte und von dort in die Brust kroch. Keldan stand einen Schritt entfernt, und die Luft zwischen ihnen war schwer von der Hitze, und Elke registrierte den Schweiß an seinem Hals, den Puls an seiner Schläfe, bevor sie es abstellen konnte. Dieselbe Schwere wie am Klippenrand, wenn sie die Hand auf den Purpurstein legte und der Fels unter ihrer Handfläche weich wurde.
+Elke trat näher. Die Glut schlug ihr entgegen, dichter als sie hätte sein sollen, und sie spürte sie nicht nur auf der Haut sondern tiefer, in den Knochen der Unterarme, ein Druck der ihre Handgelenke erreichte und von dort in die Brust kroch. Keldan stand einen Schritt entfernt, und die Luft zwischen ihnen war schwer von der Hitze, und Elke registrierte den Schweiß an seinem Hals, das Pochen an seiner Schläfe, bevor sie es abstellen konnte. Dieselbe Schwere wie am Klippenrand, wenn sie die Hand auf den Purpurstein legte und der Fels unter ihrer Handfläche weich wurde.
 
 "Die Kohle glüht nicht mehr," sagte Keldan. Er hatte recht. In der Esse lagen verbrannte Kohlen, grau, tot. Aber das Feuer brannte — über den toten Kohlen, ohne Brennstoff, eine Hitze die aus dem Stein kam, aus dem Boden, aus der Tiefe unter der Schmiede. Feuer ohne Brennstoff. In der Oberstadt sprachen die Leute davon — Kamine die brannten ohne Scheite, und morgens keine Asche.
 
@@ -36,7 +36,7 @@ Nicht die Wärme eines Werkstücks, das seit Stunden geschlagen wird. Eine ander
 
 "Nehmt den Barren," sagte Elke. "Haltet ihn über den Amboss."
 
-Keldan nahm die Zange. Hob den Barren vom Boden — das Summen riss ab, als hätte jemand eine Saite gekappt. Er hielt den Barren über den Amboss, eine Elle über Elkes Hand. Nichts. Dann näher, eine halbe Elle. Elkes Hand auf dem Amboss, Keldans Barren in der Zange darüber. Das Summen kam zurück, leiser, wie von weit her. Elke drückte ihre Hand fester auf das Eisen. Der Puls im Stein unter ihr antwortete, und der Amboss unter ihrer Handfläche wurde wärmer, und das Summen wurde lauter.
+Keldan nahm die Zange. Hob den Barren vom Boden — das Summen riss ab, als hätte jemand eine Saite gekappt. Er hielt den Barren über den Amboss, eine Elle über Elkes Hand. Nichts. Dann näher, einen Fuß. Elkes Hand auf dem Amboss, Keldans Barren in der Zange darüber. Das Summen kam zurück, leiser, wie von weit her. Elke drückte ihre Hand fester auf das Eisen. Der Puls im Stein unter ihr antwortete, und der Amboss unter ihrer Handfläche wurde wärmer, und das Summen wurde lauter.
 
 Dann gab der Barren nach.
 

@@ -198,7 +198,7 @@ Sie stand vor dem Farn. Dem Farn, der sich gedreht hatte.
 
 Am nächsten Morgen, als sie die Wohnung abschloss, den Koffer in der Hand, sah sie dass seine Wedel sich zurückgelehnt hatten. Flach. Ruhig. Alle fünf. Eine Hand die sich öffnete und losließ.
 
-Unten, im Flur, die Monstera des Hausmeisters. Sie ging an ihr vorbei. Kein Kribbeln. Keine Wärme. Die Monstera stand da und tat was Zimmerpflanzen taten. Durch die Haustür in den Morgen von Velde, und der Kanal glänzte im frühen Licht, und ein Kahnschiffer rief etwas das sie nicht verstand, und vor dem Haus wartete die Kutsche. Zwei Pferde, braun und dampfend in der Märzluft, und der Kutscher rauchte und warf die Kippe in den Kanal und Velde schluckte sie, wortlos, wie alles andere.
+Unten, im Flur, die Monstera des Hausmeisters. Sie ging an ihr vorbei. Kein Kribbeln. Keine Wärme. Die Monstera stand da und tat was Zimmerpflanzen taten. Durch die Haustür in den Morgen von Velde, und der Kanal glänzte im frühen Licht, und ein Kahnschiffer rief etwas das sie nicht verstand, und vor dem Haus wartete die Kutsche. Zwei Pferde, braun und dampfend in der Frühlingsluft, und der Kutscher rauchte und warf die Kippe in den Kanal und Velde schluckte sie, wortlos, wie alles andere.
 
 Drei Tage bis Vael.
 

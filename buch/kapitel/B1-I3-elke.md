@@ -22,7 +22,7 @@ Falls. Das Wort blieb im Raum wie der Talggeruch der Kerze. Elkes Finger gruben 
 
 Sein letztes Bild: ein Hafen. Nacht. Hohlräume in den Schatten, und in den Hohlräumen Augen. Er hatte es dreimal verworfen und neu begonnen — in seinem Kopf gab es den Hafen nur so, und er malte, was er sah, auch wenn er nicht wusste, warum er es sah.
 
-Elke legte die Hand auf seine. Die Pigmentkörner waren rau unter ihren Fingerspitzen, seine Haut warm, und unter der Wärme schlug sein Puls zu schnell für einen Mann, dessen Hände so ruhig auf den Knien lagen. Sie drückte seine Finger, kurz, fest, wie man einen Riss im Stein abklopft. Ihr Puls schlug lauter als seiner. Einen Moment lang wusste sie nicht, welcher. Ließ nicht los.
+Elke legte die Hand auf seine. Die Pigmentkörner waren rau unter ihren Fingerspitzen, seine Haut warm, und unter der Wärme schlug sein Herz zu schnell für einen Mann, dessen Hände so ruhig auf den Knien lagen. Sie drückte seine Finger, kurz, fest, wie man einen Riss im Stein abklopft. Ihr Herz schlug lauter als seines. Einen Moment lang wusste sie nicht, welcher. Ließ nicht los.
 
 Durch das Fenster fiel der schwache Schein der Fackel aus der Gasse, und in dem Licht stand eine Gestalt. Aufrecht. Reglos. Die Schultern rauchten.
 
