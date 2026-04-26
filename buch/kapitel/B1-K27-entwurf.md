@@ -26,7 +26,7 @@
 - Sie kehrt an den Tisch zurück. Vesper sitzt noch so, wie sie ihn zuletzt gesehen hat: Rocktasche links, wo der Schachturm liegt, Harons Wörterbuch vor ihm auf der Fläche. Er hat die Handflächen rechts und links neben das Buch gelegt, flach, die Finger leicht gespreizt — nicht abwartend, sondern bereit.
 - Maren räumt die übrig gebliebenen zwei Humpen zu den zweien, die sie behalten will, und trägt die anderen in die Küche. Sie kommt zurück. Sie schiebt ihren Stuhl näher, diesmal nicht ihm gegenüber, sondern neben ihn — linke Seite des Tisches, rechte Schulter an seiner linken. Sie hat das in K26 nicht getan. Sie tut es jetzt ohne Erklärung.
 - Sie schlagen das nächste nicht übersetzte Wort auf. Maren liest die Handschrift Harons: sechs Zeichen, von denen zwei Bestandteile sind, die sie aus den bereits gefundenen Wörtern kennt (dasselbe Wurzelzeichen wie in *Kreis*, dasselbe Suffix wie in *gemeinsam*). Sie macht mit dem Bleistift die Trennung sichtbar. Vesper sieht zu, ohne einzugreifen.
-- *Arbeit, gemeinsam, still.* Sie finden nach einigen Minuten eine plausible Lesart: *schwelle* oder *übergang*. Das passt zu dem, was sie aus K24 im Bauch haben. Maren schreibt es in die Liste. Vesper nickt.
+- *Arbeit, gemeinsam, still.* Sie finden nach einigen Minuten eine plausible Lesart: *durchgang* oder *übergang*. Das passt zu dem, was sie aus K24 im Bauch haben. Maren schreibt es in die Liste. Vesper nickt.
 - Zwei weitere Wörter versuchen sie. Bei dem einen kommen sie nicht weiter — das Wurzelzeichen sieht aus wie in *Heimat*, aber es hat einen Zusatzstrich, den keins der fünf Wörter aus K26 trägt. Vesper sagt, dass sie das bis morgen liegenlassen sollten; bei Tageslicht werde der Zusatzstrich klarer zu lesen sein, und im Übrigen sei er sich fast sicher, dass das Wort in den nächsten Seiten noch einmal vorkommt, vielleicht deutlicher. Maren nickt, legt den Bleistift quer über die Seite, die Markierung sichtbar.
 - Zwischen dem zweiten und dritten Wort legt Vesper die rechte Hand auf ihre linke Schulter. Nicht plötzlich, nicht geplant — er beugt sich vor, um auf eine Zeile weiter oben zu deuten, und im Nachdeuten bleibt die Hand. Er nimmt sie nicht weg. Er sagt nichts dazu. Er deutet nicht ein zweites Mal.
 - **Maren registriert die Geste exakt.** Sie weiß sofort: das ist nicht K19. In K19 lag ein Verband unter seiner Hand, und sein Daumen war auf ihrer Schlüsselbeinrille, um den Puls zu prüfen — so hieß die Ausrede. Heute ist kein Verband da. Kein Grund. Die Hand liegt schwer, warm, flach auf Wolle und Leinen. Sie spürt die Fingerspitzen einzeln.
@@ -38,14 +38,14 @@
 **Dialog-Informationen (zu transportierende Inhalte):**
 - *Maren erfährt / benennt:* Alphinas Wärme am Drücker (Cross-POV-Beleg für Alphinas K25-Körperwärme). Sie registriert es, keine Theorie.
 - *Maren erfährt:* Harons Handschrift hat Wurzel- und Suffix-Logik — die fremde Sprache ist baubar, nicht willkürlich. Vesper liest Muster, sie Handschrift. Ihre Arbeit ist komplementär, wie Kiel und Spant.
-- *Gemeinsam gefunden:* ein sechstes Wort, *Schwelle/Übergang*. Die Wortliste wächst von fünf auf sechs.
+- *Gemeinsam gefunden:* ein sechstes Wort, *Durchgang/Übergang*. Die Wortliste wächst von fünf auf sechs.
 - *Ein siebtes Wort bleibt offen.* Tschechow für K34.
 - *Maren erkennt:* Vespers Hand ist ohne Ausrede. Das ist der Unterschied zu K19.
 - *Maren erkennt:* Sie bewegt sich nicht. Das ist ihre Antwort, nicht sein Triumph.
 - *Vesper-Beat (durch Maren-Augen):* Er nimmt die Hand nicht weg, sagt nicht, dass er sie liegen lässt, macht nichts daraus. Das ist das, was sie an ihm wiedererkennt.
 
 **Tschechow-Waffen geladen:**
-- **Das sechste Wort (*Schwelle/Übergang*)** — erhöht den übersetzten Wortschatz. Feuert in K34 bei Ritual-Vollzug, wenn das Ritual in Teilschritte gegliedert werden muss.
+- **Das sechste Wort (*Durchgang/Übergang*)** — erhöht den übersetzten Wortschatz. Feuert in K34 bei Ritual-Vollzug, wenn das Ritual in Teilschritte gegliedert werden muss.
 - **Das siebte, offene Wort mit dem Zusatzstrich** — Tschechow für K29–K31. Die Feinheiten des Rituals liegen in diesen unklaren Zeichen.
 - **Alphinas Handwärme am Drücker** — Tschechow für Alphinas Feuer-Resonanz-Arc (nicht Runa, sondern Alphinas eigene Körper-Schwelle); feuert in K30+ aus Alphina-POV.
 - **Vespers Handlage auf Marens Schulter ohne Verband** — feuert unmittelbar in Szene 2 (wird zur Grundlage der Power-Anweisung).
@@ -217,7 +217,7 @@
 
 ### Was weiß Maren am Ende?
 
-- **Ein sechstes Wort:** *Schwelle / Übergang.* Ein siebtes, unklares Wort mit Zusatzstrich liegt markiert für morgen.
+- **Ein sechstes Wort:** *Durchgang / Übergang.* Ein siebtes, unklares Wort mit Zusatzstrich liegt markiert für morgen.
 - **Ein neuer Körperzustand:** Wenig Bewegungsspielraum = Kopfliste verstummt. Sie hat keine Sprache dafür. Sie hat die Körpererfahrung.
 - **Das Pochen ist in ihr, nicht im Stein.** Ein fremder Takt, der sich in der Stille meldet. Sie weiß nicht, was es ist. Sie weiß, dass sie es vorher schon gespürt hat. Sie drückt es nicht mehr weg.
 - **Sie kann in Vespers Gegenwart schlafen.** Auf der Matte, sein Gehrock über den Schultern. Zum ersten Mal seit Solha.

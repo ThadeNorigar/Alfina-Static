@@ -104,11 +104,11 @@ Er starrte. Nicht kurz. Nicht höflich. Sein ganzer Körper war stehengeblieben,
 
 Seine Hände lagen flach auf dem Tuch, links und rechts des Bechers. Er berührte sie nicht.
 
-In ihrem Kopf kam trotzdem ein Bild. Seine Fingerkuppen, die sich eben am Schraubenkopf geprüft hatten, jetzt an ihrem Handgelenk, innen, dort wo der Puls lief. Nicht fest. Nur gesetzt. Ein Gewicht, das wartete. Seine Stimme, ohne Wort, nur die Art, wie die Luft vor seinem Mund die Richtung wechselte. Seine Aufmerksamkeit, die sie hielt, ohne sie zu drücken. Das Stillwerden ihrer eigenen Schultern, die auf etwas gewartet hatten, von dem sie nicht gewusst hatte, dass es kommen würde.
+In ihrem Kopf kam trotzdem ein Bild. Seine Fingerkuppen, die sich eben am Schraubenkopf geprüft hatten, jetzt an ihrem Handgelenk, innen, an der Sehne unter dem Daumenansatz. Nicht fest. Nur gesetzt. Ein Gewicht, das wartete. Seine Stimme, ohne Wort, nur die Art, wie die Luft vor seinem Mund die Richtung wechselte. Seine Aufmerksamkeit, die sie hielt, ohne sie zu drücken. Das Stillwerden ihrer eigenen Schultern, die auf etwas gewartet hatten, von dem sie nicht gewusst hatte, dass es kommen würde.
 
 Sie versuchte, das Bild wegzuschieben. Zweimal in dreißig Jahren hatte sie das gekannt — das Begehren, gehalten zu werden; Wärme unter den Rippen, Hände, die ruhiger wurden statt unruhiger; beide Male hatte sie es aus dem Kopf geschoben, bevor es Form annahm. Diesmal ging es nicht.
 
-Weil sie es zuließ, wurde es schärfer. Draußen, vor ihr, lagen seine Hände auf dem Tuch. In ihrem Kopf lagen seine Fingerkuppen an ihrem Puls. Der Schuppen um sie beide war weit weg, die Esse mit der Glut war weit weg. Das Ticken aus der Kajüte hörte sie nicht mehr. Nur der Becher in ihrer Hand stand noch in der Nähe, und durch das Steingut zog die Wärme in beide Richtungen.
+Weil sie es zuließ, wurde es schärfer. Draußen, vor ihr, lagen seine Hände auf dem Tuch. In ihrem Kopf lagen seine Fingerkuppen an ihrem Handgelenk innen. Der Schuppen um sie beide war weit weg, die Esse mit der Glut war weit weg. Das Ticken aus der Kajüte hörte sie nicht mehr. Nur der Becher in ihrer Hand stand noch in der Nähe, und durch das Steingut zog die Wärme in beide Richtungen.
 
 Ihre Lippen hatten sich ein wenig geöffnet. Sie schloss sie nicht hastig. Ihr Atem ging durch die Nase. Das Salz, das sie immer auf den Lippen hatte — Werftsalz, Seesalz, die Morgenluft — lag auf ihrer Oberlippe, sie konnte es schmecken, weil ihre Zunge sich einen halben Moment lang an die Innenseite der Oberlippe legte, und mit dem Salz kam ein feiner Geschmack von Metall, den sie schon aus der *Anker*-Stunde kannte.
 
