@@ -32,7 +32,7 @@ Er wusch sich die Hände im Waschkrug, das Wasser kalt, der Staub der Reise lös
 
 Er ging zurück nach unten.
 
-Im Schankraum brannte ein Kaminfeuer, niedrig, das Holz knackte in unregelmäßigen Abständen. Zwei Männer saßen an einem Tisch in der Mitte und sprachen leise über ihren halbvollen Biergläsern, ohne aufzuschauen als Vesper hereinkam. Im hinteren Teil des Raumes eine Würfelrunde, vier Männer in dunklen Wollkitteln, einer fluchte gedämpft, ein anderer lachte und sagte einen Namen, den Vesper nicht aufnahm. Eine Magd trug zwei Krüge zu ihnen, dabei tropfte Bier über den Rand, ihre Schürze hatte am Saum einen frischen Fleck, sie schaute nicht nach unten. Am Fenster saß eine Frau, allein, dunkles Haar, aufrechte Haltung, ein Notizbuch aufgeschlagen vor ihr. Sie schaute auf als er die Treppe herunterkam. Ihre Augen trafen seine für eine halbe Sekunde — dunkel, ruhig, ein Blick der nichts fragte. Dann war er vorbei, sie schrieb weiter. Vesper ging zur Theke.
+Im Schankraum brannte ein Kaminfeuer, niedrig, das Holz knackte in unregelmäßigen Abständen. Zwei Männer saßen an einem Tisch in der Mitte und sprachen leise über ihren halbvollen Biergläsern, ohne aufzuschauen als Vesper hereinkam. Im hinteren Teil des Raumes eine Würfelrunde, vier Männer in dunklen Wollkitteln, einer fluchte gedämpft, ein anderer lachte und sagte einen Namen, den Vesper nicht aufnahm. Eine Magd trug zwei Krüge zu ihnen, dabei tropfte Bier über den Rand, ihre Schürze hatte am Saum einen frischen Fleck, sie schaute nicht nach unten. Am Fenster saß eine Frau, allein, dunkles Haar, aufrechte Haltung, ein Notizbuch aufgeschlagen vor ihr. Sie schaute auf als er die Treppe herunterkam. Ihre Augen trafen seine für einen Wimpernschlag — dunkel, ruhig, ein Blick der nichts fragte. Dann war er vorbei, sie schrieb weiter. Vesper ging zur Theke.
 
 "Ein Bier, bitte." Der Wirt stellte ein Glas auf das Holz. Vesper trank. In Karst schmeckte Bier nach Kupfer, hier schmeckte es nach etwas das er nicht benennen konnte, süßlich und dicht, derselbe Geruch der in der Luft lag seit er die Küste erreicht hatte.
 
@@ -118,7 +118,7 @@ Um halb sechs kam der Hausherr. Groß, schmal, grau an den Schläfen.
 
 "Vesper Greve, aus Karst. Von einem reisenden Uhrmacher habe ich gehört, dass Ihre Standuhr exakt 4:33 pro Tag verliert."
 
-Der Hausherr verzog den Mund. Seine Schultern sanken einen Zentimeter. "Drei Uhrmacher haben sie sich angesehen. Keiner hat etwas gefunden. Machen Sie."
+Der Hausherr verzog den Mund. Seine Schultern sanken kaum merklich. "Drei Uhrmacher haben sie sich angesehen. Keiner hat etwas gefunden. Machen Sie."
 
 Vesper öffnete das Gehäuse. Das Werk lag vor ihm, Messing und Stahl, die Zahnräder ineinander greifend, sauber, geölt, ohne Verschleiß. Er prüfte jedes Teil einzeln, systematisch — Ankerrad, Hemmung, Aufzugsfeder, Pendel. Jedes Teil war in Ordnung. Kein Defekt, keine Abweichung, keine Erklärung.
 
@@ -130,7 +130,7 @@ Vesper wartete. Nach einer Stunde verglich er: die Standuhr hatte 273 Sekunden v
 
 Dann legte er die Hand auf das Gehäuse.
 
-Das Holz war warm. Nicht die Wärme eines Raums, nicht die Restwärme von Sonnenlicht auf Nussbaum. Eine Wärme die von innen kam, die durch das Holz in seine Handfläche kroch, in seine Finger, in sein Handgelenk, ein Puls der nicht seiner war. Er ließ die Hand dort, und etwas in seiner Brust reagierte auf den Puls, ein Echo, als hätte sein Körper auf diesen Rhythmus gewartet und ihn jetzt erkannt.
+Das Holz war warm. Nicht die Wärme eines Raums, nicht die Restwärme von Sonnenlicht auf Nussbaum. Eine Wärme die von innen kam, die durch das Holz in seine Handfläche kroch, in seine Finger, in sein Handgelenk, ein Puls der nicht seiner war. Er ließ die Hand dort, und etwas in seiner Brust reagierte auf den Schlag, ein Echo, als hätte sein Körper auf diesen Rhythmus gewartet und ihn jetzt erkannt.
 
 Er wartete eine Stunde. Las seine Taschenuhr ab.
 
@@ -178,7 +178,7 @@ Er drehte ab, kniete sich hin. Unter dem Spülstein lief ein Kupferrohr in die W
 
 Unten roch es nach Kohle, nach Feuchtigkeit, nach etwas Metallischem. Er fand das Rohr an der Wand, Kupfer, kalt. Suchte einen Kessel, einen Ofen, irgendeinen Brennstoff, systematisch, Wand für Wand, in der Dunkelheit, mit den Händen. Er fand nichts. Nur kalte Rohre, heißes Wasser, keinen Grund warum das eine das andere nicht ausschloss.
 
-Die Magd hatte recht gehabt. Die Luft im Keller war wärmer als im Erdgeschoss, wärmer als sie drei Meter unter der Erde im Grünmond sein sollte. Eine Wärme die aus dem Boden kam, gleichmäßig, als hätte der Stein selbst Temperatur. Dieselbe Wärme wie das Uhrgehäuse unter seiner Hand. Dieselbe Wärme wie die Fingerspitzen der Magd auf seiner Handfläche. Drei verschiedene Quellen, dieselbe Wärme, und keine Erklärung für irgendeine davon.
+Die Magd hatte recht gehabt. Die Luft im Keller war wärmer als im Erdgeschoss, wärmer als sie tief unter der Erde im Grünmond sein sollte. Eine Wärme die aus dem Boden kam, gleichmäßig, als hätte der Stein selbst Temperatur. Dieselbe Wärme wie das Uhrgehäuse unter seiner Hand. Dieselbe Wärme wie die Fingerspitzen der Magd auf seiner Handfläche. Drei verschiedene Quellen, dieselbe Wärme, und keine Erklärung für irgendeine davon.
 
 Dann das Kratzen.
 
@@ -194,7 +194,7 @@ Er stand still. Sein Herz schlug zu schnell, er konnte es nicht bremsen. Dreißi
 
 Er ging zum Fenster, Schritt für Schritt, die Hand an der Wand. Seine Finger fanden den Rahmen, Holz, alt, feucht. Er strich mit den Fingerspitzen über die Oberfläche und stoppte.
 
-Rillen. Drei Stück, parallel, tief genug dass seine Fingerkuppe hineinsank. Er fuhr die erste entlang, zwanzig Zentimeter, gerade und sauber, keine Splitter, die Kanten glatt als hätte jemand das Holz geschmolzen, nicht gerissen. Die zweite Rille war identisch. Die dritte auch.
+Rillen. Drei Stück, parallel, tief genug dass seine Fingerkuppe hineinsank. Er fuhr die erste entlang, eine Spanne, gerade und sauber, keine Splitter, die Kanten glatt als hätte jemand das Holz geschmolzen, nicht gerissen. Die zweite Rille war identisch. Die dritte auch.
 
 Er legte den Zeigefinger in die mittlere Rille und hielt ihn dort.
 
