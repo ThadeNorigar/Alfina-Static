@@ -242,10 +242,11 @@
       "28": {
         "titel": "Maren",
         "pov": "Maren",
-        "status": "entwurf-ok",
-        "woerter": null,
-        "text": "1. Nebelmond 551 TZ, tiefe Herbstnacht. Fünf Monate nach K27. Vael beginnt zu kippen — erste vernagelte Fenster in der Hafengasse, ein Rauchgeruch aus der Südost-Stadt seit wenigen Nächten, eine Militärpatrouille im Nebel (beides neu). Maren folgt dem rückwärts fließenden Wasser von der Werft zum Steinkreis. Der Purpurstein schwitzt ein Salz, das zu keinem ihrer Meere gehört. Ihre Hand auf dem Stein: das Pochen, das sie seit K27 trägt, antwortet jetzt. Sie spürt das Drüben zum ersten Mal direkt. Nebel bricht am Kreisrand; sechs, sieben Schemen außen, können nicht über die Steinlinie. Auf dem Rückweg findet sie einen toten Nachtwächter-Lehrling — keine Wunde, derselbe süß-dichte Geruch wie aus den Nachtbränden. Körper zuerst (Kehle zieht, Schritt zurück), dann Werft-Pragmatismus. Sie schließt zum ersten Mal nachts die Wohnungstür ab. Maren ist die erste der Fünf, die direkt spürt, dass der Zerfall beginnt.",
+        "status": "ausarbeitung",
+        "woerter": 2515,
+        "text": "1. Nebelmond 551 TZ, tiefe Herbstnacht. Fünf Monate nach K27. Vael beginnt zu kippen — erste vernagelte Fenster in der Hafengasse, ein Rauchgeruch aus der Südost-Stadt seit wenigen Nächten, eine Militärpatrouille im Nebel (beides neu). Maren folgt dem rückwärts fließenden Wasser von der Werft zum Steinkreis. Der Purpurstein schwitzt ein Salz, das zu keinem ihrer Meere gehört. Ihre Hand auf dem Stein: eine Welle läuft durch ihre Haut in den Brustkorb. Nebel bricht am Kreisrand; sieben dunkle Wesen außen, vierbeinig, kohlenrote Augen, Rauch und Knistern, können nicht über die Steinlinie. Auf dem Rückweg findet sie einen toten Nachtwächter-Lehrling — keine Wunde, derselbe süß-dichte Geruch wie aus den Nachtbränden. Körper zuerst (Kehle zieht, Schritt zurück), dann Werft-Pragmatismus. Sie schließt zum ersten Mal nachts die Wohnungstür ab. Maren ist die erste der Fünf, die direkt spürt, dass der Zerfall beginnt.",
         "entwurfs_datei": "B1-K28-entwurf.md",
+        "datei": "B1-K28-maren.md",
         "handoff_datei": "B1-K28-handoff.md"
       },
       "29": {
@@ -269,7 +270,7 @@
         "pov": "Alphina",
         "status": "entwurf-checked",
         "woerter": null,
-        "text": "Ein Schemen tötet einen Händler am Hafen — am helllichten Tag. Thar-Schemen, Metallgeruch, andere Fraktion als Varen. Runa steht neben Alphina. Ihre Hände glühen buchstäblich, Brandfleck auf dem Holz. 'Runa. Deine Hände.' Feuer-Resonanz entdeckt. Alphina weiß: nicht vier — fünf. Schluss-Beat: Alphina verspricht Runa 'heute Abend bei dir' — keine Erklärung im Marktplatz-Chaos. Die volle Alphina-an-Runa-Erklärung liegt in K32.",
+        "text": "Ein Schemen tötet einen Händler am Hafen — am helllichten Tag. Thar-Schemen, Metallgeruch, andere Fraktion als Varen. Alphina vergleicht die Tötungs-Signatur mit Halvards vier Patienten aus dem Sommer (K26-Canon, kauterisierte Schemen-Fingerabdrücke = Varen) — der Händler hier ist anders, Thar-Metall-Signatur. Erste klare Erkenntnis: zwei Schemen-Fraktionen aktiv in Vael, mit unterschiedlichen Tötungs-Modi. Runa steht neben Alphina. Ihre Hände glühen buchstäblich, Brandfleck auf dem Holz. 'Runa. Deine Hände.' Feuer-Resonanz entdeckt. Alphina weiß: nicht vier — fünf. Schluss-Beat: Alphina verspricht Runa 'heute Abend bei dir' — keine Erklärung im Marktplatz-Chaos. Die volle Alphina-an-Runa-Erklärung liegt in K32.",
         "entwurfs_datei": "B1-K31-entwurf.md"
       },
       "32": {

@@ -115,6 +115,29 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
 
 **WICHTIG:** Nach diesem Lade-Vorgang KEINE weiteren Files lesen. Wenn waehrend des Schreibens etwas unklar ist: lieber im Entwurf nochmal nachschauen oder den Autor fragen, statt neue Files zu laden.
 
+## Phase 1.5: Pre-Check-Internalisierung (PFLICHT vor Phase 2)
+
+**Bevor der erste Block geschrieben wird, die Stil-Check-Liste aus Phase 4 aktiv verinnerlichen.** Die Liste ist **Schreib-Vorlage**, nicht Reparatur-Liste — wenn ein Verstoss erst nach dem Schreiben auffaellt, ist der Workflow kaputt.
+
+**Konkretes Vorgehen:**
+
+1. **Aktuelle Memory-Pflichten lesen** (Memory-Index in `MEMORY.md` ist im Kontext): alle ⚡-markierten Memories lesen, plus alle `feedback_*`-Memories, die zur POV-Figur, zum Heat-Level oder zum Plot-Inhalt des Kapitels passen.
+2. **Phase-4-Liste durchgehen** (siehe unten in dieser Datei): jede Pruefung als aktive Schreib-Regel formulieren — nicht „nicht > 0 mal", sondern „pro Satz beim Schreiben mental verifizieren".
+3. **Liste explizit dem Autor zeigen** vor dem ersten Block, in einem kompakten Block (max ~250 W). Format:
+
+   ```
+   **Pre-Check fuer dieses Kapitel (aktiv beim Schreiben):**
+   - Keine [Anti-Pattern 1] / [Anti-Pattern 2] / ...
+   - Material pro Absatz min 1
+   - Maren-Lieblingswoerter: stetig, satt, dicht, warm, eng (dosiert)
+   - [POV-spezifische Regel]
+   - [Memory-Pflichten zum Kapitel]
+   ```
+
+4. **Council-Damen pro Kapitel festlegen** (aus den Ton-Markern des Entwurfs ableiten oder mit dem Autor abstimmen). Die festgelegten Stimmen werden im Mini-Council nach jedem Block aktiv. Wenn der Entwurfs-Header keine Festlegung hat: Vorschlag aus den Ton-Markern, Autor bestaetigt mit „ok".
+
+**Auf „ok" zur Pre-Check-Liste warten.** Erst dann Phase 2 starten.
+
 ## Phase 2: Prosa ausarbeiten — Szene fuer Szene
 
 **Ziel-Datei:** `buch/kapitel/{ID}-{figur}.md` (mit Prefix, z.B. `B1-K12-vesper.md`).
@@ -137,25 +160,28 @@ Wenn die Antworten zu vage sind → STOPP. Szene nicht ausarbeitungsreif. Autor 
 
 **Autor antwortet: "ok" oder gibt Korrekturen. Erst bei "ok" weiter.**
 
-#### Schritt 2: Absatz-für-Absatz schreiben (April 2026 — umgebaut)
+#### Schritt 2: Block-fuer-Block schreiben (Stand 2026-04-26 — umgebaut)
 
-**Takt:** 1 Absatz = **3–7 Sätze, 40–120 Wörter**. Nicht mehr. Dann STOP.
+**Takt:** 1 Block = **3–5 Absaetze, ~150–500 Woerter**. Nicht mehr. Dann STOP.
 
-Der Takt ist bewusst eng. Drift in Abstraktion/Verkuenstelung passiert im Abstand von wenigen Saetzen — nicht in Bloecken von 200 Woertern. Pro Absatz vollstaendiger Pruefkatalog + Mini-Council + sichtbare Pruefnotiz. Kein Vorpreschen.
+Der Block-Takt ist bewusst groesser als zuvor (war: 1 Absatz). 1 Absatz war zu kleinteilig (Drift entstand zwischen den Bloecken im Sprung), ganze Szene am Stueck war zu spaet (Drift trug sich durch). 3–5 Absaetze halten Fehler lokal, geben aber genug Substanz fuer sinnvolles Council.
 
-**Loop pro Absatz:**
+**Pre-Check beim Schreiben (aktiv, nicht nachtraeglich):** Die Phase-4-Stilregeln + Memory-Pflichten aus Phase 1.5 sind beim Schreiben jedes Satzes mental aktiv — keine Antithese, keine Werkstatt-Chemie an Sorel/Vesper in Naehe-Szenen, keine Pochen/Takt/Puls als abstrakte Marker, keine metrischen Masse, keine realweltlichen Monatsnamen, Material pro Absatz min 1. Wenn ein Verstoss erst beim Selbst-Check auffaellt, ist die Verinnerlichung in Phase 1.5 kaputt — neu konsolidieren.
 
-1. **Schreiben** — einen Absatz (40–120 W).
-2. **Selbst-Check** durchlaufen (alle 3 Ebenen, siehe unten). Probleme inline fixen.
-3. **Mini-Council** intern durchspielen (3 Stimmen, siehe unten). Probleme inline fixen.
-4. **Absatz zeigen** mit **Pruefnotiz** am Ende in einer Zeile:
-   - Format: `[Pruefung: Material ✓ | Abstrakta 0 | Mini-Council ✓ | Gefixed: <nichts / X→Y>]`
-   - Die Notiz macht die Arbeit sichtbar und zwingt mich, den Check tatsaechlich zu machen.
-5. **Warten** auf **"ok"** oder Korrektur des Autors.
-   - **"ok"** → naechster Absatz.
-   - **Korrektur** → Fix einarbeiten, gefixten Absatz + neue Pruefnotiz zeigen, erneut auf "ok" warten.
+**Loop pro Block:**
 
-**Commit-Rhythmus:** Alle 3–5 OK-Absätze ein kleiner `wip:`-Commit. Nicht pro Absatz (zu laut), nicht pro Szene (zu weit weg).
+1. **Schreiben** — 3–5 Absaetze (~150–500 W) ins Final-File.
+2. **Muendlicher Lese-Test pro Satz (PFLICHT, NEU 2026-04-26):** Den ganzen Block mental einmal aussprechen. Pro Satz: Wuerde ein Mensch am Tisch das so sagen, ohne zu stocken? Macht der Satz Sinn — physisch plausibel, klare Pronomen-Referenz, kausal konsistent? Wenn nein: umschreiben. Diese Pruefung ist nicht optional und ersetzt nicht den Selbst-Check, sondern kommt VOR ihm.
+3. **Selbst-Check** durchlaufen (alle 3 Ebenen, siehe unten) auf den ganzen Block. Probleme inline fixen. Besonders auf Scharnier-Aphorismen am Absatz-Ende achten — letzter Satz nach starkem Bild, der das Bild deutet/generalisiert/aphorisiert: streichen.
+4. **Mini-Council** intern durchspielen — **Council-Damen ZUERST in-character**, dann **Autorin synthetisiert** (siehe unten). Probleme inline fixen.
+5. **Block zeigen** in voller Laenge mit **Pruefnotiz** am Ende:
+   - Format: `[Pruefung: Verstaendlichkeit ✓ | Material ✓ | Abstrakta N | Aphorismen 0 | Pochen/Takt/Puls 0 | Antithese 0 | Werkstatt-Chemie 0 | Council ✓ (MEIKE/LINA/KAYA + Autorin) | Gefixed: <nichts / X→Y>]`
+   - Council-Damen-Verdicte (jeweils 1–2 Saetze in-character) + Autorin-Synthese als kurzer Absatz darunter.
+6. **Warten** auf **"ok"** oder Korrektur des Autors.
+   - **"ok"** → naechster Block.
+   - **Korrektur** → Fix einarbeiten, gefixten Block + neue Pruefnotiz zeigen, erneut auf "ok" warten.
+
+**Commit-Rhythmus:** Alle 2–3 OK-Bloecke ein kleiner `wip:`-Commit. Nicht pro Block (zu laut), nicht pro Szene (zu weit weg).
 
 ---
 
@@ -194,24 +220,13 @@ Der Takt ist bewusst eng. Drift in Abstraktion/Verkuenstelung passiert im Abstan
 
 ---
 
-**Mini-Council pro Absatz (intern, 4-6 Stimmen je nach Entwurfs-Konfig)**
+**Mini-Council pro Block (Stand 2026-04-26 — Reihenfolge umgestellt)**
 
-Nach dem Selbst-Check folgende Rollen einnehmen, jeweils 1 Satz Urteil. Probleme fixen, Mini-Council wiederholen, bis alle Stimmen OK sagen.
+**Reihenfolge: Council-Damen ZUERST in-character, DANN Autorin synthetisiert.** Die Damen liefern Genre-Leserin-Sicht ungefiltert (nicht neutral, nicht analytisch). Die Autorin nimmt diese Stimmen entgegen, wertet sie mit Konkretheits-/Stolper-/Haltungs-Sicht und entscheidet die Fixes. Umgekehrte Reihenfolge verfaelscht die Damen — sie wuerden sich an der Autorin-Vorgabe orientieren statt eigene Leserin-Sicht zu liefern.
 
-**Pflicht-Stimmen (immer aktiv):**
+**1. Council-Damen-Stimmen (ZUERST, je 1–2 Saetze in-character):**
 
-1. **Autorin** (Haltungs-Check):
-   > Traegt jeder Satz? Klingt es wie {Figur} oder wie eine Schreiberin, die ueber {Figur} schreibt? Ist ein Bild da, das beim zweiten Lesen nicht haelt?
-
-2. **Konkretheits-Pruefer** (Ding-Check):
-   > Kann eine Handwerkerin das Ding im Absatz greifen, wiegen, riechen? Gibt es mehr als 1 Abstraktum? Schwebt eine Metapher ohne Boden?
-
-3. **Leserin** (Stolper-Check):
-   > Stolpere ich beim Lesen? Verstehe ich, was gemeint ist? Oder klingt es nur klug? Wuerde ich an dieser Stelle umblaettern wollen?
-
-**Council-Leserinnen-Stimmen (aktiv je nach Entwurfs-Header-Festlegung):**
-
-Aus dem Entwurfs-Header Feld „Council-Leserinnen fuer /ausarbeitung" die 2-3 festgelegten Stimmen einnehmen — in-character, nicht neutral. Profile in `.claude/commands/book-council.md`.
+Aus Phase 1.5 festgelegte 2–3 Stimmen einnehmen — in-character, nicht neutral. Profile in `.claude/commands/book-council.md`.
 
 - **LINA** (Romantasy, Yarros/Maas/Rampling): *Brennt es? Ist der Slow-Burn-Beat spuerbar? Bricht der Koerper vor dem Kopf? Wuerde ich beim ersten Satz weiterlesen?*
 - **NORA** (Dark Romance, Robert/Kennedy/Simone): *Wo ist die Schaerfe? Kaempft die Figur oder ertraegt sie nur? Ist die Dynamik morally grey? Reibung im Dialog?*
@@ -219,11 +234,21 @@ Aus dem Entwurfs-Header Feld „Council-Leserinnen fuer /ausarbeitung" die 2-3 f
 - **VICTORIA** (BDSM, Reage/Reisz): *Material-Praezision? Power-Exchange mit Grund? Aftercare-Bewusstsein? Klinische Schaerfe statt Fifty-Shades-Kitsch?*
 - **KAYA** (Dystopie/Grimdark, Kuang/SenLinYu/Pierce Brown): *Koerper unter Druck? Hat die Gewalt eine Folge? Sanitisiert der Erzaehler? Trauma traegt im Koerper?*
 
-Jede aktive Stimme: 1 Satz Urteil in eigener Sprache (in-character, nicht neutral). Probleme inline fixen, Mini-Council wiederholen, bis alle aktiven Stimmen OK.
+Jede Stimme spricht in eigener Sprache, mit eigenen Anspruechen. Sie darf zitieren, loben, streichen fordern.
 
-**Wenn der Entwurf KEINE Council-Leserinnen festgelegt hat:** zurueck zu `/entwurf`, Feld nachtragen, dann Ausarbeitung fortsetzen. Kein „ich pick mir mal welche" — das ist eine Plot-/Ton-Entscheidung der Entwurfs-Phase.
+**2. Autorin synthetisiert (DANACH, kurzer Absatz):**
 
-**Output in der Pruefnotiz:** `Mini-Council ✓ (Autorin, Konkretheit, Leserin, MEIKE, KAYA)` mit Aufzaehlung der aktiven Stimmen. Sonst: `Mini-Council: KAYA forderte mehr Koerper im Schock → gefixed`.
+Die Autorin uebernimmt die Damen-Stimmen plus drei interne Pruefungen:
+
+- **Haltung:** Traegt jeder Satz? Klingt es wie {Figur} oder wie eine Schreiberin, die ueber {Figur} schreibt? Ist ein Bild da, das beim zweiten Lesen nicht haelt?
+- **Konkretheit (Ding-Check):** Kann eine Handwerkerin das Ding im Absatz greifen, wiegen, riechen? Mehr als 1 Abstraktum? Schwebt eine Metapher ohne Boden?
+- **Stolper (Leserin-Check):** Stolpere ich beim Lesen? Verstehe ich, was gemeint ist? Oder klingt es nur klug?
+
+Die Autorin entscheidet, welche Damen-Forderungen umgesetzt werden, welche nicht (mit Begruendung), und fixt inline. Bei Konflikt zwischen Damen: Autorin priorisiert.
+
+**Wenn der Entwurf KEINE Council-Leserinnen festgelegt hat:** in Phase 1.5 mit dem Autor abstimmen — Vorschlag aus den Ton-Markern des Entwurfs, Autor bestaetigt. Kein „ich pick mir mal welche" beim Schreiben.
+
+**Output in der Pruefnotiz:** `Council ✓ (MEIKE/LINA/KAYA + Autorin)` mit Aufzaehlung. Bei Fix: `Council: LINA forderte Atemzug am Saum → gefixed`.
 
 **KEIN externer Subagent-Council zwischendurch.** Das Mini-Council laeuft rein intern in der Opus-Session. Externe Subagents erst in Phase 5.
 
