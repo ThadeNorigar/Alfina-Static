@@ -29,7 +29,7 @@ Der Winkel, aus dem das Bild genommen war, ging nicht. Er ging physikalisch nich
 
 Er atmete einmal aus, langsam, wie er bei langen Belichtungen ausatmete. Die Luft roch nach Pyrogallol. Der Hocker knackte, als sein Gewicht sich verlagerte. Die Platte in seinen Fingern war kühl und glatt, und seine Daumenkuppe fand den kleinen Grat am Rand, den jede Ostenfelder Platte hatte.
 
-Er nahm die Platte in die Fixierschale, ohne den Blick von der Decke zu nehmen. Als sie fixiert war, trug er sie an die Wand und hängte sie nicht auf, sondern lehnte sie gegen die Kante, mit dem Rücken zur Wand, das Glas nach vorn. Er ging den Keller ab.
+Er nahm die Platte in die Fixierschale, ohne den Blick von der Decke zu nehmen. Als sie fixiert war, trug er sie an die Wand. Statt sie aufzuhängen, lehnte er sie gegen die Kante, mit dem Rücken zur Wand, das Glas nach vorn. Er ging den Keller ab.
 
 Ecke für Ecke. Er schob das Regal rechts vom Tisch drei Finger von der Wand, sah dahinter, schob es zurück. Er hob die Öllampe von ihrem Haken, hielt sie in die linke Hand und ging unter die Balken, leuchtete jede Kerbe aus, jede Nagelstelle, die nicht mehr genutzt wurde. Die alte Eisenkralle an der Südbalken-Ecke, die schon da gewesen war, als er einzog, der rostige Haken über dem Rauchabzug, das kleine Loch im Putz an der Westwand, an dem jemand einmal einen Nagel falsch gesetzt hatte — er prüfte alles und stellte fest, dass keine dieser Stellen eine Linse trug, keine einen Draht, keine auch nur den Umriss dessen, was eine Apparatur gewesen sein könnte. Er prüfte den Rauchabzug, die zwei Lüftungsschlitze in Bodennähe, den kleinen Fensterschlitz an der Nordwand, der seit seinem Einzug zugenagelt war. Er prüfte ihn trotzdem. Die Nägel saßen. Der Putz war unberührt. Er schob den Hocker zur Seite, ging in die Knie und strich mit der Handfläche unter der Kante des Entwicklertischs entlang, links nach rechts, rechts nach links, bis seine Finger den Übergang von Holz zu Eisen an jedem Punkt kannten. Er stand wieder auf, hob die Emulsionskiste vom oberen Regal, sah in den Zwischenraum, stellte die Kiste zurück. Er zählte die Chemikalienflaschen nach Position. Die Positionen stimmten. Nichts hatte sich verschoben.
 
@@ -75,7 +75,7 @@ Bewusster Test, saubere Versuchsanordnung. Dritte Platte aus der Schachtel, nich
 
 Er schob die Platte in den Entwickler.
 
-Vier Minuten. Das Silber begann. Erst die Pfosten der Kaimauer, als dunkelste Fläche; dann das Wasser, in einem mittleren Grauwert, der nicht ganz ruhig war; dann das Licht über der Grauwe, nicht fotografisch scharf, eher wie eine Erinnerung an Licht, die sich an die Konturen gelegt hatte. Die Möwen fehlten. Er hatte sie gedacht, aber schwach, und das Silber nahm, was er wirklich hielt, nicht was er hätte halten wollen. Der Roststreifen am Anlegepfahl kam sauber. Er kannte jeden Millimeter davon.
+Vier Minuten. Das Silber begann. Erst die Pfosten der Kaimauer, als dunkelste Fläche; dann das Wasser, in einem mittleren Grauwert, der nicht ganz ruhig war; dann das Licht über der Grauwe, nicht fotografisch scharf, eher wie eine Erinnerung an Licht, die sich an die Konturen gelegt hatte. Die Möwen fehlten. Er hatte sie gedacht, aber schwach, und das Silber nahm, was er wirklich hielt, nicht was er hätte halten wollen. Der Roststreifen am Anlegepfahl kam sauber. Er kannte jede Linie davon.
 
 Er fixierte die Platte. Er lehnte sie gegen die erste und die zweite.
 
@@ -117,7 +117,7 @@ Er versuchte, es nicht zu denken.
 
 Er dachte es trotzdem.
 
-Der Gedanke kam nicht als Bild zuerst, sondern als ein Nachlassen — die Schultern, die er seit einer Stunde oben hielt, sanken einen halben Fingerbreit, und in den freigewordenen Raum fiel, was er seit der Druckseite des *Vaeler Anzeigers* nicht hineinließ, seit der Frau am Rand des Farnbildes, die er abgelegt hatte, ohne sie zu kennen. Alphina, wie sie stand, wenn niemand sie ansah. Alphina, wie sie aussah, wenn die Dunkelkammer leer war und die Nacht lang. Das Bild, das er sich selbst durch andere Gedanken gedeckt hatte — die drei Schemen auf der Mauer, die Nachtholm-Frage, der Schuldschein, den er ihr schuldete —, legte sich offen. Die Blende blieb offen.
+Der Gedanke kam zuerst als ein Nachlassen — die Schultern, die er seit einer Stunde oben hielt, sanken einen Fingerbreit, und in den freigewordenen Raum fiel, was er seit der Druckseite des *Vaeler Anzeigers* nicht hineinließ, seit der Frau am Rand des Farnbildes, die er abgelegt hatte, ohne sie zu kennen. Alphina, wie sie stand, wenn niemand sie ansah. Alphina, wie sie aussah, wenn die Dunkelkammer leer war und die Nacht lang. Das Bild, das er sich selbst durch andere Gedanken gedeckt hatte — die drei Schemen auf der Mauer, die Nachtholm-Frage, der Schuldschein, den er ihr schuldete —, legte sich offen. Die Blende blieb offen.
 
 Er nahm eine Platte aus der Schachtel. Siebte. Legte sie in den Entwickler.
 
@@ -129,11 +129,11 @@ Sie kam nicht schnell. Sie kam, wie sie kommen sollte, mit dem Vorlauf der Schat
 
 Sie lag. Auf der linken Seite, das Gewicht auf dem Unterarm, den Kopf ein wenig in die Hand gestützt, sodass das Haar über die Schulter fiel und eine dunkle Fläche neben dem Gesicht bildete, ein zweiter Körper aus Schwarz an ihrem Körper aus Hell. Das Licht kam von links oben, schräg, nicht hart — ein Fensterlicht, wie er es für einen Akt gewählt hätte, weil es die Übergänge weich machte und die Schatten nicht erschlug. Es fiel auf die Stirn, lief über den Jochbogen, fand das Grübchen über dem Schlüsselbein, sammelte sich in der Senke zwischen den Brüsten, zog dann weiter über die Linie der Rippen und verlor sich am Bauch in einem Grauwert, den er im Entwickler dreimal geprüft hätte, um sicherzugehen, dass er die Weichheit traf.
 
-Die Schulter, die oben lag, war frei. Die Rundung ging in den Oberarm, der Oberarm in den Ellbogen, der Ellbogen hielt die Pose. Die Brust, die oben lag, lag schwer, nicht gestellt, natürlich in dem Winkel, den der Körper ihr gab, wenn er nicht für ein Bild gestellt wurde. Die Brustwarze war ein dunkler Punkt im Mittelgrund, und er hatte ihn nicht hart gezeichnet, sondern weich, weil er sie so dachte, wenn er sie dachte. Die Taille lief in einer Linie, die keine Kamera je aufgenommen hätte, weil keine Kamera je so lange gehalten hätte. Die Hüfte ruhte, das eine Bein lag gestreckt, das andere leicht angewinkelt, sodass der Übergang von Oberschenkel zu Hüfte eine Kurve bildete, die er im Kopf getragen hatte, ohne sie je gesehen zu haben.
+Die Schulter, die oben lag, war frei. Die Rundung ging in den Oberarm, der Oberarm in den Ellbogen, der Ellbogen hielt die Pose. Die Brust, die oben lag, lag schwer, nicht gestellt, natürlich in dem Winkel, den der Körper ihr gab, wenn er nicht für ein Bild gestellt wurde. Die Brustwarze war ein dunkler Punkt im Mittelgrund, und er hatte ihn weich gezeichnet, weil er sie so dachte, wenn er sie dachte. Die Taille lief in einer Linie, die keine Kamera je aufgenommen hätte, weil keine Kamera je so lange gehalten hätte. Die Hüfte ruhte, das eine Bein lag gestreckt, das andere leicht angewinkelt, sodass der Übergang von Oberschenkel zu Hüfte eine Kurve bildete, die er im Kopf getragen hatte, ohne sie je gesehen zu haben.
 
-Ihr Gesicht war zu ihm gewendet. Nicht zum Betrachter — zu ihm. Die Augen waren halb geschlossen, die Lippen nicht gelächelt, leicht geöffnet, die Spannung um den Mund war die Spannung eines Menschen, der wusste, dass er angesehen wurde, und dem es gleich war. Sie hielt die Pose für ihn, weil er sie so gehalten hatte. Er hatte sie in Szene gesetzt, Licht und Winkel und Pose, jeder Millimeter eine Entscheidung, die er nicht bewusst getroffen hatte und die trotzdem seine war. Die Schicht hielt, was er gehalten hatte.
+Ihr Gesicht war zu ihm gewendet. Nicht zum Betrachter — zu ihm. Die Augen waren halb geschlossen, die Lippen nicht gelächelt, leicht geöffnet, die Spannung um den Mund war die Spannung eines Menschen, der wusste, dass er angesehen wurde, und dem es gleich war. Sie hielt die Pose für ihn, weil er sie so gehalten hatte. Er hatte sie in Szene gesetzt, Licht und Winkel und Pose, jede Linie eine Entscheidung, die er nicht bewusst getroffen hatte und die trotzdem seine war. Die Schicht hielt, was er gehalten hatte.
 
-Er nahm die Platte in das Fixierbad. Seine Hände waren kalt. Der Puls saß im Nacken, zu hoch.
+Er nahm die Platte in das Fixierbad. Seine Hände waren kalt. Sein Herz schlug bis in den Hals.
 
 Er hielt die Platte lange.
 
@@ -149,7 +149,7 @@ Er schloss den Keller zweimal ab, wie immer, aber er zog diesmal den Schlüssel 
 
 Am Hafen war die Kaimauer warm. Nicht heiß — warm in der Art, die Stein im Blütenmond gegen Abend trägt, wenn die Sonne den halben Tag drauf gestanden hat. Er ging bis zum Bollwerk, legte die Hand auf den Poller, der zuletzt in seinem Bild gestanden hatte, und schaute auf die Grauwe. Der Dunst oben am Himmel war dünner als sonst um diese Zeit. Drei Möwen lagen im Wind, eine am höchsten, die anderen tiefer, wie die Reihen in einem Chor. Das Wasser zwischen den Pollern war dunkler als die offene Fläche dahinter, wo das Licht einen breiten Streifen über die Grauwe legte. Er roch das Salz. Er roch Fisch, alt, aus den Reusen, die an der Kaiwand hingen. Er roch seine eigene Haut, die nach Pyrogallol roch, der Geruch saß unter den Fingernägeln.
 
-Irgendwo am Steg ging jemand, weit hinten. Der Gang. Die Schultern. Er dachte: sie. Es war nicht sie. Eine Frau mit zwei Fischkörben, die keine Fischkörbe trug wie Alphina einen Korb tragen würde, die den Kopf in einem Winkel hielt, den Alphina nicht hielt, die ein anderes Gesicht hatte, als sie näherkam. Er hatte trotzdem zu lang geschaut. Er sah es an sich selbst, an der Art, wie die Halsmuskulatur einen halben Schlag zu spät entspannte, als sein Kopf begriff, dass das Bild nicht stimmte. Die Fischfrau ging an ihm vorbei. Ihre Körbe dampften leicht, die Reste vom Fangwasser, eine Schuppe an ihrer Wange. Sie sah ihn nicht an.
+Irgendwo am Steg ging jemand, weit hinten. Der Gang. Die Schultern. Er dachte: sie. Es war nicht sie. Eine Frau mit zwei Fischkörben, die keine Fischkörbe trug wie Alphina einen Korb tragen würde, die den Kopf in einem Winkel hielt, den Alphina nicht hielt, die ein anderes Gesicht hatte, als sie näherkam. Er hatte trotzdem zu lang geschaut. Er sah es an sich selbst, an der Art, wie die Halsmuskulatur einen Augenblick zu spät entspannte, als sein Kopf begriff, dass das Bild nicht stimmte. Die Fischfrau ging an ihm vorbei. Ihre Körbe dampften leicht, die Reste vom Fangwasser, eine Schuppe an ihrer Wange. Sie sah ihn nicht an.
 
 Die Übelkeit blieb.
 
@@ -169,6 +169,6 @@ Die Tür zum Lichthaus fiel hinter ihm zu. Er stieg die Treppe in den Keller, dr
 
 Die Schublade lag, wie er sie gelassen hatte. Auf Anschlag. Nicht abgeschlossen.
 
-Er stand davor. Er hob die rechte Hand. Der Holzkeil saß auf seiner Achse, zwei Fingerbreit vom Rand der Schublade, und er brauchte einen halben Handgriff, um ihn zu drehen. Er sah seine Finger, wie sie sich auf den Keil zubewegten. Er sah, wie sie stehenblieben, drei Fingerbreit davor.
+Er stand davor. Er hob die rechte Hand. Der Holzkeil saß auf seiner Achse, zwei Fingerbreit vom Rand der Schublade, und ein Handgriff hätte gereicht, um ihn zu drehen. Er sah seine Finger, wie sie sich auf den Keil zubewegten. Er sah, wie sie stehenblieben, drei Fingerbreit davor.
 
 Er zog die Hand zurück.
