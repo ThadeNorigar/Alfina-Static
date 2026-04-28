@@ -20,7 +20,7 @@ Henrik kam um die Hortensie, Gießkrug in beiden Händen, die Brille vorn auf de
 
 "Schwer zu sagen. Irgendwas stimmt mit dem Wuchs nicht. Vielleicht siehst du's." Er tippte an die Mütze und ging zurück zum Treibhaus.
 
-Alphina blieb knien. Der Lavendelstängel in ihrer Hand war warm, der Schnittgeruch grün und scharf. Sie legte den Stängel ab und richtete sich halb auf, um die Knie zu entlasten.
+Alphina blieb knien. Der Lavendelstängel in ihrer Hand war warm, der Schnittgeruch grün und scharf. Sie legte den Stängel ab und kam ein Stück hoch, um die Knie zu entlasten.
 
 Schritte auf dem Kies. Leichter als Henriks, schneller, ohne Schleifen. Alphina drehte sich um.
 
@@ -93,7 +93,7 @@ Alphina ging seit Wochen an den Hafen, wenn die Arbeit im Garten getan war. Kein
 
 Sorel war am Steg.
 
-Sie sah ihn bevor er sie sah — oder bevor er so tat als ob. Er stand am dritten Steg-Abschnitt, Stativ, die Kamera auf die Grauwe gerichtet. Seinen Rücken kannte sie jetzt. Schultern leicht nach vorne gezogen, der Kopf ein Stück geneigt, die linke Hand am Stativbein — ohne Verband, die Haut am Handrücken glatt und verheilt, die Brandwunde in drei Tagen verschwunden. Die rechte an der Kamera, festhaltend, obwohl die Kamera fest stand. Vor dem Auslösen hielt er den Atem an, die Schultern wurden starr, eine halbe Sekunde Stille in der ganzen Gestalt. Dann das Klicken, kurz, mechanisch, über das Wasser tragend.
+Sie sah ihn bevor er sie sah — oder bevor er so tat als ob. Er stand am dritten Steg-Abschnitt, Stativ, die Kamera auf die Grauwe gerichtet. Seinen Rücken kannte sie jetzt. Schultern leicht nach vorne gezogen, der Kopf ein Stück geneigt, die linke Hand am Stativbein — ohne Verband, die Haut am Handrücken glatt und verheilt, die Brandwunde in drei Tagen verschwunden. Die rechte an der Kamera, festhaltend, obwohl die Kamera fest stand. Vor dem Auslösen hielt er den Atem an, die Schultern wurden starr, ein Augenblick Stille in der ganzen Gestalt. Dann das Klicken, kurz, mechanisch, über das Wasser tragend.
 
 In der Hafengasse hatte sie diesen Rücken zum ersten Mal bewusst gelesen. Er war neben ihr gegangen, hatte über die Gestalten gesprochen, und sie hatte ihm die Frage gestellt, die er nicht beantwortet hatte. *Sie sehen mich an, als ob Sie mich schon länger kennen als drei Tage.* Sein Ausweichen war keine Verlegenheit gewesen. Eine verschlossene Tür.
 
@@ -113,7 +113,7 @@ Sein Mund blieb geschlossen. Ihrer auch. Die Grauwe hinter ihm stand still, eine
 
 Die Grauwe hinter ihm war grau und reglos.
 
-Ihre Füße reagierten nicht sofort. Eine halbe Sekunde, in der ihr Körper etwas anderes wollte als ihr Kopf — die Wärme in den Handflächen. Dann griffen die Sohlen auf den Planken und sie drehte sich um.
+Ihre Füße reagierten nicht sofort. Einen Augenblick lang, in dem ihr Körper etwas anderes wollte als ihr Kopf — die Wärme in den Handflächen. Dann griffen die Sohlen auf den Planken und sie drehte sich um.
 
 Nicht schnell. Nicht langsam. Sie drehte sich um und ging den Steg zurück, die feuchten Planken unter den Sohlen, den Nebel im Gesicht. Die Holzdielen gaben unter ihren Schritten nach, ein leises federndes Schwanken, das sie an den Steg in Velde erinnerte. Das sie nicht an den Steg in Velde erinnern wollte. Ihre Schritte waren gleichmäßig. Sie hörte sich selbst gehen, hörte, dass hinter ihr kein Schritt folgte. Kein Ruf. Kein Gruß der nachkam.
 
@@ -147,7 +147,7 @@ Die Gestalt stand still. Alphina stand still. Zwischen ihnen das Pflaster, nass,
 
 Dann neigte sie den Kopf.
 
-Nicht reflexartig. Langsam. Der Kopf kippte zur Seite, schwer, träge, und blieb. Die Bewegung eines Wesens, das etwas hörte und auf die Antwort wartete. Keine Tierregung, kein Zucken — eine Geste.
+Langsam. Der Kopf kippte zur Seite, schwer, träge, und blieb. Die Bewegung eines Wesens, das etwas hörte und auf die Antwort wartete. Keine Tierregung, kein Zucken — eine Geste.
 
 Alphinas Hände zitterten. Nicht vor Kälte. Die Kälte war im Brustkorb, dort wo die Tür saß, die sich selten öffnete. Sie war aufgegangen. Was dahinter lag, stand still. Ihre Finger schlossen sich um den Mantelstoff.
 
