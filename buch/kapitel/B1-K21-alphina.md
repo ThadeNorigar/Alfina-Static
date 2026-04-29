@@ -4,7 +4,7 @@
 
 Die Treppe zum Lichthaus roch nach Salz und Teer, und der Wind drückte gegen die Tür im Rahmen, dass das Holz leise in seinen Angeln arbeitete. Alphina ging nicht durch die Haupttür. Sie ging um das Gebäude, den schmalen Weg entlang, zu den Stufen, die zur Kellertür hinabführten. Sie war die Stufen einmal hinuntergegangen, vor fünf Tagen, um zu klopfen — heute wollte sie nicht klopfen. Das Vordach über der Tür war halb überwachsen von einem Netz Efeu, das hier nicht wachsen sollte und trotzdem stand. Sie kannte die Wuchsform. Hedera helix, die den Nordrand suchte, wo die Feuchtigkeit hielt.
 
-Gestern hatten sich seine Finger durch den Wollstoff ihres Ärmels um ihren Ellbogen geschlossen, fünf Punkte Druck durch das Gewebe, der Daumen in der Kerbe über dem Gelenk. Er hatte sie zwei Schritte zurückgezogen, bevor ihr Kopf den Zug verstand. Nach dem Kampf hatte die Hand einen halben Atemzug zu lang gewartet, dann war sie abrupt weg, als hätte er sich verbrannt.
+Gestern hatten sich seine Finger durch den Wollstoff ihres Ärmels um ihren Ellbogen geschlossen, fünf Punkte Druck durch das Gewebe, der Daumen in der Kerbe über dem Gelenk. Er hatte sie zwei Schritte zurückgezogen, bevor ihr Kopf den Zug verstand. Nach dem Kampf hatte die Hand einen Atemzug zu lang gewartet, dann war sie abrupt weg, als hätte er sich verbrannt.
 
 Sie stieg die Stufen hinab. Die Klinke gab nach. Die Tür war nicht abgeschlossen. Die Angeln waren geölt. Dahinter ein kurzer Gang, und ein Geruch nach Chemie, der schon hier oben stand. Entwickler. Fixierer. Etwas Scharf-Süßes das sie nicht kannte.
 
@@ -72,7 +72,7 @@ Sie sagte es ohne die Stimme zu heben. Sie sah ihn nicht an. Sie sah auf die Pla
 
 Er antwortete nicht.
 
-Sie legte die Platte zurück auf die Leine, ohne die Klammer zu benutzen, und drehte sich um. Er stand einen halben Schritt von ihr entfernt. Näher als er gestanden hatte, als sie hereingekommen war. Sie hatte ihn nicht kommen hören — die Dielen waren mit Fixierer getränkt und schluckten Schritte. Im Rotlicht waren seine Augen fast schwarz, die Pupillen weit. Um den Mund stand eine harte Linie, die sie in seinem Gesicht bis jetzt nicht gekannt hatte.
+Sie legte die Platte zurück auf die Leine, ohne die Klammer zu benutzen, und drehte sich um. Er stand einen Schritt von ihr entfernt. Näher als er gestanden hatte, als sie hereingekommen war. Sie hatte ihn nicht kommen hören — die Dielen waren mit Fixierer getränkt und schluckten Schritte. Im Rotlicht waren seine Augen fast schwarz, die Pupillen weit. Um den Mund stand eine harte Linie, die sie in seinem Gesicht bis jetzt nicht gekannt hatte.
 
 "Warum siehst du mich so an?"
 
@@ -144,7 +144,7 @@ Sie stand still.
 
 "Ich weiß."
 
-Das Rotlicht lag auf seiner Wange, auf der Kante seines Kiefers, auf einer Stelle unter seinem Ohr wo der Hemdkragen die Haut nicht ganz bedeckte. Sie sah die Stelle. Sie sah sie gegen ihren Willen. Ihr Körper erinnerte sich, ohne dass sie es erlaubt hatte — an gestern, an den Griff um ihren Ellbogen, an den halben Atemzug bevor er sie hatte losgelassen, an die Wärme die von seiner Hand durch ihren Mantel gegangen war und die sie nicht gewollt hatte und die trotzdem geblieben war, den ganzen Tag, bis heute Morgen, bis jetzt.
+Das Rotlicht lag auf seiner Wange, auf der Kante seines Kiefers, auf einer Stelle unter seinem Ohr wo der Hemdkragen die Haut nicht ganz bedeckte. Sie sah die Stelle. Sie sah sie gegen ihren Willen. Ihr Körper erinnerte sich, ohne dass sie es erlaubt hatte — an gestern, an den Griff um ihren Ellbogen, an den Atemzug bevor er sie hatte losgelassen, an die Wärme die von seiner Hand durch ihren Mantel gegangen war und die sie nicht gewollt hatte und die trotzdem geblieben war, den ganzen Tag, bis heute Morgen, bis jetzt.
 
 In den Handflächen wuchs etwas. Nicht als Bild, nicht als Gedanke. Als Druck unter der Haut, als ein Ziehen in den Sehnen, wie wenn eine Wurzel nach einer Spalte sucht und sie findet.
 
@@ -170,11 +170,11 @@ Sie hasste, was er getan hatte. Sie wollte, was er getan hatte. Ihre Kiefermuske
 
 Sie entschied nicht.
 
-Ihre Hand bewegte sich bevor ihr Kopf es erlaubte. Sie legte die Finger um sein Handgelenk — dieselbe Hand, die gestern ihren Ellbogen gefunden hatte, die linke, die verheilt war. Die Haut war warm. Der Puls ging schnell. Sie spürte ihn unter den Fingerkuppen und in den eigenen Ohren gleichzeitig, und irgendwo in diesem Mischton hörte sie ihren Kopf aufhören zu arbeiten.
+Ihre Hand bewegte sich bevor ihr Kopf es erlaubte. Sie legte die Finger um sein Handgelenk — dieselbe Hand, die gestern ihren Ellbogen gefunden hatte, die linke, die verheilt war. Die Haut war warm. Sein Pochen ging schnell. Sie spürte es unter den Fingerkuppen und in den eigenen Ohren gleichzeitig, und irgendwo in diesem Mischton hörte sie ihren Kopf aufhören zu arbeiten.
 
 Sie zog ihn zu sich.
 
-Sein anderer Arm fand ihre Hüfte, durch den Mantel hindurch, fest, ohne zu fragen — und doch fragend, weil die Hand einen Moment zu lang wartete, einen halben Atemzug, eine winzige Hohlstelle im Griff, in der sie hätte Nein sagen können. Sie sagte nicht Nein. Sie schob den Mantel selbst von der Schulter, ungeduldig, weil der Mantel zwischen ihnen war, und er half ihr, beide Ärmel gleichzeitig, und der Stoff fiel auf die Dielen wie etwas das sie nicht mehr brauchte.
+Sein anderer Arm fand ihre Hüfte, durch den Mantel hindurch, fest, ohne zu fragen — und doch fragend, weil die Hand einen Moment zu lang wartete, einen Atemzug, eine winzige Hohlstelle im Griff, in der sie hätte Nein sagen können. Sie sagte nicht Nein. Sie schob den Mantel selbst von der Schulter, ungeduldig, weil der Mantel zwischen ihnen war, und er half ihr, beide Ärmel gleichzeitig, und der Stoff fiel auf die Dielen wie etwas das sie nicht mehr brauchte.
 
 Seine Lippen waren warm. Sie schmeckten nach dem Fixierer der an seinen Fingerspitzen saß, nach Kaffee der vor Stunden getrunken worden war, nach etwas Eigenem, das sie nicht kannte. Sie biss, leicht, an die Unterlippe, und er machte ein Geräusch in der Kehle das nicht Wort war, das sie mit der Zunge schmeckte, warm, kurz.
 
@@ -184,11 +184,11 @@ Das Rotlicht wurde weicher. Nicht weniger — anders. Er hatte etwas getan, sie 
 
 Sie hörte auf die Welt zu sortieren. Keine Farne, kein Wachstum, keine Rhizome — nur Haut und Atem und der Geschmack seines Halses auf ihrer Zunge, salzig, mit Chemie, mit ihm.
 
-Die Hand, die gestern ihren Ellbogen gefunden hatte, fand jetzt ihre Handgelenke. Anderer Griff, dieselbe Mitte. Jetzt kein Kampf, jetzt kein Ziehen. Jetzt eine Frage, und die Frage hieß: *hier?* Und sie sagte Ja mit den Hüften, weil der Mund anderes zu tun hatte. Er drückte die Handgelenke einen halben Zoll gegen die Arbeitsfläche, prüfend, ob der Griff zu fest saß, und sie löste eine Hand, nur um sie zurückzulegen — ihre Wahl, seine Hand, derselbe Punkt.
+Die Hand, die gestern ihren Ellbogen gefunden hatte, fand jetzt ihre Handgelenke. Anderer Griff, dieselbe Mitte. Jetzt kein Kampf, jetzt kein Ziehen. Jetzt eine Frage, und die Frage hieß: *hier?* Und sie sagte Ja mit den Hüften, weil der Mund anderes zu tun hatte. Er drückte die Handgelenke einen Zoll gegen die Arbeitsfläche, prüfend, ob der Griff zu fest saß, und sie löste eine Hand, nur um sie zurückzulegen — ihre Wahl, seine Hand, derselbe Punkt.
 
-Sein Atem an ihrem Ohr. Sein Name in ihrem Mund, und sie merkte erst danach dass sie ihn ausgesprochen hatte. Er antwortete mit einem Laut der kein Wort wollte. Seine andere Hand fand den Saum ihres Rockes, hielt inne, zog nicht sofort. Sie hob das Becken von der Arbeitsfläche weg, ein halbes Maß, und das war die ganze Antwort. Der Stoff gab nach. Die Emaille war kalt an den Schulterblättern. Die Wärme seiner Handfläche an ihrem Oberschenkel hielt.
+Sein Atem an ihrem Ohr. Sein Name in ihrem Mund, und sie merkte erst danach dass sie ihn ausgesprochen hatte. Er antwortete mit einem Laut der kein Wort wollte. Seine andere Hand fand den Saum ihres Rockes, hielt inne, zog nicht sofort. Sie hob das Becken von der Arbeitsfläche weg, ein wenig, und das war die ganze Antwort. Der Stoff gab nach. Die Emaille war kalt an den Schulterblättern. Die Wärme seiner Handfläche an ihrem Oberschenkel hielt.
 
-Er fand sie mit den Fingern zuerst, langsam. Ihr Atem stolperte. Sie wuchs ihm entgegen, und das überraschte sie. Das Licht folgte seiner Hand. Salz auf ihrer Oberlippe. Sein Daumen an der Innenseite ihrer Schenkel. Ihr Puls überall gleichzeitig.
+Er fand sie mit den Fingern zuerst, langsam. Ihr Atem stolperte. Sie wuchs ihm entgegen, und das überraschte sie. Das Licht folgte seiner Hand. Salz auf ihrer Oberlippe. Sein Daumen an der Innenseite ihrer Schenkel. Ihr Pochen überall gleichzeitig.
 
 Als er in sie drang, sog sie die Luft hart zwischen den Zähnen ein. Ihre Finger fanden die Kante seiner Schulter und blieben dort.
 
@@ -222,7 +222,7 @@ Er kam kurz nach ihr. Sein Atem brach in ihrem Hals, ihr Name dumpf an ihrer Sch
 
 Danach war das Rotlicht wieder nur Rotlicht.
 
-Sie lag auf seinem Mantel, den er irgendwann zwischen ihr und den Dielen geschoben hatte. Sein Hemd war offen, das Hemd unter seinem Hemd auch, und ihre Wange lag an seiner Brust, wo die Haut warm war und der Herzschlag langsamer wurde, Atemzug um Atemzug, bis er ihren Puls fand und mit ihm lief.
+Sie lag auf seinem Mantel, den er irgendwann zwischen ihr und den Dielen geschoben hatte. Sein Hemd war offen, das Hemd unter seinem Hemd auch, und ihre Wange lag an seiner Brust, wo die Haut warm war und der Herzschlag langsamer wurde, Atemzug um Atemzug, bis er ihren Schlag fand und mit ihm lief.
 
 Die Farne standen an den Kellerwänden, ein Dutzend Wedel durch Putz und Stein, grün im Rotlicht und deshalb braun, fast schwarz. Sie zitterten nicht. Sie standen, als hätten sie immer dort gestanden. Zwei hatten den Putz so weit aufgebrochen, dass darunter der Purpurstein sichtbar wurde, feucht, dunkel. Er gab Wärme ab. Sie hatte sie auf ihrem Rücken gespürt, als er sie gegen die Arbeitsfläche drückte — jetzt konnte sie sie zuordnen.
 
