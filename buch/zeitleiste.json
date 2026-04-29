@@ -204,6 +204,30 @@
     "sync": {
       "label": "Synchronisation",
       "farbe": "#c8bfb0"
+    },
+    "ankunft": {
+      "label": "Ankunft",
+      "farbe": "#7a8b3c"
+    },
+    "welterklaerung": {
+      "label": "Welterklärung",
+      "farbe": "#5b7da3"
+    },
+    "weltreise": {
+      "label": "Reise",
+      "farbe": "#a07a4a"
+    },
+    "alltag": {
+      "label": "Alltag",
+      "farbe": "#8a8a7a"
+    },
+    "intim": {
+      "label": "Intim",
+      "farbe": "#a8456c"
+    },
+    "BDSM": {
+      "label": "BDSM",
+      "farbe": "#8b3a5a"
     }
   },
   "events": [
@@ -2198,12 +2222,12 @@
       "tz_sort": 551.93,
       "tz_datum": "9. Dunkelmond 551 TZ · Vael · Epilog",
       "welt": "thalassien",
-      "pov": "Nebencharaktere (Halvard, Tohl, Edric, Jara)",
+      "pov": "Nebencharaktere (Jara, Halvard, Tohl, Edric, Esther)",
       "buch": "B1",
       "kapitel": "40",
       "leseart": "normal",
-      "titel": "Vael ohne die Fünf -- Varens Spuren verschwinden",
-      "detail": "Schemen verschwinden schlagartig — Varens Inszenierungen enden. Aber kleinere Anomalien bleiben: Wasser fließt ungewoehnlich, Uhren gehen falsch, Tidemoor-Uhr kaputt, Farne im Garten wachsen weiter. Die Riss-Quelle sickert weiter. Halvard schreibt seinen Bericht — das einzige schriftliche Zeugnis. Jara archiviert Runas Flugblaetter. Das Boot wartet, drei Viertel fertig.",
+      "titel": "Vael ohne die Fünf — Jara dokumentiert das Konvolut",
+      "detail": "Vael nach Portal-Schließung. Mini-POVs als Closure: Esther vor dem toten Riss (Steinkreis kalt, kein Pochen). Edric an der Werft — das Boot ist fertig (Maren hat es vor dem Aufbruch abgeschlossen, vertäut im Hafen). Tohl an der Grauwe (Wasser fließt vorwärts, Fischfang normal). Jara dokumentiert in Zusammenarbeit mit Halvard, Tohl, Edric, Esther ein Zeugen-Konvolut — sachlich, mehrere Stimmen. Sie archiviert es zusammen mit Runas Flugblättern und Lenes (überschriebenem) Manuskript im Rathauskeller. Schemen verschwinden schlagartig. Aber kleinere Anomalien bleiben: Wasser fließt ungewöhnlich, Uhren gehen falsch, Tidemoor-Uhr kaputt, Farne wachsen weiter — die Riss-Quelle sickert weiter.",
       "typen": [
         "schlüssel"
       ],
