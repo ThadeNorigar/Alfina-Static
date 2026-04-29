@@ -2213,7 +2213,7 @@
       "kapitel_status": "szenenplan"
     },
     {
-      "mz": 0.05,
+      "mz": 0.0,
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B2",
@@ -2229,13 +2229,13 @@
         "Stille-Welt",
         "Wasserweg-Riss"
       ],
-      "tz": 553,
-      "tz_sort": 552.66,
-      "tz_datum": "MZ 0.05 · TZ 553",
+      "tz": 552,
+      "tz_sort": 552.0,
+      "tz_datum": "MZ 0.00 · TZ 552",
       "kapitel_status": "idee"
     },
     {
-      "mz": 0.1,
+      "mz": 0.07,
       "welt": "moragh",
       "pov": "Vesper",
       "buch": "B2",
@@ -2252,13 +2252,13 @@
         "Schemen-als-Arbeiter",
         "Quell-Verstaerkung"
       ],
-      "tz": 554,
-      "tz_sort": 554.33,
-      "tz_datum": "MZ 0.10 · TZ 554",
+      "tz": 556,
+      "tz_sort": 556.0,
+      "tz_datum": "MZ 0.07 · TZ 556",
       "kapitel_status": "idee"
     },
     {
-      "mz": 0.3,
+      "mz": 0.14,
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B2",
@@ -2274,13 +2274,13 @@
         "Schemen-Lore",
         "Sprache"
       ],
-      "tz": 561,
-      "tz_sort": 561.0,
-      "tz_datum": "MZ 0.30 · TZ 561",
+      "tz": 560,
+      "tz_sort": 560.0,
+      "tz_datum": "MZ 0.14 · TZ 560",
       "kapitel_status": "idee"
     },
     {
-      "mz": 0.4,
+      "mz": 0.21,
       "welt": "moragh",
       "pov": "Vesper",
       "buch": "B2",
@@ -2299,11 +2299,11 @@
       ],
       "tz": 564,
       "tz_sort": 564.0,
-      "tz_datum": "MZ 0.40 · TZ 564",
+      "tz_datum": "MZ 0.21 · TZ 564",
       "kapitel_status": "idee"
     },
     {
-      "mz": 0.45,
+      "mz": 0.28,
       "welt": "moragh",
       "pov": "Maren",
       "buch": "B2",
@@ -2319,9 +2319,103 @@
         "Narthek",
         "Elke-Erstkontakt"
       ],
-      "tz": 565,
-      "tz_sort": 565.0,
-      "tz_datum": "MZ 0.45 · TZ 565",
+      "tz": 568,
+      "tz_sort": 568.0,
+      "tz_datum": "MZ 0.28 · TZ 568",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 0.35,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "06",
+      "leseart": "normal",
+      "titel": "Elke — Akt-I-Schluss",
+      "detail": "Volles Elke-Kapitel. Sie hilft mit Geld, beschafft Quartier. Knapp zwölf Moragh-Monate hier — vierhundert Thalassien-Jahre. Die Vier sind zwei Moragh-Monate hier — »bei euch sind sechsundsechzig Jahre vergangen.« Welt-Mechanik (Quellen, Fraktionen, Krieg). Sie nimmt Runas Hand: »Feuer-Resonanz. Schwach, aber da.« Varen-Beat: Velmar-Forscher in den Grenzlanden, vor langer Zeit Experiment, Quellen tot. Elke hat ihm das alte Thalassisch beigebracht. »Er ist gefährlich.«",
+      "typen": [
+        "erkenntnis",
+        "tschechow",
+        "welterklaerung"
+      ],
+      "tags": [
+        "Elke-Erzählung",
+        "66-Jahre-Schock",
+        "Varen-erstmals-erwähnt",
+        "Akt-I-Schluss"
+      ],
+      "tz": 572,
+      "tz_sort": 572.0,
+      "tz_datum": "MZ 0.35 · TZ 572",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 0.42,
+      "welt": "moragh",
+      "pov": "Vesper",
+      "buch": "B2",
+      "kapitel": "07",
+      "leseart": "normal",
+      "titel": "Thar-Angriff Narthek",
+      "detail": "Akt-II-Auftakt. Thar-Angriff auf Narthek — bevor Elke fertig erklären kann. Vesper sieht Nyr auf dem Schlachtfeld, erste Magitech-Sichtung (40-Tonnen-Bestien gegen Bund-Rufer, Druck-Wellen brechen Türme). Brutal, blutig, dystopisch. Magitech als überlegene Tech sichtbar. Narthek fällt. Sie werden von Elke getrennt im Chaos. Flucht mit Bewohnern Richtung Westen.",
+      "typen": [
+        "begegnung",
+        "tschechow"
+      ],
+      "tags": [
+        "Thar-Angriff",
+        "Magitech",
+        "Nyr-erste-Sichtung",
+        "Elke-getrennt"
+      ],
+      "tz": 576,
+      "tz_sort": 576.0,
+      "tz_datum": "MZ 0.42 · TZ 576",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 0.49,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "08",
+      "leseart": "normal",
+      "titel": "Flucht-Marsch nach Halvaren",
+      "detail": "Flucht Narthek → Dulkara → Halvek → Halvaren. Alphina heilt Flüchtlinge unterwegs (Pflanzen-Substrate), Runa kocht Essen, Maren Wasser. Tausch gegen Reitschemen + fremde Früchte mit anderen Rufern. Halvaren als Ziel: große Stadt (kann Flüchtlinge tragen), große Bibliothek (Varen-Nachforschungen).",
+      "typen": [
+        "weltreise"
+      ],
+      "tags": [
+        "Flucht",
+        "Halvaren-Wahl",
+        "Alphina-Heilerin"
+      ],
+      "tz": 580,
+      "tz_sort": 580.0,
+      "tz_datum": "MZ 0.49 · TZ 580",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 0.56,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "09",
+      "leseart": "normal",
+      "titel": "Ankunft Halvaren — Talven",
+      "detail": "Erste ruhige Nacht seit zwei Monaten. Unterkunft auf Brachland am Rand: Alphina lässt Holzpflanzen und essbare Früchte wachsen, Maren formt einen Brunnen, Vesper beschleunigt das Wachstum mit Zeit-Resonanz — eine Hütte in Stunden. Runa Feuer zum Kochen. Bund-Älteste empfängt sie. Talven taucht auf — Bund-Lehrling, charming, »Lachen zu groß für sein Gesicht«.",
+      "typen": [
+        "ankunft",
+        "begegnung"
+      ],
+      "tags": [
+        "Halvaren",
+        "Talven-Erstkontakt",
+        "Hütte-gewachsen"
+      ],
+      "tz": 584,
+      "tz_sort": 584.0,
+      "tz_datum": "MZ 0.56 · TZ 584",
       "kapitel_status": "idee"
     },
     {
@@ -2346,7 +2440,121 @@
       "kapitel_status": ""
     },
     {
-      "mz": 1.25,
+      "mz": 0.63,
+      "welt": "moragh",
+      "pov": "Maren",
+      "buch": "B2",
+      "kapitel": "10",
+      "leseart": "normal",
+      "titel": "Vesper + Maren — BDSM",
+      "detail": "Erste Nacht für sich seit Vael. Vesper fesselt sie, knebelt sie. Sie formt einen Wasser-Dildo, fickt sich damit selbst, während er zusieht. Er penetriert sie anal und nutzt Zeit-Modulation, um den Wasser-Dildo an ihrer Klitoris vibrieren zu lassen. Réage-Register, Care-Beats. Halvaren-Quartier, fremde Welt, ihre Verbindung als Konstante.",
+      "typen": [
+        "intim",
+        "BDSM"
+      ],
+      "tags": [
+        "Vesper-Maren-BDSM",
+        "Wasser-Dildo",
+        "Zeit-Modulation"
+      ],
+      "tz": 588,
+      "tz_sort": 588.0,
+      "tz_datum": "MZ 0.63 · TZ 588",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 0.7,
+      "welt": "moragh",
+      "pov": "Maren",
+      "buch": "B2",
+      "kapitel": "11",
+      "leseart": "normal",
+      "titel": "Halvaren — Wochen, Zweifel, Wasserweg",
+      "detail": "Wochen in Halvaren. Sprache vertieft. Erste soziale Ungerechtigkeiten sichtbar: Magier essen, Diener nicht; Hierarchie über Reservoir-Größe. Nach Monaten Magie-Überraschung kommen Zweifel. Maren erinnert an den Wasserweg — sie haben jetzt Jahrzehnte zuhause verloren. Alphina: nicht ohne Varen.",
+      "typen": [
+        "erkenntnis"
+      ],
+      "tags": [
+        "Halvaren",
+        "Zweifel",
+        "Maren-Wasserweg-Erinnerung"
+      ],
+      "tz": 592,
+      "tz_sort": 592.0,
+      "tz_datum": "MZ 0.70 · TZ 592",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 0.77,
+      "welt": "moragh",
+      "pov": "Runa",
+      "buch": "B2",
+      "kapitel": "12",
+      "leseart": "normal",
+      "titel": "Magie-Arbeit",
+      "detail": "Sie verdienen, integrieren sich. Runa in der Schmiede (formt Metall ohne Ofen, Buchstaben-Typen für eine Halvaren-Druckerei). Alphina in der Heilstätte (Wundheilung über Pflanzen-Substrate, Wachstum auf Feldern; lässt fremde essbare Früchte/Knollen/Wurzeln wachsen — sie erkennt was essbar ist). Maren am Aquädukt. Vesper in der Bibliothek (Mathematik, alte Karten, Spuren von Varen).",
+      "typen": [
+        "alltag"
+      ],
+      "tags": [
+        "Magie-Arbeit",
+        "Runa-Schmiede",
+        "Alphina-Heilung",
+        "essbare-Pflanzen"
+      ],
+      "tz": 596,
+      "tz_sort": 596.0,
+      "tz_datum": "MZ 0.77 · TZ 596",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 0.84,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "13",
+      "leseart": "normal",
+      "titel": "Elke wiedergetroffen — Varen",
+      "detail": "Elke wiedergetroffen in Halvaren — sie hat sich auch hierher gerettet, wohnt in einem Flüchtlings-Quartier. Erzählt zu Ende was in Narthek unterbrochen war: Varens Geschichte. Velmar-Forscher Mar-Keth, vor Jahren das Leylinien-Experiment, drei Quellen tot, ~200.000 Heimatlose. Velmar hat ihn verdeckt ausgestoßen, andere Fraktionen wissen nichts. Elke kennt ihn persönlich (sie hat ihm das alte Thalassisch beigebracht). Alphinas Hass formt sich neu — Name, Geschichte, Ziel.",
+      "typen": [
+        "erkenntnis",
+        "tschechow"
+      ],
+      "tags": [
+        "Elke-Wiedertreffen",
+        "Varen-Hintergrund",
+        "Mar-Keth-Experiment",
+        "Alphinas-Ziel"
+      ],
+      "tz": 600,
+      "tz_sort": 600.0,
+      "tz_datum": "MZ 0.84 · TZ 600",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 0.91,
+      "welt": "moragh",
+      "pov": "Runa",
+      "buch": "B2",
+      "kapitel": "14",
+      "leseart": "normal",
+      "titel": "Runas zweisprachige Druckerpresse in Halvaren",
+      "detail": "Runa gründet eine kleine Druckerei in Halvaren — Moragh-Papier, thalassische Lettern, die sie in Moragh-Metall aus der Hand gegossen hat. Sie druckt zweisprachige Flugblätter, dokumentiert, was der Bund-Älteste nicht verbreiten will.",
+      "typen": [
+        "hintergrund",
+        "tschechow"
+      ],
+      "tags": [
+        "Druckerpresse",
+        "Halvaren"
+      ],
+      "tz": 604,
+      "tz_sort": 604.0,
+      "tz_datum": "MZ 0.91 · TZ 604",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 1.05,
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B2",
@@ -2362,34 +2570,9 @@
         "Farb-Kippe",
         "grün → schwarz/rot"
       ],
-      "tz": 593,
-      "tz_sort": 592.6666666666666,
-      "tz_datum": "MZ 1.25 · TZ 593",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 0.5,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B2",
-      "kapitel": "06",
-      "leseart": "normal",
-      "titel": "Elke — Akt-I-Schluss",
-      "detail": "Volles Elke-Kapitel. Sie hilft mit Geld, beschafft Quartier. Knapp zwölf Moragh-Monate hier — vierhundert Thalassien-Jahre. Die Vier sind zwei Moragh-Monate hier — »bei euch sind sechsundsechzig Jahre vergangen.« Welt-Mechanik (Quellen, Fraktionen, Krieg). Sie nimmt Runas Hand: »Feuer-Resonanz. Schwach, aber da.« Varen-Beat: Velmar-Forscher in den Grenzlanden, vor langer Zeit Experiment, Quellen tot. Elke hat ihm das alte Thalassisch beigebracht. »Er ist gefährlich.«",
-      "typen": [
-        "erkenntnis",
-        "tschechow",
-        "welterklaerung"
-      ],
-      "tags": [
-        "Elke-Erzählung",
-        "66-Jahre-Schock",
-        "Varen-erstmals-erwähnt",
-        "Akt-I-Schluss"
-      ],
-      "tz": 617,
-      "tz_sort": 617.0,
-      "tz_datum": "MZ 0.50 · TZ 617",
+      "tz": 612,
+      "tz_sort": 612.0,
+      "tz_datum": "MZ 1.05 · TZ 612",
       "kapitel_status": "idee"
     },
     {
@@ -2414,142 +2597,7 @@
       "kapitel_status": ""
     },
     {
-      "mz": 0.55,
-      "welt": "moragh",
-      "pov": "Vesper",
-      "buch": "B2",
-      "kapitel": "07",
-      "leseart": "normal",
-      "titel": "Thar-Angriff Narthek",
-      "detail": "Akt-II-Auftakt. Thar-Angriff auf Narthek — bevor Elke fertig erklären kann. Vesper sieht Nyr auf dem Schlachtfeld, erste Magitech-Sichtung (40-Tonnen-Bestien gegen Bund-Rufer, Druck-Wellen brechen Türme). Brutal, blutig, dystopisch. Magitech als überlegene Tech sichtbar. Narthek fällt. Sie werden von Elke getrennt im Chaos. Flucht mit Bewohnern Richtung Westen.",
-      "typen": [
-        "begegnung",
-        "tschechow"
-      ],
-      "tags": [
-        "Thar-Angriff",
-        "Magitech",
-        "Nyr-erste-Sichtung",
-        "Elke-getrennt"
-      ],
-      "tz": 619,
-      "tz_sort": 619.0,
-      "tz_datum": "MZ 0.55 · TZ 619",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 2.05,
-      "welt": "moragh",
-      "pov": "Varen",
-      "buch": "B2",
-      "kapitel": "I4",
-      "leseart": "interludium",
-      "titel": "Varen beobachtet aus der Distanz",
-      "detail": "Varen schickt Schemen als Späher. Sie berichten: die Thalassier sind beim Bund angekommen. An seiner Wand drei tote Quellen rot markiert, auf einer zweiten Karte Bund-Truppenbewegungen, die auf weitere Quellen zielen. »Sie kommen.«",
-      "typen": [
-        "hintergrund",
-        "tschechow"
-      ],
-      "tags": [
-        "Varen-POV",
-        "Drei rote Markierungen"
-      ],
-      "tz": 619,
-      "tz_sort": 619.3333333333334,
-      "tz_datum": "MZ 2.05 · TZ 619",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 0.65,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B2",
-      "kapitel": "08",
-      "leseart": "normal",
-      "titel": "Flucht-Marsch nach Halvaren",
-      "detail": "Flucht Narthek → Dulkara → Halvek → Halvaren. Alphina heilt Flüchtlinge unterwegs (Pflanzen-Substrate), Runa kocht Essen, Maren Wasser. Tausch gegen Reitschemen + fremde Früchte mit anderen Rufern. Halvaren als Ziel: große Stadt (kann Flüchtlinge tragen), große Bibliothek (Varen-Nachforschungen).",
-      "typen": [
-        "weltreise"
-      ],
-      "tags": [
-        "Flucht",
-        "Halvaren-Wahl",
-        "Alphina-Heilerin"
-      ],
-      "tz": 622,
-      "tz_sort": 622.0,
-      "tz_datum": "MZ 0.65 · TZ 622",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 0.7,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B2",
-      "kapitel": "09",
-      "leseart": "normal",
-      "titel": "Ankunft Halvaren — Talven",
-      "detail": "Erste ruhige Nacht seit zwei Monaten. Unterkunft auf Brachland am Rand: Alphina lässt Holzpflanzen und essbare Früchte wachsen, Maren formt einen Brunnen, Vesper beschleunigt das Wachstum mit Zeit-Resonanz — eine Hütte in Stunden. Runa Feuer zum Kochen. Bund-Älteste empfängt sie. Talven taucht auf — Bund-Lehrling, charming, »Lachen zu groß für sein Gesicht«.",
-      "typen": [
-        "ankunft",
-        "begegnung"
-      ],
-      "tags": [
-        "Halvaren",
-        "Talven-Erstkontakt",
-        "Hütte-gewachsen"
-      ],
-      "tz": 624,
-      "tz_sort": 624.0,
-      "tz_datum": "MZ 0.70 · TZ 624",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 2.2,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B2",
-      "kapitel": "19",
-      "leseart": "normal",
-      "titel": "Dorf-Desaster durch Schlaf-Hain",
-      "detail": "Bund-Vorführung in einem Dorf drei Stunden von der Stadt. Alphina pflanzt tagsüber einen Baum in zehn Minuten. Nachts im Gasthaus schläft sie. Am Morgen ist das halbe Dorf überwuchert — Farne durch Fenster, Moos über Dächer. Die Bewohner evakuieren vor ihr.",
-      "typen": [
-        "resonanz",
-        "erkenntnis"
-      ],
-      "tags": [
-        "Dorf überwuchert"
-      ],
-      "tz": 624,
-      "tz_sort": 624.3333333333334,
-      "tz_datum": "MZ 2.20 · TZ 624",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 0.71,
-      "welt": "moragh",
-      "pov": "Maren",
-      "buch": "B2",
-      "kapitel": "10",
-      "leseart": "normal",
-      "titel": "Vesper + Maren — BDSM",
-      "detail": "Erste Nacht für sich seit Vael. Vesper fesselt sie, knebelt sie. Sie formt einen Wasser-Dildo, fickt sich damit selbst, während er zusieht. Er penetriert sie anal und nutzt Zeit-Modulation, um den Wasser-Dildo an ihrer Klitoris vibrieren zu lassen. Réage-Register, Care-Beats. Halvaren-Quartier, fremde Welt, ihre Verbindung als Konstante.",
-      "typen": [
-        "intim",
-        "BDSM"
-      ],
-      "tags": [
-        "Vesper-Maren-BDSM",
-        "Wasser-Dildo",
-        "Zeit-Modulation"
-      ],
-      "tz": 624,
-      "tz_sort": 624.5,
-      "tz_datum": "MZ 0.71 · TZ 624",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 2.3,
+      "mz": 1.26,
       "welt": "moragh",
       "pov": "Vesper",
       "buch": "B2",
@@ -2565,13 +2613,78 @@
         "Kessler",
         "Thar-Kem"
       ],
-      "tz": 628,
-      "tz_sort": 627.6666666666666,
-      "tz_datum": "MZ 2.30 · TZ 628",
+      "tz": 624,
+      "tz_sort": 624.0,
+      "tz_datum": "MZ 1.26 · TZ 624",
       "kapitel_status": "idee"
     },
     {
-      "mz": 2.4,
+      "mz": 1.33,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "19",
+      "leseart": "normal",
+      "titel": "Dorf-Desaster durch Schlaf-Hain",
+      "detail": "Bund-Vorführung in einem Dorf drei Stunden von der Stadt. Alphina pflanzt tagsüber einen Baum in zehn Minuten. Nachts im Gasthaus schläft sie. Am Morgen ist das halbe Dorf überwuchert — Farne durch Fenster, Moos über Dächer. Die Bewohner evakuieren vor ihr.",
+      "typen": [
+        "resonanz",
+        "erkenntnis"
+      ],
+      "tags": [
+        "Dorf überwuchert"
+      ],
+      "tz": 628,
+      "tz_sort": 628.0,
+      "tz_datum": "MZ 1.33 · TZ 628",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 1.33,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "19",
+      "leseart": "normal",
+      "titel": "Talvens Hunger am Hain",
+      "detail": "Als alle den Schlaf-Wald anstarren, berührt Talven am Rand eine Ranke. Sein mittelmässiges Reservoir reicht für ein schwebendes Steinchen; nach dreissig Sekunden Kopfschmerzen. Sein Blick auf den Hain — Hunger, einen Moment lang, bevor er wieder lächelt.",
+      "typen": [
+        "tschechow",
+        "hintergrund"
+      ],
+      "tags": [
+        "Talven-Hunger",
+        "Verräter-Setup"
+      ],
+      "tz": 628,
+      "tz_sort": 628.33,
+      "tz_datum": "MZ 1.33 · TZ 628",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 1.4,
+      "welt": "moragh",
+      "pov": "Varen",
+      "buch": "B2",
+      "kapitel": "I4",
+      "leseart": "interludium",
+      "titel": "Varen beobachtet aus der Distanz",
+      "detail": "Varen schickt Schemen als Späher. Sie berichten: die Thalassier sind beim Bund angekommen. An seiner Wand drei tote Quellen rot markiert, auf einer zweiten Karte Bund-Truppenbewegungen, die auf weitere Quellen zielen. »Sie kommen.«",
+      "typen": [
+        "hintergrund",
+        "tschechow"
+      ],
+      "tags": [
+        "Varen-POV",
+        "Drei rote Markierungen"
+      ],
+      "tz": 632,
+      "tz_sort": 632.0,
+      "tz_datum": "MZ 1.40 · TZ 632",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 1.47,
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B2",
@@ -2588,57 +2701,13 @@
         "Runa-Kuss",
         "Welt bleibt still"
       ],
-      "tz": 631,
-      "tz_sort": 631.0,
-      "tz_datum": "MZ 2.40 · TZ 631",
+      "tz": 636,
+      "tz_sort": 636.0,
+      "tz_datum": "MZ 1.47 · TZ 636",
       "kapitel_status": "idee"
     },
     {
-      "mz": 2.5,
-      "welt": "moragh",
-      "pov": "Runa",
-      "buch": "B2",
-      "kapitel": "14",
-      "leseart": "normal",
-      "titel": "Runas zweisprachige Druckerpresse in Halvaren",
-      "detail": "Runa gründet eine kleine Druckerei in Halvaren — Moragh-Papier, thalassische Lettern, die sie in Moragh-Metall aus der Hand gegossen hat. Sie druckt zweisprachige Flugblätter, dokumentiert, was der Bund-Älteste nicht verbreiten will.",
-      "typen": [
-        "hintergrund",
-        "tschechow"
-      ],
-      "tags": [
-        "Druckerpresse",
-        "Halvaren"
-      ],
-      "tz": 634,
-      "tz_sort": 634.3333333333334,
-      "tz_datum": "MZ 2.50 · TZ 634",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 2.6,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B2",
-      "kapitel": "19",
-      "leseart": "normal",
-      "titel": "Talvens Hunger am Hain",
-      "detail": "Als alle den Schlaf-Wald anstarren, berührt Talven am Rand eine Ranke. Sein mittelmässiges Reservoir reicht für ein schwebendes Steinchen; nach dreissig Sekunden Kopfschmerzen. Sein Blick auf den Hain — Hunger, einen Moment lang, bevor er wieder lächelt.",
-      "typen": [
-        "tschechow",
-        "hintergrund"
-      ],
-      "tags": [
-        "Talven-Hunger",
-        "Verräter-Setup"
-      ],
-      "tz": 638,
-      "tz_sort": 637.6666666666666,
-      "tz_datum": "MZ 2.60 · TZ 638",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 2.8,
+      "mz": 1.61,
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B2",
@@ -2655,8 +2724,8 @@
         "blühende Dornen"
       ],
       "tz": 644,
-      "tz_sort": 644.3333333333334,
-      "tz_datum": "MZ 2.80 · TZ 644",
+      "tz_sort": 644.0,
+      "tz_datum": "MZ 1.61 · TZ 644",
       "kapitel_status": "idee"
     },
     {
@@ -2681,7 +2750,7 @@
       "kapitel_status": ""
     },
     {
-      "mz": 3.1,
+      "mz": 1.89,
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B2",
@@ -2698,13 +2767,13 @@
         "Halvara-Kel",
         "200m-Todeszone"
       ],
-      "tz": 654,
-      "tz_sort": 654.3333333333334,
-      "tz_datum": "MZ 3.10 · TZ 654",
+      "tz": 660,
+      "tz_sort": 660.0,
+      "tz_datum": "MZ 1.89 · TZ 660",
       "kapitel_status": "idee"
     },
     {
-      "mz": 3.2,
+      "mz": 1.96,
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B2",
@@ -2720,35 +2789,13 @@
         "Schemen-Ketten",
         "Runa sieht es"
       ],
-      "tz": 658,
-      "tz_sort": 657.6666666666667,
-      "tz_datum": "MZ 3.20 · TZ 658",
+      "tz": 664,
+      "tz_sort": 664.0,
+      "tz_datum": "MZ 1.96 · TZ 664",
       "kapitel_status": "idee"
     },
     {
-      "mz": 3.25,
-      "welt": "moragh",
-      "pov": "Varen",
-      "buch": "B2",
-      "kapitel": "I10",
-      "leseart": "interludium",
-      "titel": "Vier rote Markierungen",
-      "detail": "Varens Quartier, kein Gefängnis — ein Labor. An der Wand Karten: vier tote Quellen, rot markiert. Drei alt, verblasst, mit Notizen in Moragh — seine. Eine frisch, klein, an der Position der Thar-Siedlung. Ihre. Dieselbe Tat, verschiedene Gründe.",
-      "typen": [
-        "erkenntnis",
-        "tschechow"
-      ],
-      "tags": [
-        "Vier rote Markierungen",
-        "Spiegelung"
-      ],
-      "tz": 659,
-      "tz_sort": 659.3333333333334,
-      "tz_datum": "MZ 3.25 · TZ 659",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 3.3,
+      "mz": 2.17,
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B2",
@@ -2764,99 +2811,9 @@
         "Bund-Chiffre",
         "systematische Zerstörung"
       ],
-      "tz": 661,
-      "tz_sort": 661.0,
-      "tz_datum": "MZ 3.30 · TZ 661",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 3.4,
-      "welt": "moragh",
-      "pov": "Varen",
-      "buch": "B2",
-      "kapitel": "32",
-      "leseart": "normal",
-      "titel": "Varens Geständnis",
-      "detail": "Varen in altem Thalassisch, langsam, ohne Rechtfertigung: drei Reservoir-Quellen — Mar-Keth, Dulrath-Ost, Reshkol. Leylinien-Experiment, Kettenreaktion, zweihunderttausend heimatlos, Kriegsausbruch. »Niemand weiß es. Nur du.« Auf Alphinas Frage nach Sorel: »Weil dein Hass Treibstoff brauchte.«",
-      "typen": [
-        "erkenntnis",
-        "hintergrund"
-      ],
-      "tags": [
-        "Geständnis",
-        "azyklische Resonanz"
-      ],
-      "tz": 664,
-      "tz_sort": 664.3333333333334,
-      "tz_datum": "MZ 3.40 · TZ 664",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 3.5,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B2",
-      "kapitel": "37",
-      "leseart": "normal",
-      "titel": "Sex mit Varen — Resonanz-Anker gesetzt",
-      "detail": "Gewachsen aus geteilter Schuld. Dornen aus Boden, Steinritzen, Decke — schwarz, scharf, dicht. Keine Farne, keine Zärtlichkeit: Kontrolle durch Erkenntnis. Varen setzt heimlich einen Bindungs-Anker in ihrer Frequenz. Sie spürt Wärme an der Wirbelsäule, hält sie für Orgasmus-Nachwirkung.",
-      "typen": [
-        "erotik",
-        "tschechow",
-        "resonanz"
-      ],
-      "tags": [
-        "Anker",
-        "Manipulation"
-      ],
-      "tz": 668,
-      "tz_sort": 667.6666666666666,
-      "tz_datum": "MZ 3.50 · TZ 668",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 3.55,
-      "welt": "moragh",
-      "pov": "Varen",
-      "buch": "B2",
-      "kapitel": "35",
-      "leseart": "normal",
-      "titel": "Vier-Thalassier-Liste",
-      "detail": "Varen an seinem Arbeitstisch. Eine Liste, klein zwischen zwei Büchern versteckt: vier Namen — Alphina, Vesper, Maren, Runa. Neben jedem Namen eine Zahl. Resonanz-Maximum. Das, was sie für das Ritual geben müssten. Kein Kommentar. Kein Zögern.",
-      "typen": [
-        "tschechow",
-        "wissen"
-      ],
-      "tags": [
-        "Vier-Thalassier-Liste",
-        "Ritual-Setup"
-      ],
-      "tz": 669,
-      "tz_sort": 669.3333333333334,
-      "tz_datum": "MZ 3.55 · TZ 669",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 3.6,
-      "welt": "moragh",
-      "pov": "Maren",
-      "buch": "B2",
-      "kapitel": "38",
-      "leseart": "normal",
-      "titel": "Maren findet Portal-Ritual-Anleitung",
-      "detail": "In der Thar-Bibliothek findet Maren alte Moragh-Karten des Portal-Netzwerks und die Methode: wie man das Portal von Moragh-Seite öffnet, nicht durch Wasser, durch das Ritual. Gespiegelt zu Vael. Sie HAT Resonanz — für den Hinweg Moragh nach Thalassien reicht es. Einweg.",
-      "typen": [
-        "portal",
-        "wissen",
-        "tschechow"
-      ],
-      "tags": [
-        "Velmar-Karte",
-        "Einweg"
-      ],
-      "tz": 671,
-      "tz_sort": 671.0,
-      "tz_datum": "MZ 3.60 · TZ 671",
+      "tz": 676,
+      "tz_sort": 676.0,
+      "tz_datum": "MZ 2.17 · TZ 676",
       "kapitel_status": "idee"
     },
     {
@@ -2881,75 +2838,69 @@
       "kapitel_status": ""
     },
     {
-      "mz": 4.98,
+      "mz": 2.38,
       "welt": "moragh",
-      "pov": "Runa",
+      "pov": "Varen",
       "buch": "B2",
-      "kapitel": "43",
-      "leseart": "normal",
-      "titel": "Sulkara-Finale: Alphina gegen Bund",
-      "detail": "Sulkara, dreizehntausend Bewohner. Der Bund greift mit Ersatz-Magiern die Nebenquelle an. Varen und Alphina kommen als dritte Partei zur Reparatur — Schemen-Vorhut, Umleitung des Überladungsstosses. Ein Baum schiesst klafterhoch in den Himmel, fällt um. Die Quelle lebt.",
+      "kapitel": "I10",
+      "leseart": "interludium",
+      "titel": "Vier rote Markierungen",
+      "detail": "Varens Quartier, kein Gefängnis — ein Labor. An der Wand Karten: vier tote Quellen, rot markiert. Drei alt, verblasst, mit Notizen in Moragh — seine. Eine frisch, klein, an der Position der Thar-Siedlung. Ihre. Dieselbe Tat, verschiedene Gründe.",
       "typen": [
-        "krieg",
-        "erkenntnis"
-      ],
-      "tags": [
-        "Sulkara",
-        "Vier-POV"
-      ],
-      "tz": 717,
-      "tz_sort": 717.0,
-      "tz_datum": "MZ 4.98 · TZ 717",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 4.99,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B2",
-      "kapitel": "43",
-      "leseart": "normal",
-      "titel": "Alphina schlägt Talven nieder",
-      "detail": "Beim Rückzug nach Torkal kehrt Talven mit blutigen Händen aus Elkes Garten zurück — Varens Falschbeweis, sauber gelegt. Alphina schlägt Talven nieder, glaubt, er habe Elke getötet. Setup Buch 3.",
-      "typen": [
-        "krieg",
+        "erkenntnis",
         "tschechow"
       ],
       "tags": [
-        "Talven niedergeschlagen",
-        "Falschbeweis",
-        "B3-Setup"
+        "Vier rote Markierungen",
+        "Spiegelung"
       ],
-      "tz": 717,
-      "tz_sort": 717.3333333333334,
-      "tz_datum": "MZ 4.99 · TZ 717",
+      "tz": 688,
+      "tz_sort": 688.0,
+      "tz_datum": "MZ 2.38 · TZ 688",
       "kapitel_status": "idee"
     },
     {
-      "mz": 5.0,
-      "welt": "synchronisation",
-      "pov": "Maren",
+      "mz": 2.59,
+      "welt": "moragh",
+      "pov": "Varen",
       "buch": "B2",
-      "kapitel": "39",
+      "kapitel": "32",
       "leseart": "normal",
-      "titel": "Maren tritt durchs Portal nach 1987 TZ",
-      "detail": "Maren öffnet das Portal am Steinplatz nahe der Thar-Kontrolle. Vesper und Nyr halten Wachen für 4:33 zurück. Die Luft reisst auf: Thalassien, aber 1987 TZ. Gaslampen durch Elektrizität ersetzt, Automobile statt Kutschen. Sie tritt durch. Das Portal schliesst sich.",
+      "titel": "Varens Geständnis",
+      "detail": "Varen in altem Thalassisch, langsam, ohne Rechtfertigung: drei Reservoir-Quellen — Mar-Keth, Dulrath-Ost, Reshkol. Leylinien-Experiment, Kettenreaktion, zweihunderttausend heimatlos, Kriegsausbruch. »Niemand weiß es. Nur du.« Auf Alphinas Frage nach Sorel: »Weil dein Hass Treibstoff brauchte.«",
       "typen": [
-        "portal",
-        "tschechow"
+        "erkenntnis",
+        "hintergrund"
       ],
-      "sync": {
-        "thalassien": "Vael 1987 TZ — Gaslampen durch Elektrizität ersetzt, erste Automobile, Telefonleitungen. Maren kommt an, beginnt sofort zu dokumentieren.",
-        "moragh": "Portal schliesst 4:33 später. Vesper bleibt. Die Vier sind getrennt."
-      },
       "tags": [
-        "Portal-Durchgang",
-        "Zeitdilatation",
-        "1987 TZ"
+        "Geständnis",
+        "azyklische Resonanz"
       ],
-      "tz": 718,
-      "tz_sort": 717.6666666666667,
-      "tz_datum": "MZ 5.00 · TZ 718",
+      "tz": 700,
+      "tz_sort": 700.0,
+      "tz_datum": "MZ 2.59 · TZ 700",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 2.8,
+      "welt": "moragh",
+      "pov": "Varen",
+      "buch": "B2",
+      "kapitel": "35",
+      "leseart": "normal",
+      "titel": "Vier-Thalassier-Liste",
+      "detail": "Varen an seinem Arbeitstisch. Eine Liste, klein zwischen zwei Büchern versteckt: vier Namen — Alphina, Vesper, Maren, Runa. Neben jedem Namen eine Zahl. Resonanz-Maximum. Das, was sie für das Ritual geben müssten. Kein Kommentar. Kein Zögern.",
+      "typen": [
+        "tschechow",
+        "wissen"
+      ],
+      "tags": [
+        "Vier-Thalassier-Liste",
+        "Ritual-Setup"
+      ],
+      "tz": 712,
+      "tz_sort": 712.0,
+      "tz_datum": "MZ 2.80 · TZ 712",
       "kapitel_status": "idee"
     },
     {
@@ -2974,47 +2925,76 @@
       "kapitel_status": ""
     },
     {
-      "mz": 5.01,
+      "mz": 3.01,
       "welt": "moragh",
-      "pov": "Runa",
+      "pov": "Alphina",
       "buch": "B2",
-      "kapitel": "43",
+      "kapitel": "37",
       "leseart": "normal",
-      "titel": "Runa reisst den Namen aus dem Farn-Brief",
-      "detail": "Bund-Krankenstation, Schnittwunden, gebrochene Rippe. Runa zieht den Brief mit gezeichnetem Farn aus der Tasche — »Alphina. Ich hab nicht aufgehört.« Sie reisst nur den Namen »Alphina« heraus. Den Rest des Briefes, den Farn, die Worte, behält sie.",
+      "titel": "Sex mit Varen — Resonanz-Anker gesetzt",
+      "detail": "Gewachsen aus geteilter Schuld. Dornen aus Boden, Steinritzen, Decke — schwarz, scharf, dicht. Keine Farne, keine Zärtlichkeit: Kontrolle durch Erkenntnis. Varen setzt heimlich einen Bindungs-Anker in ihrer Frequenz. Sie spürt Wärme an der Wirbelsäule, hält sie für Orgasmus-Nachwirkung.",
       "typen": [
-        "erkenntnis",
-        "tschechow"
+        "erotik",
+        "tschechow",
+        "resonanz"
       ],
       "tags": [
-        "Farn-Brief",
-        "Entkoppelung"
+        "Anker",
+        "Manipulation"
       ],
-      "tz": 718,
-      "tz_sort": 718.0,
-      "tz_datum": "MZ 5.01 · TZ 718",
+      "tz": 724,
+      "tz_sort": 724.0,
+      "tz_datum": "MZ 3.01 · TZ 724",
       "kapitel_status": "idee"
     },
     {
-      "mz": 1.0,
+      "mz": 3.08,
       "welt": "moragh",
       "pov": "Maren",
       "buch": "B2",
-      "kapitel": "11",
+      "kapitel": "38",
       "leseart": "normal",
-      "titel": "Halvaren — Wochen, Zweifel, Wasserweg",
-      "detail": "Wochen in Halvaren. Sprache vertieft. Erste soziale Ungerechtigkeiten sichtbar: Magier essen, Diener nicht; Hierarchie über Reservoir-Größe. Nach Monaten Magie-Überraschung kommen Zweifel. Maren erinnert an den Wasserweg — sie haben jetzt Jahrzehnte zuhause verloren. Alphina: nicht ohne Varen.",
+      "titel": "Maren findet Portal-Ritual-Anleitung",
+      "detail": "In der Thar-Bibliothek findet Maren alte Moragh-Karten des Portal-Netzwerks und die Methode: wie man das Portal von Moragh-Seite öffnet, nicht durch Wasser, durch das Ritual. Gespiegelt zu Vael. Sie HAT Resonanz — für den Hinweg Moragh nach Thalassien reicht es. Einweg.",
       "typen": [
-        "erkenntnis"
+        "portal",
+        "wissen",
+        "tschechow"
       ],
       "tags": [
-        "Halvaren",
-        "Zweifel",
-        "Maren-Wasserweg-Erinnerung"
+        "Velmar-Karte",
+        "Einweg"
       ],
-      "tz": 720,
-      "tz_sort": 720.0,
-      "tz_datum": "MZ 1.00 · TZ 720",
+      "tz": 728,
+      "tz_sort": 728.0,
+      "tz_datum": "MZ 3.08 · TZ 728",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 3.15,
+      "welt": "synchronisation",
+      "pov": "Maren",
+      "buch": "B2",
+      "kapitel": "39",
+      "leseart": "normal",
+      "titel": "Maren tritt durchs Portal nach 1987 TZ",
+      "detail": "Maren öffnet das Portal am Steinplatz nahe der Thar-Kontrolle. Vesper und Nyr halten Wachen für 4:33 zurück. Die Luft reisst auf: Thalassien, aber 1987 TZ. Gaslampen durch Elektrizität ersetzt, Automobile statt Kutschen. Sie tritt durch. Das Portal schliesst sich.",
+      "typen": [
+        "portal",
+        "tschechow"
+      ],
+      "sync": {
+        "thalassien": "Vael 1987 TZ — Gaslampen durch Elektrizität ersetzt, erste Automobile, Telefonleitungen. Maren kommt an, beginnt sofort zu dokumentieren.",
+        "moragh": "Portal schliesst 4:33 später. Vesper bleibt. Die Vier sind getrennt."
+      },
+      "tags": [
+        "Portal-Durchgang",
+        "Zeitdilatation",
+        "1987 TZ"
+      ],
+      "tz": 732,
+      "tz_sort": 732.0,
+      "tz_datum": "MZ 3.15 · TZ 732",
       "kapitel_status": "idee"
     },
     {
@@ -3060,29 +3040,6 @@
       "tz": 736,
       "tz_sort": 736.0,
       "tz_datum": "MZ 5.55 · TZ 736",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 1.05,
-      "welt": "moragh",
-      "pov": "Runa",
-      "buch": "B2",
-      "kapitel": "12",
-      "leseart": "normal",
-      "titel": "Magie-Arbeit",
-      "detail": "Sie verdienen, integrieren sich. Runa in der Schmiede (formt Metall ohne Ofen, Buchstaben-Typen für eine Halvaren-Druckerei). Alphina in der Heilstätte (Wundheilung über Pflanzen-Substrate, Wachstum auf Feldern; lässt fremde essbare Früchte/Knollen/Wurzeln wachsen — sie erkennt was essbar ist). Maren am Aquädukt. Vesper in der Bibliothek (Mathematik, alte Karten, Spuren von Varen).",
-      "typen": [
-        "alltag"
-      ],
-      "tags": [
-        "Magie-Arbeit",
-        "Runa-Schmiede",
-        "Alphina-Heilung",
-        "essbare-Pflanzen"
-      ],
-      "tz": 738,
-      "tz_sort": 738.0,
-      "tz_datum": "MZ 1.05 · TZ 738",
       "kapitel_status": "idee"
     },
     {
@@ -3200,6 +3157,73 @@
       "kapitel_status": "idee"
     },
     {
+      "mz": 3.43,
+      "welt": "moragh",
+      "pov": "Runa",
+      "buch": "B2",
+      "kapitel": "43",
+      "leseart": "normal",
+      "titel": "Sulkara-Finale: Alphina gegen Bund",
+      "detail": "Sulkara, dreizehntausend Bewohner. Der Bund greift mit Ersatz-Magiern die Nebenquelle an. Varen und Alphina kommen als dritte Partei zur Reparatur — Schemen-Vorhut, Umleitung des Überladungsstosses. Ein Baum schiesst klafterhoch in den Himmel, fällt um. Die Quelle lebt.",
+      "typen": [
+        "krieg",
+        "erkenntnis"
+      ],
+      "tags": [
+        "Sulkara",
+        "Vier-POV"
+      ],
+      "tz": 748,
+      "tz_sort": 748.0,
+      "tz_datum": "MZ 3.43 · TZ 748",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 3.44,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "43",
+      "leseart": "normal",
+      "titel": "Alphina schlägt Talven nieder",
+      "detail": "Beim Rückzug nach Torkal kehrt Talven mit blutigen Händen aus Elkes Garten zurück — Varens Falschbeweis, sauber gelegt. Alphina schlägt Talven nieder, glaubt, er habe Elke getötet. Setup Buch 3.",
+      "typen": [
+        "krieg",
+        "tschechow"
+      ],
+      "tags": [
+        "Talven niedergeschlagen",
+        "Falschbeweis",
+        "B3-Setup"
+      ],
+      "tz": 748,
+      "tz_sort": 748.33,
+      "tz_datum": "MZ 3.44 · TZ 748",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 3.44,
+      "welt": "moragh",
+      "pov": "Runa",
+      "buch": "B2",
+      "kapitel": "43",
+      "leseart": "normal",
+      "titel": "Runa reisst den Namen aus dem Farn-Brief",
+      "detail": "Bund-Krankenstation, Schnittwunden, gebrochene Rippe. Runa zieht den Brief mit gezeichnetem Farn aus der Tasche — »Alphina. Ich hab nicht aufgehört.« Sie reisst nur den Namen »Alphina« heraus. Den Rest des Briefes, den Farn, die Worte, behält sie.",
+      "typen": [
+        "erkenntnis",
+        "tschechow"
+      ],
+      "tags": [
+        "Farn-Brief",
+        "Entkoppelung"
+      ],
+      "tz": 749,
+      "tz_sort": 748.66,
+      "tz_datum": "MZ 3.44 · TZ 749",
+      "kapitel_status": "idee"
+    },
+    {
       "mz": 5.95,
       "welt": "moragh",
       "pov": "Vesper",
@@ -3240,30 +3264,6 @@
         "TZ 2020"
       ],
       "kapitel_status": ""
-    },
-    {
-      "mz": 1.1,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B2",
-      "kapitel": "13",
-      "leseart": "normal",
-      "titel": "Elke wiedergetroffen — Varen",
-      "detail": "Elke wiedergetroffen in Halvaren — sie hat sich auch hierher gerettet, wohnt in einem Flüchtlings-Quartier. Erzählt zu Ende was in Narthek unterbrochen war: Varens Geschichte. Velmar-Forscher Mar-Keth, vor Jahren das Leylinien-Experiment, drei Quellen tot, ~200.000 Heimatlose. Velmar hat ihn verdeckt ausgestoßen, andere Fraktionen wissen nichts. Elke kennt ihn persönlich (sie hat ihm das alte Thalassisch beigebracht). Alphinas Hass formt sich neu — Name, Geschichte, Ziel.",
-      "typen": [
-        "erkenntnis",
-        "tschechow"
-      ],
-      "tags": [
-        "Elke-Wiedertreffen",
-        "Varen-Hintergrund",
-        "Mar-Keth-Experiment",
-        "Alphinas-Ziel"
-      ],
-      "tz": 757,
-      "tz_sort": 757.0,
-      "tz_datum": "MZ 1.10 · TZ 757",
-      "kapitel_status": "idee"
     },
     {
       "mz": 6.2,
