@@ -24,7 +24,7 @@ Der Wendepunkt in Moragh-Zeit: Monat 6,5 bis 7,5. In Thalassien-Zeit: ~2037 bis 
 
 ## Kapitelplan
 
-### Kap. 51 — Alphina (S. 225–245, ~5.000 Wörter)
+### Kap. 11 — Alphina (S. 225–245, ~5.000 Wörter)
 *Torkal. Die dritte Reparatur. Etwas stimmt nicht.*
 
 Dritte Route. Varen und Alphina reisen nach **Dulrath-Ost** — einer der drei Varen-Quellen, nicht Alphinas. Sie schlafen in einem leerstehenden Dorfgasthaus. Morgens geht Alphina vorher hinaus und prüft: der Boden um das Dorf pulsiert. Die Quelle lebt noch, wenn auch tief in der Erde. Das ist das, was sie erwartet hat — die Reparatur sollte hier leichter sein, weil der Fels weniger ausgebrannt ist als in Mar-Keth.
@@ -41,7 +41,7 @@ Er bleibt zwei Nächte. Sie erholt sich halb. Sie reisen nach Torkal zurück.
 
 **Tschechow:** Die Bauern-Karawane mit den Nachrichten über Halvara-Kel. — Feuert: Akt III, wenn Alphina selbst zu Halvara-Kel zurückreist und den toten Fels sieht.
 
-### Interludium I13 — Tyra, Thalassien (S. 245–255, ~2.500 Wörter)
+### Interludium I2 — Tyra, Thalassien (S. 245–255, ~2.500 Wörter)
 *Vael, ~2019 TZ. Der Tag vor dem Aufbruch.*
 
 Rückblick-Interludium. Tyra Halvard in ihrem Quartier, Nacht vor der Expedition. Sie packt. Auf dem Tisch: ein Brief von ihrer Schwester Esin — handschriftlich, nicht getippt. Esin hat vier Kinder und lebt in einer Küstenstadt südlich von Vael. Tyra hat keine eigenen Kinder.
@@ -64,7 +64,7 @@ Maren: *„Vielleicht. Wahrscheinlich nicht. Das ist Moragh."*
 
 **Tschechow:** Esins Brief in Tyras Innentasche. — Feuert: Akt III, wenn Tyra Alphinas Gruppe erreicht und sie den Brief zum ersten Mal öffnet. Esins Warnung hat sich erfüllt.
 
-### Kap. 52 — Varen-POV (S. 255–275, ~5.000 Wörter)
+### Kap. 12 — Varen-POV (S. 255–275, ~5.000 Wörter)
 *Torkal-Quartier. Nach der dritten Reparatur.*
 
 Varen allein am Arbeitstisch. Die Quellen-Reparatur-Statistik vor ihm:
@@ -99,7 +99,7 @@ Das ist Varens einziger echter Satz über sich selbst — der, den er in B2-K32 
 
 **Tschechow:** Die drei Namen auf der Liste. — Feuert: Akt IV, wenn Vesper das Kalkül entschlüsselt und Alphina an den betroffenen Städten Zeugen findet (Menschen, deren Magier unerklärlich erschöpft sind).
 
-### Kap. 53 — Vesper + Nyr (S. 275–297, ~5.500 Wörter)
+### Kap. 13 — Vesper + Nyr (S. 275–297, ~5.500 Wörter)
 *Thar-Kem. Der Temporal-KI-Helm.*
 
 Thar-Militär-Labor. Vier Techniker entwickeln unter Aufsicht eines Thar-Offiziers einen Prototyp: ein Helm, der Vespers Muster/Zeit-Resonanz verstärken soll. Moragh-eigene Forschung — keine Thalassien-Tech. Basis: Leylinien-Kristalle + Bindungsmagie-Schaltkreise + Vespers persönliche Resonanz-Signatur.
@@ -126,7 +126,7 @@ Nyr sieht ihn an. Sie erkennt: er wählt die Präzision über die eigene Gesundh
 
 **Tschechow:** Der Temporal-KI-Helm und Vespers Kopfschmerzen. — Feuert: Akt III, wenn er mit dem Helm die Ritual-Geometrie-Wahrscheinlichkeiten bei Varen berechnet.
 
-### Kap. 54 — Alphina (S. 297–318, ~5.000 Wörter)
+### Kap. 14 — Alphina (S. 297–318, ~5.000 Wörter)
 *Torkal. Die Entscheidung, nach Halvaren zu reisen.*
 
 Alphina denkt an Runa. Seit Sulkara hat sie ihr nicht geschrieben — der Bund-Postweg ist unzuverlässig, und Runa würde ihr vermutlich nicht antworten. Aber sie will **sehen**. Ob Runa gut ist. Ob Runa verstanden hat.
@@ -165,7 +165,7 @@ Alphina holt Luft für einen vierten Satz — Runa hebt die Hand.
 
 **Tschechow:** Runas drei Sätze + der vierte. — Feuert: Akt IV, Reveal. Die drei Sätze waren alle wahr.
 
-### Kap. 55 — Varen-POV (S. 318–340, ~5.000 Wörter)
+### Kap. 15 — Varen-POV (S. 318–340, ~5.000 Wörter)
 *Torkal. Alphina zurück. Verwüster-Vorbereitung.*
 
 Alphina kehrt zurück. Varen empfängt sie warm, fragt, wie es war. Alphina sagt: *„Sie ist nicht gekommen."* Varen nickt, legt den Arm um sie, führt sie in das Quartier. Alphina fühlt sich wie nach Hause gekommen. Das ist der Effekt, den der Anker-Transfer gerade jetzt am stärksten zeigt — Varens Nähe fühlt sich biologisch sicher an.
@@ -188,7 +188,7 @@ Er schickt den Brief. Nimmt einen zweiten Pfad: ein zweiter Schemen an Drael, mi
 
 **Tschechow:** Der Brief an Kelmaris Verask. — Feuert: Akt III, wenn Drael die Authentizität des Briefes überprüft und feststellt, dass er von keinem Bund-Informanten kam.
 
-### Kap. 56 — Tyra + Nebencharaktere (S. 340–362, ~5.500 Wörter)
+### Kap. 16 — Tyra + Nebencharaktere (S. 340–362, ~5.500 Wörter)
 *Thar-Grenzgebiet. Expedition 1 scheitert.*
 
 POV wechselt zu Tyra und einem Thar-Offizier. Expedition 1 ist nun acht Moragh-Wochen in Moragh. Die Thar-Gastfreundschaft ist abgekühlt. Die Expeditionsmitglieder haben **nicht kooperiert** — sie wollten die Thar als Partner, nicht als Dienstherren. Die Thar-Kommandantin hat Geduld verloren.
@@ -207,7 +207,7 @@ Sie erreicht eine freie Stadt — einen Ort, der nicht auf ihrer Expeditionskart
 
 **Tschechow:** Tyras langsam erwachende Schall-Resonanz. — Feuert: Akt III, wenn sie ihre erste Schemen-Beschwörung macht und ihre Stimme dem Schemen mitgibt.
 
-### Interludium I8 — Maren, Thalassien (S. 362–375, ~2.500 Wörter)
+### Interludium I3 — Maren, Thalassien (S. 362–375, ~2.500 Wörter)
 *Vael, ~2037 TZ. Der Verwüster-Angriff.*
 
 Thalassien. Das Schwellenforschungsinstitut ist jetzt ein staatliches Gebäude. Maren ist 80, sitzt im Rollstuhl am Fenster ihres ehemaligen Büros. Ein Flügel des Instituts trägt ihren Namen. Sie liest selten noch. Hört lange zu.
@@ -238,7 +238,7 @@ Das ist der Moment, in dem das Institut sich wandelt.
 
 **Tschechow:** Syras Notizbuch-Eintrag. — Feuert: Akt III, I9, wenn die Doktrin umgeschwenkt ist und sie den jungen Velkan trifft.
 
-### Kap. 57 — Alphina + Varen (S. 375–395, ~5.000 Wörter)
+### Kap. 17 — Alphina + Varen (S. 375–395, ~5.000 Wörter)
 *Dravek, Elkes Garten. Elkes Tod.*
 
 Alphina und Varen reisen zu Elke. Es ist Besuchs-Pflicht — Elke hat ihr im B2-Ende ein Maren-Dokument übergeben, das Alphina noch nicht gelesen hat (sie hat es einfach in einer Tasche, ungeöffnet, seit zwei Monaten). Jetzt will sie es Elke zurückgeben. Das ist ihr Vorwand.
@@ -271,7 +271,7 @@ Jetzt denkt sie: Vielleicht nicht.
 
 **Tschechow:** Die saubere Küche + der fehlende Basalt-Splitter. — Feuert: Akt IV, wenn Alphina in Varens Quartier den Splitter in einer Schublade findet und Varens Küchen-Satz hört.
 
-### Kap. 58 — Alphina (S. 395–415, ~5.000 Wörter)
+### Kap. 18 — Alphina (S. 395–415, ~5.000 Wörter)
 *Halvaren-Umland. Die gefälschten Beweise.*
 
 Alphina reist zu Talven. Allein. Varen bietet sich an mitzukommen, sie lehnt ab. *„Das muss ich selbst."* Er nickt.
@@ -314,7 +314,7 @@ Sie geht, aber sie weiß schon: er lügt. Sie wird mit Beweisen zurückkommen.
 
 **Tschechow:** Der Zettel mit Varens Schrift-Imitation. — Feuert: Akt IV, wenn Alphina rückblickend erkennt, dass die Schrift einen Hauch zu glatt war — Schreiber zu geübt in kurzer Form.
 
-### Kap. 59 — Talven (S. 415–435, ~5.000 Wörter)
+### Kap. 19 — Talven (S. 415–435, ~5.000 Wörter)
 *Halvaren. Talvens Absturz.*
 
 Talven-POV. Nach Alphinas Besuch. Er sitzt in seinem Zimmer, das Handbuch offen vor sich. Seine Hände zittern. Nicht aus Kälte — aus Wut. Aus Schmerz. Die Frau, die er als Heldin gekannt hat, die er in der Moragh-Stadt zum ersten Mal gesehen hat, hat ihn gerade des Mordes beschuldigt. An Elke. An der Frau mit dem Garten, die ihm in den ersten Wochen seines Moragh-Aufenthalts Tee gebracht hat, als er schwach war.
@@ -343,7 +343,7 @@ Nur: der Schemen, den er in der Nacht beschwört, **weicht ihm aus**. Er kommt, 
 
 **Tschechow:** Die erste Schemen-Ausweich-Reaktion. — Feuert: Akt III, wenn Alphina bei der Konfrontation sieht, wie Talvens eigener Schemen an seiner Bindung zerrt.
 
-### Kap. 60 — Alphina + Vesper (S. 435–455, ~5.500 Wörter)
+### Kap. 20 — Alphina + Vesper (S. 435–455, ~5.500 Wörter)
 *Varens Quartier in Torkal. Vespers Brief.*
 
 Alphina zurück in Torkal. Sie hat drei Beweisstücke: das Handbuch, den Zettel mit der Schrift, das Gerücht von einem Lied in Talvens Stimme, das sie in Halvaren aufgeschnappt hat (gefälschtes Schemen-Mimikry, genau platziert).

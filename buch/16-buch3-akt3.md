@@ -27,7 +27,7 @@ Moragh-Zeit: Monat 7,5 bis 9. Thalassien-Zeit: ~2070 bis 2120 TZ — 50 Jahre Vo
 
 ## Kapitelplan
 
-### Kap. 61 — Alphina + Vesper (S. 455–477, ~5.500 Wörter)
+### Kap. 21 — Alphina + Vesper (S. 455–477, ~5.500 Wörter)
 *Thar-Kem. Vesper entschlüsselt das Dokument.*
 
 Alphina erreicht Thar-Kem, trifft Vesper in einer abseits gelegenen Gaststube. Nyr ist nicht dabei — Vesper hat sie bewusst nicht informiert, um Alphina Zugang ohne Thar-Kontrolle zu geben.
@@ -56,7 +56,7 @@ Vesper: *„Dann geh zurück. Such das Dokument in seinem Quartier. Wenn es da i
 
 **Tschechow:** Alphinas Liste der drei Symptome. — Feuert: Akt IV, wenn sie das Dokument in Varens Schublade findet und die Symptome retrospektiv alle drei auf einen Schlag als Bestätigung erkennt.
 
-### Kap. 62 — Alphina (S. 477–498, ~5.500 Wörter)
+### Kap. 22 — Alphina (S. 477–498, ~5.500 Wörter)
 *Rückreise nach Torkal. Der Zweifel wächst.*
 
 Alphina reist zurück, drei Tage. Allein. Sie denkt nicht linear. Sie rechnet:
@@ -78,7 +78,7 @@ Sie reitet am Morgen weiter.
 
 **Tschechow:** Tormen. — Feuert: Akt IV, wenn Alphina den Namen auf Varens Liste sieht.
 
-### Kap. 63 — Alphina + Varen (S. 498–520, ~5.500 Wörter)
+### Kap. 23 — Alphina + Varen (S. 498–520, ~5.500 Wörter)
 *Torkal. Alphina findet das Dokument.*
 
 Sie kehrt zurück. Varen empfängt sie warm — zu warm. Er fragt, wie Vesper war. Sie erzählt abgekürzt: *„Er will wissen, was wir planen. Ich hab ihm nichts verraten."* Varen nickt, glaubt ihr. (Der Leser merkt: das ist Alphinas erste Lüge an Varen. Sie weiß es selbst nicht bewusst.)
@@ -103,7 +103,7 @@ Das ist der Moment, in dem ihre Welt kippt. Nicht laut. Nicht mit Tränen. Nur e
 
 **Tschechow:** Der Satz „Sorels Nutzen liegt im Sterben". — Feuert: Akt IV, Duell. Alphinas Todesstoß trägt auch diesen Satz.
 
-### Kap. 64 — Alphina (S. 520–540, ~5.000 Wörter)
+### Kap. 24 — Alphina (S. 520–540, ~5.000 Wörter)
 *Torkal. Der Abgang.*
 
 Morgens. Alphina wacht „normal" auf — trägt weiter die Rolle. Frühstückt mit Varen. Lächelt einmal, nicht oft. Er merkt nichts Ungewöhnliches.
@@ -128,7 +128,7 @@ Der Anker bleibt. Aber sie bleibt auch.
 
 **Tschechow:** Alphina in der freien Stadt Kolmen. — Feuert: Akt III später, wenn die Gruppe sich dort das erste Mal vollständig trifft.
 
-### Kap. 65 — Varen-POV (S. 540–560, ~5.000 Wörter)
+### Kap. 25 — Varen-POV (S. 540–560, ~5.000 Wörter)
 *Torkal. Varen merkt.*
 
 Zwei Tage nach Alphinas Abgang. Varen wartet. Sie kommt nicht zurück. Er schickt einen Schemen nach Dravek — sie ist nicht am Grab. Er schickt einen zweiten — sie ist nirgends auf der Route.
@@ -157,7 +157,7 @@ Kein Schmerz. Nur Kalkül.
 
 **Tschechow:** Varens Zirkel-Aktivierung. — Feuert: Akt IV, wenn die 20–30 Anhänger im Finale kämpfen.
 
-### Interludium I9 — Thalassien (S. 560–573, ~2.500 Wörter)
+### Interludium I4 — Thalassien (S. 560–573, ~2.500 Wörter)
 *Vael, ~2080 TZ. Junge Syra trifft jungen Kelvar.*
 
 Rückblick-Interludium. Institut in Vael, 43 Jahre nach Marens Tod. Das Gebäude trägt Marens Namen an der Fassade, aber ihre Doktrin ist längst überholt. Syra Halvard, jetzt 15, Forschungs-Stipendiatin. Kelvar Velkan, 25, Sicherheitsoffizier, frisch aus einem 2070er-Regionalkrieg entlassen.
@@ -182,7 +182,7 @@ Syra: *„Die, die sie hergeschickt haben, wussten, was sie taten. Beim nächste
 
 **Tschechow:** Syras Satz „Wir haben genug gewartet". — Feuert: I14, wenn sie die Expedition 2 final plant.
 
-### Kap. 66 — Alphina + Tyra (S. 573–595, ~5.500 Wörter)
+### Kap. 26 — Alphina + Tyra (S. 573–595, ~5.500 Wörter)
 *Freie Stadt Kolmen. Die Gruppe beginnt sich zu sammeln.*
 
 Alphina in Kolmen. Drei Tage gewartet. Vesper hat geantwortet — er kommt mit Nyr, zwei Tage Reise. Dann: Ein unerwarteter Besucher.
@@ -209,7 +209,7 @@ Alphina lacht das erste Mal seit Monaten echt.
 
 **Tschechow:** Die zwei Schemen-Fernsprecher. — Feuert: Akt IV, wenn sie im Finale die Gruppenkoordination ermöglichen.
 
-### Interludium I14 — Thalassien (S. 595–608, ~2.500 Wörter)
+### Interludium I5 — Thalassien (S. 595–608, ~2.500 Wörter)
 *Vael, ~2110 TZ. Halvard + Velkan planen Expedition 2.*
 
 Institut-Lageraum. Syra Halvard jetzt 45, Institutsleiterin. Kelvar Velkan 55, General im aktiven Dienst. An der Wand: eine riesige Karte von Moragh (rekonstruiert aus Tyras letzten Funk-Signalen vor 73 Jahren). Marken an den Grenzen — wo die Thar sitzt, wo der Bund. Der Steinplatz in Dravek rot eingekreist.
@@ -240,7 +240,7 @@ Das ist eine Lüge. Marens Doktrin wird mit jedem Schritt der Expedition weiter 
 
 **Tschechow:** Kelvar weiß, dass er nicht zurückkommt. — Feuert: Akt IV, im Duell-Schlachtfeld. Sein Verhalten ist das eines Mannes, der schon mit dem Tod gerechnet hat.
 
-### Kap. 67 — Alphina + Runa (S. 608–630, ~5.500 Wörter)
+### Kap. 27 — Alphina + Runa (S. 608–630, ~5.500 Wörter)
 *Freie Stadt Kolmen. Wiederbegegnung Alphina + Runa.*
 
 Vesper, Nyr und eine dritte Person kommen an. Alphina erwartete Vesper + Nyr. Die dritte ist **Runa**.
@@ -275,7 +275,7 @@ Alphina nickt. Sie umarmen sich nicht. Zu früh. Aber sie stehen nicht mehr gege
 
 **Tschechow:** Runa sagt *„Ich stehe. Wenn es zählt."* — Feuert: Akt IV, Finale. Sie steht.
 
-### Kap. 68 — Alphina (S. 630–650, ~5.000 Wörter)
+### Kap. 28 — Alphina (S. 630–650, ~5.000 Wörter)
 *Freie Stadt. Die Talven-Entscheidung.*
 
 Die Gruppe berät. Fünf im Zimmer — Alphina, Vesper, Nyr, Runa, Tyra. Sie haben zwei Wochen, bis Varens Zirkel-Sammlung abgeschlossen ist. Dann Aktion.
@@ -316,7 +316,7 @@ Die Szene ist im nächsten Kapitel.
 
 **Tschechow:** Die fünf gefesselten Schemen. — Feuert: Kap 69, Konfrontation. Sie lösen sich, wenn Talven stirbt.
 
-### Kap. 69 — Alphina (Konfrontation) (S. 650–672, ~5.500 Wörter)
+### Kap. 29 — Alphina (Konfrontation) (S. 650–672, ~5.500 Wörter)
 *Talvens Herberge, bei Halvaren. Der Kampf.*
 
 Der Kampf beginnt ohne Vorwarnung. Talven wirft einen Blutritual-Stoß — Feuer aus der Hand, verstärkt durch Blutmagie und Kristall-Batterie. Der Raum steht sofort in Flammen. Alphina schützt sich mit einer Pflanzen-Wand — lebende Dornen, die die Flammen abfangen, obwohl sie selbst verbrennen.
@@ -349,7 +349,7 @@ Sie weint nicht. Sie wird erst später weinen — wenn sie erfährt, dass er uns
 
 **Tschechow:** Talvens letzter Satz + die davonfliehenden Schemen. — Feuert: Akt IV, wenn Alphina nach dem Duell die Zusammenhänge versteht.
 
-### Kap. 70 — Alphina + Gruppe (S. 672–685, ~3.500 Wörter)
+### Kap. 30 — Alphina + Gruppe (S. 672–685, ~3.500 Wörter)
 *Freie Stadt Kolmen. Die Nachricht von Expedition 2.*
 
 Alphina kehrt zur Gruppe zurück, drei Tage. Sie bringt das Handbuch, Talvens Tod als Nachricht. Kein Triumph. Kein Schmerz. Nur Ruhe.

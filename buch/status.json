@@ -841,298 +841,298 @@
       {
         "name": "Akt I",
         "kapitel": [
-          "41",
-          "42",
-          "43",
-          "44",
-          "I7",
-          "45",
-          "46",
-          "47",
-          "48",
-          "49",
-          "50"
+          "01",
+          "02",
+          "03",
+          "04",
+          "I1",
+          "05",
+          "06",
+          "07",
+          "08",
+          "09",
+          "10"
         ]
       },
       {
         "name": "Akt II",
         "kapitel": [
-          "51",
-          "I13",
-          "52",
-          "53",
-          "54",
-          "55",
-          "I8",
-          "56",
-          "57",
-          "58",
-          "59",
-          "60"
+          "11",
+          "I2",
+          "12",
+          "13",
+          "14",
+          "15",
+          "I3",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20"
         ]
       },
       {
         "name": "Akt III",
         "kapitel": [
-          "61",
-          "62",
-          "63",
-          "64",
-          "65",
-          "I9",
-          "66",
-          "I14",
-          "67",
-          "68",
-          "69",
-          "70"
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "I4",
+          "26",
+          "I5",
+          "27",
+          "28",
+          "29",
+          "30"
         ]
       },
       {
         "name": "Akt IV",
         "kapitel": [
-          "71",
-          "72",
-          "73",
-          "I16",
-          "74",
-          "75",
-          "76",
-          "77",
-          "78",
-          "79",
-          "I15",
-          "80",
+          "31",
+          "32",
+          "33",
+          "I6",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "I7",
+          "40",
           "Epilog"
         ]
       }
     ],
     "kapitel": {
-      "41": {
+      "01": {
         "titel": "Maren: Der Wasserweg pendelt",
         "pov": "Maren",
         "status": "idee",
         "woerter": null,
         "text": "Maren pendelt durch den Wasserweg. Jedes Mal wenn sie zurückkehrt, ist Thalassien weiter. Radio, Automobile. Computer. Internet. Die Schwellenforschungsgesellschaft wächst über Generationen — wird zum staatlich finanzierten Institut."
       },
-      "42": {
+      "02": {
         "titel": "Alphina: Die erste Quelle",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
         "text": "Alphina arbeitet mit Varen an der Quellen-Reparatur. Pflanzen-Wurzeln die in die tote Quelle reichen. Die erste Quelle erwacht. Ein Pochen. Das erste seit Jahren. Varen steht daneben — zum ersten Mal etwas das nicht Obsession ist."
       },
-      "43": {
+      "03": {
         "titel": "Maren: Thalassien-Technik kommt",
         "pov": "Maren",
         "status": "idee",
         "woerter": null,
         "text": "Maren kehrt nach Moragh zurück — mit einem Forscherteam. Drohnen. KI-Systeme. Scanner die Magie quantifizieren. der Bund-Älteste starrt die Drohne an wie Alphina den ersten Schemen angestarrt hat. Dieselbe Angst, gespiegelt."
       },
-      "44": {
+      "04": {
         "titel": "Vesper: Die Spiegelung",
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
         "text": "Vesper bei den Thar. Thalassien-Technik bedroht Moraghs Kultur. Drohnen kartieren Reservoir-Quellen. KI analysiert Magie-Muster. Konzern-Vertreter reden von 'Effizienzoptimierung.' Klingt wie industrielle Logik, angewandt auf eine fremde Kultur."
       },
-      "45": {
+      "05": {
         "titel": "Talven: Der Held",
         "pov": "Talven",
         "status": "idee",
         "woerter": null,
         "text": "Marktplatz, Hunderte Menschen. Talven verteilt geladene Kristalle. Ein Tischler formt Holz mit bloßen Händen, solange er den Kristall hält; eine Mutter heilt die Verbrennung ihres Kindes. Talven hält die Hände in den Taschen — niemand sieht die Narben, niemand spürt die Kälte. 'Magie für alle.'"
       },
-      "46": {
+      "06": {
         "titel": "Iven: Das Interface",
         "pov": "Iven",
         "status": "idee",
         "woerter": null,
         "text": "Iven, Moragh-geboren, siebzehn, Elektrizitäts-Resonanz. Er berührt den Thalassien-Generator — die Leistung verdoppelt sich. Hand weg: normal. Hand drauf: verdoppelt. Interface zwischen Magie und Technik."
       },
-      "47": {
+      "07": {
         "titel": "Alphina: Zwei Welten treffen sich",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
         "text": "Maren kommt zurück mit Wissenschaftlern und Drohnen. Die Sensoren messen Alphinas Resonanz — quantifiziert, reduziert auf Daten. Alphina sieht die Drohnen und denkt an die Schemen in Vael. Dieselbe Angst. Nur die Richtung hat sich gedreht."
       },
-      "48": {
+      "08": {
         "titel": "Vesper: Die Rechnung",
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
         "text": "Vesper rechnet: wenn Thalassien Zugang zu den Quellen bekommt, ist Moragh in einer Generation wirtschaftlich abhängig. Nyr neben ihm — sie sieht Bestien die extern gespeist werden können, aber auch ihre Rolle die verschwindet."
       },
-      "49": {
+      "09": {
         "titel": "Talven: Der Zerfall",
         "pov": "Talven",
         "status": "idee",
         "woerter": null,
         "text": "Die verteilten Kristalle destabilisieren bei zu intensiver Nutzung. Der Tischler hat Schemen-Streifspuren am Arm — knochenkalter Schnitt ohne Blut. Die Mutter hat Albträume, ihr Kind weint die ganze Nacht. Plus: Schemen-Sog überall, wo Talven gebundene Schemen hat — Bäume welken, Brunnen werden schal. Talven sieht es. Sagt sich: präziser binden, besser verteilen. Macht weiter."
       },
-      "50": {
+      "10": {
         "titel": "Alphina: Der sterbende Hain",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
         "text": "Der Schlaf-Hain: kahle Bäume, grau, trocken. Der Boden darunter: Staub. Jemand hat alles genommen. Die Pflanzen drehen sich nach Süden — dorthin wo jemand nachts kniet und nimmt."
       },
-      "51": {
+      "11": {
         "titel": "Vesper: Der Name",
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
         "text": "Die Entnahme korreliert mit der Verteilung. Eine Einzelperson. Ein Lehrling der Magie verschenkt. 'Talven.' Die Verteilung kostet Moragh doppelt — Entnahme plus Zerfall."
       },
-      "52": {
+      "12": {
         "titel": "Alphina: Die Konfrontation",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
         "text": "Alphina findet Talven nachts in einem leeren Lagerraum, kniend vor seinen Kristallen. Messer, Schale, Leinen. Schmale weiße Linien quer auf dem linken Unterarm, parallel, in genauen Abständen. Hände kalt, als sie ihn fasst. 'Du wächst einen Hain im Schlaf. Es kostet dich nichts. Ich bezahle mit Blut.' Er hat Recht. Und es ist falsch. Beides gleichzeitig."
       },
-      "53": {
+      "13": {
         "titel": "Runa: Die Wahrheit drucken",
         "pov": "Runa",
         "status": "idee",
         "woerter": null,
         "text": "Runa druckt Vespers Daten auf Moragh-Papier, in drei Sprachen. 'Wer zahlt für kostenlose Magie?' Talvens Geschichte, die Kosten der Schemen-Bindung — Schemen-Sog, destabilisierte Kristalle, Schemen-Streifspuren bei den 'Beschenkten'. Talven sieht die Druckbögen. 'Du druckst Lügen.' Runa: 'Ich drucke Zahlen.'"
       },
-      "54": {
+      "14": {
         "titel": "Vesper + Nyr: Bestien-Wahrheit",
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
         "text": "Nyr findet den Bauplan: die Thar wollen Resonanz-Begabte permanent in Käfigen an Maschinen anschließen. 'Das sind Menschen. An Maschinen. Permanent.' Sie nimmt ihre Bestie und geht. Vesper geht mit ihr."
       },
-      "55": {
+      "15": {
         "titel": "Maren: Zwischen den Welten",
         "pov": "Maren",
         "status": "idee",
         "woerter": null,
         "text": "Maren pendelt. Messgeräte hin, Moragh-Proben zurück. Konzern-Vertreter wittern Ressourcen. Reservoir-Quellen als Energiequellen. Drohnen über der Bund-Stadt. Scanner an den Reservoiren."
       },
-      "56": {
+      "16": {
         "titel": "Vesper + Nyr: Rückkehr",
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
         "text": "Vesper und Nyr verlassen die Thar. Maren schlägt Vesper ins Gesicht, das Wasser explodiert. 'Du hast uns verkauft.' Vesper: 'Ich habe gerechnet.' Runa: 'Setzt euch. Es gibt Tee.'"
       },
-      "57": {
+      "17": {
         "titel": "Elke: Der Stein schweigt",
         "pov": "Elke",
         "status": "idee",
         "woerter": null,
         "text": "Elke im Garten. Legt die Hand auf den Basalt. Der Stein antwortet — leise, langsam. Sie ist alt. Nicht leer — fertig. Sie stirbt am Abend, leise, auf dem Stein. Runa hält ihre linke Hand, Alphina ihre rechte. Der Stein: warm. Er verabschiedet sich."
       },
-      "58": {
+      "18": {
         "titel": "Talven: Am Grab",
         "pov": "Talven",
         "status": "idee",
         "woerter": null,
         "text": "Talven an Elkes Grab. Hört auf zu schneiden. Sammelt die Kristalle ein, löst die Bindungen einen nach dem anderen — jeder gelöste Schemen streift ihn im Wegtaumeln. Knochenkälte unter der Haut. Hände jetzt bis zu den Schultern kalt. Am nächsten Morgen: ein Grashalm im verdorrten Hain. Einer. Talven sieht ihn nicht. Alphina schon."
       },
-      "59": {
+      "19": {
         "titel": "Varen: Die dritte Quelle",
         "pov": "Varen",
         "status": "idee",
         "woerter": null,
         "text": "Varen webt die dritte und letzte Quelle. Fäden statt Ketten. Drei Quellen, alle erwacht. Die Städte haben wieder ein Fundament. Der Krieg verliert seinen Grund. Varen: erschöpft, verschwitzt. Aber die Quellen pochen. Wiedergutmachung."
       },
-      "60": {
+      "20": {
         "titel": "Alphina: der Bund wollen schließen",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
         "text": "der Bund wollen den Riss schließen. Thalassien-Technik bedroht ihre Machtstruktur. Drohnen sind Waffen die kein Reservoir brauchen. Die Älteste: 'Wir haben vierhundert Jahre ohne sie überlebt.' Alphina denkt an Vael — dieselbe Frage, umgekehrt."
       },
-      "61": {
+      "21": {
         "titel": "Vesper: Die Riss-Frage",
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
         "text": "der Bund wollen es schließen. Der Thalassien-Antagonist will es weit offen. Maren steht dazwischen. Vesper rechnet: keine einfache Antwort. Menschen entscheiden. Diplomatie, Politik, Verhandlung. Nicht ein Ritual, nicht ein Opfer."
       },
-      "62": {
+      "22": {
         "titel": "Runa: Die Hybrid-Presse",
         "pov": "Runa",
         "status": "idee",
         "woerter": null,
         "text": "Runa baut: Moragh-Magie und Thalassien-Technik, verschmolzen in einer Druckerpresse. Metall geformt durch ihre Hände, Mechanik aus Thalassien-Plänen. Die Presse druckt in beiden Welten. Information als Brücke."
       },
-      "63": {
+      "23": {
         "titel": "Talven: Der Büßer",
         "pov": "Talven",
         "status": "idee",
         "woerter": null,
         "text": "Talven an der Seite der Gruppe. Blind, zitternd, aber er kennt die Resonanz von innen. Fühlt den Fluss — Alphinas Signatur warm und grün, Marens kalt und salzig, Runas heiß und metallisch. 'Ich habe einem Wald das Leben gestohlen und es für gerecht gehalten.'"
       },
-      "64": {
+      "24": {
         "titel": "Alle: Die Verhandlung",
         "pov": "Alle",
         "status": "idee",
         "woerter": null,
         "text": "Alle zusammen in Elkes Garten. Thalassier, Moragh-Geborene, Ingenieure, Älteste, eine Pilotin, ein blinder Lehrling. Varen neben Alphina. Die Riss-Frage: offen, geschlossen, reguliert. Die Verhandlung beginnt — nicht mit Magie, mit Worten."
       },
-      "65": {
+      "25": {
         "titel": "Maren: Die Brücke",
         "pov": "Maren",
         "status": "idee",
         "woerter": null,
         "text": "Maren steht zwischen den Welten. Ihre Entscheidung: den Kanal offen halten — reguliert, begrenzt, verhandelt. Nicht weit offen für Konzerne. Nicht geschlossen für immer. Ein Spalt. Eine Naht."
       },
-      "66": {
+      "26": {
         "titel": "Vesper: Die Zukunft",
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
         "text": "Vesper sieht Zeitlinien — aber weniger klar als früher. Die Quellen sind repariert, die Muster ändern sich. Zum ersten Mal eine Zukunft ohne eindeutige Berechnung. Beängstigend und eine Erleichterung. Nyr neben ihm. Er bleibt bei ihr."
       },
-      "67": {
+      "27": {
         "titel": "Alphina: Die Wahl",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
         "text": "Alphina wählt. Varen. Moragh. Nicht weil Runa schlecht ist — weil Alphina sich in der Dunkelheit erkannt hat. Bei Sorel hat die Welt geblüht. Bei Runa war sie still. Bei Varen wachsen Dornen — und das ist ehrlicher als Blüten und Stille."
       },
-      "68": {
+      "28": {
         "titel": "Varen: Der Weber",
         "pov": "Varen",
         "status": "idee",
         "woerter": null,
         "text": "Die drei Quellen pochen. Die Städte erholen sich. Der Krieg hat keinen Grund mehr. Varen steht in Elkes Garten, neben Alphina. Kein Triumph. Kein Sieg. Die Schuld bleibt. Die Quellen bleiben. Fäden statt Ketten."
       },
-      "69": {
+      "29": {
         "titel": "Alle: Danach",
         "pov": "Alle",
         "status": "idee",
         "woerter": null,
         "text": "Maren in Thalassien, alt, am Hafen. Vesper bei den Thar mit Nyr. Runa an ihrer Hybrid-Presse, Alphinas Worte in einer Kiste. Talven unterrichtet blind: 'Magie kostet. Immer.' Er lebt in Elkes Garten. Der Stein spricht — leise, aber da."
       },
-      "EP": {
+      "Epilog": {
         "titel": "Epilog",
         "pov": "Alle",
         "status": "idee",
         "woerter": null,
         "text": "Vael, botanischer Garten. Ein Kind berührt einen Farn. Der Farn dreht sich. Schwindelgefühl — kurz. Magie kostet jetzt. Für alle. — Moragh. Elkes Garten, jetzt Varens und Alphinas. Seine Hand auf ihrem Rücken. Sein altes Thalassisch in ihrem Ohr. Ein Dorn an ihrer Hand. Sein Blick der nicht fragt."
       },
-      "I7": {
+      "I1": {
         "titel": "Die Ankunft",
         "pov": "Maren",
         "status": "idee",
         "woerter": null,
         "text": "~1910. Maren tritt durch das Portal in ein Vael das sie nicht erkennt. Elektrizitaet. Dampfschiffe. Automobile. Der Botanische Garten ist ein Park mit Eisengitter. Der Purpurstein im Steinkreis ist noch warm -- der einzige Beweis. Sie traegt Kleidung von 1820. Der Anker existiert nicht mehr. Unter dem Pflaster, Hand aufgelegt -- ein Herzschlag. Schwaecher als damals."
       },
-      "I8": {
+      "I3": {
         "titel": "Das Institut",
         "pov": "Maren",
         "status": "idee",
         "woerter": null,
         "text": "~1960. Maren ist alt. Das Schwellenforschungsinstitut hat 40 Mitarbeiter, einen Lehrstuhl, Messgeraete die Resonanz-Restfelder kartieren. Vael-Anomalien schwaecher aber messbar. Sie vermisst Vespers Hände. Schreibt ihm einen Brief den sie nie abschicken kann."
       },
-      "I9": {
+      "I4": {
         "titel": "Das Testament",
         "pov": "Maren",
         "status": "idee",

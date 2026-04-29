@@ -17,7 +17,7 @@ Zwei Schauplätze parallel:
 
 ## Kapitelplan
 
-### Kap. 43 — Alphina (S. 1–22, ~5.500 Wörter)
+### Kap. 3 — Alphina (S. 1–22, ~5.500 Wörter)
 *Torkal. Drei Wochen nach Sulkara. Der erste Morgen ohne Ketten.*
 
 Alphina wacht in Varens Quartier auf. Moragh-Bettwäsche, schwere Leinen, zu warm für die Jahreszeit. Die Karten an der Wand — vier rote Markierungen (drei Varens, eine ihre). Sie steht auf, geht barfuß auf den Basalt. Der Stein ist warm im Untergrund — die Quelle von Torkal pulsiert zwei Kilometer entfernt. Sie spürt es als Puls in den Fußsohlen.
@@ -34,7 +34,7 @@ Sie gehen am Nachmittag los. Drei Tage Marsch. Schemen tragen die Ausrüstung �
 
 **Tschechow:** Varens Tränen am Feuer. — Feuert: Akt IV, Reveal. Die Tränen sind geübt. Er kann auf Knopfdruck.
 
-### Kap. 42 — Alphina + Varen (S. 22–44, ~5.500 Wörter)
+### Kap. 2 — Alphina + Varen (S. 22–44, ~5.500 Wörter)
 *Halvara-Kel. Die erste Reparatur.*
 
 Die tote Quelle. Alphina kniet auf dem Fels, Hände auf dem Basalt. Sie erinnert sich an den Tag, als sie die Quelle tötete — Wurzeln tief in die Erde, Überladung mit Wachstum, bis die Resonanz kollabierte. Der Boden damals: schwarz gestreift von ihrer eigenen Magie. Heute: kalter grauer Fels, ausgelaugt.
@@ -53,7 +53,7 @@ Alphina lacht das erste Mal seit Sorels Tod ohne Schmerz.
 
 **Tschechow:** Der erste Puls. — Feuert: Akt III, wenn Alphina nach ihrer Abkehr von Varen zu den ersten „reparierten" Quellen zurückreist und keine einzige mehr pulsieren findet. Der Puls hält nicht. Er hat nie gehalten.
 
-### Kap. 43 — Vesper + Nyr (S. 44–65, ~5.000 Wörter)
+### Kap. 3 — Vesper + Nyr (S. 44–65, ~5.000 Wörter)
 *Thar-Kem. Die Ankunftsstadt am Portal.*
 
 Vesper in der Thar-Hauptstadt, seit Sulkara fünf Wochen vergangen. Nyr neben ihm über einer Karte — Thar-Grenzgebiete, Orath-Fronten, das Bund-Vorfeld. Keine neue Offensive geplant. Die Thar-Kommandantin hat Vesper zur Analytikerin-Funktion befördert: alle Aufklärungs-Daten laufen über seinen Tisch.
@@ -76,7 +76,7 @@ Nyr sieht ihn an. *„Und wir?"* Er legt die Hand auf ihren Nacken. *„Wir bere
 
 **Tschechow:** Vespers ignorierter Bericht. — Feuert: Akt III, wenn das Notbündnis Orath+Thar beschlossen wird und die Thar-Kommandantin ihn als Stratege holt. Sie gibt zu, dass sein Bericht unter dem Stapel blieb.
 
-### Kap. 44 — Varen-POV (S. 65–82, ~4.500 Wörter)
+### Kap. 4 — Varen-POV (S. 65–82, ~4.500 Wörter)
 *Torkal-Quartier. Drei Moragh-Tage nach Halvara-Kel.*
 
 Varen allein, Alphina schläft nebenan. Er sitzt an seinem Arbeitstisch, vor ihm: sein Kalkulationsbuch. Der Speicher aus Alphinas Puls ist registriert. Zwölf Prozent ihrer Gesamt-Resonanz an einem einzigen Tag. Drei weitere solche Sitzungen, und sie wird leer sein. Nein — fünf, sechs. Sie regeneriert in Moragh schneller als er erwartet hatte. Das ist gut.
@@ -101,7 +101,7 @@ Der Ersatz ist noch unklar. Varen notiert fünf mögliche Namen von Thalassier-R
 
 **Tschechow:** Die Vier-Thalassier-Liste im Sprachbuch. — Feuert: Akt III, wenn Vesper das Kalkül entschlüsselt und Alphina das Dokument findet.
 
-### Interludium I7 — Maren, Thalassien (S. 82–92, ~2.500 Wörter)
+### Interludium I1 — Maren, Thalassien (S. 82–92, ~2.500 Wörter)
 *Vael, ~1990 TZ. Drei Jahre nach Marens Durchgang.*
 
 Maren auf der Werft, die sie von Haron geerbt hat. Drei Viertel-fertiges Boot immer noch nicht zu Wasser — sie hat keine Zeit, sie hat wichtigeres zu tun. Die **Schwellenforschungsgesellschaft** ist drei Monate alt, hat vier Mitglieder und einen Raum im Dachgeschoss der Werft.
@@ -124,7 +124,7 @@ Sie atmet einmal tief ein, steht auf. Das Dachgeschoss wartet. Morgen früh komm
 
 **Tschechow:** Marens Geduld-Maxime *„dann warten wir Jahrzehnte"*. — Feuert: Akt II, I8. Sie wartet bis 2037. Stirbt mit 80 im Angesicht des Verwüster-Angriffs.
 
-### Kap. 45 — Talven (S. 92–114, ~5.500 Wörter)
+### Kap. 5 — Talven (S. 92–114, ~5.500 Wörter)
 *Halvaren, Bund-Stadt. Nachmittag auf dem Marktplatz.*
 
 Talven-POV. Moragh-Bund-Rufer, noch Held der Armen. Hundert Menschen auf dem Marktplatz, einhundertfünfzig. Er steht auf einer hölzernen Kiste und **verteilt geladene Kristalle**. Die Technik: Er hat in der Nacht zuvor seine Bindungs-Kristalle mit eigenem Blut aufgeladen, jeder Kristall hält für kurze Wirkung. Er gibt sie weiter, Hand auf Hand. Niemand fragt, wie sie funktionieren.
@@ -147,7 +147,7 @@ Er legt das Buch in die Schublade. Entscheidet, es nicht zu verbrennen. *„Nur 
 
 **Tschechow:** Das schwarz-gebundene Handbuch in der Schublade. — Feuert: Akt II, wenn Talven mit Blutmagie + Schemen-Binden beginnt.
 
-### Kap. 46 — Tyra, Thalassien (S. 114–136, ~5.500 Wörter)
+### Kap. 6 — Tyra, Thalassien (S. 114–136, ~5.500 Wörter)
 *Vael, ~2020 TZ. Der Tag der Forschungs-Expedition.*
 
 Thalassien. Vael, Botanischer Garten, Steinkreis. Drei Jahrzehnte nach Marens Institut-Gründung hat sich das Gebäude zum staatlich finanzierten **Schwellenforschungsinstitut** entwickelt. Glas und Stahl neben dem Steinkreis. Maren ist 63 Jahre alt, sitzt im Rollstuhl, blickt aus dem Fenster.
@@ -170,7 +170,7 @@ Tyra geht als Siebente durch. Vor ihr: fünf Wissenschaftler und ein Sicherheits
 
 **Tschechow:** Die vierzig Kisten der Expedition. — Feuert: Akt II, wenn die Thar die Tech konfisziert und die Expedition scheitert.
 
-### Kap. 47 — Alphina + Varen (S. 136–158, ~5.500 Wörter)
+### Kap. 7 — Alphina + Varen (S. 136–158, ~5.500 Wörter)
 *Mar-Keth. Die zweite Reparatur. Varens Trauer-Szene.*
 
 Zweite Route. Alphina und Varen reisen weiter nach Mar-Keth — die Velmar-Ruinenstadt, Varens Herkunft, seine erste tote Quelle. Vier Tage Marsch. Die Landschaft wird karger, je näher sie kommen.
@@ -197,7 +197,7 @@ Er trauert nicht. Er zählt.
 
 **Tschechow:** Kel mit den blauen Flecken. — Feuert: Akt IV. Varen hat den Namen erfunden. In seinem Heimatviertel gab es nie einen Kel.
 
-### Kap. 48 — Vesper + Nyr (S. 158–180, ~5.500 Wörter)
+### Kap. 8 — Vesper + Nyr (S. 158–180, ~5.500 Wörter)
 *Thar-Kem. Die Expedition wird eingenommen.*
 
 Thar-Emissäre am Steinplatz empfangen die fünfzehn Expeditionsmitglieder. Nicht feindselig — diplomatisch. Die Thar-Kommandantin reist persönlich an, begrüßt sie mit gelernter Förmlichkeit. Tyra versucht, mit ihr in altem Thalassisch zu sprechen. Die Kommandantin lacht — sie spricht ein Moragh-Dialekt, das aus Tyras Perspektive fremd klingt. Eine junge Thar-Übersetzerin vermittelt.
@@ -218,7 +218,7 @@ Sie bedenkt es nicht. Sie will die Tech haben, nicht verstehen. Vesper sieht es 
 
 **Tschechow:** Vespers Warnung, die ignoriert wird. — Feuert: Akt III, wenn die zweite Expedition kommt und die Thar in Panik verhandelt.
 
-### Kap. 49 — Runa (S. 180–204, ~6.000 Wörter)
+### Kap. 9 — Runa (S. 180–204, ~6.000 Wörter)
 *Halvaren, Bund-Hauptstadt. Die Druckerei bei Nacht.*
 
 Runa-POV. Seit Sulkara bei der Bund-Stadt Halvaren. Offiziell: Druckerin, Druckerei-Inhaberin, kleine aber angesehene Handwerkerin. Inoffiziell: Informations-Sammlerin. Sie druckt in zwei Sprachen — Bund-Standard und alte Moragh-Runen — Flugblätter, die am Rand der Stadt an Mauern kleben. Nicht politisch. Nicht scharf. Nur: Informationen, die der Bund-Älteste nicht verbreiten will.
@@ -241,7 +241,7 @@ Drael liest das Flugblatt, verbrennt es. Am Abend bietet er Runa einen Auftrag a
 
 **Tschechow:** Drael, der Runa beobachtet. — Feuert: Akt III, wenn Drael merkt, dass Runa zu viel weiß und sie eliminieren lassen will.
 
-### Kap. 50 — Alphina (S. 204–225, ~5.000 Wörter)
+### Kap. 10 — Alphina (S. 204–225, ~5.000 Wörter)
 *Torkal. Der Schlaf-Hain welkt an den Rändern.*
 
 Zurück in Torkal. Die zwei reparierten Quellen — Halvara-Kel und Mar-Keth — pulsieren noch. Alphina prüft sie morgens mit den Füßen auf dem Basalt. Beide warm. Beide leben.

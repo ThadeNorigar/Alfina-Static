@@ -19,7 +19,7 @@ Moragh-Zeit: Monat 9 bis 10. Thalassien-Zeit: ~2120 bis 2155 TZ.
 
 ## Kapitelplan
 
-### Kap. 71 — Alphina + Gruppe (S. 685–705, ~5.000 Wörter)
+### Kap. 31 — Alphina + Gruppe (S. 685–705, ~5.000 Wörter)
 *Anmarsch nach Osten. Iven stößt dazu.*
 
 Die Gruppe (Alphina, Vesper, Nyr in Kessler, Runa, Tyra) bricht aus Kolmen nach Osten auf. Zwei Tage Marsch. In einer kleinen Siedlung nahe der Bund-Grenze trifft sie einen jungen Mann: **Iven**.
@@ -44,7 +44,7 @@ Drael: *„Zugestimmt."*
 
 **Tschechow:** Ivens erstes Tech-Ausschalten (Uhrwerk rückwärts). — Feuert: K78, wenn er eine komplette Drohnen-Schwarm-Steuerung lahmlegt.
 
-### Kap. 72 — Varen (S. 705–725, ~5.000 Wörter)
+### Kap. 32 — Varen (S. 705–725, ~5.000 Wörter)
 *Torkal. Varen zieht aus. Sein Zirkel sammelt sich.*
 
 Varen-POV. Sein Zirkel der 20–30 ist vollständig angekommen in Torkal. Handverlesene Magier — Bund-Abtrünnige, Velmar-Verstoßene, freie-Städte-Rufer. Alle glauben an seine Rettungs-Geschichte. Alle haben Jahre an seinen Anker-Transfers mitgebaut (kleine Anker, nicht Alphinas Größe, aber zusammen ein großer Speicher).
@@ -65,7 +65,7 @@ Er schickt einen Schemen-Boten zu Alphina, mit einer Einladung. Direkt. Ohne Fas
 
 **Tschechow:** Gren-Rath als Duell-Ort. — Feuert: K73, wenn die Gruppe dort ankommt.
 
-### Kap. 73 — Gruppe (S. 725–745, ~5.000 Wörter)
+### Kap. 33 — Gruppe (S. 725–745, ~5.000 Wörter)
 *Gren-Rath. Der erste Kontakt mit Varens Zirkel.*
 
 Die Gruppe erreicht Gren-Rath. Der Bündnis-Hauptverband (Bund + Thar) bleibt in einem Tag Entfernung Richtung Dravek — sie können nicht alle gleichzeitig kämpfen, es bräuchte Koordination über Tyras Schall-Schemen-Fernsprecher (bereits verteilt).
@@ -94,7 +94,7 @@ Er nickt leicht. Setzt neu an, mit einer anderen Argumentation. Alphina hebt die
 
 **Tschechow:** Die zersplitterten Kristalle. — Feuert: K75/76, wenn Varen neue Kristalle improvisiert und sie nicht mehr die gleiche Bindung haben.
 
-### Interludium I16 — Kelvar, Thalassien (S. 745–758, ~2.500 Wörter)
+### Interludium I6 — Kelvar, Thalassien (S. 745–758, ~2.500 Wörter)
 *Vael, Botanischer Garten, ~2120 TZ. Expedition 2 bricht auf.*
 
 Rückblick-Interludium. Zeigt den Moment, der in Moragh gerade zu Ende geht. Das Portal wird von Thalassien-Seite mit dem Modulator geöffnet.
@@ -117,7 +117,7 @@ Kelvar geht als letzter der ersten zehn Kolonnen (500 Mann). Er dreht sich am Po
 
 **Tschechow:** Kelvar erwartet die zweite Welle mit Killermaschinen. — Feuert: K78/79, wenn der Modulator reaktiviert wird.
 
-### Kap. 74 — Gruppe (S. 758–778, ~5.000 Wörter)
+### Kap. 34 — Gruppe (S. 758–778, ~5.000 Wörter)
 *Gren-Rath. Kampf Tag 1.*
 
 Varens Anhänger greifen an. Die Gruppe zersplittert:
@@ -137,7 +137,7 @@ Alphina sitzt am Feuer. Schaut in die Flammen. Keine Worte. Sie weiß: morgen mu
 
 **Tschechow:** Alphinas Erkenntnis „ich muss ihn unter Zeitdruck stellen". — Feuert: K76, wenn sie die Konfrontation beschleunigt.
 
-### Kap. 75 — Duell Teil 1 (S. 778–798, ~5.000 Wörter)
+### Kap. 35 — Duell Teil 1 (S. 778–798, ~5.000 Wörter)
 *Gren-Rath. Zweiter Tag. Alphina + Vesper vs. Varen direkt.*
 
 Morgens. Alphina entscheidet, den Zirkel zu umgehen — direkt zu Varen vorzudringen. Sie und Vesper allein. Die anderen halten die Flanken.
@@ -170,7 +170,7 @@ Alphina schaut auf. Ihre Augen sind leer. Varen lächelt. Es ist der erste Momen
 
 **Tschechow:** Vespers verkochter Arm. — Feuert: K77, Alphinas rückwirkende Erkenntnis zu Elkes Mord (gleicher Schemen-Mechanismus).
 
-### Kap. 76 — Duell Teil 2 (S. 798–818, ~5.000 Wörter)
+### Kap. 36 — Duell Teil 2 (S. 798–818, ~5.000 Wörter)
 *Gren-Rath. Alphinas Konzentrationsbruch. Ihre eigenen Dornen.*
 
 Vesper lebt, ist aber kampfunfähig. Er liegt am Boden, atmet flach. Alphina muss weiter.
@@ -203,7 +203,7 @@ Sie rappelt sich hoch. Hebt die rechte Hand.
 
 **Tschechow:** Das Kopfschütteln und der Satz. — Feuert: Kap 77, Fortsetzung der Reveal-Sequenz.
 
-### Kap. 77 — Duell Teil 3 (S. 818–840, ~5.500 Wörter)
+### Kap. 37 — Duell Teil 3 (S. 818–840, ~5.500 Wörter)
 *Gren-Rath. Reveal-Sequenz + Todesstoß.*
 
 Varen spricht weiter. Der Tonfall hat sich endgültig umgeschaltet. Warm, fast charmant, aber mit einer Kälte darunter, die Alphina jetzt hört.
@@ -252,7 +252,7 @@ Sie hält ihn in der Hand. Schließt die Augen. Weint weiter.
 
 **Tschechow:** Der Basalt-Splitter in Varens Mantel. — Feuert: K78/79, wenn Alphina ihn an Elkes Grab legt.
 
-### Kap. 78 — Iven + Gruppe (S. 840–858, ~4.500 Wörter)
+### Kap. 38 — Iven + Gruppe (S. 840–858, ~4.500 Wörter)
 *Dravek. Schlacht gegen Expedition. Iven in Aktion.*
 
 Parallel-Handlung zur Duell-Szene (zeitlich teilweise überlappend). POV wechselt zu Iven am Rand des Schlachtfelds bei Dravek.
@@ -291,7 +291,7 @@ Runa, im Fernsprecher: *„Allein?"*
 
 **Tschechow:** Ivens vierfacher Puls. — Feuert: K79, wenn die Drohnen-Ausfälle als entscheidend für Alphinas Durchbruch zur Quelle erkannt werden.
 
-### Kap. 79 — Alphina (S. 858–880, ~5.500 Wörter)
+### Kap. 39 — Alphina (S. 858–880, ~5.500 Wörter)
 *Dravek. Der Durchbruch. Die Portal-Quelle.*
 
 Alphina lässt Vesper bei Nyr zurück (Nyr ist aus Kessler raus, weil Kessler an der Front unter Beschuss ist — die Bestie gibt gerade Deckung für Moragh-Infanterie, ohne Nyr als Pilotin kann sie nicht mehr reiten). Nyr übernimmt die Wundversorgung. Alphina reitet Richtung Dravek — letzte 15 km, in Eile.
@@ -324,7 +324,7 @@ Sie schließt die Augen.
 
 **Tschechow:** Der Moment des Portal-Kollaps und die gekappte Killermaschine. — Feuert: I15, das Thalassien-Interludium, wenn Syra den halben Roboter an Vael-Seite sieht.
 
-### Interludium I15 — Thalassien (S. 880–892, ~2.500 Wörter)
+### Interludium I7 — Thalassien (S. 880–892, ~2.500 Wörter)
 *Vael, ~2153 TZ und ~2155. Das Ende von Thalassiens Magie.*
 
 Zwei Zeiten in diesem Interludium, kurz hintereinander.
@@ -355,7 +355,7 @@ Unter dem Steinkreis: **Stille.** Zum ersten Mal seit Jahrhunderten.
 
 **Tschechow:** Das Ende. — Kein weiteres Feuern.
 
-### Kap. 80 — Alphina + Vesper (S. 892–911, ~5.000 Wörter)
+### Kap. 40 — Alphina + Vesper (S. 892–911, ~5.000 Wörter)
 *Halvek-Mar. Monate später. BDSM-Anbahnung.*
 
 Vier Moragh-Wochen nach dem Finale. Die Gruppe ist in Halvek-Mar angekommen — freie Südstadt, klein, am Meer. Runa und Nyr haben ein Haus gefunden, einen Werkstattraum davor. Alphina und Vesper haben ein eigenes kleines Haus zwei Straßen weiter.

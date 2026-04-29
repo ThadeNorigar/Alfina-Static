@@ -3002,165 +3002,6 @@
       "kapitel_status": "idee"
     },
     {
-      "mz": 5.5,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B3",
-      "kapitel": "41",
-      "leseart": "normal",
-      "titel": "Alphina + Varen in Torkal — erste Quellen-Reparatur (Halvara-Kel)",
-      "detail": "Drei Wochen nach Sulkara. Sie reisen zur toten Quelle Halvara-Kel, legen die Hände auf den ausgelaugten Fels. Ein Puls, ein Zucken, Pochen — Alphina lacht erstmals seit Sorels Tod. Der Anker zwischen ihren Schulterblättern zieht Überschuss in Varens Speicher.",
-      "typen": [
-        "resonanz",
-        "tschechow"
-      ],
-      "tags": [
-        "Torkal",
-        "Halvara-Kel",
-        "Anker-zieht"
-      ],
-      "tz": 734,
-      "tz_sort": 734.3333333333334,
-      "tz_datum": "MZ 5.50 · TZ 734",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 5.55,
-      "welt": "moragh",
-      "pov": "Vesper",
-      "buch": "B3",
-      "kapitel": "42",
-      "leseart": "normal",
-      "titel": "Vesper analysiert Expedition-Sensoren",
-      "detail": "Vesper in Thar-Kem über Aufklärungsdaten. Bodentemperatur-Anomalien am Steinplatz, Sensoren, die er nicht kennt. Etwas kommt durch — Thar-Kommandantin legt seinen Bericht ungelesen auf den Stapel.",
-      "typen": [
-        "erkenntnis",
-        "tschechow"
-      ],
-      "tags": [
-        "Expedition-Warnung",
-        "Thar-Kommandantin"
-      ],
-      "tz": 736,
-      "tz_sort": 736.0,
-      "tz_datum": "MZ 5.55 · TZ 736",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 5.7,
-      "welt": "moragh",
-      "pov": "Runa",
-      "buch": "B3",
-      "kapitel": "43",
-      "leseart": "normal",
-      "titel": "Runa in Halvaren — Drael-Beobachtung",
-      "detail": "Runa druckt weiter zweisprachige Flugblätter in Halvaren. Drael besucht abends zu höflichem Tee, der nie getrunken wird. Sie sammelt Material gegen ihn.",
-      "typen": [
-        "hintergrund"
-      ],
-      "tags": [
-        "Halvaren",
-        "Drael-Gegner"
-      ],
-      "tz": 741,
-      "tz_sort": 741.0,
-      "tz_datum": "MZ 5.70 · TZ 741",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 5.75,
-      "welt": "thalassien",
-      "pov": "Maren",
-      "buch": "B3",
-      "kapitel": "I7",
-      "leseart": "rueckblende",
-      "titel": "I7 — Maren gründet die Schwellenforschungsgesellschaft",
-      "detail": "Rückblick auf Vael 1990 TZ. Maren mit drei Mitgliedern im Dachgeschoss der Werft: »Dann warten wir Jahrzehnte.« Gründung der späteren staatlich finanzierten Institution.",
-      "typen": [
-        "schlüssel",
-        "hintergrund"
-      ],
-      "tags": [
-        "Schwellenforschungsgesellschaft",
-        "Vael 1990"
-      ],
-      "tz": 743,
-      "tz_sort": 742.6666666666667,
-      "tz_datum": "MZ 5.75 · TZ 743",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 5.8,
-      "welt": "moragh",
-      "pov": "Talven",
-      "buch": "B3",
-      "kapitel": "44",
-      "leseart": "normal",
-      "titel": "Talven verteilt geladene Kristalle, Held-Aufstieg",
-      "detail": "Talven in Halvaren. Er gibt einem Kind einen seiner Schemen-Kristalle in die Hand — Fieber sinkt für eine Stunde. Ein alter Rufer leiht sich einen Kristall, formt für eine Minute eine Lichtkugel. Talvens eigene Hände werden kalt — sie sind es seit Wochen, niemand fragt, weil Moragh ohnehin kalt ist. Nachts allein in der hinteren Kammer übt er weiter — die Methode hat er sich selbst beigebracht, niemand weiß davon.",
-      "typen": [
-        "resonanz",
-        "tschechow"
-      ],
-      "tags": [
-        "Held-Aufstieg",
-        "Bindungs-Handbuch"
-      ],
-      "tz": 744,
-      "tz_sort": 744.3333333333334,
-      "tz_datum": "MZ 5.80 · TZ 744",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 5.85,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B3",
-      "kapitel": "45",
-      "leseart": "normal",
-      "titel": "Zweite Quellen-Reparatur (Mar-Keth)",
-      "detail": "Mar-Keth pulsiert wieder, schwach aber sichtbar. Alphina fühlt Heilung, Varen notiert still den Frequenzwert in seinem Notizbuch. Sie glaubt ihm.",
-      "typen": [
-        "resonanz",
-        "tschechow"
-      ],
-      "tags": [
-        "Mar-Keth",
-        "Reparatur-Fassade"
-      ],
-      "tz": 746,
-      "tz_sort": 746.0,
-      "tz_datum": "MZ 5.85 · TZ 746",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 5.9,
-      "welt": "thalassien",
-      "pov": "Tyra",
-      "buch": "B3",
-      "kapitel": "46",
-      "leseart": "normal",
-      "titel": "Erste Expedition kommt durchs Portal — 2020 TZ",
-      "detail": "Tyra Halvard und vierzehn Forscher treten durch den Steinkreis. Wissenschaftliche Expedition, keine militärische. Die Moragh-Welt ist anders als die Schriften beschreiben.",
-      "typen": [
-        "portal",
-        "begegnung"
-      ],
-      "sync": {
-        "thalassien": "Vael 2020 TZ. Institut schickt Expedition 1 los, 15 Forscher.",
-        "moragh": "Am Steinplatz treffen sie auf erste Thar-Patrouille. Keine Verluste, aber Spannung."
-      },
-      "tags": [
-        "Expedition 1",
-        "Tyra Halvard",
-        "2020 TZ"
-      ],
-      "tz": 748,
-      "tz_sort": 747.6666666666667,
-      "tz_datum": "MZ 5.90 · TZ 748",
-      "kapitel_status": "idee"
-    },
-    {
       "mz": 3.43,
       "welt": "moragh",
       "pov": "Runa",
@@ -3228,27 +3069,6 @@
       "kapitel_status": "idee"
     },
     {
-      "mz": 5.95,
-      "welt": "moragh",
-      "pov": "Vesper",
-      "buch": "B3",
-      "kapitel": "47",
-      "leseart": "normal",
-      "titel": "Thar erobert Ankunftsstadt",
-      "detail": "Die Thar-Kommandantin reagiert endlich, erobert die Stadt am Steinplatz, nimmt Expedition 1 ein — misstraut, verhört, trennt sie von der Welt. Vesper fordert Kooperation, wird abgewiesen.",
-      "typen": [
-        "krieg",
-        "begegnung"
-      ],
-      "tags": [
-        "Expedition-gefangen"
-      ],
-      "tz": 749,
-      "tz_sort": 749.3333333333334,
-      "tz_datum": "MZ 5.95 · TZ 749",
-      "kapitel_status": "idee"
-    },
-    {
       "tz": 751,
       "tz_sort": 751.0001,
       "mz": 6.0,
@@ -3270,160 +3090,162 @@
       "kapitel_status": ""
     },
     {
-      "mz": 6.2,
+      "mz": 5.0,
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B3",
-      "kapitel": "48",
+      "kapitel": "01",
       "leseart": "normal",
-      "titel": "Dritte Quellen-Reparatur (Dulrath-Ost) — Reparaturen verblassen",
-      "detail": "Dulrath-Ost pulsiert, aber schon Halvara-Kel erlischt wieder. Varen nickt: einzelne Injektion halte nicht, man müsse wiederkommen. Alphina schluckt die Erklärung. Ihr Schlaf-Hain in Torkal welkt an den Rändern.",
+      "titel": "Alphina + Varen in Torkal — erste Quellen-Reparatur (Halvara-Kel)",
+      "detail": "Drei Wochen nach Sulkara. Sie reisen zur toten Quelle Halvara-Kel, legen die Hände auf den ausgelaugten Fels. Ein Puls, ein Zucken, Pochen — Alphina lacht erstmals seit Sorels Tod. Der Anker zwischen ihren Schulterblättern zieht Überschuss in Varens Speicher.",
       "typen": [
         "resonanz",
-        "erkenntnis"
-      ],
-      "tags": [
-        "Reparatur-Fassade bröckelt",
-        "Anker leckt"
-      ],
-      "tz": 758,
-      "tz_sort": 757.6666666666667,
-      "tz_datum": "MZ 6.20 · TZ 758",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 6.5,
-      "welt": "moragh",
-      "pov": "Varen",
-      "buch": "B3",
-      "kapitel": "51",
-      "leseart": "normal",
-      "titel": "Varen entdeckt das Ritual — vier Thalassier-Opfer",
-      "detail": "Varen in der Moragh-Sprachbuch-Bibliothek. Er findet die alte Velmar-Ritualform: vier Thalassier-Resonanzen, absorbiert durch einen Binder, dauerhafte preisfreie Magie. Legt die Liste wieder zwischen die Bücher.",
-      "typen": [
-        "wissen",
         "tschechow"
       ],
       "tags": [
-        "Ritual entdeckt"
+        "Torkal",
+        "Halvara-Kel",
+        "Anker-zieht"
       ],
-      "tz": 768,
-      "tz_sort": 767.6666666666667,
-      "tz_datum": "MZ 6.50 · TZ 768",
+      "tz": 760,
+      "tz_sort": 760.0,
+      "tz_datum": "MZ 5.00 · TZ 760",
       "kapitel_status": "idee"
     },
     {
-      "mz": 6.55,
-      "welt": "thalassien",
-      "pov": "Tyra",
+      "mz": 5.13,
+      "welt": "moragh",
+      "pov": "Vesper",
       "buch": "B3",
-      "kapitel": "I13",
-      "leseart": "rueckblende",
-      "titel": "I13 — Tyra Halvard + Team vor dem Aufbruch",
-      "detail": "Rückblende Vael 2019 TZ. Tyra mit ihren vierzehn Kollegen vor dem Durchgang. Abschied, Koffer, Vorträge, Familien, Witze. Eine Nacht vor dem Portal. Institut füttert Hoffnung.",
+      "kapitel": "02",
+      "leseart": "normal",
+      "titel": "Vesper analysiert Expedition-Sensoren",
+      "detail": "Vesper in Thar-Kem über Aufklärungsdaten. Bodentemperatur-Anomalien am Steinplatz, Sensoren, die er nicht kennt. Etwas kommt durch — Thar-Kommandantin legt seinen Bericht ungelesen auf den Stapel.",
+      "typen": [
+        "erkenntnis",
+        "tschechow"
+      ],
+      "tags": [
+        "Expedition-Warnung",
+        "Thar-Kommandantin"
+      ],
+      "tz": 764,
+      "tz_sort": 764.0,
+      "tz_datum": "MZ 5.13 · TZ 764",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 5.26,
+      "welt": "moragh",
+      "pov": "Runa",
+      "buch": "B3",
+      "kapitel": "03",
+      "leseart": "normal",
+      "titel": "Runa in Halvaren — Drael-Beobachtung",
+      "detail": "Runa druckt weiter zweisprachige Flugblätter in Halvaren. Drael besucht abends zu höflichem Tee, der nie getrunken wird. Sie sammelt Material gegen ihn.",
       "typen": [
         "hintergrund"
       ],
       "tags": [
-        "Expedition 1 Start",
-        "Vael 2019"
+        "Halvaren",
+        "Drael-Gegner"
       ],
-      "tz": 769,
-      "tz_sort": 769.3333333333334,
-      "tz_datum": "MZ 6.55 · TZ 769",
+      "tz": 768,
+      "tz_sort": 768.0,
+      "tz_datum": "MZ 5.26 · TZ 768",
       "kapitel_status": "idee"
     },
     {
-      "mz": 6.6,
+      "mz": 5.39,
       "welt": "moragh",
-      "pov": "Tyra",
+      "pov": "Talven",
       "buch": "B3",
-      "kapitel": "52",
+      "kapitel": "04",
       "leseart": "normal",
-      "titel": "Erste Expedition scheitert blutig",
-      "detail": "Expedition 1 kooperiert nicht unter Thar-Gefangenschaft. Fluchtversuch, elf tot, zwei verschwunden. Tyra und ein Geologe fliehen nach Westen. Marsk stirbt an Pilzvergiftung. In Tyras Ohren beginnt ein Summen.",
+      "titel": "Talven verteilt geladene Kristalle, Held-Aufstieg",
+      "detail": "Talven in Halvaren. Er gibt einem Kind einen seiner Schemen-Kristalle in die Hand — Fieber sinkt für eine Stunde. Ein alter Rufer leiht sich einen Kristall, formt für eine Minute eine Lichtkugel. Talvens eigene Hände werden kalt — sie sind es seit Wochen, niemand fragt, weil Moragh ohnehin kalt ist. Nachts allein in der hinteren Kammer übt er weiter — die Methode hat er sich selbst beigebracht, niemand weiß davon.",
       "typen": [
-        "tod",
-        "krieg"
+        "resonanz",
+        "tschechow"
       ],
       "tags": [
-        "Expedition 1 scheitert",
-        "Tyra allein"
+        "Held-Aufstieg",
+        "Bindungs-Handbuch"
       ],
-      "tz": 771,
-      "tz_sort": 771.0,
-      "tz_datum": "MZ 6.60 · TZ 771",
+      "tz": 772,
+      "tz_sort": 772.0,
+      "tz_datum": "MZ 5.39 · TZ 772",
       "kapitel_status": "idee"
     },
     {
-      "mz": 6.7,
-      "welt": "moragh",
-      "pov": "Varen",
-      "buch": "B3",
-      "kapitel": "53",
-      "leseart": "normal",
-      "titel": "Varen manipuliert Orath-Älteste zur Verwüster-Beschwörung",
-      "detail": "Anonymer Brief an Kelmaris Verask, als Bund-Informant signiert: Verwüster-Vergeltung. Orath beschwört. Varen öffnet das Portal selbst — niemand sonst kann es.",
-      "typen": [
-        "tschechow",
-        "wissen"
-      ],
-      "tags": [
-        "Kelmaris Verask",
-        "Portal-Öffnung durch Varen"
-      ],
-      "tz": 774,
-      "tz_sort": 774.3333333333334,
-      "tz_datum": "MZ 6.70 · TZ 774",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 6.75,
-      "welt": "synchronisation",
+      "mz": 5.52,
+      "welt": "thalassien",
       "pov": "Maren",
       "buch": "B3",
-      "kapitel": "I8",
-      "leseart": "normal",
-      "titel": "Verwüster-Angriff auf Vael — Maren stirbt",
-      "detail": "Der Steinkreis in Vael reisst auf, drei rauchige Gestalten brechen durch die Glasfront des Instituts. Maren, achtzig, mit versagendem Herz, flüstert gegen die Wand: »Ich habe sie hergeschickt.« Die fünfzehnjährige Syra Halvard schreibt abends in ihr Notizbuch — beim nächsten Mal werde es eine Armee sein.",
+      "kapitel": "I1",
+      "leseart": "rueckblende",
+      "titel": "I7 — Maren gründet die Schwellenforschungsgesellschaft",
+      "detail": "Rückblick auf Vael 1990 TZ. Maren mit drei Mitgliedern im Dachgeschoss der Werft: »Dann warten wir Jahrzehnte.« Gründung der späteren staatlich finanzierten Institution.",
       "typen": [
-        "tod",
-        "portal",
-        "schlüssel"
+        "schlüssel",
+        "hintergrund"
       ],
-      "sync": {
-        "thalassien": "Vael 2037 TZ. Institut-Aussengebäude zerstört. Maren stirbt im Angesicht der Verwüster.",
-        "moragh": "Varen bleibt für Öffnungsdauer am Steinplatz. Niemand sieht ihn. Die Älteste hält es für Bund-Angriff."
-      },
       "tags": [
-        "Maren tot",
-        "Syra Halvard 15",
-        "2037 TZ"
+        "Schwellenforschungsgesellschaft",
+        "Vael 1990"
       ],
       "tz": 776,
       "tz_sort": 776.0,
-      "tz_datum": "MZ 6.75 · TZ 776",
+      "tz_datum": "MZ 5.52 · TZ 776",
       "kapitel_status": "idee"
     },
     {
-      "mz": 7.0,
+      "mz": 5.65,
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B3",
-      "kapitel": "54",
+      "kapitel": "05",
       "leseart": "normal",
-      "titel": "Varen präsentiert Alphina das »heroische« Ritual",
-      "detail": "Varen stellt das Ritual als Zukunftsopfer vor — sich selbst als ersten Brennenden. Alphina hört Hoffnung und zweifelt nur leise. Der Anker zieht sie zu seiner Lesart.",
+      "titel": "Zweite Quellen-Reparatur (Mar-Keth)",
+      "detail": "Mar-Keth pulsiert wieder, schwach aber sichtbar. Alphina fühlt Heilung, Varen notiert still den Frequenzwert in seinem Notizbuch. Sie glaubt ihm.",
       "typen": [
-        "wissen",
-        "erkenntnis"
+        "resonanz",
+        "tschechow"
       ],
       "tags": [
-        "Ritual-Fassade"
+        "Mar-Keth",
+        "Reparatur-Fassade"
+      ],
+      "tz": 780,
+      "tz_sort": 780.0,
+      "tz_datum": "MZ 5.65 · TZ 780",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 5.78,
+      "welt": "thalassien",
+      "pov": "Tyra",
+      "buch": "B3",
+      "kapitel": "06",
+      "leseart": "normal",
+      "titel": "Erste Expedition kommt durchs Portal — 2020 TZ",
+      "detail": "Tyra Halvard und vierzehn Forscher treten durch den Steinkreis. Wissenschaftliche Expedition, keine militärische. Die Moragh-Welt ist anders als die Schriften beschreiben.",
+      "typen": [
+        "portal",
+        "begegnung"
+      ],
+      "sync": {
+        "thalassien": "Vael 2020 TZ. Institut schickt Expedition 1 los, 15 Forscher.",
+        "moragh": "Am Steinplatz treffen sie auf erste Thar-Patrouille. Keine Verluste, aber Spannung."
+      },
+      "tags": [
+        "Expedition 1",
+        "Tyra Halvard",
+        "2020 TZ"
       ],
       "tz": 784,
-      "tz_sort": 784.3333333333334,
-      "tz_datum": "MZ 7.00 · TZ 784",
+      "tz_sort": 784.0,
+      "tz_datum": "MZ 5.78 · TZ 784",
       "kapitel_status": "idee"
     },
     {
@@ -3448,307 +3270,132 @@
       "kapitel_status": ""
     },
     {
-      "mz": 7.05,
+      "mz": 5.91,
+      "welt": "moragh",
+      "pov": "Vesper",
+      "buch": "B3",
+      "kapitel": "07",
+      "leseart": "normal",
+      "titel": "Thar erobert Ankunftsstadt",
+      "detail": "Die Thar-Kommandantin reagiert endlich, erobert die Stadt am Steinplatz, nimmt Expedition 1 ein — misstraut, verhört, trennt sie von der Welt. Vesper fordert Kooperation, wird abgewiesen.",
+      "typen": [
+        "krieg",
+        "begegnung"
+      ],
+      "tags": [
+        "Expedition-gefangen"
+      ],
+      "tz": 788,
+      "tz_sort": 788.0,
+      "tz_datum": "MZ 5.91 · TZ 788",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 6.04,
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B3",
-      "kapitel": "55",
+      "kapitel": "08",
       "leseart": "normal",
-      "titel": "Alphinas Drei-Sätze-Absage bei Runa",
-      "detail": "Alphina reist nach Halvaren zu Runa, bietet ihr an, selbst zu sehen. Runa hart und klar: »Du riechst nach ihm. Du sprichst wie er. Ich glaube dir nicht.« Vierter Satz, leiser: »Ich habe keinen Platz an seinem Tisch.«",
+      "titel": "Dritte Quellen-Reparatur (Dulrath-Ost) — Reparaturen verblassen",
+      "detail": "Dulrath-Ost pulsiert, aber schon Halvara-Kel erlischt wieder. Varen nickt: einzelne Injektion halte nicht, man müsse wiederkommen. Alphina schluckt die Erklärung. Ihr Schlaf-Hain in Torkal welkt an den Rändern.",
       "typen": [
-        "begegnung",
+        "resonanz",
         "erkenntnis"
       ],
       "tags": [
-        "Drei-Sätze-Absage",
-        "vierter Satz"
+        "Reparatur-Fassade bröckelt",
+        "Anker leckt"
       ],
-      "tz": 786,
-      "tz_sort": 786.0,
-      "tz_datum": "MZ 7.05 · TZ 786",
+      "tz": 792,
+      "tz_sort": 792.0,
+      "tz_datum": "MZ 6.04 · TZ 792",
       "kapitel_status": "idee"
     },
     {
-      "mz": 7.2,
-      "welt": "moragh",
-      "pov": "Vesper",
-      "buch": "B3",
-      "kapitel": "56",
-      "leseart": "normal",
-      "titel": "Vesper bekommt Temporal-KI-Helm",
-      "detail": "Thar eigene Forschung. Vesper sieht durch den Helm den Resonanz-Anker zwischen Alphinas Schulterblättern — als Leuchtlinie. Er beginnt, das Ritual-Kalkül zu entschlüsseln.",
-      "typen": [
-        "tschechow",
-        "wissen"
-      ],
-      "tags": [
-        "Temporal-KI-Helm"
-      ],
-      "tz": 791,
-      "tz_sort": 791.0,
-      "tz_datum": "MZ 7.20 · TZ 791",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 7.3,
-      "welt": "moragh",
-      "pov": "Talven",
-      "buch": "B3",
-      "kapitel": "57",
-      "leseart": "normal",
-      "titel": "Talvens Radikalisierung — Blutmagie systematisch",
-      "detail": "Talven hat die Methode bereits in B2-Akt-III selbst entwickelt. Hier vertieft er sie: bindet mehr Schemen, baut Kristall-Batterien systematisch. Schemen weichen ihm zögernd aus. Niemand fragt, wohin er sein Blut verliert.",
-      "typen": [
-        "resonanz",
-        "tschechow"
-      ],
-      "tags": [
-        "Blutmagie",
-        "Schemen-Binden",
-        "Grenzüberschreitung"
-      ],
-      "tz": 794,
-      "tz_sort": 794.3333333333334,
-      "tz_datum": "MZ 7.30 · TZ 794",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 7.35,
+      "mz": 6.43,
       "welt": "moragh",
       "pov": "Varen",
       "buch": "B3",
-      "kapitel": "58",
+      "kapitel": "11",
       "leseart": "normal",
-      "titel": "Elke wird ermordet",
-      "detail": "Ein aufgeladener Schemen betritt Elkes Haus in Dravek. Sie wehrt sich. Der Schemen tötet in der Küche, trägt sie in den Garten, platziert sie auf der Bank. Nimmt den Basalt-Splitter-Anhänger, findet das Maren-Dokument nicht.",
-      "typen": [
-        "tod",
-        "schlüssel"
-      ],
-      "tags": [
-        "Elke tot",
-        "Küche",
-        "Basalt-Splitter"
-      ],
-      "tz": 796,
-      "tz_sort": 796.0,
-      "tz_datum": "MZ 7.35 · TZ 796",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 7.4,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B3",
-      "kapitel": "59",
-      "leseart": "normal",
-      "titel": "Alphina verdächtigt Talven",
-      "detail": "Alphina findet Elke im Garten. Zwei Tage später öffnet sie Talvens Schrank, findet das schwarz gebundene Handbuch, einen Zettel in seiner Schrift: »Morgen Abend. Dravek. Elke.« Varens gefälschte Falle steht.",
-      "typen": [
-        "erkenntnis",
-        "tschechow"
-      ],
-      "tags": [
-        "Talven-Verdacht",
-        "Falschbeweise"
-      ],
-      "tz": 798,
-      "tz_sort": 797.6666666666667,
-      "tz_datum": "MZ 7.40 · TZ 798",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 7.45,
-      "welt": "moragh",
-      "pov": "Vesper",
-      "buch": "B3",
-      "kapitel": "60",
-      "leseart": "normal",
-      "titel": "Vesper findet erstes Velmar-Dokument",
-      "detail": "In der Thar-Bibliothek unter Expeditions-Notizen findet Vesper ein altes Velmar-Dokument — Ritual-Fragmente, vier Resonanzen, Name-Rechengröße. Er beginnt zu verstehen.",
+      "titel": "Varen entdeckt das Ritual — vier Thalassier-Opfer",
+      "detail": "Varen in der Moragh-Sprachbuch-Bibliothek. Er findet die alte Velmar-Ritualform: vier Thalassier-Resonanzen, absorbiert durch einen Binder, dauerhafte preisfreie Magie. Legt die Liste wieder zwischen die Bücher.",
       "typen": [
         "wissen",
         "tschechow"
       ],
       "tags": [
-        "Velmar-Dokument"
+        "Ritual entdeckt"
       ],
-      "tz": 799,
-      "tz_sort": 799.3333333333334,
-      "tz_datum": "MZ 7.45 · TZ 799",
+      "tz": 804,
+      "tz_sort": 804.0,
+      "tz_datum": "MZ 6.43 · TZ 804",
       "kapitel_status": "idee"
     },
     {
-      "mz": 7.5,
-      "welt": "moragh",
-      "pov": "Vesper",
-      "buch": "B3",
-      "kapitel": "61",
-      "leseart": "normal",
-      "titel": "Vesper entschlüsselt das Ritual-Kalkül",
-      "detail": "Vesper zeigt Alphinas Resonanz als Rechengröße. Symptome: Wärme an der Wirbelsäule nach Reparatur-Sitzungen, Müdigkeit, Ziehen bei Entfernung. Alphina kennt alle drei.",
-      "typen": [
-        "erkenntnis",
-        "wissen"
-      ],
-      "tags": [
-        "Ritual-Kalkül"
-      ],
-      "tz": 801,
-      "tz_sort": 801.0,
-      "tz_datum": "MZ 7.50 · TZ 801",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 7.55,
+      "mz": 6.56,
       "welt": "thalassien",
-      "pov": "Syra",
+      "pov": "Tyra",
       "buch": "B3",
-      "kapitel": "I9",
+      "kapitel": "I2",
       "leseart": "rueckblende",
-      "titel": "I9 — Junge Syra Halvard + Kelvar Velkan, Institut-Wandel",
-      "detail": "Parallel Vael 2080 TZ. Syra Halvard (15) trifft den jungen Kelvar Velkan (25) im Institut. Nach Marens Tod Eroberungs-Doktrin. Zwei Generationen nach Maren, Ton hat gekippt.",
+      "titel": "I13 — Tyra Halvard + Team vor dem Aufbruch",
+      "detail": "Rückblende Vael 2019 TZ. Tyra mit ihren vierzehn Kollegen vor dem Durchgang. Abschied, Koffer, Vorträge, Familien, Witze. Eine Nacht vor dem Portal. Institut füttert Hoffnung.",
       "typen": [
         "hintergrund"
       ],
       "tags": [
-        "Syra Halvard",
-        "Kelvar Velkan",
-        "2080 TZ"
-      ],
-      "tz": 803,
-      "tz_sort": 802.6666666666667,
-      "tz_datum": "MZ 7.55 · TZ 803",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 7.7,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B3",
-      "kapitel": "63",
-      "leseart": "normal",
-      "titel": "Alphina findet das Ritual-Dokument in Varens Quartier",
-      "detail": "Sie wartet, bis Varen schläft, sprengt mit Wurzeln ein Schloss im Schreibtisch. Findet Ritual-Buch, Liste, am Rand in seiner Handschrift: »Die Trauer macht sie stärker. Sorels Nutzen liegt im Sterben.«",
-      "typen": [
-        "erkenntnis",
-        "schlüssel"
-      ],
-      "tags": [
-        "Sorels Nutzen im Sterben"
+        "Expedition 1 Start",
+        "Vael 2019"
       ],
       "tz": 808,
-      "tz_sort": 807.6666666666667,
-      "tz_datum": "MZ 7.70 · TZ 808",
+      "tz_sort": 808.0,
+      "tz_datum": "MZ 6.56 · TZ 808",
       "kapitel_status": "idee"
     },
     {
-      "mz": 7.75,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B3",
-      "kapitel": "64",
-      "leseart": "normal",
-      "titel": "Alphina liest den Maren-Brief — zweite Erkenntnis",
-      "detail": "Über Elkes Hinweis »Unter dem Stein, wo nichts wächst« findet Alphina das Velmar-Dokument, Marens Notizen. Zweite Erkenntnis: Maren wusste es schon, bevor sie ging.",
-      "typen": [
-        "erkenntnis",
-        "tschechow"
-      ],
-      "tags": [
-        "Maren-Brief",
-        "Unter dem Stein"
-      ],
-      "tz": 809,
-      "tz_sort": 809.3333333333334,
-      "tz_datum": "MZ 7.75 · TZ 809",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 7.8,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B3",
-      "kapitel": "65",
-      "leseart": "normal",
-      "titel": "Alphina verlässt Varen — ohne Drama",
-      "detail": "Sie legt das Blatt zurück, legt sich neben Varen, atmet, rechnet. Morgens verlässt sie Torkal ohne Drama. Der Anker zieht, aber sie bleibt auch.",
-      "typen": [
-        "erkenntnis"
-      ],
-      "tags": [
-        "Anker bleibt, sie bleibt auch"
-      ],
-      "tz": 811,
-      "tz_sort": 811.0,
-      "tz_datum": "MZ 7.80 · TZ 811",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 7.9,
-      "welt": "moragh",
-      "pov": "Runa",
-      "buch": "B3",
-      "kapitel": "66",
-      "leseart": "normal",
-      "titel": "Runa läuft aus dem Bund über",
-      "detail": "Drael belügt Runa über die Expedition-Gefahr. Sie enttarnt ihn mit einer Drael-Dokumentmappe, bekommt eine Stunde Fliehen, läuft in die freie Stadt Kolmen.",
-      "typen": [
-        "begegnung",
-        "erkenntnis"
-      ],
-      "tags": [
-        "Drael enttarnt",
-        "Kolmen"
-      ],
-      "tz": 814,
-      "tz_sort": 814.3333333333334,
-      "tz_datum": "MZ 7.90 · TZ 814",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 7.95,
+      "mz": 6.69,
       "welt": "moragh",
       "pov": "Tyra",
       "buch": "B3",
-      "kapitel": "67",
+      "kapitel": "12",
       "leseart": "normal",
-      "titel": "Tyra Halvard erreicht Alphinas Gruppe",
-      "detail": "In Kolmen steht Tyra an Alphinas Tür. Schall-Resonanz: Stille-Zonen, Schemen-Fernsprecher. Zwei kleine Schemen werden Fernsprecher — Alphina hört Tyras Stimme aus dem Garten und lacht das erste Mal echt seit Monaten.",
+      "titel": "Erste Expedition scheitert blutig",
+      "detail": "Expedition 1 kooperiert nicht unter Thar-Gefangenschaft. Fluchtversuch, elf tot, zwei verschwunden. Tyra und ein Geologe fliehen nach Westen. Marsk stirbt an Pilzvergiftung. In Tyras Ohren beginnt ein Summen.",
       "typen": [
-        "begegnung",
-        "tschechow"
-      ],
-      "tags": [
-        "Tyra-Fernsprecher",
-        "Schall-Resonanz"
-      ],
-      "tz": 816,
-      "tz_sort": 816.0,
-      "tz_datum": "MZ 7.95 · TZ 816",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 8.0,
-      "welt": "thalassien",
-      "pov": "Syra",
-      "buch": "B3",
-      "kapitel": "I14",
-      "leseart": "rueckblende",
-      "titel": "I14 — Halvard + Velkan planen Expedition 2",
-      "detail": "Parallel Vael 2110 TZ. Resonanz-Modulator im Test. Biotech-Bodymod-Soldaten. Halvard (jetzt 45) und Velkan (55) sprechen von »Befreiung der Weltenkreuzung«. Sprache klingt nach Krieg.",
-      "typen": [
-        "hintergrund",
+        "tod",
         "krieg"
       ],
       "tags": [
-        "Expedition 2 Plan",
-        "Resonanz-Modulator"
+        "Expedition 1 scheitert",
+        "Tyra allein"
       ],
-      "tz": 818,
-      "tz_sort": 817.6666666666667,
-      "tz_datum": "MZ 8.00 · TZ 818",
+      "tz": 812,
+      "tz_sort": 812.0,
+      "tz_datum": "MZ 6.69 · TZ 812",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 6.82,
+      "welt": "moragh",
+      "pov": "Varen",
+      "buch": "B3",
+      "kapitel": "13",
+      "leseart": "normal",
+      "titel": "Varen manipuliert Orath-Älteste zur Verwüster-Beschwörung",
+      "detail": "Anonymer Brief an Kelmaris Verask, als Bund-Informant signiert: Verwüster-Vergeltung. Orath beschwört. Varen öffnet das Portal selbst — niemand sonst kann es.",
+      "typen": [
+        "tschechow",
+        "wissen"
+      ],
+      "tags": [
+        "Kelmaris Verask",
+        "Portal-Öffnung durch Varen"
+      ],
+      "tz": 816,
+      "tz_sort": 816.0,
+      "tz_datum": "MZ 6.82 · TZ 816",
       "kapitel_status": "idee"
     },
     {
@@ -3773,118 +3420,184 @@
       "kapitel_status": ""
     },
     {
-      "mz": 8.05,
+      "mz": 6.95,
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B3",
-      "kapitel": "68",
+      "kapitel": "14",
       "leseart": "normal",
-      "titel": "Wiederbegegnung Alphina–Runa",
-      "detail": "In Kolmen. Alphina weint. Runa bleibt hart und klar, dann berührt sie ihre Hand: »Aber ich stehe. Wenn es zählt.«",
+      "titel": "Varen präsentiert Alphina das »heroische« Ritual",
+      "detail": "Varen stellt das Ritual als Zukunftsopfer vor — sich selbst als ersten Brennenden. Alphina hört Hoffnung und zweifelt nur leise. Der Anker zieht sie zu seiner Lesart.",
+      "typen": [
+        "wissen",
+        "erkenntnis"
+      ],
+      "tags": [
+        "Ritual-Fassade"
+      ],
+      "tz": 820,
+      "tz_sort": 820.0,
+      "tz_datum": "MZ 6.95 · TZ 820",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 7.08,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B3",
+      "kapitel": "15",
+      "leseart": "normal",
+      "titel": "Alphinas Drei-Sätze-Absage bei Runa",
+      "detail": "Alphina reist nach Halvaren zu Runa, bietet ihr an, selbst zu sehen. Runa hart und klar: »Du riechst nach ihm. Du sprichst wie er. Ich glaube dir nicht.« Vierter Satz, leiser: »Ich habe keinen Platz an seinem Tisch.«",
       "typen": [
         "begegnung",
         "erkenntnis"
       ],
       "tags": [
-        "Versöhnung"
+        "Drei-Sätze-Absage",
+        "vierter Satz"
       ],
-      "tz": 819,
-      "tz_sort": 819.3333333333334,
-      "tz_datum": "MZ 8.05 · TZ 819",
+      "tz": 824,
+      "tz_sort": 824.0,
+      "tz_datum": "MZ 7.08 · TZ 824",
       "kapitel_status": "idee"
     },
     {
-      "mz": 8.1,
-      "welt": "moragh",
-      "pov": "Nyr",
+      "mz": 7.21,
+      "welt": "synchronisation",
+      "pov": "Maren",
       "buch": "B3",
-      "kapitel": "69",
+      "kapitel": "I3",
       "leseart": "normal",
-      "titel": "Nyr verlässt die Thar",
-      "detail": "Unbehagen über Zivilisten-als-Schild-Befehle. Kessler ist ihr, nicht der Kommandantin. Sie fährt nachts aus Thar-Kem, verabschiedet sich von Vesper friedlich, bietet Beistand an.",
-      "typen": [
-        "begegnung",
-        "erkenntnis"
-      ],
-      "tags": [
-        "Nyr-Austritt",
-        "Reiter-Bindung absolut"
-      ],
-      "tz": 821,
-      "tz_sort": 821.0,
-      "tz_datum": "MZ 8.10 · TZ 821",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 8.3,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B3",
-      "kapitel": "70",
-      "leseart": "normal",
-      "titel": "Alphina tötet Talven — Fehlurteil",
-      "detail": "Alphina konfrontiert Talven. Die drei Fälschungen wirken. Dornen durchs Brustbein. Sein Satz: »Ich hätte es irgendwann wirklich gekonnt.« Er stirbt. Die Wahrheit bleibt bei Varen.",
+      "titel": "Verwüster-Angriff auf Vael — Maren stirbt",
+      "detail": "Der Steinkreis in Vael reisst auf, drei rauchige Gestalten brechen durch die Glasfront des Instituts. Maren, achtzig, mit versagendem Herz, flüstert gegen die Wand: »Ich habe sie hergeschickt.« Die fünfzehnjährige Syra Halvard schreibt abends in ihr Notizbuch — beim nächsten Mal werde es eine Armee sein.",
       "typen": [
         "tod",
-        "krieg"
-      ],
-      "tags": [
-        "Talven tot",
-        "Fehlurteil"
-      ],
-      "tz": 828,
-      "tz_sort": 827.6666666666667,
-      "tz_datum": "MZ 8.30 · TZ 828",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 8.55,
-      "welt": "synchronisation",
-      "pov": "Kessler/Kelvar",
-      "buch": "B3",
-      "kapitel": "71",
-      "leseart": "normal",
-      "titel": "Zweite Expedition kommt durch — 2500 Soldaten, 2120 TZ",
-      "detail": "Modulator 72 Stunden aktiv. Expedition 2: 2500 Soldaten, Biotech-Bodymod, stockwerkshohe Killermaschinen. General Kelvar Velkan führt. In zwei Moragh-Wochen fällt Bund-Grenzgebiet, eine freie Stadt ist erobert.",
-      "typen": [
         "portal",
-        "krieg",
         "schlüssel"
       ],
       "sync": {
-        "thalassien": "Vael 2120 TZ. Institut schickt großen Zug, Hymnen und Propaganda. Kein Weg zurück im Plan.",
-        "moragh": "Steinplatz-Gebiet wird Militärzone. Moragh-Flüchtlinge strömen nach Westen."
+        "thalassien": "Vael 2037 TZ. Institut-Aussengebäude zerstört. Maren stirbt im Angesicht der Verwüster.",
+        "moragh": "Varen bleibt für Öffnungsdauer am Steinplatz. Niemand sieht ihn. Die Älteste hält es für Bund-Angriff."
       },
       "tags": [
-        "Expedition 2",
-        "2500 Soldaten",
-        "2120 TZ",
-        "Kelvar Velkan"
+        "Maren tot",
+        "Syra Halvard 15",
+        "2037 TZ"
       ],
-      "tz": 836,
-      "tz_sort": 836.0,
-      "tz_datum": "MZ 8.55 · TZ 836",
+      "tz": 828,
+      "tz_sort": 828.0,
+      "tz_datum": "MZ 7.21 · TZ 828",
       "kapitel_status": "idee"
     },
     {
-      "mz": 8.8,
+      "mz": 7.34,
       "welt": "moragh",
-      "pov": "Drael",
+      "pov": "Vesper",
       "buch": "B3",
-      "kapitel": "72",
+      "kapitel": "16",
       "leseart": "normal",
-      "titel": "Notbündnis Orath + Thar",
-      "detail": "Drael und die Thar-Kommandantin treffen sich persönlich. Jahrelange Feindschaft, jetzt gemeinsamer Feind. Vesper wird Stratege des Bündnisses — erstes Bündnis in vier Jahren Krieg.",
+      "titel": "Vesper bekommt Temporal-KI-Helm",
+      "detail": "Thar eigene Forschung. Vesper sieht durch den Helm den Resonanz-Anker zwischen Alphinas Schulterblättern — als Leuchtlinie. Er beginnt, das Ritual-Kalkül zu entschlüsseln.",
       "typen": [
-        "begegnung",
-        "krieg"
+        "tschechow",
+        "wissen"
       ],
       "tags": [
-        "Notbündnis"
+        "Temporal-KI-Helm"
+      ],
+      "tz": 832,
+      "tz_sort": 832.0,
+      "tz_datum": "MZ 7.34 · TZ 832",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 7.47,
+      "welt": "moragh",
+      "pov": "Talven",
+      "buch": "B3",
+      "kapitel": "17",
+      "leseart": "normal",
+      "titel": "Talvens Radikalisierung — Blutmagie systematisch",
+      "detail": "Talven hat die Methode bereits in B2-Akt-III selbst entwickelt. Hier vertieft er sie: bindet mehr Schemen, baut Kristall-Batterien systematisch. Schemen weichen ihm zögernd aus. Niemand fragt, wohin er sein Blut verliert.",
+      "typen": [
+        "resonanz",
+        "tschechow"
+      ],
+      "tags": [
+        "Blutmagie",
+        "Schemen-Binden",
+        "Grenzüberschreitung"
+      ],
+      "tz": 836,
+      "tz_sort": 836.0,
+      "tz_datum": "MZ 7.47 · TZ 836",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 7.6,
+      "welt": "moragh",
+      "pov": "Varen",
+      "buch": "B3",
+      "kapitel": "18",
+      "leseart": "normal",
+      "titel": "Elke wird ermordet",
+      "detail": "Ein aufgeladener Schemen betritt Elkes Haus in Dravek. Sie wehrt sich. Der Schemen tötet in der Küche, trägt sie in den Garten, platziert sie auf der Bank. Nimmt den Basalt-Splitter-Anhänger, findet das Maren-Dokument nicht.",
+      "typen": [
+        "tod",
+        "schlüssel"
+      ],
+      "tags": [
+        "Elke tot",
+        "Küche",
+        "Basalt-Splitter"
+      ],
+      "tz": 840,
+      "tz_sort": 840.0,
+      "tz_datum": "MZ 7.60 · TZ 840",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 7.73,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B3",
+      "kapitel": "19",
+      "leseart": "normal",
+      "titel": "Alphina verdächtigt Talven",
+      "detail": "Alphina findet Elke im Garten. Zwei Tage später öffnet sie Talvens Schrank, findet das schwarz gebundene Handbuch, einen Zettel in seiner Schrift: »Morgen Abend. Dravek. Elke.« Varens gefälschte Falle steht.",
+      "typen": [
+        "erkenntnis",
+        "tschechow"
+      ],
+      "tags": [
+        "Talven-Verdacht",
+        "Falschbeweise"
       ],
       "tz": 844,
-      "tz_sort": 844.3333333333334,
-      "tz_datum": "MZ 8.80 · TZ 844",
+      "tz_sort": 844.0,
+      "tz_datum": "MZ 7.73 · TZ 844",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 7.86,
+      "welt": "moragh",
+      "pov": "Vesper",
+      "buch": "B3",
+      "kapitel": "20",
+      "leseart": "normal",
+      "titel": "Vesper findet erstes Velmar-Dokument",
+      "detail": "In der Thar-Bibliothek unter Expeditions-Notizen findet Vesper ein altes Velmar-Dokument — Ritual-Fragmente, vier Resonanzen, Name-Rechengröße. Er beginnt zu verstehen.",
+      "typen": [
+        "wissen",
+        "tschechow"
+      ],
+      "tags": [
+        "Velmar-Dokument"
+      ],
+      "tz": 848,
+      "tz_sort": 848.0,
+      "tz_datum": "MZ 7.86 · TZ 848",
       "kapitel_status": "idee"
     },
     {
@@ -3909,230 +3622,175 @@
       "kapitel_status": ""
     },
     {
-      "mz": 9.2,
-      "welt": "thalassien",
-      "pov": "Kelvar",
+      "mz": 7.99,
+      "welt": "moragh",
+      "pov": "Vesper",
       "buch": "B3",
-      "kapitel": "I16",
+      "kapitel": "21",
+      "leseart": "normal",
+      "titel": "Vesper entschlüsselt das Ritual-Kalkül",
+      "detail": "Vesper zeigt Alphinas Resonanz als Rechengröße. Symptome: Wärme an der Wirbelsäule nach Reparatur-Sitzungen, Müdigkeit, Ziehen bei Entfernung. Alphina kennt alle drei.",
+      "typen": [
+        "erkenntnis",
+        "wissen"
+      ],
+      "tags": [
+        "Ritual-Kalkül"
+      ],
+      "tz": 852,
+      "tz_sort": 852.0,
+      "tz_datum": "MZ 7.99 · TZ 852",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 8.25,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B3",
+      "kapitel": "23",
+      "leseart": "normal",
+      "titel": "Alphina findet das Ritual-Dokument in Varens Quartier",
+      "detail": "Sie wartet, bis Varen schläft, sprengt mit Wurzeln ein Schloss im Schreibtisch. Findet Ritual-Buch, Liste, am Rand in seiner Handschrift: »Die Trauer macht sie stärker. Sorels Nutzen liegt im Sterben.«",
+      "typen": [
+        "erkenntnis",
+        "schlüssel"
+      ],
+      "tags": [
+        "Sorels Nutzen im Sterben"
+      ],
+      "tz": 860,
+      "tz_sort": 860.0,
+      "tz_datum": "MZ 8.25 · TZ 860",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 8.38,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B3",
+      "kapitel": "24",
+      "leseart": "normal",
+      "titel": "Alphina liest den Maren-Brief — zweite Erkenntnis",
+      "detail": "Über Elkes Hinweis »Unter dem Stein, wo nichts wächst« findet Alphina das Velmar-Dokument, Marens Notizen. Zweite Erkenntnis: Maren wusste es schon, bevor sie ging.",
+      "typen": [
+        "erkenntnis",
+        "tschechow"
+      ],
+      "tags": [
+        "Maren-Brief",
+        "Unter dem Stein"
+      ],
+      "tz": 864,
+      "tz_sort": 864.0,
+      "tz_datum": "MZ 8.38 · TZ 864",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 8.51,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B3",
+      "kapitel": "25",
+      "leseart": "normal",
+      "titel": "Alphina verlässt Varen — ohne Drama",
+      "detail": "Sie legt das Blatt zurück, legt sich neben Varen, atmet, rechnet. Morgens verlässt sie Torkal ohne Drama. Der Anker zieht, aber sie bleibt auch.",
+      "typen": [
+        "erkenntnis"
+      ],
+      "tags": [
+        "Anker bleibt, sie bleibt auch"
+      ],
+      "tz": 868,
+      "tz_sort": 868.0,
+      "tz_datum": "MZ 8.51 · TZ 868",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 8.64,
+      "welt": "thalassien",
+      "pov": "Syra",
+      "buch": "B3",
+      "kapitel": "I4",
       "leseart": "rueckblende",
-      "titel": "I16 — Expedition 2 Aufbruch aus Vael",
-      "detail": "Rückblende zum Start der Invasion. Vael 2120 TZ. Die Portal-Maschine wird aktiviert. Hymne, Flaggen, Kessels Abschiedsrede: »Wir holen uns die Welt zurück, die man uns genommen hat.«",
+      "titel": "I9 — Junge Syra Halvard + Kelvar Velkan, Institut-Wandel",
+      "detail": "Parallel Vael 2080 TZ. Syra Halvard (15) trifft den jungen Kelvar Velkan (25) im Institut. Nach Marens Tod Eroberungs-Doktrin. Zwei Generationen nach Maren, Ton hat gekippt.",
+      "typen": [
+        "hintergrund"
+      ],
+      "tags": [
+        "Syra Halvard",
+        "Kelvar Velkan",
+        "2080 TZ"
+      ],
+      "tz": 872,
+      "tz_sort": 872.0,
+      "tz_datum": "MZ 8.64 · TZ 872",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 8.77,
+      "welt": "moragh",
+      "pov": "Runa",
+      "buch": "B3",
+      "kapitel": "26",
+      "leseart": "normal",
+      "titel": "Runa läuft aus dem Bund über",
+      "detail": "Drael belügt Runa über die Expedition-Gefahr. Sie enttarnt ihn mit einer Drael-Dokumentmappe, bekommt eine Stunde Fliehen, läuft in die freie Stadt Kolmen.",
+      "typen": [
+        "begegnung",
+        "erkenntnis"
+      ],
+      "tags": [
+        "Drael enttarnt",
+        "Kolmen"
+      ],
+      "tz": 876,
+      "tz_sort": 876.0,
+      "tz_datum": "MZ 8.77 · TZ 876",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 8.9,
+      "welt": "thalassien",
+      "pov": "Syra",
+      "buch": "B3",
+      "kapitel": "I5",
+      "leseart": "rueckblende",
+      "titel": "I14 — Halvard + Velkan planen Expedition 2",
+      "detail": "Parallel Vael 2110 TZ. Resonanz-Modulator im Test. Biotech-Bodymod-Soldaten. Halvard (jetzt 45) und Velkan (55) sprechen von »Befreiung der Weltenkreuzung«. Sprache klingt nach Krieg.",
       "typen": [
         "hintergrund",
         "krieg"
       ],
       "tags": [
-        "Expedition 2 Aufbruch"
+        "Expedition 2 Plan",
+        "Resonanz-Modulator"
       ],
-      "tz": 858,
-      "tz_sort": 857.6666666666667,
-      "tz_datum": "MZ 9.20 · TZ 858",
+      "tz": 880,
+      "tz_sort": 880.0,
+      "tz_datum": "MZ 8.90 · TZ 880",
       "kapitel_status": "idee"
     },
     {
-      "mz": 9.25,
+      "mz": 9.03,
       "welt": "moragh",
-      "pov": "Varen",
+      "pov": "Tyra",
       "buch": "B3",
-      "kapitel": "73",
+      "kapitel": "27",
       "leseart": "normal",
-      "titel": "Varen versammelt seinen Zirkel — Einladung",
-      "detail": "Zwanzig bis dreissig Anhänger, Velmar-Fragmente, Bund-Überläufer. Varen schickt eine Einladung an Alphina und Vesper: Duell-Ort, Duell-Zeit, Duell-Regeln. Er weiß, sie kommen.",
+      "titel": "Tyra Halvard erreicht Alphinas Gruppe",
+      "detail": "In Kolmen steht Tyra an Alphinas Tür. Schall-Resonanz: Stille-Zonen, Schemen-Fernsprecher. Zwei kleine Schemen werden Fernsprecher — Alphina hört Tyras Stimme aus dem Garten und lacht das erste Mal echt seit Monaten.",
       "typen": [
         "begegnung",
         "tschechow"
       ],
       "tags": [
-        "Duell-Einladung"
-      ],
-      "tz": 859,
-      "tz_sort": 859.3333333333334,
-      "tz_datum": "MZ 9.25 · TZ 859",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 9.4,
-      "welt": "moragh",
-      "pov": "Runa",
-      "buch": "B3",
-      "kapitel": "74",
-      "leseart": "normal",
-      "titel": "Parallel-Schlacht beginnt — Runa + Nyr in Kessler",
-      "detail": "Bündnis vs. Expedition vor Dulrath-Ost. Runa + Nyr in Kessler gegen Expeditions-Drohnen. Iven (17, Moragh-Elektrizitäts-Resonanz) lahmt Expeditions-Elektronik mit einem Störsender-Ritual, zahlt mit dem Körper.",
-      "typen": [
-        "krieg",
-        "resonanz"
-      ],
-      "tags": [
-        "Iven",
-        "Parallel-Schlacht",
-        "Kessler im Kampf"
-      ],
-      "tz": 864,
-      "tz_sort": 864.3333333333334,
-      "tz_datum": "MZ 9.40 · TZ 864",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 9.5,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B3",
-      "kapitel": "75",
-      "leseart": "normal",
-      "titel": "Duell Alphina + Vesper vs. Varen — Beginn",
-      "detail": "Drei Kapitel, etwa 15.000 Wörter. Varen in seinem Ring. Alphina und Vesper. Varen löst den Anker über seine Frequenz aus — Alphinas Dornen wachsen unter ihrer Haut. Vespers Schemen-Angriff zielt auf seinen Temporal-Helm.",
-      "typen": [
-        "krieg",
-        "schlüssel"
-      ],
-      "tags": [
-        "Duell",
-        "Anker-Bruch"
-      ],
-      "tz": 868,
-      "tz_sort": 867.6666666666667,
-      "tz_datum": "MZ 9.50 · TZ 868",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 9.55,
-      "welt": "moragh",
-      "pov": "Vesper",
-      "buch": "B3",
-      "kapitel": "76",
-      "leseart": "normal",
-      "titel": "Vespers linker Unterarm zerkocht",
-      "detail": "Ein aufgeladener Varen-Schemen fasst Vespers linken Unterarm. Haut spannt, bleibt unversehrt, Fleisch innen kocht. Er kämpft weiter mit der rechten Hand.",
-      "typen": [
-        "tod",
-        "krieg"
-      ],
-      "tags": [
-        "Vesper-Arm-Verlust"
-      ],
-      "tz": 869,
-      "tz_sort": 869.3333333333334,
-      "tz_datum": "MZ 9.55 · TZ 869",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 9.6,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B3",
-      "kapitel": "77",
-      "leseart": "normal",
-      "titel": "Varens Register-Bruch + Reveal",
-      "detail": "Drei Finger von Alphinas linker Hand explodieren in eigenen Dornen. Varen: »Kleine naive Alphina. Du warst sauberer zu lesen als Sorel. Ich habe dich nie angesehen. Nur deinen Frequenzwert.« Später: »Sie starb in der Küche.« Noch später, leise: »Garten.«",
-      "typen": [
-        "erkenntnis",
-        "tod",
-        "schlüssel"
-      ],
-      "tags": [
-        "Register-Bruch",
-        "Frequenzwert",
-        "Küche",
-        "Garten"
-      ],
-      "tz": 871,
-      "tz_sort": 871.0,
-      "tz_datum": "MZ 9.60 · TZ 871",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 9.65,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B3",
-      "kapitel": "77",
-      "leseart": "normal",
-      "titel": "Alphina gibt Varen den Todesstoss",
-      "detail": "Mit verbleibenden zwei Fingern und Dornen. Kein Pathos, keine Rede. Varens letztes Wort: »Garten.« Sie versteht erst, dass er Elke meinte, als sie ihre Finger im Gras liegen sieht.",
-      "typen": [
-        "tod",
-        "schlüssel"
-      ],
-      "tags": [
-        "Varen tot",
-        "Letztes Wort Garten"
-      ],
-      "tz": 873,
-      "tz_sort": 872.6666666666667,
-      "tz_datum": "MZ 9.65 · TZ 873",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 9.8,
-      "welt": "synchronisation",
-      "pov": "Alphina",
-      "buch": "B3",
-      "kapitel": "78",
-      "leseart": "normal",
-      "titel": "Portal-Finale — Expedition 2 startet zweite Durchgangs-Welle, Alphina kollabiert die Quelle",
-      "detail": "Expedition aktiviert Modulator für zweite Welle. Stockwerkshohe Killermaschinen beginnen durchzutreten. Tausende Moragh-Tote beim Durchbruch. Alphina überlädt die Portal-Quelle mit Wachstum — Solo-Akt, Stufe 10. Quelle kollabiert beidseitig. Eine Maschine wird halbiert, Teil in jeder Welt.",
-      "typen": [
-        "portal",
-        "tod",
-        "schlüssel"
-      ],
-      "sync": {
-        "thalassien": "Vael 2153 TZ. Alle Magie permanent weg. Farne stehen still, Steinkreis kalt, Institut wird zur Ruine einer überholten Wissenschaft.",
-        "moragh": "Portal-Quelle tot. Portal endgültig zu. Expedition 2 in Moragh gestrandet, Rest in Thalassien ohne Rückweg."
-      },
-      "tags": [
-        "Portal tot",
-        "Magie weg",
-        "2153 TZ"
-      ],
-      "tz": 878,
-      "tz_sort": 877.6666666666667,
-      "tz_datum": "MZ 9.80 · TZ 878",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 9.9,
-      "welt": "moragh",
-      "pov": "Vesper",
-      "buch": "B3",
-      "kapitel": "79",
-      "leseart": "normal",
-      "titel": "Ruhezeit — Vesper amputiert, Gruppe erholt sich",
-      "detail": "Vesper-Amputation mit Runas Feuer-Klinge. Drei Finger Alphinas sind verloren. Kessler liegt auf dem Schlachtfeld zurück, Nyr trauert. Die Gruppe rastet eine Moragh-Woche, zählt die Toten.",
-      "typen": [
-        "hintergrund",
-        "tod"
-      ],
-      "tags": [
-        "Amputation",
-        "Ruhezeit"
-      ],
-      "tz": 881,
-      "tz_sort": 881.0,
-      "tz_datum": "MZ 9.90 · TZ 881",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 10.0,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B3",
-      "kapitel": "80",
-      "leseart": "normal",
-      "titel": "Alphina + Vesper — BDSM-Annäherung",
-      "detail": "Nach Wochen des Schweigens eine Nacht bei Kerzenlicht. Vesper als Dom, geduldig, reflektiert. Alphina erstmals Sub — durch Scham über ihre Varen-Zeit. Blühende Dornen ruhig, mit Blüten.",
-      "typen": [
-        "erotik",
-        "begegnung"
-      ],
-      "tags": [
-        "BDSM-Annäherung",
-        "Sub-Alphina"
+        "Tyra-Fernsprecher",
+        "Schall-Resonanz"
       ],
       "tz": 884,
-      "tz_sort": 884.3333333333334,
-      "tz_datum": "MZ 10.00 · TZ 884",
+      "tz_sort": 884.0,
+      "tz_datum": "MZ 9.03 · TZ 884",
       "kapitel_status": "idee"
     },
     {
@@ -4157,11 +3815,331 @@
       "kapitel_status": ""
     },
     {
-      "mz": 10.05,
+      "mz": 9.16,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B3",
+      "kapitel": "28",
+      "leseart": "normal",
+      "titel": "Wiederbegegnung Alphina–Runa",
+      "detail": "In Kolmen. Alphina weint. Runa bleibt hart und klar, dann berührt sie ihre Hand: »Aber ich stehe. Wenn es zählt.«",
+      "typen": [
+        "begegnung",
+        "erkenntnis"
+      ],
+      "tags": [
+        "Versöhnung"
+      ],
+      "tz": 888,
+      "tz_sort": 888.0,
+      "tz_datum": "MZ 9.16 · TZ 888",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 9.29,
+      "welt": "moragh",
+      "pov": "Nyr",
+      "buch": "B3",
+      "kapitel": "29",
+      "leseart": "normal",
+      "titel": "Nyr verlässt die Thar",
+      "detail": "Unbehagen über Zivilisten-als-Schild-Befehle. Kessler ist ihr, nicht der Kommandantin. Sie fährt nachts aus Thar-Kem, verabschiedet sich von Vesper friedlich, bietet Beistand an.",
+      "typen": [
+        "begegnung",
+        "erkenntnis"
+      ],
+      "tags": [
+        "Nyr-Austritt",
+        "Reiter-Bindung absolut"
+      ],
+      "tz": 892,
+      "tz_sort": 892.0,
+      "tz_datum": "MZ 9.29 · TZ 892",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 9.42,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B3",
+      "kapitel": "30",
+      "leseart": "normal",
+      "titel": "Alphina tötet Talven — Fehlurteil",
+      "detail": "Alphina konfrontiert Talven. Die drei Fälschungen wirken. Dornen durchs Brustbein. Sein Satz: »Ich hätte es irgendwann wirklich gekonnt.« Er stirbt. Die Wahrheit bleibt bei Varen.",
+      "typen": [
+        "tod",
+        "krieg"
+      ],
+      "tags": [
+        "Talven tot",
+        "Fehlurteil"
+      ],
+      "tz": 896,
+      "tz_sort": 896.0,
+      "tz_datum": "MZ 9.42 · TZ 896",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 9.55,
+      "welt": "synchronisation",
+      "pov": "Kessler/Kelvar",
+      "buch": "B3",
+      "kapitel": "31",
+      "leseart": "normal",
+      "titel": "Zweite Expedition kommt durch — 2500 Soldaten, 2120 TZ",
+      "detail": "Modulator 72 Stunden aktiv. Expedition 2: 2500 Soldaten, Biotech-Bodymod, stockwerkshohe Killermaschinen. General Kelvar Velkan führt. In zwei Moragh-Wochen fällt Bund-Grenzgebiet, eine freie Stadt ist erobert.",
+      "typen": [
+        "portal",
+        "krieg",
+        "schlüssel"
+      ],
+      "sync": {
+        "thalassien": "Vael 2120 TZ. Institut schickt großen Zug, Hymnen und Propaganda. Kein Weg zurück im Plan.",
+        "moragh": "Steinplatz-Gebiet wird Militärzone. Moragh-Flüchtlinge strömen nach Westen."
+      },
+      "tags": [
+        "Expedition 2",
+        "2500 Soldaten",
+        "2120 TZ",
+        "Kelvar Velkan"
+      ],
+      "tz": 900,
+      "tz_sort": 900.0,
+      "tz_datum": "MZ 9.55 · TZ 900",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 9.68,
+      "welt": "moragh",
+      "pov": "Drael",
+      "buch": "B3",
+      "kapitel": "32",
+      "leseart": "normal",
+      "titel": "Notbündnis Orath + Thar",
+      "detail": "Drael und die Thar-Kommandantin treffen sich persönlich. Jahrelange Feindschaft, jetzt gemeinsamer Feind. Vesper wird Stratege des Bündnisses — erstes Bündnis in vier Jahren Krieg.",
+      "typen": [
+        "begegnung",
+        "krieg"
+      ],
+      "tags": [
+        "Notbündnis"
+      ],
+      "tz": 904,
+      "tz_sort": 904.0,
+      "tz_datum": "MZ 9.68 · TZ 904",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 9.81,
+      "welt": "moragh",
+      "pov": "Varen",
+      "buch": "B3",
+      "kapitel": "33",
+      "leseart": "normal",
+      "titel": "Varen versammelt seinen Zirkel — Einladung",
+      "detail": "Zwanzig bis dreissig Anhänger, Velmar-Fragmente, Bund-Überläufer. Varen schickt eine Einladung an Alphina und Vesper: Duell-Ort, Duell-Zeit, Duell-Regeln. Er weiß, sie kommen.",
+      "typen": [
+        "begegnung",
+        "tschechow"
+      ],
+      "tags": [
+        "Duell-Einladung"
+      ],
+      "tz": 908,
+      "tz_sort": 908.0,
+      "tz_datum": "MZ 9.81 · TZ 908",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 9.94,
+      "welt": "thalassien",
+      "pov": "Kelvar",
+      "buch": "B3",
+      "kapitel": "I6",
+      "leseart": "rueckblende",
+      "titel": "I16 — Expedition 2 Aufbruch aus Vael",
+      "detail": "Rückblende zum Start der Invasion. Vael 2120 TZ. Die Portal-Maschine wird aktiviert. Hymne, Flaggen, Kessels Abschiedsrede: »Wir holen uns die Welt zurück, die man uns genommen hat.«",
+      "typen": [
+        "hintergrund",
+        "krieg"
+      ],
+      "tags": [
+        "Expedition 2 Aufbruch"
+      ],
+      "tz": 912,
+      "tz_sort": 912.0,
+      "tz_datum": "MZ 9.94 · TZ 912",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 10.07,
+      "welt": "moragh",
+      "pov": "Runa",
+      "buch": "B3",
+      "kapitel": "34",
+      "leseart": "normal",
+      "titel": "Parallel-Schlacht beginnt — Runa + Nyr in Kessler",
+      "detail": "Bündnis vs. Expedition vor Dulrath-Ost. Runa + Nyr in Kessler gegen Expeditions-Drohnen. Iven (17, Moragh-Elektrizitäts-Resonanz) lahmt Expeditions-Elektronik mit einem Störsender-Ritual, zahlt mit dem Körper.",
+      "typen": [
+        "krieg",
+        "resonanz"
+      ],
+      "tags": [
+        "Iven",
+        "Parallel-Schlacht",
+        "Kessler im Kampf"
+      ],
+      "tz": 916,
+      "tz_sort": 916.0,
+      "tz_datum": "MZ 10.07 · TZ 916",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 10.2,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B3",
+      "kapitel": "35",
+      "leseart": "normal",
+      "titel": "Duell Alphina + Vesper vs. Varen — Beginn",
+      "detail": "Drei Kapitel, etwa 15.000 Wörter. Varen in seinem Ring. Alphina und Vesper. Varen löst den Anker über seine Frequenz aus — Alphinas Dornen wachsen unter ihrer Haut. Vespers Schemen-Angriff zielt auf seinen Temporal-Helm.",
+      "typen": [
+        "krieg",
+        "schlüssel"
+      ],
+      "tags": [
+        "Duell",
+        "Anker-Bruch"
+      ],
+      "tz": 920,
+      "tz_sort": 920.0,
+      "tz_datum": "MZ 10.20 · TZ 920",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 10.33,
+      "welt": "moragh",
+      "pov": "Vesper",
+      "buch": "B3",
+      "kapitel": "36",
+      "leseart": "normal",
+      "titel": "Vespers linker Unterarm zerkocht",
+      "detail": "Ein aufgeladener Varen-Schemen fasst Vespers linken Unterarm. Haut spannt, bleibt unversehrt, Fleisch innen kocht. Er kämpft weiter mit der rechten Hand.",
+      "typen": [
+        "tod",
+        "krieg"
+      ],
+      "tags": [
+        "Vesper-Arm-Verlust"
+      ],
+      "tz": 924,
+      "tz_sort": 924.0,
+      "tz_datum": "MZ 10.33 · TZ 924",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 10.46,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B3",
+      "kapitel": "37",
+      "leseart": "normal",
+      "titel": "Varens Register-Bruch + Reveal",
+      "detail": "Drei Finger von Alphinas linker Hand explodieren in eigenen Dornen. Varen: »Kleine naive Alphina. Du warst sauberer zu lesen als Sorel. Ich habe dich nie angesehen. Nur deinen Frequenzwert.« Später: »Sie starb in der Küche.« Noch später, leise: »Garten.«",
+      "typen": [
+        "erkenntnis",
+        "tod",
+        "schlüssel"
+      ],
+      "tags": [
+        "Register-Bruch",
+        "Frequenzwert",
+        "Küche",
+        "Garten"
+      ],
+      "tz": 928,
+      "tz_sort": 928.0,
+      "tz_datum": "MZ 10.46 · TZ 928",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 10.47,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B3",
+      "kapitel": "37",
+      "leseart": "normal",
+      "titel": "Alphina gibt Varen den Todesstoss",
+      "detail": "Mit verbleibenden zwei Fingern und Dornen. Kein Pathos, keine Rede. Varens letztes Wort: »Garten.« Sie versteht erst, dass er Elke meinte, als sie ihre Finger im Gras liegen sieht.",
+      "typen": [
+        "tod",
+        "schlüssel"
+      ],
+      "tags": [
+        "Varen tot",
+        "Letztes Wort Garten"
+      ],
+      "tz": 928,
+      "tz_sort": 928.33,
+      "tz_datum": "MZ 10.47 · TZ 928",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 10.59,
+      "welt": "synchronisation",
+      "pov": "Alphina",
+      "buch": "B3",
+      "kapitel": "38",
+      "leseart": "normal",
+      "titel": "Portal-Finale — Expedition 2 startet zweite Durchgangs-Welle, Alphina kollabiert die Quelle",
+      "detail": "Expedition aktiviert Modulator für zweite Welle. Stockwerkshohe Killermaschinen beginnen durchzutreten. Tausende Moragh-Tote beim Durchbruch. Alphina überlädt die Portal-Quelle mit Wachstum — Solo-Akt, Stufe 10. Quelle kollabiert beidseitig. Eine Maschine wird halbiert, Teil in jeder Welt.",
+      "typen": [
+        "portal",
+        "tod",
+        "schlüssel"
+      ],
+      "sync": {
+        "thalassien": "Vael 2153 TZ. Alle Magie permanent weg. Farne stehen still, Steinkreis kalt, Institut wird zur Ruine einer überholten Wissenschaft.",
+        "moragh": "Portal-Quelle tot. Portal endgültig zu. Expedition 2 in Moragh gestrandet, Rest in Thalassien ohne Rückweg."
+      },
+      "tags": [
+        "Portal tot",
+        "Magie weg",
+        "2153 TZ"
+      ],
+      "tz": 932,
+      "tz_sort": 932.0,
+      "tz_datum": "MZ 10.59 · TZ 932",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 10.72,
+      "welt": "moragh",
+      "pov": "Vesper",
+      "buch": "B3",
+      "kapitel": "39",
+      "leseart": "normal",
+      "titel": "Ruhezeit — Vesper amputiert, Gruppe erholt sich",
+      "detail": "Vesper-Amputation mit Runas Feuer-Klinge. Drei Finger Alphinas sind verloren. Kessler liegt auf dem Schlachtfeld zurück, Nyr trauert. Die Gruppe rastet eine Moragh-Woche, zählt die Toten.",
+      "typen": [
+        "hintergrund",
+        "tod"
+      ],
+      "tags": [
+        "Amputation",
+        "Ruhezeit"
+      ],
+      "tz": 936,
+      "tz_sort": 936.0,
+      "tz_datum": "MZ 10.72 · TZ 936",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 10.85,
       "welt": "thalassien",
       "pov": "",
       "buch": "B3",
-      "kapitel": "I15",
+      "kapitel": "I7",
       "leseart": "vorschau",
       "titel": "I15 — Kind in Vael berührt den Farn",
       "detail": "Thalassien 2155+. Ein Kind im Botanischen Garten legt die Hand an den alten Farn, der einst auf Alphina reagierte. Nichts passiert. Der Farn ist Pflanze, nur Pflanze.",
@@ -4172,17 +4150,39 @@
         "Magie weg",
         "Farn still"
       ],
-      "tz": 886,
-      "tz_sort": 886.0,
-      "tz_datum": "MZ 10.05 · TZ 886",
+      "tz": 940,
+      "tz_sort": 940.0,
+      "tz_datum": "MZ 10.85 · TZ 940",
       "kapitel_status": "idee"
     },
     {
-      "mz": 10.1,
+      "mz": 10.98,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B3",
+      "kapitel": "40",
+      "leseart": "normal",
+      "titel": "Alphina + Vesper — BDSM-Annäherung",
+      "detail": "Nach Wochen des Schweigens eine Nacht bei Kerzenlicht. Vesper als Dom, geduldig, reflektiert. Alphina erstmals Sub — durch Scham über ihre Varen-Zeit. Blühende Dornen ruhig, mit Blüten.",
+      "typen": [
+        "erotik",
+        "begegnung"
+      ],
+      "tags": [
+        "BDSM-Annäherung",
+        "Sub-Alphina"
+      ],
+      "tz": 944,
+      "tz_sort": 944.0,
+      "tz_datum": "MZ 10.98 · TZ 944",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 11.11,
       "welt": "moragh",
       "pov": "Alle",
       "buch": "B3",
-      "kapitel": "EP",
+      "kapitel": "Epilog",
       "leseart": "normal",
       "titel": "Epilog Halvek-Mar — vier Narbige + Tyra",
       "detail": "Halvek-Mar, Küstenstadt im Westen. Alphina (drei Finger fehlen, Farne wachsen wieder grün), Vesper (amputiert, Uhren bauen mit Prothese), Runa und Nyr (Kessler als zivile Arbeitsbestie im Hafen), Tyra (Moragh-Heimat, Schall-Resonanz). Stille. Meer. Narben. Keine Heimkehr.",
@@ -4195,9 +4195,9 @@
         "Epilog",
         "Narbige"
       ],
-      "tz": 888,
-      "tz_sort": 887.6666666666667,
-      "tz_datum": "MZ 10.10 · TZ 888",
+      "tz": 948,
+      "tz_sort": 948.0,
+      "tz_datum": "MZ 11.11 · TZ 948",
       "kapitel_status": "idee"
     }
   ]
