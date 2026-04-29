@@ -34,7 +34,7 @@ Im *Anker* war es noch früh genug, dass der Mittagsbetrieb nicht angefangen hat
 
 Sie klopfte einmal gegen den Rahmen.
 
-Er saß am Tisch, den Rücken zur Tür, eine Lupe am Auge, über dem Werk einer Taschenuhr, das auf dem schwarzen Samt lag, in drei Gruppen zerlegt. Die rechte Hand hielt eine Pinzette, so klein, dass sie in seinen Fingern aussah, als wäre sie nicht da. Er drehte sich nicht um. Er nahm die Pinzette ab, legte sie quer auf das Tuch, nahm die Lupe aus dem Auge, legte sie neben die Pinzette — in der Reihenfolge wie immer, einen halben Atemzug langsamer. Dann drehte er sich um.
+Er saß am Tisch, den Rücken zur Tür, eine Lupe am Auge, über dem Werk einer Taschenuhr, das auf dem schwarzen Samt lag, in drei Gruppen zerlegt. Die rechte Hand hielt eine Pinzette, so klein, dass sie in seinen Fingern aussah, als wäre sie nicht da. Er drehte sich nicht um. Er nahm die Pinzette ab, legte sie quer auf das Tuch, nahm die Lupe aus dem Auge, legte sie neben die Pinzette — in der Reihenfolge wie immer, einen Atemzug langsamer. Dann drehte er sich um.
 
 Sein Blick fand sie am Rahmen. Er blieb auf ihr, einen Moment zu lang für ein bloßes Erkennen.
 
@@ -88,7 +88,7 @@ Sie reichte ihm das Papier mit dem langen Maß, bevor er danach griff. Reichte i
 
 Sie sah seinen Bleistift. Sah die kurze Pause vor jedem Strich.
 
-Sie merkte, dass er einmal aufsah. Ein Blick, der sie nahm und nicht gleich zurückgab. Sie senkte den Kopf nicht. Und die Haut an ihrem Hals wurde einen halben Grad wärmer, als wäre die Luft dort in Bewegung gekommen.
+Sie merkte, dass er einmal aufsah. Ein Blick, der sie nahm und nicht gleich zurückgab. Sie senkte den Kopf nicht. Und die Haut an ihrem Hals wurde einen Hauch wärmer, als wäre die Luft dort in Bewegung gekommen.
 
 Er sah wieder auf das Blatt.
 
@@ -104,11 +104,11 @@ Sie beugte sich ein Stück weiter. Die Zeichen waren drei Striche und ein Punkt,
 
 "Er markiert nicht den Stein. Er markiert, was mit ihm passiert."
 
-Er nahm den Bleistift nach unten, zwischen seine Finger. Drehte ihn eine halbe Umdrehung. Nickte nicht. Seine Augen waren einen halben Moment länger auf ihrem Gesicht als nötig.
+Er nahm den Bleistift nach unten, zwischen seine Finger. Drehte ihn einmal um. Nickte nicht. Seine Augen waren einen Moment länger auf ihrem Gesicht als nötig.
 
 "Schlaues Mädchen."
 
-Sie sah auf das Blatt. Der Atem stockte. Zwischen den Schenkeln eine Hitze, die sich sammelte — ein Puls, der nicht zu ihr gehörte. Ihre Brustwarzen wurden hart, sie spürte sie am Mieder drücken. Auf der Oberlippe der Geschmack von Salz. Sie schmeckte ihn und leckte ihn nicht weg.
+Sie sah auf das Blatt. Der Atem stockte. Zwischen den Schenkeln eine Hitze, die sich sammelte — ein Pochen, das nicht zu ihr gehörte. Ihre Brustwarzen wurden hart, sie spürte sie am Mieder drücken. Auf der Oberlippe der Geschmack von Salz. Sie schmeckte ihn und leckte ihn nicht weg.
 
 Er zog das kleine Register näher heran, setzte den Bleistift neben eine Zahl in der Tabelle. "Das hier." Er unterstrich eine Ziffernfolge. "Das ist eine Vaeler Registriernummer. Archiv-Kennung. Das Blatt verweist auf ein Dokument, das im Rathauskeller liegt." Er machte eine Pause, nicht aus Unsicherheit. "Oder lag."
 
@@ -144,7 +144,7 @@ Frau Voss beugte sich vor. Sie rückte die Brille nicht zurecht — sie hatte di
 
 "Wir haben vermutet."
 
-Sie sah auf das Blatt, hielt es mit einer Hand am Rand gegen das Lampenlicht, so wie er es im *Anker* gemacht hatte. Ihr Gesicht veränderte sich nicht, aber die Luft an ihrer Nase ging einmal länger ein als vorher, nur eine halbe Sekunde.
+Sie sah auf das Blatt, hielt es mit einer Hand am Rand gegen das Lampenlicht, so wie er es im *Anker* gemacht hatte. Ihr Gesicht veränderte sich nicht, aber die Luft an ihrer Nase ging einmal länger ein als vorher, nur einen Atemzug.
 
 "Dahl."
 
@@ -218,7 +218,7 @@ Sie blieb. Auf dem Holz des Uferwegs, in der Hocke, mit dem Finger eine Daumenbr
 
 Sie stand auf; das Holz unter ihren Sohlen gab eine halbe Rille nach, weil die Dielen an diesem Teil des Wegs weich waren von der Feuchte. Sie drehte sich nicht zu ihm. Sie ging weiter, und er ging weiter. Oben am Speicherbau, zwischen den fensterlosen Wänden des Lichthauses, brannte ein einzelnes schmales Licht, das auf dem Wasser als gelber Strich lag. Sie sah einmal hin. Dann ging sie weiter.
 
-An der Ecke, wo sich der Weg zur Werft von dem Weg zum *Anker* trennte, blieb Vesper einen halben Schritt hinter ihr stehen. Sie drehte sich. Er nickte. Sie nickte.
+An der Ecke, wo sich der Weg zur Werft von dem Weg zum *Anker* trennte, blieb Vesper einen Schritt hinter ihr stehen. Sie drehte sich. Er nickte. Sie nickte.
 
 Sie ging zur Werft. Edric war zurück, hörte sie am Tor — die Lärche stand abgedeckt in der hinteren Ecke, der alte Segelstoff lag darüber wie jeden Tag. Sie zog die Hand unter das Mieder. Leer. Sie trat an die Werkbank, nahm den Hobel, legte ihn zurück auf den Platz. Unter ihrer Handfläche war das Holz warm vom Nachmittagslicht.
 
