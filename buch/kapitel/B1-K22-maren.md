@@ -38,9 +38,9 @@ Alphina blinzelte, nahm das Blatt zwischen zwei Finger und drehte es. Sah die Ob
 
 Alphina nickte nicht; sie drehte sich um, ging ins Zimmer zurück und nahm den Mantel vom Haken, das Notizbuch vom Tisch und die Stiefel vom Boden — ohne Wort, ohne Frage, in einem stetigen Takt, der keine Antwort nötig machte.
 
-Sechs Minuten zurück, jetzt zu zweit. Der Nebel war inzwischen dichter geworden, oder er hatte nur die Zeit gehabt, sich zu setzen — zwischen den Atemzügen, in dem Takt, den die Gasse ohnehin hatte. Alphina ging einen halben Schritt hinter Maren, dicht genug, dass Maren das Reiben ihres Mantels hörte, weit genug, dass sie nicht sprechen mussten. Einmal, auf halber Strecke, sagte Alphina: „Du hast sie heute gefunden." Es war keine Frage. Maren nickte, obwohl Alphina hinter ihr ging und das Nicken nicht sehen konnte.
+Sechs Minuten zurück, jetzt zu zweit. Der Nebel war inzwischen dichter geworden, oder er hatte nur die Zeit gehabt, sich zu setzen — zwischen den Atemzügen, in dem Takt, den die Gasse ohnehin hatte. Alphina ging einen Schritt hinter Maren, dicht genug, dass Maren das Reiben ihres Mantels hörte, weit genug, dass sie nicht sprechen mussten. Einmal, auf halber Strecke, sagte Alphina: „Du hast sie heute gefunden." Es war keine Frage. Maren nickte, obwohl Alphina hinter ihr ging und das Nicken nicht sehen konnte.
 
-Am Werft-Tor griff Maren in die Hosentasche nach dem Schlüssel, einmal drehen, einmal drücken. Die Zinke ging ohne Laut ins Schloss zurück. Alphina trat ein, einen halben Atemzug still im Eingang, die Augen an der Dämmerung, die die Halle morgens eigentlich nicht hatte — aber der Nebel war ein Stück mitgekommen, saß zwischen den Spanten an der Decke und dämpfte das Morgenlicht.
+Am Werft-Tor griff Maren in die Hosentasche nach dem Schlüssel, einmal drehen, einmal drücken. Die Zinke ging ohne Laut ins Schloss zurück. Alphina trat ein, einen Atemzug still im Eingang, die Augen an der Dämmerung, die die Halle morgens eigentlich nicht hatte — aber der Nebel war ein Stück mitgekommen, saß zwischen den Spanten an der Decke und dämpfte das Morgenlicht.
 
 „Da hinten", sagte Maren, und Alphina hörte nicht zu — sie hatte schon gesehen.
 
@@ -48,7 +48,7 @@ Sie ging durch die Halle, langsam, ohne die Werkbank zu streifen oder das Boot z
 
 Am hinteren Ende blieb Alphina stehen und sah die Pflanze. Eine lange Sekunde lang bewegte sie sich nicht — nicht die Hand, nicht den Kopf, nicht den Atem. Dann ging sie in die Hocke.
 
-Alphina kniete vor der Pflanze und legte das Notizbuch neben sich auf die Bohle. Ihre Finger gingen zuerst nicht an das Blatt, sondern an den Stängel, dort, wo er aus der Fuge trat. Sie spreizte die Fuge mit dem Nagel des Zeigefingers leicht auseinander, sah in den Spalt, schob den Nagel wieder weg. Beugte sich tiefer, bis die Nase auf Höhe des mittleren Blatts war, und atmete einmal lang ein, einmal kürzer. Nahm das kleinste Blatt, das oberste, zwischen zwei Finger und drehte es, sodass die Unterseite gegen das Hallenlicht lag. Hielt es so, einen Moment. Ließ es zurück in seine alte Lage fallen, sehr langsam, damit der Stängel nicht mitbog.
+Alphina kniete vor der Pflanze und legte das Notizbuch neben sich auf die Bohle. Ihre Finger gingen zuerst an den Stängel, dort, wo er aus der Fuge trat. Sie spreizte die Fuge mit dem Nagel des Zeigefingers leicht auseinander, sah in den Spalt, schob den Nagel wieder weg. Beugte sich tiefer, bis die Nase auf Höhe des mittleren Blatts war, und atmete einmal lang ein, einmal kürzer. Nahm das kleinste Blatt, das oberste, zwischen zwei Finger und drehte es, sodass die Unterseite gegen das Hallenlicht lag. Hielt es so, einen Moment. Ließ es zurück in seine alte Lage fallen, sehr langsam, damit der Stängel nicht mitbog.
 
 Dann blieb sie noch zwei, drei Atemzüge in der Hocke. Sie sah die Pflanze nicht mehr an, sie sah in die Fuge.
 
@@ -68,7 +68,7 @@ Die Antwort kam sofort. Die drei Blätter drehten sich zu Alphinas Hand hin, gle
 
 Dann wuchs die Pflanze.
 
-Nicht langsam. Einen halben Finger in zwei Atemzügen. Der Stängel streckte sich, zwei Seitentriebe schoben sich aus den Blattwinkeln heraus, neue Blätter entfalteten sich — erst gefaltet und klebrig, dann glatt und dicht. Der Geruch wurde stärker, süß und metallisch, die Kupferkante jetzt deutlich am Gaumen, nicht mehr nur zwischen den Zähnen. Maren hielt die Luft an, ohne es zu beschließen.
+Nicht langsam. Einen Finger in zwei Atemzügen. Der Stängel streckte sich, zwei Seitentriebe schoben sich aus den Blattwinkeln heraus, neue Blätter entfalteten sich — erst gefaltet und klebrig, dann glatt und dicht. Der Geruch wurde stärker, süß und metallisch, die Kupferkante jetzt deutlich am Gaumen, nicht mehr nur zwischen den Zähnen. Maren hielt die Luft an, ohne es zu beschließen.
 
 An der Spitze des Hauptstängels formte sich eine Knospe. Sie schwoll an, dehnte sich aus, bis die äußeren Hüllblätter rissen.
 
@@ -86,9 +86,9 @@ Dann zog Alphina die Hand zurück, sehr langsam, mit derselben Ruhe, mit der sie
 
 Maren atmete aus.
 
-Alphina schob den Bleistift zurück in die Bindung, klappte das Notizbuch zu und drückte es einen halben Moment fest gegen ihre Brust. Dann stand sie auf, die Knie knackten leise, und sie sah die Pflanze ein letztes Mal von oben an — die Blüte, die jetzt höher stand als ihr eigenes Knie, das Licht, das sich nicht veränderte, den violetten Kreis, den die Bohle darunter hielt.
+Alphina schob den Bleistift zurück in die Bindung, klappte das Notizbuch zu und drückte es einen Moment fest gegen ihre Brust. Dann stand sie auf, die Knie knackten leise, und sie sah die Pflanze ein letztes Mal von oben an — die Blüte, die jetzt höher stand als ihr eigenes Knie, das Licht, das sich nicht veränderte, den violetten Kreis, den die Bohle darunter hielt.
 
-Sie ging an Maren vorbei, ohne den Blick zu heben. Am Werft-Tor blieb sie stehen. Eine Hand lag auf dem Türrahmen, die andere hielt das Notizbuch gegen den Oberschenkel. Sie drehte sich nicht mehr um, aber die Knöchel an der Hand auf dem Rahmen waren weiß, einen halben Atemzug zu lang.
+Sie ging an Maren vorbei, ohne den Blick zu heben. Am Werft-Tor blieb sie stehen. Eine Hand lag auf dem Türrahmen, die andere hielt das Notizbuch gegen den Oberschenkel. Sie drehte sich nicht mehr um, aber die Knöchel an der Hand auf dem Rahmen waren weiß, einen Atemzug zu lang.
 
 „Halt das Tor zu. Ich gehe in den Garten, will sehen, ob oben auch welche stehen. Rede heute Abend mit Vesper. Morgen früh ins Archiv, alle vier."
 
@@ -132,7 +132,7 @@ In der Werft war es still. Nur die Grauwe redete draußen gegen die Stegpfähle,
 
 Am hinteren Ende leuchtete die Pflanze. Schwach, aber ständig. Ein violetter Punkt in Marens Augenwinkel, der nicht verschwand, wenn sie den Kopf drehte. Sie blieb einen Moment an der Werkbank stehen, die Hand auf dem abgewetzten Holz, den Blick auf dem Boot. Dann sah sie weg und griff nach dem Werkzeug.
 
-Sie nahm den Hobel aus dem Halter, legte ihn quer auf die Werkbank, nahm das Schleifpapier, ging zur Kimm-Planke auf der Steuerbordseite. Die Wölbung war seit gestern einen Millimeter mehr. Maren fuhr mit der Handfläche darüber, fühlte das kleine Heben, setzte den Hobel an der Vorkante an, zog. Der Span kam hell und fein, kaum mehr als Staub. Sie zog noch einmal, dann ein zweites Mal. Das Holz gab nach, stetig, gleichmäßig. Frische Lärche unter scharfem Hobel.
+Sie nahm den Hobel aus dem Halter, legte ihn quer auf die Werkbank, nahm das Schleifpapier, ging zur Kimm-Planke auf der Steuerbordseite. Die Wölbung war seit gestern eine Linie mehr. Maren fuhr mit der Handfläche darüber, fühlte das kleine Heben, setzte den Hobel an der Vorkante an, zog. Der Span kam hell und fein, kaum mehr als Staub. Sie zog noch einmal, dann ein zweites Mal. Das Holz gab nach, stetig, gleichmäßig. Frische Lärche unter scharfem Hobel.
 
 Sie arbeitete. Ihre Hände wussten, was sie taten. Die Arme, die Schultern, der ganze Körper wusste es. Während der Hobel über das Holz zog, bewegten sich die Gedanken in derselben gleichmäßigen Richtung.
 
@@ -158,7 +158,7 @@ Der Weg zum *Anker* war sechs Minuten durch die Hafengasse, am Steg vorbei, wo d
 
 Der Schankraum war halb besetzt. Zwei Männer saßen am langen Tisch, das Bier dunkel vor ihnen. Eine Frau stand am Ofen, den Rücken zur Tür. Die Wirtsfrau fuhr hinter der Theke mit einem feuchten Lappen über das Tresenholz. Keiner drehte sich um, als Maren eintrat. Sie ging durch, hinten links, den kurzen Flur entlang, zur kleinen Stube, in der Vesper seinen Reparaturtisch hatte. Die Tür stand einen Finger breit offen. Der Spalt war ihr vertraut.
 
-Sie schob sie mit dem Ellbogen auf, so weit, dass sie eintreten konnte, und blieb auf der Schwelle einen halben Atemzug stehen. Der Raum hatte eine Ordnung, die ihm gehörte — die Petroleumlampe genau über der Arbeitsfläche, die Werkzeuge nach Länge aufgereiht, das schwarze Samttuch auf dem Tisch ohne Falte. Sie trat ein.
+Sie schob sie mit dem Ellbogen auf, so weit, dass sie eintreten konnte, und blieb auf der Schwelle einen Atemzug stehen. Der Raum hatte eine Ordnung, die ihm gehörte — die Petroleumlampe genau über der Arbeitsfläche, die Werkzeuge nach Länge aufgereiht, das schwarze Samttuch auf dem Tisch ohne Falte. Sie trat ein.
 
 Vesper saß über einem Uhrwerk, das Licht der Lampe schräg auf dem Samt, das Glas des Zifferblatts neben der rechten Hand, dahinter eine Reihe sehr kleiner Federn, die er sortiert hatte. Er sah auf. Nicht hoch. Nur kurz, die Augen aus dem Werk in ihre Richtung und wieder zurück.
 
@@ -200,8 +200,8 @@ Ihre Hände lagen auf den Oberschenkeln. Sie waren warm. Die Wärme kam aus der 
 
 Irgendwann hob Vesper den Kopf. Er sah sie an, länger als vorher. Etwas um den Mund veränderte sich. Einen Atemzug lang lächelte er. Dann beugte er sich wieder über das Werk.
 
-Das Mieder saß enger. Sie spürte ihren Puls in den Innenseiten der Schenkel. Ihr Mund war trocken.
+Das Mieder saß enger. Sie spürte ihr Pochen in den Innenseiten der Schenkel. Ihr Mund war trocken.
 
-Etwas in ihrer Brust, das den ganzen Tag hoch gesessen hatte, gab nach. Die Schultern senkten sich, der Atem wurde länger. Sie durfte hier sein.
+In ihrer Brust gab etwas nach, das den ganzen Tag hoch gesessen hatte. Die Schultern senkten sich, der Atem wurde länger. Sie durfte hier sein.
 
 Sie blieb sitzen.
