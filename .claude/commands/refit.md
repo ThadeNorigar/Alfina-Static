@@ -1,10 +1,17 @@
-# /refit — Alt-Kapitel auf aktuellen Stil bringen
+# /refit — Alt-Kapitel auf aktuellen Stil bringen ODER modernes Kapitel pruefen
 
-**Ziel:** Ein Kapitel aus der alten Aera (vor April 2026) in den aktuellen commercial-Dark-Romantasy-Stil ueberfuehren — durch **Plot-Lock-Extraktion plus Neuausarbeitung**. Kein Edit-in-place.
+**Zwei Modi (seit 2026-05-01):**
 
-**Warum ein eigener Skill:** `/ausarbeitung` setzt einen freigegebenen `/entwurf` voraus. Alte Kapitel (K01-K04, K06-K08) haben keinen Entwurf mehr — der Plot steckt in der Prosa. Ein Edit-Pass auf der Altprosa produziert Mongrel-Text (Claude-Code-Falle). `/refit` extrahiert stattdessen die Beats in ein **Plot-Lock-Dokument**, generiert daraus einen regulaeren Entwurf, archiviert das Altkapitel und uebergibt an die bestehende `/ausarbeitung`-Pipeline.
+- **Modus A — Plot-Lock-Refit (klassisch):** Alt-Kapitel (vor April 2026) durch Plot-Lock-Extraktion + Neuausarbeitung. Kein Edit-in-place.
+- **Modus B — 4-Subagent-Pipeline-Check (neu):** Modernes finales Kapitel direkt durch die 4-Subagent-Pipeline pruefen, ohne Refit. Findings-Report + autor-getriebene Fixes auf bestehendem Text. Kein Plot-Lock noetig.
 
-**Modell-Soll:** Sonnet (Hauptsession). Plot-Extraktion ist kognitive Arbeit, keine Prosa. Subagenten explizit per Override.
+**Auto-Detection:** Phase 0.4 (Stil-Gap-Check) entscheidet. Stark Alt-Stil → Modus A. Schwach Alt-Stil → Modus B.
+
+**Warum ein eigener Skill:**
+- Modus A: `/ausarbeitung` setzt einen freigegebenen `/entwurf` voraus. Alte Kapitel haben keinen Entwurf mehr — der Plot steckt in der Prosa. Ein Edit-Pass auf der Altprosa produziert Mongrel-Text. `/refit` extrahiert stattdessen die Beats in ein **Plot-Lock-Dokument**, generiert daraus einen regulaeren Entwurf, archiviert das Altkapitel und uebergibt an die bestehende `/ausarbeitung`-Pipeline.
+- Modus B: Auch moderne finale Kapitel (z.B. K22, K27) wurden vor der 4-Subagent-Pipeline-Verschaerfung (Mai 2026) geschrieben. Sie haben keinen Stil-Gap im klassischen Sinn, aber moeglicherweise Verquastung, Buehnen-Bugs oder POV-Vokabular-Brueche, die heute aufgefangen wuerden. `/refit` Modus B prueft das — ohne Refit, nur Diagnose + Fix-Liste auf vorhandenem Text.
+
+**Modell-Soll:** Sonnet (Hauptsession). Plot-Extraktion und Pipeline-Konsolidierung sind kognitive Arbeit, keine Prosa. Subagenten explizit per Override.
 
 ## Input
 
@@ -37,22 +44,32 @@ Aus `status.json` lesen.
 
 | Aktueller Status | Verhalten |
 |---|---|
-| `final` oder `lektorat` (Alt-Stil) | Normal weiter |
-| `entwurf-ok` / `ausarbeitung` | HARTER ABBRUCH: "Kapitel ist schon in der neuen Pipeline. /refit ist fuer Alt-Kapitel." |
-| `refit` (in Arbeit) | Frage: "Refit laeuft schon. Plot-Lock neu erstellen (ueberschreiben) oder weiter?" |
+| `final` (modern, post-Mai-2026) | Normal weiter — vermutlich Modus B (Pipeline-Check) |
+| `final` oder `lektorat` (Alt-Stil) | Normal weiter — vermutlich Modus A (Plot-Lock-Refit) |
+| `entwurf-ok` / `ausarbeitung` | HARTER ABBRUCH: "Kapitel ist schon in der neuen /ausarbeitung-Pipeline. Dort gilt die 4-Subagent-Pipeline pro Block. /refit nur fuer finale oder Alt-Kapitel." |
+| `refit` (in Arbeit) | Frage: "Refit laeuft schon. Plot-Lock neu erstellen (ueberschreiben), Pipeline-Check (Modus B) oder weiter?" |
 
-### 0.4 Stil-Gap-Check (diagnostisch, unverbindlich)
+### 0.4 Stil-Gap-Check (Modus-Switch)
 
-Kurzer Grep-Check auf typische Alt-Stil-Marker im Altkapitel:
+Kurzer Grep-Check auf typische Alt-Stil-Marker im Kapitel:
 - `nicht X — sondern Y` / `nicht X, sondern Y`
 - `sie dachte` / `er fragte sich`
 - `Das war` am Absatz-Anfang oder -Ende
 - Abstrakta-Stapel: `der/die/das [Stille|Kaelte|Schwere|Leere|Ferne] des/der`
 - Satz mit `wie etwas, das...`
 
-Wenn Summe < 3 Treffer: Warnung ausgeben: "Stil-Gap schwach. Ist dieses Kapitel wirklich alt? Ergebnis pruefen, dann bestaetigen."
+**Verzweigung:**
 
-Diese Pruefung blockiert nicht — sie verhindert nur versehentliche Refits von bereits modernen Kapiteln.
+| Treffer-Summe | Modus | Begruendung |
+|---|---|---|
+| ≥ 5 | **Modus A** (Plot-Lock-Refit) | starker Alt-Stil-Gap, Kapitel braucht Neuausarbeitung |
+| 1-4 | **Modus B** (Pipeline-Check) | moderner Stil mit moeglichen Bugs, kein Refit noetig |
+| 0 | Modus B mit Hinweis "Kapitel sieht sauber aus, evtl. nur diagnostischer Run" |
+
+Dem Autor anzeigen: Treffer-Liste + Empfehlung + Frage **„Modus A oder B?"**. Autor-Override moeglich (z.B. „Modus A trotzdem", weil tieferer Refit gewuenscht).
+
+**Bei Modus A:** weiter mit Phase 1-9 (Plot-Lock-Workflow).
+**Bei Modus B:** direkt zu **Phase B1** springen (siehe unten, nach Phase 9).
 
 ### 0.5 Parameter-Normalisierung
 
@@ -356,6 +373,131 @@ Das Handoff-File wird automatisch gelesen.
 
 Diese Session schreibt jetzt nichts mehr.
 ```
+
+---
+
+# MODUS B — 4-Subagent-Pipeline-Check (modernes finales Kapitel)
+
+**Wann:** Phase 0.4 hat „Modus B" als Empfehlung ausgegeben (1-4 Alt-Stil-Marker), oder Autor hat Modus B explizit gewaehlt.
+
+**Ziel:** Bestehendes Kapitel gegen den heutigen Setup-Stand pruefen (Hebel 1-5 aus `/ausarbeitung`-Skill). Findings-Report + autor-getriebene Fixes auf vorhandenem Text. **Kein Refit, kein Plot-Lock, kein Edit-in-place ohne Autor-Freigabe.**
+
+## Phase B1 — Kontext laden
+
+Parallel mit Read laden (~12-15k W):
+
+1. `buch/00-positioning.md` — Marktposition + 95%-Gate
+2. `buch/02-stilregeln-v2.md` — Stilregeln inkl. Verquastungs-Test
+3. `buch/01-autorin-stimme.md` — Stimme + Anti-Patterns
+4. `buch/01-referenz-konkretheit.md` — Konkretheits-Kanon
+5. `buch/pov/{figur}-schreibblatt.md` — Magie-Mechanik, Adult-Stellen, POV-Anti-Patterns
+6. `buch/pov/{figur}.md` — POV-Dossier (Wissensstand)
+7. **Kapitel selbst:** `buch/kapitel/B1-K{NN}-{figur}.md`
+
+**Kontext-Extraktor zusaetzlich** fuer Nachbar-Kapitel + Wissensstand:
+
+```bash
+python scripts/kapitel-kontext.py B1-K{NN} --phase ausarbeitung
+```
+
+## Phase B2 — Vier parallele Spezialisten-Subagenten
+
+Identisch zu Phase 2 in `/ausarbeitung` (4-Subagent-Pipeline-Sektion), aber auf das **ganze Kapitel** statt einzelne Bloecke.
+
+Dispatch alle vier in EINEM Tool-Call, parallel, alle Sonnet:
+
+### Subagent 1 — Sprach-TÜV (Kapitel-Scope)
+
+Prompt aus `.claude/commands/ausarbeitung.md` Sektion „Subagent 1 — Sprach-TÜV", aber:
+- `{BLOCK_TEXT}` durch ganzes Kapitel ersetzen
+- „Max 5 Findings" → „Max 15 Findings"
+- „Max 800 Token" → „Max 1.5k Token"
+
+### Subagent 2 — Verquastungs-Detektor (Kapitel-Scope)
+
+Prompt aus `/ausarbeitung` Sektion „Subagent 2", aber:
+- Ganzes Kapitel statt Block
+- Max 15 Findings, 1.5k Token
+
+### Subagent 3 — Konsistenz-Wächter (Kapitel-Scope)
+
+Prompt aus `/ausarbeitung` Sektion „Subagent 3", aber:
+- Ganzes Kapitel statt Block + Vorszene
+- Inventar-Verfolgung ueber alle Szenen
+- Max 12 Findings, 1.5k Token
+
+### Subagent 4 — Genre-Leserin (Kapitel-Scope)
+
+Prompt aus `/ausarbeitung` Sektion „Subagent 4", aber:
+- Ganzes Kapitel statt Block
+- Stimme passend zum Heat-/Plot-Charakter (LINA fuer Romantasy-Bloecke, MEIKE fuer Dark-Fantasy, VICTORIA fuer BDSM, KAYA fuer Schock)
+- Max 8 Findings, 1.5k Token
+
+## Phase B3 — Konsolidierung
+
+In der Hauptsession:
+
+1. **Verdikt-Block** zeigen:
+   - Pro Subagent: BESTANDEN / GRENZWERTIG / NICHT BESTANDEN
+   - Marktfaehigkeits-Score (Subagent 4)
+   - Gesamt-Stimmung
+
+2. **Master-Tabelle** aller Findings, konsolidiert mit Konflikt-Hierarchie (Konsistenz > Verquastung > Stilregel > Genre-Geschmack):
+
+| # | Zeile | Quelle | alt | neu / [STREICHEN] | warum |
+|---|---|---|---|---|---|
+
+3. **Stärkste Beats** (was alle Subagenten loben):
+
+| Zeile | Passage | warum stark |
+|---|---|---|
+
+## Phase B4 — Fix-Loop
+
+Frage am Ende der Master-Tabelle: „Soll ich die Findings einarbeiten? Pro Eintrag `ok`, `skip`, oder eigener Fix."
+
+- Autor entscheidet pro Finding
+- Fixes per Edit-Tool inline einarbeiten
+- Nach Fix-Runde: optionalen Re-Check mit Subagent 2 (Verquastungs-Detektor) laufen lassen, ob neue Verquastung entstanden ist
+
+## Phase B5 — Status-Update + Deploy
+
+- Falls Fixes eingearbeitet: `wc -w` neu zaehlen, status.json `woerter` aktualisieren
+- `git add buch/kapitel/B1-K{NN}-{figur}.md buch/status.json`
+- Commit-Message: `fix(B1-K{NN}): Modus-B-Pipeline-Check — {N} Fixes aus Subagent-Findings`
+- Push (Hook deployed automatisch)
+
+Falls KEINE Fixes eingearbeitet (Autor hat alle „skip"): nur Findings-Report ausgeben, kein Commit.
+
+## Phase B6 — Harter Stop
+
+```
+PIPELINE-CHECK ABGESCHLOSSEN.
+
+Kapitel: B1-K{NN}-{figur}.md
+Subagent-Verdikt: [Bestanden/Grenzwertig/Durchgefallen pro Stimme]
+Findings: {gesamt} | uebernommen: {N} | geskippt: {M}
+
+{Wenn schwer kaputt:} 
+  → Empfehlung: Tieferer Refit (Modus A) erwaegen.
+  → Erneut /refit aufrufen, Modus A explizit waehlen.
+
+{Wenn ok:}
+  → Kapitel auf aktuellem Stand. Naechster /refit-Lauf erst, wenn Setup-Hebel 6+ kommen.
+
+Diese Session schreibt jetzt nichts mehr.
+```
+
+## Modus-B-Regeln
+
+- **Kein Plot-Lock erstellen.** Modus B ist diagnostisch + chirurgisch, nicht strukturell.
+- **Kein Status-Wechsel.** Status bleibt `final`. Modus B ist Pflege auf finalen Texten.
+- **Bei `>50` Findings:** Autor warnen, dass Modus A (Plot-Lock-Refit) sinnvoller sein koennte.
+- **Bei Konflikt mit Plot-Canon:** Autor entscheidet. Plot-Aenderungen NIE still.
+- **Subagent-Findings sind Vorschlaege, keine Pflicht.** Autor hat letztes Wort.
+- **Nicht-aktiv, falls Kapitel in `entwurf-ok` oder `ausarbeitung`:** dort gilt `/ausarbeitung`-Pipeline.
+
+---
 
 ## Sonderfall: K01 (Buch-Oeffnung)
 
